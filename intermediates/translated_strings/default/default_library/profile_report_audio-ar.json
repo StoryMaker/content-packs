@@ -1,0 +1,19 @@
+{
+    "profile_report_audio::clip_card_1::goals[0]": "استعمال صوتك أو أطلب من الشخصية تقديم نفسه.",
+    "profile_report_audio::clip_card_12::goals[0]": "نسأل: رجاءا، هل يمكنك إخبارنا عن مستقبلك؟",
+    "profile_report_audio::clip_card_4::goals[0]": "سجل صوتا للشخصية وهو ينهي الحركة.",
+    "profile_report_audio::clip_card_11::goals[0]": "سجل صوت شيء مهم لشخصيتك.",
+    "profile_report_audio::clip_card_10::goals[0]": "تسجيل أصوات لما تفعله شخصيتك للتسلية.",
+    "profile_report_audio::clip_card_0::goals[0]": "تسجيل أصوات لمكان مهم لشخصيتك.",
+    "profile_report_audio::clip_card_9::goals[0]": "سجل أصواتا لكيفية تجاوب الناس مع الشخصية.",
+    "profile_report_audio::clip_card_13::goals[0]": "أخبرنا ما ماذا تعتقد انه سيحصل لاحقا للشخصية.",
+    "profile_report_audio::clip_card_7::goals[0]": "تسجيل أصوات  الشيء الأكثر أهمية حول قصة شخصيتك.",
+    "profile_report_audio::clip_card_8::goals[0]": "سجل صوتا للشخصية وهو يتفاعل  مع الناس.",
+    "profile_report_audio::clip_card_14::goals[0]": "تسجيل أصواتا للمكان الذي تنهي فيه الشخصية القصة.",
+    "profile_report_audio::clip_card_3::goals[0]": "سجل أصواتا لشيء معبرا  تقوم به الشخصية.",
+    "profile_report_audio::clip_card_6::goals[0]": "نسأل: رجاءا، هل يمكنك أن تخبرنا قليلا عمّا تفعله؟",
+    "profile_report_audio::evaluation_card_0::text": "--------",
+    "profile_report_audio::clip_card_2::goals[0]": "تسجيل صوت شيء ما عن الشخصية وجدته بارزا.",
+    "profile_report_audio::clip_card_15::goals[0]": "تسجيل صوت لشخصيتك في نهاية القصة.",
+    "profile_report_audio::clip_card_5::goals[0]": "أخبرنا لِما هذه الشخصية مثيرة للإهتمام."
+}

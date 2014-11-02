@@ -1,0 +1,22 @@
+{
+    "event_report_audio::clip_card_2::goals[0]": "تسجيل لصوت شيء يقدم الحدث.",
+    "event_report_audio::clip_card_18::goals[0]": "تسجيل أصوات لنهاية الحدث.",
+    "event_report_audio::clip_card_10::goals[0]": "نسأل: لماذا يعتبر هذا الحدث مهم؟",
+    "event_report_audio::clip_card_7::goals[0]": "تسجيل أصوات لمكان مهم للحدث.",
+    "event_report_audio::clip_card_9::goals[0]": "أخبرنا بعض الحقائق المهمة  عن تاريخ هذا الحدث أو لماذا يحدث.",
+    "event_report_audio::clip_card_3::goals[0]": "نسأل شخص مشارك في الحدث: مالذي يحصل في الحدث؟",
+    "event_report_audio::clip_card_11::goals[0]": "سجل صوتا لشيء آخر مهم للحدث.",
+    "event_report_audio::clip_card_13::goals[0]": "أخبرنا كيف يتغير الحدث كلما يتقدم.",
+    "event_report_audio::clip_card_17::goals[0]": "أخبرنا مالذي يتوقع حدوثه للحدث عند حصوله في المرة القادمة.",
+    "event_report_audio::clip_card_16::goals[0]": "سجل أصواتا لنتيجة تفاعلات الناس في الحدث.",
+    "event_report_audio::evaluation_card_0::text": "--------",
+    "event_report_audio::clip_card_4::goals[0]": "تسجيل أصوات لما يجري أثناء الحدث.",
+    "event_report_audio::clip_card_12::goals[0]": "تسجيل أصوات كيفية انتهاء الحدث.",
+    "event_report_audio::clip_card_15::goals[0]": "إسأل شخص ما التحق بالحدث للحديث عمّا قاموا به.",
+    "event_report_audio::clip_card_0::goals[0]": "سجل مكان وقوع الحدث.",
+    "event_report_audio::clip_card_5::goals[0]": "سجل شيئا مهما حول الحدث.",
+    "event_report_audio::clip_card_14::goals[0]": "سجل صوتا لشيء آخر يقع في الحدث.",
+    "event_report_audio::clip_card_6::goals[0]": "إسال خبيرا للحديث عن الحدث.",
+    "event_report_audio::clip_card_1::goals[0]": "سجل أصوات التحضيرات للحدث.",
+    "event_report_audio::clip_card_8::goals[0]": "سجل صوت أناس يتفاعلون مع الحدث."
+}

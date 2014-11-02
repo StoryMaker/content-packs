@@ -1,0 +1,20 @@
+{
+    "event_report_video::clip_card_3::goals[0]": "Pida a una persona que presente el evento.",
+    "event_report_video::clip_card_13::goals[0]": "Pida a alguien que asiste al evento que hable acerca de lo que hicieron.",
+    "event_report_video::clip_card_6::goals[0]": "Pregunte a alguien que sea parte del evento: ¿Por qué es interesante este evento?",
+    "event_report_video::clip_card_8::goals[0]": "Pida a un experto que hable sobre el evento.",
+    "event_report_video::clip_card_15::goals[0]": "Si es en una ubicación distinta, muestre donde finaliza el evento.",
+    "event_report_video::clip_card_2::goals[0]": "Muestre algo notable acerca del evento.",
+    "event_report_video::clip_card_10::goals[0]": "Muestre personas interactuando en el evento.",
+    "event_report_video::clip_card_14::goals[0]": "Muestre algo de lo que el personaje cuenta acerca del evento.",
+    "event_report_video::clip_card_5::goals[0]": "Muestre algo importante para el evento.",
+    "event_report_video::clip_card_11::goals[0]": "Pregunta: ¿Qué ocurre en el evento?",
+    "event_report_video::clip_card_16::goals[0]": "Muestre el final del evento.",
+    "event_report_video::clip_card_1::goals[0]": "Muestre la preparación para el evento.",
+    "event_report_video::clip_card_4::goals[0]": "Muestre qué ocurre en el evento.",
+    "event_report_video::evaluation_card_0::text": "--------",
+    "event_report_video::clip_card_12::goals[0]": "Muestre el resultado de la gente interactuando en el evento.",
+    "event_report_video::clip_card_7::goals[0]": "Muestre un lugar importante para el evento.",
+    "event_report_video::clip_card_0::goals[0]": "Muestre donde acontece el evento.",
+    "event_report_video::clip_card_9::goals[0]": "Muestre algo que suceda en el evento."
+}
