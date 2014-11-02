@@ -1,0 +1,73 @@
+{
+    "cards": [
+        {
+            "body": "Being an effective journalist involves using a variety of communication methods. Standard communication methods leave a trail that can be used by those who threaten you or your sources. In the process of producing a story, you may leave a digital trail that assists those who threaten you or your sources.  \nUnderstanding your communications trail is the first step to ensure that those who threaten you cannot take advantage of you or your sources.  \n&bull; item 1  \n&bull; second item  \n&bull; item the third  \n", 
+            "text": "Being an effective journalist involves using a variety of communication methods. Standard communication methods leave a trail that can be used by those who threaten you or your sources. In the process of producing a story, you may leave a digital trail that assists those who threaten you or your sources.  \nUnderstanding your communications trail is the first step to ensure that those who threaten you cannot take advantage of you or your sources.  \n&bull; item 1  \n&bull; second item  \n&bull; item the third  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "title": "A Preview Card", 
+            "media": [
+                {
+                    "media": "path/file.format", 
+                    "media_caption": "(c) John Smock 2012"
+                }, 
+                {
+                    "media": "file2.format", 
+                    "media_caption": "(c) Josh Steiner 2099"
+                }
+            ], 
+            "header": "A Preview Card", 
+            "clipMedium": "video", 
+            "exampleMediaPath": "path/file.format", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "This is the text of the card.  Woohoo.", 
+            "type": "TextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "type": "QuizCard", 
+            "id": "quiz_card_1", 
+            "questions": [
+                {
+                    "question": {
+                        "text": "the text of the question", 
+                        "title": "First question", 
+                        "answers": [
+                            "first answer", 
+                            "second answer", 
+                            "third answer"
+                        ], 
+                        "correct_answer": [
+                            1, 
+                            3
+                        ]
+                    }
+                }, 
+                {
+                    "question": {
+                        "text": "the text of the second question", 
+                        "title": "2nd Question", 
+                        "answers": [
+                            "first answer", 
+                            "second answer", 
+                            "third answer"
+                        ], 
+                        "correct_answer": [
+                            1, 
+                            3
+                        ]
+                    }
+                }
+            ]
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "genpath_1", 
+    "title": "Generated Path 1"
+}

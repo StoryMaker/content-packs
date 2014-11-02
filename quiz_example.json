@@ -1,0 +1,37 @@
+{
+    "cards": [
+        {
+            "title": null, 
+            "correct_required": 0, 
+            "question": "This is the question text!", 
+            "choices": [
+                {
+                    "text": "An Event", 
+                    "id": "event", 
+                    "filters_or": null
+                }, 
+                {
+                    "text": "A Person or People", 
+                    "id": "profile", 
+                    "filters_or": null
+                }, 
+                {
+                    "text": "An Issue", 
+                    "id": "issue", 
+                    "filters_or": null
+                }
+            ], 
+            "filter": null, 
+            "caption": null, 
+            "correct_answers": [
+                "event", 
+                "profile"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "quiz_test", 
+    "title": "Quiz Example"
+}
