@@ -77,7 +77,7 @@
             type: ClipCard
             medium: audio
             goals: 
-                - Record sound people interacting at the event.
+                - Record sound of people interacting at the event.
             clipType: Action
             length: 0:15
 
