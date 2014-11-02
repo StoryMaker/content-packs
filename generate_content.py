@@ -195,9 +195,9 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
     strings_outfile.close()
 
     
-yaml_dir = os.getcwd() + "/default_library/yaml"
-json_dir = os.getcwd() + "/default_library/json"
-strings_dir = os.getcwd() + "/default_library/strings"
+yaml_dir = os.getcwd() + "/yaml/default/default_library"
+json_dir = os.getcwd() + "/assets/default/default_library"
+strings_dir = os.getcwd() + "/intermediates/strings/default/default_library"
 
 '''
 fileName, fileExtension = os.path.splitext(name)
