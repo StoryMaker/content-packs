@@ -56,6 +56,8 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
     objs = yaml.load(stream)
     cards = []
     strings = {}
+    global cardcounts
+    cardcounts = {}
     for card in objs['cards']:
         #newcard = {}
         newcard = card
@@ -196,19 +198,42 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
     strings_outfile.write(strings_json)
     strings_outfile.close()
 
-    
+
+
+def do_dir():
+    for f in os.listdir(yaml_dir):
+        #print name
+        cardcounts = {}
+        fileName, fileExtension = os.path.splitext(f)
+        if fileExtension == ".yaml":
+            print "parsing %s" % f
+            in_file = yaml_dir + "/" + f
+            json_out_file = "%s/%s.json" % (json_dir, fileName)
+            strings_out_file = "%s/%s.json" % (strings_dir, fileName)
+            parse_file(in_file, json_out_file, strings_out_file)
+
+# FIXME global vars are the best!!
+print "generating content for default library"
+cardcounts = {}
 yaml_dir = os.getcwd() + "/yaml/default/default_library"
 json_dir = os.getcwd() + "/assets/default/default_library"
 strings_dir = os.getcwd() + "/intermediates/strings/default/default_library"
+do_dir()
 
-for f in os.listdir(yaml_dir):
-    #print name
-    cardcounts = {}
-    fileName, fileExtension = os.path.splitext(f)
-    if fileExtension == ".yaml":
-        print "parsing %s" % f
-        in_file = yaml_dir + "/" + f
-        json_out_file = "%s/%s.json" % (json_dir, fileName)
-        strings_out_file = "%s/%s.json" % (strings_dir, fileName)
-        parse_file(in_file, json_out_file, strings_out_file)
-
+# print "generating content for learning guide 1"
+# yaml_dir = os.getcwd() + "/yaml/default/learning_guide_1"
+# json_dir = os.getcwd() + "/assets/default/learning_guide_1"
+# strings_dir = os.getcwd() + "/intermediates/strings/default/learning_guide_1"
+# do_dir()
+#
+# print "generating content for learning guide 2"
+# yaml_dir = os.getcwd() + "/yaml/default/learning_guide_2"
+# json_dir = os.getcwd() + "/assets/default/learning_guide_2"
+# strings_dir = os.getcwd() + "/intermediates/strings/default/learning_guide_2"
+# do_dir()
+#
+# print "generating content for learning guide 3"
+# yaml_dir = os.getcwd() + "/yaml/default/learning_guide_3"
+# json_dir = os.getcwd() + "/assets/default/learning_guide_3"
+# strings_dir = os.getcwd() + "/intermediates/strings/default/learning_guide_3"
+# do_dir()
