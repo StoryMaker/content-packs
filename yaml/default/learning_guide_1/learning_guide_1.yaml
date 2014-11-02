@@ -1,0 +1,194 @@
+    ---
+    id: lg_001
+    title: Learn the Basic Elements of a Story
+    cards:
+
+        - 
+            type: PosterCard
+            header: Learn the Basic Elements of a Story
+            level: Basic 1
+            time: 
+
+        - 
+            card: MarkDownCard
+            body: |  
+              ## The most simple story has three elements:
+              
+              &bull; Character
+              &bull; Action done by the character
+              &bull; Result of the action
+              
+              You can combine these elements to tell a simple story. A story needs a main character who must take an action, and at the end audience wants to see the result of that action. 
+
+        - 
+            card: MarkDownCard
+            body: |  
+              ## Find a character for your story
+              Choose someone with a story to tell.
+
+        - 
+            card: PreviewCard
+            title: Video Preview Card
+            text: In this example, Marvin tells us why he started playing soccer.
+
+        - 
+            card: PreviewCard
+            title: Audio Preview Card
+            text: In this example, Marvin tells us why he started playing soccer.
+
+        - 
+            card: PreviewCard
+            title: Photo Preview Card
+            text: In this example, we see Marvin playing soccer.
+            
+        -
+            card: ChooseMediumCard
+            header: Select your Medium
+
+        - 
+            card: BasicTextCard
+            text: "Notice the three clips used in the example. Marvin, the character, is the heart of the story. The action and result tell us what happens to Marvin."
+
+        - 
+            card: MilestoneCard
+            header: Next
+            text: Start creating
+            icon: down
+
+        - 
+            card: HowToCard
+            text: "Next up is a clip card. Use it to add clips of your character."
+
+        - 
+            card: ClipCard
+            medium: video
+            exampleMediaPath: 
+            goals: 
+                - Ask your character to tell a story.
+            type: Character
+            length: 0:40
+
+        - 
+            card: ClipCard
+            medium: audio
+            exampleMediaPath: 
+            goals: 
+                - Ask your character to tell a story.
+            type: Character
+            length: 0:40
+
+        - 
+            card: ClipCard
+            medium: photo
+            exampleMediaPath: 
+            goals: 
+                - Introduce the character of your story.
+            type: Character
+            length: 0:00
+
+        - 
+            card: BasicTextCard
+            text: "Good. Now let's add clips to support the character's story. With the next two clip cards, add an action and result."
+
+        - 
+            card: ClipCard
+            medium: video
+            exampleMediaPath: 
+            goals: 
+                - Show your character doing an action related to the story.
+            type: Action
+            length: 0:08
+
+        - 
+            card: ClipCard
+            medium: audio
+            exampleMediaPath: 
+            goals: 
+                - Record your character doing an action related to the story.
+            type: Action
+            length: 0:12
+
+        - 
+            card: ClipCard
+            medium: photo
+            exampleMediaPath: 
+            goals: 
+                - Capture your character doing an action related to the story.
+            type: Action
+            length: 0:00
+
+
+        - 
+            card: ClipCard
+            medium: video
+            exampleMediaPath: 
+            goals: 
+                - Show the result of your character's action.
+            type: Result
+            length: 0:10
+
+        - 
+            card: ClipCard
+            medium: audio
+            exampleMediaPath: 
+            goals: 
+                - Record the result of your character's action.
+            type: Action
+            length: 0:15
+
+        - 
+            card: ClipCard
+            medium: photo
+            exampleMediaPath: 
+            goals: 
+                - Show the result of your character's action.
+            type: Action
+            length: 0:00
+
+        - 
+            card: MilestoneCard
+            header: Next
+            text: Order your clips
+            icon: down
+
+        - 
+            card: BasicTextCard
+            text: "Review your clips. Make sure the order of your clips tells a complete, simple story."
+
+        - 
+            type: ReviewCard
+            medium: video
+
+        - 
+            type: ReviewCard
+            medium: audio
+
+        - 
+            type: ReviewCard
+            medium: photo
+
+        - 
+            card: MilestoneCard
+            header: Next
+            text: Finish
+            icon: down
+
+        -
+            card: SelfEvalCard
+            header: "Do your action and result clips increase the impact of your story?"
+            checklist:
+                - Thumbs Up
+                - Thumbs Down
+
+        - 
+            card: MarkDownCard
+            body: |  
+              ## Great Job!
+              StoryMaker has plenty of lessons to help you learn more about topics related to this path. 
+
+        - 
+            card: MilestoneCard
+            header: Next
+            text: Add More Detail to Your Story
+            icon: Right
+            path: lg_002.json
