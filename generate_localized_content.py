@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import sys
 import os
 import yaml
@@ -49,8 +51,39 @@ def parse_file(original_json_file_path, translated_strings_file_name, out_file_p
                         print "at %s, replacing '%s' with '%s'" % (k, card[key][array_index], v)
                         card[key][array_index] = v
                         # index into an array (or dict?)
+                elif len(splits) == 4:
+                    key_splits = prop_key.split('[')
+                    if len(key_splits) == 1:
+                        key = key_splits[0]
+                        # of form  "event_discussion_audio_question1::evaluation_card_0::text"
+                        print "at %s, replacing '%s' with '%s'" % (k, card[key], v)
+                        card[key] = v
+                    elif len(key_splits) == 2:
+                        # of form "default_library::tip_collection::tips[0]::text"
+                        key = key_splits[0]
+                        array_index = int(key_splits[1].split(']')[0]) # FIXME skip this step by initially splitting on [ | ] in a regex
+                        real_prop_key = splits[3]
+                        print "at %s, replacing '%s' with '%s'" % (k, card[key][array_index][real_prop_key], v)
+                        card[key][array_index][real_prop_key] = v
+                        # index into an array (or dict?)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 else:
-                    print "!! deeper nesting we need to handle"
+                    print "\n\n\ncard\n%s\n\n\n" % card
+                    print "!! deeper nesting we need to handle in %s:\n\n\ncard\n%s\n\n\n" % (original_json_file_path, card)
                     exit(-1)
                     pass # TODO there are some deeper nestings we need to watch out for
                 break

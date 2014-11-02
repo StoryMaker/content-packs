@@ -1,0 +1,103 @@
+{
+    "cards": [
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "series", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u064a\u0645\u0643\u0646\u0643 \u062a\u0635\u0648\u064a\u0631 \u0633\u0644\u0633\u0644\u0629 \u0645\u0646 \u0627\u0644\u0643\u0627\u0626\u0646\u0627\u062a. \u0623\u0639\u0645\u0627\u0644 \u0641\u0646\u064a\u0629 \u0623\u0648 \u0639\u0631\u0648\u0636 \u0645\u062b\u064a\u0631\u0629 \u0644\u0644\u0627\u0647\u062a\u0645\u0627\u0645 \u0645\u0646 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0627\u0644\u062c\u062f\u064a\u062f\u0629.", 
+                "\u064a\u0645\u0643\u0646\u0643 \u062a\u0635\u0648\u064a\u0631 \u0633\u0644\u0633\u0644\u0629 \u0645\u0646 \u0645\u0646\u0635\u0627\u062a \u0627\u0644\u0639\u0631\u0636 \u0645\u0648\u0627\u0642\u0641 \u0623\u0648 \u0637\u0627\u0648\u0644\u0627\u062a \u063a\u0630\u0627\u0621."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u062a\u0643\u0631\u0627\u0631 \u062a\u0631\u0643\u064a\u0628\u0629 \u0627\u0644\u0635\u0648\u0631\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0645\u0639 \u0634\u064a\u0621 \u0622\u062e\u0631."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u062a\u0643\u0631\u0627\u0631 \u062a\u0631\u0643\u064a\u0628\u0629 \u0627\u0644\u0635\u0648\u0631\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0645\u0639 \u0634\u064a\u0621 \u0622\u062e\u0631."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "series", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u062a\u0643\u0631\u0627\u0631 \u062a\u0631\u0643\u064a\u0628\u0629 \u0627\u0644\u0635\u0648\u0631\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0645\u0639 \u0634\u064a\u0621 \u0622\u062e\u0631."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u062a\u0643\u0631\u0627\u0631 \u062a\u0631\u0643\u064a\u0628\u0629 \u0627\u0644\u0635\u0648\u0631\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0645\u0639 \u0634\u064a\u0621 \u0622\u062e\u0631."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "edit", 
+                "photo", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "--------", 
+            "type": "EvaluationCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "PublishCard", 
+            "id": "publish_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "NextUpCard", 
+            "id": "nextup_card_0"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "event_series_photo_place", 
+    "title": "Event Series - Place"
+}

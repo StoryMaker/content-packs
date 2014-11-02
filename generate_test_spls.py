@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 json_files = [
     "event_discussion_audio_question_1.json",
     "event_discussion_audio_question_2.json",

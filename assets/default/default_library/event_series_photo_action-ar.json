@@ -1,0 +1,101 @@
+{
+    "cards": [
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "series", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u064a\u0645\u0643\u0646\u0643 \u062a\u0635\u0648\u064a\u0631 \u0634\u062e\u0635 \u064a\u0642\u0648\u0645 \u0628\u0639\u0645\u0644 \u0645\u0634\u062a\u0631\u0643 \u0641\u064a \u0627\u0644\u062d\u062f\u062b."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u062a\u0643\u0631\u0627\u0631 \u062a\u0631\u0643\u064a\u0628\u0629 \u0627\u0644\u0635\u0648\u0631\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0645\u0639 \u0634\u062e\u0635 \u0622\u062e\u0631.."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u062a\u0643\u0631\u0627\u0631 \u062a\u0631\u0643\u064a\u0628\u0629 \u0627\u0644\u0635\u0648\u0631\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0645\u0639 \u0634\u062e\u0635 \u0622\u062e\u0631.."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "series", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u062a\u0643\u0631\u0627\u0631 \u062a\u0631\u0643\u064a\u0628\u0629 \u0627\u0644\u0635\u0648\u0631\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0645\u0639 \u0634\u062e\u0635 \u0622\u062e\u0631.."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u062a\u0643\u0631\u0627\u0631 \u062a\u0631\u0643\u064a\u0628\u0629 \u0627\u0644\u0635\u0648\u0631\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0645\u0639 \u0634\u062e\u0635 \u0622\u062e\u0631.."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "series", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "--------", 
+            "type": "EvaluationCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "PublishCard", 
+            "id": "publish_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "NextUpCard", 
+            "id": "nextup_card_0"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "event_series_photo_action", 
+    "title": "Event Series - Action"
+}

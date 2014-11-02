@@ -1,0 +1,99 @@
+{
+    "cards": [
+        {
+            "text": "\u0627\u0644\u0639\u062b\u0648\u0631 \u0639\u0644\u0649 \u0627\u0644\u0646\u0645\u0637 \u0627\u0644\u0630\u064a \u064a\u0645\u0643\u0646 \u0644\u0644\u0645\u0634\u0627\u0647\u062f\u064a\u0646 \u0623\u0646 \u064a\u062a\u0639\u0631\u0641\u0648\u0627 \u0639\u0644\u064a\u0647.", 
+            "type": "TextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u062a\u0635\u0648\u064a\u0631 \u0633\u0644\u0633\u0644\u0629 \u0645\u0646 \u0627\u0644\u0623\u0634\u064a\u0627\u0621 \u0627\u0644\u062a\u064a \u062a\u0648\u0636\u062d \u0627\u0644\u0645\u0634\u0643\u0644."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u062a\u0643\u0631\u0627\u0631 \u062a\u0631\u0643\u064a\u0628\u0629 \u0627\u0644\u0635\u0648\u0631\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0645\u0639 \u0634\u062e\u0635 \u0622\u062e\u0631.."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u062a\u0643\u0631\u0627\u0631 \u062a\u0631\u0643\u064a\u0628\u0629 \u0627\u0644\u0635\u0648\u0631\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0645\u0639 \u0634\u062e\u0635 \u0622\u062e\u0631.."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "series", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u062a\u0643\u0631\u0627\u0631 \u062a\u0631\u0643\u064a\u0628\u0629 \u0627\u0644\u0635\u0648\u0631\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0645\u0639 \u0634\u062e\u0635 \u0622\u062e\u0631.."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u062a\u0643\u0631\u0627\u0631 \u062a\u0631\u0643\u064a\u0628\u0629 \u0627\u0644\u0635\u0648\u0631\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0645\u0639 \u0634\u062e\u0635 \u0622\u062e\u0631.."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "edit", 
+                "photo", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "--------", 
+            "type": "EvaluationCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "PublishCard", 
+            "id": "publish_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "NextUpCard", 
+            "id": "nextup_card_0"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "issue_series_photo_signature", 
+    "title": "Issue Series - Signature"
+}

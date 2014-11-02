@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import sys
 import os
 import yaml
@@ -78,7 +80,7 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
             card_fqid = "%s::%s" % (objs['id'], newcard['id'])
             strings["%s::header" % card_fqid] = newcard['header']
             
-        elif card['type'] == 'TextCard':
+        elif card['type'] == 'TextCard' or card['type'] == 'BasicTextCard':
             set_id("text_card", newcard)
             newcard['type'] = 'TextCard'
             newcard['text'] = card['text']
@@ -199,15 +201,6 @@ yaml_dir = os.getcwd() + "/yaml/default/default_library"
 json_dir = os.getcwd() + "/assets/default/default_library"
 strings_dir = os.getcwd() + "/intermediates/strings/default/default_library"
 
-'''
-fileName, fileExtension = os.path.splitext(name)
-
-#in_file = "default_library/yaml/event_discussion_audio_question_1.yaml"
-in_file = "default_library/yaml/default_library.yaml"
-parse_file(open(in_file, 'r'))
-
-
-'''
 for f in os.listdir(yaml_dir):
     #print name
     cardcounts = {}
@@ -218,4 +211,4 @@ for f in os.listdir(yaml_dir):
         json_out_file = "%s/%s.json" % (json_dir, fileName)
         strings_out_file = "%s/%s.json" % (strings_dir, fileName)
         parse_file(in_file, json_out_file, strings_out_file)
-#'''
+
