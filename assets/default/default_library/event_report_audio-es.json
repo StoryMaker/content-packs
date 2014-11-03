@@ -92,7 +92,7 @@
             "medium": "audio", 
             "length": "0:15", 
             "goals": [
-                "Grabe sonidos de personas interactuando en el evento."
+                "Grabe sonidos de gente interactuando en el evento."
             ], 
             "clipType": "Action", 
             "type": "ClipCard", 
@@ -102,7 +102,7 @@
             "medium": "audio", 
             "length": "0:40", 
             "goals": [
-                "Cu\u00e9ntenos algunos hechos interesantes acerca de la historia del evento o por qu\u00e9 ocurre."
+                "Cu\u00e9ntenos algunos hechos interesantes acerca de la historia del evento, o por qu\u00e9 ocurre."
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -132,7 +132,7 @@
             "medium": "audio", 
             "length": "0:10", 
             "goals": [
-                "Grabe sonidos de c\u00f3mo finaliza el evento."
+                "Grabe sonidos de como finaliza el evento."
             ], 
             "clipType": "Place", 
             "type": "ClipCard", 
@@ -142,7 +142,7 @@
             "medium": "audio", 
             "length": "0:20", 
             "goals": [
-                "Cu\u00e9ntenos como cambia el evento al ir avanzando."
+                "Cu\u00e9ntenos como cambia el evento al ir desarroll\u00e1ndose."
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 

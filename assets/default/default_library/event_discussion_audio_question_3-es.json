@@ -12,7 +12,7 @@
             "medium": "audio", 
             "length": "0:10", 
             "goals": [
-                "Grabe sonidos de donde acontece el evento.", 
+                "Grabe sonidos del lugar donde acontece el evento.", 
                 "Grabe sonidos de un lugar importante para el evento."
             ], 
             "clipType": "Place", 
@@ -23,7 +23,7 @@
             "medium": "audio", 
             "length": "0:07", 
             "goals": [
-                "Grabe sonidos que presenten su argumento."
+                "Grabe sonidos para presentar su argumento."
             ], 
             "clipType": "Signature", 
             "type": "ClipCard", 
@@ -43,7 +43,7 @@
             "medium": "audio", 
             "length": "0:30", 
             "goals": [
-                "\u00bfC\u00faal cree que es la parte m\u00e1s excitante del evento?"
+                "\u00bfCu\u00e1l cree que es la parte m\u00e1s excitante del evento?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -53,7 +53,7 @@
             "medium": "audio", 
             "length": "0:09", 
             "goals": [
-                "Grabe sonidos de donde acontece el evento.", 
+                "Grabe sonidos del lugar donde acontece el evento.", 
                 "Grabe sonidos de un lugar importante para el evento."
             ], 
             "clipType": "Action", 
@@ -64,7 +64,7 @@
             "medium": "audio", 
             "length": "0:30", 
             "goals": [
-                "\u00bfC\u00faal cree que es la parte m\u00e1s excitante del evento?"
+                "\u00bfCu\u00e1l cree que es la parte m\u00e1s excitante del evento?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -74,7 +74,7 @@
             "medium": "audio", 
             "length": "0:30", 
             "goals": [
-                "\u00bfC\u00faal cree que es la parte m\u00e1s excitante del evento?"
+                "\u00bfCu\u00e1l cree que es la parte m\u00e1s excitante del evento?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -94,7 +94,7 @@
             "medium": "audio", 
             "length": "0:30", 
             "goals": [
-                "\u00bfC\u00faal cree que es la parte m\u00e1s excitante del evento?"
+                "\u00bfCu\u00e1l cree que es la parte m\u00e1s excitante del evento?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 

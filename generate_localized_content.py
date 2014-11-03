@@ -66,21 +66,6 @@ def parse_file(original_json_file_path, translated_strings_file_name, out_file_p
                         print "at %s, replacing '%s' with '%s'" % (k, card[key][array_index][real_prop_key], v)
                         card[key][array_index][real_prop_key] = v
                         # index into an array (or dict?)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                 else:
                     print "\n\n\ncard\n%s\n\n\n" % card
                     print "!! deeper nesting we need to handle in %s:\n\n\ncard\n%s\n\n\n" % (original_json_file_path, card)

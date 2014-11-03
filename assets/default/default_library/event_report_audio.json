@@ -92,7 +92,7 @@
             "medium": "audio", 
             "length": "0:15", 
             "goals": [
-                "Record sound people interacting at the event."
+                "Record sound of people interacting at the event."
             ], 
             "clipType": "Action", 
             "type": "ClipCard", 

@@ -39,7 +39,7 @@
             "id": "clip_card_2"
         }, 
         {
-            "text": "Hable con varias personas para cada v\u00eddeo, para dotar a su historia de una gama de voces variada.", 
+            "text": "Hable con diferentes personas para cada v\u00eddeo, para dotar a su historia de una gama de voces variada.", 
             "type": "TextCard", 
             "id": "text_card_0"
         }, 
@@ -72,7 +72,7 @@
             "id": "clip_card_4"
         }, 
         {
-            "text": "Si consigue una mala respuesta, es inteligente intentarlo otra vez con un nuevo v\u00eddeo.", 
+            "text": "Si obtiene una mala respuesta, es inteligente intentarlo otra vez con un nuevo v\u00eddeo.", 
             "type": "TextCard", 
             "id": "text_card_1"
         }, 

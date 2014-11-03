@@ -32,14 +32,14 @@
             "medium": "video", 
             "length": "0:25", 
             "goals": [
-                "\u00bfC\u00faal es su opini\u00f3n sobre el asunto?"
+                "\u00bfCu\u00e1l es su opini\u00f3n sobre el asunto?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
             "id": "clip_card_2"
         }, 
         {
-            "text": "Hable con varias personas para cada v\u00eddeo, para dotar a su historia de una gama de voces distintas.", 
+            "text": "Hable con diferentes personas para cada v\u00eddeo, para dotar a su historia de una gama de voces variada.", 
             "type": "TextCard", 
             "id": "text_card_0"
         }, 
@@ -47,7 +47,7 @@
             "medium": "video", 
             "length": "0:25", 
             "goals": [
-                "\u00bfC\u00faal es su opini\u00f3n sobre el asunto?"
+                "\u00bfCu\u00e1l es su opini\u00f3n sobre el asunto?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -65,14 +65,14 @@
             "medium": "video", 
             "length": "0:25", 
             "goals": [
-                "\u00bfC\u00faal es su opini\u00f3n sobre el asunto?"
+                "\u00bfCu\u00e1l es su opini\u00f3n sobre el asunto?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
             "id": "clip_card_4"
         }, 
         {
-            "text": "Si consigue una mala respuesta, es inteligente intentarlo otra vez con un nuevo v\u00eddeo.", 
+            "text": "Si obtiene una mala respuesta, es inteligente intentarlo otra vez con un nuevo v\u00eddeo.", 
             "type": "TextCard", 
             "id": "text_card_1"
         }, 
@@ -80,7 +80,7 @@
             "medium": "video", 
             "length": "0:25", 
             "goals": [
-                "\u00bfC\u00faal es su opini\u00f3n sobre el asunto?"
+                "\u00bfCu\u00e1l es su opini\u00f3n sobre el asunto?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -100,7 +100,7 @@
             "medium": "video", 
             "length": "0:25", 
             "goals": [
-                "\u00bfC\u00faal es su opini\u00f3n sobre el asunto?"
+                "\u00bfCu\u00e1l es su opini\u00f3n sobre el asunto?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 

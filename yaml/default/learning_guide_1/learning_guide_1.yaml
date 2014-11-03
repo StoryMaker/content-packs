@@ -1,17 +1,17 @@
-    ---
+---
     id: lg_001
     title: Learn the Basic Elements of a Story 
     cards:
 
         - 
-            type: PosterCard
+            type: IntroCard
             multimedia: lg_001_01.png
-            header: The Elements of a Story
+            headline: The Elements of a Story
             level: Basic 1
             time: 
 
         - 
-            card: MarkDownCard
+            type: MarkDownCard
             body: |  
               ## The most simple story has three elements:
               
@@ -22,13 +22,13 @@
               You can combine these elements to tell a simple story. A story needs a main character who must take an action, and at the end audience wants to see the result of that action. 
 
         - 
-            card: MarkDownCard
+            type: MarkDownCard
             body: |  
               ## Find a character for your story
               Choose someone with a story to tell.
 
         - 
-            card: PreviewCard
+            type: PreviewCard
             title: Video Preview Card
             media: 
                 - 
@@ -38,7 +38,7 @@
             text: In this example, Marvin tells us why he started playing soccer.
 
         - 
-            card: PreviewCard
+            type: PreviewCard
             title: Audio Preview Card
             media: 
                 - 
@@ -48,7 +48,7 @@
             text: In this example, Marvin tells us why he started playing soccer.
 
         - 
-            card: PreviewCard
+            type: PreviewCard
             title: Photo Preview Card
             media: 
                 - 
@@ -64,25 +64,25 @@
             text: In this example, we see Marvin playing soccer.
             
         -
-            card: ChooseMediumCard
+            type: ChooseMediumCard
             header: Select your Medium
 
         - 
-            card: BasicTextCard
+            type: BasicTextCard
             text: "Notice the three clips used in the example. Marvin, the character, is the heart of the story. The action and result tell us what happens to Marvin."
 
         - 
-            card: MilestoneCard
+            type: MilestoneCard
             header: Next
             text: Start creating
             icon: down
 
         - 
-            card: HowToCard
+            type: HowToCard
             text: "Next up is a clip card. Use it to add clips of your character."
 
         - 
-            card: ClipCard
+            type: ClipCard
             medium: video
             exampleMediaPath: 
             goals: 
@@ -91,7 +91,7 @@
             length: 0:40
 
         - 
-            card: ClipCard
+            type: ClipCard
             medium: audio
             exampleMediaPath: 
             goals: 
@@ -100,7 +100,7 @@
             length: 0:40
 
         - 
-            card: ClipCard
+            type: ClipCard
             medium: photo
             exampleMediaPath: 
             goals: 
@@ -109,11 +109,11 @@
             length: 0:00
 
         - 
-            card: BasicTextCard
+            type: BasicTextCard
             text: "Good. Now let's add clips to support the character's story. With the next two clip cards, add an action and result."
 
         - 
-            card: ClipCard
+            type: ClipCard
             medium: video
             exampleMediaPath: 
             goals: 
@@ -122,7 +122,7 @@
             length: 0:08
 
         - 
-            card: ClipCard
+            type: ClipCard
             medium: audio
             exampleMediaPath: 
             goals: 
@@ -131,7 +131,7 @@
             length: 0:12
 
         - 
-            card: ClipCard
+            type: ClipCard
             medium: photo
             exampleMediaPath: 
             goals: 
@@ -141,7 +141,7 @@
 
 
         - 
-            card: ClipCard
+            type: ClipCard
             medium: video
             exampleMediaPath: 
             goals: 
@@ -150,7 +150,7 @@
             length: 0:10
 
         - 
-            card: ClipCard
+            type: ClipCard
             medium: audio
             exampleMediaPath: 
             goals: 
@@ -159,7 +159,7 @@
             length: 0:15
 
         - 
-            card: ClipCard
+            type: ClipCard
             medium: photo
             exampleMediaPath: 
             goals: 
@@ -168,13 +168,13 @@
             length: 0:00
 
         - 
-            card: MilestoneCard
+            type: MilestoneCard
             header: Next
             text: Order your clips
             icon: down
 
         - 
-            card: BasicTextCard
+            type: BasicTextCard
             text: "Review your clips. Make sure the order of your clips tells a complete, simple story."
 
         - 
@@ -190,26 +190,26 @@
             medium: photo
 
         - 
-            card: MilestoneCard
+            type: MilestoneCard
             header: Next
             text: Finish
             icon: down
 
         -
-            card: SelfEvalCard
+            type: SelfEvalCard
             header: "Do your action and result clips increase the impact of your story?"
             checklist:
                 - Thumbs Up
                 - Thumbs Down
 
         - 
-            card: MarkDownCard
+            type: MarkDownCard
             body: |  
               ## Great Job!
               StoryMaker has plenty of lessons to help you learn more about topics related to this path. 
 
         - 
-            card: MilestoneCard
+            type: MilestoneCard
             header: Next
             text: Add More Detail to Your Story
             icon: Right

@@ -1,0 +1,248 @@
+{
+    "cards": [
+        {
+            "level": "Basic 1", 
+            "headline": "The Elements of a Story", 
+            "multimedia": "lg_001_01.png", 
+            "time": null, 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "body": "## The most simple story has three elements:\n\n&bull; Character\n&bull; Action done by the character\n&bull; Result of the action\n\nYou can combine these elements to tell a simple story. A story needs a main character who must take an action, and at the end audience wants to see the result of that action. \n", 
+            "text": "## The most simple story has three elements:\n\n&bull; Character\n&bull; Action done by the character\n&bull; Result of the action\n\nYou can combine these elements to tell a simple story. A story needs a main character who must take an action, and at the end audience wants to see the result of that action. \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "body": "## Find a character for your story\nChoose someone with a story to tell.\n", 
+            "text": "## Find a character for your story\nChoose someone with a story to tell.\n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "title": "Video Preview Card", 
+            "media": [
+                {
+                    "media": "lg_001_02.mp4", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "exampleMediaPath": "lg_001_02.mp4", 
+            "header": "Video Preview Card", 
+            "text": "In this example, Marvin tells us why he started playing soccer.", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "title": "Audio Preview Card", 
+            "media": [
+                {
+                    "media": "lg_001_03.mp3", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "exampleMediaPath": "lg_001_03.mp3", 
+            "header": "Audio Preview Card", 
+            "text": "In this example, Marvin tells us why he started playing soccer.", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "title": "Photo Preview Card", 
+            "media": [
+                {
+                    "media": "lg_001_04.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "lg_001_05.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "lg_001_06.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "exampleMediaPath": "lg_001_04.jpg", 
+            "header": "Photo Preview Card", 
+            "text": "In this example, we see Marvin playing soccer.", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "header": "Select your Medium", 
+            "type": "ChooseMediumCard"
+        }, 
+        {
+            "text": "Notice the three clips used in the example. Marvin, the character, is the heart of the story. The action and result tell us what happens to Marvin.", 
+            "type": "TextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "header": "Next", 
+            "text": "Start creating", 
+            "type": "EvaluationCard", 
+            "id": "milestone_card_0", 
+            "icon": "down"
+        }, 
+        {
+            "text": "Next up is a clip card. Use it to add clips of your character.", 
+            "type": "HowToCard", 
+            "id": "howto_card_0"
+        }, 
+        {
+            "length": "0:40", 
+            "medium": "video", 
+            "type": "Character", 
+            "goals": [
+                "Ask your character to tell a story."
+            ], 
+            "exampleMediaPath": null
+        }, 
+        {
+            "length": "0:40", 
+            "medium": "audio", 
+            "type": "Character", 
+            "goals": [
+                "Ask your character to tell a story."
+            ], 
+            "exampleMediaPath": null
+        }, 
+        {
+            "length": "0:00", 
+            "medium": "photo", 
+            "type": "Character", 
+            "goals": [
+                "Introduce the character of your story."
+            ], 
+            "exampleMediaPath": null
+        }, 
+        {
+            "text": "Good. Now let's add clips to support the character's story. With the next two clip cards, add an action and result.", 
+            "type": "TextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "length": "0:08", 
+            "medium": "video", 
+            "type": "Action", 
+            "goals": [
+                "Show your character doing an action related to the story."
+            ], 
+            "exampleMediaPath": null
+        }, 
+        {
+            "length": "0:12", 
+            "medium": "audio", 
+            "type": "Action", 
+            "goals": [
+                "Record your character doing an action related to the story."
+            ], 
+            "exampleMediaPath": null
+        }, 
+        {
+            "length": "0:00", 
+            "medium": "photo", 
+            "type": "Action", 
+            "goals": [
+                "Capture your character doing an action related to the story."
+            ], 
+            "exampleMediaPath": null
+        }, 
+        {
+            "length": "0:10", 
+            "medium": "video", 
+            "type": "Result", 
+            "goals": [
+                "Show the result of your character's action."
+            ], 
+            "exampleMediaPath": null
+        }, 
+        {
+            "length": "0:15", 
+            "medium": "audio", 
+            "type": "Action", 
+            "goals": [
+                "Record the result of your character's action."
+            ], 
+            "exampleMediaPath": null
+        }, 
+        {
+            "length": "0:00", 
+            "medium": "photo", 
+            "type": "Action", 
+            "goals": [
+                "Show the result of your character's action."
+            ], 
+            "exampleMediaPath": null
+        }, 
+        {
+            "header": "Next", 
+            "text": "Order your clips", 
+            "type": "EvaluationCard", 
+            "id": "milestone_card_1", 
+            "icon": "down"
+        }, 
+        {
+            "text": "Review your clips. Make sure the order of your clips tells a complete, simple story.", 
+            "type": "TextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_2"
+        }, 
+        {
+            "header": "Next", 
+            "text": "Finish", 
+            "type": "EvaluationCard", 
+            "id": "milestone_card_2", 
+            "icon": "down"
+        }, 
+        {
+            "header": "Do your action and result clips increase the impact of your story?", 
+            "text": "Do your action and result clips increase the impact of your story?", 
+            "type": "BasicTextCard", 
+            "id": "selfeval_card_0", 
+            "checklist": [
+                "Thumbs Up", 
+                "Thumbs Down"
+            ]
+        }, 
+        {
+            "body": "## Great Job!\nStoryMaker has plenty of lessons to help you learn more about topics related to this path. \n", 
+            "text": "## Great Job!\nStoryMaker has plenty of lessons to help you learn more about topics related to this path. \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Add More Detail to Your Story", 
+            "header": "Next", 
+            "path": "lg_002.json", 
+            "type": "EvaluationCard", 
+            "id": "milestone_card_3", 
+            "icon": "Right"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "lg_001", 
+    "title": "Learn the Basic Elements of a Story"
+}

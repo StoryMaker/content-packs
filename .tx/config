@@ -1,6 +1,26 @@
 [main]
 host = https://www.transifex.com
 
+
+
+[storymaker.learning_guide_1]
+file_filter = intermediates/translated_strings/default/learning_guide_1/learning_guide_1-<lang>.json
+source_file = intermediates/strings/default/learning_guide_1/learning_guide_1.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.learning_guide_2]
+file_filter = intermediates/translated_strings/default/learning_guide_2/learning_guide_2-<lang>.json
+source_file = intermediates/strings/default/learning_guide_2/learning_guide_2.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.learning_guide_3]
+file_filter = intermediates/translated_strings/default/learning_guide_3/learning_guide_3-<lang>.json
+source_file = intermediates/strings/default/learning_guide_3/learning_guide_3.json
+source_lang = en
+type = KEYVALUEJSON
+
 [storymaker.default_library]
 file_filter = intermediates/translated_strings/default/default_library/default_library-<lang>.json
 source_file = intermediates/strings/default/default_library/default_library.json

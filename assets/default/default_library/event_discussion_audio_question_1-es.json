@@ -12,7 +12,7 @@
             "medium": "audio", 
             "length": "0:10", 
             "goals": [
-                "Grabe sonidos de donde acontece el evento.", 
+                "Grabe sonidos del lugar donde acontece el evento.", 
                 "Grabe sonidos de un lugar importante para el evento."
             ], 
             "clipType": "Place", 
@@ -83,7 +83,7 @@
             "medium": "audio", 
             "length": "0:09", 
             "goals": [
-                "Grabe sonidos de c\u00f3mo finaliza el evento."
+                "Grabe sonidos de como finaliza el evento."
             ], 
             "clipType": "Place", 
             "type": "ClipCard", 

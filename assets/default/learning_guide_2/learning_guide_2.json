@@ -1,0 +1,218 @@
+{
+    "cards": [
+        {
+            "level": "Basic 2", 
+            "headline": "Add More Detail to Your Story", 
+            "multimedia": "lg_002_01.png", 
+            "time": null, 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "body": "## Creating a detailed, complete story often requires more than three clips. In addition to using multiple character, action and result clips, many stories include two more elements:\n\n&bull; Place\n\nIf your character will be in many places, use place clips to show the change.\n\n&bull; Signature\n\nYou may want to show a specific, signature element of your character or story. Signature clips are meant to emphasize a key point of your story.\n", 
+            "text": "## Creating a detailed, complete story often requires more than three clips. In addition to using multiple character, action and result clips, many stories include two more elements:\n\n&bull; Place\n\nIf your character will be in many places, use place clips to show the change.\n\n&bull; Signature\n\nYou may want to show a specific, signature element of your character or story. Signature clips are meant to emphasize a key point of your story.\n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "title": "Video Preview Card", 
+            "media": [
+                {
+                    "media": "lg_002_02.mp4", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "exampleMediaPath": "lg_002_02.mp4", 
+            "header": "Video Preview Card", 
+            "text": "Watch how combining five clips tells a more detailed story about Marvin, the main character.", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "title": "Audio Preview Card", 
+            "media": [
+                {
+                    "media": "lg_002_03.mp3", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "exampleMediaPath": "lg_002_03.mp3", 
+            "header": "Audio Preview Card", 
+            "text": "Listen how combining five clips tells a more detailed story about Marvin, the main character.", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "title": "Photo Preview Card", 
+            "media": [
+                {
+                    "media": "lg_002_04.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "lg_002_05.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "lg_002_06.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "lg_002_07.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "lg_002_08.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "exampleMediaPath": "lg_002_04.jpg", 
+            "header": "Photo Preview Card", 
+            "text": "See how combining five clips tells a more detailed story about Marvin, the main character.", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "header": "Select your Medium", 
+            "type": "ChooseMediumCard"
+        }, 
+        {
+            "header": "Next", 
+            "text": "Add to my story", 
+            "type": "EvaluationCard", 
+            "id": "milestone_card_0", 
+            "icon": "down"
+        }, 
+        {
+            "text": "Build on the story you created in the first lesson, Basics 1. Capture the two clips below. Then we'll review the full story.", 
+            "type": "TextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "length": "0:10", 
+            "medium": "video", 
+            "type": "Signature", 
+            "goals": [
+                "Show something important about your character."
+            ], 
+            "exampleMediaPath": null
+        }, 
+        {
+            "length": "0:12", 
+            "medium": "audio", 
+            "type": "Signature", 
+            "goals": [
+                "Record something important about your character."
+            ], 
+            "exampleMediaPath": null
+        }, 
+        {
+            "length": "0:00", 
+            "medium": "photo", 
+            "type": "Signature", 
+            "goals": [
+                "Show something important about your character."
+            ], 
+            "exampleMediaPath": null
+        }, 
+        {
+            "text": "Good. Now let's add clips to support the Character's story. With the next two clip cards, add an action and result.", 
+            "type": "TextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "length": "0:08", 
+            "medium": "video", 
+            "type": "Place", 
+            "goals": [
+                "Show us where your story happens."
+            ], 
+            "exampleMediaPath": null
+        }, 
+        {
+            "length": "0:10", 
+            "medium": "audio", 
+            "type": "Place", 
+            "goals": [
+                "Record the enviroment where your story happens."
+            ], 
+            "exampleMediaPath": null
+        }, 
+        {
+            "length": "0:00", 
+            "medium": "photo", 
+            "type": "Place", 
+            "goals": [
+                "Show us where your story happens."
+            ], 
+            "exampleMediaPath": null
+        }, 
+        {
+            "header": "Next", 
+            "text": "Order your clips", 
+            "type": "EvaluationCard", 
+            "id": "milestone_card_1", 
+            "icon": "down"
+        }, 
+        {
+            "text": "Order your clips to tell your story with these additional details.", 
+            "type": "TextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_2"
+        }, 
+        {
+            "header": "Next", 
+            "text": "Finish", 
+            "type": "EvaluationCard", 
+            "id": "milestone_card_2", 
+            "icon": "down"
+        }, 
+        {
+            "header": "Does the order of your new clips tell a more detailed story?", 
+            "text": "Does the order of your new clips tell a more detailed story?", 
+            "type": "BasicTextCard", 
+            "id": "selfeval_card_0", 
+            "checklist": [
+                "Thumbs Up", 
+                "Thumbs Down"
+            ]
+        }, 
+        {
+            "body": "## Great Job!\nStoryMaker has plenty of lessons to help you learn more about topics related to this path. \n", 
+            "text": "## Great Job!\nStoryMaker has plenty of lessons to help you learn more about topics related to this path. \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Tell Stories with a Central Question", 
+            "header": "Next", 
+            "path": "lg_003", 
+            "type": "EvaluationCard", 
+            "id": "milestone_card_3", 
+            "icon": "Right"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "lg_002", 
+    "title": "Add More Detail to Your Story"
+}

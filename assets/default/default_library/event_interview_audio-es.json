@@ -122,7 +122,7 @@
             "medium": "audio", 
             "length": "0:13", 
             "goals": [
-                "Grabe sonido de gente interactuando en el evento."
+                "Grabe sonidos de personas interactuando en el evento."
             ], 
             "clipType": "Action", 
             "type": "ClipCard", 
@@ -132,7 +132,7 @@
             "medium": "audio", 
             "length": "0:13", 
             "goals": [
-                "Grabe sonidos del resultado de gente interactuando en el evento."
+                "Grabe sonidos del resultado de gente que interact\u00faa en el evento."
             ], 
             "clipType": "Result", 
             "type": "ClipCard", 
@@ -152,7 +152,7 @@
             "medium": "audio", 
             "length": "0:10", 
             "goals": [
-                "Grabe sonidos de c\u00f3mo finaliza el evento."
+                "Grabe sonidos de como finaliza el evento."
             ], 
             "clipType": "Result", 
             "type": "ClipCard", 

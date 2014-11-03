@@ -4,14 +4,14 @@
     cards:
 
         - 
-            type: IntroCard
+            type: PosterCard
             multimedia: lg_002_01.png
-            headline: Add More Detail to Your Story
+            title: Add More Detail to Your Story
             level: Basic 2
             time: 
 
         - 
-            type: MarkDownCard
+            card: MarkDownCard
             body: |  
               ## Creating a detailed, complete story often requires more than three clips. In addition to using multiple character, action and result clips, many stories include two more elements:
               
@@ -24,7 +24,7 @@
               You may want to show a specific, signature element of your character or story. Signature clips are meant to emphasize a key point of your story.
 
         - 
-            type: PreviewCard
+            card: PreviewCard
             title: Video Preview Card
             media: 
                 - 
@@ -34,7 +34,7 @@
             text: Watch how combining five clips tells a more detailed story about Marvin, the main character.
 
         - 
-            type: PreviewCard
+            card: PreviewCard
             title: Audio Preview Card
             media: 
                 - 
@@ -44,7 +44,7 @@
             text: Listen how combining five clips tells a more detailed story about Marvin, the main character.
 
         - 
-            type: PreviewCard
+            card: PreviewCard
             title: Photo Preview Card
             media: 
                 - 
@@ -66,21 +66,21 @@
             text: See how combining five clips tells a more detailed story about Marvin, the main character.
 
         -
-            type: ChooseMediumCard
+            card: ChooseMediumCard
             header: Select your Medium
 
         - 
-            type: MilestoneCard
+            card: MilestoneCard
             header: Next
             text: Add to my story
             icon: down
 
         - 
-            type: BasicTextCard
+            card: BasicTextCard
             text: "Build on the story you created in the first lesson, Basics 1. Capture the two clips below. Then we'll review the full story."
 
         - 
-            type: ClipCard
+            card: ClipCard
             medium: video
             exampleMediaPath: 
             goals: 
@@ -89,7 +89,7 @@
             length: 0:10
 
         - 
-            type: ClipCard
+            card: ClipCard
             medium: audio
             exampleMediaPath: 
             goals: 
@@ -98,7 +98,7 @@
             length: 0:12
 
         - 
-            type: ClipCard
+            card: ClipCard
             medium: photo
             exampleMediaPath: 
             goals: 
@@ -107,11 +107,11 @@
             length: 0:00
 
         - 
-            type: BasicTextCard
+            card: BasicTextCard
             text: "Good. Now let's add clips to support the Character's story. With the next two clip cards, add an action and result."
 
         - 
-            type: ClipCard
+            card: ClipCard
             medium: video
             exampleMediaPath: 
             goals: 
@@ -120,7 +120,7 @@
             length: 0:08
 
         - 
-            type: ClipCard
+            card: ClipCard
             medium: audio
             exampleMediaPath: 
             goals: 
@@ -129,7 +129,7 @@
             length: 0:10
 
         - 
-            type: ClipCard
+            card: ClipCard
             medium: photo
             exampleMediaPath: 
             goals: 
@@ -138,13 +138,13 @@
             length: 0:00
 
         - 
-            type: MilestoneCard
+            card: MilestoneCard
             header: Next
             text: Order your clips
             icon: down
 
         - 
-            type: BasicTextCard
+            card: BasicTextCard
             text: "Order your clips to tell your story with these additional details."
 
         - 
@@ -160,26 +160,26 @@
             medium: photo
 
         - 
-            type: MilestoneCard
+            card: MilestoneCard
             header: Next
             text: Finish
             icon: down
 
         -
-            type: SelfEvalCard
+            card: SelfEvalCard
             header: "Does the order of your new clips tell a more detailed story?"
             checklist:
                 - Thumbs Up
                 - Thumbs Down
 
         - 
-            type: MarkDownCard
+            card: MarkDownCard
             body: |                
               ## Great Job!
               StoryMaker has plenty of lessons to help you learn more about topics related to this path. 
 
-        - 
-            type: MilestoneCard
+        | 
+            card: MilestoneCard
             header: Next
             text: Tell Stories with a Central Question
             icon: Right

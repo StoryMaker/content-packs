@@ -69,27 +69,14 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
             #strings
             card_fqid = "%s::%s" % (objs['id'], newcard['id'])
             strings["%s::text" % card_fqid] = newcard['text']
-            
-        elif card['type'] == 'PreviewCard':
-            set_id("preview_card", newcard)
-            newcard['type'] = 'ExampleCard'
-            newcard['header'] = card['title']
-            newcard['medium'] = 'video'     # FIXME should be deduced from the mimetype of the file
-            newcard['clipType'] = 'character'   # FIXME not needed at all?
-            newcard['exampleMediaPath'] = card['media'][0]['media'] # for now we only grab the first media
-            
+
+        elif card['type'] == 'IntroCard':
+            set_id("intro_card", newcard)
+
             #strings
             card_fqid = "%s::%s" % (objs['id'], newcard['id'])
-            strings["%s::header" % card_fqid] = newcard['header']
-            
-        elif card['type'] == 'TextCard' or card['type'] == 'BasicTextCard':
-            set_id("text_card", newcard)
-            newcard['type'] = 'TextCard'
-            newcard['text'] = card['text']
-            
-            #strings
-            card_fqid = "%s::%s" % (objs['id'], newcard['id'])
-            strings["%s::text" % card_fqid] = newcard['text']
+            strings["%s::headline" % card_fqid] = newcard['headline']
+            strings["%s::level" % card_fqid] = newcard['level']
             
         elif card['type'] == 'QuizCard':
             set_id("quiz_card", newcard)
@@ -127,10 +114,40 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
             newcard['type'] = 'EvaluationCard'
             set_id("evaluation_card", newcard)
             newcard['text'] = card['text']
-            
+
             #strings
             card_fqid = "%s::%s" % (objs['id'], newcard['id'])
             strings["%s::text" % card_fqid] = newcard['text']
+
+        elif card['type'] == 'SelfEvalCard': # WTF this card doesn't exist
+            newcard['type'] = 'BasicTextCard'
+            set_id("selfeval_card", newcard)
+            newcard['text'] = card['header']
+
+            #strings
+            card_fqid = "%s::%s" % (objs['id'], newcard['id'])
+            strings["%s::text" % card_fqid] = newcard['header']
+
+        elif card['type'] == 'HowToCard':
+            newcard['type'] = 'HowToCard'
+            set_id("howto_card", newcard)
+            newcard['text'] = card['text']
+
+            #strings
+            card_fqid = "%s::%s" % (objs['id'], newcard['id'])
+            strings["%s::text" % card_fqid] = newcard['text']
+
+        elif card['type'] == 'MilestoneCard':
+            newcard['type'] = 'EvaluationCard'
+            set_id("milestone_card", newcard)
+            newcard['text'] = card['text']
+            newcard['header'] = card['header']
+            newcard['icon'] = card['icon']
+
+            #strings
+            card_fqid = "%s::%s" % (objs['id'], newcard['id'])
+            strings["%s::text" % card_fqid] = newcard['text']
+            strings["%s::header" % card_fqid] = newcard['header']
 
         elif card['type'] == 'PublishCard':
             newcard['type'] = 'PublishCard'
@@ -164,7 +181,29 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
             for tip in newcard['tips']:
                 tip_key = "%s::tips" % card_fqid
                 strings["%s[%s]::text" % (tip_key, get_count(tip_key))] = tip['text']
-            
+
+        ### the below cards have all been renamed
+
+        elif card['type'] == 'PreviewCard' or card['type'] == 'ExampleCard':
+            set_id("preview_card", newcard)
+            newcard['type'] = 'ExampleCard'
+            newcard['header'] = card['title']
+            newcard['medium'] = 'video'     # FIXME should be deduced from the mimetype of the file
+            newcard['clipType'] = 'character'   # FIXME not needed at all?
+            newcard['exampleMediaPath'] = card['media'][0]['media'] # for now we only grab the first media
+
+            #strings
+            card_fqid = "%s::%s" % (objs['id'], newcard['id'])
+            strings["%s::header" % card_fqid] = newcard['header']
+
+        elif card['type'] == 'TextCard' or card['type'] == 'BasicTextCard':
+            set_id("text_card", newcard)
+            newcard['type'] = 'TextCard'
+            newcard['text'] = card['text']
+
+            #strings
+            card_fqid = "%s::%s" % (objs['id'], newcard['id'])
+            strings["%s::text" % card_fqid] = newcard['text']
 
         if newcard: cards.append(newcard) 
           
@@ -206,7 +245,7 @@ def do_dir():
         cardcounts = {}
         fileName, fileExtension = os.path.splitext(f)
         if fileExtension == ".yaml":
-            print "parsing %s" % f
+            #print "parsing %s" % f
             in_file = yaml_dir + "/" + f
             json_out_file = "%s/%s.json" % (json_dir, fileName)
             strings_out_file = "%s/%s.json" % (strings_dir, fileName)
@@ -214,26 +253,26 @@ def do_dir():
 
 # FIXME global vars are the best!!
 print "generating content for default library"
-cardcounts = {}
-yaml_dir = os.getcwd() + "/yaml/default/default_library"
-json_dir = os.getcwd() + "/assets/default/default_library"
-strings_dir = os.getcwd() + "/intermediates/strings/default/default_library"
+# cardcounts = {}
+# yaml_dir = os.getcwd() + "/yaml/default/default_library"
+# json_dir = os.getcwd() + "/assets/default/default_library"
+# strings_dir = os.getcwd() + "/intermediates/strings/default/default_library"
+# do_dir()
+
+print "generating content for learning guide 1"
+yaml_dir = os.getcwd() + "/yaml/default/learning_guide_1"
+json_dir = os.getcwd() + "/assets/default/learning_guide_1"
+strings_dir = os.getcwd() + "/intermediates/strings/default/learning_guide_1"
 do_dir()
 
-# print "generating content for learning guide 1"
-# yaml_dir = os.getcwd() + "/yaml/default/learning_guide_1"
-# json_dir = os.getcwd() + "/assets/default/learning_guide_1"
-# strings_dir = os.getcwd() + "/intermediates/strings/default/learning_guide_1"
-# do_dir()
-#
-# print "generating content for learning guide 2"
-# yaml_dir = os.getcwd() + "/yaml/default/learning_guide_2"
-# json_dir = os.getcwd() + "/assets/default/learning_guide_2"
-# strings_dir = os.getcwd() + "/intermediates/strings/default/learning_guide_2"
-# do_dir()
-#
-# print "generating content for learning guide 3"
-# yaml_dir = os.getcwd() + "/yaml/default/learning_guide_3"
-# json_dir = os.getcwd() + "/assets/default/learning_guide_3"
-# strings_dir = os.getcwd() + "/intermediates/strings/default/learning_guide_3"
-# do_dir()
+print "generating content for learning guide 2"
+yaml_dir = os.getcwd() + "/yaml/default/learning_guide_2"
+json_dir = os.getcwd() + "/assets/default/learning_guide_2"
+strings_dir = os.getcwd() + "/intermediates/strings/default/learning_guide_2"
+do_dir()
+
+print "generating content for learning guide 3"
+yaml_dir = os.getcwd() + "/yaml/default/learning_guide_3"
+json_dir = os.getcwd() + "/assets/default/learning_guide_3"
+strings_dir = os.getcwd() + "/intermediates/strings/default/learning_guide_3"
+do_dir()
