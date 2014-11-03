@@ -1,11 +1,12 @@
     ---
     id: lg_001
-    title: Learn the Basic Elements of a Story
+    title: Learn the Basic Elements of a Story 
     cards:
 
         - 
             type: PosterCard
-            header: Learn the Basic Elements of a Story
+            multimedia: lg_001_01.png
+            header: The Elements of a Story
             level: Basic 1
             time: 
 
@@ -29,16 +30,37 @@
         - 
             card: PreviewCard
             title: Video Preview Card
+            media: 
+                - 
+                    media: lg_001_02.mp4
+                    media_caption: © Skyler Reid 2014
+
             text: In this example, Marvin tells us why he started playing soccer.
 
         - 
             card: PreviewCard
             title: Audio Preview Card
+            media: 
+                - 
+                    media: lg_001_03.mp3
+                    media_caption: © Skyler Reid 2014
+
             text: In this example, Marvin tells us why he started playing soccer.
 
         - 
             card: PreviewCard
             title: Photo Preview Card
+            media: 
+                - 
+                    media: lg_001_04.jpg
+                    media_caption: © Skyler Reid 2014
+                - 
+                    media: lg_001_05.jpg
+                    media_caption: © Skyler Reid 2014
+                - 
+                    media: lg_001_06.jpg
+                    media_caption: © Skyler Reid 2014
+
             text: In this example, we see Marvin playing soccer.
             
         -

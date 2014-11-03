@@ -5,6 +5,7 @@
 
         - 
             type: PosterCard
+            multimedia: lg_002_01.png
             title: Add More Detail to Your Story
             level: Basic 2
             time: 
@@ -25,16 +26,43 @@
         - 
             card: PreviewCard
             title: Video Preview Card
+            media: 
+                - 
+                    media: lg_002_02.mp4
+                    media_caption: © Skyler Reid 2014
+
             text: Watch how combining five clips tells a more detailed story about Marvin, the main character.
 
         - 
             card: PreviewCard
             title: Audio Preview Card
+            media: 
+                - 
+                    media: lg_002_03.mp3
+                    media_caption: © Skyler Reid 2014
+
             text: Listen how combining five clips tells a more detailed story about Marvin, the main character.
 
         - 
             card: PreviewCard
             title: Photo Preview Card
+            media: 
+                - 
+                    media: lg_002_04.jpg
+                    media_caption: © Skyler Reid 2014
+                - 
+                    media: lg_002_05.jpg
+                    media_caption: © Skyler Reid 2014
+                - 
+                    media: lg_002_06.jpg
+                    media_caption: © Skyler Reid 2014
+                - 
+                    media: lg_002_07.jpg
+                    media_caption: © Skyler Reid 2014
+                - 
+                    media: lg_002_08.jpg
+                    media_caption: © Skyler Reid 2014
+
             text: See how combining five clips tells a more detailed story about Marvin, the main character.
 
         -
