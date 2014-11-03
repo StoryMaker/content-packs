@@ -1,6 +1,8 @@
 {
+    "profile_process_audio::text_card_0::text": "Focus on the sounds necessary to illustrate the process. You don't need everything, just enough steps to show the progression from beginning to end.",
     "profile_process_audio::clip_card_3::goals[0]": "تسجيل شخصيتك في الخطوة المهمة التالية في هذه العملية.",
     "profile_process_audio::clip_card_0::goals[0]": "تسجيل شخصيتك يستعد لبدء العملية، كيف يتم الإستعداد؟",
+    "profile_process_audio::text_card_1::text": "Record a different kinds of sounds - the character explaining, sounds that indicate changes or unique steps in the process.",
     "profile_process_audio::clip_card_4::goals[0]": "سجل أصواتا تروي للمستمع ما يجري.",
     "profile_process_audio::clip_card_6::goals[0]": "سجل الشخصية وهو ينهي العملية. الأكثر درامية و الاحسن.",
     "profile_process_audio::clip_card_1::goals[0]": "جل البداية الاولى أو الخطوة الاولى في العملية.",
