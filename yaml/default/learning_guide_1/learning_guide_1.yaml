@@ -34,7 +34,6 @@
                 - 
                     media: lg_001_02.mp4
                     media_caption: © Skyler Reid 2014
-
             text: In this example, Marvin tells us why he started playing soccer.
 
         - 
@@ -44,7 +43,6 @@
                 - 
                     media: lg_001_03.mp3
                     media_caption: © Skyler Reid 2014
-
             text: In this example, Marvin tells us why he started playing soccer.
 
         - 
@@ -60,7 +58,6 @@
                 - 
                     media: lg_001_06.jpg
                     media_caption: © Skyler Reid 2014
-
             text: In this example, we see Marvin playing soccer.
             
         -
@@ -79,10 +76,14 @@
             header: Next
             text: Start creating
             icon: down
+            references:
+                - learning_guide_1::medium_card::value
 
         - 
             type: HowToCard
             text: "Next up is a clip card. Use it to add clips of your character."
+            #references:
+            #    - learning_guide_1::medium_card::value
 
         - 
             type: ClipCard
