@@ -76,10 +76,14 @@
             header: Next
             text: Start creating
             icon: down
+            references:
+                - learning_guide_1::medium_card::value
 
         - 
             type: HowToCard
             text: "Next up is a clip card. Use it to add clips of your character."
+            #references:
+            #    - learning_guide_1::medium_card::value
 
         - 
             type: ClipCard
@@ -91,7 +95,7 @@
             type: Character
             length: 0:40
             references:
-                - learning_guide_2::medium_card::value::video
+                - learning_guide_1::medium_card::value::video
 
         - 
             type: ClipCard
@@ -103,7 +107,7 @@
             type: Character
             length: 0:40
             references:
-                - learning_guide_2::medium_card::value::audio
+                - learning_guide_1::medium_card::value::audio
 
         - 
             type: ClipCard
@@ -115,7 +119,7 @@
             type: Character
             length: 0:00
             references:
-                - learning_guide_2::medium_card::value::photo
+                - learning_guide_1::medium_card::value::photo
 
         - 
             type: BasicTextCard
@@ -131,7 +135,7 @@
             type: Action
             length: 0:08
             references:
-                - learning_guide_2::medium_card::value::video
+                - learning_guide_1::medium_card::value::video
 
         - 
             type: ClipCard
@@ -143,7 +147,7 @@
             type: Action
             length: 0:12
             references:
-                - learning_guide_2::medium_card::value::audio
+                - learning_guide_1::medium_card::value::audio
 
         - 
             type: ClipCard
@@ -155,7 +159,7 @@
             type: Action
             length: 0:00
             references:
-                - learning_guide_2::medium_card::value::photo
+                - learning_guide_1::medium_card::value::photo
 
 
         - 
@@ -168,7 +172,7 @@
             type: Result
             length: 0:10
             references:
-                - learning_guide_2::medium_card::value::video
+                - learning_guide_1::medium_card::value::video
 
         - 
             type: ClipCard
@@ -180,7 +184,7 @@
             type: Action
             length: 0:15
             references:
-                - learning_guide_2::medium_card::value::audio
+                - learning_guide_1::medium_card::value::audio
 
         - 
             type: ClipCard
@@ -192,7 +196,7 @@
             type: Action
             length: 0:00
             references:
-                - learning_guide_2::medium_card::value::photo
+                - learning_guide_1::medium_card::value::photo
 
         - 
             type: MilestoneCard
