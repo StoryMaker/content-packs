@@ -87,75 +87,265 @@
             "text": "Add to my story", 
             "header": "Next", 
             "references": [
-                "learning_guide_002::medium_card::value"
+                "learning_guide_2::medium_card::value"
             ], 
             "type": "EvaluationCard", 
             "id": "milestone_card_0", 
             "icon": "down"
         }, 
         {
-            "text": "Build on the story you created in the first lesson, Basics 1. Capture the two clips below. Then we'll review the full story.", 
+            "text": "Here are the three clips you created in the first lesson, Basics 1.", 
             "type": "TextCard", 
             "id": "text_card_0"
         }, 
         {
-            "length": "0:10", 
+            "length": "0:40", 
             "medium": "video", 
-            "type": "Signature", 
-            "goals": [
-                "Show something important about your character."
+            "references": [
+                "learning_guide_1::clip_video_0::clips"
             ], 
-            "exampleMediaPath": null
+            "goals": [
+                "Ask your character to tell a story."
+            ], 
+            "exampleMediaPath": null, 
+            "type": "Character", 
+            "id": "clip_video_0"
         }, 
         {
-            "length": "0:12", 
+            "length": "0:40", 
             "medium": "audio", 
-            "type": "Signature", 
-            "goals": [
-                "Record something important about your character."
+            "references": [
+                "learning_guide_1::clip_audio_0::clips"
             ], 
-            "exampleMediaPath": null
+            "goals": [
+                "Ask your character to tell a story."
+            ], 
+            "exampleMediaPath": null, 
+            "type": "Character", 
+            "id": "clip_audio_0"
         }, 
         {
             "length": "0:00", 
             "medium": "photo", 
-            "type": "Signature", 
-            "goals": [
-                "Show something important about your character."
+            "references": [
+                "learning_guide_1::clip_photo_0::clips"
             ], 
-            "exampleMediaPath": null
+            "goals": [
+                "Introduce the character of your story."
+            ], 
+            "exampleMediaPath": null, 
+            "type": "Character", 
+            "id": "clip_photo_0"
         }, 
         {
-            "text": "Good. Now let's add clips to support the Character's story. With the next two clip cards, add an action and result.", 
+            "length": "0:08", 
+            "medium": "video", 
+            "references": [
+                "learning_guide_1::clip_video_1::clips"
+            ], 
+            "goals": [
+                "Show your character doing an action related to the story."
+            ], 
+            "exampleMediaPath": null, 
+            "type": "Action", 
+            "id": "clip_video_1"
+        }, 
+        {
+            "length": "0:12", 
+            "medium": "audio", 
+            "references": [
+                "learning_guide_1::clip_audio_1::clips"
+            ], 
+            "goals": [
+                "Record your character doing an action related to the story."
+            ], 
+            "exampleMediaPath": null, 
+            "type": "Action", 
+            "id": "clip_audio_1"
+        }, 
+        {
+            "length": "0:00", 
+            "medium": "photo", 
+            "references": [
+                "learning_guide_1::clip_photo_1::clips"
+            ], 
+            "goals": [
+                "Capture your character doing an action related to the story."
+            ], 
+            "exampleMediaPath": null, 
+            "type": "Action", 
+            "id": "clip_photo_1"
+        }, 
+        {
+            "length": "0:10", 
+            "medium": "video", 
+            "goals": [
+                "Show the result of your character's action."
+            ], 
+            "exampleMediaPath": null, 
+            "type": "Result", 
+            "id": "clip_video_2"
+        }, 
+        {
+            "length": "0:15", 
+            "medium": "audio", 
+            "references": [
+                "learning_guide_1::clip_audio_2::clips"
+            ], 
+            "goals": [
+                "Record the result of your character's action."
+            ], 
+            "exampleMediaPath": null, 
+            "type": "Action", 
+            "id": "clip_audio_2"
+        }, 
+        {
+            "length": "0:00", 
+            "medium": "photo", 
+            "references": [
+                "learning_guide_1::clip_photo_2::clips"
+            ], 
+            "goals": [
+                "Show the result of your character's action."
+            ], 
+            "exampleMediaPath": null, 
+            "type": "Action", 
+            "id": "clip_photo_2"
+        }, 
+        {
+            "text": "Good. Now let's add clips to support the character's story. With the next two clip cards, add an action and result.", 
             "type": "TextCard", 
             "id": "text_card_1"
         }, 
         {
             "length": "0:08", 
             "medium": "video", 
-            "type": "Place", 
             "goals": [
-                "Show us where your story happens."
+                "Show your character doing an action related to the story."
             ], 
-            "exampleMediaPath": null
+            "exampleMediaPath": null, 
+            "type": "Action", 
+            "id": "clip_video_3"
         }, 
         {
-            "length": "0:10", 
+            "length": "0:12", 
             "medium": "audio", 
-            "type": "Place", 
             "goals": [
-                "Record the enviroment where your story happens."
+                "Record your character doing an action related to the story."
             ], 
-            "exampleMediaPath": null
+            "exampleMediaPath": null, 
+            "type": "Action", 
+            "id": "clip_audio_3"
         }, 
         {
             "length": "0:00", 
             "medium": "photo", 
-            "type": "Place", 
+            "goals": [
+                "Capture your character doing an action related to the story."
+            ], 
+            "exampleMediaPath": null, 
+            "type": "Action", 
+            "id": "clip_photo_3"
+        }, 
+        {
+            "length": "0:10", 
+            "medium": "video", 
+            "goals": [
+                "Show the result of your character's action."
+            ], 
+            "exampleMediaPath": null, 
+            "type": "Result", 
+            "id": "clip_video_4"
+        }, 
+        {
+            "length": "0:15", 
+            "medium": "audio", 
+            "goals": [
+                "Record the result of your character's action."
+            ], 
+            "exampleMediaPath": null, 
+            "type": "Action", 
+            "id": "clip_audio_4"
+        }, 
+        {
+            "length": "0:00", 
+            "medium": "photo", 
+            "goals": [
+                "Show the result of your character's action."
+            ], 
+            "exampleMediaPath": null, 
+            "type": "Action", 
+            "id": "clip_photo_4"
+        }, 
+        {
+            "text": "Build on the story you created in the first lesson, Basics 1. Capture the two clips below. Then we'll review the full story.", 
+            "type": "TextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "length": "0:10", 
+            "medium": "video", 
+            "goals": [
+                "Show something important about your character."
+            ], 
+            "exampleMediaPath": null, 
+            "type": "Signature", 
+            "id": "clip_video_3"
+        }, 
+        {
+            "length": "0:12", 
+            "medium": "audio", 
+            "goals": [
+                "Record something important about your character."
+            ], 
+            "exampleMediaPath": null, 
+            "type": "Signature", 
+            "id": "clip_audio_3"
+        }, 
+        {
+            "length": "0:00", 
+            "medium": "photo", 
+            "goals": [
+                "Show something important about your character."
+            ], 
+            "exampleMediaPath": null, 
+            "type": "Signature", 
+            "id": "clip_photo_3"
+        }, 
+        {
+            "text": "Good. Now let's add clips to support the Character's story. With the next two clip cards, add an action and result.", 
+            "type": "TextCard", 
+            "id": "text_card_3"
+        }, 
+        {
+            "length": "0:08", 
+            "medium": "video", 
             "goals": [
                 "Show us where your story happens."
             ], 
-            "exampleMediaPath": null
+            "exampleMediaPath": null, 
+            "type": "Place", 
+            "id": "clip_video_4"
+        }, 
+        {
+            "length": "0:10", 
+            "medium": "audio", 
+            "goals": [
+                "Record the enviroment where your story happens."
+            ], 
+            "exampleMediaPath": null, 
+            "type": "Place", 
+            "id": "clip_audio_4"
+        }, 
+        {
+            "length": "0:00", 
+            "medium": "photo", 
+            "goals": [
+                "Show us where your story happens."
+            ], 
+            "exampleMediaPath": null, 
+            "type": "Place", 
+            "id": "clip_photo_4"
         }, 
         {
             "header": "Next", 
@@ -167,7 +357,7 @@
         {
             "text": "Order your clips to tell your story with these additional details.", 
             "type": "TextCard", 
-            "id": "text_card_2"
+            "id": "text_card_4"
         }, 
         {
             "medium": "video", 
@@ -217,6 +407,6 @@
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "id": "learning_guide_002", 
+    "id": "learning_guide_2", 
     "title": "Add More Detail to Your Story"
 }

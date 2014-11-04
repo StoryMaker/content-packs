@@ -1,5 +1,5 @@
 ---
-    id: learning_guide_002
+    id: learning_guide_2
     title: Add More Detail to Your Story
     cards:
 
@@ -76,7 +76,185 @@
             text: Add to my story
             icon: down
             references:
-                - learning_guide_002::medium_card::value
+                - learning_guide_2::medium_card::value
+
+        - 
+            type: BasicTextCard
+            text: "Here are the three clips you created in the first lesson, Basics 1."
+
+        - 
+            type: ClipCard
+            id: clip_video_0
+            medium: video
+            exampleMediaPath: 
+            goals: 
+                - Ask your character to tell a story.
+            type: Character
+            length: 0:40
+            references:
+                - learning_guide_1::clip_video_0::clips
+
+        - 
+            type: ClipCard
+            id: clip_audio_0
+            medium: audio
+            exampleMediaPath: 
+            goals: 
+                - Ask your character to tell a story.
+            type: Character
+            length: 0:40
+            references:
+                - learning_guide_1::clip_audio_0::clips
+
+        - 
+            type: ClipCard
+            id: clip_photo_0
+            medium: photo
+            exampleMediaPath: 
+            goals: 
+                - Introduce the character of your story.
+            type: Character
+            length: 0:00
+            references:
+                - learning_guide_1::clip_photo_0::clips
+
+        - 
+            type: ClipCard
+            id: clip_video_1
+            medium: video
+            exampleMediaPath: 
+            goals: 
+                - Show your character doing an action related to the story.
+            type: Action
+            length: 0:08
+            references:
+                - learning_guide_1::clip_video_1::clips
+
+        - 
+            type: ClipCard
+            id: clip_audio_1
+            medium: audio
+            exampleMediaPath: 
+            goals: 
+                - Record your character doing an action related to the story.
+            type: Action
+            length: 0:12
+            references:
+                - learning_guide_1::clip_audio_1::clips
+
+        - 
+            type: ClipCard
+            id: clip_photo_1
+            medium: photo
+            exampleMediaPath: 
+            goals: 
+                - Capture your character doing an action related to the story.
+            type: Action
+            length: 0:00
+            references:
+                - learning_guide_1::clip_photo_1::clips
+
+
+        - 
+            type: ClipCard
+            id: clip_video_2
+            medium: video
+            exampleMediaPath: 
+            goals: 
+                - Show the result of your character's action.
+            type: Result
+            length: 0:10
+
+        - 
+            type: ClipCard
+            id: clip_audio_2
+            medium: audio
+            exampleMediaPath: 
+            goals: 
+                - Record the result of your character's action.
+            type: Action
+            length: 0:15
+            references:
+                - learning_guide_1::clip_audio_2::clips
+
+        - 
+            type: ClipCard
+            id: clip_photo_2
+            medium: photo
+            exampleMediaPath: 
+            goals: 
+                - Show the result of your character's action.
+            type: Action
+            length: 0:00
+            references:
+                - learning_guide_1::clip_photo_2::clips
+
+        - 
+            type: BasicTextCard
+            text: "Good. Now let's add clips to support the character's story. With the next two clip cards, add an action and result."
+
+        - 
+            type: ClipCard
+            id: clip_video_3
+            medium: video
+            exampleMediaPath: 
+            goals: 
+                - Show your character doing an action related to the story.
+            type: Action
+            length: 0:08
+                    
+
+        - 
+            type: ClipCard
+            id: clip_audio_3
+            medium: audio
+            exampleMediaPath: 
+            goals: 
+                - Record your character doing an action related to the story.
+            type: Action
+            length: 0:12
+
+        - 
+            type: ClipCard
+            id: clip_photo_3
+            medium: photo
+            exampleMediaPath: 
+            goals: 
+                - Capture your character doing an action related to the story.
+            type: Action
+            length: 0:00
+
+
+        - 
+            type: ClipCard
+            id: clip_video_4
+            medium: video
+            exampleMediaPath: 
+            goals: 
+                - Show the result of your character's action.
+            type: Result
+            length: 0:10
+
+        - 
+            type: ClipCard
+            id: clip_audio_4
+            medium: audio
+            exampleMediaPath: 
+            goals: 
+                - Record the result of your character's action.
+            type: Action
+            length: 0:15
+
+        - 
+            type: ClipCard
+            id: clip_photo_4
+            medium: photo
+            exampleMediaPath: 
+            goals: 
+                - Show the result of your character's action.
+            type: Action
+            length: 0:00
+            
 
         - 
             type: BasicTextCard
@@ -84,6 +262,7 @@
 
         - 
             type: ClipCard
+            id: clip_video_3
             medium: video
             exampleMediaPath: 
             goals: 
@@ -93,6 +272,7 @@
 
         - 
             type: ClipCard
+            id: clip_audio_3
             medium: audio
             exampleMediaPath: 
             goals: 
@@ -102,6 +282,7 @@
 
         - 
             type: ClipCard
+            id: clip_photo_3
             medium: photo
             exampleMediaPath: 
             goals: 
@@ -115,6 +296,7 @@
 
         - 
             type: ClipCard
+            id: clip_video_4
             medium: video
             exampleMediaPath: 
             goals: 
@@ -124,6 +306,7 @@
 
         - 
             type: ClipCard
+            id: clip_audio_4
             medium: audio
             exampleMediaPath: 
             goals: 
@@ -133,6 +316,7 @@
 
         - 
             type: ClipCard
+            id: clip_photo_4
             medium: photo
             exampleMediaPath: 
             goals: 

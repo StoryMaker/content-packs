@@ -86,7 +86,7 @@
             "type": "TextCard", 
             "id": "text_card_0", 
             "references": [
-                "learning_guide_001::medium_card::value"
+                "learning_guide_1::medium_card::value"
             ]
         }, 
         {
@@ -104,29 +104,32 @@
         {
             "length": "0:40", 
             "medium": "video", 
-            "type": "Character", 
             "goals": [
                 "Ask your character to tell a story."
             ], 
-            "exampleMediaPath": null
+            "exampleMediaPath": null, 
+            "type": "Character", 
+            "id": "clip_video_0"
         }, 
         {
             "length": "0:40", 
             "medium": "audio", 
-            "type": "Character", 
             "goals": [
                 "Ask your character to tell a story."
             ], 
-            "exampleMediaPath": null
+            "exampleMediaPath": null, 
+            "type": "Character", 
+            "id": "clip_audio_0"
         }, 
         {
             "length": "0:00", 
             "medium": "photo", 
-            "type": "Character", 
             "goals": [
                 "Introduce the character of your story."
             ], 
-            "exampleMediaPath": null
+            "exampleMediaPath": null, 
+            "type": "Character", 
+            "id": "clip_photo_0"
         }, 
         {
             "text": "Good. Now let's add clips to support the character's story. With the next two clip cards, add an action and result.", 
@@ -136,56 +139,62 @@
         {
             "length": "0:08", 
             "medium": "video", 
-            "type": "Action", 
             "goals": [
                 "Show your character doing an action related to the story."
             ], 
-            "exampleMediaPath": null
+            "exampleMediaPath": null, 
+            "type": "Action", 
+            "id": "clip_video_1"
         }, 
         {
             "length": "0:12", 
             "medium": "audio", 
-            "type": "Action", 
             "goals": [
                 "Record your character doing an action related to the story."
             ], 
-            "exampleMediaPath": null
+            "exampleMediaPath": null, 
+            "type": "Action", 
+            "id": "clip_audio_1"
         }, 
         {
             "length": "0:00", 
             "medium": "photo", 
-            "type": "Action", 
             "goals": [
                 "Capture your character doing an action related to the story."
             ], 
-            "exampleMediaPath": null
+            "exampleMediaPath": null, 
+            "type": "Action", 
+            "id": "clip_photo_1"
         }, 
         {
             "length": "0:10", 
             "medium": "video", 
-            "type": "Result", 
             "goals": [
                 "Show the result of your character's action."
             ], 
-            "exampleMediaPath": null
+            "exampleMediaPath": null, 
+            "type": "Result", 
+            "id": "clip_video_2"
         }, 
         {
             "length": "0:15", 
             "medium": "audio", 
-            "type": "Action", 
             "goals": [
                 "Record the result of your character's action."
             ], 
-            "exampleMediaPath": null
+            "exampleMediaPath": null, 
+            "type": "Action", 
+            "id": "clip_audio_2"
         }, 
         {
             "length": "0:00", 
             "medium": "photo", 
-            "type": "Action", 
             "goals": [
                 "Show the result of your character's action."
             ], 
-            "exampleMediaPath": null
+            "exampleMediaPath": null, 
+            "type": "Action", 
+            "id": "clip_photo_2"
         }, 
         {
             "header": "Next", 
@@ -247,6 +256,6 @@
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "id": "learning_guide_001", 
+    "id": "learning_guide_1", 
     "title": "Learn the Basic Elements of a Story"
 }

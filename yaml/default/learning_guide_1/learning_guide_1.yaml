@@ -1,5 +1,5 @@
 ---
-    id: learning_guide_001
+    id: learning_guide_1
     title: Learn the Basic Elements of a Story 
     cards:
 
@@ -72,7 +72,7 @@
             type: BasicTextCard
             text: "Notice the three clips used in the example. Marvin, the character, is the heart of the story. The action and result tell us what happens to Marvin."
             references:
-                - learning_guide_001::medium_card::value
+                - learning_guide_1::medium_card::value
 
         - 
             type: MilestoneCard
@@ -86,6 +86,7 @@
 
         - 
             type: ClipCard
+            id: clip_video_0
             medium: video
             exampleMediaPath: 
             goals: 
@@ -95,6 +96,7 @@
 
         - 
             type: ClipCard
+            id: clip_audio_0
             medium: audio
             exampleMediaPath: 
             goals: 
@@ -104,6 +106,7 @@
 
         - 
             type: ClipCard
+            id: clip_photo_0
             medium: photo
             exampleMediaPath: 
             goals: 
@@ -117,6 +120,7 @@
 
         - 
             type: ClipCard
+            id: clip_video_1
             medium: video
             exampleMediaPath: 
             goals: 
@@ -126,6 +130,7 @@
 
         - 
             type: ClipCard
+            id: clip_audio_1
             medium: audio
             exampleMediaPath: 
             goals: 
@@ -135,6 +140,7 @@
 
         - 
             type: ClipCard
+            id: clip_photo_1
             medium: photo
             exampleMediaPath: 
             goals: 
@@ -145,6 +151,7 @@
 
         - 
             type: ClipCard
+            id: clip_video_2
             medium: video
             exampleMediaPath: 
             goals: 
@@ -154,6 +161,7 @@
 
         - 
             type: ClipCard
+            id: clip_audio_2
             medium: audio
             exampleMediaPath: 
             goals: 
@@ -163,6 +171,7 @@
 
         - 
             type: ClipCard
+            id: clip_photo_2
             medium: photo
             exampleMediaPath: 
             goals: 

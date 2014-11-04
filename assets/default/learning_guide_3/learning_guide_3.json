@@ -37,7 +37,7 @@
             "exampleMediaPath": "profile_interview_001.mp3", 
             "header": "Meet Goalie Marvin", 
             "references": [
-                "learning_guide_003::medium_card::value::audio"
+                "learning_guide_3::medium_card::value::audio"
             ], 
             "text": "Central Question: Why did Marvin become a goalie?", 
             "clipType": "character", 
@@ -47,7 +47,7 @@
         {
             "header": "Launch", 
             "references": [
-                "learning_guide_003::medium_card::value::audio"
+                "learning_guide_3::medium_card::value::audio"
             ], 
             "path": "profile_interview_audio.json", 
             "text": "Profile Interview", 
@@ -67,7 +67,7 @@
             "exampleMediaPath": "event_report_001.mp3", 
             "header": "Pickup Soccer Sunday", 
             "references": [
-                "learning_guide_003::medium_card::value::audio"
+                "learning_guide_3::medium_card::value::audio"
             ], 
             "text": "Central Question: What brought each person to the game?", 
             "clipType": "character", 
@@ -79,13 +79,13 @@
             "type": "TextCard", 
             "id": "text_card_0", 
             "references": [
-                "learning_guide_003::medium_card::value::audio"
+                "learning_guide_3::medium_card::value::audio"
             ]
         }, 
         {
             "header": "Launch", 
             "references": [
-                "learning_guide_003::medium_card::value::audio"
+                "learning_guide_3::medium_card::value::audio"
             ], 
             "path": "event_report_audio.json", 
             "text": "Event Report", 
@@ -105,7 +105,7 @@
             "exampleMediaPath": null, 
             "header": "What is Pickup Soccer?", 
             "references": [
-                "learning_guide_003::medium_card::value::audio"
+                "learning_guide_3::medium_card::value::audio"
             ], 
             "text": "Central Question: What makes pickup soccer great?", 
             "clipType": "character", 
@@ -117,13 +117,13 @@
             "type": "TextCard", 
             "id": "text_card_1", 
             "references": [
-                "learning_guide_003::medium_card::value::audio"
+                "learning_guide_3::medium_card::value::audio"
             ]
         }, 
         {
             "header": "Launch", 
             "references": [
-                "learning_guide_003::medium_card::value::audio"
+                "learning_guide_3::medium_card::value::audio"
             ], 
             "path": "issue_report_audio.json", 
             "text": "Issue Report", 
@@ -143,7 +143,7 @@
             "exampleMediaPath": "issue_discussion_001.mp3", 
             "header": "What's Great About Pickup Soccer?", 
             "references": [
-                "learning_guide_003::medium_card::value::audio"
+                "learning_guide_3::medium_card::value::audio"
             ], 
             "text": "Central Question: What do people love about pickup soccer?", 
             "clipType": "character", 
@@ -158,7 +158,7 @@
         {
             "header": "Launch", 
             "references": [
-                "learning_guide_003::medium_card::value::audio"
+                "learning_guide_3::medium_card::value::audio"
             ], 
             "path": "profile_interview_audio.json", 
             "text": "Issue Report", 
@@ -178,7 +178,7 @@
             "exampleMediaPath": "issue_report_001.mov", 
             "header": "What is Pickup Soccer?", 
             "references": [
-                "learning_guide_003::medium_card::value::video"
+                "learning_guide_3::medium_card::value::video"
             ], 
             "text": "Central Question: What makes pickup soccer great?", 
             "clipType": "character", 
@@ -190,13 +190,13 @@
             "type": "TextCard", 
             "id": "text_card_3", 
             "references": [
-                "learning_guide_003::medium_card::value::video"
+                "learning_guide_3::medium_card::value::video"
             ]
         }, 
         {
             "header": "Launch", 
             "references": [
-                "learning_guide_003::medium_card::value::video"
+                "learning_guide_3::medium_card::value::video"
             ], 
             "path": "issue_report_video.json", 
             "text": "Issue Report", 
@@ -216,7 +216,7 @@
             "exampleMediaPath": "profile_interview_001.mov", 
             "header": "Meet Goalie Marvin", 
             "references": [
-                "learning_guide_003::medium_card::value::video"
+                "learning_guide_3::medium_card::value::video"
             ], 
             "text": "Central Question: Why did Marvin become a goalie?", 
             "clipType": "character", 
@@ -228,13 +228,13 @@
             "type": "TextCard", 
             "id": "text_card_4", 
             "references": [
-                "learning_guide_003::medium_card::value::video"
+                "learning_guide_3::medium_card::value::video"
             ]
         }, 
         {
             "header": "Launch", 
             "references": [
-                "learning_guide_003::medium_card::value::video"
+                "learning_guide_3::medium_card::value::video"
             ], 
             "path": "profile_interview_video.json", 
             "text": "Profile Interview", 
@@ -254,7 +254,7 @@
             "exampleMediaPath": "issue_discussion_001.mov", 
             "header": "What's Great About Pickup Soccer?", 
             "references": [
-                "learning_guide_003::medium_card::value::video"
+                "learning_guide_3::medium_card::value::video"
             ], 
             "text": "Central Question: What do people love about pickup soccer?", 
             "clipType": "character", 
@@ -269,7 +269,7 @@
         {
             "header": "Launch", 
             "references": [
-                "learning_guide_003::medium_card::value::video"
+                "learning_guide_3::medium_card::value::video"
             ], 
             "path": "issue_discussion_video_question_10.json", 
             "text": "Issue Discussion", 
@@ -289,7 +289,7 @@
             "exampleMediaPath": "event_report_001.mov", 
             "header": "Pickup Soccer Sunday", 
             "references": [
-                "learning_guide_003::medium_card::value::video"
+                "learning_guide_3::medium_card::value::video"
             ], 
             "text": "Central Question: What brought each person to the game?", 
             "clipType": "character", 
@@ -301,13 +301,13 @@
             "type": "TextCard", 
             "id": "text_card_6", 
             "references": [
-                "learning_guide_003::medium_card::value::video"
+                "learning_guide_3::medium_card::value::video"
             ]
         }, 
         {
             "header": "Launch", 
             "references": [
-                "learning_guide_003::medium_card::value::video"
+                "learning_guide_3::medium_card::value::video"
             ], 
             "path": "event_report_video.json", 
             "text": "Event Report", 
@@ -355,7 +355,7 @@
             "exampleMediaPath": "event_highlights_001.jpg", 
             "header": "Pickup Soccer Sunday", 
             "references": [
-                "learning_guide_003::medium_card::value::photo"
+                "learning_guide_3::medium_card::value::photo"
             ], 
             "text": "Central Question: What brought each person to the game?", 
             "clipType": "character", 
@@ -367,13 +367,13 @@
             "type": "TextCard", 
             "id": "text_card_7", 
             "references": [
-                "learning_guide_003::medium_card::value::photo"
+                "learning_guide_3::medium_card::value::photo"
             ]
         }, 
         {
             "header": "Launch", 
             "references": [
-                "learning_guide_003::medium_card::value::photo"
+                "learning_guide_3::medium_card::value::photo"
             ], 
             "path": "event_highlights_photo.json", 
             "text": "Event Highlights", 
@@ -409,7 +409,7 @@
             "exampleMediaPath": "issue_series_001.jpg", 
             "header": "What is Pickup Soccer?", 
             "references": [
-                "learning_guide_003::medium_card::value::photo"
+                "learning_guide_3::medium_card::value::photo"
             ], 
             "text": "Central Question: What makes pickup soccer great?", 
             "clipType": "character", 
@@ -421,13 +421,13 @@
             "type": "TextCard", 
             "id": "text_card_8", 
             "references": [
-                "learning_guide_003::medium_card::value::photo"
+                "learning_guide_3::medium_card::value::photo"
             ]
         }, 
         {
             "header": "Launch", 
             "references": [
-                "learning_guide_003::medium_card::value::photo"
+                "learning_guide_3::medium_card::value::photo"
             ], 
             "path": "event_series_photo_action.json", 
             "text": "Event Series", 
@@ -463,7 +463,7 @@
             "exampleMediaPath": "issue_series_001.jpg", 
             "header": "Meet Goalie Marvin", 
             "references": [
-                "learning_guide_003::medium_card::value::photo"
+                "learning_guide_3::medium_card::value::photo"
             ], 
             "text": "Central Question: What is it like to be a goalie?", 
             "clipType": "character", 
@@ -475,13 +475,13 @@
             "type": "TextCard", 
             "id": "text_card_9", 
             "references": [
-                "learning_guide_003::medium_card::value::photo"
+                "learning_guide_3::medium_card::value::photo"
             ]
         }, 
         {
             "header": "Launch", 
             "references": [
-                "learning_guide_003::medium_card::value::photo"
+                "learning_guide_3::medium_card::value::photo"
             ], 
             "path": "profile_highlights_photo.json", 
             "text": "Profile Highlights", 
@@ -491,6 +491,6 @@
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "id": "learning_guide_003", 
+    "id": "learning_guide_3", 
     "title": "Tell Stories with a Central Question"
 }
