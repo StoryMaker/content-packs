@@ -13,13 +13,13 @@
         - 
             type: MarkDownCard
             body: |  
-              ## The most simple story has three elements:
+              ## The most simple story has three elements:  
               
-              &bull; Character
-              &bull; Action done by the character
-              &bull; Result of the action
+              &bull; Character  
+              &bull; Action done by the character  
+              &bull; Result of the action  
               
-              You can combine these elements to tell a simple story. A story needs a main character who must take an action, and at the end audience wants to see the result of that action. 
+              You can combine these elements to tell a simple story. A story needs a main character who must take an action, and at the end audience wants to see the result of that action.
 
         - 
             type: MarkDownCard
@@ -34,7 +34,6 @@
                 - 
                     media: lg_001_02.mp4
                     media_caption: © Skyler Reid 2014
-
             text: In this example, Marvin tells us why he started playing soccer.
 
         - 
@@ -44,7 +43,6 @@
                 - 
                     media: lg_001_03.mp3
                     media_caption: © Skyler Reid 2014
-
             text: In this example, Marvin tells us why he started playing soccer.
 
         - 
@@ -60,7 +58,6 @@
                 - 
                     media: lg_001_06.jpg
                     media_caption: © Skyler Reid 2014
-
             text: In this example, we see Marvin playing soccer.
             
         -
@@ -93,6 +90,8 @@
                 - Ask your character to tell a story.
             type: Character
             length: 0:40
+            references:
+                - learning_guide_2::medium_card::value::video
 
         - 
             type: ClipCard
@@ -103,6 +102,8 @@
                 - Ask your character to tell a story.
             type: Character
             length: 0:40
+            references:
+                - learning_guide_2::medium_card::value::audio
 
         - 
             type: ClipCard
@@ -113,6 +114,8 @@
                 - Introduce the character of your story.
             type: Character
             length: 0:00
+            references:
+                - learning_guide_2::medium_card::value::photo
 
         - 
             type: BasicTextCard
@@ -127,6 +130,8 @@
                 - Show your character doing an action related to the story.
             type: Action
             length: 0:08
+            references:
+                - learning_guide_2::medium_card::value::video
 
         - 
             type: ClipCard
@@ -137,6 +142,8 @@
                 - Record your character doing an action related to the story.
             type: Action
             length: 0:12
+            references:
+                - learning_guide_2::medium_card::value::audio
 
         - 
             type: ClipCard
@@ -147,6 +154,8 @@
                 - Capture your character doing an action related to the story.
             type: Action
             length: 0:00
+            references:
+                - learning_guide_2::medium_card::value::photo
 
 
         - 
@@ -158,6 +167,8 @@
                 - Show the result of your character's action.
             type: Result
             length: 0:10
+            references:
+                - learning_guide_2::medium_card::value::video
 
         - 
             type: ClipCard
@@ -168,6 +179,8 @@
                 - Record the result of your character's action.
             type: Action
             length: 0:15
+            references:
+                - learning_guide_2::medium_card::value::audio
 
         - 
             type: ClipCard
@@ -178,6 +191,8 @@
                 - Show the result of your character's action.
             type: Action
             length: 0:00
+            references:
+                - learning_guide_2::medium_card::value::photo
 
         - 
             type: MilestoneCard
