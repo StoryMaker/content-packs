@@ -1,0 +1,16 @@
+{
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "learning_guide_3"
+        }
+    ], 
+    "storyPathTemplateFiles": {
+        "learning_guide_3": "learning_guide_3.json"
+    }, 
+    "classPackage": "scal.io.liger.model", 
+    "id": "learning_guide_3_library", 
+    "title": "Tell Stories with a Central Question"
+}

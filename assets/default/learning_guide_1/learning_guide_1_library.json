@@ -1,0 +1,16 @@
+{
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "learning_guide_1"
+        }
+    ], 
+    "storyPathTemplateFiles": {
+        "learning_guide_1": "learning_guide_1.json"
+    }, 
+    "classPackage": "scal.io.liger.model", 
+    "id": "learning_guide_1_library", 
+    "title": "Learn the Basic Elements of a Story"
+}

@@ -1,0 +1,13 @@
+---
+    id: learning_guide_3_library
+    title: Tell Stories with a Central Question
+    classPackage: scal.io.liger.model
+    storyPathTemplateFiles:
+        learning_guide_3: learning_guide_3.json
+    cards:
+        -   
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: learning_guide_3
+

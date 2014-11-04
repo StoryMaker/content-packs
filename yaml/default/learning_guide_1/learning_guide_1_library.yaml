@@ -1,0 +1,14 @@
+---
+    id: learning_guide_1_library
+    title: Learn the Basic Elements of a Story
+    classPackage: scal.io.liger.model
+    storyPathTemplateFiles:
+        learning_guide_1: learning_guide_1.json
+        
+    cards:
+        -   
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: learning_guide_1
+
