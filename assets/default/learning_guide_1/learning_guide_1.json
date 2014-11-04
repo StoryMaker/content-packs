@@ -9,8 +9,8 @@
             "id": "intro_card_0"
         }, 
         {
-            "body": "## The most simple story has three elements:\n\n&bull; Character\n&bull; Action done by the character\n&bull; Result of the action\n\nYou can combine these elements to tell a simple story. A story needs a main character who must take an action, and at the end audience wants to see the result of that action. \n", 
-            "text": "## The most simple story has three elements:\n\n&bull; Character\n&bull; Action done by the character\n&bull; Result of the action\n\nYou can combine these elements to tell a simple story. A story needs a main character who must take an action, and at the end audience wants to see the result of that action. \n", 
+            "body": "## The most simple story has three elements:  \n\n&bull; Character  \n&bull; Action done by the character  \n&bull; Result of the action  \n\nYou can combine these elements to tell a simple story. A story needs a main character who must take an action, and at the end audience wants to see the result of that action.\n", 
+            "text": "## The most simple story has three elements:  \n\n&bull; Character  \n&bull; Action done by the character  \n&bull; Result of the action  \n\nYou can combine these elements to tell a simple story. A story needs a main character who must take an action, and at the end audience wants to see the result of that action.\n", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
@@ -104,6 +104,9 @@
         {
             "length": "0:40", 
             "medium": "video", 
+            "references": [
+                "learning_guide_1::medium_card::value::video"
+            ], 
             "goals": [
                 "Ask your character to tell a story."
             ], 
@@ -114,6 +117,9 @@
         {
             "length": "0:40", 
             "medium": "audio", 
+            "references": [
+                "learning_guide_1::medium_card::value::audio"
+            ], 
             "goals": [
                 "Ask your character to tell a story."
             ], 
@@ -124,6 +130,9 @@
         {
             "length": "0:00", 
             "medium": "photo", 
+            "references": [
+                "learning_guide_1::medium_card::value::photo"
+            ], 
             "goals": [
                 "Introduce the character of your story."
             ], 
@@ -139,6 +148,9 @@
         {
             "length": "0:08", 
             "medium": "video", 
+            "references": [
+                "learning_guide_1::medium_card::value::video"
+            ], 
             "goals": [
                 "Show your character doing an action related to the story."
             ], 
@@ -149,6 +161,9 @@
         {
             "length": "0:12", 
             "medium": "audio", 
+            "references": [
+                "learning_guide_1::medium_card::value::audio"
+            ], 
             "goals": [
                 "Record your character doing an action related to the story."
             ], 
@@ -159,6 +174,9 @@
         {
             "length": "0:00", 
             "medium": "photo", 
+            "references": [
+                "learning_guide_1::medium_card::value::photo"
+            ], 
             "goals": [
                 "Capture your character doing an action related to the story."
             ], 
@@ -169,6 +187,9 @@
         {
             "length": "0:10", 
             "medium": "video", 
+            "references": [
+                "learning_guide_1::medium_card::value::video"
+            ], 
             "goals": [
                 "Show the result of your character's action."
             ], 
@@ -179,6 +200,9 @@
         {
             "length": "0:15", 
             "medium": "audio", 
+            "references": [
+                "learning_guide_1::medium_card::value::audio"
+            ], 
             "goals": [
                 "Record the result of your character's action."
             ], 
@@ -189,6 +213,9 @@
         {
             "length": "0:00", 
             "medium": "photo", 
+            "references": [
+                "learning_guide_1::medium_card::value::photo"
+            ], 
             "goals": [
                 "Show the result of your character's action."
             ], 
