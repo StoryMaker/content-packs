@@ -78,12 +78,16 @@
         }, 
         {
             "header": "Select your Medium", 
-            "type": "ChooseMediumCard"
+            "type": "MediumCard", 
+            "id": "medium_card"
         }, 
         {
             "text": "Notice the three clips used in the example. Marvin, the character, is the heart of the story. The action and result tell us what happens to Marvin.", 
             "type": "TextCard", 
-            "id": "text_card_0"
+            "id": "text_card_0", 
+            "references": [
+                "learning_guide_001::medium_card::value"
+            ]
         }, 
         {
             "header": "Next", 
@@ -243,6 +247,6 @@
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "id": "lg_001", 
+    "id": "learning_guide_001", 
     "title": "Learn the Basic Elements of a Story"
 }

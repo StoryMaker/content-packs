@@ -1,5 +1,5 @@
 ---
-    id: lg_003
+    id: learning_guide_003
     title: Tell Stories with a Central Question 
     cards:
 
@@ -9,7 +9,7 @@
             headline: Tell Stories with a Central Question
             level: Basic 3
             time: 
-    # Intro
+# Intro
         - 
             type: MarkDownCard
             body: |  
@@ -23,10 +23,11 @@
               This lesson takes the idea "I want to tell a story about a local soccer game," and shows how it can be told in a variety of ways. If you find a hook you like, you can follow it to make your own. Start with a medium, and questions will follow.
 
         -
-            type: ChooseMediumCard
+            type: MediumCard
+            id: medium_card
             header: Select your Medium
 
-    # Audio Story 1
+# Audio Story 1
 
         - 
             type: PreviewCard
@@ -35,24 +36,27 @@
                 - 
                     media: profile_interview_001.mp3
                     media_caption: © Skyler Reid 2014
-
             text: "Central Question: Why did Marvin become a goalie?"
+            references:
+                - learning_guide_003::medium_card::value::audio
             
         - 
             type: BasicTextCard
             text: Listen to Marvin talk about what drives him, and how he ended up as goalie at local soccer matches. This story is driven by a single character, telling his story. To tell the story of one character, combine his voice with sounds that bring the audience into the story. 
+            references:
+                - learning_guide_003::medium_card::value::audio
 
-        - 
-
-    # If possible, lets make the milestone cards in this path the LinkCard. #
+# If possible, lets make the milestone cards in this path the LinkCard. #
     
             type: MilestoneCard
             header: Launch
             text: Profile Interview
             icon: right
             path: profile_interview_audio.json
+            references:
+                - learning_guide_003::medium_card::value::audio
 
-    # Audio Story 2
+# Audio Story 2
 
         - 
             type: PreviewCard
@@ -61,12 +65,15 @@
                 - 
                     media: event_report_001.mp3
                     media_caption: © Skyler Reid 2014
-
             text: "Central Question: What brought each person to the game?"
+            references:
+                - learning_guide_003::medium_card::value::audio
             
         - 
             type: BasicTextCard
             text: Listen as a narrator describes what happens when a group of strangers meet for a local soccer game. This story focuses on a specific event, what happened and why. With audio, individual voices often carry the story. 
+            references:
+                - learning_guide_003::medium_card::value::audio
 
         - 
             type: MilestoneCard
@@ -74,8 +81,10 @@
             text: Event Report
             icon: right
             path: event_report_audio.json
+            references:
+                - learning_guide_003::medium_card::value::audio
 
-    # Audio Story 3
+# Audio Story 3
 
         - 
             type: PreviewCard
@@ -84,12 +93,15 @@
                 - 
                     media: ########.mp3
                     media_caption: © Skyler Reid 2014
-
             text: "Central Question: What makes pickup soccer great?"
+            references:
+                - learning_guide_003::medium_card::value::audio
             
         - 
             type: BasicTextCard
             text: Listen as the narrator explains pickup soccer and several characters describe why they love it. The story is driven by the question "What is pickup soccer?" In audio a narrator often introduces a story and uses the voices of individual characters to showcase different opinions or insights. 
+            references:
+                - learning_guide_003::medium_card::value::audio
 
         - 
             type: MilestoneCard
@@ -97,8 +109,10 @@
             text: Issue Report
             icon: right
             path: issue_report_audio.json
+            references:
+                - learning_guide_003::medium_card::value::audio
 
-    # Audio Story 4
+# Audio Story 4
 
         - 
             type: PreviewCard
@@ -107,8 +121,9 @@
                 - 
                     media: issue_discussion_001.mp3
                     media_caption: © Skyler Reid 2014
-
             text: "Central Question: What do people love about pickup soccer?"
+            references:
+                - learning_guide_003::medium_card::value::audio
             
         - 
             type: BasicTextCard
@@ -120,8 +135,10 @@
             text: Issue Report
             icon: right
             path: profile_interview_audio.json
+            references:
+                - learning_guide_003::medium_card::value::audio
             
-    # Video Story 1
+# Video Story 1
 
         - 
             type: PreviewCard
@@ -130,12 +147,15 @@
                 - 
                     media: issue_report_001.mov
                     media_caption: © Skyler Reid 2014
-
             text: "Central Question: What makes pickup soccer great?"
+            references:
+                - learning_guide_003::medium_card::value::video
             
         - 
             type: BasicTextCard
             text: Watch as a group of characters describe pickup soccer, while a narrator carries and directs the story. The story is driven by the question "What is pickup soccer?" In video images are used to support or contradict the voices of individual characters. 
+            references:
+                - learning_guide_003::medium_card::value::video
 
         - 
             type: MilestoneCard
@@ -143,8 +163,10 @@
             text: Issue Report
             icon: right
             path: issue_report_video.json
+            references:
+                - learning_guide_003::medium_card::value::video
             
-    # Video Story 2
+# Video Story 2
 
         - 
             type: PreviewCard
@@ -153,12 +175,15 @@
                 - 
                     media: profile_interview_001.mov
                     media_caption: © Skyler Reid 2014
-
             text: "Central Question: Why did Marvin become a goalie?"
+            references:
+                - learning_guide_003::medium_card::value::video
             
         - 
             type: BasicTextCard
             text: Watch Marvin playing hard while he talks about his life before and after becoming a goalie for a local soccer team. This story is driven by a single character, telling his story. In video use images to illustrate the characters words and conflict. 
+            references:
+                - learning_guide_003::medium_card::value::video
 
         - 
             type: MilestoneCard
@@ -166,9 +191,11 @@
             text: Profile Interview
             icon: right
             path: profile_interview_video.json
+            references:
+                - learning_guide_003::medium_card::value::video
 
             
-    # Video Story 3
+# Video Story 3
 
         - 
             type: PreviewCard
@@ -177,8 +204,9 @@
                 - 
                     media: issue_discussion_001.mov
                     media_caption: © Skyler Reid 2014
-
             text: "Central Question: What do people love about pickup soccer?"
+            references:
+                - learning_guide_003::medium_card::value::video
             
         - 
             type: BasicTextCard
@@ -190,8 +218,10 @@
             text: Issue Discussion
             icon: right
             path: issue_discussion_video_question_10.json
+            references:
+                - learning_guide_003::medium_card::value::video
 
-    # Video Story 4
+# Video Story 4
 
         - 
             type: PreviewCard
@@ -200,12 +230,15 @@
                 - 
                     media: event_report_001.mov
                     media_caption: © Skyler Reid 2014
-
             text: "Central Question: What brought each person to the game?"
+            references:
+                - learning_guide_003::medium_card::value::video
             
         - 
             type: BasicTextCard
             text: Watch what happens when a group of strangers meet for a local soccer game. This story focuses on a specific event, what happened and why. In video, strong images are as important as the voices of individual characters. 
+            references:
+                - learning_guide_003::medium_card::value::video
 
         - 
             type: MilestoneCard
@@ -213,9 +246,11 @@
             text: Event Report
             icon: right
             path: event_report_video.json
+            references:
+                - learning_guide_003::medium_card::value::video
 
 
-    # Photo Story 1
+# Photo Story 1
 
         - 
             type: PreviewCard
@@ -245,12 +280,15 @@
                 - 
                     media: event_highlights_008.jpg
                     media_caption: © Skyler Reid 2014
-
             text: "Central Question: What brought each person to the game?"
+            references:
+                - learning_guide_003::medium_card::value::photo
             
         - 
             type: BasicTextCard
             text: See what happens when a group of strangers meet for a local soccer game. This story focuses on a specific event, and what happened. Photo stories gather the best images to capture the emotion and action of the story, often using text to fill in missing details. 
+            references:
+                - learning_guide_003::medium_card::value::photo
 
         - 
             type: MilestoneCard
@@ -258,8 +296,10 @@
             text: Event Highlights
             icon: right
             path: event_highlights_photo.json
+            references:
+                - learning_guide_003::medium_card::value::photo
 
-    # Photo Story 2
+# Photo Story 2
 
         - 
             type: PreviewCard
@@ -280,12 +320,15 @@
                 - 
                     media: issue_series_005.jpg
                     media_caption: © Skyler Reid 2014
-
             text: "Central Question: What makes pickup soccer great?"
+            references:
+                - learning_guide_003::medium_card::value::photo
             
         - 
             type: BasicTextCard
             text: Look at this series of portraits of local soccer players. The story is driven by the portraits of a series of characters, supported by text and captions describing pickup soccer. Photo stories often use a series of related images to engage the audience, and fill in relevant details with text. 
+            references:
+                - learning_guide_003::medium_card::value::photo
 
         - 
             type: MilestoneCard
@@ -293,8 +336,10 @@
             text: Event Series 
             icon: right
             path: event_series_photo_action.json
+            references:
+                - learning_guide_003::medium_card::value::photo
             
-    # Photo Story 3
+# Photo Story 3
 
         - 
             type: PreviewCard
@@ -315,12 +360,15 @@
                 - 
                     media: issue_series_005.jpg
                     media_caption: © Skyler Reid 2014
-
             text: "Central Question: What is it like to be a goalie?"
+            references:
+                - learning_guide_003::medium_card::value::photo
             
         - 
             type: BasicTextCard
             text: See what happens to Marvin on a typical day as a goalie for a local soccer team. This story is driven by images of a single character. Photo stories about a single character capture the character's emotion and his interactions with other characters in his story. 
+            references:
+                - learning_guide_003::medium_card::value::photo
 
         - 
             type: MilestoneCard
@@ -328,3 +376,5 @@
             text: Profile Highlights
             icon: right
             path: profile_highlights_photo.json
+            references:
+                - learning_guide_003::medium_card::value::photo

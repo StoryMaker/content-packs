@@ -1,5 +1,5 @@
 ---
-    id: lg_002
+    id: learning_guide_002
     title: Add More Detail to Your Story
     cards:
 
@@ -66,7 +66,8 @@
             text: See how combining five clips tells a more detailed story about Marvin, the main character.
 
         -
-            type: ChooseMediumCard
+            type: MediumCard
+            id: medium_card
             header: Select your Medium
 
         - 
@@ -74,6 +75,8 @@
             header: Next
             text: Add to my story
             icon: down
+            references:
+                - learning_guide_002::medium_card::value
 
         - 
             type: BasicTextCard

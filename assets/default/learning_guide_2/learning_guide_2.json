@@ -80,11 +80,15 @@
         }, 
         {
             "header": "Select your Medium", 
-            "type": "ChooseMediumCard"
+            "type": "MediumCard", 
+            "id": "medium_card"
         }, 
         {
-            "header": "Next", 
             "text": "Add to my story", 
+            "header": "Next", 
+            "references": [
+                "learning_guide_002::medium_card::value"
+            ], 
             "type": "EvaluationCard", 
             "id": "milestone_card_0", 
             "icon": "down"
@@ -213,6 +217,6 @@
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "id": "lg_002", 
+    "id": "learning_guide_002", 
     "title": "Add More Detail to Your Story"
 }

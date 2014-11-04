@@ -22,7 +22,8 @@
         }, 
         {
             "header": "Select your Medium", 
-            "type": "ChooseMediumCard"
+            "type": "MediumCard", 
+            "id": "medium_card"
         }, 
         {
             "medium": "video", 
@@ -35,20 +36,21 @@
             ], 
             "exampleMediaPath": "profile_interview_001.mp3", 
             "header": "Meet Goalie Marvin", 
+            "references": [
+                "learning_guide_003::medium_card::value::audio"
+            ], 
             "text": "Central Question: Why did Marvin become a goalie?", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
         }, 
         {
-            "text": "Listen to Marvin talk about what drives him, and how he ended up as goalie at local soccer matches. This story is driven by a single character, telling his story. To tell the story of one character, combine his voice with sounds that bring the audience into the story.", 
-            "type": "TextCard", 
-            "id": "text_card_0"
-        }, 
-        {
-            "text": "Profile Interview", 
             "header": "Launch", 
+            "references": [
+                "learning_guide_003::medium_card::value::audio"
+            ], 
             "path": "profile_interview_audio.json", 
+            "text": "Profile Interview", 
             "type": "EvaluationCard", 
             "id": "milestone_card_0", 
             "icon": "right"
@@ -64,6 +66,9 @@
             ], 
             "exampleMediaPath": "event_report_001.mp3", 
             "header": "Pickup Soccer Sunday", 
+            "references": [
+                "learning_guide_003::medium_card::value::audio"
+            ], 
             "text": "Central Question: What brought each person to the game?", 
             "clipType": "character", 
             "type": "ExampleCard", 
@@ -72,12 +77,18 @@
         {
             "text": "Listen as a narrator describes what happens when a group of strangers meet for a local soccer game. This story focuses on a specific event, what happened and why. With audio, individual voices often carry the story.", 
             "type": "TextCard", 
-            "id": "text_card_1"
+            "id": "text_card_0", 
+            "references": [
+                "learning_guide_003::medium_card::value::audio"
+            ]
         }, 
         {
-            "text": "Event Report", 
             "header": "Launch", 
+            "references": [
+                "learning_guide_003::medium_card::value::audio"
+            ], 
             "path": "event_report_audio.json", 
+            "text": "Event Report", 
             "type": "EvaluationCard", 
             "id": "milestone_card_1", 
             "icon": "right"
@@ -93,6 +104,9 @@
             ], 
             "exampleMediaPath": null, 
             "header": "What is Pickup Soccer?", 
+            "references": [
+                "learning_guide_003::medium_card::value::audio"
+            ], 
             "text": "Central Question: What makes pickup soccer great?", 
             "clipType": "character", 
             "type": "ExampleCard", 
@@ -101,12 +115,18 @@
         {
             "text": "Listen as the narrator explains pickup soccer and several characters describe why they love it. The story is driven by the question \"What is pickup soccer?\" In audio a narrator often introduces a story and uses the voices of individual characters to showcase different opinions or insights.", 
             "type": "TextCard", 
-            "id": "text_card_2"
+            "id": "text_card_1", 
+            "references": [
+                "learning_guide_003::medium_card::value::audio"
+            ]
         }, 
         {
-            "text": "Issue Report", 
             "header": "Launch", 
+            "references": [
+                "learning_guide_003::medium_card::value::audio"
+            ], 
             "path": "issue_report_audio.json", 
+            "text": "Issue Report", 
             "type": "EvaluationCard", 
             "id": "milestone_card_2", 
             "icon": "right"
@@ -122,6 +142,9 @@
             ], 
             "exampleMediaPath": "issue_discussion_001.mp3", 
             "header": "What's Great About Pickup Soccer?", 
+            "references": [
+                "learning_guide_003::medium_card::value::audio"
+            ], 
             "text": "Central Question: What do people love about pickup soccer?", 
             "clipType": "character", 
             "type": "ExampleCard", 
@@ -130,12 +153,15 @@
         {
             "text": "Listen as a group of New Yorkers talk about their love of soccer and pickup games in particular. This story is driven by characters discussing a specific question. Discussion stories work well in audio, which is often carried by individual voices.", 
             "type": "TextCard", 
-            "id": "text_card_3"
+            "id": "text_card_2"
         }, 
         {
-            "text": "Issue Report", 
             "header": "Launch", 
+            "references": [
+                "learning_guide_003::medium_card::value::audio"
+            ], 
             "path": "profile_interview_audio.json", 
+            "text": "Issue Report", 
             "type": "EvaluationCard", 
             "id": "milestone_card_3", 
             "icon": "right"
@@ -151,6 +177,9 @@
             ], 
             "exampleMediaPath": "issue_report_001.mov", 
             "header": "What is Pickup Soccer?", 
+            "references": [
+                "learning_guide_003::medium_card::value::video"
+            ], 
             "text": "Central Question: What makes pickup soccer great?", 
             "clipType": "character", 
             "type": "ExampleCard", 
@@ -159,12 +188,18 @@
         {
             "text": "Watch as a group of characters describe pickup soccer, while a narrator carries and directs the story. The story is driven by the question \"What is pickup soccer?\" In video images are used to support or contradict the voices of individual characters.", 
             "type": "TextCard", 
-            "id": "text_card_4"
+            "id": "text_card_3", 
+            "references": [
+                "learning_guide_003::medium_card::value::video"
+            ]
         }, 
         {
-            "text": "Issue Report", 
             "header": "Launch", 
+            "references": [
+                "learning_guide_003::medium_card::value::video"
+            ], 
             "path": "issue_report_video.json", 
+            "text": "Issue Report", 
             "type": "EvaluationCard", 
             "id": "milestone_card_4", 
             "icon": "right"
@@ -180,6 +215,9 @@
             ], 
             "exampleMediaPath": "profile_interview_001.mov", 
             "header": "Meet Goalie Marvin", 
+            "references": [
+                "learning_guide_003::medium_card::value::video"
+            ], 
             "text": "Central Question: Why did Marvin become a goalie?", 
             "clipType": "character", 
             "type": "ExampleCard", 
@@ -188,12 +226,18 @@
         {
             "text": "Watch Marvin playing hard while he talks about his life before and after becoming a goalie for a local soccer team. This story is driven by a single character, telling his story. In video use images to illustrate the characters words and conflict.", 
             "type": "TextCard", 
-            "id": "text_card_5"
+            "id": "text_card_4", 
+            "references": [
+                "learning_guide_003::medium_card::value::video"
+            ]
         }, 
         {
-            "text": "Profile Interview", 
             "header": "Launch", 
+            "references": [
+                "learning_guide_003::medium_card::value::video"
+            ], 
             "path": "profile_interview_video.json", 
+            "text": "Profile Interview", 
             "type": "EvaluationCard", 
             "id": "milestone_card_5", 
             "icon": "right"
@@ -209,6 +253,9 @@
             ], 
             "exampleMediaPath": "issue_discussion_001.mov", 
             "header": "What's Great About Pickup Soccer?", 
+            "references": [
+                "learning_guide_003::medium_card::value::video"
+            ], 
             "text": "Central Question: What do people love about pickup soccer?", 
             "clipType": "character", 
             "type": "ExampleCard", 
@@ -217,12 +264,15 @@
         {
             "text": "Watch as a group of strangers play soccer and discuss their love of pickup games in particular. This story is driven by characters discussing a specific question. Successful video discussions use video clips to support each character's answer.", 
             "type": "TextCard", 
-            "id": "text_card_6"
+            "id": "text_card_5"
         }, 
         {
-            "text": "Issue Discussion", 
             "header": "Launch", 
+            "references": [
+                "learning_guide_003::medium_card::value::video"
+            ], 
             "path": "issue_discussion_video_question_10.json", 
+            "text": "Issue Discussion", 
             "type": "EvaluationCard", 
             "id": "milestone_card_6", 
             "icon": "right"
@@ -238,6 +288,9 @@
             ], 
             "exampleMediaPath": "event_report_001.mov", 
             "header": "Pickup Soccer Sunday", 
+            "references": [
+                "learning_guide_003::medium_card::value::video"
+            ], 
             "text": "Central Question: What brought each person to the game?", 
             "clipType": "character", 
             "type": "ExampleCard", 
@@ -246,12 +299,18 @@
         {
             "text": "Watch what happens when a group of strangers meet for a local soccer game. This story focuses on a specific event, what happened and why. In video, strong images are as important as the voices of individual characters.", 
             "type": "TextCard", 
-            "id": "text_card_7"
+            "id": "text_card_6", 
+            "references": [
+                "learning_guide_003::medium_card::value::video"
+            ]
         }, 
         {
-            "text": "Event Report", 
             "header": "Launch", 
+            "references": [
+                "learning_guide_003::medium_card::value::video"
+            ], 
             "path": "event_report_video.json", 
+            "text": "Event Report", 
             "type": "EvaluationCard", 
             "id": "milestone_card_7", 
             "icon": "right"
@@ -295,6 +354,9 @@
             ], 
             "exampleMediaPath": "event_highlights_001.jpg", 
             "header": "Pickup Soccer Sunday", 
+            "references": [
+                "learning_guide_003::medium_card::value::photo"
+            ], 
             "text": "Central Question: What brought each person to the game?", 
             "clipType": "character", 
             "type": "ExampleCard", 
@@ -303,12 +365,18 @@
         {
             "text": "See what happens when a group of strangers meet for a local soccer game. This story focuses on a specific event, and what happened. Photo stories gather the best images to capture the emotion and action of the story, often using text to fill in missing details.", 
             "type": "TextCard", 
-            "id": "text_card_8"
+            "id": "text_card_7", 
+            "references": [
+                "learning_guide_003::medium_card::value::photo"
+            ]
         }, 
         {
-            "text": "Event Highlights", 
             "header": "Launch", 
+            "references": [
+                "learning_guide_003::medium_card::value::photo"
+            ], 
             "path": "event_highlights_photo.json", 
+            "text": "Event Highlights", 
             "type": "EvaluationCard", 
             "id": "milestone_card_8", 
             "icon": "right"
@@ -340,6 +408,9 @@
             ], 
             "exampleMediaPath": "issue_series_001.jpg", 
             "header": "What is Pickup Soccer?", 
+            "references": [
+                "learning_guide_003::medium_card::value::photo"
+            ], 
             "text": "Central Question: What makes pickup soccer great?", 
             "clipType": "character", 
             "type": "ExampleCard", 
@@ -348,12 +419,18 @@
         {
             "text": "Look at this series of portraits of local soccer players. The story is driven by the portraits of a series of characters, supported by text and captions describing pickup soccer. Photo stories often use a series of related images to engage the audience, and fill in relevant details with text.", 
             "type": "TextCard", 
-            "id": "text_card_9"
+            "id": "text_card_8", 
+            "references": [
+                "learning_guide_003::medium_card::value::photo"
+            ]
         }, 
         {
-            "text": "Event Series", 
             "header": "Launch", 
+            "references": [
+                "learning_guide_003::medium_card::value::photo"
+            ], 
             "path": "event_series_photo_action.json", 
+            "text": "Event Series", 
             "type": "EvaluationCard", 
             "id": "milestone_card_9", 
             "icon": "right"
@@ -385,6 +462,9 @@
             ], 
             "exampleMediaPath": "issue_series_001.jpg", 
             "header": "Meet Goalie Marvin", 
+            "references": [
+                "learning_guide_003::medium_card::value::photo"
+            ], 
             "text": "Central Question: What is it like to be a goalie?", 
             "clipType": "character", 
             "type": "ExampleCard", 
@@ -393,18 +473,24 @@
         {
             "text": "See what happens to Marvin on a typical day as a goalie for a local soccer team. This story is driven by images of a single character. Photo stories about a single character capture the character's emotion and his interactions with other characters in his story.", 
             "type": "TextCard", 
-            "id": "text_card_10"
+            "id": "text_card_9", 
+            "references": [
+                "learning_guide_003::medium_card::value::photo"
+            ]
         }, 
         {
-            "text": "Profile Highlights", 
             "header": "Launch", 
+            "references": [
+                "learning_guide_003::medium_card::value::photo"
+            ], 
             "path": "profile_highlights_photo.json", 
+            "text": "Profile Highlights", 
             "type": "EvaluationCard", 
             "id": "milestone_card_10", 
             "icon": "right"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "id": "lg_003", 
+    "id": "learning_guide_003", 
     "title": "Tell Stories with a Central Question"
 }
