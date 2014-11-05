@@ -3,8 +3,8 @@
         {
             "level": "Basic 2", 
             "headline": "Add More Detail to Your Story", 
-            "multimedia": "lg_002_01.png", 
             "time": null, 
+            "exampleMediaPath": "lg_002_01.png", 
             "type": "IntroCard", 
             "id": "intro_card_0"
         }, 
@@ -183,8 +183,11 @@
             "id": "clip_photo_1"
         }, 
         {
-            "length": "0:10", 
             "medium": "video", 
+            "length": "0:10", 
+            "references": [
+                "learning_guide_1::clip_photo_1::clips"
+            ], 
             "goals": [
                 "Show the result of your character's action."
             ], 
@@ -427,6 +430,7 @@
             "icon": "Right"
         }
     ], 
+    "storyPathLibraryFile": "learning_guide_2_library.json", 
     "classPackage": "scal.io.liger.model", 
     "id": "learning_guide_2", 
     "title": "Add More Detail to Your Story"

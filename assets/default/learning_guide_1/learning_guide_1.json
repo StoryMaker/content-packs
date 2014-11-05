@@ -1,10 +1,19 @@
 {
+    "title": "Learn the Basic Elements of a Story", 
+    "storyPathLibraryFile": "learning_guide_1_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "learning_guide_2", 
+            "dependencyFile": "../learning_guide_2/learning_guide_2.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
     "cards": [
         {
             "level": "Basic 1", 
             "headline": "The Elements of a Story", 
-            "multimedia": "lg_001_01.png", 
             "time": null, 
+            "exampleMediaPath": "lg_001_01.png", 
             "type": "IntroCard", 
             "id": "intro_card_0"
         }, 
@@ -336,13 +345,12 @@
         {
             "text": "Next: Add More Detail to Your Story", 
             "link": "learning_guide_2::intro_card_0", 
+            "id": "link_card_0", 
             "references": [
                 "learning_guide_1::selfeval_card_0::value_0::true"
             ], 
             "type": "LinkCard"
         }
     ], 
-    "classPackage": "scal.io.liger.model", 
-    "id": "learning_guide_1", 
-    "title": "Learn the Basic Elements of a Story"
+    "id": "learning_guide_1"
 }

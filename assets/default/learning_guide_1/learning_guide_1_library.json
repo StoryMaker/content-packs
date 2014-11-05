@@ -1,27 +1,23 @@
 {
-    "cards": [
+    "title": "Learn the Basic Elements of a Story", 
+    "storyPathTemplateFiles": {
+        "learning_guide_1": "learning_guide_1.json"
+    }, 
+    "dependencies": [
         {
-            "text": "LOAD IT!", 
-            "values": {
-                "value": false
-            }, 
-            "id": "load_button", 
-            "type": "ButtonCard"
-        }, 
+            "dependencyId": "learning_guide_1", 
+            "dependencyFile": "learning_guide_1.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
         {
             "action": "LOAD", 
             "type": "LoaderHeadlessCard", 
-            "references": [
-                "learning_guide_1_library::load_button::value::true"
-            ], 
             "id": "loader_card", 
             "target": "learning_guide_1"
         }
     ], 
-    "storyPathTemplateFiles": {
-        "learning_guide_1": "learning_guide_1.json"
-    }, 
-    "classPackage": "scal.io.liger.model", 
-    "id": "learning_guide_1_library", 
-    "title": "Learn the Basic Elements of a Story"
+    "currentStoryPathFile": "learning_guide_1.json", 
+    "id": "learning_guide_1_library"
 }

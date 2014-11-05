@@ -130,14 +130,8 @@
         }, 
         {
             "medium": "audio", 
-            "type": "PublishCard", 
+            "type": "PublishButtonCard", 
             "id": "publish_card_1"
-        }, 
-        {
-            "text": "Next Up", 
-            "medium": "audio", 
-            "type": "MilestoneCard", 
-            "id": "nextup_card_0"
         }
     ], 
     "classPackage": "scal.io.liger.model", 

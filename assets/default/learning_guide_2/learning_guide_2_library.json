@@ -1,4 +1,15 @@
 {
+    "title": "Learn the Basic Elements of a Story", 
+    "storyPathTemplateFiles": {
+        "learning_guide_2": "learning_guide_2.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "learning_guide_2", 
+            "dependencyFile": "learning_guide_2.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
     "cards": [
         {
             "action": "LOAD", 
@@ -7,10 +18,6 @@
             "target": "learning_guide_2"
         }
     ], 
-    "storyPathTemplateFiles": {
-        "learning_guide_2": "learning_guide_2.json"
-    }, 
-    "classPackage": "scal.io.liger.model", 
-    "id": "learning_guide_2_library", 
-    "title": "Add More Detail to Your Story"
+    "currentStoryPathFile": "learning_guide_2.json", 
+    "id": "learning_guide_2_library"
 }

@@ -3,8 +3,8 @@
         {
             "level": "Basic 3", 
             "headline": "Tell Stories with a Central Question", 
-            "multimedia": "lg_003_01.png", 
             "time": null, 
+            "exampleMediaPath": "lg_003_01.png", 
             "type": "IntroCard", 
             "id": "intro_card_0"
         }, 
@@ -490,6 +490,7 @@
             "icon": "right"
         }
     ], 
+    "storyPathLibraryFile": "learning_guide_3_library.json", 
     "classPackage": "scal.io.liger.model", 
     "id": "learning_guide_3", 
     "title": "Tell Stories with a Central Question"

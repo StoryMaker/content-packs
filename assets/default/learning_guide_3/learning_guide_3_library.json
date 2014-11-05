@@ -1,4 +1,15 @@
 {
+    "title": "Learn the Basic Elements of a Story", 
+    "storyPathTemplateFiles": {
+        "learning_guide_3": "learning_guide_3.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "learning_guide_3", 
+            "dependencyFile": "learning_guide_3.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
     "cards": [
         {
             "action": "LOAD", 
@@ -7,10 +18,6 @@
             "target": "learning_guide_3"
         }
     ], 
-    "storyPathTemplateFiles": {
-        "learning_guide_3": "learning_guide_3.json"
-    }, 
-    "classPackage": "scal.io.liger.model", 
-    "id": "learning_guide_3_library", 
-    "title": "Tell Stories with a Central Question"
+    "currentStoryPathFile": "learning_guide_3.json", 
+    "id": "learning_guide_3_library"
 }
