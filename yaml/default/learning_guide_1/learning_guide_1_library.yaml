@@ -4,7 +4,7 @@
     classPackage: scal.io.liger.model
     storyPathTemplateFiles:
         learning_guide_1: learning_guide_1.json
-    dependancies:
+    dependencies:
         -
             dependencyId: learning_guide_2
             dependencyFile: ../learning_guide_2/learning_guide_2.json

@@ -224,8 +224,8 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
     if objs.has_key('storyPathTemplateFiles'): 
         doc['storyPathTemplateFiles'] = objs['storyPathTemplateFiles']
         
-    if objs.has_key('dependancies'): 
-        doc['dependancies'] = objs['dependancies']
+    if objs.has_key('dependencies'): 
+        doc['dependencies'] = objs['dependencies']
           
     try: 
         os.makedirs(json_dir)
