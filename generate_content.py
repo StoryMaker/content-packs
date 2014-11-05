@@ -111,7 +111,7 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
             #no translatable strings
 
         elif card['type'] == 'EvaluationCard':
-            newcard['type'] = 'EvaluationCard'
+            newcard['type'] = 'BasicTextCard' # FIXME 
             set_id("evaluation_card", newcard)
             newcard['text'] = card['text']
 
@@ -119,8 +119,8 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
             card_fqid = "%s::%s" % (objs['id'], newcard['id'])
             strings["%s::text" % card_fqid] = newcard['text']
 
-        elif card['type'] == 'SelfEvalCard': # WTF this card doesn't exist
-            newcard['type'] = 'BasicTextCard'
+        elif card['type'] == 'SelfEvalCard':
+            #newcard['type'] = 'BasicTextCard'
             set_id("selfeval_card", newcard)
             newcard['text'] = card['header']
 
@@ -138,16 +138,19 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
             strings["%s::text" % card_fqid] = newcard['text']
 
         elif card['type'] == 'MilestoneCard':
-            newcard['type'] = 'EvaluationCard'
+            newcard['type'] = 'ButtonCard' # FIXME proably closer to EvaluationCard?
             set_id("milestone_card", newcard)
             newcard['text'] = card['text']
-            newcard['header'] = card['header']
-            newcard['icon'] = card['icon']
+            #newcard['header'] = card['header']
+            #newcard['icon'] = card['icon']
 
             #strings
             card_fqid = "%s::%s" % (objs['id'], newcard['id'])
             strings["%s::text" % card_fqid] = newcard['text']
             strings["%s::header" % card_fqid] = newcard['header']
+            
+            #del newcard['header']#newcard['header'] = card['header'] # FIXME
+            #del newcard['icon']#newcard['icon'] = card['icon'] # FIXME
 
         elif card['type'] == 'PublishCard':
             newcard['type'] = 'PublishCard'
@@ -157,7 +160,9 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
             #no translatable strings
 
         elif card['type'] == 'NextUpCard':
-            newcard['type'] = 'NextUpCard'
+            newcard['type'] = 'MilestoneCard' # FIXME wtf is this?  it has no text or links
+            #medium == audio 
+            newcard['text'] = "Next Up" # FIXME
             set_id("nextup_card", newcard)
             newcard['medium'] = card['medium']
             
@@ -198,7 +203,7 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
 
         elif card['type'] == 'TextCard' or card['type'] == 'BasicTextCard':
             set_id("text_card", newcard)
-            newcard['type'] = 'TextCard'
+            newcard['type'] = 'BasicTextCard'
             newcard['text'] = card['text']
 
             #strings
@@ -218,6 +223,10 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
     if objs.has_key('storyPathTemplateFiles'): 
         doc['storyPathTemplateFiles'] = objs['storyPathTemplateFiles']
           
+    try: 
+        os.makedirs(json_dir)
+    except: pass
+    
     j = json.dumps(doc, indent=4)
     json_outfile = open(json_out_filename, 'w')
     json_outfile.write(j)
@@ -232,6 +241,9 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
     # strings_outfile.write(y)
     # strings_outfile.close()
 
+    try:
+        os.makedirs(strings_dir)
+    except: pass
     strings_json = json.dumps(strings, indent=2)
     strings_outfile = open(strings_out_filename, 'w')
     strings_outfile.write(strings_json)
@@ -253,11 +265,11 @@ def do_dir():
 
 # FIXME global vars are the best!!
 print "generating content for default library"
-# cardcounts = {}
-# yaml_dir = os.getcwd() + "/yaml/default/default_library"
-# json_dir = os.getcwd() + "/assets/default/default_library"
-# strings_dir = os.getcwd() + "/intermediates/strings/default/default_library"
-# do_dir()
+cardcounts = {}
+yaml_dir = os.getcwd() + "/yaml/default/default_library"
+json_dir = os.getcwd() + "/assets/default/default_library"
+strings_dir = os.getcwd() + "/intermediates/strings/default/default_library"
+do_dir()
 
 print "generating content for learning guide 1"
 yaml_dir = os.getcwd() + "/yaml/default/learning_guide_1"
