@@ -40,7 +40,7 @@
         }, 
         {
             "text": "Talk to different people for each clip to give your story a range of voices.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_0"
         }, 
         {
@@ -73,7 +73,7 @@
         }, 
         {
             "text": "If you get a bad answer, it's smart to try again with a new clip.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_1"
         }, 
         {
@@ -140,7 +140,7 @@
         }, 
         {
             "text": "--------", 
-            "type": "EvaluationCard", 
+            "type": "BasicTextCard", 
             "id": "evaluation_card_0"
         }, 
         {
@@ -149,8 +149,9 @@
             "id": "publish_card_1"
         }, 
         {
+            "text": "Next Up", 
             "medium": "video", 
-            "type": "NextUpCard", 
+            "type": "MilestoneCard", 
             "id": "nextup_card_0"
         }
     ], 

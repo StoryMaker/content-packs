@@ -117,7 +117,7 @@
         }, 
         {
             "text": "Does your story offer good ideas about how to handle the issue?", 
-            "type": "EvaluationCard", 
+            "type": "BasicTextCard", 
             "id": "evaluation_card_0"
         }, 
         {
@@ -126,8 +126,9 @@
             "id": "publish_card_1"
         }, 
         {
+            "text": "Next Up", 
             "medium": "audio", 
-            "type": "NextUpCard", 
+            "type": "MilestoneCard", 
             "id": "nextup_card_0"
         }
     ], 

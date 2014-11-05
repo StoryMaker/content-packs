@@ -51,7 +51,7 @@
             ], 
             "path": "profile_interview_audio.json", 
             "text": "Profile Interview", 
-            "type": "EvaluationCard", 
+            "type": "ButtonCard", 
             "id": "milestone_card_0", 
             "icon": "right"
         }, 
@@ -76,7 +76,7 @@
         }, 
         {
             "text": "Listen as a narrator describes what happens when a group of strangers meet for a local soccer game. This story focuses on a specific event, what happened and why. With audio, individual voices often carry the story.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_0", 
             "references": [
                 "learning_guide_3::medium_card::value::audio"
@@ -89,7 +89,7 @@
             ], 
             "path": "event_report_audio.json", 
             "text": "Event Report", 
-            "type": "EvaluationCard", 
+            "type": "ButtonCard", 
             "id": "milestone_card_1", 
             "icon": "right"
         }, 
@@ -114,7 +114,7 @@
         }, 
         {
             "text": "Listen as the narrator explains pickup soccer and several characters describe why they love it. The story is driven by the question \"What is pickup soccer?\" In audio a narrator often introduces a story and uses the voices of individual characters to showcase different opinions or insights.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_1", 
             "references": [
                 "learning_guide_3::medium_card::value::audio"
@@ -127,7 +127,7 @@
             ], 
             "path": "issue_report_audio.json", 
             "text": "Issue Report", 
-            "type": "EvaluationCard", 
+            "type": "ButtonCard", 
             "id": "milestone_card_2", 
             "icon": "right"
         }, 
@@ -152,7 +152,7 @@
         }, 
         {
             "text": "Listen as a group of New Yorkers talk about their love of soccer and pickup games in particular. This story is driven by characters discussing a specific question. Discussion stories work well in audio, which is often carried by individual voices.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_2"
         }, 
         {
@@ -162,7 +162,7 @@
             ], 
             "path": "profile_interview_audio.json", 
             "text": "Issue Report", 
-            "type": "EvaluationCard", 
+            "type": "ButtonCard", 
             "id": "milestone_card_3", 
             "icon": "right"
         }, 
@@ -187,7 +187,7 @@
         }, 
         {
             "text": "Watch as a group of characters describe pickup soccer, while a narrator carries and directs the story. The story is driven by the question \"What is pickup soccer?\" In video images are used to support or contradict the voices of individual characters.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_3", 
             "references": [
                 "learning_guide_3::medium_card::value::video"
@@ -200,7 +200,7 @@
             ], 
             "path": "issue_report_video.json", 
             "text": "Issue Report", 
-            "type": "EvaluationCard", 
+            "type": "ButtonCard", 
             "id": "milestone_card_4", 
             "icon": "right"
         }, 
@@ -225,7 +225,7 @@
         }, 
         {
             "text": "Watch Marvin playing hard while he talks about his life before and after becoming a goalie for a local soccer team. This story is driven by a single character, telling his story. In video use images to illustrate the characters words and conflict.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_4", 
             "references": [
                 "learning_guide_3::medium_card::value::video"
@@ -238,7 +238,7 @@
             ], 
             "path": "profile_interview_video.json", 
             "text": "Profile Interview", 
-            "type": "EvaluationCard", 
+            "type": "ButtonCard", 
             "id": "milestone_card_5", 
             "icon": "right"
         }, 
@@ -263,7 +263,7 @@
         }, 
         {
             "text": "Watch as a group of strangers play soccer and discuss their love of pickup games in particular. This story is driven by characters discussing a specific question. Successful video discussions use video clips to support each character's answer.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_5"
         }, 
         {
@@ -273,7 +273,7 @@
             ], 
             "path": "issue_discussion_video_question_10.json", 
             "text": "Issue Discussion", 
-            "type": "EvaluationCard", 
+            "type": "ButtonCard", 
             "id": "milestone_card_6", 
             "icon": "right"
         }, 
@@ -298,7 +298,7 @@
         }, 
         {
             "text": "Watch what happens when a group of strangers meet for a local soccer game. This story focuses on a specific event, what happened and why. In video, strong images are as important as the voices of individual characters.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_6", 
             "references": [
                 "learning_guide_3::medium_card::value::video"
@@ -311,7 +311,7 @@
             ], 
             "path": "event_report_video.json", 
             "text": "Event Report", 
-            "type": "EvaluationCard", 
+            "type": "ButtonCard", 
             "id": "milestone_card_7", 
             "icon": "right"
         }, 
@@ -364,7 +364,7 @@
         }, 
         {
             "text": "See what happens when a group of strangers meet for a local soccer game. This story focuses on a specific event, and what happened. Photo stories gather the best images to capture the emotion and action of the story, often using text to fill in missing details.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_7", 
             "references": [
                 "learning_guide_3::medium_card::value::photo"
@@ -377,7 +377,7 @@
             ], 
             "path": "event_highlights_photo.json", 
             "text": "Event Highlights", 
-            "type": "EvaluationCard", 
+            "type": "ButtonCard", 
             "id": "milestone_card_8", 
             "icon": "right"
         }, 
@@ -418,7 +418,7 @@
         }, 
         {
             "text": "Look at this series of portraits of local soccer players. The story is driven by the portraits of a series of characters, supported by text and captions describing pickup soccer. Photo stories often use a series of related images to engage the audience, and fill in relevant details with text.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_8", 
             "references": [
                 "learning_guide_3::medium_card::value::photo"
@@ -431,7 +431,7 @@
             ], 
             "path": "event_series_photo_action.json", 
             "text": "Event Series", 
-            "type": "EvaluationCard", 
+            "type": "ButtonCard", 
             "id": "milestone_card_9", 
             "icon": "right"
         }, 
@@ -472,7 +472,7 @@
         }, 
         {
             "text": "See what happens to Marvin on a typical day as a goalie for a local soccer team. This story is driven by images of a single character. Photo stories about a single character capture the character's emotion and his interactions with other characters in his story.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_9", 
             "references": [
                 "learning_guide_3::medium_card::value::photo"
@@ -485,7 +485,7 @@
             ], 
             "path": "profile_highlights_photo.json", 
             "text": "Profile Highlights", 
-            "type": "EvaluationCard", 
+            "type": "ButtonCard", 
             "id": "milestone_card_10", 
             "icon": "right"
         }

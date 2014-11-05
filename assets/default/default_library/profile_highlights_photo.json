@@ -90,7 +90,7 @@
         }, 
         {
             "text": "If there are more than three important moments, you should add clips to include them.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_0"
         }, 
         {
@@ -135,7 +135,7 @@
         }, 
         {
             "text": "--------", 
-            "type": "EvaluationCard", 
+            "type": "BasicTextCard", 
             "id": "evaluation_card_0"
         }, 
         {
@@ -144,8 +144,9 @@
             "id": "publish_card_1"
         }, 
         {
+            "text": "Next Up", 
             "medium": "photo", 
-            "type": "NextUpCard", 
+            "type": "MilestoneCard", 
             "id": "nextup_card_0"
         }
     ], 

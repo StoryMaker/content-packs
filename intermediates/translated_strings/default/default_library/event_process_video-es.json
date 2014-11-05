@@ -5,7 +5,7 @@
     "event_process_video::clip_card_4::goals[0]": "Muestre la tercera fase significativa del evento.",
     "event_process_video::clip_card_8::goals[0]": "Muestre personas que observan o reaccionan al evento. Mejor los espectadores absortos y los animados.",
     "event_process_video::clip_card_1::goals[0]": "Muestre el preciso comienzo del evento.",
-    "event_process_video::text_card_1::text": "Si conlleva más de cuatro pasos, añada más entradas de vídeo con el botón +.",
+    "event_process_video::text_card_1::text": "Si conlleva más de cuatro pasos, añada más cartas de cortes de vídeo con el botón +.",
     "event_process_video::clip_card_5::goals[0]": "Muestre la última fase significativa del evento.",
     "event_process_video::clip_card_2::goals[0]": "Muestre la primera fase significativa del evento.",
     "event_process_video::clip_card_9::goals[0]": "Muestre el producto terminado o la conclusión del evento - el dramático final.",

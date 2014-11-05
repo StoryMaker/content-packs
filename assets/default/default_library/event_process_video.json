@@ -32,7 +32,7 @@
         }, 
         {
             "text": "Do not shoot every step. Just the significant steps to show the progression from beginning to end.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_0"
         }, 
         {
@@ -57,7 +57,7 @@
         }, 
         {
             "text": "If there are more than four steps involved, add more clip cards with the + button.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_1"
         }, 
         {
@@ -133,7 +133,7 @@
         }, 
         {
             "text": "--------", 
-            "type": "EvaluationCard", 
+            "type": "BasicTextCard", 
             "id": "evaluation_card_0"
         }, 
         {
@@ -142,8 +142,9 @@
             "id": "publish_card_1"
         }, 
         {
+            "text": "Next Up", 
             "medium": "video", 
-            "type": "NextUpCard", 
+            "type": "MilestoneCard", 
             "id": "nextup_card_0"
         }
     ], 

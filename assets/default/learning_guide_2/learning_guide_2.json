@@ -89,18 +89,18 @@
             "references": [
                 "learning_guide_2::medium_card::value"
             ], 
-            "type": "EvaluationCard", 
+            "type": "ButtonCard", 
             "id": "milestone_card_0", 
             "icon": "down"
         }, 
         {
             "text": "Here are the three clips you created in the first lesson, Basics 1.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_0"
         }, 
         {
-            "length": "0:40", 
             "medium": "video", 
+            "length": "0:40", 
             "references": [
                 "learning_guide_1::clip_video_0::clips"
             ], 
@@ -108,12 +108,13 @@
                 "Ask your character to tell a story."
             ], 
             "exampleMediaPath": null, 
-            "type": "Character", 
+            "clipType": "Character", 
+            "type": "ClipCard", 
             "id": "clip_video_0"
         }, 
         {
-            "length": "0:40", 
             "medium": "audio", 
+            "length": "0:40", 
             "references": [
                 "learning_guide_1::clip_audio_0::clips"
             ], 
@@ -121,12 +122,13 @@
                 "Ask your character to tell a story."
             ], 
             "exampleMediaPath": null, 
-            "type": "Character", 
+            "clipType": "Character", 
+            "type": "ClipCard", 
             "id": "clip_audio_0"
         }, 
         {
-            "length": "0:00", 
             "medium": "photo", 
+            "length": "0:00", 
             "references": [
                 "learning_guide_1::clip_photo_0::clips"
             ], 
@@ -134,12 +136,13 @@
                 "Introduce the character of your story."
             ], 
             "exampleMediaPath": null, 
-            "type": "Character", 
+            "clipType": "Character", 
+            "type": "ClipCard", 
             "id": "clip_photo_0"
         }, 
         {
-            "length": "0:08", 
             "medium": "video", 
+            "length": "0:08", 
             "references": [
                 "learning_guide_1::clip_video_1::clips"
             ], 
@@ -147,12 +150,13 @@
                 "Show your character doing an action related to the story."
             ], 
             "exampleMediaPath": null, 
-            "type": "Action", 
+            "clipType": "Action", 
+            "type": "ClipCard", 
             "id": "clip_video_1"
         }, 
         {
-            "length": "0:12", 
             "medium": "audio", 
+            "length": "0:12", 
             "references": [
                 "learning_guide_1::clip_audio_1::clips"
             ], 
@@ -160,12 +164,13 @@
                 "Record your character doing an action related to the story."
             ], 
             "exampleMediaPath": null, 
-            "type": "Action", 
+            "clipType": "Action", 
+            "type": "ClipCard", 
             "id": "clip_audio_1"
         }, 
         {
-            "length": "0:00", 
             "medium": "photo", 
+            "length": "0:00", 
             "references": [
                 "learning_guide_1::clip_photo_1::clips"
             ], 
@@ -173,7 +178,8 @@
                 "Capture your character doing an action related to the story."
             ], 
             "exampleMediaPath": null, 
-            "type": "Action", 
+            "clipType": "Action", 
+            "type": "ClipCard", 
             "id": "clip_photo_1"
         }, 
         {
@@ -183,12 +189,13 @@
                 "Show the result of your character's action."
             ], 
             "exampleMediaPath": null, 
-            "type": "Result", 
+            "clipType": "Result", 
+            "type": "ClipCard", 
             "id": "clip_video_2"
         }, 
         {
-            "length": "0:15", 
             "medium": "audio", 
+            "length": "0:15", 
             "references": [
                 "learning_guide_1::clip_audio_2::clips"
             ], 
@@ -196,12 +203,13 @@
                 "Record the result of your character's action."
             ], 
             "exampleMediaPath": null, 
-            "type": "Action", 
+            "clipType": "Action", 
+            "type": "ClipCard", 
             "id": "clip_audio_2"
         }, 
         {
-            "length": "0:00", 
             "medium": "photo", 
+            "length": "0:00", 
             "references": [
                 "learning_guide_1::clip_photo_2::clips"
             ], 
@@ -209,12 +217,13 @@
                 "Show the result of your character's action."
             ], 
             "exampleMediaPath": null, 
-            "type": "Action", 
+            "clipType": "Action", 
+            "type": "ClipCard", 
             "id": "clip_photo_2"
         }, 
         {
             "text": "Good. Now let's add clips to support the character's story. With the next two clip cards, add an action and result.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_1"
         }, 
         {
@@ -224,7 +233,8 @@
                 "Show your character doing an action related to the story."
             ], 
             "exampleMediaPath": null, 
-            "type": "Action", 
+            "clipType": "Action", 
+            "type": "ClipCard", 
             "id": "clip_video_3"
         }, 
         {
@@ -234,7 +244,8 @@
                 "Record your character doing an action related to the story."
             ], 
             "exampleMediaPath": null, 
-            "type": "Action", 
+            "clipType": "Action", 
+            "type": "ClipCard", 
             "id": "clip_audio_3"
         }, 
         {
@@ -244,7 +255,8 @@
                 "Capture your character doing an action related to the story."
             ], 
             "exampleMediaPath": null, 
-            "type": "Action", 
+            "clipType": "Action", 
+            "type": "ClipCard", 
             "id": "clip_photo_3"
         }, 
         {
@@ -254,7 +266,8 @@
                 "Show the result of your character's action."
             ], 
             "exampleMediaPath": null, 
-            "type": "Result", 
+            "clipType": "Result", 
+            "type": "ClipCard", 
             "id": "clip_video_4"
         }, 
         {
@@ -264,7 +277,8 @@
                 "Record the result of your character's action."
             ], 
             "exampleMediaPath": null, 
-            "type": "Action", 
+            "clipType": "Action", 
+            "type": "ClipCard", 
             "id": "clip_audio_4"
         }, 
         {
@@ -274,12 +288,13 @@
                 "Show the result of your character's action."
             ], 
             "exampleMediaPath": null, 
-            "type": "Action", 
+            "clipType": "Action", 
+            "type": "ClipCard", 
             "id": "clip_photo_4"
         }, 
         {
             "text": "Build on the story you created in the first lesson, Basics 1. Capture the two clips below. Then we'll review the full story.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_2"
         }, 
         {
@@ -289,7 +304,8 @@
                 "Show something important about your character."
             ], 
             "exampleMediaPath": null, 
-            "type": "Signature", 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
             "id": "clip_video_3"
         }, 
         {
@@ -299,7 +315,8 @@
                 "Record something important about your character."
             ], 
             "exampleMediaPath": null, 
-            "type": "Signature", 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
             "id": "clip_audio_3"
         }, 
         {
@@ -309,12 +326,13 @@
                 "Show something important about your character."
             ], 
             "exampleMediaPath": null, 
-            "type": "Signature", 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
             "id": "clip_photo_3"
         }, 
         {
             "text": "Good. Now let's add clips to support the Character's story. With the next two clip cards, add an action and result.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_3"
         }, 
         {
@@ -324,7 +342,8 @@
                 "Show us where your story happens."
             ], 
             "exampleMediaPath": null, 
-            "type": "Place", 
+            "clipType": "Place", 
+            "type": "ClipCard", 
             "id": "clip_video_4"
         }, 
         {
@@ -334,7 +353,8 @@
                 "Record the enviroment where your story happens."
             ], 
             "exampleMediaPath": null, 
-            "type": "Place", 
+            "clipType": "Place", 
+            "type": "ClipCard", 
             "id": "clip_audio_4"
         }, 
         {
@@ -344,19 +364,20 @@
                 "Show us where your story happens."
             ], 
             "exampleMediaPath": null, 
-            "type": "Place", 
+            "clipType": "Place", 
+            "type": "ClipCard", 
             "id": "clip_photo_4"
         }, 
         {
             "header": "Next", 
             "text": "Order your clips", 
-            "type": "EvaluationCard", 
+            "type": "ButtonCard", 
             "id": "milestone_card_1", 
             "icon": "down"
         }, 
         {
             "text": "Order your clips to tell your story with these additional details.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_4"
         }, 
         {
@@ -377,14 +398,14 @@
         {
             "header": "Next", 
             "text": "Finish", 
-            "type": "EvaluationCard", 
+            "type": "ButtonCard", 
             "id": "milestone_card_2", 
             "icon": "down"
         }, 
         {
             "header": "Does the order of your new clips tell a more detailed story?", 
             "text": "Does the order of your new clips tell a more detailed story?", 
-            "type": "BasicTextCard", 
+            "type": "SelfEvalCard", 
             "id": "selfeval_card_0", 
             "checklist": [
                 "Thumbs Up", 
@@ -401,7 +422,7 @@
             "text": "Tell Stories with a Central Question", 
             "header": "Next", 
             "path": "lg_003", 
-            "type": "EvaluationCard", 
+            "type": "ButtonCard", 
             "id": "milestone_card_3", 
             "icon": "Right"
         }

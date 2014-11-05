@@ -104,7 +104,7 @@
         }, 
         {
             "text": "Does your story tell us why the event is important?", 
-            "type": "EvaluationCard", 
+            "type": "BasicTextCard", 
             "id": "evaluation_card_0"
         }, 
         {
@@ -113,8 +113,9 @@
             "id": "publish_card_1"
         }, 
         {
+            "text": "Next Up", 
             "medium": "audio", 
-            "type": "NextUpCard", 
+            "type": "MilestoneCard", 
             "id": "nextup_card_0"
         }
     ], 

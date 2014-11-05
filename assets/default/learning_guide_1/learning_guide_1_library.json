@@ -1,8 +1,19 @@
 {
     "cards": [
         {
+            "text": "LOAD IT!", 
+            "values": {
+                "value": false
+            }, 
+            "id": "load_button", 
+            "type": "ButtonCard"
+        }, 
+        {
             "action": "LOAD", 
             "type": "LoaderHeadlessCard", 
+            "references": [
+                "learning_guide_1_library::load_button::value::true"
+            ], 
             "id": "loader_card", 
             "target": "learning_guide_1"
         }
