@@ -6,9 +6,16 @@
         learning_guide_1: learning_guide_1.json
         
     cards:
-        -   
+        -
+            id: load_button
+            type: ButtonCard
+            text: LOAD IT!
+            values:
+                value: false
+        -
             type: LoaderHeadlessCard
             id: loader_card
             action: LOAD
             target: learning_guide_1
-
+            references:
+                - learning_guide_1_library::load_button::value::true

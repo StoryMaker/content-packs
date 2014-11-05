@@ -1,6 +1,10 @@
 ---
     id: learning_guide_1
     title: Learn the Basic Elements of a Story 
+    dependancies:
+        -
+            dependencyId: learning_guide_2
+            dependencyFile: ../learning_guide_2/learning_guide_2.json
     cards:
 
         - 
@@ -73,6 +77,7 @@
 
         - 
             type: MilestoneCard
+            id: milestone_start_creating
             header: Next
             text: Start creating
             icon: down
@@ -82,8 +87,8 @@
         - 
             type: HowToCard
             text: "Next up is a clip card. Use it to add clips of your character."
-            #references:
-            #    - learning_guide_1::medium_card::value
+            references:
+                - learning_guide_1::milestone_start_creating::value::true
 
         - 
             type: ClipCard
@@ -92,10 +97,11 @@
             exampleMediaPath: 
             goals: 
                 - Ask your character to tell a story.
-            type: Character
+            clipType: Character
             length: 0:40
             references:
                 - learning_guide_1::medium_card::value::video
+                - learning_guide_1::milestone_start_creating::value::true
 
         - 
             type: ClipCard
@@ -104,10 +110,11 @@
             exampleMediaPath: 
             goals: 
                 - Ask your character to tell a story.
-            type: Character
+            clipType: Character
             length: 0:40
             references:
                 - learning_guide_1::medium_card::value::audio
+                - learning_guide_1::milestone_start_creating::value::true
 
         - 
             type: ClipCard
@@ -116,14 +123,17 @@
             exampleMediaPath: 
             goals: 
                 - Introduce the character of your story.
-            type: Character
+            clipType: Character
             length: 0:00
             references:
                 - learning_guide_1::medium_card::value::photo
+                - learning_guide_1::milestone_start_creating::value::true
 
         - 
             type: BasicTextCard
             text: "Good. Now let's add clips to support the character's story. With the next two clip cards, add an action and result."
+            references:
+                - learning_guide_1::milestone_start_creating::value::true
 
         - 
             type: ClipCard
@@ -132,10 +142,11 @@
             exampleMediaPath: 
             goals: 
                 - Show your character doing an action related to the story.
-            type: Action
+            clipType: Action
             length: 0:08
             references:
                 - learning_guide_1::medium_card::value::video
+                - learning_guide_1::milestone_start_creating::value::true
 
         - 
             type: ClipCard
@@ -144,10 +155,11 @@
             exampleMediaPath: 
             goals: 
                 - Record your character doing an action related to the story.
-            type: Action
+            clipType: Action
             length: 0:12
             references:
                 - learning_guide_1::medium_card::value::audio
+                - learning_guide_1::milestone_start_creating::value::true
 
         - 
             type: ClipCard
@@ -156,10 +168,11 @@
             exampleMediaPath: 
             goals: 
                 - Capture your character doing an action related to the story.
-            type: Action
+            clipType: Action
             length: 0:00
             references:
                 - learning_guide_1::medium_card::value::photo
+                - learning_guide_1::milestone_start_creating::value::true
 
 
         - 
@@ -169,10 +182,11 @@
             exampleMediaPath: 
             goals: 
                 - Show the result of your character's action.
-            type: Result
+            clipType: Result
             length: 0:10
             references:
                 - learning_guide_1::medium_card::value::video
+                - learning_guide_1::milestone_start_creating::value::true
 
         - 
             type: ClipCard
@@ -181,10 +195,11 @@
             exampleMediaPath: 
             goals: 
                 - Record the result of your character's action.
-            type: Action
+            clipType: Action
             length: 0:15
             references:
                 - learning_guide_1::medium_card::value::audio
+                - learning_guide_1::milestone_start_creating::value::true
 
         - 
             type: ClipCard
@@ -193,55 +208,85 @@
             exampleMediaPath: 
             goals: 
                 - Show the result of your character's action.
-            type: Action
+            clipType: Action
             length: 0:00
             references:
                 - learning_guide_1::medium_card::value::photo
+                - learning_guide_1::milestone_start_creating::value::true
 
         - 
             type: MilestoneCard
+            id: milestone_next_order_your_clips
             header: Next
             text: Order your clips
             icon: down
+            references:
+                - learning_guide_1::milestone_start_creating::value::true
 
         - 
             type: BasicTextCard
             text: "Review your clips. Make sure the order of your clips tells a complete, simple story."
+            references:
+                - learning_guide_1::milestone_next_order_your_clips::value::true
 
         - 
             type: ReviewCard
             medium: video
+            references:
+                - learning_guide_1::clip_video_0::value
+                - learning_guide_1::clip_video_1::value
+                - learning_guide_1::clip_video_2::value
+                - learning_guide_1::milestone_next_order_your_clips::value::true
 
         - 
             type: ReviewCard
             medium: audio
+            references:
+                - learning_guide_1::clip_audio_0::value
+                - learning_guide_1::clip_audio_1::value
+                - learning_guide_1::clip_audio_2::value
+                - learning_guide_1::milestone_next_order_your_clips::value::true
 
         - 
             type: ReviewCard
             medium: photo
+            references:
+                - learning_guide_1::clip_photo_0::value
+                - learning_guide_1::clip_photo_1::value
+                - learning_guide_1::clip_photo_2::value
+                - learning_guide_1::milestone_next_order_your_clips::value::true
 
         - 
             type: MilestoneCard
+            id: milestone_finish
             header: Next
             text: Finish
             icon: down
+            references:
+                - learning_guide_1::milestone_next_order_your_clips::value::true
 
         -
             type: SelfEvalCard
+            id: selfeval_card_0
             header: "Do your action and result clips increase the impact of your story?"
             checklist:
                 - Thumbs Up
                 - Thumbs Down
+            references:
+                - learning_guide_1::milestone_finish::value::true
 
         - 
             type: MarkDownCard
             body: |  
               ## Great Job!
               StoryMaker has plenty of lessons to help you learn more about topics related to this path. 
+            references:
+                - learning_guide_1::selfeval_card_0::value_1::true
 
         - 
-            type: MilestoneCard
-            header: Next
-            text: Add More Detail to Your Story
-            icon: Right
-            path: lg_002.json
+            type: LinkCard
+            text: "Next: Add More Detail to Your Story"
+            #icon: Right
+            link: learning_guide_2::intro_card_0
+            references:
+                - learning_guide_1::selfeval_card_0::value_0::true

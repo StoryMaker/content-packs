@@ -89,7 +89,7 @@
             exampleMediaPath: 
             goals: 
                 - Ask your character to tell a story.
-            type: Character
+            clipType: Character
             length: 0:40
             references:
                 - learning_guide_1::clip_video_0::clips
@@ -101,7 +101,7 @@
             exampleMediaPath: 
             goals: 
                 - Ask your character to tell a story.
-            type: Character
+            clipType: Character
             length: 0:40
             references:
                 - learning_guide_1::clip_audio_0::clips
@@ -113,7 +113,7 @@
             exampleMediaPath: 
             goals: 
                 - Introduce the character of your story.
-            type: Character
+            clipType: Character
             length: 0:00
             references:
                 - learning_guide_1::clip_photo_0::clips
@@ -125,7 +125,7 @@
             exampleMediaPath: 
             goals: 
                 - Show your character doing an action related to the story.
-            type: Action
+            clipType: Action
             length: 0:08
             references:
                 - learning_guide_1::clip_video_1::clips
@@ -137,7 +137,7 @@
             exampleMediaPath: 
             goals: 
                 - Record your character doing an action related to the story.
-            type: Action
+            clipType: Action
             length: 0:12
             references:
                 - learning_guide_1::clip_audio_1::clips
@@ -149,7 +149,7 @@
             exampleMediaPath: 
             goals: 
                 - Capture your character doing an action related to the story.
-            type: Action
+            clipType: Action
             length: 0:00
             references:
                 - learning_guide_1::clip_photo_1::clips
@@ -162,7 +162,7 @@
             exampleMediaPath: 
             goals: 
                 - Show the result of your character's action.
-            type: Result
+            clipType: Result
             length: 0:10
 
         - 
@@ -172,7 +172,7 @@
             exampleMediaPath: 
             goals: 
                 - Record the result of your character's action.
-            type: Action
+            clipType: Action
             length: 0:15
             references:
                 - learning_guide_1::clip_audio_2::clips
@@ -184,7 +184,7 @@
             exampleMediaPath: 
             goals: 
                 - Show the result of your character's action.
-            type: Action
+            clipType: Action
             length: 0:00
             references:
                 - learning_guide_1::clip_photo_2::clips
@@ -200,7 +200,7 @@
             exampleMediaPath: 
             goals: 
                 - Show your character doing an action related to the story.
-            type: Action
+            clipType: Action
             length: 0:08
                     
 
@@ -211,7 +211,7 @@
             exampleMediaPath: 
             goals: 
                 - Record your character doing an action related to the story.
-            type: Action
+            clipType: Action
             length: 0:12
 
         - 
@@ -221,7 +221,7 @@
             exampleMediaPath: 
             goals: 
                 - Capture your character doing an action related to the story.
-            type: Action
+            clipType: Action
             length: 0:00
 
 
@@ -232,7 +232,7 @@
             exampleMediaPath: 
             goals: 
                 - Show the result of your character's action.
-            type: Result
+            clipType: Result
             length: 0:10
 
         - 
@@ -242,7 +242,7 @@
             exampleMediaPath: 
             goals: 
                 - Record the result of your character's action.
-            type: Action
+            clipType: Action
             length: 0:15
 
         - 
@@ -252,7 +252,7 @@
             exampleMediaPath: 
             goals: 
                 - Show the result of your character's action.
-            type: Action
+            clipType: Action
             length: 0:00
             
 
@@ -267,7 +267,7 @@
             exampleMediaPath: 
             goals: 
                 - Show something important about your character.
-            type: Signature
+            clipType: Signature
             length: 0:10
 
         - 
@@ -277,7 +277,7 @@
             exampleMediaPath: 
             goals: 
                 - Record something important about your character.
-            type: Signature
+            clipType: Signature
             length: 0:12
 
         - 
@@ -287,7 +287,7 @@
             exampleMediaPath: 
             goals: 
                 - Show something important about your character.
-            type: Signature
+            clipType: Signature
             length: 0:00
 
         - 
@@ -301,7 +301,7 @@
             exampleMediaPath: 
             goals: 
                 - Show us where your story happens.
-            type: Place
+            clipType: Place
             length: 0:08
 
         - 
@@ -311,7 +311,7 @@
             exampleMediaPath: 
             goals: 
                 - Record the enviroment where your story happens.
-            type: Place
+            clipType: Place
             length: 0:10
 
         - 
@@ -321,7 +321,7 @@
             exampleMediaPath: 
             goals: 
                 - Show us where your story happens.
-            type: Place
+            clipType: Place
             length: 0:00
 
         - 
