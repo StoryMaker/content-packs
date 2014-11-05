@@ -46,7 +46,7 @@
             "id": "preview_card_0"
         }, 
         {
-            "medium": "video", 
+            "medium": "audio", 
             "title": "Audio Preview Card", 
             "media": [
                 {
@@ -62,7 +62,7 @@
             "id": "preview_card_1"
         }, 
         {
-            "medium": "video", 
+            "medium": "photo", 
             "title": "Photo Preview Card", 
             "media": [
                 {

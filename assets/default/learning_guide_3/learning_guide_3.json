@@ -26,7 +26,12 @@
             "id": "medium_card"
         }, 
         {
-            "medium": "video", 
+            "header": "Meet Goalie Marvin", 
+            "type": "ExampleCard", 
+            "medium": "audio", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
             "title": "Meet Goalie Marvin", 
             "media": [
                 {
@@ -34,14 +39,9 @@
                     "media_caption": "\u00a9 Skyler Reid 2014"
                 }
             ], 
-            "exampleMediaPath": "profile_interview_001.mp3", 
-            "header": "Meet Goalie Marvin", 
-            "references": [
-                "learning_guide_3::medium_card::value::audio"
-            ], 
-            "text": "Central Question: Why did Marvin become a goalie?", 
             "clipType": "character", 
-            "type": "ExampleCard", 
+            "exampleMediaPath": "profile_interview_001.mp3", 
+            "text": "Central Question: Why did Marvin become a goalie?", 
             "id": "preview_card_0"
         }, 
         {
@@ -56,7 +56,12 @@
             "icon": "right"
         }, 
         {
-            "medium": "video", 
+            "header": "Pickup Soccer Sunday", 
+            "type": "ExampleCard", 
+            "medium": "audio", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
             "title": "Pickup Soccer Sunday", 
             "media": [
                 {
@@ -64,14 +69,9 @@
                     "media_caption": "\u00a9 Skyler Reid 2014"
                 }
             ], 
-            "exampleMediaPath": "event_report_001.mp3", 
-            "header": "Pickup Soccer Sunday", 
-            "references": [
-                "learning_guide_3::medium_card::value::audio"
-            ], 
-            "text": "Central Question: What brought each person to the game?", 
             "clipType": "character", 
-            "type": "ExampleCard", 
+            "exampleMediaPath": "event_report_001.mp3", 
+            "text": "Central Question: What brought each person to the game?", 
             "id": "preview_card_1"
         }, 
         {
@@ -94,7 +94,12 @@
             "icon": "right"
         }, 
         {
-            "medium": "video", 
+            "header": "What is Pickup Soccer?", 
+            "type": "ExampleCard", 
+            "medium": "audio", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
             "title": "What is Pickup Soccer?", 
             "media": [
                 {
@@ -102,14 +107,9 @@
                     "media_caption": "\u00a9 Skyler Reid 2014"
                 }
             ], 
-            "exampleMediaPath": null, 
-            "header": "What is Pickup Soccer?", 
-            "references": [
-                "learning_guide_3::medium_card::value::audio"
-            ], 
-            "text": "Central Question: What makes pickup soccer great?", 
             "clipType": "character", 
-            "type": "ExampleCard", 
+            "exampleMediaPath": null, 
+            "text": "Central Question: What makes pickup soccer great?", 
             "id": "preview_card_2"
         }, 
         {
@@ -132,7 +132,12 @@
             "icon": "right"
         }, 
         {
-            "medium": "video", 
+            "header": "What's Great About Pickup Soccer?", 
+            "type": "ExampleCard", 
+            "medium": "audio", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
             "title": "What's Great About Pickup Soccer?", 
             "media": [
                 {
@@ -140,14 +145,9 @@
                     "media_caption": "\u00a9 Skyler Reid 2014"
                 }
             ], 
-            "exampleMediaPath": "issue_discussion_001.mp3", 
-            "header": "What's Great About Pickup Soccer?", 
-            "references": [
-                "learning_guide_3::medium_card::value::audio"
-            ], 
-            "text": "Central Question: What do people love about pickup soccer?", 
             "clipType": "character", 
-            "type": "ExampleCard", 
+            "exampleMediaPath": "issue_discussion_001.mp3", 
+            "text": "Central Question: What do people love about pickup soccer?", 
             "id": "preview_card_3"
         }, 
         {
@@ -167,7 +167,12 @@
             "icon": "right"
         }, 
         {
+            "header": "What is Pickup Soccer?", 
+            "type": "ExampleCard", 
             "medium": "video", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
             "title": "What is Pickup Soccer?", 
             "media": [
                 {
@@ -175,14 +180,9 @@
                     "media_caption": "\u00a9 Skyler Reid 2014"
                 }
             ], 
-            "exampleMediaPath": "issue_report_001.mov", 
-            "header": "What is Pickup Soccer?", 
-            "references": [
-                "learning_guide_3::medium_card::value::video"
-            ], 
-            "text": "Central Question: What makes pickup soccer great?", 
             "clipType": "character", 
-            "type": "ExampleCard", 
+            "exampleMediaPath": "issue_report_001.mov", 
+            "text": "Central Question: What makes pickup soccer great?", 
             "id": "preview_card_4"
         }, 
         {
@@ -205,7 +205,12 @@
             "icon": "right"
         }, 
         {
+            "header": "Meet Goalie Marvin", 
+            "type": "ExampleCard", 
             "medium": "video", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
             "title": "Meet Goalie Marvin", 
             "media": [
                 {
@@ -213,14 +218,9 @@
                     "media_caption": "\u00a9 Skyler Reid 2014"
                 }
             ], 
-            "exampleMediaPath": "profile_interview_001.mov", 
-            "header": "Meet Goalie Marvin", 
-            "references": [
-                "learning_guide_3::medium_card::value::video"
-            ], 
-            "text": "Central Question: Why did Marvin become a goalie?", 
             "clipType": "character", 
-            "type": "ExampleCard", 
+            "exampleMediaPath": "profile_interview_001.mov", 
+            "text": "Central Question: Why did Marvin become a goalie?", 
             "id": "preview_card_5"
         }, 
         {
@@ -243,7 +243,12 @@
             "icon": "right"
         }, 
         {
+            "header": "What's Great About Pickup Soccer?", 
+            "type": "ExampleCard", 
             "medium": "video", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
             "title": "What's Great About Pickup Soccer?", 
             "media": [
                 {
@@ -251,14 +256,9 @@
                     "media_caption": "\u00a9 Skyler Reid 2014"
                 }
             ], 
-            "exampleMediaPath": "issue_discussion_001.mov", 
-            "header": "What's Great About Pickup Soccer?", 
-            "references": [
-                "learning_guide_3::medium_card::value::video"
-            ], 
-            "text": "Central Question: What do people love about pickup soccer?", 
             "clipType": "character", 
-            "type": "ExampleCard", 
+            "exampleMediaPath": "issue_discussion_001.mov", 
+            "text": "Central Question: What do people love about pickup soccer?", 
             "id": "preview_card_6"
         }, 
         {
@@ -278,7 +278,12 @@
             "icon": "right"
         }, 
         {
+            "header": "Pickup Soccer Sunday", 
+            "type": "ExampleCard", 
             "medium": "video", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
             "title": "Pickup Soccer Sunday", 
             "media": [
                 {
@@ -286,14 +291,9 @@
                     "media_caption": "\u00a9 Skyler Reid 2014"
                 }
             ], 
-            "exampleMediaPath": "event_report_001.mov", 
-            "header": "Pickup Soccer Sunday", 
-            "references": [
-                "learning_guide_3::medium_card::value::video"
-            ], 
-            "text": "Central Question: What brought each person to the game?", 
             "clipType": "character", 
-            "type": "ExampleCard", 
+            "exampleMediaPath": "event_report_001.mov", 
+            "text": "Central Question: What brought each person to the game?", 
             "id": "preview_card_7"
         }, 
         {
@@ -316,7 +316,12 @@
             "icon": "right"
         }, 
         {
-            "medium": "video", 
+            "header": "Pickup Soccer Sunday", 
+            "type": "ExampleCard", 
+            "medium": "photo", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ], 
             "title": "Pickup Soccer Sunday", 
             "media": [
                 {
@@ -352,14 +357,9 @@
                     "media_caption": "\u00a9 Skyler Reid 2014"
                 }
             ], 
-            "exampleMediaPath": "event_highlights_001.jpg", 
-            "header": "Pickup Soccer Sunday", 
-            "references": [
-                "learning_guide_3::medium_card::value::photo"
-            ], 
-            "text": "Central Question: What brought each person to the game?", 
             "clipType": "character", 
-            "type": "ExampleCard", 
+            "exampleMediaPath": "event_highlights_001.jpg", 
+            "text": "Central Question: What brought each person to the game?", 
             "id": "preview_card_8"
         }, 
         {
@@ -382,7 +382,12 @@
             "icon": "right"
         }, 
         {
-            "medium": "video", 
+            "header": "What is Pickup Soccer?", 
+            "type": "ExampleCard", 
+            "medium": "photo", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ], 
             "title": "What is Pickup Soccer?", 
             "media": [
                 {
@@ -406,14 +411,9 @@
                     "media_caption": "\u00a9 Skyler Reid 2014"
                 }
             ], 
-            "exampleMediaPath": "issue_series_001.jpg", 
-            "header": "What is Pickup Soccer?", 
-            "references": [
-                "learning_guide_3::medium_card::value::photo"
-            ], 
-            "text": "Central Question: What makes pickup soccer great?", 
             "clipType": "character", 
-            "type": "ExampleCard", 
+            "exampleMediaPath": "issue_series_001.jpg", 
+            "text": "Central Question: What makes pickup soccer great?", 
             "id": "preview_card_9"
         }, 
         {
@@ -436,7 +436,12 @@
             "icon": "right"
         }, 
         {
-            "medium": "video", 
+            "header": "Meet Goalie Marvin", 
+            "type": "ExampleCard", 
+            "medium": "photo", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ], 
             "title": "Meet Goalie Marvin", 
             "media": [
                 {
@@ -460,14 +465,9 @@
                     "media_caption": "\u00a9 Skyler Reid 2014"
                 }
             ], 
-            "exampleMediaPath": "issue_series_001.jpg", 
-            "header": "Meet Goalie Marvin", 
-            "references": [
-                "learning_guide_3::medium_card::value::photo"
-            ], 
-            "text": "Central Question: What is it like to be a goalie?", 
             "clipType": "character", 
-            "type": "ExampleCard", 
+            "exampleMediaPath": "issue_series_001.jpg", 
+            "text": "Central Question: What is it like to be a goalie?", 
             "id": "preview_card_10"
         }, 
         {

@@ -32,8 +32,9 @@
                 - 
                     media: lg_002_02.mp4
                     media_caption: © Skyler Reid 2014
-
             text: Watch how combining five clips tells a more detailed story about Marvin, the main character.
+            references:
+                - learning_guide_1::medium_card::value::video
 
         - 
             type: PreviewCard
@@ -43,8 +44,9 @@
                 - 
                     media: lg_002_03.mp3
                     media_caption: © Skyler Reid 2014
-
             text: Listen how combining five clips tells a more detailed story about Marvin, the main character.
+            references:
+                - learning_guide_1::medium_card::value::audio
 
         - 
             type: PreviewCard
@@ -66,25 +68,29 @@
                 - 
                     media: lg_002_08.jpg
                     media_caption: © Skyler Reid 2014
-
             text: See how combining five clips tells a more detailed story about Marvin, the main character.
+            references:
+                - learning_guide_1::medium_card::value::photo
 
-        -
-            type: MediumCard
-            id: medium_card
-            header: Select your Medium
+        #-
+        #    type: MediumCard
+        #    id: medium_card
+        #    header: Select your Medium
 
         - 
             type: MilestoneCard
+            id: milestone_add_to_my_story
             header: Next
             text: Add to my story
             icon: down
             references:
-                - learning_guide_2::medium_card::value
+                - learning_guide_1::medium_card::value
 
         - 
             type: BasicTextCard
             text: "Here are the three clips you created in the first lesson, Basics 1."
+            references:
+                - learning_guide_2::milestone_add_to_my_story::value::true
 
         - 
             type: ClipCard
@@ -96,7 +102,9 @@
             clipType: Character
             length: 0:40
             references:
+                - learning_guide_2::milestone_add_to_my_story::value::true
                 - learning_guide_1::clip_video_0::clips
+                - learning_guide_1::medium_card::value::video
 
         - 
             type: ClipCard
@@ -108,7 +116,9 @@
             clipType: Character
             length: 0:40
             references:
+                - learning_guide_2::milestone_add_to_my_story::value::true
                 - learning_guide_1::clip_audio_0::clips
+                - learning_guide_1::medium_card::value::audio
 
         - 
             type: ClipCard
@@ -120,7 +130,9 @@
             clipType: Character
             length: 0:00
             references:
+                - learning_guide_2::milestone_add_to_my_story::value::true
                 - learning_guide_1::clip_photo_0::clips
+                - learning_guide_1::medium_card::value::photo
 
         - 
             type: ClipCard
@@ -132,7 +144,9 @@
             clipType: Action
             length: 0:08
             references:
+                - learning_guide_2::milestone_add_to_my_story::value::true
                 - learning_guide_1::clip_video_1::clips
+                - learning_guide_1::medium_card::value::video
 
         - 
             type: ClipCard
@@ -144,7 +158,9 @@
             clipType: Action
             length: 0:12
             references:
+                - learning_guide_2::milestone_add_to_my_story::value::true
                 - learning_guide_1::clip_audio_1::clips
+                - learning_guide_1::medium_card::value::audio
 
         - 
             type: ClipCard
@@ -156,8 +172,9 @@
             clipType: Action
             length: 0:00
             references:
+                - learning_guide_2::milestone_add_to_my_story::value::true
                 - learning_guide_1::clip_photo_1::clips
-
+                - learning_guide_1::medium_card::value::photo
 
         - 
             type: ClipCard
@@ -169,7 +186,9 @@
             clipType: Result
             length: 0:10
             references:
+                - learning_guide_2::milestone_add_to_my_story::value::true
                 - learning_guide_1::clip_photo_1::clips
+                - learning_guide_1::medium_card::value::video
 
         - 
             type: ClipCard
@@ -181,7 +200,9 @@
             clipType: Action
             length: 0:15
             references:
+                - learning_guide_2::milestone_add_to_my_story::value::true
                 - learning_guide_1::clip_audio_2::clips
+                - learning_guide_1::medium_card::value::audio
 
         - 
             type: ClipCard
@@ -193,78 +214,19 @@
             clipType: Action
             length: 0:00
             references:
+                - learning_guide_2::milestone_add_to_my_story::value::true
                 - learning_guide_1::clip_photo_2::clips
+                - learning_guide_1::medium_card::value::photo
 
         - 
             type: BasicTextCard
             text: "Good. Now let's add clips to support the character's story. With the next two clip cards, add an action and result."
 
         - 
-            type: ClipCard
-            id: clip_video_3
-            medium: video
-            exampleMediaPath: 
-            goals: 
-                - Show your character doing an action related to the story.
-            clipType: Action
-            length: 0:08
-                    
-
-        - 
-            type: ClipCard
-            id: clip_audio_3
-            medium: audio
-            exampleMediaPath: 
-            goals: 
-                - Record your character doing an action related to the story.
-            clipType: Action
-            length: 0:12
-
-        - 
-            type: ClipCard
-            id: clip_photo_3
-            medium: photo
-            exampleMediaPath: 
-            goals: 
-                - Capture your character doing an action related to the story.
-            clipType: Action
-            length: 0:00
-
-
-        - 
-            type: ClipCard
-            id: clip_video_4
-            medium: video
-            exampleMediaPath: 
-            goals: 
-                - Show the result of your character's action.
-            clipType: Result
-            length: 0:10
-
-        - 
-            type: ClipCard
-            id: clip_audio_4
-            medium: audio
-            exampleMediaPath: 
-            goals: 
-                - Record the result of your character's action.
-            clipType: Action
-            length: 0:15
-
-        - 
-            type: ClipCard
-            id: clip_photo_4
-            medium: photo
-            exampleMediaPath: 
-            goals: 
-                - Show the result of your character's action.
-            clipType: Action
-            length: 0:00
-            
-
-        - 
             type: BasicTextCard
             text: "Build on the story you created in the first lesson, Basics 1. Capture the two clips below. Then we'll review the full story."
+            references:
+                - learning_guide_2::milestone_add_to_my_story::value::true
 
         - 
             type: ClipCard
@@ -275,6 +237,8 @@
                 - Show something important about your character.
             clipType: Signature
             length: 0:10
+            references:
+                - learning_guide_2::milestone_add_to_my_story::value::true
 
         - 
             type: ClipCard
@@ -285,6 +249,8 @@
                 - Record something important about your character.
             clipType: Signature
             length: 0:12
+            references:
+                - learning_guide_2::milestone_add_to_my_story::value::true
 
         - 
             type: ClipCard
@@ -295,10 +261,9 @@
                 - Show something important about your character.
             clipType: Signature
             length: 0:00
+            references:
+                - learning_guide_2::milestone_add_to_my_story::value::true
 
-        - 
-            type: BasicTextCard
-            text: "Good. Now let's add clips to support the Character's story. With the next two clip cards, add an action and result."
 
         - 
             type: ClipCard
@@ -309,6 +274,8 @@
                 - Show us where your story happens.
             clipType: Place
             length: 0:08
+            references:
+                - learning_guide_2::milestone_add_to_my_story::value::true
 
         - 
             type: ClipCard
@@ -319,6 +286,8 @@
                 - Record the enviroment where your story happens.
             clipType: Place
             length: 0:10
+            references:
+                - learning_guide_2::milestone_add_to_my_story::value::true
 
         - 
             type: ClipCard
@@ -329,37 +298,67 @@
                 - Show us where your story happens.
             clipType: Place
             length: 0:00
+            references:
+                - learning_guide_2::milestone_add_to_my_story::value::true
 
         - 
             type: MilestoneCard
+            id: milestone_next_order_your_clips
             header: Next
             text: Order your clips
             icon: down
+            references:
+                - learning_guide_2::milestone_add_to_my_story::value::true
 
         - 
             type: BasicTextCard
             text: "Order your clips to tell your story with these additional details."
+            references:
+                - learning_guide_2::milestone_order_your_clips::value::true
 
         - 
             type: ReviewCard
             medium: video
+            references:
+                - learning_guide_2::clip_video_0::value
+                - learning_guide_2::clip_video_1::value
+                - learning_guide_2::clip_video_2::value
+                - learning_guide_2::clip_video_3::value
+                - learning_guide_2::clip_video_4::value
+                - learning_guide_2::milestone_next_order_your_clips::value::true
 
         - 
             type: ReviewCard
             medium: audio
+            references:
+                - learning_guide_2::clip_audio_0::value
+                - learning_guide_2::clip_audio_1::value
+                - learning_guide_2::clip_audio_2::value
+                - learning_guide_2::clip_audio_3::value
+                - learning_guide_2::clip_audio_4::value
+                - learning_guide_2::milestone_next_order_your_clips::value::true
 
         - 
             type: ReviewCard
             medium: photo
+            references:
+                - learning_guide_2::clip_photo_0::value
+                - learning_guide_2::clip_photo_1::value
+                - learning_guide_2::clip_photo_2::value
+                - learning_guide_2::clip_photo_3::value
+                - learning_guide_2::clip_photo_4::value
+                - learning_guide_2::milestone_next_order_your_clips::value::true
 
         - 
             type: MilestoneCard
+            id: milestone_finish
             header: Next
             text: Finish
             icon: down
 
         -
             type: SelfEvalCard
+            id: selfeval_card_0
             header: "Does the order of your new clips tell a more detailed story?"
             checklist:
                 - Thumbs Up
@@ -374,6 +373,8 @@
         - 
             type: MilestoneCard
             header: Next
-            text: Tell Stories with a Central Question
-            icon: Right
-            path: lg_003
+            text: "Next: Tell Stories with a Central Question"
+            #icon: Right
+            link: learning_guide_3::intro_card_0
+            references:
+                - learning_guide_2::selfeval_card_0::value_0::true
