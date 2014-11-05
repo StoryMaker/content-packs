@@ -1,6 +1,7 @@
 ---
     id: learning_guide_3
     title: Tell Stories with a Central Question 
+    storyPathLibraryFile: learning_guide_3_library.json
     cards:
 
         - 
@@ -32,6 +33,7 @@
         - 
             type: PreviewCard
             title: Meet Goalie Marvin
+            medium: audio
             media: 
                 - 
                     media: profile_interview_001.mp3
@@ -61,6 +63,7 @@
         - 
             type: PreviewCard
             title: Pickup Soccer Sunday
+            medium: audio
             media: 
                 - 
                     media: event_report_001.mp3
@@ -88,6 +91,7 @@
 
         - 
             type: PreviewCard
+            medium: audio
             title: "What is Pickup Soccer?"
             media: 
                 - 
@@ -116,6 +120,7 @@
 
         - 
             type: PreviewCard
+            medium: audio
             title: "What's Great About Pickup Soccer?"
             media: 
                 - 
@@ -142,6 +147,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: "What is Pickup Soccer?"
             media: 
                 - 
@@ -170,6 +176,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: "Meet Goalie Marvin"
             media: 
                 - 
@@ -199,6 +206,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: "What's Great About Pickup Soccer?"
             media: 
                 - 
@@ -225,6 +233,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: "Pickup Soccer Sunday"
             media: 
                 - 
@@ -254,6 +263,7 @@
 
         - 
             type: PreviewCard
+            medium: photo
             title: "Pickup Soccer Sunday"
             media: 
                 - 
@@ -303,6 +313,7 @@
 
         - 
             type: PreviewCard
+            medium: photo
             title: "What is Pickup Soccer?"
             media: 
                 - 
@@ -343,6 +354,7 @@
 
         - 
             type: PreviewCard
+            medium: photo
             title: "Meet Goalie Marvin"
             media: 
                 - 

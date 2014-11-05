@@ -1,6 +1,7 @@
 ---
     id: learning_guide_1
     title: Learn the Basic Elements of a Story 
+    storyPathLibraryFile: learning_guide_1_library.json
     dependencies:
         -
             dependencyId: learning_guide_2

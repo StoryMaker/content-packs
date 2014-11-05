@@ -1,6 +1,7 @@
 ---
     id: learning_guide_2
     title: Add More Detail to Your Story
+    storyPathLibraryFile: learning_guide_2_library.json
     cards:
 
         - 
@@ -26,6 +27,7 @@
         - 
             type: PreviewCard
             title: Video Preview Card
+            medium: video
             media: 
                 - 
                     media: lg_002_02.mp4
@@ -36,6 +38,7 @@
         - 
             type: PreviewCard
             title: Audio Preview Card
+            medium: audio
             media: 
                 - 
                     media: lg_002_03.mp3
@@ -46,6 +49,7 @@
         - 
             type: PreviewCard
             title: Photo Preview Card
+            medium: photo
             media: 
                 - 
                     media: lg_002_04.jpg
