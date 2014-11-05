@@ -204,7 +204,7 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
                 set_id("preview_card", newcard)
                 newcard['type'] = 'ExampleCard'
                 newcard['header'] = card['title']
-                newcard['medium'] = 'video'     # FIXME should be deduced from the mimetype of the file
+                newcard['medium'] = card['medium'] # FIXME should be deduced from the mimetype of the file
                 newcard['clipType'] = 'character'   # FIXME not needed at all?
                 newcard['exampleMediaPath'] = card['media'][0]['media'] # for now we only grab the first media
 
@@ -230,6 +230,8 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
         'cards': cards
     }      
     
+    if objs.has_key('storyPathLibraryFile'): 
+        doc['storyPathLibraryFile'] = objs['storyPathLibraryFile']
     
     if objs.has_key('storyPathTemplateFiles'): 
         doc['storyPathTemplateFiles'] = objs['storyPathTemplateFiles']
