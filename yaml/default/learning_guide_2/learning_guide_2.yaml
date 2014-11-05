@@ -164,6 +164,8 @@
                 - Show the result of your character's action.
             clipType: Result
             length: 0:10
+            references:
+                - learning_guide_1::clip_photo_1::clips
 
         - 
             type: ClipCard
