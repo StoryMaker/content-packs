@@ -153,18 +153,19 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
             #del newcard['icon']#newcard['icon'] = card['icon'] # FIXME
 
         elif card['type'] == 'PublishCard':
-            newcard['type'] = 'PublishCard'
+            newcard['type'] = 'PublishButtonCard'
             newcard['id'] = 'publish_card_1'
             newcard['medium'] = card['medium']
             
             #no translatable strings
 
         elif card['type'] == 'NextUpCard':
-            newcard['type'] = 'MilestoneCard' # FIXME wtf is this?  it has no text or links
+            newcard = None
+            #newcard['type'] = 'MilestoneCard' # FIXME wtf is this?  it has no text or links
             #medium == audio 
-            newcard['text'] = "Next Up" # FIXME
-            set_id("nextup_card", newcard)
-            newcard['medium'] = card['medium']
+            #newcard['text'] = "Next Up" # FIXME
+            #set_id("nextup_card", newcard)
+            #newcard['medium'] = card['medium']
             
             #no translatable strings
 
