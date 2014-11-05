@@ -58,160 +58,170 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
     strings = {}
     global cardcounts
     cardcounts = {}
-    for card in objs['cards']:
-        #newcard = {}
-        newcard = card
-        if card['type'] == 'MarkDownCard':
-            set_id("markdown_card", newcard)
-            newcard['type'] = 'MarkdownCard'
-            newcard['text'] = card['body']
-            
-            #strings
-            card_fqid = "%s::%s" % (objs['id'], newcard['id'])
-            strings["%s::text" % card_fqid] = newcard['text']
+    if objs.has_key('cards'): # SPLS can have no cards
+        for card in objs['cards']:
+            #newcard = {}
+            newcard = card
+            if card['type'] == 'MarkDownCard':
+                set_id("markdown_card", newcard)
+                newcard['type'] = 'MarkdownCard'
+                newcard['text'] = card['body']
+                
+                #strings
+                card_fqid = "%s::%s" % (objs['id'], newcard['id'])
+                strings["%s::text" % card_fqid] = newcard['text']
 
-        elif card['type'] == 'IntroCard':
-            set_id("intro_card", newcard)
+            elif card['type'] == 'IntroCard':
+                set_id("intro_card", newcard)
 
-            #strings
-            card_fqid = "%s::%s" % (objs['id'], newcard['id'])
-            strings["%s::headline" % card_fqid] = newcard['headline']
-            strings["%s::level" % card_fqid] = newcard['level']
-            
-        elif card['type'] == 'QuizCard':
-            set_id("quiz_card", newcard)
-    #        newcard['question'] = card['questions'][0] # FIXME for now quiz cards are single page
-            
-            #strings
-            card_fqid = "%s::%s" % (objs['id'], newcard['id'])
-            strings["%s::question" % card_fqid] = newcard['question']
+                #strings
+                card_fqid = "%s::%s" % (objs['id'], newcard['id'])
+                strings["%s::headline" % card_fqid] = newcard['headline']
+                strings["%s::level" % card_fqid] = newcard['level']
+                
+            elif card['type'] == 'QuizCard':
+                set_id("quiz_card", newcard)
+        #        newcard['question'] = card['questions'][0] # FIXME for now quiz cards are single page
+                
+                #strings
+                card_fqid = "%s::%s" % (objs['id'], newcard['id'])
+                strings["%s::question" % card_fqid] = newcard['question']
 
-            for choice in newcard['choices']:
-                choice_key = "%s::choices" % card_fqid
-                strings["%s[%s]::text" % (choice_key, get_count(choice_key))] = choice['text']
+                for choice in newcard['choices']:
+                    choice_key = "%s::choices" % card_fqid
+                    strings["%s[%s]::text" % (choice_key, get_count(choice_key))] = choice['text']
 
-        elif card['type'] == 'ClipCard':
-            newcard['type'] = 'ClipCard'
-            set_id("clip_card", newcard)
-            newcard['goals'] = card['goals']
-            newcard['length'] = card['length']
-            newcard['medium'] = card['medium']
-            
-            #strings
-            card_fqid = "%s::%s" % (objs['id'], newcard['id'])
-            for choice in newcard['goals']:
-                choice_key = "%s::goals" % card_fqid
-                strings["%s[%s]" % (choice_key, get_count(choice_key))] = choice
+            elif card['type'] == 'ClipCard':
+                newcard['type'] = 'ClipCard'
+                set_id("clip_card", newcard)
+                newcard['goals'] = card['goals']
+                newcard['length'] = card['length']
+                newcard['medium'] = card['medium']
+                
+                #strings
+                card_fqid = "%s::%s" % (objs['id'], newcard['id'])
+                for choice in newcard['goals']:
+                    choice_key = "%s::goals" % card_fqid
+                    strings["%s[%s]" % (choice_key, get_count(choice_key))] = choice
 
-        elif card['type'] == 'ReviewCard':
-            newcard['type'] = 'ReviewCard'
-            set_id("review_card", newcard)
-            newcard['medium'] = card['medium']
-            
-            #no translatable strings
+            elif card['type'] == 'ReviewCard':
+                newcard['type'] = 'ReviewCard'
+                set_id("review_card", newcard)
+                newcard['medium'] = card['medium']
+                
+                #no translatable strings
 
-        elif card['type'] == 'EvaluationCard':
-            newcard['type'] = 'BasicTextCard' # FIXME 
-            set_id("evaluation_card", newcard)
-            newcard['text'] = card['text']
+            elif card['type'] == 'EvaluationCard':
+                newcard['type'] = 'BasicTextCard' # FIXME 
+                set_id("evaluation_card", newcard)
+                newcard['text'] = card['text']
 
-            #strings
-            card_fqid = "%s::%s" % (objs['id'], newcard['id'])
-            strings["%s::text" % card_fqid] = newcard['text']
+                #strings
+                card_fqid = "%s::%s" % (objs['id'], newcard['id'])
+                strings["%s::text" % card_fqid] = newcard['text']
 
-        elif card['type'] == 'SelfEvalCard':
-            #newcard['type'] = 'BasicTextCard'
-            set_id("selfeval_card", newcard)
-            newcard['text'] = card['header']
+            elif card['type'] == 'SelfEvalCard':
+                #newcard['type'] = 'BasicTextCard'
+                set_id("selfeval_card", newcard)
+                newcard['text'] = card['header']
 
-            #strings
-            card_fqid = "%s::%s" % (objs['id'], newcard['id'])
-            strings["%s::text" % card_fqid] = newcard['header']
+                #strings
+                card_fqid = "%s::%s" % (objs['id'], newcard['id'])
+                strings["%s::text" % card_fqid] = newcard['header']
 
-        elif card['type'] == 'HowToCard':
-            newcard['type'] = 'HowToCard'
-            set_id("howto_card", newcard)
-            newcard['text'] = card['text']
+            elif card['type'] == 'HowToCard':
+                newcard['type'] = 'HowToCard'
+                set_id("howto_card", newcard)
+                newcard['text'] = card['text']
 
-            #strings
-            card_fqid = "%s::%s" % (objs['id'], newcard['id'])
-            strings["%s::text" % card_fqid] = newcard['text']
+                #strings
+                card_fqid = "%s::%s" % (objs['id'], newcard['id'])
+                strings["%s::text" % card_fqid] = newcard['text']
 
-        elif card['type'] == 'MilestoneCard':
-            newcard['type'] = 'ButtonCard' # FIXME proably closer to EvaluationCard?
-            set_id("milestone_card", newcard)
-            newcard['text'] = card['text']
-            #newcard['header'] = card['header']
-            #newcard['icon'] = card['icon']
+            elif card['type'] == 'MilestoneCard':
+                newcard['type'] = 'ButtonCard' # FIXME proably closer to EvaluationCard?
+                set_id("milestone_card", newcard)
+                newcard['text'] = card['text']
+                #newcard['header'] = card['header']
+                #newcard['icon'] = card['icon']
 
-            #strings
-            card_fqid = "%s::%s" % (objs['id'], newcard['id'])
-            strings["%s::text" % card_fqid] = newcard['text']
-            strings["%s::header" % card_fqid] = newcard['header']
-            
-            #del newcard['header']#newcard['header'] = card['header'] # FIXME
-            #del newcard['icon']#newcard['icon'] = card['icon'] # FIXME
+                #strings
+                card_fqid = "%s::%s" % (objs['id'], newcard['id'])
+                strings["%s::text" % card_fqid] = newcard['text']
+                strings["%s::header" % card_fqid] = newcard['header']
+                
+                #del newcard['header']#newcard['header'] = card['header'] # FIXME
+                #del newcard['icon']#newcard['icon'] = card['icon'] # FIXME
 
-        elif card['type'] == 'PublishCard':
-            newcard['type'] = 'PublishButtonCard'
-            newcard['id'] = 'publish_card_1'
-            newcard['medium'] = card['medium']
-            
-            #no translatable strings
+            elif card['type'] == 'PublishCard':
+                newcard['type'] = 'PublishButtonCard'
+                newcard['id'] = 'publish_card_1'
+                newcard['medium'] = card['medium']
+                
+                #no translatable strings
 
-        elif card['type'] == 'NextUpCard':
-            newcard = None
-            #newcard['type'] = 'MilestoneCard' # FIXME wtf is this?  it has no text or links
-            #medium == audio 
-            #newcard['text'] = "Next Up" # FIXME
-            #set_id("nextup_card", newcard)
-            #newcard['medium'] = card['medium']
-            
-            #no translatable strings
+            elif card['type'] == 'NextUpCard':
+                newcard = None
+                #newcard['type'] = 'MilestoneCard' # FIXME wtf is this?  it has no text or links
+                #medium == audio 
+                #newcard['text'] = "Next Up" # FIXME
+                #set_id("nextup_card", newcard)
+                #newcard['medium'] = card['medium']
+                
+                #no translatable strings
 
-        elif card['type'] == 'TipCard':
-            newcard['type'] = 'TipCard'
-            set_id("tip_card", newcard)
-            newcard['tags'] = card['tags']
-            
-            #no translatable strings
+            elif card['type'] == 'TipCard':
+                newcard['type'] = 'TipCard'
+                set_id("tip_card", newcard)
+                newcard['tags'] = card['tags']
+                
+                #no translatable strings
 
-        elif card['type'] == 'TipCollectionHeadlessCard':
-            #newcard['type'] = 'TipCollectionHeadlessCard'
-            set_id("tip_collection_card", newcard)
-            #newcard['tags'] = card['tags']
-            
-            #strings
-            card_fqid = "%s::%s" % (objs['id'], newcard['id'])
+            elif card['type'] == 'LinkCard':
+                newcard['type'] = 'LinkCard'
+                set_id("link_card", newcard)
+                newcard['text'] = card['text']
+                
+                #strings
+                card_fqid = "%s::%s" % (objs['id'], newcard['id'])
+                strings["%s::text" % card_fqid] = newcard['text']
 
-            for tip in newcard['tips']:
-                tip_key = "%s::tips" % card_fqid
-                strings["%s[%s]::text" % (tip_key, get_count(tip_key))] = tip['text']
+            elif card['type'] == 'TipCollectionHeadlessCard':
+                #newcard['type'] = 'TipCollectionHeadlessCard'
+                set_id("tip_collection_card", newcard)
+                #newcard['tags'] = card['tags']
+                
+                #strings
+                card_fqid = "%s::%s" % (objs['id'], newcard['id'])
 
-        ### the below cards have all been renamed
+                for tip in newcard['tips']:
+                    tip_key = "%s::tips" % card_fqid
+                    strings["%s[%s]::text" % (tip_key, get_count(tip_key))] = tip['text']
 
-        elif card['type'] == 'PreviewCard' or card['type'] == 'ExampleCard':
-            set_id("preview_card", newcard)
-            newcard['type'] = 'ExampleCard'
-            newcard['header'] = card['title']
-            newcard['medium'] = 'video'     # FIXME should be deduced from the mimetype of the file
-            newcard['clipType'] = 'character'   # FIXME not needed at all?
-            newcard['exampleMediaPath'] = card['media'][0]['media'] # for now we only grab the first media
+            ### the below cards have all been renamed
 
-            #strings
-            card_fqid = "%s::%s" % (objs['id'], newcard['id'])
-            strings["%s::header" % card_fqid] = newcard['header']
+            elif card['type'] == 'PreviewCard' or card['type'] == 'ExampleCard':
+                set_id("preview_card", newcard)
+                newcard['type'] = 'ExampleCard'
+                newcard['header'] = card['title']
+                newcard['medium'] = 'video'     # FIXME should be deduced from the mimetype of the file
+                newcard['clipType'] = 'character'   # FIXME not needed at all?
+                newcard['exampleMediaPath'] = card['media'][0]['media'] # for now we only grab the first media
 
-        elif card['type'] == 'TextCard' or card['type'] == 'BasicTextCard':
-            set_id("text_card", newcard)
-            newcard['type'] = 'BasicTextCard'
-            newcard['text'] = card['text']
+                #strings
+                card_fqid = "%s::%s" % (objs['id'], newcard['id'])
+                strings["%s::header" % card_fqid] = newcard['header']
 
-            #strings
-            card_fqid = "%s::%s" % (objs['id'], newcard['id'])
-            strings["%s::text" % card_fqid] = newcard['text']
+            elif card['type'] == 'TextCard' or card['type'] == 'BasicTextCard':
+                set_id("text_card", newcard)
+                newcard['type'] = 'BasicTextCard'
+                newcard['text'] = card['text']
 
-        if newcard: cards.append(newcard) 
+                #strings
+                card_fqid = "%s::%s" % (objs['id'], newcard['id'])
+                strings["%s::text" % card_fqid] = newcard['text']
+
+            if newcard: cards.append(newcard) 
           
     doc = {
         'title': objs['title'],
@@ -226,6 +236,9 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
         
     if objs.has_key('dependencies'): 
         doc['dependencies'] = objs['dependencies']
+        
+    if objs.has_key('currentStoryPathFile'): 
+        doc['currentStoryPathFile'] = objs['currentStoryPathFile']
           
     try: 
         os.makedirs(json_dir)
