@@ -9,7 +9,7 @@
 
         - 
             type: IntroCard
-            exampleMediaFile: lg_001_01.png  # FIXME wrong prop!
+            exampleMediaPath: lg_001_01.png  # FIXME wrong prop!
             headline: The Elements of a Story
             level: Basic 1
             time: 

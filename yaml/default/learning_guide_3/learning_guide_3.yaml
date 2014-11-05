@@ -5,7 +5,7 @@
 
         - 
             type: IntroCard
-            exampleMediaFile: lg_003_01.png
+            exampleMediaPath: lg_003_01.png
             headline: Tell Stories with a Central Question
             level: Basic 3
             time: 
