@@ -2,23 +2,32 @@
     id: learning_guide_1_library
     title: Learn the Basic Elements of a Story
     classPackage: scal.io.liger.model
+    # hack to get the path autoloading
+    currentStoryPathFile: learning_guide_1.json
     storyPathTemplateFiles:
         learning_guide_1: learning_guide_1.json
     dependencies:
+#        -
+#            dependencyId: learning_guide_2
+#            dependencyFile: ../learning_guide_2/learning_guide_2.json
         -
-            dependencyId: learning_guide_2
-            dependencyFile: ../learning_guide_2/learning_guide_2.json
+            dependencyId: learning_guide_1
+            dependencyFile: learning_guide_1.json
     cards:
-        -
-            id: load_button
-            type: ButtonCard
-            text: LOAD IT!
-            values:
-                value: false
+ #       -
+ #           id: load_button
+ #           type: ButtonCard
+ #           text: LOAD IT!
+ #           values:
+ #               value: false
+ 
+ # hack #2: this card must exist since having empty cards[] causes crashes
         -
             type: LoaderHeadlessCard
             id: loader_card
             action: LOAD
             target: learning_guide_1
-            references:
-                - learning_guide_1_library::load_button::value::true
+#            references:
+#                - learning_guide_1_library::loader_card::action
+#            references:
+#                - learning_guide_1_library::load_button::value::true

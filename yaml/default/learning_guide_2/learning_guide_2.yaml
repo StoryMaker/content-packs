@@ -5,7 +5,7 @@
 
         - 
             type: IntroCard
-            multimedia: lg_002_01.png
+            exampleMediaFile: lg_002_01.png
             headline: Add More Detail to Your Story
             level: Basic 2
             time: 
