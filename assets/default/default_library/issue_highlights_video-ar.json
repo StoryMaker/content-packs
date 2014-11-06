@@ -86,7 +86,7 @@
         }, 
         {
             "text": "\u0625\u0630\u0627 \u0643\u0627\u0646\u0648\u0627 \u0623\u0643\u062b\u0631 \u0645\u0646 \u062b\u0644\u0627\u062b\u0629\u060c \u064a\u0646\u0628\u063a\u064a \u0625\u0636\u0627\u0641\u0629 \u0645\u0642\u0627\u0637\u0639 \u0644\u0625\u062f\u0631\u0627\u062c\u0647\u0645.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_0"
         }, 
         {
@@ -143,18 +143,13 @@
         }, 
         {
             "text": "--------", 
-            "type": "EvaluationCard", 
+            "type": "BasicTextCard", 
             "id": "evaluation_card_0"
         }, 
         {
             "medium": "video", 
-            "type": "PublishCard", 
+            "type": "PublishButtonCard", 
             "id": "publish_card_1"
-        }, 
-        {
-            "medium": "video", 
-            "type": "NextUpCard", 
-            "id": "nextup_card_0"
         }
     ], 
     "classPackage": "scal.io.liger.model", 

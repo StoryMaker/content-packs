@@ -14,5 +14,6 @@
     "issue_report_video::clip_card_2::goals[0]": "تقديم المسألة.",
     "issue_report_video::evaluation_card_0::text": "--------",
     "issue_report_video::clip_card_7::goals[0]": "أظهر أين يعمل الخبراء.",
-    "issue_report_video::clip_card_12::goals[0]": "أظهر نتيجة ما قام به الناس فيما يخص المشكلة."
+    "issue_report_video::clip_card_12::goals[0]": "أظهر نتيجة ما قام به الناس فيما يخص المشكلة.",
+    "issue_report_video::title": "تقرير عن مسألة"
 }

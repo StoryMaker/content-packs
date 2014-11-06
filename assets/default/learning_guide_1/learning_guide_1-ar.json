@@ -1,0 +1,349 @@
+{
+    "title": "Learn the Basic Elements of a Story", 
+    "storyPathLibraryFile": "learning_guide_1_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "learning_guide_2", 
+            "dependencyFile": "../learning_guide_2/learning_guide_2.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "level": "\u0642\u0627\u0639\u062f\u0629 1", 
+            "headline": "\u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0642\u0635\u0629", 
+            "time": null, 
+            "exampleMediaPath": "lg_001_01.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "##\u0623\u0628\u0633\u0637 \u0642\u0635\u0629 \u062a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 \u062b\u0644\u0627\u062b\u0629 \u0639\u0646\u0627\u0635\u0631:\n\n&bull; \u0634\u062e\u0635\u064a\u0629\n&bull; \u062d\u0631\u0643\u0629 \u0642\u0627\u0645\u062a \u0628\u0647\u0627 \u0627\u0644\u0634\u062e\u0635\u064a\u0629\n&bull; \u0646\u062a\u064a\u062c\u0629 \u0644\u062a\u0644\u0643 \u0627\u0644\u062d\u0631\u0643\u0629\n\n\u064a\u0645\u0643\u0646 \u062f\u0645\u062c \u0647\u0630\u0647 \u0627\u0644\u0639\u0646\u0627\u0635\u0631 \u0644\u0631\u0648\u0627\u064a\u0629 \u0642\u0635\u0629 \u0628\u0633\u064a\u0637\u0629. \u0643\u0644 \u0642\u0635\u0629 \u062a\u062d\u062a\u0627\u062c \u0625\u0644\u0649 \u0634\u062e\u0635\u064a\u0629 \u0631\u0626\u064a\u0633\u064a\u0629 \u062a\u0642\u0648\u0645 \u064a\u0624\u062f\u064a \u062d\u0631\u0643\u0629\u060c \u0648 \u0641\u064a \u0627\u0644\u0646\u0647\u0627\u064a\u0629 \u064a\u0631\u063a\u0628 \u0627\u0644\u0645\u062a\u0627\u0628\u0639\u0648\u0646 \u0641\u064a \u0631\u0624\u064a\u0629 \u0646\u062a\u064a\u062c\u0629 \u062a\u0644\u0643 \u0627\u0644\u062d\u0631\u0643\u0629.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "##\u0627\u0639\u062b\u0631 \u0639\u0644\u0649 \u0634\u062e\u0635\u064a\u0629 \u0644\u0642\u0635\u062a\u0643\n\u0627\u062e\u062a\u0631 \u0648\u0627\u062d\u062f\u0627 \u0644\u0647 \u0642\u0635\u0629 \u0644\u0631\u0648\u0627\u064a\u062a\u0647\u0627.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "lg_001_02.mp4", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "exampleMediaPath": "lg_001_02.mp4", 
+            "header": "\u0625\u0637\u0627\u0631 \u0639\u0631\u0636 \u0627\u0644\u0641\u064a\u062f\u064a\u0648", 
+            "text": "In this example, Marvin tells us why he started playing soccer.", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "lg_001_03.mp3", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "exampleMediaPath": "lg_001_03.mp3", 
+            "header": "\u0625\u0637\u0627\u0631 \u0639\u0631\u0636 \u0627\u0644\u0635\u0648\u062a", 
+            "text": "In this example, Marvin tells us why he started playing soccer.", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "lg_001_04.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "lg_001_05.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "lg_001_06.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "exampleMediaPath": "lg_001_04.jpg", 
+            "header": "\u0625\u0637\u0627\u0631 \u0639\u0631\u0636 \u0627\u0644\u0635\u0648\u0631", 
+            "text": "In this example, we see Marvin playing soccer.", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "header": "Select your Medium", 
+            "type": "MediumCard", 
+            "id": "medium_card"
+        }, 
+        {
+            "text": "\u0644\u0627\u062d\u0638 \u0627\u0644\u062b\u0644\u0627\u062b \u0644\u0642\u0637\u0627\u062a \u0627\u0644\u0645\u0633\u0639\u0645\u0644\u0629 \u0641\u064a \u0627\u0644\u0645\u062b\u0627\u0644\u060c \u0645\u0627\u0631\u0641\u0646 \u060c \u0627\u0644\u0634\u062e\u0635\u064a\u0629\u060c \u0647\u0648 \u0642\u0644\u0628 \u0627\u0644\u0642\u0635\u0629. \u0627\u0644\u0623\u062d\u062f\u0627\u062b \u0648 \u0627\u0644\u0646\u062a\u0627\u0626\u062c \u062a\u0631\u0648\u064a \u0644\u0646\u0627 \u0645\u0627 \u062d\u0635\u0644 \u0644\u0647.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "learning_guide_1::medium_card::value"
+            ]
+        }, 
+        {
+            "text": "\u0627\u0644\u0628\u062f\u0621 \u0641\u064a \u0627\u0644\u0625\u0646\u062c\u0627\u0632", 
+            "header": "\u0627\u0644\u062a\u0627\u0644\u064a", 
+            "references": [
+                "learning_guide_1::medium_card::value"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_start_creating", 
+            "icon": "down"
+        }, 
+        {
+            "text": "\u0627\u0644\u062a\u0627\u0644\u064a \u0625\u0637\u0627\u0631 \u0644\u0642\u0637\u0629. \u0627\u0633\u062a\u0639\u0645\u0644\u0647 \u0644\u0625\u0636\u0627\u0641\u0629 \u0645\u0642\u0627\u0637\u0639 \u0639\u0646 \u0627\u0644\u0634\u062e\u0635\u064a\u0629.", 
+            "type": "HowToCard", 
+            "id": "howto_card_0", 
+            "references": [
+                "learning_guide_1::milestone_start_creating::value::true"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:40", 
+            "references": [
+                "learning_guide_1::medium_card::value::video", 
+                "learning_guide_1::milestone_start_creating::value::true"
+            ], 
+            "goals": [
+                "\u0623\u0637\u0644\u0628 \u0645\u0646 \u0627\u0644\u0634\u062e\u0635\u064a\u0629 \u0623\u0646 \u062a\u0631\u0648\u064a \u0642\u0635\u0629."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_video_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:40", 
+            "references": [
+                "learning_guide_1::medium_card::value::audio", 
+                "learning_guide_1::milestone_start_creating::value::true"
+            ], 
+            "goals": [
+                "\u0623\u0637\u0644\u0628 \u0645\u0646 \u0627\u0644\u0634\u062e\u0635\u064a\u0629 \u0623\u0646 \u062a\u0631\u0648\u064a \u0642\u0635\u0629."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_audio_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "references": [
+                "learning_guide_1::medium_card::value::photo", 
+                "learning_guide_1::milestone_start_creating::value::true"
+            ], 
+            "goals": [
+                "\u0642\u062f\u0645 \u0627\u0644\u0634\u062e\u0635\u064a\u0629 \u0641\u064a \u0642\u0635\u062a\u0643."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_photo_0"
+        }, 
+        {
+            "text": "\u062d\u0633\u0646\u0627. \u0627\u0644\u0622\u0646 \u0639\u0644\u064a\u0646\u0627 \u0625\u0636\u0627\u0641\u0629 \u0644\u0642\u0637\u0627\u062a \u0644\u062f\u0639\u0645 \u0642\u0635\u0629 \u0627\u0644\u0634\u062e\u0635\u064a\u0629. \u0628\u0627\u0644\u0625\u0639\u062a\u0645\u0627\u062f \u0639\u0644\u0649 \u0627\u0644\u0644\u0642\u0637\u062a\u064a\u0646 \u0627\u0644\u062a\u0627\u0644\u064a\u062a\u064a\u0646\u060c \u0623\u0636\u0641 \u062d\u0631\u0643\u0629 \u0648 \u0646\u062a\u064a\u062c\u0629.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "learning_guide_1::milestone_start_creating::value::true"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:08", 
+            "references": [
+                "learning_guide_1::medium_card::value::video", 
+                "learning_guide_1::milestone_start_creating::value::true"
+            ], 
+            "goals": [
+                "\u0625\u0638\u0647\u0627\u0631 \u0634\u062e\u0635\u064a\u062a\u0643 \u064a\u0642\u0648\u0645 \u0628\u062d\u0631\u0643\u0629 \u0645\u0631\u062a\u0628\u0637\u0629 \u0628\u0627\u0644\u0642\u0635\u0629."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_video_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "references": [
+                "learning_guide_1::medium_card::value::audio", 
+                "learning_guide_1::milestone_start_creating::value::true"
+            ], 
+            "goals": [
+                "\u0633\u062c\u0644 \u0634\u062e\u0635\u064a\u062a\u0643 \u064a\u0642\u0648\u0645 \u0628\u062d\u0631\u0643\u0629 \u0645\u0631\u062a\u0628\u0637\u0629 \u0628\u0627\u0644\u0642\u0635\u0629."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_audio_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "references": [
+                "learning_guide_1::medium_card::value::photo", 
+                "learning_guide_1::milestone_start_creating::value::true"
+            ], 
+            "goals": [
+                " \u0627\u0644\u062a\u0642\u0637 \u0634\u062e\u0635\u064a\u062a\u0643 \u064a\u0642\u0648\u0645 \u0628\u062d\u0631\u0643\u0629 \u0645\u0631\u062a\u0628\u0637\u0629 \u0628\u0627\u0644\u0642\u0635\u0629."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_photo_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "references": [
+                "learning_guide_1::medium_card::value::video", 
+                "learning_guide_1::milestone_start_creating::value::true"
+            ], 
+            "goals": [
+                "\u0623\u0638\u0647\u0631 \u0646\u062a\u064a\u062c\u0629 \u0627\u0644\u062d\u0631\u0643\u0629 \u0627\u0644\u062a\u064a \u0642\u0627\u0645\u062a \u0628\u0647\u0627 \u0627\u0644\u0634\u062e\u0635\u064a\u0629."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_video_2"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:15", 
+            "references": [
+                "learning_guide_1::medium_card::value::audio", 
+                "learning_guide_1::milestone_start_creating::value::true"
+            ], 
+            "goals": [
+                "\u0633\u062c\u0644 \u0646\u062a\u064a\u062c\u0629 \u0627\u0644\u062d\u0631\u0643\u0629 \u0627\u0644\u062a\u064a \u0642\u0627\u0645\u062a \u0628\u0647\u0627 \u0627\u0644\u0634\u062e\u0635\u064a\u0629."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_audio_2"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "references": [
+                "learning_guide_1::medium_card::value::photo", 
+                "learning_guide_1::milestone_start_creating::value::true"
+            ], 
+            "goals": [
+                "\u0623\u0638\u0647\u0631 \u0646\u062a\u064a\u062c\u0629 \u0627\u0644\u062d\u0631\u0643\u0629 \u0627\u0644\u062a\u064a \u0642\u0627\u0645\u062a \u0628\u0647\u0627 \u0627\u0644\u0634\u062e\u0635\u064a\u0629."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_photo_2"
+        }, 
+        {
+            "text": "\u0631\u062a\u0628 \u0645\u0642\u0627\u0637\u0639\u0643", 
+            "header": "\u0627\u0644\u062a\u0627\u0644\u064a", 
+            "references": [
+                "learning_guide_1::milestone_start_creating::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_next_order_your_clips", 
+            "icon": "down"
+        }, 
+        {
+            "text": "\u0631\u0627\u062c\u0639 \u0645\u0642\u0627\u0637\u0639\u0643\u060c \u062a\u0623\u0643\u062f \u0645\u0646 \u0623\u0646 \u062a\u0631\u062a\u064a\u0628 \u0627\u0644\u0645\u0642\u0627\u0637\u0639 \u064a\u0631\u0648\u064a \u0642\u0635\u0629 \u0643\u0627\u0645\u0644\u0629 \u0648 \u0628\u0633\u064a\u0637\u0629.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "learning_guide_1::milestone_next_order_your_clips::value::true"
+            ]
+        }, 
+        {
+            "references": [
+                "learning_guide_1::clip_video_0::value", 
+                "learning_guide_1::clip_video_1::value", 
+                "learning_guide_1::clip_video_2::value", 
+                "learning_guide_1::milestone_next_order_your_clips::value::true"
+            ], 
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "references": [
+                "learning_guide_1::clip_audio_0::value", 
+                "learning_guide_1::clip_audio_1::value", 
+                "learning_guide_1::clip_audio_2::value", 
+                "learning_guide_1::milestone_next_order_your_clips::value::true"
+            ], 
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_1"
+        }, 
+        {
+            "references": [
+                "learning_guide_1::clip_photo_0::value", 
+                "learning_guide_1::clip_photo_1::value", 
+                "learning_guide_1::clip_photo_2::value", 
+                "learning_guide_1::milestone_next_order_your_clips::value::true"
+            ], 
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_2"
+        }, 
+        {
+            "text": "\u0625\u0646\u0647\u0627\u0621", 
+            "header": "\u0627\u0644\u062a\u0627\u0644\u064a", 
+            "references": [
+                "learning_guide_1::milestone_next_order_your_clips::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_finish", 
+            "icon": "down"
+        }, 
+        {
+            "text": "\u0647\u0644 \u0627\u0644\u0623\u062d\u062f\u0627\u062b \u0648 \u0627\u0644\u0646\u062a\u0627\u0626\u062c \u062a\u0632\u064a\u062f \u0641\u064a \u062a\u0623\u062b\u064a\u0631 \u0642\u0635\u062a\u0643\u061f", 
+            "type": "SelfEvalCard", 
+            "references": [
+                "learning_guide_1::milestone_finish::value::true"
+            ], 
+            "id": "selfeval_card_0", 
+            "checklist": [
+                "Thumbs Up", 
+                "Thumbs Down"
+            ]
+        }, 
+        {
+            "references": [
+                "learning_guide_1::selfeval_card_0::value_1::true"
+            ], 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2", 
+            "text": "##\u0639\u0645\u0644 \u062c\u064a\u062f!\nStoryMaker \u062a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 \u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0627\u0644\u062f\u0631\u0648\u0633 \u0627\u0644\u062a\u064a \u062a\u0627\u0639\u062f\u0643 \u0639\u0644\u0649 \u062a\u0639\u0644\u0645 \u0627\u0644\u0645\u0632\u064a\u062f \u0645\u0646 \u0627\u0644\u0645\u0633\u0627\u0626\u0644 \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0647\u0630\u0627 \u0627\u0644\u0645\u0633\u0627\u0631."
+        }, 
+        {
+            "text": "Next: Add More Detail to Your Story", 
+            "link": "learning_guide_2::intro_card_0", 
+            "id": "link_card_0", 
+            "references": [
+                "learning_guide_1::selfeval_card_0::value_0::true"
+            ], 
+            "type": "LinkCard"
+        }
+    ], 
+    "id": "learning_guide_1"
+}

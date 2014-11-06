@@ -14,6 +14,7 @@
   "issue_interview_video::clip_card_9::goals[0]": "Ask: What is being done about the issue?", 
   "issue_interview_video::clip_card_13::goals[0]": "Show the result of what people are doing about the issue.", 
   "issue_interview_video::clip_card_5::goals[0]": "Show something important about the issue.", 
+  "issue_interview_video::title": "Issue Interview", 
   "issue_interview_video::clip_card_1::goals[0]": "Introduce the issue.", 
   "issue_interview_video::clip_card_8::goals[0]": "Show how the character is solving the issue."
 }

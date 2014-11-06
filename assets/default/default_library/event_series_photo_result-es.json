@@ -12,7 +12,7 @@
             "medium": "photo", 
             "length": "0:00", 
             "goals": [
-                "You might photograph an in interesting person responding to the results of a game or a speech or a performance."
+                "Podr\u00eda fotografiar a alguna persona interesante e influyente que responda a los resultados de un juego, un discurso o una representaci\u00f3n."
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -82,18 +82,13 @@
         }, 
         {
             "text": "--------", 
-            "type": "EvaluationCard", 
+            "type": "BasicTextCard", 
             "id": "evaluation_card_0"
         }, 
         {
             "medium": "photo", 
-            "type": "PublishCard", 
+            "type": "PublishButtonCard", 
             "id": "publish_card_1"
-        }, 
-        {
-            "medium": "photo", 
-            "type": "NextUpCard", 
-            "id": "nextup_card_0"
         }
     ], 
     "classPackage": "scal.io.liger.model", 

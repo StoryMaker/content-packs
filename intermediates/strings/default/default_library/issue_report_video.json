@@ -14,5 +14,6 @@
   "issue_report_video::clip_card_2::goals[0]": "Introduce the issue.", 
   "issue_report_video::evaluation_card_0::text": "--------", 
   "issue_report_video::clip_card_7::goals[0]": "Show where the expert works.", 
-  "issue_report_video::clip_card_12::goals[0]": "Show the result of what people are doing about the issue."
+  "issue_report_video::clip_card_12::goals[0]": "Show the result of what people are doing about the issue.", 
+  "issue_report_video::title": "Issue Report"
 }

@@ -1,8 +1,4 @@
 {
-    "title": "Learn the Basic Elements of a Story", 
-    "storyPathTemplateFiles": {
-        "learning_guide_3": "learning_guide_3.json"
-    }, 
     "dependencies": [
         {
             "dependencyId": "learning_guide_3", 
@@ -10,6 +6,7 @@
         }
     ], 
     "classPackage": "scal.io.liger.model", 
+    "title": "Learn the Basic Elements of a Story", 
     "cards": [
         {
             "action": "LOAD", 
@@ -19,5 +16,8 @@
         }
     ], 
     "currentStoryPathFile": "learning_guide_3.json", 
+    "storyPathTemplateFiles": {
+        "learning_guide_3": "learning_guide_3.json"
+    }, 
     "id": "learning_guide_3_library"
 }

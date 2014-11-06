@@ -1,0 +1,484 @@
+{
+    "cards": [
+        {
+            "level": "B\u00e1sico 3", 
+            "headline": "Cuente historias con una pregunta central.", 
+            "time": null, 
+            "exampleMediaPath": "lg_003_01.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "## Introducci\u00f3n\nAhora que comprende los elementos b\u00e1sicos de una historia, hablemos sobre como hacer convincente su historia. Las historias convincentes normalmente responden a una \u00fanica pregunta central. Esta pregunta apunta el \u00e1ngulo que debe seguir y le gu\u00eda por todo el proceso de creaci\u00f3n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "## Introducci\u00f3n\nEsta lecci\u00f3n toma la idea \"quiero contar una historia sobre un partido de f\u00fatbol local\", y muestra como se puede contar de varias maneras. Si encuentra algo con lo que enlazar que le guste, puede seguirlo para hacer su propia historia. Inicie una conversaci\u00f3n, y las preguntas surgir\u00e1n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "header": "Select your Medium", 
+            "type": "MediumCard", 
+            "id": "medium_card"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "profile_interview_001.mp3", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: Why did Marvin become a goalie?", 
+            "header": "Tenga un encuentro con Marvin el portero", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "exampleMediaPath": "profile_interview_001.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Perfilar entrevista", 
+            "header": "Lanzar", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "path": "profile_interview_audio.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_0", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "event_report_001.mp3", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What brought each person to the game?", 
+            "header": "Domingo de f\u00fatbol informal", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "exampleMediaPath": "event_report_001.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Escuche como describe un narrador lo que ocurre cuando un grupo de forasteros se reunen para un partido de f\u00fatbol local. Esta historia se centra en un evento espec\u00edfico. lo que sucedi\u00f3 y por qu\u00e9. Con audio, las voces individuales a menudo son las que portan la historia.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ]
+        }, 
+        {
+            "text": "Informe sobre el evento", 
+            "header": "Lanzar", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "path": "event_report_audio.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_1", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": null, 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What makes pickup soccer great?", 
+            "header": "\u00bfQu\u00e9 es el f\u00fatbol informal?", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Escuche como el narrador explica lo que es el f\u00fatbol informal y varios personajes describen por qu\u00e9 lo adoran. La historia se gu\u00eda por la cuesti\u00f3n \"\u00bfQu\u00e9 es el f\u00fatbol informal?\" En audio, a menudo un narrador presenta una historia y utiliza las voces de personajes individuales para exhibir diferentes opiniones o an\u00e1lisis.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ]
+        }, 
+        {
+            "text": "Informe sobre el asunto", 
+            "header": "Lanzar", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "path": "issue_report_audio.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_2", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "issue_discussion_001.mp3", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What do people love about pickup soccer?", 
+            "header": "\u00bfQu\u00e9 es lo fant\u00e1stico del f\u00fatbol informal?", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "exampleMediaPath": "issue_discussion_001.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Escuche como un grupo de neoyorkinos hablan sobre su adoraci\u00f3n por el f\u00fatbol y los deportes de equipo informales en particular. Esta historia se gu\u00eda por personajes que discuten sobre una cuesti\u00f3n espec\u00edfica. Las historias con discusiones funcionan bien en audio, que a menudo es portado por voces individuales.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "text": "Informe sobre el asunto", 
+            "header": "Lanzar", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "path": "profile_interview_audio.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_3", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "issue_report_001.mov", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What makes pickup soccer great?", 
+            "header": "\u00bfQu\u00e9 es el f\u00fatbol informal?", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "exampleMediaPath": "issue_report_001.mov", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Observe como un grupo de personajes describe el f\u00fatbol informal, mientras un narrador conduce y encamina la historia. La historia se gu\u00eda por la cuesti\u00f3n \"\u00bfQu\u00e9 es el f\u00fatbol informal?\" En v\u00eddeo, las im\u00e1genes se usan para apoyar o contradecir las voces de personajes individuales.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ]
+        }, 
+        {
+            "text": "Informe sobre el asunto", 
+            "header": "Lanzar", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "path": "issue_report_video.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_4", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "profile_interview_001.mov", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: Why did Marvin become a goalie?", 
+            "header": "Tenga un encuentro con Marvin el portero", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "exampleMediaPath": "profile_interview_001.mov", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "Observe a Marvin jugando con intensidad mientras habla sobre su vida antes y despu\u00e9s de convertirse en un portero para un equipo de f\u00fatbol local. Esta historia se conduce por un solo personaje que cuenta su relato. En v\u00eddeo utilice im\u00e1genes para ilustrar las palabras y el conflicto de los personajes.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ]
+        }, 
+        {
+            "text": "Perfilar entrevista", 
+            "header": "Lanzar", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "path": "profile_interview_video.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_5", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "issue_discussion_001.mov", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What do people love about pickup soccer?", 
+            "header": "\u00bfQu\u00e9 es lo fant\u00e1stico del f\u00fatbol informal?", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "exampleMediaPath": "issue_discussion_001.mov", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "text": "Observe como un grupo de extra\u00f1os juegan al f\u00fatbol y discuten su adoraci\u00f3n por los juegos informales en particular. Esta historia es conducida por personajes que discuten una cuesti\u00f3n espec\u00edfica. Las discusiones en v\u00eddeo exitosas usan cortes de v\u00eddeo para apoyar cada respuesta del personaje.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }, 
+        {
+            "text": "Discusi\u00f3n sobre el asunto", 
+            "header": "Lanzar", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "path": "issue_discussion_video_question_10.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_6", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "event_report_001.mov", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What brought each person to the game?", 
+            "header": "Domingo de f\u00fatbol informal", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "exampleMediaPath": "event_report_001.mov", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_7"
+        }, 
+        {
+            "text": "Observe lo que sucede cuando un grupo de extra\u00f1os se reune para un partido de f\u00fatbol local. Esta historia se centra en un evento espec\u00edfico, qu\u00e9 ocurri\u00f3 y por qu\u00e9. En v\u00eddeo, las im\u00e1genes con fuerza son tan importantes como las voces de personajes individuales.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ]
+        }, 
+        {
+            "text": "Informe sobre el evento", 
+            "header": "Lanzar", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "path": "event_report_video.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_7", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "event_highlights_001.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "event_highlights_002.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "event_highlights_003.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "event_highlights_004.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "event_highlights_005.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "event_highlights_006.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "event_highlights_007.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "event_highlights_008.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What brought each person to the game?", 
+            "header": "Domingo de f\u00fatbol informal", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ], 
+            "exampleMediaPath": "event_highlights_001.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_8"
+        }, 
+        {
+            "text": "Vea lo que sucede cuando un grupo de extra\u00f1os se reunen para un partido de f\u00fatbol local. Esta historia se centra en un evento espec\u00edfico, y lo que ocurri\u00f3 ah\u00ed. Los relatos fotogr\u00e1ficos reunen las mejores im\u00e1genes para capturar la emoci\u00f3n y acci\u00f3n de la historia, a menudo usando texto para completar los detalles ausentes.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ]
+        }, 
+        {
+            "text": "Destacados del evento", 
+            "header": "Lanzar", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ], 
+            "path": "event_highlights_photo.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_8", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "issue_series_001.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_002.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_003.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_004.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_005.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What makes pickup soccer great?", 
+            "header": "\u00bfQu\u00e9 es el f\u00fatbol informal?", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ], 
+            "exampleMediaPath": "issue_series_001.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_9"
+        }, 
+        {
+            "text": "Mire esta serie de retratos de jugadores de f\u00fatbol locales. La historia se gu\u00eda por los retratos de una serie de personajes, apoyada por texto y pies de foto que describen el f\u00fatbol informal. Los relatos fotogr\u00e1ficos a menudo utilizan series de im\u00e1genes relacionadas para enganchar a la audiencia, y completan detalles relevantes con texto.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ]
+        }, 
+        {
+            "text": "Serie de eventos", 
+            "header": "Lanzar", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ], 
+            "path": "event_series_photo_action.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_9", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "issue_series_001.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_002.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_003.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_004.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_005.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What is it like to be a goalie?", 
+            "header": "Tenga un encuentro con Marvin el portero", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ], 
+            "exampleMediaPath": "issue_series_001.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_10"
+        }, 
+        {
+            "text": "Vea lo que le ocurre a Marvin en un d\u00eda t\u00edpico como portero para un equipo de f\u00fatbol local. Esta historia se gu\u00eda por im\u00e1genes de un \u00fanico personaje. Los relatos fotogr\u00e1ficos sobre un \u00fanico personaje capturan la emoci\u00f3n de este, y sus interacciones con otros personajes en su relato.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_9", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ]
+        }, 
+        {
+            "text": "Destacados del perfil", 
+            "header": "Lanzar", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ], 
+            "path": "profile_highlights_photo.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_10", 
+            "icon": "right"
+        }
+    ], 
+    "storyPathLibraryFile": "learning_guide_3_library.json", 
+    "classPackage": "scal.io.liger.model", 
+    "id": "learning_guide_3", 
+    "title": "Cuente historias con una pregunta central."
+}

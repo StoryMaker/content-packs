@@ -81,18 +81,13 @@
         }, 
         {
             "text": "--------", 
-            "type": "EvaluationCard", 
+            "type": "BasicTextCard", 
             "id": "evaluation_card_0"
         }, 
         {
             "medium": "photo", 
-            "type": "PublishCard", 
+            "type": "PublishButtonCard", 
             "id": "publish_card_1"
-        }, 
-        {
-            "medium": "photo", 
-            "type": "NextUpCard", 
-            "id": "nextup_card_0"
         }
     ], 
     "classPackage": "scal.io.liger.model", 

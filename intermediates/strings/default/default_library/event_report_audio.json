@@ -8,6 +8,7 @@
   "event_report_audio::clip_card_11::goals[0]": "Record another sound of something important to the event.", 
   "event_report_audio::clip_card_13::goals[0]": "Tell us how the event changes as it progresses.", 
   "event_report_audio::clip_card_17::goals[0]": "Tell us what is expected for the event the next time it happens.", 
+  "event_report_audio::title": "Event Report", 
   "event_report_audio::clip_card_16::goals[0]": "Record sounds of the result of people interacting at the event.", 
   "event_report_audio::evaluation_card_0::text": "--------", 
   "event_report_audio::clip_card_4::goals[0]": "Record sounds of what happens at the event.", 

@@ -201,21 +201,16 @@
         }, 
         {
             "text": "--------", 
-            "type": "EvaluationCard", 
+            "type": "BasicTextCard", 
             "id": "evaluation_card_0"
         }, 
         {
             "medium": "video", 
-            "type": "PublishCard", 
+            "type": "PublishButtonCard", 
             "id": "publish_card_1"
-        }, 
-        {
-            "medium": "video", 
-            "type": "NextUpCard", 
-            "id": "nextup_card_0"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "event_report_video", 
-    "title": "Event Report"
+    "title": "\u062a\u0642\u0631\u064a\u0631 \u0639\u0646 \u062d\u062f\u062b"
 }

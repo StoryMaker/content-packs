@@ -14,6 +14,7 @@
     "event_interview_audio::evaluation_card_0::text": "--------",
     "event_interview_audio::clip_card_15::goals[0]": "Grabe otro sonido de algo que ocurra en el evento.",
     "event_interview_audio::clip_card_0::goals[0]": "Grabe sonido presentando el evento.",
+    "event_interview_audio::title": "Event Interview",
     "event_interview_audio::clip_card_3::goals[0]": "Pregunta: ¿Cuál es el propósito del evento?",
     "event_interview_audio::clip_card_16::goals[0]": "¿Que ocurrirá en el evento en el futuro?",
     "event_interview_audio::clip_card_7::goals[0]": "Grabe sonido de algo notable acerca del evento.",

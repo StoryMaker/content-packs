@@ -14,6 +14,7 @@
     "event_interview_audio::evaluation_card_0::text": "--------",
     "event_interview_audio::clip_card_15::goals[0]": "سجل صوتا لشيء آخر يقع في الحدث.",
     "event_interview_audio::clip_card_0::goals[0]": "سجل صوتا يقدم الحدث.",
+    "event_interview_audio::title": "Event Interview",
     "event_interview_audio::clip_card_3::goals[0]": "نسأل: ما الغاية من هذا الحدث؟",
     "event_interview_audio::clip_card_16::goals[0]": "مالذي سيحصل في الحدث في المستقبل؟",
     "event_interview_audio::clip_card_7::goals[0]": "سجل صوتا لشيء بارز في الحدث.",

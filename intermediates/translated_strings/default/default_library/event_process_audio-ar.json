@@ -1,6 +1,7 @@
 {
     "event_process_audio::clip_card_0::goals[0]": "تسجيل الأصوات حيث سيحدث هذا الحدث قبل أن يبدأ.",
     "event_process_audio::clip_card_1::goals[2]": "التقاط الأصوات من الجمهور داخل الحدث.",
+    "event_process_audio::title": "Event Process",
     "event_process_audio::clip_card_4::goals[0]": "تسجيل الخطوة المعبرة الثالثة في الحدث.",
     "event_process_audio::clip_card_3::goals[0]": "تسجبل الخطوة الثانية المهمة لهذا الحدث.",
     "event_process_audio::clip_card_7::goals[0]": "سجل الشخصية وهو يقوم بنشاط.",

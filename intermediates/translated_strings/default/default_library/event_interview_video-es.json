@@ -8,6 +8,7 @@
     "event_interview_video::clip_card_2::goals[0]": "Muestre algo importante al principio del evento.",
     "event_interview_video::clip_card_0::goals[0]": "Muestre donde acontece el evento.",
     "event_interview_video::clip_card_9::goals[0]": "Muestre la cosa más importante que el personaje haga en el evento.",
+    "event_interview_video::title": "Event Interview",
     "event_interview_video::clip_card_7::goals[0]": "Muestre personas interactuando en el evento.",
     "event_interview_video::clip_card_3::goals[0]": "Muestre la preparación para el evento.",
     "event_interview_video::clip_card_1::goals[0]": "Presente el evento.",

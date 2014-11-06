@@ -221,21 +221,16 @@
         }, 
         {
             "text": "--------", 
-            "type": "EvaluationCard", 
+            "type": "BasicTextCard", 
             "id": "evaluation_card_0"
         }, 
         {
             "medium": "audio", 
-            "type": "PublishCard", 
+            "type": "PublishButtonCard", 
             "id": "publish_card_1"
-        }, 
-        {
-            "medium": "audio", 
-            "type": "NextUpCard", 
-            "id": "nextup_card_0"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "issue_report_audio", 
-    "title": "Issue Report"
+    "title": "\u062a\u0642\u0631\u064a\u0631 \u0639\u0646 \u0645\u0633\u0623\u0644\u0629"
 }

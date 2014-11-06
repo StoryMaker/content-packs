@@ -1,0 +1,438 @@
+{
+    "cards": [
+        {
+            "level": "B\u00e1sico 2", 
+            "headline": "A\u00f1ada m\u00e1s detalles a su historia", 
+            "time": null, 
+            "exampleMediaPath": "lg_002_01.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "## Crear una historia detallada y completa a menudo requiere m\u00e1s de tres cortes de v\u00eddeo. Adem\u00e1s de utilizar m\u00faltiples personajes, y cortes de acci\u00f3n y resultado, muchas historias incluyen dos elementos m\u00e1s:  \n\n&bull; Ubicaci\u00f3n  \n\nSi su personaje va a estar en muchos lugares, use cortes de v\u00eddeo de los lugares para mostrar el cambio.  \n\n&bull; Firma  \n\nPuede que quiera mostrar un elemento de firma, espec\u00edfico de su personaje o historia. Los cortes de v\u00eddeo de firma est\u00e1n pensados para enfatizar un punto clave de su historia.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "lg_002_02.mp4", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Watch how combining five clips tells a more detailed story about Marvin, the main character.", 
+            "header": "Carta de previsualizaci\u00f3n de v\u00eddeo", 
+            "references": [
+                "learning_guide_1::medium_card::value::video"
+            ], 
+            "exampleMediaPath": "lg_002_02.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "lg_002_03.mp3", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Listen how combining five clips tells a more detailed story about Marvin, the main character.", 
+            "header": "Carta de previsualizaci\u00f3n de audio", 
+            "references": [
+                "learning_guide_1::medium_card::value::audio"
+            ], 
+            "exampleMediaPath": "lg_002_03.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "lg_002_04.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "lg_002_05.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "lg_002_06.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "lg_002_07.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "lg_002_08.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "See how combining five clips tells a more detailed story about Marvin, the main character.", 
+            "header": "Carta de previsualizaci\u00f3n de foto", 
+            "references": [
+                "learning_guide_1::medium_card::value::photo"
+            ], 
+            "exampleMediaPath": "lg_002_04.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "A\u00f1adir a mi historia", 
+            "header": "Siguiente", 
+            "references": [
+                "learning_guide_1::medium_card::value"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_add_to_my_story", 
+            "icon": "down"
+        }, 
+        {
+            "text": "Aqu\u00ed hay tres cortes de v\u00eddeo que cre\u00f3 en la primera lecci\u00f3n, B\u00e1sicos 1.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:40", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_video_0::clips", 
+                "learning_guide_1::medium_card::value::video"
+            ], 
+            "goals": [
+                "Pida a su personaje que cuente una historia."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_video_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:40", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_audio_0::clips", 
+                "learning_guide_1::medium_card::value::audio"
+            ], 
+            "goals": [
+                "Pida a su personaje que cuente una historia."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_audio_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_photo_0::clips", 
+                "learning_guide_1::medium_card::value::photo"
+            ], 
+            "goals": [
+                "Presente al personaje de su historia."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_photo_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:08", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_video_1::clips", 
+                "learning_guide_1::medium_card::value::video"
+            ], 
+            "goals": [
+                "Muestre a su personaje llevando a cabo una acci\u00f3n relacionada con la historia."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_video_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_audio_1::clips", 
+                "learning_guide_1::medium_card::value::audio"
+            ], 
+            "goals": [
+                "Grabe a su personaje llevando a cabo una acci\u00f3n relacionada con la historia."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_audio_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_photo_1::clips", 
+                "learning_guide_1::medium_card::value::photo"
+            ], 
+            "goals": [
+                "Capture a su personaje llevando a cabo una acci\u00f3n relacionada con la historia."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_photo_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_photo_1::clips", 
+                "learning_guide_1::medium_card::value::video"
+            ], 
+            "goals": [
+                "Muestre el resultado de la acci\u00f3n de su personaje."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_video_2"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:15", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_audio_2::clips", 
+                "learning_guide_1::medium_card::value::audio"
+            ], 
+            "goals": [
+                "Grabe el resultado de la acci\u00f3n de su personaje."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_audio_2"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_photo_2::clips", 
+                "learning_guide_1::medium_card::value::photo"
+            ], 
+            "goals": [
+                "Muestre el resultado de la acci\u00f3n de su personaje."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_photo_2"
+        }, 
+        {
+            "text": "Bien. Ahora a\u00f1ada cortes de v\u00eddeo que apoyen la historia del personaje. Con las dos pr\u00f3ximas cartas de cortes de v\u00eddeo, a\u00f1ada una acci\u00f3n y un resultado.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "Construya sobre la historia que cre\u00f3 en la primera lecci\u00f3n, B\u00e1sicos 1. Capture los dos cortes de v\u00eddeo de debajo. Luego revisaremos la historia completa.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ], 
+            "goals": [
+                "Muestre algo importante sobre su personaje"
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_video_3"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ], 
+            "goals": [
+                "Grabe algo importante sobre su personaje."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_audio_3"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ], 
+            "goals": [
+                "Muestre algo importante sobre su personaje"
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_photo_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:08", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ], 
+            "goals": [
+                "Mu\u00e9strenos donde ocurre su historia."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_video_4"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ], 
+            "goals": [
+                "Grabe el entorno donde ocurre su historia."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_audio_4"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ], 
+            "goals": [
+                "Mu\u00e9strenos donde ocurre su historia."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_photo_4"
+        }, 
+        {
+            "text": "Ordene sus cortes de v\u00eddeo", 
+            "header": "Siguiente", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_next_order_your_clips", 
+            "icon": "down"
+        }, 
+        {
+            "text": "Ordene sus cortes de v\u00eddeo para contar su historia con estos detalles adicionales.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "learning_guide_2::milestone_order_your_clips::value::true"
+            ]
+        }, 
+        {
+            "references": [
+                "learning_guide_2::clip_video_0::value", 
+                "learning_guide_2::clip_video_1::value", 
+                "learning_guide_2::clip_video_2::value", 
+                "learning_guide_2::clip_video_3::value", 
+                "learning_guide_2::clip_video_4::value", 
+                "learning_guide_2::milestone_next_order_your_clips::value::true"
+            ], 
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "references": [
+                "learning_guide_2::clip_audio_0::value", 
+                "learning_guide_2::clip_audio_1::value", 
+                "learning_guide_2::clip_audio_2::value", 
+                "learning_guide_2::clip_audio_3::value", 
+                "learning_guide_2::clip_audio_4::value", 
+                "learning_guide_2::milestone_next_order_your_clips::value::true"
+            ], 
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_1"
+        }, 
+        {
+            "references": [
+                "learning_guide_2::clip_photo_0::value", 
+                "learning_guide_2::clip_photo_1::value", 
+                "learning_guide_2::clip_photo_2::value", 
+                "learning_guide_2::clip_photo_3::value", 
+                "learning_guide_2::clip_photo_4::value", 
+                "learning_guide_2::milestone_next_order_your_clips::value::true"
+            ], 
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_2"
+        }, 
+        {
+            "header": "Siguiente", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "milestone_finish", 
+            "text": "Finalizar"
+        }, 
+        {
+            "text": "\u00bfEl orden de sus nuevos cortes de v\u00eddeo cuenta una historia m\u00e1s detallada?", 
+            "type": "SelfEvalCard", 
+            "id": "selfeval_card_0", 
+            "checklist": [
+                "Thumbs Up", 
+                "Thumbs Down"
+            ]
+        }, 
+        {
+            "text": "## \u00a1Estupendo trabajo!\nStoryMaker tiene un mont\u00f3n de materiales lectivos para ayudarle a aprender m\u00e1s sobre temas relacionados con este camino.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Next: Tell Stories with a Central Question", 
+            "header": "Siguiente", 
+            "link": "learning_guide_3::intro_card_0", 
+            "references": [
+                "learning_guide_2::selfeval_card_0::value_0::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_card_0"
+        }
+    ], 
+    "storyPathLibraryFile": "learning_guide_2_library.json", 
+    "classPackage": "scal.io.liger.model", 
+    "id": "learning_guide_2", 
+    "title": "A\u00f1ada m\u00e1s detalles a su historia"
+}

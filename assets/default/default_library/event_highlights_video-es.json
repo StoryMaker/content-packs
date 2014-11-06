@@ -40,7 +40,7 @@
             "medium": "video", 
             "length": "0:15", 
             "goals": [
-                "Tome un v\u00eddeo que resuma de qu\u00e9 trata el evento. Una \u00fanica imagen que capture su energ\u00eda y su prop\u00f3sito."
+                "Tome un corte de v\u00eddeo que resuma de qu\u00e9 trata el evento. Una \u00fanica imagen que capture su energ\u00eda y su prop\u00f3sito."
             ], 
             "clipType": "Signature", 
             "type": "ClipCard", 
@@ -127,21 +127,16 @@
         }, 
         {
             "text": "--------", 
-            "type": "EvaluationCard", 
+            "type": "BasicTextCard", 
             "id": "evaluation_card_0"
         }, 
         {
             "medium": "video", 
-            "type": "PublishCard", 
+            "type": "PublishButtonCard", 
             "id": "publish_card_1"
-        }, 
-        {
-            "medium": "video", 
-            "type": "NextUpCard", 
-            "id": "nextup_card_0"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "event_highlights_video", 
-    "title": "Event Highlights"
+    "title": "Destacados del evento"
 }

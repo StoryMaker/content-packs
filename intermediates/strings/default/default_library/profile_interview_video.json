@@ -10,5 +10,6 @@
   "profile_interview_video::evaluation_card_0::text": "--------", 
   "profile_interview_video::clip_card_0::goals[0]": "Show us where your character lives.", 
   "profile_interview_video::clip_card_3::goals[0]": "Show your character ready to begin their day.", 
-  "profile_interview_video::clip_card_7::goals[0]": "Show what your character does for fun."
+  "profile_interview_video::clip_card_7::goals[0]": "Show what your character does for fun.", 
+  "profile_interview_video::title": "Profile Interview"
 }

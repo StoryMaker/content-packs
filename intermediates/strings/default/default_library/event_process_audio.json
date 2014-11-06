@@ -1,6 +1,7 @@
 {
   "event_process_audio::clip_card_0::goals[0]": "Record sounds where the event will happen before it starts.", 
   "event_process_audio::clip_card_1::goals[2]": "Capture the sounds of the crowd inside the event.", 
+  "event_process_audio::title": "Event Process", 
   "event_process_audio::clip_card_4::goals[0]": "Record the third significant step in the event.", 
   "event_process_audio::clip_card_3::goals[0]": "Record the second significant step in the event.", 
   "event_process_audio::clip_card_7::goals[0]": "Record the character doing the activity.", 

@@ -1,6 +1,7 @@
 {
     "event_process_audio::clip_card_0::goals[0]": "Grabe sonidos del lugar donde vaya a acontecer el evento antes de que comience.",
     "event_process_audio::clip_card_1::goals[2]": "Capture los sonidos de la multitud dentro del evento.",
+    "event_process_audio::title": "Event Process",
     "event_process_audio::clip_card_4::goals[0]": "Grabe la tercera fase significativa del evento.",
     "event_process_audio::clip_card_3::goals[0]": "Grabe la segunda fase significativa del evento.",
     "event_process_audio::clip_card_7::goals[0]": "Grabe al personaje realizando la actividad.",

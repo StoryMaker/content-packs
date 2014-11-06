@@ -5,6 +5,7 @@
     "event_report_video::clip_card_8::goals[0]": "Pida a un experto que hable sobre el evento.",
     "event_report_video::clip_card_15::goals[0]": "Si es en una ubicación distinta, muestre donde finaliza el evento.",
     "event_report_video::clip_card_2::goals[0]": "Muestre algo notable acerca del evento.",
+    "event_report_video::title": "Informe sobre el evento",
     "event_report_video::clip_card_10::goals[0]": "Muestre personas interactuando en el evento.",
     "event_report_video::clip_card_14::goals[0]": "Muestre algo de lo que el personaje cuenta acerca del evento.",
     "event_report_video::clip_card_5::goals[0]": "Muestre algo importante para el evento.",

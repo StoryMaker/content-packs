@@ -8,6 +8,7 @@
     "event_discussion_video_question5::clip_card_5::goals[0]": "¿Cuál es su opinión acerca del evento?",
     "event_discussion_video_question5::text_card_0::text": "Hable con diferentes personas para cada corte de vídeo, para dotar a su historia de una gama de voces variada.",
     "event_discussion_video_question5::clip_card_3::goals[0]": "¿Cuál es su opinión acerca del evento?",
+    "event_discussion_video_question5::title": "Event Discussion - Opinion",
     "event_discussion_video_question5::clip_card_7::goals[0]": "¿Cuál es su opinión acerca del evento?",
     "event_discussion_video_question5::text_card_1::text": "Si obtiene una mala respuesta, es inteligente intentarlo otra vez con un nuevo corte de vídeo.",
     "event_discussion_video_question5::clip_card_0::goals[0]": "Muéstrenos algo que represente el evento."

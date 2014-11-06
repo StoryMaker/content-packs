@@ -40,7 +40,7 @@
         }, 
         {
             "text": "No grabe cada fase. S\u00f3lo las fases significativas para mostrar la progresi\u00f3n desde el principio hasta el final.", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_0"
         }, 
         {
@@ -55,7 +55,7 @@
         }, 
         {
             "text": "Aseg\u00farese de que obtiene una gama de composiciones al ilustrar el proceso. Algunos planos abiertos, planos cortos, y planos medios", 
-            "type": "TextCard", 
+            "type": "BasicTextCard", 
             "id": "text_card_1"
         }, 
         {
@@ -69,8 +69,8 @@
             "id": "clip_card_4"
         }, 
         {
-            "text": "Si conlleva m\u00e1s de cuatro pasos, a\u00f1ada m\u00e1s entradas de v\u00eddeo con el bot\u00f3n +.", 
-            "type": "TextCard", 
+            "text": "Si conlleva m\u00e1s de cuatro pasos, a\u00f1ada m\u00e1s cartas de cortes de v\u00eddeo con el bot\u00f3n +.", 
+            "type": "BasicTextCard", 
             "id": "text_card_2"
         }, 
         {
@@ -155,18 +155,13 @@
         }, 
         {
             "text": "--------", 
-            "type": "EvaluationCard", 
+            "type": "BasicTextCard", 
             "id": "evaluation_card_0"
         }, 
         {
             "medium": "photo", 
-            "type": "PublishCard", 
+            "type": "PublishButtonCard", 
             "id": "publish_card_1"
-        }, 
-        {
-            "medium": "photo", 
-            "type": "NextUpCard", 
-            "id": "nextup_card_0"
         }
     ], 
     "classPackage": "scal.io.liger.model", 

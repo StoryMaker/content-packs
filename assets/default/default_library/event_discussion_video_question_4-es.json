@@ -39,8 +39,8 @@
             "id": "clip_card_2"
         }, 
         {
-            "text": "Hable con diferentes personas para cada v\u00eddeo, para dotar a su historia de una gama de voces variada.", 
-            "type": "TextCard", 
+            "text": "Hable con diferentes personas para cada corte de v\u00eddeo, para dotar a su historia de una gama de voces variada.", 
+            "type": "BasicTextCard", 
             "id": "text_card_0"
         }, 
         {
@@ -72,8 +72,8 @@
             "id": "clip_card_4"
         }, 
         {
-            "text": "Si obtiene una mala respuesta, es inteligente intentarlo otra vez con un nuevo v\u00eddeo.", 
-            "type": "TextCard", 
+            "text": "Si obtiene una mala respuesta, es inteligente intentarlo otra vez con un nuevo corte de v\u00eddeo.", 
+            "type": "BasicTextCard", 
             "id": "text_card_1"
         }, 
         {
@@ -131,18 +131,13 @@
         }, 
         {
             "text": "\u00bfSu historia nos cuenta por qu\u00e9 el tema es importante?", 
-            "type": "EvaluationCard", 
+            "type": "BasicTextCard", 
             "id": "evaluation_card_0"
         }, 
         {
             "medium": "video", 
-            "type": "PublishCard", 
+            "type": "PublishButtonCard", 
             "id": "publish_card_1"
-        }, 
-        {
-            "medium": "video", 
-            "type": "NextUpCard", 
-            "id": "nextup_card_0"
         }
     ], 
     "classPackage": "scal.io.liger.model", 

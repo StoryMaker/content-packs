@@ -12,7 +12,7 @@
             "medium": "photo", 
             "length": "0:00", 
             "goals": [
-                "Podr\u00eda fotografiar alguna persona interesante en el evento. Por ejemplo, gente vistiendo disfraces o portando se\u00f1ales."
+                "Podr\u00eda fotografiar alguna persona interesante e influyente en el evento. Por ejemplo, gente vistiendo disfraces o portando se\u00f1ales."
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -81,18 +81,13 @@
         }, 
         {
             "text": "--------", 
-            "type": "EvaluationCard", 
+            "type": "BasicTextCard", 
             "id": "evaluation_card_0"
         }, 
         {
             "medium": "photo", 
-            "type": "PublishCard", 
+            "type": "PublishButtonCard", 
             "id": "publish_card_1"
-        }, 
-        {
-            "medium": "photo", 
-            "type": "NextUpCard", 
-            "id": "nextup_card_0"
         }
     ], 
     "classPackage": "scal.io.liger.model", 

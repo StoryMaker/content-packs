@@ -150,7 +150,7 @@
                     ]
                 }, 
                 {
-                    "text": "Combine v\u00eddeos de diferentes tama\u00f1os o tipos para crear una secuencia complementaria.", 
+                    "text": "Combine corte de v\u00eddeo de diferentes tama\u00f1os o tipos para crear una secuencia complementaria.", 
                     "tags": [
                         "video", 
                         "after"
@@ -187,7 +187,7 @@
                     ]
                 }, 
                 {
-                    "text": "Siga grabando durante al menos 15 segundos, si el v\u00eddeo es demasiado largo, rec\u00f3rtelo.", 
+                    "text": "Siga grabando durante al menos 15 segundos, si el corte de v\u00eddeo es demasiado largo, rec\u00f3rtelo.", 
                     "tags": [
                         "video", 
                         "during"
@@ -569,7 +569,7 @@
                     ]
                 }, 
                 {
-                    "text": "Preg\u00fantese a si mismo para cada v\u00eddeo: \u00bfme cuenta algo nuevo?", 
+                    "text": "Preg\u00fantese a si mismo para cada corte de v\u00eddeo: \u00bfme cuenta algo nuevo?", 
                     "tags": [
                         "journalism", 
                         "general", 
@@ -577,7 +577,7 @@
                     ]
                 }, 
                 {
-                    "text": "Preg\u00fantese para cada v\u00eddeo: \u00bfme cuenta algo nuevo sobre mi principal pregunta?", 
+                    "text": "Preg\u00fantese para cada corte de v\u00eddeo: \u00bfme cuenta algo nuevo sobre mi principal pregunta?", 
                     "tags": [
                         "journalism", 
                         "general", 
@@ -1063,6 +1063,7 @@
                 "default_library::quiz_card_topic::choice", 
                 "default_library::quiz_card_format::choice", 
                 "default_library::quiz_card_medium::choice", 
+                "default_library::quiz_card_cliptype::choice", 
                 "default_library::quiz_card_clipquestion::choice"
             ], 
             "type": "HookLoaderHeadlessCard", 

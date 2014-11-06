@@ -8,6 +8,7 @@
   "issue_highlights_photo::clip_card_7::goals[0]": "Has anything been done about the issue? Show the change.", 
   "issue_highlights_photo::clip_card_7::goals[1]": "If nothing has changed, show that.", 
   "issue_highlights_photo::clip_card_2::goals[0]": "Shoot a photo that sums up the the issue and its impact.", 
+  "issue_highlights_photo::title": "Issue Highlights", 
   "issue_highlights_photo::text_card_0::text": "If there are more than three, you should add clips to include them.", 
   "issue_highlights_photo::clip_card_3::goals[0]": "Photograph the most important example that illustrates the issue and its impact."
 }

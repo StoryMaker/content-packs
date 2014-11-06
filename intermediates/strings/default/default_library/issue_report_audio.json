@@ -13,6 +13,7 @@
   "issue_report_audio::clip_card_2::goals[0]": "Record sound Introducing the issue.", 
   "issue_report_audio::clip_card_17::goals[0]": "Record sounds of how the character(s) is solving the issue.", 
   "issue_report_audio::clip_card_12::goals[0]": "Tell us yourself how the issue is changing in response to the actions of characters in the story.", 
+  "issue_report_audio::title": "Issue Report", 
   "issue_report_audio::clip_card_18::goals[0]": "Tell us yourself what is expected for the issue in the future.", 
   "issue_report_audio::clip_card_9::goals[0]": "Tell us some interesting facts about the history of the issue or why it started.", 
   "issue_report_audio::evaluation_card_0::text": "--------", 

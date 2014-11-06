@@ -5,6 +5,7 @@
   "event_report_video::clip_card_8::goals[0]": "Ask an Expert to talk about the event.", 
   "event_report_video::clip_card_15::goals[0]": "If it\u2019s a different location, show where the event ends.", 
   "event_report_video::clip_card_2::goals[0]": "Show something notable about the event.", 
+  "event_report_video::title": "Event Report", 
   "event_report_video::clip_card_10::goals[0]": "Show people interacting at the event.", 
   "event_report_video::clip_card_14::goals[0]": "Show something the character talks about at the event.", 
   "event_report_video::clip_card_5::goals[0]": "Show something important to the event.", 
