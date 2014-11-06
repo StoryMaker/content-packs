@@ -9,13 +9,11 @@
             "id": "intro_card_0"
         }, 
         {
-            "body": "## Intro\nNow that you understand the basic elements of a story, let's talk about how to make your story compelling. Compelling stories usually answer a single, central question. This question directs the angle you should follow and guides you throughout the creative process. \n", 
             "text": "## Intro\nNow that you understand the basic elements of a story, let's talk about how to make your story compelling. Compelling stories usually answer a single, central question. This question directs the angle you should follow and guides you throughout the creative process. \n", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
         {
-            "body": "## Intro\nThis lesson takes the idea \"I want to tell a story about a local soccer game,\" and shows how it can be told in a variety of ways. If you find a hook you like, you can follow it to make your own. Start with a medium, and questions will follow.\n", 
             "text": "## Intro\nThis lesson takes the idea \"I want to tell a story about a local soccer game,\" and shows how it can be told in a variety of ways. If you find a hook you like, you can follow it to make your own. Start with a medium, and questions will follow.\n", 
             "type": "MarkdownCard", 
             "id": "markdown_card_1"
@@ -32,7 +30,7 @@
             "references": [
                 "learning_guide_3::medium_card::value::audio"
             ], 
-            "title": "Meet Goalie Marvin", 
+            "exampleMediaPath": "profile_interview_001.mp3", 
             "media": [
                 {
                     "media": "profile_interview_001.mp3", 
@@ -40,7 +38,6 @@
                 }
             ], 
             "clipType": "character", 
-            "exampleMediaPath": "profile_interview_001.mp3", 
             "text": "Central Question: Why did Marvin become a goalie?", 
             "id": "preview_card_0"
         }, 
@@ -62,7 +59,7 @@
             "references": [
                 "learning_guide_3::medium_card::value::audio"
             ], 
-            "title": "Pickup Soccer Sunday", 
+            "exampleMediaPath": "event_report_001.mp3", 
             "media": [
                 {
                     "media": "event_report_001.mp3", 
@@ -70,7 +67,6 @@
                 }
             ], 
             "clipType": "character", 
-            "exampleMediaPath": "event_report_001.mp3", 
             "text": "Central Question: What brought each person to the game?", 
             "id": "preview_card_1"
         }, 
@@ -100,7 +96,7 @@
             "references": [
                 "learning_guide_3::medium_card::value::audio"
             ], 
-            "title": "What is Pickup Soccer?", 
+            "exampleMediaPath": null, 
             "media": [
                 {
                     "media": null, 
@@ -108,7 +104,6 @@
                 }
             ], 
             "clipType": "character", 
-            "exampleMediaPath": null, 
             "text": "Central Question: What makes pickup soccer great?", 
             "id": "preview_card_2"
         }, 
@@ -138,7 +133,7 @@
             "references": [
                 "learning_guide_3::medium_card::value::audio"
             ], 
-            "title": "What's Great About Pickup Soccer?", 
+            "exampleMediaPath": "issue_discussion_001.mp3", 
             "media": [
                 {
                     "media": "issue_discussion_001.mp3", 
@@ -146,7 +141,6 @@
                 }
             ], 
             "clipType": "character", 
-            "exampleMediaPath": "issue_discussion_001.mp3", 
             "text": "Central Question: What do people love about pickup soccer?", 
             "id": "preview_card_3"
         }, 
@@ -173,7 +167,7 @@
             "references": [
                 "learning_guide_3::medium_card::value::video"
             ], 
-            "title": "What is Pickup Soccer?", 
+            "exampleMediaPath": "issue_report_001.mov", 
             "media": [
                 {
                     "media": "issue_report_001.mov", 
@@ -181,7 +175,6 @@
                 }
             ], 
             "clipType": "character", 
-            "exampleMediaPath": "issue_report_001.mov", 
             "text": "Central Question: What makes pickup soccer great?", 
             "id": "preview_card_4"
         }, 
@@ -211,7 +204,7 @@
             "references": [
                 "learning_guide_3::medium_card::value::video"
             ], 
-            "title": "Meet Goalie Marvin", 
+            "exampleMediaPath": "profile_interview_001.mov", 
             "media": [
                 {
                     "media": "profile_interview_001.mov", 
@@ -219,7 +212,6 @@
                 }
             ], 
             "clipType": "character", 
-            "exampleMediaPath": "profile_interview_001.mov", 
             "text": "Central Question: Why did Marvin become a goalie?", 
             "id": "preview_card_5"
         }, 
@@ -249,7 +241,7 @@
             "references": [
                 "learning_guide_3::medium_card::value::video"
             ], 
-            "title": "What's Great About Pickup Soccer?", 
+            "exampleMediaPath": "issue_discussion_001.mov", 
             "media": [
                 {
                     "media": "issue_discussion_001.mov", 
@@ -257,7 +249,6 @@
                 }
             ], 
             "clipType": "character", 
-            "exampleMediaPath": "issue_discussion_001.mov", 
             "text": "Central Question: What do people love about pickup soccer?", 
             "id": "preview_card_6"
         }, 
@@ -284,7 +275,7 @@
             "references": [
                 "learning_guide_3::medium_card::value::video"
             ], 
-            "title": "Pickup Soccer Sunday", 
+            "exampleMediaPath": "event_report_001.mov", 
             "media": [
                 {
                     "media": "event_report_001.mov", 
@@ -292,7 +283,6 @@
                 }
             ], 
             "clipType": "character", 
-            "exampleMediaPath": "event_report_001.mov", 
             "text": "Central Question: What brought each person to the game?", 
             "id": "preview_card_7"
         }, 
@@ -322,7 +312,7 @@
             "references": [
                 "learning_guide_3::medium_card::value::photo"
             ], 
-            "title": "Pickup Soccer Sunday", 
+            "exampleMediaPath": "event_highlights_001.jpg", 
             "media": [
                 {
                     "media": "event_highlights_001.jpg", 
@@ -358,7 +348,6 @@
                 }
             ], 
             "clipType": "character", 
-            "exampleMediaPath": "event_highlights_001.jpg", 
             "text": "Central Question: What brought each person to the game?", 
             "id": "preview_card_8"
         }, 
@@ -388,7 +377,7 @@
             "references": [
                 "learning_guide_3::medium_card::value::photo"
             ], 
-            "title": "What is Pickup Soccer?", 
+            "exampleMediaPath": "issue_series_001.jpg", 
             "media": [
                 {
                     "media": "issue_series_001.jpg", 
@@ -412,7 +401,6 @@
                 }
             ], 
             "clipType": "character", 
-            "exampleMediaPath": "issue_series_001.jpg", 
             "text": "Central Question: What makes pickup soccer great?", 
             "id": "preview_card_9"
         }, 
@@ -442,7 +430,7 @@
             "references": [
                 "learning_guide_3::medium_card::value::photo"
             ], 
-            "title": "Meet Goalie Marvin", 
+            "exampleMediaPath": "issue_series_001.jpg", 
             "media": [
                 {
                     "media": "issue_series_001.jpg", 
@@ -466,7 +454,6 @@
                 }
             ], 
             "clipType": "character", 
-            "exampleMediaPath": "issue_series_001.jpg", 
             "text": "Central Question: What is it like to be a goalie?", 
             "id": "preview_card_10"
         }, 

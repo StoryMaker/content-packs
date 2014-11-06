@@ -9,7 +9,6 @@
             "id": "intro_card_0"
         }, 
         {
-            "body": "## Creating a detailed, complete story often requires more than three clips. In addition to using multiple character, action and result clips, many stories include two more elements:  \n\n&bull; Place  \n\nIf your character will be in many places, use place clips to show the change.  \n\n&bull; Signature  \n\nYou may want to show a specific, signature element of your character or story. Signature clips are meant to emphasize a key point of your story.  \n", 
             "text": "## Creating a detailed, complete story often requires more than three clips. In addition to using multiple character, action and result clips, many stories include two more elements:  \n\n&bull; Place  \n\nIf your character will be in many places, use place clips to show the change.  \n\n&bull; Signature  \n\nYou may want to show a specific, signature element of your character or story. Signature clips are meant to emphasize a key point of your story.  \n", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
@@ -21,7 +20,7 @@
             "references": [
                 "learning_guide_1::medium_card::value::video"
             ], 
-            "title": "Video Preview Card", 
+            "exampleMediaPath": "lg_002_02.mp4", 
             "media": [
                 {
                     "media": "lg_002_02.mp4", 
@@ -29,7 +28,6 @@
                 }
             ], 
             "clipType": "character", 
-            "exampleMediaPath": "lg_002_02.mp4", 
             "text": "Watch how combining five clips tells a more detailed story about Marvin, the main character.", 
             "id": "preview_card_0"
         }, 
@@ -40,7 +38,7 @@
             "references": [
                 "learning_guide_1::medium_card::value::audio"
             ], 
-            "title": "Audio Preview Card", 
+            "exampleMediaPath": "lg_002_03.mp3", 
             "media": [
                 {
                     "media": "lg_002_03.mp3", 
@@ -48,7 +46,6 @@
                 }
             ], 
             "clipType": "character", 
-            "exampleMediaPath": "lg_002_03.mp3", 
             "text": "Listen how combining five clips tells a more detailed story about Marvin, the main character.", 
             "id": "preview_card_1"
         }, 
@@ -59,7 +56,7 @@
             "references": [
                 "learning_guide_1::medium_card::value::photo"
             ], 
-            "title": "Photo Preview Card", 
+            "exampleMediaPath": "lg_002_04.jpg", 
             "media": [
                 {
                     "media": "lg_002_04.jpg", 
@@ -83,7 +80,6 @@
                 }
             ], 
             "clipType": "character", 
-            "exampleMediaPath": "lg_002_04.jpg", 
             "text": "See how combining five clips tells a more detailed story about Marvin, the main character.", 
             "id": "preview_card_2"
         }, 
@@ -411,7 +407,6 @@
             "icon": "down"
         }, 
         {
-            "header": "Does the order of your new clips tell a more detailed story?", 
             "text": "Does the order of your new clips tell a more detailed story?", 
             "type": "SelfEvalCard", 
             "id": "selfeval_card_0", 
@@ -421,7 +416,6 @@
             ]
         }, 
         {
-            "body": "## Great Job!\nStoryMaker has plenty of lessons to help you learn more about topics related to this path. \n", 
             "text": "## Great Job!\nStoryMaker has plenty of lessons to help you learn more about topics related to this path. \n", 
             "type": "MarkdownCard", 
             "id": "markdown_card_1"

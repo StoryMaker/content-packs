@@ -18,20 +18,17 @@
             "id": "intro_card_0"
         }, 
         {
-            "body": "## The most simple story has three elements:  \n\n&bull; Character  \n&bull; Action done by the character  \n&bull; Result of the action  \n\nYou can combine these elements to tell a simple story. A story needs a main character who must take an action, and at the end audience wants to see the result of that action.\n", 
             "text": "## The most simple story has three elements:  \n\n&bull; Character  \n&bull; Action done by the character  \n&bull; Result of the action  \n\nYou can combine these elements to tell a simple story. A story needs a main character who must take an action, and at the end audience wants to see the result of that action.\n", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
         {
-            "body": "## Find a character for your story\nChoose someone with a story to tell.\n", 
             "text": "## Find a character for your story\nChoose someone with a story to tell.\n", 
             "type": "MarkdownCard", 
             "id": "markdown_card_1"
         }, 
         {
             "medium": "video", 
-            "title": "Video Preview Card", 
             "media": [
                 {
                     "media": "lg_001_02.mp4", 
@@ -47,7 +44,6 @@
         }, 
         {
             "medium": "audio", 
-            "title": "Audio Preview Card", 
             "media": [
                 {
                     "media": "lg_001_03.mp3", 
@@ -63,7 +59,6 @@
         }, 
         {
             "medium": "photo", 
-            "title": "Photo Preview Card", 
             "media": [
                 {
                     "media": "lg_001_04.jpg", 
@@ -322,7 +317,6 @@
         }, 
         {
             "text": "Do your action and result clips increase the impact of your story?", 
-            "header": "Do your action and result clips increase the impact of your story?", 
             "references": [
                 "learning_guide_1::milestone_finish::value::true"
             ], 
@@ -334,7 +328,6 @@
             "id": "selfeval_card_0"
         }, 
         {
-            "body": "## Great Job!\nStoryMaker has plenty of lessons to help you learn more about topics related to this path. \n", 
             "type": "MarkdownCard", 
             "references": [
                 "learning_guide_1::selfeval_card_0::value_1::true"
