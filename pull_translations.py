@@ -2,4 +2,4 @@
 
 import os
 
-os.system("tx pull -l ar,bs_BA,sr,es,fa,de,mk,ko --minimum-perc=80")
+os.system("tx pull -l ru,ar,bs_BA,sr,es,fa,de,mk,ko --minimum-perc=80")
