@@ -12,7 +12,7 @@
             "medium": "video", 
             "length": "0:10", 
             "goals": [
-                "Mu\u00e9strenos algo que presente el asunto."
+                "Mu\u00e9strenos algo que sirva de presentaci\u00f3n al asunto."
             ], 
             "clipType": "Signature", 
             "type": "ClipCard", 
@@ -32,7 +32,7 @@
             "medium": "video", 
             "length": "0:25", 
             "goals": [
-                "\u00bfQu\u00e9 cree que debe hacerse en referencia a este asunto?"
+                "\u00bfQu\u00e9 cree que debe hacerse con respecto al asunto?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -47,7 +47,7 @@
             "medium": "video", 
             "length": "0:25", 
             "goals": [
-                "\u00bfQu\u00e9 cree que debe hacerse en referencia a este asunto?"
+                "\u00bfQu\u00e9 cree que debe hacerse con respecto al asunto?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -65,7 +65,7 @@
             "medium": "video", 
             "length": "0:25", 
             "goals": [
-                "\u00bfQu\u00e9 cree que debe hacerse en referencia a este asunto?"
+                "\u00bfQu\u00e9 cree que debe hacerse al respecto del asunto?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -80,7 +80,7 @@
             "medium": "video", 
             "length": "0:25", 
             "goals": [
-                "\u00bfQu\u00e9 cree que debe hacerse en referencia a este asunto?"
+                "\u00bfQu\u00e9 cree que debe hacerse con respecto al asunto?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -100,7 +100,7 @@
             "medium": "video", 
             "length": "0:25", 
             "goals": [
-                "\u00bfQu\u00e9 cree que debe hacerse en referencia a este asunto?"
+                "\u00bfQu\u00e9 cree que debe hacerse al respecto del asunto?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -143,5 +143,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "issue_discussion_video_question12", 
-    "title": "Issue Discussion - Resolving"
+    "title": "Debate sobre el asunto - Resolviendo"
 }

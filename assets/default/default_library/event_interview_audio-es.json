@@ -12,7 +12,7 @@
             "medium": "audio", 
             "length": "0:10", 
             "goals": [
-                "Grabe sonido presentando el evento."
+                "Grabe un audio presentando el evento."
             ], 
             "clipType": "Signature", 
             "type": "ClipCard", 
@@ -42,7 +42,7 @@
             "medium": "audio", 
             "length": "0:20", 
             "goals": [
-                "Pregunta: \u00bfCu\u00e1l es el prop\u00f3sito del evento?"
+                "Pregunte: \u00bfCu\u00e1l es el prop\u00f3sito del evento?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -62,7 +62,7 @@
             "medium": "audio", 
             "length": "0:20", 
             "goals": [
-                "Pregunta: \u00bfCu\u00e1ndo comenz\u00f3 el evento por primera vez?"
+                "Pregunte: \u00bfCu\u00e1ndo comenz\u00f3 el evento por primera vez?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -72,7 +72,7 @@
             "medium": "audio", 
             "length": "0:12", 
             "goals": [
-                "Grabe sonidos de lo que ocurre en el evento."
+                "Grabe audios de lo que ocurre en el evento."
             ], 
             "clipType": "Action", 
             "type": "ClipCard", 
@@ -82,7 +82,7 @@
             "medium": "audio", 
             "length": "0:10", 
             "goals": [
-                "Grabe sonido de algo notable acerca del evento."
+                "Grabe un audio de algo notable acerca del evento."
             ], 
             "clipType": "Signature", 
             "type": "ClipCard", 
@@ -102,7 +102,7 @@
             "medium": "audio", 
             "length": "0:30", 
             "goals": [
-                "Pregunta: \u00bfQu\u00e9 hace usted en el evento?"
+                "Pregunte: \u00bfQu\u00e9 hace usted en el evento?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -112,7 +112,7 @@
             "medium": "audio", 
             "length": "0:25", 
             "goals": [
-                "Grabe sonidos de la acci\u00f3n m\u00e1s importante que el personaje realice en el evento."
+                "Grabe audios de la acci\u00f3n m\u00e1s importante que el personaje realice en el evento."
             ], 
             "clipType": "Signature", 
             "type": "ClipCard", 
@@ -122,7 +122,7 @@
             "medium": "audio", 
             "length": "0:13", 
             "goals": [
-                "Grabe sonidos de personas interactuando en el evento."
+                "Grabe audios de personas interactuando en el evento."
             ], 
             "clipType": "Action", 
             "type": "ClipCard", 
@@ -132,7 +132,7 @@
             "medium": "audio", 
             "length": "0:13", 
             "goals": [
-                "Grabe sonidos del resultado de gente que interact\u00faa en el evento."
+                "Grabe audios del resultado de gente interactuando en el evento."
             ], 
             "clipType": "Result", 
             "type": "ClipCard", 
@@ -142,7 +142,7 @@
             "medium": "audio", 
             "length": "0:12", 
             "goals": [
-                "Pregunta: \u00bfC\u00f3mo impacta el evento en los individuos o en la comunidad?"
+                "Pregunte: \u00bfC\u00f3mo impacta el evento en los individuos o en la comunidad?"
             ], 
             "clipType": "Place", 
             "type": "ClipCard", 
@@ -152,7 +152,7 @@
             "medium": "audio", 
             "length": "0:10", 
             "goals": [
-                "Grabe sonidos de como finaliza el evento."
+                "Grabe audios de como finaliza el evento."
             ], 
             "clipType": "Result", 
             "type": "ClipCard", 
@@ -162,7 +162,7 @@
             "medium": "audio", 
             "length": "0:13", 
             "goals": [
-                "Grabe otro sonido de algo que ocurra en el evento."
+                "Grabe otro audio de algo que ocurra en el evento."
             ], 
             "clipType": "Action", 
             "type": "ClipCard", 
@@ -182,7 +182,7 @@
             "medium": "audio", 
             "length": "0:10", 
             "goals": [
-                "Grabe sonidos del final del evento."
+                "Grabe audios del final del evento."
             ], 
             "clipType": "Result", 
             "type": "ClipCard", 
@@ -221,5 +221,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "event_interview_audio", 
-    "title": "Event Interview"
+    "title": "Entrevista sobre el evento"
 }

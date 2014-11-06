@@ -1,16 +1,16 @@
 {
     "issue_discussion_audio_question7::clip_card_6::goals[0]": "¿Por qué es importante el asunto?",
     "issue_discussion_audio_question7::clip_card_2::goals[0]": "¿Por qué es importante el asunto?",
-    "issue_discussion_audio_question7::clip_card_0::goals[1]": "Capture un sonido claro que represente el asunto.",
+    "issue_discussion_audio_question7::clip_card_0::goals[1]": "Capture un audio claro que represente el asunto.",
     "issue_discussion_audio_question7::clip_card_8::goals[0]": "Muestre un lugar importante para el asunto.",
     "issue_discussion_audio_question7::clip_card_7::goals[0]": "¿Por qué es importante el asunto?",
-    "issue_discussion_audio_question7::clip_card_4::goals[0]": "Capture sonidos importantes de un lugar importante para el evento.",
+    "issue_discussion_audio_question7::clip_card_4::goals[0]": "Capture sonidos de un lugar importante para el evento.",
     "issue_discussion_audio_question7::evaluation_card_0::text": "¿Su historia nos cuenta por qué el tema es importante?",
     "issue_discussion_audio_question7::clip_card_3::goals[0]": "¿Por qué es importante el asunto?",
     "issue_discussion_audio_question7::clip_card_0::goals[0]": "Grabe algo que presente el asunto.",
-    "issue_discussion_audio_question7::title": "Issue Discussion - Why",
-    "issue_discussion_audio_question7::clip_card_4::goals[1]": "Grabe sonidos de donde ocurre el asunto.",
+    "issue_discussion_audio_question7::title": "Debate sobre el asunto - Por qué",
+    "issue_discussion_audio_question7::clip_card_4::goals[1]": "Grabe sonidos del lugar donde ocurre el asunto.",
     "issue_discussion_audio_question7::clip_card_5::goals[0]": "¿Por qué es importante el asunto?",
-    "issue_discussion_audio_question7::clip_card_1::goals[0]": "Capture personas afectadas por el asunto del que se habla.",
-    "issue_discussion_audio_question7::clip_card_1::goals[1]": "Grabe los sonidos de donde ocurre el asunto."
+    "issue_discussion_audio_question7::clip_card_1::goals[0]": "Capture personas afectadas por el asunto hablando.",
+    "issue_discussion_audio_question7::clip_card_1::goals[1]": "Grabe los sonidos del lugar donde ocurre el asunto."
 }

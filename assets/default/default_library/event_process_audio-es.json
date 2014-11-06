@@ -14,8 +14,8 @@
             "medium": "audio", 
             "length": "0:25", 
             "goals": [
-                "Presente el inicio del evento.", 
-                "Col\u00f3quese junto a la entrada y grabe los sonidos de la gente entrado.", 
+                "Presente el principio del evento.", 
+                "Col\u00f3quese junto a la entrada y grabe los sonidos de la gente entrando.", 
                 "Capture los sonidos de la multitud dentro del evento."
             ], 
             "clipType": "Character", 
@@ -66,7 +66,7 @@
             "medium": "audio", 
             "length": "0:15", 
             "goals": [
-                "Grabe la \u00faltima fase relevante del evento."
+                "Grabe la \u00faltima fase significativa del evento."
             ], 
             "clipType": "Action", 
             "type": "ClipCard", 
@@ -96,7 +96,7 @@
             "medium": "audio", 
             "length": "0:10", 
             "goals": [
-                "Grabe a personas que observan o reaccionan al evento. Mejor los espectadores absortos y los animados."
+                "Grabe a personas que observan o reaccionan al evento. Mejor a los espectadores inmersos y a los animados."
             ], 
             "clipType": "Result", 
             "type": "ClipCard", 
@@ -146,5 +146,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "event_process_audio", 
-    "title": "Event Process"
+    "title": "Proceso del evento"
 }

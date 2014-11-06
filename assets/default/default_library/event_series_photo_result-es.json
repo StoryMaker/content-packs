@@ -12,7 +12,7 @@
             "medium": "photo", 
             "length": "0:00", 
             "goals": [
-                "Podr\u00eda fotografiar a alguna persona interesante e influyente que responda a los resultados de un juego, un discurso o una representaci\u00f3n."
+                "Podr\u00eda fotografiar a alguna persona de moda e interesante reaccionando a los resultados de un juego, a un discurso o a una representaci\u00f3n."
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -93,5 +93,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "event_series_photo_result", 
-    "title": "Event Series - Results"
+    "title": "Secuencia de eventos - Resultados"
 }

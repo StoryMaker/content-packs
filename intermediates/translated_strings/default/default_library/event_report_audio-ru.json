@@ -1,0 +1,23 @@
+{
+    "event_report_audio::clip_card_2::goals[0]": "Сделайте звукозапись чего-то, что представляет событие. ",
+    "event_report_audio::clip_card_18::goals[0]": "Запишите звуковое сопровождение окончания события.",
+    "event_report_audio::clip_card_10::goals[0]": "Почему это событие является интересным?",
+    "event_report_audio::clip_card_7::goals[0]": "Запишите звуки места, являющегося важным для освещяемого события. ",
+    "event_report_audio::clip_card_9::goals[0]": "Расскажите нам интересные факты об истории этого события или почему оно произошло. ",
+    "event_report_audio::clip_card_3::goals[0]": "Спросите у кого-то их присутствующих: что здесь происходит? ",
+    "event_report_audio::clip_card_11::goals[0]": "Сделайте еще одну звукозапись чего-то, что является важным для этого события. ",
+    "event_report_audio::clip_card_13::goals[0]": "Расскажите нам об изменениях, происходящих во время события. ",
+    "event_report_audio::clip_card_17::goals[0]": "Расскажите нам о том, что ожидается на следующем событии. ",
+    "event_report_audio::title": "Репортаж о событии",
+    "event_report_audio::clip_card_16::goals[0]": "Запишите шум разговоров между людьми. ",
+    "event_report_audio::evaluation_card_0::text": "--------",
+    "event_report_audio::clip_card_4::goals[0]": "Запишите звуки того, что происходит во время события. ",
+    "event_report_audio::clip_card_12::goals[0]": "Запишите звуковое сопровождение окончания события. ",
+    "event_report_audio::clip_card_15::goals[0]": "Попросите участника события рассказать о том, что он делал во время события.",
+    "event_report_audio::clip_card_0::goals[0]": "Запишите где происходит событие.",
+    "event_report_audio::clip_card_5::goals[0]": "Запишите что-то интересное об этом событии. ",
+    "event_report_audio::clip_card_14::goals[0]": "Сделайте еще одну звукозапись чего-то, что происходит во время этого события. ",
+    "event_report_audio::clip_card_6::goals[0]": "Попросите эксперта рассказать о событии. ",
+    "event_report_audio::clip_card_1::goals[0]": "Запишите звуки подготовки к событию. ",
+    "event_report_audio::clip_card_8::goals[0]": "Запишите взаимодействующих людей во время события. "
+}

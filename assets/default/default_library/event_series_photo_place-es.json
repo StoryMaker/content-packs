@@ -12,8 +12,8 @@
             "medium": "photo", 
             "length": "0:00", 
             "goals": [
-                "Podr\u00eda fotografiar una serie de objetos. Grafismos o representaciones interesantes de nueva tecnolog\u00eda.", 
-                "Podr\u00eda fotografiar una serie de cabinas de muestras o puestos de comida."
+                "Podr\u00eda fotografiar una secuencia de objetos. Grafismos o visualizaciones interesantes de nueva tecnolog\u00eda.", 
+                "Podr\u00eda fotografiar una secuencia de cabinas de visualizaci\u00f3n o puestos de comida."
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -94,5 +94,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "event_series_photo_place", 
-    "title": "Event Series - Place"
+    "title": "Secuencia del evento - Ubicaci\u00f3n"
 }

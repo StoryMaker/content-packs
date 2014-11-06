@@ -1,0 +1,16 @@
+{
+    "event_process_video::clip_card_0::goals[0]": "Покажите место, на котором будет происходить событие, до его начала. ",
+    "event_process_video::evaluation_card_0::text": "--------",
+    "event_process_video::text_card_0::text": "Не снимайте каждый шаг, а только самые главные шаги, чтобы показать ход события от начала до конца. ",
+    "event_process_video::clip_card_4::goals[0]": "Покажите третий важный шаг во время события. ",
+    "event_process_video::clip_card_8::goals[0]": "Покажите людей, принимающих участие в событии, или их реакцию на происходящее. Чем оживлённее зрители, тем лучше. ",
+    "event_process_video::clip_card_1::goals[0]": "Покажите самое начало события. ",
+    "event_process_video::text_card_1::text": "Если предполагается более четырех шагов, добавьте кадр нажав на кнопку +.",
+    "event_process_video::clip_card_5::goals[0]": "Покажите последний важный шаг во время события. ",
+    "event_process_video::clip_card_2::goals[0]": "Покажите первый важный шаг во время события. ",
+    "event_process_video::clip_card_9::goals[0]": "Покажите окончательный продукт или заключение мероприятия  - драматический финиш. ",
+    "event_process_video::clip_card_6::goals[0]": "Покажите особенно драматичный момент, который суммирует событие.",
+    "event_process_video::clip_card_3::goals[0]": "Покажите второй важный шаг во время события.",
+    "event_process_video::title": "Event Process",
+    "event_process_video::clip_card_7::goals[0]": "Покажите героя в действии. "
+}

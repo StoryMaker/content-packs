@@ -33,7 +33,7 @@
             "length": "0:20", 
             "goals": [
                 "Grabe audios de su personaje interactuando con otras personas en su vida cotidiana.", 
-                "Grabe audios de la ocupaci\u00f3n de su personaje.", 
+                "Grabe audios de lo que hace su personaje para ganarse la vida.", 
                 "Grabe audios de personas debatiendo en un grupo sobre su personaje."
             ], 
             "clipType": "Action", 
@@ -44,7 +44,7 @@
             "medium": "audio", 
             "length": "0:30", 
             "goals": [
-                "Pregunte: \u00bfCu\u00e1l es su opini\u00f3n del personaje?"
+                "Pregunte: \u00bfCu\u00e1l es su opini\u00f3n sobre el personaje?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -54,7 +54,7 @@
             "medium": "audio", 
             "length": "0:30", 
             "goals": [
-                "Pregunte: \u00bfCu\u00e1l es su opini\u00f3n del personaje?"
+                "Pregunte: \u00bfCu\u00e1l es su opini\u00f3n sobre el personaje?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -64,7 +64,7 @@
             "medium": "audio", 
             "length": "0:30", 
             "goals": [
-                "Pregunte: \u00bfCu\u00e1l es su opini\u00f3n del personaje?"
+                "Pregunte: \u00bfCu\u00e1l es su opini\u00f3n sobre el personaje?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -74,7 +74,7 @@
             "medium": "audio", 
             "length": "0:30", 
             "goals": [
-                "Pregunte: \u00bfCu\u00e1l es su opini\u00f3n del personaje?"
+                "Pregunte: \u00bfCu\u00e1l es su opini\u00f3n sobre el personaje?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -84,7 +84,7 @@
             "medium": "audio", 
             "length": "0:30", 
             "goals": [
-                "Pregunte: \u00bfCu\u00e1l es su opini\u00f3n del personaje?"
+                "Pregunte: \u00bfCu\u00e1l es su opini\u00f3n sobre el personaje?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -94,7 +94,7 @@
             "medium": "audio", 
             "length": "0:09", 
             "goals": [
-                "Grabe sonidos del entorno del la persona."
+                "Grabe sonidos del entorno de la persona."
             ], 
             "clipType": "Place", 
             "type": "ClipCard", 
@@ -127,5 +127,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "profile_discussion_audio_question14", 
-    "title": "Profile Discussion"
+    "title": "Perfilar debate"
 }

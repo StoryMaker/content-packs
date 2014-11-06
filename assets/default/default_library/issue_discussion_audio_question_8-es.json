@@ -23,7 +23,7 @@
             "medium": "audio", 
             "length": "0:09", 
             "goals": [
-                "Capture personas afectadas por el asunto del que se habla.", 
+                "Capture personas afectadas por el asunto hablando.", 
                 "Grabe los sonidos de donde ocurre el asunto."
             ], 
             "clipType": "Place", 
@@ -54,7 +54,7 @@
             "medium": "audio", 
             "length": "0:09", 
             "goals": [
-                "Capture sonidos importantes de un lugar importante para el evento.", 
+                "Capture sonidos de un lugar importante para el evento.", 
                 "Grabe sonidos de donde sucede el asunto."
             ], 
             "clipType": "Place", 
@@ -128,5 +128,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "issue_discussion_audio_question8", 
-    "title": "Issue Discussion - Opinion"
+    "title": "Debate sobre el asunto - Opini\u00f3n"
 }

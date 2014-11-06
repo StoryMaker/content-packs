@@ -1,16 +1,16 @@
 {
-    "issue_discussion_audio_question8::clip_card_4::goals[0]": "Capture sonidos importantes de un lugar importante para el evento.",
+    "issue_discussion_audio_question8::clip_card_4::goals[0]": "Capture sonidos de un lugar importante para el evento.",
     "issue_discussion_audio_question8::clip_card_4::goals[1]": "Grabe sonidos de donde sucede el asunto.",
     "issue_discussion_audio_question8::clip_card_0::goals[0]": "Grabe algo que presente el asunto.",
     "issue_discussion_audio_question8::clip_card_0::goals[1]": "Capture un sonido claro que represente el asunto.",
     "issue_discussion_audio_question8::evaluation_card_0::text": "¿Su historia recoge una gama de opiniones sobre el asunto?",
     "issue_discussion_audio_question8::clip_card_8::goals[0]": "Muestre un lugar importante para el asunto.",
     "issue_discussion_audio_question8::clip_card_7::goals[0]": "¿Cuál es su opinión sobre el asunto?",
-    "issue_discussion_audio_question8::title": "Issue Discussion - Opinion",
+    "issue_discussion_audio_question8::title": "Debate sobre el asunto - Opinión",
     "issue_discussion_audio_question8::clip_card_3::goals[0]": "¿Cuál es su opinión sobre el asunto?",
     "issue_discussion_audio_question8::clip_card_1::goals[1]": "Grabe los sonidos de donde ocurre el asunto.",
     "issue_discussion_audio_question8::clip_card_6::goals[0]": "¿Cuál es su opinión sobre el asunto?",
     "issue_discussion_audio_question8::clip_card_5::goals[0]": "¿Cuál es su opinión sobre el asunto?",
     "issue_discussion_audio_question8::clip_card_2::goals[0]": "¿Cuál es su opinión sobre el asunto?",
-    "issue_discussion_audio_question8::clip_card_1::goals[0]": "Capture personas afectadas por el asunto del que se habla."
+    "issue_discussion_audio_question8::clip_card_1::goals[0]": "Capture personas afectadas por el asunto hablando."
 }

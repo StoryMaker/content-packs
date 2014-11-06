@@ -23,7 +23,7 @@
             "medium": "audio", 
             "length": "0:07", 
             "goals": [
-                "Grabe sonidos para presentar su argumento."
+                "Grabe audios para presentar su debate."
             ], 
             "clipType": "Signature", 
             "type": "ClipCard", 
@@ -83,7 +83,7 @@
             "medium": "audio", 
             "length": "0:09", 
             "goals": [
-                "Grabe sonidos de como finaliza el evento."
+                "Grabe audios de como finaliza el evento."
             ], 
             "clipType": "Place", 
             "type": "ClipCard", 
@@ -115,5 +115,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "event_discussion_audio_question1", 
-    "title": "Event Discussion - Why"
+    "title": "Debate del evento - Por qu\u00e9"
 }

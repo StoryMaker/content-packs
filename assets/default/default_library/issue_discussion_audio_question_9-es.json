@@ -12,7 +12,7 @@
             "medium": "audio", 
             "length": "0:12", 
             "goals": [
-                "Grabe algo que presente el asunto.", 
+                "Grabe algo que sirva de presentaci\u00f3n al asunto.", 
                 "Capture un sonido claro que represente el asunto."
             ], 
             "clipType": "Signature", 
@@ -24,7 +24,7 @@
             "length": "0:09", 
             "goals": [
                 "Capture personas afectadas por el asunto del que se habla.", 
-                "Grabe los sonidos de donde ocurre el asunto."
+                "Grabe los sonidos del lugar donde sucede el asunto."
             ], 
             "clipType": "Place", 
             "type": "ClipCard", 
@@ -54,8 +54,8 @@
             "medium": "audio", 
             "length": "0:09", 
             "goals": [
-                "Capture sonidos importantes de un lugar importante para el evento.", 
-                "Grabe sonidos de donde ocurre el asunto."
+                "Capture sonidos de un lugar importante para el evento.", 
+                "Grabe sonidos del liugar donde ocurre el asunto."
             ], 
             "clipType": "Action", 
             "type": "ClipCard", 
@@ -85,7 +85,7 @@
             "medium": "audio", 
             "length": "0:30", 
             "goals": [
-                "\u00bfQu\u00e9 cree que debe hacerse en referencia a este asunto?"
+                "\u00bfQu\u00e9 cree que debe hacerse al respecto del asunto?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -128,5 +128,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "issue_discussion_audio_question9", 
-    "title": "Issue Discussion - Solving"
+    "title": "Debate sobre el asunto - Solucionando"
 }
