@@ -30,35 +30,14 @@ def set_id(key, card):
 # TODO export directly to the real assets/ folder
 # TODO warn that fields existed in card but not card
 
-#def id, extract_string(
-'''
-def parse_file2(stream):
-    objs = yaml.load(stream)
-    cards = []
-    strings = {}
-    translatable = [
-        'medium',
-        'text',
-        we need to extract each goal from the list, so it cant just be a flat key.  
-        
-        also tips 
-        
-        
-        
-    ]
-    for card in objs['cards']:
-        if 
-'''
-
-
 def parse_file(in_filename, json_out_filename, strings_out_filename):
     stream = open(in_filename, 'r')
-    objs = yaml.load(stream)
+    doc = yaml.load(stream)
     strings = {}
     global cardcounts
     cardcounts = {}
-    if objs.has_key('cards'): # SPLS can have no cards
-        for card in objs['cards']:
+    if doc.has_key('cards'): # SPLS can have no cards
+        for card in doc['cards']:
             if card['type'] == 'MarkDownCard':
                 card['type'] = 'MarkdownCard'
                 set_id("markdown_card", card)
@@ -66,14 +45,14 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
                 del card['body']
                 
                 #strings
-                card_fqid = "%s::%s" % (objs['id'], card['id'])
+                card_fqid = "%s::%s" % (doc['id'], card['id'])
                 strings["%s::text" % card_fqid] = card['text']
 
             elif card['type'] == 'IntroCard':
                 set_id("intro_card", card)
 
                 #strings
-                card_fqid = "%s::%s" % (objs['id'], card['id'])
+                card_fqid = "%s::%s" % (doc['id'], card['id'])
                 strings["%s::headline" % card_fqid] = card['headline']
                 strings["%s::level" % card_fqid] = card['level']
                 
@@ -81,7 +60,7 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
                 set_id("quiz_card", card)
                 
                 #strings
-                card_fqid = "%s::%s" % (objs['id'], card['id'])
+                card_fqid = "%s::%s" % (doc['id'], card['id'])
                 strings["%s::question" % card_fqid] = card['question']
 
                 for choice in card['choices']:
@@ -92,7 +71,7 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
                 set_id("clip_card", card)
                 
                 #strings
-                card_fqid = "%s::%s" % (objs['id'], card['id'])
+                card_fqid = "%s::%s" % (doc['id'], card['id'])
                 for choice in card['goals']:
                     choice_key = "%s::goals" % card_fqid
                     strings["%s[%s]" % (choice_key, get_count(choice_key))] = choice
@@ -107,7 +86,7 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
                 set_id("evaluation_card", card)
 
                 #strings
-                card_fqid = "%s::%s" % (objs['id'], card['id'])
+                card_fqid = "%s::%s" % (doc['id'], card['id'])
                 strings["%s::text" % card_fqid] = card['text']
 
             elif card['type'] == 'SelfEvalCard':
@@ -116,14 +95,14 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
                 del card['header']
 
                 #strings
-                card_fqid = "%s::%s" % (objs['id'], card['id'])
+                card_fqid = "%s::%s" % (doc['id'], card['id'])
                 strings["%s::text" % card_fqid] = card['text']
 
             elif card['type'] == 'HowToCard':
                 set_id("howto_card", card)
 
                 #strings
-                card_fqid = "%s::%s" % (objs['id'], card['id'])
+                card_fqid = "%s::%s" % (doc['id'], card['id'])
                 strings["%s::text" % card_fqid] = card['text']
 
             elif card['type'] == 'MilestoneCard':
@@ -133,7 +112,7 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
                 #card['icon'] = card['icon']
 
                 #strings
-                card_fqid = "%s::%s" % (objs['id'], card['id'])
+                card_fqid = "%s::%s" % (doc['id'], card['id'])
                 strings["%s::text" % card_fqid] = card['text']
                 strings["%s::header" % card_fqid] = card['header']
                 
@@ -145,7 +124,7 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
                 #no translatable strings
 
             elif card['type'] == 'NextUpCard':
-                objs['cards'].remove(card)
+                doc['cards'].remove(card)
                 #card['type'] = 'MilestoneCard' # FIXME wtf is this?  it has no text or links
                 #medium == audio 
                 #card['text'] = "Next Up" # FIXME
@@ -163,14 +142,14 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
                 set_id("link_card", card)
                 
                 #strings
-                card_fqid = "%s::%s" % (objs['id'], card['id'])
+                card_fqid = "%s::%s" % (doc['id'], card['id'])
                 strings["%s::text" % card_fqid] = card['text']
 
             elif card['type'] == 'TipCollectionHeadlessCard':
                 set_id("tip_collection_card", card)
                 
                 #strings
-                card_fqid = "%s::%s" % (objs['id'], card['id'])
+                card_fqid = "%s::%s" % (doc['id'], card['id'])
 
                 for tip in card['tips']:
                     tip_key = "%s::tips" % card_fqid
@@ -187,7 +166,7 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
                 card['exampleMediaPath'] = card['media'][0]['media'] # for now we only grab the first media
 
                 #strings
-                card_fqid = "%s::%s" % (objs['id'], card['id'])
+                card_fqid = "%s::%s" % (doc['id'], card['id'])
                 strings["%s::header" % card_fqid] = card['header']
 
             elif card['type'] == 'TextCard' or card['type'] == 'BasicTextCard':
@@ -195,30 +174,15 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
                 card['type'] = 'BasicTextCard'
 
                 #strings
-                card_fqid = "%s::%s" % (objs['id'], card['id'])
+                card_fqid = "%s::%s" % (doc['id'], card['id'])
                 strings["%s::text" % card_fqid] = card['text']
 
     # FIXME !!!!! edit in place like we do for cards
-    doc = {
-        'title': objs['title'],
-        'classPackage': 'scal.io.liger.model',
-        'id': objs['id'],
-        'cards': objs['cards']
-    }      
-    
-    if objs.has_key('storyPathLibraryFile'): 
-        doc['storyPathLibraryFile'] = objs['storyPathLibraryFile']
-    
-    if objs.has_key('storyPathTemplateFiles'): 
-        doc['storyPathTemplateFiles'] = objs['storyPathTemplateFiles']
-        
-    if objs.has_key('dependencies'): 
-        doc['dependencies'] = objs['dependencies']
-        
-    if objs.has_key('currentStoryPathFile'): 
-        doc['currentStoryPathFile'] = objs['currentStoryPathFile']
-          
-    try: 
+
+    doc['classPackage'] = 'scal.io.liger.model'
+    strings['%s::title' % doc['id']] = doc['title']
+
+    try:
         os.makedirs(json_dir)
     except: pass
     
