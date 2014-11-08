@@ -40,7 +40,7 @@
             "medium": "audio", 
             "length": "0:10", 
             "goals": [
-                "Grabe sonido que resuma el asunto y su impacto."
+                "Grabe un audio que resuma el asunto y su impacto."
             ], 
             "clipType": "Signature", 
             "type": "ClipCard", 
@@ -85,7 +85,7 @@
             "id": "clip_card_5"
         }, 
         {
-            "text": "Si hay m\u00e1s de tres, debe a\u00f1adir cartas para presentarlas.", 
+            "text": "Si hay m\u00e1s de tres, debe a\u00f1adir cartas para incluirlas.", 
             "type": "BasicTextCard", 
             "id": "text_card_0"
         }, 

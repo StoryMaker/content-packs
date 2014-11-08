@@ -1,5 +1,5 @@
 {
-    "title": "Learn the Basic Elements of a Story", 
+    "title": "Aprenda los elementos b\u00e1sicos de una historia", 
     "storyPathLibraryFile": "learning_guide_1_library.json", 
     "dependencies": [
         {
@@ -333,7 +333,7 @@
             ], 
             "type": "MarkdownCard", 
             "id": "markdown_card_2", 
-            "text": "## \u00a1Estupendo trabajo!\nStoryMaker tiene un mont\u00f3n de materiales lectivos para ayudarle a aprender m\u00e1s sobre temas relacionados con este camino."
+            "text": "## \u00a1Estupendo trabajo!\nStoryMaker tiene un mont\u00f3n de lecciones listas para ayudarle a aprender m\u00e1s sobre temas relacionados con este m\u00e9todo."
         }, 
         {
             "text": "Siguiente: A\u00f1ada m\u00e1s detalles a su historia", 

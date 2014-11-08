@@ -12,7 +12,7 @@
             "medium": "audio", 
             "length": "0:10", 
             "goals": [
-                "Grabe sonidos de donde trabaja el personaje."
+                "Grabe sonidos del sitio donde trabaja el personaje."
             ], 
             "clipType": "Place", 
             "type": "ClipCard", 
@@ -22,7 +22,7 @@
             "medium": "audio", 
             "length": "0:15", 
             "goals": [
-                "Grabe sonidos de personas que trabajan en el asunto."
+                "Grabe audios de personas que trabajan en el asunto."
             ], 
             "clipType": "Action", 
             "type": "ClipCard", 
@@ -42,7 +42,7 @@
             "medium": "audio", 
             "length": "0:20", 
             "goals": [
-                "Grabe sonidos del impacto del asunto en la gente."
+                "Grabe audios del impacto del asunto en la gente."
             ], 
             "clipType": "Action", 
             "type": "ClipCard", 
@@ -52,7 +52,7 @@
             "medium": "audio", 
             "length": "0:30", 
             "goals": [
-                "Pregunta: \u00bfC\u00f3mo impacta el asunto en los individuos o en la comunidad?"
+                "Pregunte: \u00bfC\u00f3mo impacta el asunto en los individuos o en la comunidad?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -62,7 +62,7 @@
             "medium": "audio", 
             "length": "0:20", 
             "goals": [
-                "Grabe sonidos de la mayor\u00eda de cosas importantes en referencia al asunto."
+                "Grabe audios de la cosa m\u00e1s importante en referencia al asunto."
             ], 
             "clipType": "Signature", 
             "type": "ClipCard", 
@@ -92,7 +92,7 @@
             "medium": "audio", 
             "length": "0:25", 
             "goals": [
-                "Pregunta: \u00bfQu\u00e9 se est\u00e1 haciendo al respecto del asunto?"
+                "Pregunte: \u00bfQu\u00e9 se est\u00e1 haciendo con respecto al asunto?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -102,7 +102,7 @@
             "medium": "audio", 
             "length": "0:12", 
             "goals": [
-                "Grabe sonidos del personaje interactuando con aquellos afectados."
+                "Grabe sonidos del personaje interactuando con aquellas personas afectadas."
             ], 
             "clipType": "Action", 
             "type": "ClipCard", 
@@ -112,7 +112,7 @@
             "medium": "audio", 
             "length": "0:15", 
             "goals": [
-                "Grabe sonidos de como est\u00e1 solucionando el asunto el personaje."
+                "Grabe audios sobre c\u00f3mo est\u00e1 solucionando el asunto el personaje."
             ], 
             "clipType": "Result", 
             "type": "ClipCard", 
@@ -132,7 +132,7 @@
             "medium": "audio", 
             "length": "0:13", 
             "goals": [
-                "Grabe sonidos de lo que est\u00e1 haciendo la gente al respecto del asunto."
+                "Grabe audios de lo que est\u00e1 haciendo la gente al respecto del asunto."
             ], 
             "clipType": "Result", 
             "type": "ClipCard", 
@@ -142,7 +142,7 @@
             "medium": "audio", 
             "length": "0:12", 
             "goals": [
-                "Grabe sonido de algo notable en referencia al asunto."
+                "Grabe un audio de algo notable en referencia al asunto."
             ], 
             "clipType": "Signature", 
             "type": "ClipCard", 
@@ -192,5 +192,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "issue_interview_audio", 
-    "title": "Issue Interview"
+    "title": "Entrevista sobre el asunto"
 }

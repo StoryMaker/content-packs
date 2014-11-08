@@ -1,7 +1,7 @@
 {
     "cards": [
         {
-            "text": "Encuentre un patr\u00f3n con el que los espectadores puedan identificarse.", 
+            "text": "Encuentre una pauta con la que los espectadores puedan identificarse.", 
             "type": "BasicTextCard", 
             "id": "text_card_0"
         }, 
@@ -9,7 +9,7 @@
             "medium": "photo", 
             "length": "0:00", 
             "goals": [
-                "Fotograf\u00ede una serie que muestre ubicaciones o construcciones importantes para su historia del asunto."
+                "Fotograf\u00ede una secuencia que muestre ubicaciones o construcciones importantes para su relato del asunto."
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -90,5 +90,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "issue_series_photo_place", 
-    "title": "Issue Series - Place"
+    "title": "Secuencia del asunto - Ubicaci\u00f3n"
 }

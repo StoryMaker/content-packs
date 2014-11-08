@@ -1,0 +1,23 @@
+{
+    "title": "Aprenda los elementos b\u00e1sicos de una historia", 
+    "storyPathTemplateFiles": {
+        "learning_guide_3": "learning_guide_3.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "learning_guide_3", 
+            "dependencyFile": "learning_guide_3.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "learning_guide_3"
+        }
+    ], 
+    "currentStoryPathFile": "learning_guide_3.json", 
+    "id": "learning_guide_3_library"
+}

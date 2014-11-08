@@ -1,10 +1,10 @@
 {
     "issue_series_photo_place::evaluation_card_0::text": "--------",
-    "issue_series_photo_place::text_card_0::text": "Encuentre un patrón con el que los espectadores puedan identificarse.",
+    "issue_series_photo_place::text_card_0::text": "Encuentre una pauta con la que los espectadores puedan identificarse.",
     "issue_series_photo_place::clip_card_3::goals[0]": "Replique la composición de la primera foto con una ubicación o construcción distinta.",
-    "issue_series_photo_place::clip_card_0::goals[0]": "Fotografíe una serie que muestre ubicaciones o construcciones importantes para su historia del asunto.",
+    "issue_series_photo_place::clip_card_0::goals[0]": "Fotografíe una secuencia que muestre ubicaciones o construcciones importantes para su relato del asunto.",
     "issue_series_photo_place::clip_card_4::goals[0]": "Replique la composición de la primera foto con una ubicación o construcción distinta.",
     "issue_series_photo_place::clip_card_1::goals[0]": "Replique la composición de la primera foto con una ubicación o construcción distinta.",
-    "issue_series_photo_place::title": "Issue Series - Place",
+    "issue_series_photo_place::title": "Secuencia del asunto - Ubicación",
     "issue_series_photo_place::clip_card_2::goals[0]": "Replique la composición de la primera foto con una ubicación o construcción distinta."
 }

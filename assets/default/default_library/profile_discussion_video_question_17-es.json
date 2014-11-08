@@ -1,0 +1,121 @@
+{
+    "cards": [
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "video", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "Mu\u00e9strenos algo importante para su personaje."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:15", 
+            "goals": [
+                "Mu\u00e9strenos lo que su personaje hace para ganarse la vida.", 
+                "Muestre a su personaje interactuando con otras personas en su vida cotidiana.", 
+                "Muestre a personas debatiendo en grupo sobre su personaje."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "Pregunte: \u00bfCu\u00e1l es su opini\u00f3n del personaje?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "Pregunte: \u00bfCu\u00e1l es su opini\u00f3n del personaje?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "Pregunte: \u00bfCu\u00e1l es su opini\u00f3n del personaje?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "Pregunte: \u00bfCu\u00e1l es su opini\u00f3n del personaje?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "Pregunte: \u00bfCu\u00e1l es su opini\u00f3n del personaje?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:09", 
+            "goals": [
+                "Grabe sonidos del entorno de la persona."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "edit", 
+                "video", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "\u00bfNos cuenta su historia por qu\u00e9 es importante la persona?", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "profile_discussion_video_questio17", 
+    "title": "Perfilar debate"
+}
