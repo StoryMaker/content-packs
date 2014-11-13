@@ -12,9 +12,9 @@
             "medium": "photo", 
             "length": "0:00", 
             "goals": [
-                "Fotograf\u00ede a una persona que ilustre la idea central de su historia."
+                "Fotograf\u00ede una acci\u00f3n que ilustre su historia."
             ], 
-            "clipType": "Character", 
+            "clipType": "Action", 
             "type": "ClipCard", 
             "id": "clip_card_0"
         }, 
@@ -22,9 +22,9 @@
             "medium": "photo", 
             "length": "0:00", 
             "goals": [
-                "Replique la composici\u00f3n de la primera foto con una persona distinta."
+                "Replique la composici\u00f3n de la primera foto con una acci\u00f3n diferente."
             ], 
-            "clipType": "Character", 
+            "clipType": "Action", 
             "type": "ClipCard", 
             "id": "clip_card_1"
         }, 
@@ -32,9 +32,9 @@
             "medium": "photo", 
             "length": "0:00", 
             "goals": [
-                "Replique la composici\u00f3n de la primera foto con una persona distinta."
+                "Replique la composici\u00f3n de la primera foto con una acci\u00f3n diferente."
             ], 
-            "clipType": "Character", 
+            "clipType": "Action", 
             "type": "ClipCard", 
             "id": "clip_card_2"
         }, 
@@ -50,9 +50,9 @@
             "medium": "photo", 
             "length": "0:00", 
             "goals": [
-                "Replique la composici\u00f3n de la primera foto con una persona distinta."
+                "Replique la composici\u00f3n de la primera foto con una acci\u00f3n diferente."
             ], 
-            "clipType": "Character", 
+            "clipType": "Action", 
             "type": "ClipCard", 
             "id": "clip_card_3"
         }, 
@@ -60,9 +60,9 @@
             "medium": "photo", 
             "length": "0:00", 
             "goals": [
-                "Replique la composici\u00f3n de la primera foto con una persona distinta."
+                "Replique la composici\u00f3n de la primera foto con una acci\u00f3n diferente."
             ], 
-            "clipType": "Character", 
+            "clipType": "Action", 
             "type": "ClipCard", 
             "id": "clip_card_4"
         }, 
@@ -98,6 +98,6 @@
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "id": "profile_series_photo_character", 
+    "id": "profile_series_photo_action", 
     "title": "Secuencia del perfil"
 }
