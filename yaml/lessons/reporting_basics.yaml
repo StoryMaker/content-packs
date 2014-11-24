@@ -1,0 +1,191 @@
+---
+    id: reporting_basics
+    title: Reporting Basics
+    classPackage: scal.io.liger.model
+
+    cards:
+
+        - 
+            type: PreviewCard
+            title: The best reporting is fact-based rather than based on opinion, rumor, or personal interest. How do I apply this concept in a social-first environment?
+            media: 
+                - 
+                    media: 01.png
+                    media_caption: © Matt Bors 2012
+
+        - 
+            type: MarkDownCard
+            body: |  
+                ## In this lesson you will learn:  
+                &bull; Key concepts for good reporting  
+                &bull; How to distinguish fact from opinion  
+                &bull; How to use facts as the backbone of your reporting  
+
+        - 
+            type: MarkDownCard
+            body: |  
+                In mobile and social environment, good reporting can be especially challenging. It is often difficult to know the identity or agenda of people posting. Accurate information can be hard to collect, but a few solid facts can go a long way toward informing people about an issue. Good journalists exercise judgment and common sense about whom to trust. They also consider sources of information carefully and are transparent with the audience about where their information came from.  
+
+        - 
+            type: MarkDownCard
+            body: |  
+                ## Gathering information:  
+                No matter the tool and no matter the story, good reporting begins with answering six basic questions about an issue:  
+
+                &bull; Who?  
+                &bull; What?  
+                &bull; Where?  
+                &bull; When?  
+                &bull; Why?  
+                &bull; How?  
+
+        - 
+            type: MarkDownCard
+            body: |  
+                The Five Ws help journalists collect the basic facts required to build a solid story. Be as specific and accurate as possible; remember to get the full, proper names of people and places, and make sure you know how to spell them. When reporting a story, be sure you collect the essential information common citizens unfamiliar with the issue will need to understand it.  
+                It can help to do a bit of background research when starting work on a story. Good journalists are well-informed about the issues they cover.  
+                The more detailed your reporting, the better. It’s one thing to write that security forces were present at a demonstration. It is more informative to make it clear they were from the interior ministry, not the army.  
+                It can be challenging to separate fact from opinion. You need to keep your own feelings about an issue in check and respect the audience’s ability to form an opinion based on the facts you present.  
+
+        - 
+            type: MarkDownCard
+            body: |  
+                ## Examples of properly asked and answered Five Ws:  
+
+        - 
+            type: MarkDownCard
+            body: |  
+                ### What happened?  
+                Summarize precisely what took place. What was the outcome? Was property damaged? Who won? Is anyone dead? Be specific.  
+                Good: Voters in Tripoli took to the polls today in the nation’s first-ever democratic election.  
+                Bad: Today is a day of celebration as our great nation ushers in a new, more prosperous era.  
+                
+        - 
+            type: MarkDownCard
+            body: |  
+                ### Who was involved?  
+                Explain who was there. How many people? From what interest groups?  
+                Good: More than 200 dignitaries were present with representatives from the Workers People’s Party, The Solidarity Movement and the King’s Personal Staff in attendance.  
+                Bad: Many people and many politicians were there.  
+
+        - 
+            type: MarkDownCard
+            body: |  
+                ### Where did it happen?  
+                Provide the country, province, city, neighborhood, square, business, building, etc. — add specificity. The political affiliation, ethnicity and religion of people in the area may or may not be important. Is it an urban area? A rural area? A military compound?  
+                Good: The match was played on a makeshift former university football practice field outside of Port Said.  
+                Bad: The game was not played at the normal stadium.  
+
+        - 
+            type: MarkDownCard
+            body: |  
+                ### When did it happen?  
+                Give the exact date — day of the month, month and year. The time of day can be important in quickly evolving situations. If season is important, or if the fact that it is a holiday or event such as a ceasefire is relevant, include that information. Was it day or night?  
+                Good: Originally scheduled for the evening of April 6, the performance by Aman Halawa has been moved to April 14.  
+                Bad: The world-recognized musician’s performance was planned for yesterday but has been moved to next week.  
+
+        - 
+            type: MarkDownCard
+            body: |  
+                ### "Why did it happen?"  
+                What caused the event? What is the background? Avoid speculation. Rely on reported fact. Was there a single thing that set it off or did it build slowly? Was it planned? If so, by who? Who paid for it? Who arranged it?  
+                Good: The bridge could not withstand the pressure of the rising storm water and collapsed, said a spokesman from the Army Corp of Engineers.  
+                Bad: The bridge was poorly maintained because of government corruption, so it fell apart in the storm."  
+
+        - 
+            type: MarkDownCard
+            body: |  
+                ### "How did it happen?"  
+                Describe the progression of the event — observation is different than opinion. How did it proceed? Did it start slowly and build or happen suddenly? Was there a clear turning point?  
+                Good: People began gathering early in the day, and by evening hundreds were in the square, chanting, waving signs and demanding the health minister’s resignation following the deaths last week of 13 children due to a tainted flu vaccine.  
+                Bad: Many people came and shouted for the health minister to be fired, blaming him for the children’s deaths.  
+
+        - 
+            type: MarkDownCard
+            body: |  
+                ## Factoids  
+                For short dispatches, it is often helpful to think in terms of collecting “factoids.” Factoids are the backbone of good reporting. Factoids are tidbits of factual information that you can use to make sure you answer who, what, where, when, and why to the best of your ability.  
+                &bull; Numbers and stats are factoids: How many? What time did it start?  
+                &bull; Details about the issue are factoids. Describe briefly of how it — whatever it may be — works. Where did it start? When will it take effect? Who is involved? Who opposes it? Who supports it?  
+                &bull; Observations are factoids. Physical descriptions are an often-overlooked but powerful type of factoid. What does the room look like? What is he wearing? What is the scene?  
+                &bull; Quotes are factoids: Quotes dramatize and personalize your point. Quotes can be statements of significant fact or of opinion — how the source feels. No matter if it is a statement of fact or opinion it’s the FACT that it was said that’s valuable to the journalist.  
+
+        - 
+            type: PreviewCard
+            title: More involved or longer stories may require more reporting with a wider variety of sources before and after an event.
+            media: 
+                - 
+                    media: 03.mp4
+                    media_caption: © Matt Bors 2012
+
+        - 
+            type: MarkDownCard
+            body: |  
+                ## THINGS TO REMEMBER  
+                
+                &bull; You need to distinguish fact from opinion in your reporting.  
+                &bull; Access and time are challenges to good reporting.  
+                &bull; Personal bias is another challenge to good reporting.  
+                &bull; Be careful: Do not pass along bad information to your readers.  
+                &bull; All can often be minimized by talking to other journalists and looking at coverage of the story from a variety of sources.  
+
+        - 
+            id: quiz_card
+            type: QuizCard
+            question: Which of the choices below are examples of “factoids?" (There may be more than one answer.)
+            correctRequired: 2
+            choices:
+                - 
+                    id: answer_1
+                    text: Numbers.
+                - 
+                    id: answer_2
+                    text: Quotes.
+                - 
+                    id: answer_3
+                    text: Personal opinion.
+                - 
+                    id: answer_4
+                    text: None of the above.
+
+            correctAnswers:
+                - answer_1
+                - answer_2
+
+        - 
+            id: quiz_card
+            type: QuizCard
+            question: "True or False: Who, what, where, when, how, and why are the six basic questions you should try to answer when reporting."
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: "True"
+                - 
+                    id: answer_2
+                    text: "False"
+
+            correctAnswers:
+                - answer_1
+
+        - 
+            id: quiz_card
+            type: QuizCard
+            question: Which are obstacles to better reporting?
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: Access.
+                - 
+                    id: answer_2
+                    text: Time.
+                - 
+                    id: answer_3
+                    text: Personal bias.
+                - 
+                    id: answer_4
+                    text: All of the above.
+
+            correctAnswers:
+                - answer_4

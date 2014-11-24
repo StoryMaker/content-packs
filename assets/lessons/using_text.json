@@ -1,0 +1,123 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "01.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "How do I use text effectively to support a multimedia story?", 
+            "exampleMediaPath": "01.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## In this lesson you will learn:  \n&bull; The different roles text can play in a story\n&bull; How to identify good information for the text elements of your story\n&bull; How to write a short text post\n&bull; How to write keywords to accompany video, audio, photo, or other media elements\n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "The Internet in general and mobile devices in particular are visual environments. Pictures, video, and audio are powerful storytelling tools on their own or together. No matter how these media elements are used, each requires some text.  \nThe written word plays several essential roles online. It can come in the form of a short, descriptive news \u201cexplainer,\u201d a photo/video caption, or titles and keywords/tags for other media content. If you have an Internet connection, Google\u2019s speech-to-text function can make it very easy to add detailed descriptions to your story.  \nNo matter how text is used, it needs to be succinct, clear, and informative.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## Text in the lead role\nWith breaking news stories, visuals and audio may not be immediately available. Some issue and event stories do not lend themselves to photo, video, or audio. These can be policy stories, visually uninteresting press conferences, or stories that are challenging because of lighting, noise, or access, or they are reported after the fact. If text is going to play a lead role in your presentation, it should have the following news-dispatch-like characteristics:  \n&bull; Sentences should be short: 25-35 words. Use simple, declarative sentences.  \n&bull; Get to the point quickly. The basic facts of the story should be in the first sentence or two. Draw your reader into the story with important information up top. Do not save the best for last.  \n&bull; Think factoids (see the reporting lesson). Provide essential, basic information: who, what, where, when, and why.  \n&bull; One post, one idea: Limit each post to a single point. There is nothing to prevent you from multiple posts, each about a different element of the larger story.  \n&bull; Avoid inflammatory or biased language.  \n&bull; Include relevant links and hashtags when possible.  \n&bull; Think follow up: How can you use your text posts to build an audience for additional coverage of the topic throughout the story cycle?  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "## Examples of text in the lead role\n&bull; Dhaka, Bangladesh; November 25, 2012 \u2014 More than 100 people died Saturday and Sunday in a fire at a garment factory outside the capital.  \n&bull; It took firefighters more than 17 hours to put out the blaze at the factory, Tazreen Fashions, after it started Saturday evening, retired fire official Salim Nawaj Bhuiyan said by telephone from Dhaka, Bangladesh\u2019s capital.  \n&bull; At least 111 people were killed, and many more workers were taken to several local hospitals and clinics for burns and smoke inhalation.  \n&bull; \u201cThe main difficulty was to put out the fire. Sufficient approach road was not there,\u201d said Salim Nawaj Bhuiyan, who now runs a fire safety company in Dhaka. \u201cThe fire service had to take great trouble to approach the factory.\u201d  \n&bull; Bangladesh\u2019s garment industry is the second largest exporter of clothing after China. The industry employs more than 3 million workers, mostly women.  \n&bull; The garment industry has a notoriously poor record of fire safety. Since 2006, more than 500 Bangladeshi workers have died in garment factory fires, according to Clean Clothes Campaign, an anti-sweatshop advocacy group based in Amsterdam.  \n&bull; Experts say many of the fires could have been easily avoided if the factories had taken the right precautions. Many factories are in cramped neighborhoods, have too few fire escapes and widely flout safety measures, said the experts.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## Writing keywords and tags\nAudiences outside of your social network and search engines interested in the topics you cover need to be able to find your stories. There is no way to search directly for a picture, video, or audio file. People can only search for text, so the keywords and tags associated with your media content is important. Keywords and tags should identify your story and relate it to broader topical themes of interest to your audience.  \nKeywords and tags can be written into the keyword or tags fields either in StoryMaker or on the platform on which the story will be published. In addition to the fields, keywords and tags can be included in a photo caption or a text post.  \n### Guidelines for keyword and tag writing  \n&bull; Use between 5 and 10 keywords or tags.  \n&bull; Spell words out completely.  \n&bull; Order the keywords or tags in terms of importance or likely search choice.  \n&bull; Select clear, common descriptors. For example, use  \u201cenvironmental\u201d rather than \u201cgreen.\u201d  \n&bull; Include broad descriptors for specific names used in the caption. For example, if \u201cthe Indira Gandhi Institute of Child Medicine\u201d appears in the caption, use \u201cchildren\u201d and \u201chospital\u201d as keywords or tags.  \n&bull; Include alternative descriptors to those that appear in the caption.  \n&bull; Include geographic location.  \n&bull; Include important proper names.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "## THINGS TO REMEMBER  \n&bull; Keep it short.  \n&bull; Stick to the facts.  \n&bull; The standards of good journalism apply to you text posts.  \n&bull; Use keywords and tags to help people find your stories.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "question": "Which best describes a good first sentence or text in the lead role?", 
+            "id": "quiz_card", 
+            "choices": [
+                {
+                    "text": "25-35 words long.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Enticing in the way that will draw the reader in.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "A succinct, dramatic yet fact-based summary of the story.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "All of the above", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "question": "True or False: Good writers do not have to be good reporters. After all, if you write well, its OK to make ideas appear as reported facts.", 
+            "id": "quiz_card", 
+            "choices": [
+                {
+                    "text": "True", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "False", 
+                    "id": "answer_2"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "question": "Which best describes characteristics of news writing that distinguish it from scholarly writing or literature?", 
+            "id": "quiz_card", 
+            "choices": [
+                {
+                    "text": "News writing and microblogging feature thoughtful introductions that provide context before getting to the most current development of the story or idea.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "It should have long sentence written in an almost poetic style.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "News writing should include lots of obscure references, abbreviations, and jargon that assume the reader is informed about the background of the story.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "None of the above.", 
+                    "id": "answer_4"
+                }
+            ]
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "using_text", 
+    "title": "Using Text"
+}

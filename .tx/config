@@ -3,6 +3,76 @@ host = https://www.transifex.com
 
 
 
+[storymaker.introduction_to_journalism]
+file_filter = intermediates/translated_strings/lessons/introduction_to_journalism-<lang>.json
+source_file = intermediates/strings/lessons/introduction_to_journalism.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.social_media_basics]
+file_filter = intermediates/translated_strings/lessons/social_media_basics-<lang>.json
+source_file = intermediates/strings/lessons/social_media_basics.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.reporting_basics]
+file_filter = intermediates/translated_strings/lessons/reporting_basics-<lang>.json
+source_file = intermediates/strings/lessons/reporting_basics.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.selecting_and_verifying_sources]
+file_filter = intermediates/translated_strings/lessons/selecting_and_verifying_sources-<lang>.json
+source_file = intermediates/strings/lessons/selecting_and_verifying_sources.json
+source_lang = en
+type = KEYVALUEJSON
+
+
+
+
+
+[storymaker.interview_techniques]
+file_filter = intermediates/translated_strings/lessons/interview_techniques-<lang>.json
+source_file = intermediates/strings/lessons/interview_techniques.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.evolution_of_a_story]
+file_filter = intermediates/translated_strings/lessons/evolution_of_a_story-<lang>.json
+source_file = intermediates/strings/lessons/evolution_of_a_story.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.introduction_to_ethics_and_professional_standards]
+file_filter = intermediates/translated_strings/lessons/introduction_to_ethics_and_professional_standards-<lang>.json
+source_file = intermediates/strings/lessons/introduction_to_ethics_and_professional_standards.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.using_text]
+file_filter = intermediates/translated_strings/lessons/using_text-<lang>.json
+source_file = intermediates/strings/lessons/using_text.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.media_law]
+file_filter = intermediates/translated_strings/lessons/media_law-<lang>.json
+source_file = intermediates/strings/lessons/media_law.json
+source_lang = en
+type = KEYVALUEJSON
+
+
+
+
+
+
+
+
+
+
+
+
+
 [storymaker.learning_guide_1]
 file_filter = intermediates/translated_strings/default/learning_guide_1/learning_guide_1-<lang>.json
 source_file = intermediates/strings/default/learning_guide_1/learning_guide_1.json
