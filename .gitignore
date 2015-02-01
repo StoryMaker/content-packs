@@ -57,3 +57,8 @@ target/
 # IntelliJ
 *.iml
 .idea/
+
+
+# storymaker stuff
+
+intermediates/
