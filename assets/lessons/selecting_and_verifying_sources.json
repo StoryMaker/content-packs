@@ -3,12 +3,12 @@
         {
             "media": [
                 {
-                    "media": "01.png", 
+                    "media": "1.png", 
                     "media_caption": "\u00a9 Matt Bors 2014"
                 }
             ], 
             "header": "How do you develop and think about identifying good characters to work as sources for your stories?", 
-            "exampleMediaPath": "01.png", 
+            "exampleMediaPath": "1.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
@@ -95,7 +95,7 @@
             ], 
             "type": "QuizCard", 
             "question": "If you want to know how many people were injured in an earthquake, you might ask which of the following types of sources?", 
-            "id": "quiz_card", 
+            "id": "quiz_card_1", 
             "choices": [
                 {
                     "text": "A reactionary source.", 
@@ -122,7 +122,7 @@
             ], 
             "type": "QuizCard", 
             "question": "True or False: A background source is someone who agrees to speak to you off the record, meaning his or her name will not appear in the story. To be truthful, it is OK to publish the name.", 
-            "id": "quiz_card", 
+            "id": "quiz_card_2", 
             "choices": [
                 {
                     "text": "True", 
@@ -141,7 +141,7 @@
             ], 
             "type": "QuizCard", 
             "question": "In addition to talking to people, research and source documents are important parts of good journalism. Which are good sources for this kind of reporting?", 
-            "id": "quiz_card", 
+            "id": "quiz_card_3", 
             "choices": [
                 {
                     "text": "RSS feeds.", 
