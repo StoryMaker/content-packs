@@ -3,12 +3,12 @@
         {
             "media": [
                 {
-                    "media": "01.png", 
+                    "media": "1.png", 
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
             "header": "Introduction to Journalism", 
-            "exampleMediaPath": "01.png", 
+            "exampleMediaPath": "1.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"

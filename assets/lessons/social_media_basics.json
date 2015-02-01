@@ -3,12 +3,12 @@
         {
             "media": [
                 {
-                    "media": "01.png", 
+                    "media": "1.png", 
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
             "header": "How can I best leverage social media tools and networks to reach the broadest possible audience with information about important issues?", 
-            "exampleMediaPath": "01.png", 
+            "exampleMediaPath": "1.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
@@ -60,7 +60,7 @@
             ], 
             "type": "QuizCard", 
             "question": "Which of the following is important for a citizen journalist to do? (There may be more than one answer.)", 
-            "id": "quiz_card", 
+            "id": "quiz_card_1", 
             "choices": [
                 {
                     "text": "Build an online presence for yourself through social sites.", 
@@ -87,7 +87,7 @@
             ], 
             "type": "QuizCard", 
             "question": "True or False: Two key elements that define the best citizen journalism are that it often takes the form of a dialogue with the audience, and the journalist is transparent about reporting methods, sources, and influences.", 
-            "id": "quiz_card", 
+            "id": "quiz_card_2", 
             "choices": [
                 {
                     "text": "True", 
@@ -106,7 +106,7 @@
             ], 
             "type": "QuizCard", 
             "question": "What is your story about?", 
-            "id": "quiz_card", 
+            "id": "quiz_card_3", 
             "choices": [
                 {
                     "text": "Little or no research prior to an event.", 

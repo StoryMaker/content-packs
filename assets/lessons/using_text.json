@@ -3,12 +3,12 @@
         {
             "media": [
                 {
-                    "media": "01.png", 
+                    "media": "1.png", 
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
             "header": "How do I use text effectively to support a multimedia story?", 
-            "exampleMediaPath": "01.png", 
+            "exampleMediaPath": "1.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
@@ -50,7 +50,7 @@
             ], 
             "type": "QuizCard", 
             "question": "Which best describes a good first sentence or text in the lead role?", 
-            "id": "quiz_card", 
+            "id": "quiz_card_1", 
             "choices": [
                 {
                     "text": "25-35 words long.", 
@@ -77,7 +77,7 @@
             ], 
             "type": "QuizCard", 
             "question": "True or False: Good writers do not have to be good reporters. After all, if you write well, its OK to make ideas appear as reported facts.", 
-            "id": "quiz_card", 
+            "id": "quiz_card_2", 
             "choices": [
                 {
                     "text": "True", 
@@ -96,7 +96,7 @@
             ], 
             "type": "QuizCard", 
             "question": "Which best describes characteristics of news writing that distinguish it from scholarly writing or literature?", 
-            "id": "quiz_card", 
+            "id": "quiz_card_3", 
             "choices": [
                 {
                     "text": "News writing and microblogging feature thoughtful introductions that provide context before getting to the most current development of the story or idea.", 

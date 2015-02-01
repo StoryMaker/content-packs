@@ -3,12 +3,12 @@
         {
             "media": [
                 {
-                    "media": "01.png", 
+                    "media": "1.png", 
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
             "header": "Media laws are regularly revised to silence journalists. How should you navigate the ongoing change in media law?", 
-            "exampleMediaPath": "01.png", 
+            "exampleMediaPath": "1.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
@@ -65,7 +65,7 @@
             ], 
             "type": "QuizCard", 
             "question": "Even if the media laws are unclear and the authorities apply them unfairly in the country or region where you work, which of the following can help citizen journalists protect themselves?", 
-            "id": "quiz_card", 
+            "id": "quiz_card_1", 
             "choices": [
                 {
                     "text": "Be familiar with the laws that are on the books.", 
@@ -92,7 +92,7 @@
             ], 
             "type": "QuizCard", 
             "question": "True or False: Self-censorship can be an issue for many journalists even if government censorship is not. Good journalists need to be willing to give fair coverage to ideas with which they do not agree, unpopular topics that are relevant to public interest, and subject matter that is culturally uncomfortable but important.", 
-            "id": "quiz_card", 
+            "id": "quiz_card_2", 
             "choices": [
                 {
                     "text": "True", 

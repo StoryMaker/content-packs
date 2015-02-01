@@ -3,12 +3,12 @@
         {
             "media": [
                 {
-                    "media": "01.png", 
+                    "media": "1.png", 
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
             "header": "What are some basic techniques for getting the most out of an interview?", 
-            "exampleMediaPath": "01.png", 
+            "exampleMediaPath": "1.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
@@ -109,7 +109,7 @@
             ], 
             "type": "QuizCard", 
             "question": "What are some things you might do if you are interviewing someone reluctant to talk?", 
-            "id": "quiz_card", 
+            "id": "quiz_card_1", 
             "choices": [
                 {
                     "text": "Move to your most essential questions more quickly.", 
@@ -136,7 +136,7 @@
             ], 
             "type": "QuizCard", 
             "question": "True or False: If a subject is reluctant to answer an important question, rather than restate the question differently or try to push the issue by probing, you should drop it.", 
-            "id": "quiz_card", 
+            "id": "quiz_card_2", 
             "choices": [
                 {
                     "text": "True", 
@@ -155,7 +155,7 @@
             ], 
             "type": "QuizCard", 
             "question": "Which of these things should you NEVER do in an interview:", 
-            "id": "quiz_card", 
+            "id": "quiz_card_3", 
             "choices": [
                 {
                     "text": "Let the conversation fall silent for an awkward period of time.", 
