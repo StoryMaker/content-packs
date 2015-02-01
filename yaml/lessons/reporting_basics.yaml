@@ -10,7 +10,7 @@
             title: The best reporting is fact-based rather than based on opinion, rumor, or personal interest. How do I apply this concept in a social-first environment?
             media: 
                 - 
-                    media: 01.png
+                    media: 1.png
                     media_caption: © Matt Bors 2012
 
         - 
@@ -130,7 +130,7 @@
                 &bull; All can often be minimized by talking to other journalists and looking at coverage of the story from a variety of sources.  
 
         - 
-            id: quiz_card
+            id: quiz_card_1
             type: QuizCard
             question: Which of the choices below are examples of “factoids?" (There may be more than one answer.)
             correctRequired: 2
@@ -153,7 +153,7 @@
                 - answer_2
 
         - 
-            id: quiz_card
+            id: quiz_card_2
             type: QuizCard
             question: "True or False: Who, what, where, when, how, and why are the six basic questions you should try to answer when reporting."
             correctRequired: 1
@@ -169,7 +169,7 @@
                 - answer_1
 
         - 
-            id: quiz_card
+            id: quiz_card_3
             type: QuizCard
             question: Which are obstacles to better reporting?
             correctRequired: 1

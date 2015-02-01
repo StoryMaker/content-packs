@@ -10,7 +10,7 @@
             title: Media laws are regularly revised to silence journalists. How should you navigate the ongoing change in media law?
             media: 
                 - 
-                    media: 01.png
+                    media: 1.png
                     media_caption: © Matt Bors 2012
 
         - 
@@ -78,7 +78,7 @@
                 &bull; Invest in your own digital security.  
 
         - 
-            id: quiz_card
+            id: quiz_card_1
             type: QuizCard
             question: Even if the media laws are unclear and the authorities apply them unfairly in the country or region where you work, which of the following can help citizen journalists protect themselves?
             correctRequired: 1
@@ -100,7 +100,7 @@
                 - answer_4
 
         - 
-            id: quiz_card
+            id: quiz_card_2
             type: QuizCard
             question: "True or False: Self-censorship can be an issue for many journalists even if government censorship is not. Good journalists need to be willing to give fair coverage to ideas with which they do not agree, unpopular topics that are relevant to public interest, and subject matter that is culturally uncomfortable but important."
             correctRequired: 1

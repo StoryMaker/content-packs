@@ -10,7 +10,7 @@
             title: How can I learn to tell my story professionally and ethically?
             media: 
                 - 
-                    media: 01.png
+                    media: 1.png
                     media_caption: © Matt Bors 2012
 
         - 
@@ -26,7 +26,7 @@
             title: How can I learn to tell my story professionally and ethically?
             media: 
                 - 
-                    media: 02.mp4
+                    media: 2.mp4
                     media_caption: © Small World News 2012
 
         - 
@@ -111,7 +111,7 @@
                 &bull; Do not put people at risk through your reporting.  
 
         - 
-            id: quiz_card
+            id: quiz_card_1
             type: QuizCard
             question: Which of the following is an example of ethical journalism?
             correctRequired: 1
@@ -133,7 +133,7 @@
                 - answer_4
 
         - 
-            id: quiz_card
+            id: quiz_card_2
             type: QuizCard
             question: "True or False: If your working environment is unusually challenging or complicated in a way that makes it hard to adhere to professional standards, it is OK to not apply the code of ethics."
             correctRequired: 1
@@ -149,7 +149,7 @@
                 - answer_2
 
         - 
-            id: quiz_card
+            id: quiz_card_3
             type: QuizCard
             question: "Journalists can sometimes become celebrities or recognized experts with strong opinions. This kind of power can lead to compromises in professional ethics. To avoid this, journalists who become public figures should"
             correctRequired: 1

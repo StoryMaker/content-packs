@@ -10,7 +10,7 @@
             title: What are some basic techniques for getting the most out of an interview?
             media: 
                 - 
-                    media: 01.png
+                    media: 1.png
                     media_caption: © Matt Bors 2012
 
         - 
@@ -142,7 +142,7 @@
                 &bull; Your story will be more interesting if your interviews include people with opposing points of view.
 
         - 
-            id: quiz_card
+            id: quiz_card_1
             type: QuizCard
             question: What are some things you might do if you are interviewing someone reluctant to talk?
             correctRequired: 1
@@ -164,7 +164,7 @@
                 - answer_4
 
         - 
-            id: quiz_card
+            id: quiz_card_2
             type: QuizCard
             question: "True or False: If a subject is reluctant to answer an important question, rather than restate the question differently or try to push the issue by probing, you should drop it."
             correctRequired: 1
@@ -180,7 +180,7 @@
                 - answer_2
 
         - 
-            id: quiz_card
+            id: quiz_card_3
             type: QuizCard
             question: "Which of these things should you NEVER do in an interview:"
             correctRequired: 1

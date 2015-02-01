@@ -10,7 +10,7 @@
             title: How do I use text effectively to support a multimedia story?
             media: 
                 - 
-                    media: 01.png
+                    media: 1.png
                     media_caption: © Matt Bors 2012
 
         - 
@@ -80,7 +80,7 @@
                 &bull; Use keywords and tags to help people find your stories.  
 
         - 
-            id: quiz_card
+            id: quiz_card_1
             type: QuizCard
             question: Which best describes a good first sentence or text in the lead role?
             correctRequired: 1
@@ -102,7 +102,7 @@
                 - answer_4
 
         - 
-            id: quiz_card
+            id: quiz_card_2
             type: QuizCard
             question: "True or False: Good writers do not have to be good reporters. After all, if you write well, its OK to make ideas appear as reported facts."
             correctRequired: 1
@@ -118,7 +118,7 @@
                 - answer_2
 
         - 
-            id: quiz_card
+            id: quiz_card_3
             type: QuizCard
             question: Which best describes characteristics of news writing that distinguish it from scholarly writing or literature?
             correctRequired: 1

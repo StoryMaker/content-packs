@@ -10,7 +10,7 @@
             title: How do you develop and think about identifying good characters to work as sources for your stories?
             media: 
                 - 
-                    media: 01.png
+                    media: 1.png
                     media_caption: © Matt Bors 2014
 
         - 
@@ -130,7 +130,7 @@
                 &bull; Be transparent about your sources and attribute material taken from other publications.  
 
         - 
-            id: quiz_card
+            id: quiz_card_1
             type: QuizCard
             question: If you want to know how many people were injured in an earthquake, you might ask which of the following types of sources?
             correctRequired: 1
@@ -152,7 +152,7 @@
                 - answer_3
 
         - 
-            id: quiz_card
+            id: quiz_card_2
             type: QuizCard
             question: "True or False: A background source is someone who agrees to speak to you off the record, meaning his or her name will not appear in the story. To be truthful, it is OK to publish the name."
             correctRequired: 1
@@ -168,7 +168,7 @@
                 - answer_2
 
         - 
-            id: quiz_card
+            id: quiz_card_3
             type: QuizCard
             question: In addition to talking to people, research and source documents are important parts of good journalism. Which are good sources for this kind of reporting?
             correctRequired: 1

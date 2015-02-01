@@ -10,7 +10,7 @@
             title: How do I adapt my coverage as the story changes?
             media: 
                 - 
-                    media: 01.png
+                    media: 1.png
                     media_caption: © Matt Bors 2012
 
         - 
@@ -119,7 +119,7 @@
                 &bull; In a social-first environment, it is important to encourage contribution from your audience.  
 
         - 
-            id: quiz_card
+            id: quiz_card_1
             type: QuizCard
             question: Which of the following is a characteristic of a good news story? (There may be more than one answer.)
             correctRequired: 2
@@ -142,7 +142,7 @@
                 - answer_3
 
         - 
-            id: quiz_card
+            id: quiz_card_2
             type: QuizCard
             question: "True or False: As a story moves from first-day coverage to more in-depth coverage, it is important to provide contextual information in your presentation that reminds your audience of the basic facts of the issue."
             correctRequired: 1
@@ -158,7 +158,7 @@
                 - answer_2
 
         - 
-            id: quiz_card
+            id: quiz_card_3
             type: QuizCard
             question: "The categories of stories presented here are important because"
             correctRequired: 1
