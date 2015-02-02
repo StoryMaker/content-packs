@@ -1,0 +1,18 @@
+---
+    id: reporting_basics
+    title: Reporting Basics
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: reporting_basics.json
+    storyPathTemplateFiles:
+        reporting_basics: reporting_basics.json
+    dependencies:
+        -
+            dependencyId: reporting_basics
+            dependencyFile: reporting_basics.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: reporting_basics

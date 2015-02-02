@@ -1,0 +1,18 @@
+---
+    id: introduction_to_audio
+    title: Introduction to Audio
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: introduction_to_audio.json
+    storyPathTemplateFiles:
+        introduction_to_audio: introduction_to_audio.json
+    dependencies:
+        -
+            dependencyId: introduction_to_audio
+            dependencyFile: introduction_to_audio.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: introduction_to_audio

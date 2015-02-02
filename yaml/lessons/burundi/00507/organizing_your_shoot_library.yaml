@@ -1,0 +1,18 @@
+---
+    id: organizing_your_shoot
+    title: Organizing Your Shoot
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: organizing_your_shoot.json
+    storyPathTemplateFiles:
+        organizing_your_shoot: organizing_your_shoot.json
+    dependencies:
+        -
+            dependencyId: organizing_your_shoot
+            dependencyFile: organizing_your_shoot.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: organizing_your_shoot

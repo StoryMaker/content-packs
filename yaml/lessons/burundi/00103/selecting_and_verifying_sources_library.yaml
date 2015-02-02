@@ -1,0 +1,18 @@
+---
+    id: selecting_and_verifying_sources
+    title: Selecting and Verifying Sources
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: selecting_and_verifying_sources.json
+    storyPathTemplateFiles:
+        selecting_and_verifying_sources: selecting_and_verifying_sources.json
+    dependencies:
+        -
+            dependencyId: selecting_and_verifying_sources
+            dependencyFile: selecting_and_verifying_sources.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: selecting_and_verifying_sources

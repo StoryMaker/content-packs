@@ -1,0 +1,18 @@
+---
+    id: using_text
+    title: Using Text
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: using_text.json
+    storyPathTemplateFiles:
+        using_text: using_text.json
+    dependencies:
+        -
+            dependencyId: using_text
+            dependencyFile: using_text.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: using_text

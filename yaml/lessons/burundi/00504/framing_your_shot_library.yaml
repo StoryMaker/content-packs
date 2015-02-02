@@ -1,0 +1,18 @@
+---
+    id: framing_your_shot
+    title: Framing Your Shot
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: framing_your_shot.json
+    storyPathTemplateFiles:
+        framing_your_shot: framing_your_shot.json
+    dependencies:
+        -
+            dependencyId: framing_your_shot
+            dependencyFile: framing_your_shot.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: framing_your_shot

@@ -1,0 +1,172 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "The best reporting is fact-based rather than based on opinion, rumor, or personal interest. How do I apply this concept in a social-first environment?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## In this lesson you will learn:  \n&bull; Key concepts for good reporting  \n&bull; How to distinguish fact from opinion  \n&bull; How to use facts as the backbone of your reporting  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "In mobile and social environment, good reporting can be especially challenging. It is often difficult to know the identity or agenda of people posting. Accurate information can be hard to collect, but a few solid facts can go a long way toward informing people about an issue. Good journalists exercise judgment and common sense about whom to trust. They also consider sources of information carefully and are transparent with the audience about where their information came from.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## Gathering information:  \nNo matter the tool and no matter the story, good reporting begins with answering six basic questions about an issue:  \n\n&bull; Who?  \n&bull; What?  \n&bull; Where?  \n&bull; When?  \n&bull; Why?  \n&bull; How?  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "The Five Ws help journalists collect the basic facts required to build a solid story. Be as specific and accurate as possible; remember to get the full, proper names of people and places, and make sure you know how to spell them. When reporting a story, be sure you collect the essential information common citizens unfamiliar with the issue will need to understand it.  \nIt can help to do a bit of background research when starting work on a story. Good journalists are well-informed about the issues they cover.  \nThe more detailed your reporting, the better. It\u2019s one thing to write that security forces were present at a demonstration. It is more informative to make it clear they were from the interior ministry, not the army.  \nIt can be challenging to separate fact from opinion. You need to keep your own feelings about an issue in check and respect the audience\u2019s ability to form an opinion based on the facts you present.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## Examples of properly asked and answered Five Ws:  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "### What happened?  \nSummarize precisely what took place. What was the outcome? Was property damaged? Who won? Is anyone dead? Be specific.  \nGood: Voters in Tripoli took to the polls today in the nation\u2019s first-ever democratic election.  \nBad: Today is a day of celebration as our great nation ushers in a new, more prosperous era.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "### Who was involved?  \nExplain who was there. How many people? From what interest groups?  \nGood: More than 200 dignitaries were present with representatives from the Workers People\u2019s Party, The Solidarity Movement and the King\u2019s Personal Staff in attendance.  \nBad: Many people and many politicians were there.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "### Where did it happen?  \nProvide the country, province, city, neighborhood, square, business, building, etc. \u2014 add specificity. The political affiliation, ethnicity and religion of people in the area may or may not be important. Is it an urban area? A rural area? A military compound?  \nGood: The match was played on a makeshift former university football practice field outside of Port Said.  \nBad: The game was not played at the normal stadium.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "### When did it happen?  \nGive the exact date \u2014 day of the month, month and year. The time of day can be important in quickly evolving situations. If season is important, or if the fact that it is a holiday or event such as a ceasefire is relevant, include that information. Was it day or night?  \nGood: Originally scheduled for the evening of April 6, the performance by Aman Halawa has been moved to April 14.  \nBad: The world-recognized musician\u2019s performance was planned for yesterday but has been moved to next week.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "### \"Why did it happen?\"  \nWhat caused the event? What is the background? Avoid speculation. Rely on reported fact. Was there a single thing that set it off or did it build slowly? Was it planned? If so, by who? Who paid for it? Who arranged it?  \nGood: The bridge could not withstand the pressure of the rising storm water and collapsed, said a spokesman from the Army Corp of Engineers.  \nBad: The bridge was poorly maintained because of government corruption, so it fell apart in the storm.\"  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "### \"How did it happen?\"  \nDescribe the progression of the event \u2014 observation is different than opinion. How did it proceed? Did it start slowly and build or happen suddenly? Was there a clear turning point?  \nGood: People began gathering early in the day, and by evening hundreds were in the square, chanting, waving signs and demanding the health minister\u2019s resignation following the deaths last week of 13 children due to a tainted flu vaccine.  \nBad: Many people came and shouted for the health minister to be fired, blaming him for the children\u2019s deaths.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "## Factoids  \nFor short dispatches, it is often helpful to think in terms of collecting \u201cfactoids.\u201d Factoids are the backbone of good reporting. Factoids are tidbits of factual information that you can use to make sure you answer who, what, where, when, and why to the best of your ability.  \n&bull; Numbers and stats are factoids: How many? What time did it start?  \n&bull; Details about the issue are factoids. Describe briefly of how it \u2014 whatever it may be \u2014 works. Where did it start? When will it take effect? Who is involved? Who opposes it? Who supports it?  \n&bull; Observations are factoids. Physical descriptions are an often-overlooked but powerful type of factoid. What does the room look like? What is he wearing? What is the scene?  \n&bull; Quotes are factoids: Quotes dramatize and personalize your point. Quotes can be statements of significant fact or of opinion \u2014 how the source feels. No matter if it is a statement of fact or opinion it\u2019s the FACT that it was said that\u2019s valuable to the journalist.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "03.mp4", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "More involved or longer stories may require more reporting with a wider variety of sources before and after an event.", 
+            "exampleMediaPath": "03.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "## THINGS TO REMEMBER  \n\n&bull; You need to distinguish fact from opinion in your reporting.  \n&bull; Access and time are challenges to good reporting.  \n&bull; Personal bias is another challenge to good reporting.  \n&bull; Be careful: Do not pass along bad information to your readers.  \n&bull; All can often be minimized by talking to other journalists and looking at coverage of the story from a variety of sources.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "correctRequired": 2, 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "question": "Which of the choices below are examples of \u201cfactoids?\" (There may be more than one answer.)", 
+            "id": "quiz_card_1", 
+            "choices": [
+                {
+                    "text": "Numbers.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Quotes.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Personal opinion.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "None of the above.", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "question": "True or False: Who, what, where, when, how, and why are the six basic questions you should try to answer when reporting.", 
+            "id": "quiz_card_2", 
+            "choices": [
+                {
+                    "text": "True", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "False", 
+                    "id": "answer_2"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "question": "Which are obstacles to better reporting?", 
+            "id": "quiz_card_3", 
+            "choices": [
+                {
+                    "text": "Access.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Time.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Personal bias.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "All of the above.", 
+                    "id": "answer_4"
+                }
+            ]
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "reporting_basics", 
+    "title": "Reporting Basics"
+}

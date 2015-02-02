@@ -1,0 +1,18 @@
+---
+    id: setting_white_balance
+    title: Setting White Balance
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: setting_white_balance.json
+    storyPathTemplateFiles:
+        setting_white_balance: setting_white_balance.json
+    dependencies:
+        -
+            dependencyId: setting_white_balance
+            dependencyFile: setting_white_balance.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: setting_white_balance

@@ -1,0 +1,18 @@
+---
+    id: introduction_to_ethics_and_professional_standards
+    title: Introduction to Ethics and Professional Standards
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: introduction_to_ethics_and_professional_standards.json
+    storyPathTemplateFiles:
+        introduction_to_ethics_and_professional_standards: introduction_to_ethics_and_professional_standards.json
+    dependencies:
+        -
+            dependencyId: introduction_to_ethics_and_professional_standards
+            dependencyFile: introduction_to_ethics_and_professional_standards.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: introduction_to_ethics_and_professional_standards

@@ -1,0 +1,168 @@
+---
+    id: composition_basics
+    title: Composition Basics
+    classPackage: scal.io.liger.model
+
+    cards:
+
+        - 
+            type: PreviewCard
+            title: What are some basic principles of good photo composition?
+            media: 
+                - 
+                    media: 1.png
+                    media_caption: © Matt Bors 2012
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## In this lesson you will learn:  
+                &bull; Key concepts for photo composition  
+                &bull; What the rule of thirds means in photography  
+                &bull; How to create layering in a photograph
+                &bull; What ‘working the edges’ means  
+                &bull; How to capture peak action  
+                &bull; Tips for taking photographs safely  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                Photography borrows a lot from painting. The best photos are composed so the subject of the image is framed well and the purpose of the photo is clear. Good color and the relationship between the dominant shapes in a frame — the elements of the picture your eyeis drawn to first — are important to good composition. How light is used is extremely important.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ![Example of a photo that provides context and action.](2.jpg)  
+                When taking photographs of a news event, it’s important to remember that your audience members can’t see the totality of the scene as you can. They can’t know what you don’t show them.   
+                ![Example of a photo that provides context and action.](3.jpg)  
+                Good photojournalists capture not just the drama and action of an event in their images but include visual elements that provide context as to the location and the causes of the event being photographed. The world can look very different in a photograph. This requires you to think visually, which can be a challenge for even the best journalists.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ![Rule of thirds](4.png)  
+                ## Rule of Thirds
+                The foundation of good composition is the rule of thirds. The rule of thirds breaks down the frame into nine equal rectangles. Many smartphones will allow you to display the rule of thirds grid over the camera display.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ![A good use of the rule of thirds](5.jpg)  
+                Good photographers compose along the intersections of lines in the frame and work to use each of the nine rectangles to tell their stories.  
+                ![A good use of the rule of thirds](6.jpg)  
+                Amateurs tend to place the subject in the middle of the frame and ignore the remaining space rather than use it to make a more compelling image.
+                ![A good use of the rule of thirds](7.jpg)  
+                ![A good use of the rule of thirds](8.jpg)  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ![Example of a photo with a clear foreground, middleground, and background](9.png)  
+                ## Layering  
+                Another important principle for good composition is called layering. Creating distinct layers in your frame — foreground, middleground, and background — helps you tell more complex visual stories with your photography. You might choose to place your subject, a farmer whose fields are barren because of drought, frame left in the foreground and his dried up empty field in the background. This will give the image a clear subject layer (foreground) and context (background layer).  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ![Example of a photo using edges](10.png)  
+                ## Working the edges  
+                In a well-composed photograph, important shapes or information complete themselves in the frame. The cook’s hands are not cut off awkwardly. The personnel carrier who provides context to the picture in the background layer isn’t chopped in half at the edge of the frame. Photographers call this working the edges. Shapes such as door frames or trees or objects with strong color are used to define the edge of the frame by allowing them to resolve within it.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## Peak Action  
+
+        - 
+            type: PreviewCard
+            title: Interview with a photographer who discusses using composition on assignment
+            media: 
+                - 
+                    media: 11.mp4
+                    media_caption: © Small World News 2012                
+                
+        - 
+            type: MarkDownCard
+            body: |   
+                A final key element to good photography is timing. The most powerful photographs are taken at the split second when all the compositional elements come together and the action in the scene is at its most dramatic. This is called the moment of peak action. The best photographers have great anticipation. They will often set up to take advantage of key compositional elements and then wait for the moment of peak action.  
+                A little care in composition and thoughtfulness about the information you need to convey to tell the story will go a long way toward making better photographs.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ![Warning](12.png)  
+                ## Safety  
+                Always remember to consider your safety, and that of your subjects, first. A reporter can stand at the edge of a potentially dangerous scene. A photographer needs to get close to take a good picture. News photographer are always balancing safety against the need to capture compelling images.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## THINGS TO REMEMBER  
+                &bull; Think visually.  
+                &bull; Organize the elements of your picture to tell a compelling and informative story.  
+                &bull; Invest yourself in taking better photographs. Good photography takes time.  
+                &bull; You need to plan and think through how you will get images that capture the essence of a story and move viewers emotionally.  
+
+        - 
+            id: quiz_card_1
+            type: QuizCard
+            question: What does thinking visually mean? (There may be more than one answer.)
+            correctRequired: 3
+            choices:
+                - 
+                    id: answer_1
+                    text: Planning your story from the outset for good visual content.
+                - 
+                    id: answer_2
+                    text: Devoting time to getting good images.
+                - 
+                    id: answer_3
+                    text: Understanding how telling visual stories is more than merely translating what you would report and write.
+                - 
+                    id: answer_4
+                    text: None of the above.
+
+            correctAnswers:
+                - answer_1
+                - answer_2
+                - answer_3
+
+        - 
+            id: quiz_card_2
+            type: QuizCard
+            question: "True or False: A picture should be well organized. A good way to do this is to have only a single, posed subject and put your subject in the middle of your frame."
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: "True"
+                - 
+                    id: answer_2
+                    text: "False"
+
+            correctAnswers:
+                - answer_2
+
+        - 
+            id: quiz_card_3
+            type: QuizCard
+            question: Which of the following is a basic principle of photography for good composition? (There may be more than one answer.)
+            correctRequired: 3
+            choices:
+                - 
+                    id: answer_1
+                    text: The rule of thirds
+                - 
+                    id: answer_2
+                    text: Working the edges
+                - 
+                    id: answer_3
+                    text: Layering
+                - 
+                    id: answer_4
+                    text: None of the above
+
+            correctAnswers:
+                - answer_1
+                - answer_2
+                - answer_3

@@ -1,0 +1,18 @@
+---
+    id: audio_basics
+    title: Audio Basics
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: .json
+    storyPathTemplateFiles:
+        audio_basics: audio_basics.json
+    dependencies:
+        -
+            dependencyId: audio_basics
+            dependencyFile: audio_basics.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: audio_basics

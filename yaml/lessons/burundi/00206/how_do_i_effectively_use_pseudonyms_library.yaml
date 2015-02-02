@@ -1,0 +1,18 @@
+---
+    id: 
+    title: Introduction to Journalism
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: .json
+    storyPathTemplateFiles:
+        introduction_to_journalism: .json
+    dependencies:
+        -
+            dependencyId: 
+            dependencyFile: .json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: 

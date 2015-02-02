@@ -1,0 +1,18 @@
+---
+    id: evolution_of_a_story
+    title: Evolution of a Story
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: evolution_of_a_story.json
+    storyPathTemplateFiles:
+        evolution_of_a_story: evolution_of_a_story.json
+    dependencies:
+        -
+            dependencyId: evolution_of_a_story
+            dependencyFile: evolution_of_a_story.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: evolution_of_a_story

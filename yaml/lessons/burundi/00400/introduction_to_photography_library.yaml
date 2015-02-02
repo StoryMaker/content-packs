@@ -1,0 +1,18 @@
+---
+    id: introduction_to_photography
+    title: Introduction to Photography
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: introduction_to_photography.json
+    storyPathTemplateFiles:
+        introduction_to_photography: introduction_to_photography.json
+    dependencies:
+        -
+            dependencyId: introduction_to_photography
+            dependencyFile: introduction_to_photography.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: introduction_to_photography

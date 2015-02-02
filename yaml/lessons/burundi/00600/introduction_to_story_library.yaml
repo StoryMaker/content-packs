@@ -1,0 +1,18 @@
+---
+    id: introduction_to_story
+    title: Introduction to Story
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: introduction_to_story.json
+    storyPathTemplateFiles:
+        introduction_to_story: introduction_to_story.json
+    dependencies:
+        -
+            dependencyId: introduction_to_story
+            dependencyFile: introduction_to_story.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: introduction_to_story

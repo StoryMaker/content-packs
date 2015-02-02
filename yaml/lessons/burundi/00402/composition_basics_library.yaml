@@ -1,0 +1,18 @@
+---
+    id: composition_basics
+    title: Composition Basics
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: composition_basics.json
+    storyPathTemplateFiles:
+        composition_basics: composition_basics.json
+    dependencies:
+        -
+            dependencyId: composition_basics
+            dependencyFile: composition_basics.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: composition_basics

@@ -1,0 +1,217 @@
+---
+    id: setting_white_balance_in_video
+    title: Setting White Balance in Video
+    classPackage: scal.io.liger.model
+
+    cards:
+
+        - 
+            type: PreviewCard
+            title: Setting white balance in video
+            media: 
+                - 
+                    media: 1.png
+                    media_caption: © Matt Bors 2012
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## In this lesson you will learn:  
+                &bull; How white balance affects the color of your video clips.  
+                &bull; How you can use the white balance setting on your mobile device.  
+                &bull; What you can do to improve the accuracy of the color in your video clips.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                !(2.png)  
+                ### An example of a subject lit by a tungsten bulb  
+                Tungsten bulbs have a very warm light temperature, coloring images more yellow. 
+                (3.png)  
+                Different sources of light produce light of different color temperatures. Artificial lighting such as home light bulbs produce light with an orange tint to it. Daylight has a blue tint to it.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                !(3.jpg)  
+                ### Example of a professional colored photo  
+                Our eyes adjust to these color shifts, but cameras need to adjust a setting called “white balance” so the images will appear the way our eyes see them naturally. 
+                !(4.png)  
+                ### Same example using the wrong "white balance."
+                The term white balance refers to shifting the color in the image so that anything white in the frame will appear as a neutral white, with no tint.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                !(5.png)
+                ### A common auto white balance icon
+                Most cameras have an automatic white balance. This setting will register the color temperature of the prevailing source of light and make the necessary adjustments.  
+                !(6.png)  
+                ## Sample icons for the common white balance options  
+                Some cameras have preset white balance options to cope with different types of lighting such as daylight or indoor or incandescent light.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                Remember to to change the white balance option if the lighting conditions change. If you come from outside and begin recording inside without adjusting your white-balance setting, your pictures will be very orange. If you are recording indoors and go outside to shoot without adjusting the white balance, you will end up with very blue pictures.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                !(5.png)  
+                ## AWB (auto white balance)  
+                Use this setting for shooting anywhere. The mobile device does its best to guess what the right setting should be, but it can provide poor results if the camera guesses wrong. This is the setting you should use if you’re unsure of which setting is the best choice.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                !(7.png)  
+                ## Daylight  
+                Use this setting for shooting outdoors. This setting will give your images a very “cool” or slight blue tint. When shooting indoors, this setting will give your images an orange tint.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                !(8.png)  
+                ## Cloudy  
+                Use this setting for shooting outdoors. This setting will give your images a slightly “warmer” color. While the daylight option is technically the more correct white balance, using the cloudy setting creates a very appealing image. When shooting indoors, this setting will give your images a strong orange tint.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                !(9.png)  
+                ## Incandescent  
+                Use this setting for shooting indoors, where the room is lit with traditional small light bulbs. When shooting outdoors, this setting will give your images a strong blue tint.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                !(10.png)  
+                ## Fluorescent  
+                Use this setting when shooting indoors, where the room is lit with long, tube fluorescent lights. When shooting outdoors, this setting will give your images a blue tint.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## THINGS TO REMEMBER  
+                &bull; You can set the white balance by holding a white piece of paper in front of your camera. A white wall or white material can also work.  
+                &bull; Using the auto white balance setting, point your camera at the intended subject, and wait 3-5 seconds before you begin recording. This will improve the automatic correction.  
+                &bull; Always update your white balance setting when you move to a different lighting situation.  
+
+        - 
+            id: quiz_card_1
+            type: QuizCard
+            question: What color tint does daylight give?
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: Orange
+                - 
+                    id: answer_2
+                    text: Black
+                - 
+                    id: answer_3
+                    text: Red
+                - 
+                    id: answer_4
+                    text: Blue
+
+            correctAnswers:
+                - answer_4
+
+        - 
+            id: quiz_card_2
+            type: QuizCard
+            question: What color tint does artificial light give?
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: Orange
+                - 
+                    id: answer_2
+                    text: Black
+                - 
+                    id: answer_3
+                    text: Red
+                - 
+                    id: answer_4
+                    text: Blue
+
+            correctAnswers:
+                - answer_1
+
+        - 
+            id: quiz_card_3
+            type: QuizCard
+            question: If I do not know what setting to use, what should I do?
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: Ignore it
+                - 
+                    id: answer_2
+                    text: Use auto white balance
+                - 
+                    id: answer_3
+                    text: Use incandescent
+                - 
+                    id: answer_4
+                    text: Use cloudy
+
+            correctAnswers:
+                - answer_2
+
+        - 
+            id: quiz_card_4
+            type: QuizCard
+            question: If you are filming outside with an appropriate white balance, what color will your image become if you move inside without changing the white-balance setting?
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: Blue
+                - 
+                    id: answer_2
+                    text: Green
+                - 
+                    id: answer_3
+                    text: Orange
+                - 
+                    id: answer_4
+                    text: Purple
+
+            correctAnswers:
+                - answer_3
+
+        - 
+            type: PreviewCard
+            title: Setting white balance in video
+            media: 
+                - 
+                    media: 11.mp4
+                    media_caption: © Small World News 2012
+
+        - 
+            id: quiz_card_5
+            type: QuizCard
+            question: The white-balance setting is wrong in the shot aboe. Which setting should have been used?
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: Cloudy
+                - 
+                    id: answer_2
+                    text: Daylight
+                - 
+                    id: answer_3
+                    text: It is actually set correctly.
+                - 
+                    id: answer_4
+                    text: Fluorescent
+
+            correctAnswers:
+                - answer_4

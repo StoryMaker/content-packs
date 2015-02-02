@@ -1,0 +1,215 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "What are the different clips that make up an audio story?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## In this lesson you will learn:  \n&bull; How to plan the specific clips you need to make your story  \n&bull; The distinction between different approaches to parts of your story  \n&bull; How to think about what audio you need besides people talking  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Having an organized plan is necessary to create a complete audio story. Sketch an outline that lays out who is to be interviewed, what the questions will be, when some segments should be completed, and any other important guidelines to carry out on the road to complete your story.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "### Introduction  \nAny story, including an audio story, needs an introduction. This is called the lead. It must grab listeners\u2019 attention, clearly explain what the story is about, give the most crucial facts, and identify the source of the information. The more attractive and compelling it is, the more chance people will listen to the rest of the story.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "# Professional introduction  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "02.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Example of a professional introduction to a story", 
+            "exampleMediaPath": "02.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Whether it\u2019s your voice or someone else\u2019s, you need a statement explaining the topic, why it should be of interest to the audience, and how this particular segment is going to tell that story. You may want to give some background about the topic or relevant, recent developments. You can outline of what will happen during the segment, mentioning if you will use interviews or sounds from an event.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "# Personal introduction  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "03.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Example of a personal introduction to a story", 
+            "exampleMediaPath": "03.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Some introductions can be more personal, explaining who is talking and some background about that person. The most basic way of doing this, if you are doing your own introduction, is to greet the audience, introduce yourself, and tell the audience what the topic or focus of this story will be.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## Personal introduction  \nBefore you conduct an audio interview that will be part of your story, always have questions prepared. These questions not only enable you to plan your interview, they also act as guidelines when you forget what you want to ask or you find a previous question is not going well and you want to move on. Look over those questions and ask yourself if they are structured in a way that can lead to detailed and interesting answers instead of yes, no, or one-word answers that are rarely interesting for an audio audience.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## Additional audio  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "04.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Example of using background audio", 
+            "exampleMediaPath": "04.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "When outlining how your story will be told, besides considering what voices you want to hear from, consider what sound will help the audience visualize the story. You will probably need background sounds to add color to the story, some voice-over, and introductions. If it is an event, you will want to plan what sounds you will use from the event, how you can record it or, if it already exists, how you can get it. Just like introducing a guest or an interviewee, you can also introduce a piece of audio that illustrates the story. Audio can be misleading, so it is useful to have a voice that explains what is being heard, when it took place, and where. You can choose how to do that explanation when planning your story; perhaps you want to first let the audience hear the sounds of a protest or a celebration and then explain what they just heard. Or you can explain what they are about to hear, and then play the audio.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## Conclusion  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "05.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Example of a story conclusion", 
+            "exampleMediaPath": "05.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Your conclusion may include new questions for a future report or story. Briefly remind the audience what took place and some of the more memorable points from the entire story. If there is to be a follow-up, the conclusion can also make reference to the continuation or future audio report that is to come based on issues raised in this particular segment.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "## THINGS TO REMEMBER  \n&bull; Start with an introduction that explains the topic, and why the topic is relevant to the audience.  \n&bull; Decide what additional audio will help tell your story, and write out how to introduce or explain that audio during the segment.  \n&bull; Finish with a strong conclusion, summarizing the key points as well as future questions or audio stories that could follow this one.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "question": "A good introduction should include", 
+            "id": "quiz_card_1", 
+            "choices": [
+                {
+                    "text": "Introduction of the narrator.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "A preview of what the topic is and who will be featured.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "An explanation of everything that will be learned in this program.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "A shout-out to your fans.", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "question": "Can you share your questions with an interviewee before the interview?", 
+            "id": "quiz_card_2", 
+            "choices": [
+                {
+                    "text": "Always.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Never.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "It is your choice.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "All of the above.", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "question": "Which is NOT an example of additional audio that can help illustrate your story?", 
+            "id": "quiz_card_3", 
+            "choices": [
+                {
+                    "text": "The sounds of a protesters for a story about a protest.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Loud music for a story about an old book store.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "A speech from a politician for a story about a political rally.", 
+                    "id": "answer_3"
+                }
+            ]
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "storyboarding_recording_plan", 
+    "title": "Storyboarding a Recording Plan"
+}

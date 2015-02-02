@@ -1,0 +1,18 @@
+---
+    id: preparation
+    title: Preparation
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: preparation.json
+    storyPathTemplateFiles:
+        preparation: preparation.json
+    dependencies:
+        -
+            dependencyId: preparation
+            dependencyFile: preparation.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: preparation

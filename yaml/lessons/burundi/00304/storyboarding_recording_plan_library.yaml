@@ -1,0 +1,18 @@
+---
+    id: storyboarding_recording_plan
+    title: Storyboarding Recording Plan
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: storyboarding_recording_plan.json
+    storyPathTemplateFiles:
+        storyboarding_recording_plan: storyboarding_recording_plan.json
+    dependencies:
+        -
+            dependencyId: storyboarding_recording_plan
+            dependencyFile: storyboarding_recording_plan.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: storyboarding_recording_plan

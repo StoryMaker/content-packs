@@ -1,0 +1,18 @@
+---
+    id: recording_tips_and_techniques
+    title: Recording Tips and Techniques
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: recording_tips_and_techniques.json
+    storyPathTemplateFiles:
+        recording_tips_and_techniques: recording_tips_and_techniques.json
+    dependencies:
+        -
+            dependencyId: recording_tips_and_techniques
+            dependencyFile: recording_tips_and_techniques.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: recording_tips_and_techniques

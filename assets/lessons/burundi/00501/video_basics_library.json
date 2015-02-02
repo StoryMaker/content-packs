@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "video_basics", 
+            "dependencyFile": "video_basics.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Video Basics", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "video_basics"
+        }
+    ], 
+    "currentStoryPathFile": "video_basics.json", 
+    "storyPathTemplateFiles": {
+        "video_basics": "video_basics.json"
+    }, 
+    "id": "video_basics"
+}

@@ -1,0 +1,18 @@
+---
+    id: the_photo_essay
+    title: The Photo Essay
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: the_photo_essay.json
+    storyPathTemplateFiles:
+        the_photo_essay: the_photo_essay.json
+    dependencies:
+        -
+            dependencyId: the_photo_essay
+            dependencyFile: the_photo_essay.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: the_photo_essay

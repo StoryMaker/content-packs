@@ -1,0 +1,18 @@
+---
+    id: types_of_stories
+    title: Types of Stories
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: types_of_stories.json
+    storyPathTemplateFiles:
+        types_of_stories: types_of_stories.json
+    dependencies:
+        -
+            dependencyId: types_of_stories
+            dependencyFile: types_of_stories.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: types_of_stories

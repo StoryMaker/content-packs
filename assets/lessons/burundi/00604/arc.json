@@ -1,0 +1,140 @@
+{
+    "cards": [
+        {
+            "text": "# How do I structure my story to include a central question, climax, and resolution?  \n## In this lesson you will learn:  \n&bull; How to combine central question, climax, and resolution in your story.  \n&bull; How story arcs apply to news stories.  \n&bull; How to create an arc without a clear resolution.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "In the preceding lessons, you learned about the basic structural components of story: central question, climax, and resolution. You need to organize these elements in your story for maximum impact. This is done with a structure called your story arc, or sometimes called arc of tension. For shorter stories and dispatches, the arc will be simple: organized chronologically, for example.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "A powerful story moves from an introduction of a central question to a climax where the central question is answered and then to a resolution where the consequence or effect is revealed. The best stories keep the audience asking \u201cWhat\u2019s next?\u201d as you progress from one component to the next. Each component of the story should be presented in an order that increases tension. These components, or steps, form an arc.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![Arc](1.png) \nThis is the classic curve of tension in a powerful story. Stories that follow a path of a gradual rise in tension from a central question to a climax that answers the central question is answered, and arriving at the resolution, provide a satisfying experience for the audience.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "This concept comes from fictional story writing but works well for news and journalism. If you intend to produce news stories, you must rely on facts and what material you can source, but you can still tell intriguing stories by applying this concept. The desire to create a compelling story structure should not influence your reporting. Story should serve and enhance your journalism. Your journalism should not serve the story.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "The arc for some stories might not reach a final climax and resolution before your deadline. You may need to identify a limited, short-term climax. In some cases, the fact that there is no immediate resolution may itself be a sort of climax. For example: if, despite repeated car accidents, local officials do nothing to make the intersection safer.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "If you are working on a story that won\u2019t resolve until after your deadline, you may opt to have a source speculate on a likely outcome or talk about the future in your narration. Make sure to address your central question in your conclusion.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## THINGS TO REMEMBER  \n&bull; Stories are constructed as arcs to help build tension and keep the audience interested.  \n&bull; Your arc may begin with introductory material, before the audience knows the central question.  \n&bull; Not all stories will have a final resolution in time for your deadline.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "question": "True or False: I will have a strong story as long as I have the story components of central question and climax.", 
+            "id": "quiz_card_1", 
+            "choices": [
+                {
+                    "text": "True", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "False", 
+                    "id": "answer_2"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "question": "In what order should I structure the components for a strong story arc?", 
+            "id": "quiz_card_2", 
+            "choices": [
+                {
+                    "text": "As long as I include all the components, my story will be fine.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "The climax should come first; the other components don\u2019t matter.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "The story begins by introducing the central question, moves on to the climax, and ends with the resolution.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "The story begins by introducing the climax, moves on to the central question, and ends with the resolution.", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "question": "True or False: I can use introductory material to start the story arc before specifying the central question.", 
+            "id": "quiz_card_3", 
+            "choices": [
+                {
+                    "text": "True", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "False", 
+                    "id": "answer_2"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 2, 
+            "correctAnswers": [
+                "answer_2", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "question": "How can I produce a story with an arc if there is no resolution to my story at publication time? (There may be more than one answer.)", 
+            "id": "quiz_card_4", 
+            "choices": [
+                {
+                    "text": "It\u2019s OK to make a guess as long as there is a resolution.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "I don\u2019t need to worry about it.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "I can use a short-term climax in the larger, ongoing story.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "I can Invite a source to speculate the likely outcome.", 
+                    "id": "answer_4"
+                }
+            ]
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "arc", 
+    "title": "Arc"
+}

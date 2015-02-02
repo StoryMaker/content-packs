@@ -1,0 +1,18 @@
+---
+    id: setting_white_balance_in_video
+    title: Setting White Balance in Video
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: setting_white_balance_in_video.json
+    storyPathTemplateFiles:
+        setting_white_balance_in_video: setting_white_balance_in_video.json
+    dependencies:
+        -
+            dependencyId: setting_white_balance_in_video
+            dependencyFile: setting_white_balance_in_video.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: setting_white_balance_in_video

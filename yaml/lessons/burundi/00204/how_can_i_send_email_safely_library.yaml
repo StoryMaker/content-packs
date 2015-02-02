@@ -1,0 +1,18 @@
+---
+    id: how_can_i_send_email_safely
+    title: How can I send Email Safely?
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: how_can_i_send_email_safely.json
+    storyPathTemplateFiles:
+        how_can_i_send_email_safely: how_can_i_send_email_safely.json
+    dependencies:
+        -
+            dependencyId: how_can_i_send_email_safely
+            dependencyFile: how_can_i_send_email_safely.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: how_can_i_send_email_safely

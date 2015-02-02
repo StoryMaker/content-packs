@@ -1,0 +1,242 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "I've never used a video camera before, what are the basics I should know?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## In this lesson you will learn:  \n&bull; What the fundamental techniques are for creating good video clips.  \n&bull; How to shoot enough video for your story.  \n&bull; How to hold your camera steady.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Cameras see the world very differently than the human eye. By learning some basic rules, you can learn to record events in ways that allow an audience to focus on the important elements of your story. For an in-depth review of how cameras work, see the Camera Basics lesson in photography.  \nIn the middle of shooting your video, it can be difficult to know exactly what you should record. This is particularly true when you are starting out. It is easy to get frustrated, confused, and be unsure of yourself.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Keep three things in mind while you are shooting to become an effective videographer:  \n&bull; Have purpose  \n&bull; Have control  \n&bull; Have commitment  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "# Have purpose  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "2.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Example of a subject framed in a scene.", 
+            "exampleMediaPath": "2.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "## Know what you want to record  \n&bull; Pay close attention to what action or subject you intend to record, and make sure you can see it clearly in the frame.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "# Have control  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "3.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "The proper way to hold a camera steady.", 
+            "exampleMediaPath": "3.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "## Hold your camera steady  \n&bull; Use your body to brace the camera, the individual above uses the side of his body to brace the camera, while centering the camera in front of him.  \n&bull; Remember to breathe. You may be tempted to hold your breath to keep the camera from moving, but its best to set your shot, breathe, and when you have a steady shot, begin recording.  \n  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "4.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Example of how to properly show motion in a frame without panning.", 
+            "exampleMediaPath": "4.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "## Do not pan.  \n&bull; Moving the camera creates a lot of motion in the frame. This is often more distracting than helpful. If you want another angle, stop recording, change your frame, and start recording your new shot.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "# Have commitment  \n!(5.png)  \nHave a goal for your shot, and record the complete action. Knowing what you are trying to record before you begin will allow you to know when you have completed the shot.  \nDo not stop recording until actions have completed.  \nWhen you are recording an action, be sure to have the camera recording for 5-10 seconds before it begins and continue recording for 5-10 seconds after the action ends. Seeing the action in its entirety will allow the audience to understand it.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "6.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Here's an example of how a complete action looks in a frame.", 
+            "exampleMediaPath": "6.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "The action taken is scoring the bread before it is baked, and we see the entire process. When we go to use this clip, it will be very easy to cut into a close up of the bread being scored, or a reverse shot, reversing the angle of the camera to record the subject as he is performing this action. This is possible because it contains a complete action.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "Before that shot was recorded, the videographer framed the shot and interacted with his subject to explain what he was trying to document. It may be necessary to ask your subjects to repeat an action or re-create it in order to properly document it. This is OK so long as you are not asking someone to misrepresent themselves.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "7.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Example of recording a complete action with 5 seconds pre-roll and post-roll", 
+            "exampleMediaPath": "7.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "!(8.png)  \nStand in front of what you want to film, not off to the side.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "## THINGS TO REMEMBER  \n&bull; When you have finished getting your shot, count to five in your head, then stop recording. This will make sure you have enough material at the end of your clip to use it effectively.  \n&bull; You don\u2019t need to record constantly, but sometimes recording for one, two or even five minutes is necessary to record an action in its entirety.  \n&bull; This needs to be balanced with the fact that by shooting too much material, you will create a barrier to sharing your stories quickly. Look for natural breaks to stop recording one clip and move onto recording a second clip if you feel your shot is very long.  \n&bull; To be useful, your clips need to be at least 15 seconds long. Regardless of how short the action is you are filming. Any shorter and it\u2019s likely they won\u2019t be useful.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "question": "True or False: Recording a complete action can tell a story with a single shot.", 
+            "id": "quiz_card_1", 
+            "choices": [
+                {
+                    "text": "True", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "False", 
+                    "id": "answer_2"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "question": "How much is the majority of the frame?", 
+            "id": "quiz_card_2", 
+            "choices": [
+                {
+                    "text": "10 percent", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "25 percent", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "33 percent", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "50 percent or more", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "question": "For how many seconds should you expect to record before and after your expected action?", 
+            "id": "quiz_card_3", 
+            "choices": [
+                {
+                    "text": "10 seconds before, 0 seconds after", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "0 seconds before, 10 seconds after", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "10 seconds before, 10 seconds after", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "0 seconds before, 0 seconds after", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "question": "Is it acceptable to ask your subjects to repeat an action or re-create it in order to properly document it?", 
+            "id": "quiz_card_4", 
+            "choices": [
+                {
+                    "text": "Yes, so long as you are not asking someone to misrepresent themselves.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "No, you should never communicate with your subject.", 
+                    "id": "answer_2"
+                }
+            ]
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "video_basics", 
+    "title": "Video Basics"
+}

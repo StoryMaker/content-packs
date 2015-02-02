@@ -1,0 +1,18 @@
+---
+    id: captions_and_keywords
+    title: Captions and Keywords
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: captions_and_keywords.json
+    storyPathTemplateFiles:
+        captions_and_keywords: captions_and_keywords.json
+    dependencies:
+        -
+            dependencyId: captions_and_keywords
+            dependencyFile: captions_and_keywords.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: captions_and_keywords

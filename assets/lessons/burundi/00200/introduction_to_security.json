@@ -1,0 +1,30 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "INTRODUCTION TO SECURITY", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Today, individual citizens anywhere in the world are capable of breaking stories that even 20 years ago tested the limits of professional newsrooms. Increasing connectivity afforded by smartphones and falling data costs make this possible.  \nThis same connectivity creates great new risks for citizens and professional journalists alike. The standard methods of communicating online or via mobile leave a trail that is easy for skilled individuals to monitor.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Journalists, activists and any people who fear they may be at risk due to their actions must use nonstandard methods of communication. These trails not only put you at risk, but may endanger your sources, contacts, and colleagues. You have a responsibility to protect not only yourself but anyone threatened by your actions.  \nThe lessons that follow will first assist you to assess whether you may be under threat. After completing these lessons, you will be able to assess the risk to yourself and others. The final section will provide specific steps you can take to keep yourself safe.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "introduction_to_security", 
+    "title": "Introduction to Security"
+}

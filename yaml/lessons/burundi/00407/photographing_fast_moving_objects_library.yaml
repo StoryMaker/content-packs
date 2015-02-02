@@ -1,0 +1,18 @@
+---
+    id: photographing_fast_moving_objects
+    title: Photographing Fast Moving Objects
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: photographing_fast_moving_objects.json
+    storyPathTemplateFiles:
+        photographing_fast_moving_objects: photographing_fast_moving_objects.json
+    dependencies:
+        -
+            dependencyId: photographing_fast_moving_objects
+            dependencyFile: photographing_fast_moving_objects.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: photographing_fast_moving_objects

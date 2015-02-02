@@ -1,0 +1,129 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "How do I effectively use pseudonyms?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## In this lesson you will learn:  \n&bull; How pseudonyms protect your identity.  \n&bull; How to timestamps can reveal your identity.  \n&bull; How to maintain your pseudonym online.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "If you or a source are threatened, you must take additional steps to protect the identity of the threatened individual. At-risk journalists and threatened sources often use pseudonyms to protect their true identities. When you communicate digitally, you can leave clues to your true identity.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![anonymity is not guaranted](2.png)  \nThose who maintain (or contribute to) a blog or an Internet forum need to be aware that their anonymity will not be guaranteed merely by signing with a pseudonym. Every blog entry records the IP address (http://en.wikipedia.org/wiki/IP_address) of the computer it was sent from, and many ISPs (http://en.wikipedia.org/wiki/ISP) record all traffic that has passed through them. Therefore, if you are publishing sensitive information on a website, you must take precautions to not be found out. We discussed disguising your browsing in Lesson X.X. with Tor. If you must maintain anonymity online, be sure to use the Tor anonymity network to access your site and publish your content.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![Take precautions to avoid problems](3.png)  \n## Timestamps  \nIf you publish media to a website about government activity in your country by using the Tor network, the authorities will not see that you were sending this information to a particular blog, but they might notice that whenever you enter an Internet caf\u00e9, a new post appears on the site. This can be linked to you, especially if your Internet caf\u00e9 owner writes down your name and the time of your visit. To overcome this difficulty, ask a colleague from another country to post the blog for you. Use a secure webmail service (or encryption) to send the article to your colleague and ask him/her to wait for a while before publishing it on your blog.  \nYour identity can be determined not only by the name you choose for yourself or your source. Your identity can also be determined by the trail you leave through your online activity.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## THINGS TO REMEMBER  \n&bull; Be sure to delete your browsing history.  \n&bull; Use an incognito window in Chrome or \u201cprivate browsing\u201d in Firefox.  \n&bull; Be sure to disable cookies.  \n&bull; Have a colleague who is not threatened publish your media.  \n&bull; Set your media to publish automatically at a randomly assigned delay.  \n&bull; Install HTTPS Everywhere on Firefox or Chrome.  \n&bull; Use an anonymity service whenever you access the Internet.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "question": "Why should I use a pseudonym?", 
+            "id": "quiz_card_1", 
+            "choices": [
+                {
+                    "text": "Because its cooler than my real name.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "To protect the identity of myself or my source.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Flash Gordon.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Because my name is already taken on Facebook.", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 3, 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "question": "How can I prevent digital communications trails from revealing my true identity?", 
+            "id": "quiz_card_2", 
+            "choices": [
+                {
+                    "text": "By always using incognito windows.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "By asking colleagues to publish media when I am not online.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "By using Tor to connect to the Internet.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "By using two email addresses.", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 2, 
+            "correctAnswers": [
+                "answer_3", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "question": "If I use a pseudonym my identity will be", 
+            "id": "quiz_card_3", 
+            "choices": [
+                {
+                    "text": "Completely protected.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Whatever I tell people it is.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Only protected if I prevent my communications trails from revealing my identity or location.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Protected against cursory review.", 
+                    "id": "answer_4"
+                }
+            ]
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "how_do_i_effectively_use_pseudonyms", 
+    "title": "How Do I Effectively Use Pseudonyms"
+}

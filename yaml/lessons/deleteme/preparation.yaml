@@ -1,0 +1,118 @@
+---
+    id: preparation
+    title: Preparation
+    classPackage: scal.io.liger.model
+
+    cards:
+
+        - 
+            type: PreviewCard
+            title: Finding a good topic is the key part of any audio story, but what is the best way to choose a topic and plan my story?
+            media: 
+                - 
+                    media: 1.png
+                    media_caption: © Matt Bors 2012
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## In this lesson you will learn:  
+                &bull; What you should think about before you start your story.  
+                &bull; How to plan your audio story.  
+                &bull; How to think about your audience when planning your story.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                Before you begin to produce an audio piece, there are a few questions you should answer.  
+                &bull; What is the most compelling way to tell your story? Is it a story about a specific event, person or issue? Determine whether the story focuses on recent events, the impact of the issue on society, or a story about an interesting person.  
+                &bull; What is your angle? A good way to think about how to interestingly approach a topic is thinking how it actually affects ordinary people.  
+                &bull; What audience are you aiming at? What are they interested in?  
+                &bull; Can you present the story in an engaging, clear, and interesting manner? What different parts does your story consist of?  
+                &bull; What audio do you want to record? Interviews, signature clips of relevant sounds, sounds that introduce the story?  
+                &bull; What kind of time frame will you need in order to produce the story?  
+
+        - 
+            type: PreviewCard
+            title: Example of an interview
+            media: 
+                - 
+                    media: 02.mp3
+                    media_caption: © Small World News 2012
+
+        - 
+            type: MarkDownCard
+            body: |   
+                Once your plan is created, you must make necessary arrangements and preparation. Agree on recording times with your sources. Plan where to record, and ensure there is a suitable recording environment.  
+
+        - 
+            type: PreviewCard
+            title: Example of a first-person audio report
+            media: 
+                - 
+                    media: 03.mp3
+                    media_caption: © Small World News 2012
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ![Audio Plan](4.png)  
+                Plan your audio segment before you start recording. Your plan should include:    
+                &bull; An overview of your segment  
+                &bull; Who should be interviewed  
+                &bull; Timeframe for completion  
+                &bull; Intended length of the program  
+                &bull; If you are doing an interview, be prepared. For more, see the lesson “Interviewing Techniques” in the Journalism section.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                Remember to ask yourself: Why are you making this program? Is there a specific audience you want to reach?  
+                Leave sufficient time for editing and publishing. It is possible you will have to change your plan based on what clips and information you are able to collect.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## THINGS TO REMEMBER  
+                &bull; Make a plan, do not just record everything.  
+                &bull; Sketch a plan or a script for yourself that you can use during interviews or while recording an interview or report.  
+                &bull; Contact potential interviewees in advance and give them options for where and when you can meet.  
+                &bull; Think about what audience you want to reach when deciding what kind of story or format to record.  
+
+        - 
+            id: quiz_card_1
+            type: QuizCard
+            question: What type of audio segment could you NOT produce if you were alone in the jungle?
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: A first-person report
+                - 
+                    id: answer_2
+                    text: A documentary-style segment focused on nature sounds
+                - 
+                    id: answer_3
+                    text: An interview
+
+            correctAnswers:
+                - answer_3
+
+        - 
+            id: quiz_card_2
+            type: QuizCard
+            question: If you wanted to interview the mayor of a major city, how would you proceed?
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: Contact his/her office, introduce yourself and your purpose, and schedule an appointment.
+                - 
+                    id: answer_2
+                    text: Go to the mayor’s office today and insist on doing the interview immediately.
+                - 
+                    id: answer_3
+                    text: Find out where the mayor eats lunch and jump out from behind a tree as he/she is leaving the building.
+
+            correctAnswers:
+                - answer_1

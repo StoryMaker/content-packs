@@ -1,0 +1,18 @@
+---
+    id: content_sites
+    title: Content Sites
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: content_sites.json
+    storyPathTemplateFiles:
+        content_sites: content_sites.json
+    dependencies:
+        -
+            dependencyId: content_sites
+            dependencyFile: content_sites.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: content_sites

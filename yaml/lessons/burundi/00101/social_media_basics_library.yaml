@@ -1,0 +1,18 @@
+---
+    id: social_media_basics
+    title: Social Media Basics
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: social_media_basics.json
+    storyPathTemplateFiles:
+        social_media_basics: social_media_basics.json
+    dependencies:
+        -
+            dependencyId: social_media_basics
+            dependencyFile: social_media_basics.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: social_media_basics

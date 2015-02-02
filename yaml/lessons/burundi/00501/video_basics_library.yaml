@@ -1,0 +1,18 @@
+---
+    id: video_basics
+    title: Video Basics
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: video_basics.json
+    storyPathTemplateFiles:
+        video_basics: video_basics.json
+    dependencies:
+        -
+            dependencyId: video_basics
+            dependencyFile: video_basics.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: video_basics

@@ -1,0 +1,18 @@
+---
+    id: how_do_my_communications_put_me_at_risk
+    title: How do my Communications put me at Risk?
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: how_do_my_communications_put_me_at_risk.json
+    storyPathTemplateFiles:
+        how_do_my_communications_put_me_at_risk: how_do_my_communications_put_me_at_risk.json
+    dependencies:
+        -
+            dependencyId: how_do_my_communications_put_me_at_risk
+            dependencyFile: how_do_my_communications_put_me_at_risk.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: how_do_my_communications_put_me_at_risk

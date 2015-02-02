@@ -1,0 +1,18 @@
+---
+    id: post_production
+    title: Post Production
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: post_production.json
+    storyPathTemplateFiles:
+        post_production: post_production.json
+    dependencies:
+        -
+            dependencyId: post_production
+            dependencyFile: post_production.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: post_production

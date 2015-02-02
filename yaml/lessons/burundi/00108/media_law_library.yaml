@@ -1,0 +1,18 @@
+---
+    id: media_law
+    title: Media Law
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: media_law.json
+    storyPathTemplateFiles:
+        media_law: media_law.json
+    dependencies:
+        -
+            dependencyId: media_law
+            dependencyFile: media_law.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: media_law

@@ -1,0 +1,171 @@
+---
+    id: introduction_to_ethics_and_professional_standards
+    title: Introduction to Ethics and Professional Standards
+    classPackage: scal.io.liger.model
+
+    cards:
+
+        - 
+            type: PreviewCard
+            title: How can I learn to tell my story professionally and ethically?
+            media: 
+                - 
+                    media: 1.png
+                    media_caption: © Matt Bors 2012
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## In this lesson you will learn:  
+                &bull; How to apply ethics to your stories  
+                &bull; How to tell stories based on fact, not opinion  
+                &bull; How to tell stories that are balanced and responsible to your audience  
+
+        - 
+            type: PreviewCard
+            title: How can I learn to tell my story professionally and ethically?
+            media: 
+                - 
+                    media: 2.mp4
+                    media_caption: © Small World News 2012
+
+        - 
+            type: MarkDownCard
+            body: |   
+                Many news organizations publish a set of professional and ethical guidelines, called a code of ethics, for their staff. Sometimes journalism associations or professional organizations do the same thing. The independent, mobile journalist may not have the same institutional support, but you should still maintain the highest professional and ethical standards. No matter how strongly you feel about a topic or an injustice, your opinion should not be your story. Report the facts and let the audience judge for themselves. You will be a much better journalist as a result.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                # 10 professional and ethical standards for journalists  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## Fact-based  
+                Good journalism is based on verifiable facts collected through good reporting, not hearsay, opinion, or speculation. No matter how strongly you feel about a story, let the facts speak for themselves and trust the audience’s ability to draw its own conclusions.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## Citizen-based  
+                As a journalist you are a guardian of the public interest, not a spokesperson for political or business interests. Your coverage should be apolitical and about issues important to the lives of ordinary people. The presentation of information in your reporting should be clear and easy to read.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## Balanced  
+                The best journalists seek to represent all relevant sides of an issue, not just the one that reflects their views. Journalists should interview the best sources to represent a variety of informed perspectives. Sources should always be given an opportunity to respond to criticism and allegations of wrongdoing. This may mean representing people or views with which you strongly disagree. That is all part of good journalism.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## Fair  
+                Be honest with yourself about your own cultural values, and do not allow them to bias your reporting about others. Avoid stereotyping by race, religion, ethnicity, gender, age, sexual orientation, occupation, physical or mental abilities, physical appearance, or social status.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## Accurate  
+                The facts and details of a story must be confirmed as correct to the best of your ability. Never fabricate information. Never distort the facts to make them better support your story or opinion. Never omit important information because it does not support your story or opinion. Never manipulate a quote or use it out of context.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## Relevant  
+                Journalism should be of immediate value to the audience. If your stories are not of immediate relevance to people’s lives, you will lose them as readers. Equally important is whether or not coverage of the topic may result in greater knowledge and discussion about an important social issue and perhaps meaningful change to public policy.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## Timely  
+                Your coverage should be timely. Coverage that is timely is more valuable to your audience in their daily lives and more likely to change related public policy. It is important to get the news out quickly. News that is late is not news at all.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## Independent  
+                Journalists should not be affiliated with a specific political party, agenda, or interest group. You should never report — or not report — on a particular issue because you were paid or given gifts by organizations or individuals. Always be aware of the motivations of sources in your coverage. Avoid conflicts of interest, real or perceived. Avoid membership in organizations or attending events in your personal life that may compromise your integrity.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## Transparent  
+                Journalists need to be open about their coverage techniques, sources, and interests related to their stories. Disclose unavoidable potential conflicts of interest. Never take information from other news organizations without attributing it. Admit mistakes in or limitations to your coverage. Clarify conditions attached to any promise you made in exchange for information. Avoid surreptitious methods of gathering information except when more open methods will not produce information important to the public. Encourage public discourse about your coverage.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## Minimizes harm  
+                You must always be sensitive to the impact your reporting will have on those covered. Be sensitive when seeking or using interviews or visual content of those affected by tragedy or grief, especially when dealing with children and people inexperienced with the media. Private people have a greater right to privacy than do public officials and others who seek power, influence or attention. Only an overriding public need can justify intrusion into anyone’s privacy. People accused but not tried for crimes or wrongdoing should not be tried in the media.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## THINGS TO REMEMBER  
+                &bull; Avoid the desire to inject your own opinions if the facts in your reporting do not support them.  
+                &bull; Represent all sides of an issue, no matter how much you may disagree with one or more of them.  
+                &bull; Try to provide information of immediate importance to your community.  
+                &bull; Be as independent as possible in your reporting.  
+                &bull; Be transparent about your sources and about your relationship to the story.  
+                &bull; Do not put people at risk through your reporting.  
+
+        - 
+            id: quiz_card_1
+            type: QuizCard
+            question: Which of the following is an example of ethical journalism?
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: Advocating in your reporting for a opposition political party that is clearly better than a current, openly corrupt government.
+                - 
+                    id: answer_2
+                    text: Pretending to be a member of a political party at a rally when you are there to cover it as a journalist.
+                - 
+                    id: answer_3
+                    text: Reporting on issues that interest you but have no immediate value to your audience.
+                - 
+                    id: answer_4
+                    text: None of the above.
+
+            correctAnswers:
+                - answer_4
+
+        - 
+            id: quiz_card_2
+            type: QuizCard
+            question: "True or False: If your working environment is unusually challenging or complicated in a way that makes it hard to adhere to professional standards, it is OK to not apply the code of ethics."
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: "True"
+                - 
+                    id: answer_2
+                    text: "False"
+
+            correctAnswers:
+                - answer_2
+
+        - 
+            id: quiz_card_3
+            type: QuizCard
+            question: "Journalists can sometimes become celebrities or recognized experts with strong opinions. This kind of power can lead to compromises in professional ethics. To avoid this, journalists who become public figures should"
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: Be transparent about their professional affiliations.
+                - 
+                    id: answer_2
+                    text: Seek to minimize the appearance of too close a relationship with high-power political and business leaders.
+                - 
+                    id: answer_3
+                    text: Reaffirm their commitment to reporting in the interest of citizens rather than the elite in their coverage.
+                - 
+                    id: answer_4
+                    text: All of the above.
+
+            correctAnswers:
+                - answer_4

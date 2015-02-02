@@ -1,0 +1,209 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "What are some basic principles for shooting photographs that will work well together as a set?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## In this lesson you will learn:  \n&bull; How to identify stories that might best be told with multiple images  \n&bull; Different ways to structure stories told with multiple images  \n&bull; How to structure a narrative-style photo essay  \n&bull; How to structure a photo series  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Most stories are accompanied by a single photograph. That photograph needs to summarize the event in a single frame.  \n![New York City police officers check subway cars at Columbus Circle on Friday, Oct. 7, 2008. Security in the city\u2019s mass transit system has been increased following yesterday\u2019s announcement of a specific terrorist threat to the subway system. (AP Photo/John Smock)(2.jpg)  \n### New York City police officers check subway cars at Columbus Circle on Friday, Oct. 7, 2008. Security in the city\u2019s mass transit system has been increased following yesterday\u2019s announcement of a specific terrorist threat to the subway system. (AP Photo/John Smock)  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "A photo essay that includes several images can be a powerful visual storytelling tool on its own, or with other story elements. Photo slideshows are among the most popular online content and engage large numbers of viewers.  \nAbout 20 students attend a course on media marketing at the DISC NGO school in Cairo, Egypt on Oct. 22, 2012. The school offers a variety of media training and software development courses. (John Smock/Small World News)  \n!(3.jpg)  \n!(4.jpg)  \n!(5.jpg)  \n!(6.jpg)  \n!(7.jpg)  \n!(8.jpg)  \n!(9.jpg)  \n!(10.jpg)  \nA photo essay that includes several images can be a powerful visual storytelling tool on its own, or with other story elements. Photo slideshows are among the most popular online content and engage large numbers of viewers.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "## Example of a good photo essay  \nStudents attend a course at the all-boys Eagle Academy for Young Men in Queens, New York City, on April 12, 2006. The school is one of several small schools in the city public school system that is working to combat high dropout rates through smaller class size and a more tightly focused curriculum. (John Smock/Gates Foundation)  \n!(11.jpg)  \n!(12.jpg)  \n!(13.jpg)  \n!(14.jpg)  \n!(15.jpg)  \n!(16.jpg)  \n!(17.jpg)  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## Example of a bad photo essay  \nVendors at the Pyramids at Giza in Egypt sit idle due to so little business in October. The number of daily visitors recently is a fraction of the roughly 5,000 who arrived each day prior to the revolution.  \n!(18.jpg)  \n!(19.jpg)  \n!(20.jpg)  \n!(21.jpg) \n!(22.jpg)  \n!(23.jpg)  \n!(24.jpg)  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "Every photo essay needs structure and a clear message. A photo essay can be structured one of two ways: as a narrative story or a series. Aim for 5-8 images in your final edit. You may need to shoot a lot more to get that many useable pictures.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "## Narrative story  \nPieces of pipe 10 meters in length for the Baku-Tblisi-Ceyan oil pipeline are manufactured in the Republic of Georgia and then shipped for assembly to locations along the pipeline\u2019s path.  \n!(25.jpg)  \n!(26.jpg)  \n!(27.jpg)  \n!(28.jpg)  \n!(29.jpg)  \n!(30.jpg)  \nWhen planning a narrative story you should create a narrative arc \u2014 character, action, result, place and signature. . Think central question, climax and resolution. Think cause and effect. Your slideshow should tell the story visually as thoroughly as a written story tells it in words.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "Photography\u2019s greatest strength is in its ability to dramatically illustrate the universality of the human experience. Good narrative stories are built around a character or characters with whom viewers can identify. The audience need someone or something that they can identify with or that captures their imagination to get them into a story \u2014 this is your story hook. Identify what that is and it will help ensure your story has a tight, engaging focus.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "There are several conventional ways to structure the narrative of a story. Have a clear idea what your essay is about and shoot the images you need to illustrate that. Every new image should contain new information that advances your story. The story types outlined below will help you do that. Sometimes photographers will use a combination of the options presented below.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## Highlights  \nGeorgians celebrate the official transfer of power from former President Eduard Shevardnadze to the new government on November 23, 2003 in Tbilisi, Georgia.  \n!(31.jpg)  \n!(32.jpg)  \n!(33.jpg)  \n!(34.jpg)  \n!(35.jpg)  \n!(36.jpg)  \n!(37.jpg)  \nAll photo stories are highlights stories; you should always seek to relay the most important visual elements of a story. But some stories are structured less to illustrate a clear storyline and more to show the peak moments or most dramatic aspects of the story.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## Process  \nGeorge Tanner mends clothes and makes suits as he has done for more than 30 years at his shop in Flatbush, New York, on Sept. 22, 2011.  \n!(38.jpg)  \n!(39.jpg)  \n!(40.jpg)  \n!(41.jpg)  \n!(42.jpg)  \n!(43.jpg)  \nA process photo essay shows how something is done from the beginning to end, for example, you could document how a sculpture is made, an election works, or even follow an arrest through its court case.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "## Chronology  \nMohammed Assul spends his evening operating a faluka on the Nile River in Cairo, Egypt on Oct. 24, 2012. Business has been poor, he says, since the revolution last year. (John Smock/Small World News)  \n!(44.jpg)  \n!(45.jpg)  \n!(46.jpg)  \n!(47.jpg)  \n!(48.jpg)  \n!(49.jpg)  \n!(50.jpg)  \nReal or implied, you can let time structure your story. A typical way to structure a photo story through time is as a \u201cday in the life\u201d piece.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "# The Slideshow  \nNews organizations have developed a complex formula for the shots required for a good photo essay or slideshow. The formula is designed to help photographers avoid sameness and guarantee structure. A good slideshow moves \u201cin\u201d and \u201cout.\u201d As the audience moves through the story, the images move from tight to wide and back, over and over. This kind of rhythm keeps viewers interested and clicking on the next image.  \nHere is the formula for the different types of images that make a good slideshow. Make sure to shoot images in each of the categories to give your slideshow a clear structure; a variety of images tell a compelling story. (NOTE: this formula is not always applied to highlights stories, which are often compilations of the best photographs of an issue):  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "text": "(51.jpg)  \n# Signature photo  \nA photo that summarizes the entire issue and illustrates essential elements of the story. If only one photo were to run, this would be the photo.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "text": "(52.jpg)  \n# Place shot  \nUse a wide-angle shot to establish the place where your story happens. When you do a photo story, you are taking viewers on a journey. Use this shot to give them a sense of where they are going, an image that allows them to understand the rest of the story in a geographic context.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_14"
+        }, 
+        {
+            "text": "(53.jpg)  \n# Close-up  \nA detail highlights a specific element of your story. Close-ups, sometimes called detail shots, don\u2019t do a lot to inform the viewer but they do a great deal to dramatize a story.  \nALWAYS shoot lots of close-ups.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_15"
+        }, 
+        {
+            "text": "(54.jpg)  \n# Character  \nThis can be either a tight head shot or an environmental portrait, in a context relevant to the story. Photo essays are built around characters. You need to have good portrait that introduces viewers to the character. Always shoot a variety of portraits, some candids, meaning people are behaving naturally, and some posed.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_16"
+        }, 
+        {
+            "text": "(55.jpg)  \n# Action  \nFocus on your subject in a group during an activity. Images of your character interacting with others helps give a human dimension to your character.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_17"
+        }, 
+        {
+            "text": "(56.jpg)  \n# Result  \nA photo that can be used to close the story, one that says \u201cthe end.\u201d This might be an image of shopkeeper closing his store, the setting sun as election observers go home, or a child in a hospital sleeping after surgery.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_18"
+        }, 
+        {
+            "text": "The first few images in a slideshow are especially important and often include a combination of the following:  \n&bull; A place: Often a wide-angle image to give a sense of location, a sense of where the story is happening.  \n&bull; A character: A photo story must be humanized quickly. You need to introduce your character as a travelling companion on your journey.  \n&bull; A signature: A telling shot early on that is graphically appealing and visually summarizes the story.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_19"
+        }, 
+        {
+            "text": "## The series  \nMurals portraying the fall of General Muammar Gaddafi and the nation\u2019s aspirations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.  \n!(57.jpg)  \n!(58.jpg)  \n!(59.jpg)  \n!(60.jpg)  \n!(61.jpg)  \n!(62.jpg)  \n!(63.jpg)  \n!(64.jpg)  \nThe series is a set of similar images designed to illustrate a comparative point: for example a series of portraits or of destroyed buildings or a particularly fashionable type of sunglasses. Images in a series should be stylistically similar to further illustrate the comparison. A series can be a great way to illustrate an idea on its own or as a sidebar element to a video, audio, or text-only story.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_20"
+        }, 
+        {
+            "text": "You don\u2019t need to make every image in series exactly like the others. Sometimes it\u2019s just not possible. But here are a few things to keep in mind:  \n&bull; Angle of view:When possible, try to keep the angle of view consistent in a series, for example, if one picture is taken from eye-level, take them all from eye-level.  \n&bull; Focal length: Try to be consistent in the distance from your lens to your subjects. This will ensure a consistent perspective.  \n&bull; Framing: All images should be framed in about the same way. If focal length stays the same, you may need to step farther away for larger objects (or people with bigger heads) and closer for smaller object.  \n&bull; Color and image quality: If possible, avoid using a flash with some images and not others. Be consistent with ISO and white balance.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_21"
+        }, 
+        {
+            "text": "## THINGS TO REMEMBER  \n&bull; Shoot lots of images.  \n&bull; Variety is key.  \n&bull; Think through the images you will need to portray a complete story.  \n&bull; Plan your coverage in advance.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_22"
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "question": "Good photo essays are more than a random assortment of images. They need a story structure. Which of the options below might provide structure to a story (it can be more than one)?", 
+            "id": "quiz_card_1", 
+            "choices": [
+                {
+                    "text": "The story could be structured chronologically.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "The story could be structured as process piece to show how something is done.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "The story could be structured as a highlights piece that illustrates the most important elements of the subject.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "All of the above.", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "question": "True or False: A narrative story needs variety. A series on the other hand works better if the composition is consistent from image to image.", 
+            "id": "quiz_card_2", 
+            "choices": [
+                {
+                    "text": "True", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "False", 
+                    "id": "answer_2"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 2, 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "question": "Good stories typically have the following characteristic (it can be more than one).", 
+            "id": "quiz_card_3", 
+            "choices": [
+                {
+                    "text": "The final project will be between 8 and 20 images.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "If it\u2019s a narrative story, there will be visual variety.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Stories about broad issues are always better then highly focused stories.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "All of the above.", 
+                    "id": "answer_4"
+                }
+            ]
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "the_photo_essay", 
+    "title": "The Photo Essay"
+}

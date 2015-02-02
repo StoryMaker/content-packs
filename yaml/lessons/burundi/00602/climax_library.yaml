@@ -1,0 +1,18 @@
+---
+    id: climax
+    title: Climax
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: climax.json
+    storyPathTemplateFiles:
+        climax: climax.json
+    dependencies:
+        -
+            dependencyId: climax
+            dependencyFile: climax.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: climax

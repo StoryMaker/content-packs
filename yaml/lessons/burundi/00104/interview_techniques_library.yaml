@@ -1,0 +1,18 @@
+---
+    id: interview_techniques
+    title: Interview Techniques
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: interview_techniques.json
+    storyPathTemplateFiles:
+        interview_techniques: interview_techniques.json
+    dependencies:
+        -
+            dependencyId: interview_techniques
+            dependencyFile: interview_techniques.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: interview_techniques

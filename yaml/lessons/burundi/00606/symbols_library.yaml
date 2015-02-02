@@ -1,0 +1,18 @@
+---
+    id: symbols
+    title: Symbols
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: symbols.json
+    storyPathTemplateFiles:
+        symbols: symbols.json
+    dependencies:
+        -
+            dependencyId: symbols
+            dependencyFile: symbols.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: symbols

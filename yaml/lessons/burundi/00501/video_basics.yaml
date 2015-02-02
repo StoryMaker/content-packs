@@ -1,0 +1,216 @@
+---
+    id: video_basics
+    title: Video Basics
+    classPackage: scal.io.liger.model
+
+    cards:
+
+        - 
+            type: PreviewCard
+            title: I've never used a video camera before, what are the basics I should know?
+            media: 
+                - 
+                    media: 1.png
+                    media_caption: © Matt Bors 2012
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## In this lesson you will learn:  
+                &bull; What the fundamental techniques are for creating good video clips.  
+                &bull; How to shoot enough video for your story.  
+                &bull; How to hold your camera steady.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                Cameras see the world very differently than the human eye. By learning some basic rules, you can learn to record events in ways that allow an audience to focus on the important elements of your story. For an in-depth review of how cameras work, see the Camera Basics lesson in photography.  
+                In the middle of shooting your video, it can be difficult to know exactly what you should record. This is particularly true when you are starting out. It is easy to get frustrated, confused, and be unsure of yourself.  
+                
+        - 
+            type: MarkDownCard
+            body: |   
+                Keep three things in mind while you are shooting to become an effective videographer:  
+                &bull; Have purpose  
+                &bull; Have control  
+                &bull; Have commitment  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                # Have purpose  
+
+        - 
+            type: PreviewCard
+            title: Example of a subject framed in a scene.
+            media: 
+                - 
+                    media: 2.mp4
+                    media_caption: © Small World News 2012
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## Know what you want to record  
+                &bull; Pay close attention to what action or subject you intend to record, and make sure you can see it clearly in the frame.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                # Have control  
+
+        - 
+            type: PreviewCard
+            title: The proper way to hold a camera steady.
+            media: 
+                - 
+                    media: 3.mp4
+                    media_caption: © Small World News 2012
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## Hold your camera steady  
+                &bull; Use your body to brace the camera, the individual above uses the side of his body to brace the camera, while centering the camera in front of him.  
+                &bull; Remember to breathe. You may be tempted to hold your breath to keep the camera from moving, but its best to set your shot, breathe, and when you have a steady shot, begin recording.  
+                  
+        - 
+            type: PreviewCard
+            title: Example of how to properly show motion in a frame without panning.
+            media: 
+                - 
+                    media: 4.mp4
+                    media_caption: © Small World News 2012
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## Do not pan.  
+                &bull; Moving the camera creates a lot of motion in the frame. This is often more distracting than helpful. If you want another angle, stop recording, change your frame, and start recording your new shot.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                # Have commitment  
+                !(5.png)  
+                Have a goal for your shot, and record the complete action. Knowing what you are trying to record before you begin will allow you to know when you have completed the shot.  
+                Do not stop recording until actions have completed.  
+                When you are recording an action, be sure to have the camera recording for 5-10 seconds before it begins and continue recording for 5-10 seconds after the action ends. Seeing the action in its entirety will allow the audience to understand it.  
+
+        - 
+            type: PreviewCard
+            title: Here's an example of how a complete action looks in a frame.
+            media: 
+                - 
+                    media: 6.mp4
+                    media_caption: © Small World News 2012
+
+        - 
+            type: MarkDownCard
+            body: |   
+                The action taken is scoring the bread before it is baked, and we see the entire process. When we go to use this clip, it will be very easy to cut into a close up of the bread being scored, or a reverse shot, reversing the angle of the camera to record the subject as he is performing this action. This is possible because it contains a complete action.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                Before that shot was recorded, the videographer framed the shot and interacted with his subject to explain what he was trying to document. It may be necessary to ask your subjects to repeat an action or re-create it in order to properly document it. This is OK so long as you are not asking someone to misrepresent themselves.  
+
+        - 
+            type: PreviewCard
+            title: Example of recording a complete action with 5 seconds pre-roll and post-roll
+            media: 
+                - 
+                    media: 7.mp4
+                    media_caption: © Small World News 2012
+
+        - 
+            type: MarkDownCard
+            body: |   
+                !(8.png)  
+                Stand in front of what you want to film, not off to the side.  
+
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## THINGS TO REMEMBER  
+                &bull; When you have finished getting your shot, count to five in your head, then stop recording. This will make sure you have enough material at the end of your clip to use it effectively.  
+                &bull; You don’t need to record constantly, but sometimes recording for one, two or even five minutes is necessary to record an action in its entirety.  
+                &bull; This needs to be balanced with the fact that by shooting too much material, you will create a barrier to sharing your stories quickly. Look for natural breaks to stop recording one clip and move onto recording a second clip if you feel your shot is very long.  
+                &bull; To be useful, your clips need to be at least 15 seconds long. Regardless of how short the action is you are filming. Any shorter and it’s likely they won’t be useful.  
+
+        - 
+            id: quiz_card_1
+            type: QuizCard
+            question: "True or False: Recording a complete action can tell a story with a single shot."
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: "True"
+                - 
+                    id: answer_2
+                    text: "False"
+
+            correctAnswers:
+                - answer_1
+
+        - 
+            id: quiz_card_2
+            type: QuizCard
+            question: How much is the majority of the frame?
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: 10 percent
+                - 
+                    id: answer_2
+                    text: 25 percent
+                - 
+                    id: answer_3
+                    text: 33 percent
+                - 
+                    id: answer_4
+                    text: 50 percent or more
+
+            correctAnswers:
+                - answer_4
+
+        - 
+            id: quiz_card_3
+            type: QuizCard
+            question: For how many seconds should you expect to record before and after your expected action?
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: 10 seconds before, 0 seconds after
+                - 
+                    id: answer_2
+                    text: 0 seconds before, 10 seconds after
+                - 
+                    id: answer_3
+                    text: 10 seconds before, 10 seconds after
+                - 
+                    id: answer_4
+                    text: 0 seconds before, 0 seconds after
+
+            correctAnswers:
+                - answer_3
+
+        - 
+            id: quiz_card_4
+            type: QuizCard
+            question: Is it acceptable to ask your subjects to repeat an action or re-create it in order to properly document it?
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: Yes, so long as you are not asking someone to misrepresent themselves.
+                - 
+                    id: answer_2
+                    text: No, you should never communicate with your subject.
+
+            correctAnswers:
+                - answer_1

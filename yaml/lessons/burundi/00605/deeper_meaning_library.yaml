@@ -1,0 +1,18 @@
+---
+    id: deeper_meaning
+    title: Deeper Meaning
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: deeper_meaning.json
+    storyPathTemplateFiles:
+        deeper_meaning: deeper_meaning.json
+    dependencies:
+        -
+            dependencyId: deeper_meaning
+            dependencyFile: deeper_meaning.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: deeper_meaning

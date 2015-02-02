@@ -1,0 +1,18 @@
+---
+    id: getting_good_sound_and_light
+    title: Getting Good Sound and Light
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: getting_good_sound_and_light.json
+    storyPathTemplateFiles:
+        getting_good_sound_and_light: getting_good_sound_and_light.json
+    dependencies:
+        -
+            dependencyId: getting_good_sound_and_light
+            dependencyFile: getting_good_sound_and_light.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: getting_good_sound_and_light

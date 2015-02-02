@@ -1,0 +1,18 @@
+---
+    id: arc
+    title: Arc
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: arc.json
+    storyPathTemplateFiles:
+        arc: arc.json
+    dependencies:
+        -
+            dependencyId: arc
+            dependencyFile: arc.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: arc

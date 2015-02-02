@@ -1,0 +1,146 @@
+---
+    id: photographing_different_stories
+    title: Photographing Different Stories
+    classPackage: scal.io.liger.model
+
+    cards:
+
+        - 
+            type: PreviewCard
+            title: At events ranging from press conferences to demonstrations to elections, how do I know what kinds of images I should be looking for?
+            media: 
+                - 
+                    media: 1.png
+                    media_caption: © Matt Bors 2012
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## In this lesson you will learn:  
+                &bull; How to identify different photo story types.  
+                &bull; How to photograph an issue story.  
+                &bull; How to photograph a profile.  
+                &bull; How to photograph an event story.  
+                &bull; How to photograph breaking news.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                Photojournalism can be formulaic. Editors and viewers expect to see particular kinds of images from specific events. Good photojournalists know the formula and can produce it. Great photojournalists know the formula and can expand upon it. The formula can be helpful for journalists new to photography or for multitasking at an event with limited time to devote to photography.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                # Event stories  
+                (2.jpg)  
+                From elections to trials to political rallies, event stories are the bulk of what photographers do.   
+                (3.jpg)  
+                Good photo coverage does more than document a news event, it captures the energy and importance of the event. Ask yourself what visual element of the event best symbolizes the overall story; that is likely your photograph. For example:  
+                &bull; In an election, an image of a citizen casting a ballot for the first time.  
+                &bull; An image of a presidential candidate shaking hands with a military chief.  
+                &bull; In a political rally, an image of a passionate demonstrator with others in the background.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                # Breaking news Events  
+                (4.jpg)  
+                Breaking news events are a special type of event story. Breaking news includes unplanned events of social importance or interest. This is often reflected in the images we see.  
+                (5.jpg)  
+                A breaking news story can be a bombing or a natural disaster or the unplanned announcement of a political candidate’s run for office. The photographer should try to illustrate the key dramatic and narrative elements of the event. Think foreground (subject) and background (context). Often coverage is after the event has happened. Reaction shots — how people are responding to the event or its aftermath — can make very powerful images. People sweeping after an earthquake, celebrating a victory following a battle.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                # Issue stories
+                (6.jpg)  
+                Issue stories and photographs are not tied to a specific event. An issue story can be about a trend — a water shortage — or about something lighthearted and unusual — a funny fashion trend.  
+                (7.jpg)  
+                Issue stories are where news photographers are expected to be creative in their approach to what they shoot. Ask yourself what will best illustrate the topic on an emotional level. Think about context in your images and think human emotion. What elements and what moment tell the story in an interesting way?  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                # Profile stories
+                (8.jpg)  
+                Photographers frequently shoot portraits to illustrate a profile story about the person pictured or because the person figures heavily in a broader story. Portraits fall into two categories: posed and candids. Posed portraits are set up with the subject looking into the camera or just off camera.  
+                (9.jpg)  
+                Good posed portraits take advantage of good lighting and capture the subject’s expression in a way that is revealing and related to the story. Candid portraits typically show the subject in an action that explains why he or she is in the news. Many photographers will shoot both types of photos when assigned to do a portrait. It is a good idea to include some contextual elements in the image that provide a hint in the picture about why the subject is important or interesting.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                # Arranged Photos
+                (10.jpg)  
+                These guidelines are designed to make shooting easier. They should not inhibit you. It is important to note that in some cases photographers are allowed to arrange a shot. This is NEVER permitted with breaking news or general news.  
+                (11.jpg)  
+                Occasionally with issue assignments and more frequently with portraits, a photographer can arrange the photograph — ask the subject to move to better light, introduce contextual elements, or reenact something.  
+
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## THINGS TO REMEMBER  
+                &bull; Identifying what kind of story you are trying to tell can make shooting easier.  
+                &bull; Stories about serious news tend to be more formulaic than photo stories about light-hearted trends.  
+                &bull; Photos for issue or event news stories should never be arranged or manipulated. Images for profiles can sometimes be arranged.
+
+        - 
+            id: quiz_card_1
+            type: QuizCard
+            question: When photographing a press conference you might try and shoot which of the following?
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: Tight, animated headshots of each of the participants rather than one, overall shot.
+                - 
+                    id: answer_2
+                    text: Full frontal shots rather than profiles from left or right.
+                - 
+                    id: answer_3
+                    text: A group shot during the ‘photo op’.
+                - 
+                    id: answer_4
+                    text: All of the above.
+
+            correctAnswers:
+                - answer_4
+
+        - 
+            id: quiz_card_2
+            type: QuizCard
+            question: "True or False: It is OK to set up shots at general news events."
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: "True"
+                - 
+                    id: answer_2
+                    text: "False"
+
+            correctAnswers:
+                - answer_2
+
+        - 
+            id: quiz_card_3
+            type: QuizCard
+            question: Which of the following are characteristics of a good news portrait (it can be more than one).
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: The subject is statue-like and looking at the camera.
+                - 
+                    id: answer_2
+                    text: There are no props or cues in the image to contextualize it or explain why the subject is in the news.
+                - 
+                    id: answer_3
+                    text: The subject is partially obscured so it is hard to see his or her face clearly.
+                - 
+                    id: answer_4
+                    text: None of the above.
+
+            correctAnswers:
+                - answer_4

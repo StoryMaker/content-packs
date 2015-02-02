@@ -1,0 +1,18 @@
+---
+    id: camera_basics
+    title: Camera Basics
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: camera_basics.json
+    storyPathTemplateFiles:
+        camera_basics: camera_basics.json
+    dependencies:
+        -
+            dependencyId: camera_basics
+            dependencyFile: camera_basics.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: camera_basics

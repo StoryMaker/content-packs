@@ -1,0 +1,18 @@
+---
+    id: resolution
+    title: Resolution
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: resolution.json
+    storyPathTemplateFiles:
+        resolution: resolution.json
+    dependencies:
+        -
+            dependencyId: resolution
+            dependencyFile: resolution.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: resolution

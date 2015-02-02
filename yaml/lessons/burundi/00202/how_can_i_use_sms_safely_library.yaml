@@ -1,0 +1,18 @@
+---
+    id: how_can_i_use_sms_safely
+    title: How can I use SMS Safely?
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: how_can_i_use_sms_safely.json
+    storyPathTemplateFiles:
+        how_can_i_use_sms_safely: how_can_i_use_sms_safely.json
+    dependencies:
+        -
+            dependencyId: how_can_i_use_sms_safely
+            dependencyFile: how_can_i_use_sms_safely.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: how_can_i_use_sms_safely

@@ -1,0 +1,18 @@
+---
+    id: central_question
+    title: Central Question
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: central_question.json
+    storyPathTemplateFiles:
+        central_question: central_question.json
+    dependencies:
+        -
+            dependencyId: central_question
+            dependencyFile: central_question.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: central_question

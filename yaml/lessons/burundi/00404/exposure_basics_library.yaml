@@ -1,0 +1,18 @@
+---
+    id: exposure_basics
+    title: Exposure Basics
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: exposure_basics.json
+    storyPathTemplateFiles:
+        exposure_basics: exposure_basics.json
+    dependencies:
+        -
+            dependencyId: exposure_basics
+            dependencyFile: exposure_basics.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: exposure_basics

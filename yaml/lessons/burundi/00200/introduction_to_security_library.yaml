@@ -1,0 +1,18 @@
+---
+    id: introduction_to_security
+    title: Introduction to Security
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: introduction_to_security.json
+    storyPathTemplateFiles:
+        introduction_to_security: introduction_to_security.json
+    dependencies:
+        -
+            dependencyId: introduction_to_security
+            dependencyFile: introduction_to_security.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: introduction_to_security

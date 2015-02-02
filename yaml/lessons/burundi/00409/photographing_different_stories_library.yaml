@@ -1,0 +1,18 @@
+---
+    id: photographing_different_stories
+    title: Photographing Different Stories
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: photographing_different_stories.json
+    storyPathTemplateFiles:
+        photographing_different_stories: photographing_different_stories.json
+    dependencies:
+        -
+            dependencyId: photographing_different_stories
+            dependencyFile: photographing_different_stories.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: photographing_different_stories

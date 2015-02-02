@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "audio_basics", 
+            "dependencyFile": "audio_basics.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Audio Basics", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "audio_basics"
+        }
+    ], 
+    "currentStoryPathFile": ".json", 
+    "storyPathTemplateFiles": {
+        "audio_basics": "audio_basics.json"
+    }, 
+    "id": "audio_basics"
+}

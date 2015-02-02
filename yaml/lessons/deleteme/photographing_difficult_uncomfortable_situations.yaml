@@ -1,0 +1,187 @@
+---
+    id: photographing_difficult_uncomfortable_situations
+    title: Photographing Difficult Uncomfortable Situations
+    classPackage: scal.io.liger.model
+
+    cards:
+
+        - 
+            type: PreviewCard
+            title: What do I do if someone is reluctant to be photographed or the circumstances are emotionally difficult for the subject or myself?
+            media: 
+                - 
+                    media: 1.png
+                    media_caption: © Matt Bors 2012
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## In this lesson you will learn:  
+                &bull; How to photograph difficult or sensitive topics.  
+                &bull; How to recognize when your coverage makes people uncomfortable or may put them at risk.  
+                &bull; How to recognize your own bias in your photo coverage.  
+                &bull; How to work safely as a photographer.  
+                &bull; How to decide the best way to represent a difficult topic in a photograph.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                People are sensitive to having their photo taken. The more difficult the circumstance of the story, the more difficult it is to get a photograph. Our own biases and emotional investment in a story can make it difficult to make good choices about shooting photos.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                If you live in the community you cover, there are some unique challenges, such as:  
+                &bull; Should you take photographs of people if they don’t want you to?  
+                &bull; Should you publish very graphic images of violence and death?  
+                &bull; Should you help someone who is injured or photograph them?  
+                Every photojournalist must make these choices for him or herself within the professional and ethical boundaries that journalism allows.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## Make people comfortable  
+                In breaking news situations, journalists are typically working frantically and have little time to build rapport. But, when shooting event stories, issue stories, or profiles, you need to warm people up. Explain how the photo will be used. Tell people a bit about yourself. Speak to them conversationally. All of these things may help you get a photo of people who are reluctant to be photographed. You may find that using a smartphone makes some people more comfortable, while others may take you less seriously.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## Minimize harm to yourself and others
+
+        - 
+            type: PreviewCard
+            title: Interview with a photographer who experienced photographing those affected by tragedy or grief.
+            media: 
+                - 
+                    media: 3.mp4
+                    media_caption: © Small World News 2012
+
+        - 
+            type: PreviewCard
+            title: Interview with a photographer who experienced photographing those affected by tragedy or grief.
+            media: 
+                - 
+                    media: 4.mp4
+                    media_caption: © Small World News 2012
+
+        - 
+            type: MarkDownCard
+            body: |   
+                You must always be sensitive to the impact publishing images of people will have on those portrayed. Be sensitive when shooting those affected by tragedy or grief, especially children and people inexperienced with the media. Private people have a greater right to privacy than public officials and others who seek power, influence, or attention.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## Shoot for options  
+                Even if a single image is going to be presented with a story or post, you want a variety of images from which to choose. In the case of difficult subject matter, images need to tell a story truthfully. They should not be gratuitous. When publishing graphic images, photographers need to consider the audience, the importance of the story, and the impact the images will have.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## Manage your bias  
+
+        - 
+            type: PreviewCard
+            title: Interview with a photographer who found themself biased on an assignment.
+            media: 
+                - 
+                    media: 5.mp4
+                    media_caption: © Small World News 2012
+
+        - 
+            type: MarkDownCard
+            body: |   
+                Know yourself. Be aware of your biases and do not let them influence how you portray a situation or issue. Good photojournalists seek to capture the universal human elements of stories. Humanity is not defined by national boundary, tribe, politics, or province.  
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## Your own safety  
+
+        - 
+            type: PreviewCard
+            title: Interview with a photographer about shooting in unsafe situations.
+            media: 
+                - 
+                    media: 6.mp4
+                    media_caption: © Small World News 2012
+
+        - 
+            type: MarkDownCard
+            body: |   
+                Some situations are difficult to shoot because they are unsafe. No photograph is worth injury. When shooting in dangerous situations, always have an exit strategy. Be aware that soldiers and security forces may not wish to be photographed. Be smart about the risks.  
+                Mental health is part of safety, too.  
+                Only you can decide your limitations. Only you can decide if and when you should put down your camera and help. You will make a much better decisions if you think through your values before you find yourself in a high-pressure situation that requires you to make a decision on the spot.  
+                Using a smartphone may encourage you to take greater risks, thinking you are less noticeable than shooters with large cameras. Be careful not to underestimate your level of risk.  
+
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## THINGS TO REMEMBER  
+                &bull; Explain your story to your subjects.  
+                &bull; Work to make people comfortable with the process.  
+                &bull; Be especially sensitive around tragedy.  
+                &bull; Be balanced in your coverage no matter your own feelings.
+                &bull; Your own safety comes first.
+
+        - 
+            id: quiz_card_1
+            type: QuizCard
+            question: What are some thing you can do to make subjects who are reluctant to be photographed more comfortable with the idea?
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: Explain to them how the photos are to be used.
+                - 
+                    id: answer_2
+                    text: Point out that it is an opportunity for them to speak out on a issue that might be important to them.
+                - 
+                    id: answer_3
+                    text: Negotiate a bit about how the photo will be taken and perhaps used.
+                - 
+                    id: answer_4
+                    text: All of the above.
+
+            correctAnswers:
+                - answer_4
+
+        - 
+            id: quiz_card_2
+            type: QuizCard
+            question: "True or False: It is OK to have an agenda based on your own political and personal views when deciding how to cover an event."
+            correctRequired: 1
+            choices:
+                - 
+                    id: answer_1
+                    text: "True"
+                - 
+                    id: answer_2
+                    text: "False"
+
+            correctAnswers:
+                - answer_2
+
+        - 
+            id: quiz_card_3
+            type: QuizCard
+            question: Which of the following are important to keep in mind when shooting under difficult circumstances (it can be more than one).
+            correctRequired: 2
+            choices:
+                - 
+                    id: answer_1
+                    text: A photographer needs to be sensitive to the rights of private citizens when taking their photograph.
+                - 
+                    id: answer_2
+                    text: You should be aware of your own personal safety.
+                - 
+                    id: answer_3
+                    text: Don’t take pictures that are graphic and might upset someone.
+                - 
+                    id: answer_4
+                    text: All of the above.
+
+            correctAnswers:
+                - answer_1
+                - answer_2
