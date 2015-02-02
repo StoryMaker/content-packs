@@ -1,11 +1,15 @@
 [main]
 host = https://www.transifex.com
 
-
-
 [storymaker.introduction_to_journalism]
 file_filter = intermediates/translated_strings/lessons/introduction_to_journalism-<lang>.json
 source_file = intermediates/strings/lessons/introduction_to_journalism.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.introduction_to_journalism_library]
+file_filter = intermediates/translated_strings/lessons/introduction_to_journalism_library-<lang>.json
+source_file = intermediates/strings/lessons/introduction_to_journalism_library.json
 source_lang = en
 type = KEYVALUEJSON
 
@@ -15,9 +19,21 @@ source_file = intermediates/strings/lessons/social_media_basics.json
 source_lang = en
 type = KEYVALUEJSON
 
+[storymaker.social_media_basics_library]
+file_filter = intermediates/translated_strings/lessons/social_media_basics_library-<lang>.json
+source_file = intermediates/strings/lessons/social_media_basics_library.json
+source_lang = en
+type = KEYVALUEJSON
+
 [storymaker.reporting_basics]
 file_filter = intermediates/translated_strings/lessons/reporting_basics-<lang>.json
 source_file = intermediates/strings/lessons/reporting_basics.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.reporting_basics_library]
+file_filter = intermediates/translated_strings/lessons/reporting_basics_library-<lang>.json
+source_file = intermediates/strings/lessons/reporting_basics_library.json
 source_lang = en
 type = KEYVALUEJSON
 
@@ -27,13 +43,21 @@ source_file = intermediates/strings/lessons/selecting_and_verifying_sources.json
 source_lang = en
 type = KEYVALUEJSON
 
-
-
-
+[storymaker.selecting_and_verifying_sources_library]
+file_filter = intermediates/translated_strings/lessons/selecting_and_verifying_sources_library-<lang>.json
+source_file = intermediates/strings/lessons/selecting_and_verifying_sources_library.json
+source_lang = en
+type = KEYVALUEJSON
 
 [storymaker.interview_techniques]
 file_filter = intermediates/translated_strings/lessons/interview_techniques-<lang>.json
 source_file = intermediates/strings/lessons/interview_techniques.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.interview_techniques_library]
+file_filter = intermediates/translated_strings/lessons/interview_techniques_library-<lang>.json
+source_file = intermediates/strings/lessons/interview_techniques_library.json
 source_lang = en
 type = KEYVALUEJSON
 
@@ -43,9 +67,21 @@ source_file = intermediates/strings/lessons/evolution_of_a_story.json
 source_lang = en
 type = KEYVALUEJSON
 
+[storymaker.evolution_of_a_story_library]
+file_filter = intermediates/translated_strings/lessons/evolution_of_a_story_library-<lang>.json
+source_file = intermediates/strings/lessons/evolution_of_a_story_library.json
+source_lang = en
+type = KEYVALUEJSON
+
 [storymaker.introduction_to_ethics_and_professional_standards]
 file_filter = intermediates/translated_strings/lessons/introduction_to_ethics_and_professional_standards-<lang>.json
 source_file = intermediates/strings/lessons/introduction_to_ethics_and_professional_standards.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.introduction_to_ethics_and_professional_standards_library]
+file_filter = intermediates/translated_strings/lessons/introduction_to_ethics_and_professional_standards_library-<lang>.json
+source_file = intermediates/strings/lessons/introduction_to_ethics_and_professional_standards_library.json
 source_lang = en
 type = KEYVALUEJSON
 
@@ -55,23 +91,503 @@ source_file = intermediates/strings/lessons/using_text.json
 source_lang = en
 type = KEYVALUEJSON
 
+[storymaker.using_text_library]
+file_filter = intermediates/translated_strings/lessons/using_text_library-<lang>.json
+source_file = intermediates/strings/lessons/using_text_library.json
+source_lang = en
+type = KEYVALUEJSON
+
 [storymaker.media_law]
 file_filter = intermediates/translated_strings/lessons/media_law-<lang>.json
 source_file = intermediates/strings/lessons/media_law.json
 source_lang = en
 type = KEYVALUEJSON
 
+[storymaker.media_law_library]
+file_filter = intermediates/translated_strings/lessons/media_law_library-<lang>.json
+source_file = intermediates/strings/lessons/media_law_library.json
+source_lang = en
+type = KEYVALUEJSON
 
+[storymaker.introduction_to_security]
+file_filter = intermediates/translated_strings/lessons/introduction_to_security-<lang>.json
+source_file = intermediates/strings/lessons/introduction_to_security.json
+source_lang = en
+type = KEYVALUEJSON
 
+[storymaker.introduction_to_security_library]
+file_filter = intermediates/translated_strings/lessons/introduction_to_security_library-<lang>.json
+source_file = intermediates/strings/lessons/introduction_to_security_library.json
+source_lang = en
+type = KEYVALUEJSON
 
+[storymaker.how_do_my_communications_put_me_at_risk]
+file_filter = intermediates/translated_strings/lessons/how_do_my_communications_put_me_at_risk-<lang>.json
+source_file = intermediates/strings/lessons/how_do_my_communications_put_me_at_risk.json
+source_lang = en
+type = KEYVALUEJSON
 
+[storymaker.how_do_my_communications_put_me_at_risk_library]
+file_filter = intermediates/translated_strings/lessons/how_do_my_communications_put_me_at_risk_library-<lang>.json
+source_file = intermediates/strings/lessons/how_do_my_communications_put_me_at_risk_library.json
+source_lang = en
+type = KEYVALUEJSON
 
+[storymaker.how_can_i_use_sms_safely]
+file_filter = intermediates/translated_strings/lessons/how_can_i_use_sms_safely-<lang>.json
+source_file = intermediates/strings/lessons/how_can_i_use_sms_safely.json
+source_lang = en
+type = KEYVALUEJSON
 
+[storymaker.how_can_i_use_sms_safely_library]
+file_filter = intermediates/translated_strings/lessons/how_can_i_use_sms_safely_library-<lang>.json
+source_file = intermediates/strings/lessons/how_can_i_use_sms_safely_library.json
+source_lang = en
+type = KEYVALUEJSON
 
+[storymaker.how_can_i_use_a_browser_safely]
+file_filter = intermediates/translated_strings/lessons/how_can_i_use_a_browser_safely-<lang>.json
+source_file = intermediates/strings/lessons/how_can_i_use_a_browser_safely.json
+source_lang = en
+type = KEYVALUEJSON
 
+[storymaker.how_can_i_use_a_browser_safely_library]
+file_filter = intermediates/translated_strings/lessons/how_can_i_use_a_browser_safely_library-<lang>.json
+source_file = intermediates/strings/lessons/how_can_i_use_a_browser_safely_library.json
+source_lang = en
+type = KEYVALUEJSON
 
+[storymaker.how_can_i_send_email_safely]
+file_filter = intermediates/translated_strings/lessons/how_can_i_send_email_safely-<lang>.json
+source_file = intermediates/strings/lessons/how_can_i_send_email_safely.json
+source_lang = en
+type = KEYVALUEJSON
 
+[storymaker.how_can_i_send_email_safely_library]
+file_filter = intermediates/translated_strings/lessons/how_can_i_send_email_safely_library-<lang>.json
+source_file = intermediates/strings/lessons/how_can_i_send_email_safely_library.json
+source_lang = en
+type = KEYVALUEJSON
 
+[storymaker.what_makes_a_password_strong]
+file_filter = intermediates/translated_strings/lessons/what_makes_a_password_strong-<lang>.json
+source_file = intermediates/strings/lessons/what_makes_a_password_strong.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.what_makes_a_password_strong_library]
+file_filter = intermediates/translated_strings/lessons/what_makes_a_password_strong_library-<lang>.json
+source_file = intermediates/strings/lessons/what_makes_a_password_strong_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.how_do_i_effectively_use_pseudonyms]
+file_filter = intermediates/translated_strings/lessons/how_do_i_effectively_use_pseudonyms-<lang>.json
+source_file = intermediates/strings/lessons/how_do_i_effectively_use_pseudonyms.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.how_do_i_effectively_use_pseudonyms_library]
+file_filter = intermediates/translated_strings/lessons/how_do_i_effectively_use_pseudonyms_library-<lang>.json
+source_file = intermediates/strings/lessons/how_do_i_effectively_use_pseudonyms_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.introduction_to_audio]
+file_filter = intermediates/translated_strings/lessons/introduction_to_audio-<lang>.json
+source_file = intermediates/strings/lessons/introduction_to_audio.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.introduction_to_audio_library]
+file_filter = intermediates/translated_strings/lessons/introduction_to_audio_library-<lang>.json
+source_file = intermediates/strings/lessons/introduction_to_audio_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.audio_basics]
+file_filter = intermediates/translated_strings/lessons/audio_basics-<lang>.json
+source_file = intermediates/strings/lessons/audio_basics.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.audio_basics_library]
+file_filter = intermediates/translated_strings/lessons/audio_basics_library-<lang>.json
+source_file = intermediates/strings/lessons/audio_basics_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.preparation]
+file_filter = intermediates/translated_strings/lessons/preparation-<lang>.json
+source_file = intermediates/strings/lessons/preparation.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.preparation_library]
+file_filter = intermediates/translated_strings/lessons/preparation_library-<lang>.json
+source_file = intermediates/strings/lessons/preparation_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.types_of_stories]
+file_filter = intermediates/translated_strings/lessons/types_of_stories-<lang>.json
+source_file = intermediates/strings/lessons/types_of_stories.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.types_of_stories_library]
+file_filter = intermediates/translated_strings/lessons/types_of_stories_library-<lang>.json
+source_file = intermediates/strings/lessons/types_of_stories_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.storyboarding_recording_plan]
+file_filter = intermediates/translated_strings/lessons/storyboarding_recording_plan-<lang>.json
+source_file = intermediates/strings/lessons/storyboarding_recording_plan.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.storyboarding_recording_plan_library]
+file_filter = intermediates/translated_strings/lessons/storyboarding_recording_plan_library-<lang>.json
+source_file = intermediates/strings/lessons/storyboarding_recording_plan_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.recording_tips_and_techniques]
+file_filter = intermediates/translated_strings/lessons/recording_tips_and_techniques-<lang>.json
+source_file = intermediates/strings/lessons/recording_tips_and_techniques.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.recording_tips_and_techniques_library]
+file_filter = intermediates/translated_strings/lessons/recording_tips_and_techniques_library-<lang>.json
+source_file = intermediates/strings/lessons/recording_tips_and_techniques_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.introduction_to_photography]
+file_filter = intermediates/translated_strings/lessons/introduction_to_photography-<lang>.json
+source_file = intermediates/strings/lessons/introduction_to_photography.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.introduction_to_photography_library]
+file_filter = intermediates/translated_strings/lessons/introduction_to_photography_library-<lang>.json
+source_file = intermediates/strings/lessons/introduction_to_photography_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.camera_basics]
+file_filter = intermediates/translated_strings/lessons/camera_basics-<lang>.json
+source_file = intermediates/strings/lessons/camera_basics.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.camera_basics_library]
+file_filter = intermediates/translated_strings/lessons/camera_basics_library-<lang>.json
+source_file = intermediates/strings/lessons/camera_basics_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.composition_basics]
+file_filter = intermediates/translated_strings/lessons/composition_basics-<lang>.json
+source_file = intermediates/strings/lessons/composition_basics.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.composition_basics_library]
+file_filter = intermediates/translated_strings/lessons/composition_basics_library-<lang>.json
+source_file = intermediates/strings/lessons/composition_basics_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.captions_and_keywords]
+file_filter = intermediates/translated_strings/lessons/captions_and_keywords-<lang>.json
+source_file = intermediates/strings/lessons/captions_and_keywords.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.captions_and_keywords_library]
+file_filter = intermediates/translated_strings/lessons/captions_and_keywords_library-<lang>.json
+source_file = intermediates/strings/lessons/captions_and_keywords_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.exposure_basics]
+file_filter = intermediates/translated_strings/lessons/exposure_basics-<lang>.json
+source_file = intermediates/strings/lessons/exposure_basics.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.exposure_basics_library]
+file_filter = intermediates/translated_strings/lessons/exposure_basics_library-<lang>.json
+source_file = intermediates/strings/lessons/exposure_basics_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.post_production]
+file_filter = intermediates/translated_strings/lessons/post_production-<lang>.json
+source_file = intermediates/strings/lessons/post_production.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.post_production_library]
+file_filter = intermediates/translated_strings/lessons/post_production_library-<lang>.json
+source_file = intermediates/strings/lessons/post_production_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.the_photo_essay]
+file_filter = intermediates/translated_strings/lessons/the_photo_essay-<lang>.json
+source_file = intermediates/strings/lessons/the_photo_essay.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.the_photo_essay_library]
+file_filter = intermediates/translated_strings/lessons/the_photo_essay_library-<lang>.json
+source_file = intermediates/strings/lessons/the_photo_essay_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.photographing_fast_moving_objects]
+file_filter = intermediates/translated_strings/lessons/photographing_fast_moving_objects-<lang>.json
+source_file = intermediates/strings/lessons/photographing_fast_moving_objects.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.photographing_fast_moving_objects_library]
+file_filter = intermediates/translated_strings/lessons/photographing_fast_moving_objects_library-<lang>.json
+source_file = intermediates/strings/lessons/photographing_fast_moving_objects_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.setting_white_balance]
+file_filter = intermediates/translated_strings/lessons/setting_white_balance-<lang>.json
+source_file = intermediates/strings/lessons/setting_white_balance.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.setting_white_balance_library]
+file_filter = intermediates/translated_strings/lessons/setting_white_balance_library-<lang>.json
+source_file = intermediates/strings/lessons/setting_white_balance_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.photographing_different_stories]
+file_filter = intermediates/translated_strings/lessons/photographing_different_stories-<lang>.json
+source_file = intermediates/strings/lessons/photographing_different_stories.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.photographing_different_stories_library]
+file_filter = intermediates/translated_strings/lessons/photographing_different_stories_library-<lang>.json
+source_file = intermediates/strings/lessons/photographing_different_stories_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.photographing_difficult_uncomfortable_situations]
+file_filter = intermediates/translated_strings/lessons/photographing_difficult_uncomfortable_situations-<lang>.json
+source_file = intermediates/strings/lessons/photographing_difficult_uncomfortable_situations.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.photographing_difficult_uncomfortable_situations_library]
+file_filter = intermediates/translated_strings/lessons/photographing_difficult_uncomfortable_situations_library-<lang>.json
+source_file = intermediates/strings/lessons/photographing_difficult_uncomfortable_situations_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.introduction_to_video]
+file_filter = intermediates/translated_strings/lessons/introduction_to_video-<lang>.json
+source_file = intermediates/strings/lessons/introduction_to_video.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.introduction_to_video_library]
+file_filter = intermediates/translated_strings/lessons/introduction_to_video_library-<lang>.json
+source_file = intermediates/strings/lessons/introduction_to_video_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.video_basics]
+file_filter = intermediates/translated_strings/lessons/video_basics-<lang>.json
+source_file = intermediates/strings/lessons/video_basics.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.video_basics_library]
+file_filter = intermediates/translated_strings/lessons/video_basics_library-<lang>.json
+source_file = intermediates/strings/lessons/video_basics_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.getting_good_sound_and_light]
+file_filter = intermediates/translated_strings/lessons/getting_good_sound_and_light-<lang>.json
+source_file = intermediates/strings/lessons/getting_good_sound_and_light.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.getting_good_sound_and_light_library]
+file_filter = intermediates/translated_strings/lessons/getting_good_sound_and_light_library-<lang>.json
+source_file = intermediates/strings/lessons/getting_good_sound_and_light_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.setting_white_balance_in_video]
+file_filter = intermediates/translated_strings/lessons/setting_white_balance_in_video-<lang>.json
+source_file = intermediates/strings/lessons/setting_white_balance_in_video.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.setting_white_balance_in_video_library]
+file_filter = intermediates/translated_strings/lessons/setting_white_balance_in_video_library-<lang>.json
+source_file = intermediates/strings/lessons/setting_white_balance_in_video_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.framing_your_shot]
+file_filter = intermediates/translated_strings/lessons/framing_your_shot-<lang>.json
+source_file = intermediates/strings/lessons/framing_your_shot.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.framing_your_shot_library]
+file_filter = intermediates/translated_strings/lessons/framing_your_shot_library-<lang>.json
+source_file = intermediates/strings/lessons/framing_your_shot_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.videos_different_shots]
+file_filter = intermediates/translated_strings/lessons/videos_different_shots-<lang>.json
+source_file = intermediates/strings/lessons/videos_different_shots.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.videos_different_shots_library]
+file_filter = intermediates/translated_strings/lessons/videos_different_shots_library-<lang>.json
+source_file = intermediates/strings/lessons/videos_different_shots_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.sequences]
+file_filter = intermediates/translated_strings/lessons/sequences-<lang>.json
+source_file = intermediates/strings/lessons/sequences.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.sequences_library]
+file_filter = intermediates/translated_strings/lessons/sequences_library-<lang>.json
+source_file = intermediates/strings/lessons/sequences_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.organizing_your_shoot]
+file_filter = intermediates/translated_strings/lessons/organizing_your_shoot-<lang>.json
+source_file = intermediates/strings/lessons/organizing_your_shoot.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.organizing_your_shoot_library]
+file_filter = intermediates/translated_strings/lessons/organizing_your_shoot_library-<lang>.json
+source_file = intermediates/strings/lessons/organizing_your_shoot_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.content_sites]
+file_filter = intermediates/translated_strings/lessons/content_sites-<lang>.json
+source_file = intermediates/strings/lessons/content_sites.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.content_sites_library]
+file_filter = intermediates/translated_strings/lessons/content_sites_library-<lang>.json
+source_file = intermediates/strings/lessons/content_sites_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.introduction_to_story]
+file_filter = intermediates/translated_strings/lessons/introduction_to_story-<lang>.json
+source_file = intermediates/strings/lessons/introduction_to_story.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.introduction_to_story_library]
+file_filter = intermediates/translated_strings/lessons/introduction_to_story_library-<lang>.json
+source_file = intermediates/strings/lessons/introduction_to_story_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.central_question]
+file_filter = intermediates/translated_strings/lessons/central_question-<lang>.json
+source_file = intermediates/strings/lessons/central_question.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.central_question_library]
+file_filter = intermediates/translated_strings/lessons/central_question_library-<lang>.json
+source_file = intermediates/strings/lessons/central_question_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.climax]
+file_filter = intermediates/translated_strings/lessons/climax-<lang>.json
+source_file = intermediates/strings/lessons/climax.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.climax_library]
+file_filter = intermediates/translated_strings/lessons/climax_library-<lang>.json
+source_file = intermediates/strings/lessons/climax_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.resolution]
+file_filter = intermediates/translated_strings/lessons/resolution-<lang>.json
+source_file = intermediates/strings/lessons/resolution.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.resolution_library]
+file_filter = intermediates/translated_strings/lessons/resolution_library-<lang>.json
+source_file = intermediates/strings/lessons/resolution_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.arc]
+file_filter = intermediates/translated_strings/lessons/arc-<lang>.json
+source_file = intermediates/strings/lessons/arc.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.arc_library]
+file_filter = intermediates/translated_strings/lessons/arc_library-<lang>.json
+source_file = intermediates/strings/lessons/arc_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.deeper_meaning]
+file_filter = intermediates/translated_strings/lessons/deeper_meaning-<lang>.json
+source_file = intermediates/strings/lessons/deeper_meaning.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.deeper_meaning_library]
+file_filter = intermediates/translated_strings/lessons/deeper_meaning_library-<lang>.json
+source_file = intermediates/strings/lessons/deeper_meaning_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.symbols]
+file_filter = intermediates/translated_strings/lessons/symbols-<lang>.json
+source_file = intermediates/strings/lessons/symbols.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.symbols_library]
+file_filter = intermediates/translated_strings/lessons/symbols_library-<lang>.json
+source_file = intermediates/strings/lessons/symbols_library.json
+source_lang = en
+type = KEYVALUEJSON
 
 [storymaker.learning_guide_1]
 file_filter = intermediates/translated_strings/default/learning_guide_1/learning_guide_1-<lang>.json
