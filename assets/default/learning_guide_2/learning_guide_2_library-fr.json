@@ -1,0 +1,23 @@
+{
+    "title": "Apprendre les \u00e9l\u00e9ments de base d'une histoire.", 
+    "storyPathTemplateFiles": {
+        "learning_guide_2": "learning_guide_2.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "learning_guide_2", 
+            "dependencyFile": "learning_guide_2.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "learning_guide_2"
+        }
+    ], 
+    "currentStoryPathFile": "learning_guide_2.json", 
+    "id": "learning_guide_2_library"
+}

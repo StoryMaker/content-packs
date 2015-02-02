@@ -1,0 +1,140 @@
+{
+    "cards": [
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "audio", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Enregistrer des sons pour montrer o\u00f9 s'est d\u00e9roul\u00e9 l'\u00e9v\u00e9nement.", 
+                "Enregistrer des sons d'une place importante pour l'\u00e9v\u00e9nement."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:07", 
+            "goals": [
+                "Enregistrer des sons qui introduisent votre discussion."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "Quelle partie pensez - vous qu'elle est la plus excitante de l'\u00e9v\u00e9nement?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "Quelle partie pensez - vous qu'elle est la plus excitante de l'\u00e9v\u00e9nement?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:09", 
+            "goals": [
+                "Enregistrer des sons pour montrer o\u00f9 s'est d\u00e9roul\u00e9 l'\u00e9v\u00e9nement.", 
+                "Enregistrer des sons d'une place importante pour l'\u00e9v\u00e9nement."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "Quelle partie pensez - vous qu'elle est la plus excitante de l'\u00e9v\u00e9nement?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "Quelle partie pensez - vous qu'elle est la plus excitante de l'\u00e9v\u00e9nement?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "goals": [
+                "Capturer les gens r\u00e9agissent \u00e0 une partie int\u00e9ressante de l'\u00e9v\u00e9nement."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "Quelle partie pensez - vous qu'elle est la plus excitante de l'\u00e9v\u00e9nement?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:09", 
+            "goals": [
+                "Enregistrer des sons pour montrer comment s'est termin\u00e9 l\u2019\u00e9v\u00e9nement."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_9"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "audio", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Est ce que votre histoire toutes les parties int\u00e9ressantes de l'\u00e9v\u00e9nement?", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "event_discussion_audio_question3", 
+    "title": "Discussion sur un \u00e9v\u00e9nement - Passionnant"
+}

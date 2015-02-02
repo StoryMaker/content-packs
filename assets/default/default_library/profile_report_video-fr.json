@@ -1,0 +1,191 @@
+{
+    "cards": [
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "video", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:14", 
+            "goals": [
+                "nous montrer o\u00f9 vit votre personnage."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:33", 
+            "goals": [
+                "Poser la question:  Voulez-vous, s'il vous plait, se pr\u00e9senter?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:13", 
+            "goals": [
+                "Nous montrer quelque chose remarquable \u00e0 propos du personnage."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:28", 
+            "goals": [
+                "Poser la Question: Veuillez nous parler un peu de ce que vous faites pour vivre?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "video", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:15", 
+            "goals": [
+                "Montrer le travail de votre personnage."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "Nous montrer la chose la plus importante \u00e0 propos du m\u00e9tier de  la personne."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "video", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:13", 
+            "goals": [
+                "Nous montrer une place importante pour votre personnage."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Montrer votre personnage interagir avec d'autres personnes dans sa vie."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:12", 
+            "goals": [
+                "Montrer ce que fait votre personnage pour le plaisir."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:23", 
+            "goals": [
+                "Nous montrer quelque chose importante au personnage."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_9"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:24", 
+            "goals": [
+                "Si elle est une nouvelle place, Montrer o\u00f9 termine votre personnage l'histoire."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_10"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:40", 
+            "goals": [
+                "Poser la question: Pouvez-vous, s'il vous pla\u00eet, nous parler de votre avenir?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_11"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:09", 
+            "goals": [
+                "Montrer la personne \u00e0 la fin de l'histoire."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_12"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_3", 
+            "tags": [
+                "video", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_4", 
+            "tags": [
+                "narration"
+            ]
+        }, 
+        {
+            "text": "--------", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "profile_report_video", 
+    "title": "Rapport sur un profile"
+}

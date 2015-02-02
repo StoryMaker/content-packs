@@ -1,0 +1,170 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Montrer le lieu o\u00f9 va se passer le processus que vous allez illustrer avant qu'il commence."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Montrer le d\u00e9but du processus."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "portrait", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Enregistrer la premi\u00e8re \u00e9tape significative dans l'\u00e9v\u00e9nement."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "text": "Ne pas enregistrer chaque \u00e9tape. Seules les \u00e9tapes significatives pour montrer la progression du d\u00e9but jusqu'\u00e0 la fin.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Enregistrer la deuxi\u00e8me \u00e9tape significative lors de l'\u00e9v\u00e9nement."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "text": "\u00catre s\u00fbr d'obtenir une vari\u00e9t\u00e9 de compositions lors de l'illustration du processus. Certains plans larges, des plans serr\u00e9s et des plans moyens.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Enregistrer la troisi\u00e8me \u00e9tape significative dans l'\u00e9v\u00e9nement. "
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "text": "S'il y'en a plus que quatre \u00e9tapes, ajouter plus de cartes de clips avec le bouton + .", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Enregistrer l'\u00e9tape significative finale de l'\u00e9v\u00e9nement."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Photographier un moment dramatique sp\u00e9cial qui r\u00e9sume l'\u00e9v\u00e9nement"
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Prendre une photo significative des gens en train de faire une activit\u00e9."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "photo", 
+                "photo essay", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "prendre des photo des gens qui regardent ou bien qui r\u00e9agissent avec le processus. Les sujets les  plus anim\u00e9s sont les mieux."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Montrer le produit fini ou bien la fin de l'\u00e9v\u00e9nement - la fin dramatique."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_9"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "edit", 
+                "photo", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_3", 
+            "tags": [
+                "narration"
+            ]
+        }, 
+        {
+            "text": "--------", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "event_process_photo", 
+    "title": "Processus d'un \u00e9v\u00e9nement"
+}

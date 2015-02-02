@@ -1,0 +1,143 @@
+{
+    "cards": [
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "photo", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Montrer l'endroit. \u00e7a peut \u00eatre un plan large d'un endroit ou une entr\u00e9e \u00e0 l'\u00e9v\u00e9nement."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Nous montrer les gens participants \u00e0 l'\u00e9v\u00e9nement ou r\u00e9agissant avec quelque chose qui se passe lors de l'\u00e9v\u00e9nement. Les sujets les  plus anim\u00e9s sont les mieux."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "photo", 
+                "photo essay", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Capturer une photo qui r\u00e9sume le sujet de l'\u00e9v\u00e9nement. Cela pourrait \u00eatre une seule image qui capte son \u00e9nergie et son but."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Faire attention au gens pr\u00e9sents, Capturer ce qui fait d'eux unique le mieux que vous pouvez."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Chercher des gens qui font bouger l'\u00e9v\u00e9nement, chercher des moments o\u00f9 ils interagissent avec d'autres gens."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Quelque chose qui vous a attir\u00e9 personnellement \u00e0 cet \u00e9v\u00e9nement, assurez-vous de le photographier aussi bien que vous le pouvez."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Photographier n'importe quelle personne \u00e0 l'\u00e9v\u00e9nement. Cela pourrait \u00eatre l'interpr\u00e8te principal ou le conf\u00e9rencier, comme il pourrait \u00eatre un politicien ou bien une c\u00e9l\u00e9brit\u00e9 parmi les pr\u00e9sents."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "portraits", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Cherchez un point culminant ou une fin dramatique, le photographier. La fin d'un jeu ou un spectacle ou m\u00eame un discours, par exemple."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_3", 
+            "tags": [
+                "edit", 
+                "photo", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_4", 
+            "tags": [
+                "narration"
+            ]
+        }, 
+        {
+            "text": "--------", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "event_highlights_photo", 
+    "title": "A propos de l'\u00e9v\u00e9nement"
+}
