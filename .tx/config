@@ -356,8 +356,8 @@ source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.photographing_fast_moving_objects_library]
-file_filter = intermediates/translated_strings/lessons/burundi/00408/photographing_fast_moving_objects_library-<lang>.json
-source_file = intermediates/strings/lessons/burundi/00408/photographing_fast_moving_objects_library.json
+file_filter = intermediates/translated_strings/lessons/burundi/00407/photographing_fast_moving_objects_library-<lang>.json
+source_file = intermediates/strings/lessons/burundi/00407/photographing_fast_moving_objects_library.json
 source_lang = en
 type = KEYVALUEJSON
 
@@ -530,7 +530,7 @@ source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.climax]
-file_filter = intermediates/translated_strings/lesson/burundi/00602/climax-<lang>.json
+file_filter = intermediates/translated_strings/lessons/burundi/00602/climax-<lang>.json
 source_file = intermediates/strings/lessons/burundi/00602/climax.json
 source_lang = en
 type = KEYVALUEJSON
