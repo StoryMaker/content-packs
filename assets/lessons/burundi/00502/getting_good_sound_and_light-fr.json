@@ -1,0 +1,369 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Pourquoi le son et l'\u00e9clairage sont tr\u00e8s importants \u00e0 la vid\u00e9o?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Dans cette le\u00e7on vous allez apprendre: \n&bull; Comment am\u00e9liorer le son dans vos histoires vid\u00e9os.\n&bull; Les causes primaires d'une mauvaise qualit\u00e9 de son dans une histoire vid\u00e9o.\n&bull; Comment am\u00e9liorer l'\u00e9clairage dans vos histoires vid\u00e9os.\n&bull; Comment utiliser les arrangements d'\u00e9clairage en fonction de vos besoins sp\u00e9cifiques.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Votre vid\u00e9o peut \u00eatre parfaitement cadr\u00e9e, mais avec un mauvais son et lumi\u00e8re votre vid\u00e9o ne sera pas efficace. Bon son et la lumi\u00e8re font vos vid\u00e9os professionnelle, et les rendent plus susceptibles d'\u00eatre partag\u00e9e par d'autres. Ils permettent aux informations dans votre vid\u00e9o \u00eatre comprises.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "(2.png)\nConna\u00eetre les capacit\u00e9s de votre appareil mobile. Chaque appareil a ses propres avantages et probl\u00e8mes. Exp\u00e9rimentez le pour comprendre comment obtenir les meilleurs r\u00e9sultats.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "# Son\nSans un bon son vos images ne disent que la moiti\u00e9 de l'histoire. Am\u00e9liorer la qualit\u00e9 du son de votre vid\u00e9o est l'un des moyens les plus rapides pour am\u00e9liorer la qualit\u00e9 de votre vid\u00e9o.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "### Un son naturel", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "3.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Comment utiliser votre main pour am\u00e9liorer audio quant il y'a du vent.", 
+            "exampleMediaPath": "3.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Si il y'a du vent, le son ne sera pas audible. Pointez votre cam\u00e9ra l'abri du vent, ou de prot\u00e9ger votre micro. Prot\u00e9gez le micro avec votre main ou avec une carte de blocage du c\u00f4t\u00e9 du vent. Utilisation d'un brise-vent naturel tel qu'un mur est efficace dans certaines situations.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "### Les gens/les foules", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "4.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Exemple de comment enregistrer correctement un sujet dans une foule.", 
+            "exampleMediaPath": "4.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Les foules et rues peupl\u00e9es font beaucoup de bruit. Cela peut rendre inaudible votre son d\u00e9sir\u00e9. Ne pas filmer des entrevues avec de grandes foules dans le fond. Si vous ne pouvez pas aller \u00e0 un meilleur emplacement, pointez votre cam\u00e9ra loin de la foule et que votre sujet soit en face \u00e0 la foule.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "### Machines", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "5.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Exemple du bruit des machines pendant l'enregistrement d'une vid\u00e9o.", 
+            "exampleMediaPath": "5.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Les g\u00e9n\u00e9rateurs, les climatiseurs, les r\u00e9frig\u00e9rateurs, et les lumi\u00e8re fleurissantes sont tous des machines qui cr\u00e9ent des distractions par des sons durs. Fermez les machines si c'est possible, ou bien changer de place si vous le pouvez. La bruit des lumi\u00e8res fleurissantes est g\u00e9n\u00e9ralement in\u00e9vitable.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "### Acoustique", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "6.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Exemple de mauvaise \u00e9cho audio provoqu\u00e9e par un couloir.", 
+            "exampleMediaPath": "6.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Soyez conscient de l'acoustique de la pi\u00e8ce ou de la fa\u00e7on dont le son rebondit sur les murs. Des endroits comme salles de bains carrel\u00e9es ou couloirs ont tendance \u00e0 refl\u00e9ter son et feront un mal \u00e9cho. Les chambres avec des mat\u00e9riaux absorbants le son comme des tapis, des rideaux ou meubles rembourr\u00e9s sont beaucoup mieux.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "### \u00c9couteur comme des microphones", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "7.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Comment utiliser l'\u00e9couteur comme un microphone.", 
+            "exampleMediaPath": "7.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "Si votre portable fonctionne avec un casque avec un microphone pour les appels t\u00e9l\u00e9phoniques, vous pouvez \u00eatre de la chance. Le microphone de votre casque peut fonctionner comme un microphone  int\u00e9gr\u00e9 pendant le tournage vid\u00e9o. Testez cela avant que vous souhaitez utiliser, mais il peut \u00eatre un moyen efficace pour mieux capter audio pour des entrevues.\nSi cela ne fonctionne pas par d\u00e9faut, envisager de t\u00e9l\u00e9charger ouvrir l'appareil photo et la d\u00e9finir comme votre application de cam\u00e9ra par d\u00e9faut.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "text": "# Lumi\u00e8re", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_14"
+        }, 
+        {
+            "text": "### Filmer \u00e0 l'ext\u00e9rieur", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_15"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "8.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Properly lighting a subject.", 
+            "exampleMediaPath": "8.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "text": "&bull; Filmer \u00e0 l'ext\u00e9rieur pendant les heures de clart\u00e9 est la meilleure fa\u00e7on de garantir le succ\u00e8s. M\u00eame par temps couvert, il est un excellent endroit pour obtenir une bonne lumi\u00e8re.\n&bull; Filmez votre sujet avec la source de lumi\u00e8re directement sur lui. Lorsque la source de lumi\u00e8re est directement derri\u00e8re votre sujet, le sujet sera trop sombre et difficile \u00e0 voir. Cette technique peut \u00eatre utilis\u00e9e pour masquer l'identit\u00e9 d'un sujet en emp\u00eachant l'appareil de l'enregistrement leur visage.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_16"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "9.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Comment utiliser la lumi\u00e8re naturelle pour mieux \u00e9clairer un sujet. ", 
+            "exampleMediaPath": "9.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_7"
+        }, 
+        {
+            "text": "### Enregistrer \u00e0 l'int\u00e9rieur", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_17"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "10.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Obscuring a subject\u2019s face.", 
+            "exampleMediaPath": "10.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_8"
+        }, 
+        {
+            "text": "Si vous photographiez \u00e0 l'int\u00e9rieur, essayez de trouver une chambre avec beaucoup de soleil pour produire de bons r\u00e9sultats. Asseyez-vous avec votre dos face \u00e0 la fen\u00eatre et mettez votre interlocuteur en face de la source de lumi\u00e8re afin que le soleil \u00e9claire leur visage. Si vous les mettez avec le dos \u00e0 la fen\u00eatre et filmer dans la source de lumi\u00e8re, l'appareil photo prend sa lecture de l'image la plus lumineuse dans le cadre et fermer ses diaphragme afin de ne pas trop exposer la vue. Cela se traduira par votre interlocuteur devenir silhouett\u00e9 dans l'image, une bonne technique si vous voulez que votre identit\u00e9 des personnes interrog\u00e9es de rester un secret, mais pas si vous voulez qu'ils soient vus!", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_18"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "11.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Comment mettre en place un plan pour masquer le visage d'un sujet.", 
+            "exampleMediaPath": "11.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_9"
+        }, 
+        {
+            "text": "### Lumi\u00e8re rebondissante", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_19"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "12.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Comment utiliser un r\u00e9flecteur \u00e0 l'ext\u00e9rieur.", 
+            "exampleMediaPath": "12.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_10"
+        }, 
+        {
+            "text": "Vous pouvez utiliser ne importe quoi en blanc - papier, carton - ou tout ce qui refl\u00e8te la lumi\u00e8re pour rebondir la lumi\u00e8re en arri\u00e8re sur votre sujet. Basse lumi\u00e8re peut produire de mauvais plans. Filmer \u00e0 l'ext\u00e9rieur ou dans une pi\u00e8ce ensoleill\u00e9e peut vous donner une grande lumi\u00e8re.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_20"
+        }, 
+        {
+            "text": "!(13.png)\n#### \u00c9clairer un sujet \u00e0 l'int\u00e9rieur\nLumi\u00e8re d'une distance de 3 pieds -1 m\u00e8tre- sont plus favorables.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_21"
+        }, 
+        {
+            "text": "## A NE PAS OUBLIER\n### Son\n&bull; Le son doit toujours \u00eatre pris en consid\u00e9ration lors de l'enregistrement.\n&bull; Si votre son n'est pas utilisable, Il est possible de le remplacer par un autre son ou bien de l'enlever.\n&bull; Le son est la moiti\u00e9 de l'information dans une vid\u00e9o; prenez-le en consid\u00e9ration dans chaque plan.\n### Lumi\u00e8re\n&bull; Filmer \u00e0 l'ext\u00e9rieur ou dans une chambre ensoleill\u00e9e peut vous donner un tr\u00e8s bon \u00e9clairage.\n&bull; Une lumi\u00e8re faible peut produire des images de mauvaise qualit\u00e9.\n&bull; Assurez-vous que la lumi\u00e8re tombe sur vos sujets, Les sujets \u00e9clair\u00e9e par derri\u00e8re deviennent des silhouettes.\n&bull; La lumi\u00e8re d'une distance de 3 pieds -1 m\u00e8tre- est la meilleure pour rendre beaux vos sujets.\n&bull; Ne vous faites pas br\u00fbler -  Portez des gants pour quand vous travaillez des lumi\u00e8res.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_22"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Sans une bonne qualit\u00e9 de son, vos images", 
+            "choices": [
+                {
+                    "text": "sont mieux.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "racontent seulement la moiti\u00e9 de l'histoire", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "sont source de confusion.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "O\u00f9 pouvez-vous \u00eatre le plus susceptible d'avoir la meilleure lumi\u00e8re?", 
+            "choices": [
+                {
+                    "text": "\u00e0 l'int\u00e9rieur, pendant la journ\u00e9e.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "\u00e0 l'ext\u00e9rieur, pendant la journ\u00e9e.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "\u00e0 l'int\u00e9rieur, la nuit", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "\u00e0 l\u2019ext\u00e9rieur, la nuit.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Qu'est-ce que vous pouvez utiliser pour prot\u00e9ger  votre microphone?", 
+            "choices": [
+                {
+                    "text": "Votre main.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Une Carte", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Un brise-vent naturel, comme un mur.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Tout ce qui pr\u00e9c\u00e8de.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "O\u00f9 devrait \u00eatre la source de lumi\u00e8re lors du tournage?", 
+            "choices": [
+                {
+                    "text": "Directement sur le sujet.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "A c\u00f4t\u00e9 du sujet.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Nulle part pr\u00e8s du sujet.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Directement derri\u00e8re le sujet.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "getting_good_sound_and_light", 
+    "title": "Avoir un bon son et un bon \u00e9clairage"
+}

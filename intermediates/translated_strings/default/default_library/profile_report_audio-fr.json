@@ -1,0 +1,20 @@
+{
+    "profile_report_audio::clip_card_1::goals[0]": "Utiliser votre propre voix ou bien demander à votre personnage de se présenter.",
+    "profile_report_audio::clip_card_12::goals[0]": "Poser la question: Pouvez-vous, s'il vous plaît, nous parler de votre avenir?",
+    "profile_report_audio::clip_card_4::goals[0]": "Enregistrer un son pour votre personnage en train de finir une action.",
+    "profile_report_audio::clip_card_11::goals[0]": "Enregistrer un son de quelque chose importante au personnage",
+    "profile_report_audio::clip_card_10::goals[0]": "Enregistrer des sons de ce fait votre personnage pour le plaisir.",
+    "profile_report_audio::clip_card_0::goals[0]": "Enregistrer des sons d'une place importante pour votre personnage.",
+    "profile_report_audio::clip_card_9::goals[0]": "Enregistrer des sons de la façon dont les gens réagissent envers le personnage.",
+    "profile_report_audio::clip_card_13::goals[0]": "Nous dire  que pensez vous qui'il  va se passer pour le personnage après?",
+    "profile_report_audio::title": "Rapport sur un profile",
+    "profile_report_audio::clip_card_7::goals[0]": "Enregistrer des sons de la chose la plus importante à propos de l'histoire de votre personnage.",
+    "profile_report_audio::clip_card_8::goals[0]": "Enregistrer des sons de votre personnage en interaction avec des autres gens.",
+    "profile_report_audio::clip_card_14::goals[0]": "Enregistrer des son du lieu où votre personnage termine l'histoire.",
+    "profile_report_audio::clip_card_3::goals[0]": "Enregistrer des sons de quelque chose de valeur que votre personnage fait.",
+    "profile_report_audio::clip_card_6::goals[0]": "Poser la question: Pouvez -vous, s'il vous plait, nous parler un peu de ce que vous faites?",
+    "profile_report_audio::evaluation_card_0::text": "--------",
+    "profile_report_audio::clip_card_2::goals[0]": "Enregistrer un son de quelque chose remarquable à propos de votre personnage.",
+    "profile_report_audio::clip_card_15::goals[0]": "Enregistrer un son de votre personnage à la fin de l'histoire.",
+    "profile_report_audio::clip_card_5::goals[0]": "Nous dire pourquoi votre personnage est intéressant."
+}

@@ -1,0 +1,21 @@
+{
+    "event_report_video::clip_card_3::goals[0]": "Demander à une personne d'introduire l'événement.",
+    "event_report_video::clip_card_13::goals[0]": "Demander à quelqu'un participant à l'événement de parler de ce qu'ils ont fait.",
+    "event_report_video::clip_card_6::goals[0]": "Poser la question à quelqu'un qui fait partie de l'événement: Pourquoi cet événement est-il intéressant?",
+    "event_report_video::clip_card_8::goals[0]": "Demander à un expert de parler à propos de l'événement.",
+    "event_report_video::clip_card_15::goals[0]": "S'il s'agit d'un endroit différent, montrer où l'événement se termine.",
+    "event_report_video::clip_card_2::goals[0]": "Montrer quelque chose remarquable à propos l'événement.",
+    "event_report_video::title": "Rapport d'un événement",
+    "event_report_video::clip_card_10::goals[0]": "Montrer des gens en interaction lors de l'événement.",
+    "event_report_video::clip_card_14::goals[0]": "Montrer quelque chose dont le personnage en parle lors de l'événement.",
+    "event_report_video::clip_card_5::goals[0]": "Montrer quelque chose d'important à l'événement.",
+    "event_report_video::clip_card_11::goals[0]": "Poser la question: Qu'est-ce qui se passe à l'événement?",
+    "event_report_video::clip_card_16::goals[0]": "Montrer la fin de l'événement.",
+    "event_report_video::clip_card_1::goals[0]": "Montrer la préparation pour l'événement.",
+    "event_report_video::clip_card_4::goals[0]": "Montrer ce qui se passe à l'événement.",
+    "event_report_video::evaluation_card_0::text": "--------",
+    "event_report_video::clip_card_12::goals[0]": "Montrer le résultat de l'interaction des gens lors de l'événement.",
+    "event_report_video::clip_card_7::goals[0]": "Montrer une place importante à l'événement.",
+    "event_report_video::clip_card_0::goals[0]": "Montrer où se passe l'événement. ",
+    "event_report_video::clip_card_9::goals[0]": "Montrer quelque chose qui se passe lors de l'événement."
+}

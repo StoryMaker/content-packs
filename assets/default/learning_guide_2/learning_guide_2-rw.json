@@ -1,0 +1,438 @@
+{
+    "cards": [
+        {
+            "level": "Shingiro 2.", 
+            "headline": "Ongera ivyankenegwa ku nkuru yawe.", 
+            "time": null, 
+            "exampleMediaPath": "lg_002_01.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "## Mukugira inkuru ikwiye kandi isiguye neza bisaba kenshi amasanamu arenga atatu.uretse ko ushobora gukoresha amasanamu kenshi yuwo muntu kenshi ibikorwa n\u2019ingaruka, inkuru nyishi biraza kabiri karenga.\nIkibanza\nNimba umuntu azoba ari mubibanza vyinshi koresha amasanamu yaho hantu azoba ari hose kugira werekane iryo hindagurika ry\u2019ikibanza    \ninsiguro \nurashobora kwerekana ikintu nyamukuru c\u2019uwo muntu canke c\u2019inkuru yawe .amasanamu amasanamu asigura neza niyo shingiro y\u2019inkuru yawe.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "lg_002_02.mp4", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Watch how combining five clips tells a more detailed story about Marvin, the main character.", 
+            "header": "Ikarata yokurabirako amasanamu", 
+            "references": [
+                "learning_guide_1::medium_card::value::video"
+            ], 
+            "exampleMediaPath": "lg_002_02.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "lg_002_03.mp3", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Listen how combining five clips tells a more detailed story about Marvin, the main character.", 
+            "header": "Uduce tw\u2019amajwi.", 
+            "references": [
+                "learning_guide_1::medium_card::value::audio"
+            ], 
+            "exampleMediaPath": "lg_002_03.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "lg_002_04.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "lg_002_05.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "lg_002_06.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "lg_002_07.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "lg_002_08.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "See how combining five clips tells a more detailed story about Marvin, the main character.", 
+            "header": "Ikarata yokurabirako amafoto", 
+            "references": [
+                "learning_guide_1::medium_card::value::photo"
+            ], 
+            "exampleMediaPath": "lg_002_04.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Ongerako ku nkuru yanje.", 
+            "header": "Igikurikira", 
+            "references": [
+                "learning_guide_1::medium_card::value"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_add_to_my_story", 
+            "icon": "down"
+        }, 
+        {
+            "text": "Aha ni ya masanamu atatu mwakoze mu cigwa ca mbere. Ishingiro 1", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:40", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_video_0::clips", 
+                "learning_guide_1::medium_card::value::video"
+            ], 
+            "goals": [
+                "Saba umuntu akubwire inkuru."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_video_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:40", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_audio_0::clips", 
+                "learning_guide_1::medium_card::value::audio"
+            ], 
+            "goals": [
+                "Saba umuntu akubwire inkuru."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_audio_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_photo_0::clips", 
+                "learning_guide_1::medium_card::value::photo"
+            ], 
+            "goals": [
+                "Shikiriza uwo muntu w\u2019inkuru yawe."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_photo_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:08", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_video_1::clips", 
+                "learning_guide_1::medium_card::value::video"
+            ], 
+            "goals": [
+                "Erekana uwo muntu ariko akora igikorwa kijanye n\u2019iyo nkuru."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_video_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_audio_1::clips", 
+                "learning_guide_1::medium_card::value::audio"
+            ], 
+            "goals": [
+                "Fata ijwi uwo muntu ariko akora igikorwa kijanye n\u2019inkuru."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_audio_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_photo_1::clips", 
+                "learning_guide_1::medium_card::value::photo"
+            ], 
+            "goals": [
+                "Fata umuntu ariko akora igikorwa kijanye n\u2019inkuru yawe."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_photo_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_photo_1::clips", 
+                "learning_guide_1::medium_card::value::video"
+            ], 
+            "goals": [
+                "Erekana ingaruka y\u2019ico uwo muntu akoze."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_video_2"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:15", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_audio_2::clips", 
+                "learning_guide_1::medium_card::value::audio"
+            ], 
+            "goals": [
+                "Fata ijwi y\u2019ingaruka y\u2019igikorwa c\u2019uwo muntu."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_audio_2"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_photo_2::clips", 
+                "learning_guide_1::medium_card::value::photo"
+            ], 
+            "goals": [
+                "Erekana ingaruka y\u2019ico uwo muntu akoze."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_photo_2"
+        }, 
+        {
+            "text": "Nivyiza. Ubu rero twongereko amasanamu mugukomeza inkuru yuwo muntu hamwe n\u2019uduce twamasanamu wongereko igikorwa hamwe n\u2019ingaruka.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "Gukora inkuru mwiyumviriye mu cigwa ca mbere.shingiro 1.fata amasanamu abiri akurikira hama musubiremwo inkuru yose.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ], 
+            "goals": [
+                "Twereke ikintu gihambaye kuwo muntu."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_video_3"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ], 
+            "goals": [
+                "Fata amajwi y\u2019ikintu gihambaye kuri wa muntu wawe."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_audio_3"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ], 
+            "goals": [
+                "Twereke ikintu gihambaye kuwo muntu."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_photo_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:08", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ], 
+            "goals": [
+                "Twereke aho inkuru yabereye."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_video_4"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ], 
+            "goals": [
+                "Fata amajwi y\u2019impande yaho inkuru iriko irabera."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_audio_4"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ], 
+            "goals": [
+                "Twereke aho inkuru yawe yabereye."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_photo_4"
+        }, 
+        {
+            "text": "Shira amasanamu yawe murukurikirane.", 
+            "header": "Igikurikira", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_next_order_your_clips", 
+            "icon": "down"
+        }, 
+        {
+            "text": "Shira murutonde amasanamu yawe mugushikiriza inkuru yawe wongeyeko n\u2019insiguro zirengako.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "learning_guide_2::milestone_order_your_clips::value::true"
+            ]
+        }, 
+        {
+            "references": [
+                "learning_guide_2::clip_video_0::value", 
+                "learning_guide_2::clip_video_1::value", 
+                "learning_guide_2::clip_video_2::value", 
+                "learning_guide_2::clip_video_3::value", 
+                "learning_guide_2::clip_video_4::value", 
+                "learning_guide_2::milestone_next_order_your_clips::value::true"
+            ], 
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "references": [
+                "learning_guide_2::clip_audio_0::value", 
+                "learning_guide_2::clip_audio_1::value", 
+                "learning_guide_2::clip_audio_2::value", 
+                "learning_guide_2::clip_audio_3::value", 
+                "learning_guide_2::clip_audio_4::value", 
+                "learning_guide_2::milestone_next_order_your_clips::value::true"
+            ], 
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_1"
+        }, 
+        {
+            "references": [
+                "learning_guide_2::clip_photo_0::value", 
+                "learning_guide_2::clip_photo_1::value", 
+                "learning_guide_2::clip_photo_2::value", 
+                "learning_guide_2::clip_photo_3::value", 
+                "learning_guide_2::clip_photo_4::value", 
+                "learning_guide_2::milestone_next_order_your_clips::value::true"
+            ], 
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_2"
+        }, 
+        {
+            "header": "Igikurikira", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "milestone_finish", 
+            "text": "Biraheze."
+        }, 
+        {
+            "text": "Mbega urukurikirane rwamasanamu yawe mashasha ruravuga inkuru isorongoye.", 
+            "type": "SelfEvalCard", 
+            "id": "selfeval_card_0", 
+            "checklist": [
+                "Thumbs Up", 
+                "Thumbs Down"
+            ]
+        }, 
+        {
+            "text": "## Akazi keza.\nStory Makerifise ivyigwa vyinshi bibafasha kwiga neza cane kubijanye niyo nzira.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Ibikurikira :vuga inkuru hamwe n\u2019ikibazo rusangi.", 
+            "header": "Igikurikira", 
+            "link": "learning_guide_3::intro_card_0", 
+            "references": [
+                "learning_guide_2::selfeval_card_0::value_0::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_card_0"
+        }
+    ], 
+    "storyPathLibraryFile": "learning_guide_2_library.json", 
+    "classPackage": "scal.io.liger.model", 
+    "id": "learning_guide_2", 
+    "title": "Ongera ivyankenegwa ku nkuru yawe."
+}

@@ -1,0 +1,150 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Organiser votre tournage", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Dans cette le\u00e7on, vous allez apprendre:\n&bull; Comment tourner votre vid\u00e9o effectivement.\n&bull; Comment cr\u00e9er une liste de plan.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "C'est rare d'\u00e9diter une vid\u00e9o avec une autre dans le m\u00eame ordre dans lequel qu'elle a \u00e9t\u00e9 enregistr\u00e9. Pour utiliser efficacement le temps et vous tenir organis\u00e9s, pr\u00e9parez un plan clair avant de commencer l'enregistrement de votre histoire. Une liste de toutes les photos que vous voulez afin d'assembler votre histoire est une excellente fa\u00e7on d'organiser ce plan\n!(2.png)\nPensez \u00e0 la liste des plans est comme le fait de penser \u00e0 une liste d'\u00e9picerie quand vous allez au march\u00e9.\nIl est tr\u00e8s utile d'\u00e9crire votre histoire en texte brut. Imaginez tous les diff\u00e9rents sujets, quelles actions auront lieu, et tous les autres \u00e9l\u00e9ments que vous jugez importants pour enregistrer \u00e0 fin de montrer votre histoire compl\u00e8te. Il est important d'\u00eatre aussi pr\u00e9cis que possible.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## \u00c9crivez-le\nUne fois que vous avez tous vos \u00e9l\u00e9ments de l'histoire, vous pouvez commencer \u00e0 imaginer les diff\u00e9rents\u00a0 plans , vous devez enregistrer. C'est un bon temps pour examiner les cinq plans de base. Pensez \u00e0 ce que chacun d'entre eux fonctionne bien, et comment vous pouvez les utiliser pour encadrer les diff\u00e9rents \u00e9l\u00e9ments de l'histoire.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "### Liste des Plan\n!(3.png)\nAvec un morceau de papier, cr\u00e9er une liste de trois colonnes. La premi\u00e8re colonne doit \u00eatre \"type de plan ,\" le second devrait \u00eatre \"description\", et la troisi\u00e8me devrait \u00eatre \"\u00e9l\u00e9ments de l'histoire.\"", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "### Remplissez les d\u00e9tails\n!(4.png)\nRemplissez tous les plans que vous pensez avoir besoin. Soyez pr\u00e9cis, et n'h\u00e9sitez pas \u00e0 \u00e9crire beaucoup de plans. C'est un guide pour vous aider \u00e0 se concentrer quand vous enregistrez.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "Pour chaque plan, listez du types de vue sp\u00e9cifiques que vous pensez qui'ils fonctionneront le mieux. Remplissez autant la description que vous le pouvez, et d\u00e9cidez quels \u00e9l\u00e9ments de l'histoire vous avez besoin dans ce cadre . Soyez aussi pr\u00e9cis que possible avec toutes ces informations. Lorsque vous enregistrez, vous allez \u00eatre distraits par une autre activit\u00e9. Planifiez autant que possible avant de commencer.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "\u00c9crivez toutes ces informations comme si vous n'\u00eates pas la personne qui va filmer. Si quelqu'un d'autre avec vous peut comprendre les photos que vous voulez, vous savez que vous avez une bonne liste de des plans.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "StoryMaker se rapproche de l'objectif de cr\u00e9er une liste en fournissant des clips sugg\u00e9r\u00e9s bas\u00e9s sur des choix que vous ferez sur le crochet de l'\u00e9cran histoire. Les clips sugg\u00e9r\u00e9s sont d\u00e9finies \u00e0 partir des sujets et des formats utilis\u00e9s dans les reportages vid\u00e9o communs.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "StoryMaker ne peut fournir que des clips sugg\u00e9r\u00e9es et les \u00e9l\u00e9ments de l'histoire. Envisagez de cr\u00e9er votre propre liste sur un bloc-notes ou dans une application mobile de prise de notes pour vous assurer d'examiner toutes les options possibles pour votre histoire unique.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "Comme vous avez de plus en plus exerc\u00e9 la production des histoires, Les listes des plans seront plus faciles \u00e0 d\u00e9velopper.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## A NE PAS OUBLIER\n&bull; Listes de plans sont comme carnet d'artiste ; vous gardez vos id\u00e9es \u00e0 eux, mais lorsque vous photographiez ils changent souvent\n&bull; Ne vous coincez pas en faisant vos descriptions parfaites.\n&bull; Plus d'id\u00e9es sont souvent mieux que les id\u00e9es moins pour une liste de plan ; vous ne pourriez pas \u00eatre en mesure d'obtenir tous les plans sur votre liste.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "En quoi  est faite une liste de plan?", 
+            "choices": [
+                {
+                    "text": "M\u00e9t\u00e9o", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "type de Plan", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Description", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Les \u00e9l\u00e9ments d'une histoires.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2", 
+                "answer_3", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "En \u00e9crivant une liste de plan, je dois \u00eatre?", 
+            "choices": [
+                {
+                    "text": "Aussi pr\u00e9cis que possible.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Aussi vague que possible.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Confus", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Pas clair.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Vrai ou faux : Il est utile d'\u00e9crire votre histoire en texte brut?", 
+            "choices": [
+                {
+                    "text": "Vrai", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Faux", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "organizing_your_shoot", 
+    "title": "Organiser votre tournage"
+}

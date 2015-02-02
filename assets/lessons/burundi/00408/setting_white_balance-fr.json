@@ -1,0 +1,176 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Certaines de mes photos sont trop jaune. Certains sont trop bleu. Quel est le probl\u00e8me et qu'est ce que je peux faire \u00e0 ce sujet?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Dans cette le\u00e7on vous allez apprendre: \n&bull; Ce que signifie la balance du Banc.\n&bull; Comment ajuster la couleur avec la balance du blanc.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Vos yeux, en combinaison avec votre cerveau, font un excellent travail d'\u00e9talonnage comment vous percevez couleur. Vous reconna\u00eetrez une couleur comme le rouge, m\u00eame si la source lumineuse \u00e9clairant il est tr\u00e8s jaune, rendant la couleur apparente orange. Vous reconna\u00eetrez tons de chair, m\u00eame si la lumi\u00e8re \u00e9clairant le sujet est une lampe fluorescente bleu-vert.\nUn appareil photo num\u00e9rique ne peut pas faire cela. Il doit \u00eatre calibr\u00e9 pour ajuster la temp\u00e9rature de couleur diff\u00e9rentes sources de lumi\u00e8re. Cet \u00e9talonnage est mesur\u00e9e contre le blanc absolu. Ce est pourquoi il est appel\u00e9 la balance des blancs.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "!(2.png)\n### Un exemple d'un objet \u00e9clair\u00e9 par une ampoule en tungst\u00e8ne\nLes ampoules en tungst\u00e8ne ont une temp\u00e9rature lumi\u00e8re tr\u00e8s chaude avec une couleur des images plus jaune.\n!(3.png)\n### Un exemple d'un sujet \u00e0 l'ext\u00e9rieur pendant une journ\u00e9e nuageuse\nLa lumi\u00e8re du jour sur un ciel couvert, journ\u00e9e nuageuse a une temp\u00e9rature de lumi\u00e8re tr\u00e8s cool, colorant l'image en bleu.\n!(4.jpg)\nAutres sources de lumi\u00e8re - la lumi\u00e8re du soleil, la lumi\u00e8re fluorescente, l'ombre - tombent tous dans le milieu. La temp\u00e9rature de couleur n'a rien \u00e0 voir avec la quantit\u00e9 de lumi\u00e8re.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Good color management is important. It makes an image much more professional in appearance. Many smartphones provide a variety of presets for white balance.  \n!(5.png)  \n## Sample icons for the common white balance options  \nIf your mobile device allows you to set the white balance manually, do it. Your smartphone may have a button or menu option for white balance. It will offer several icons representing five or six common light sources. Pick the one that best represents the shooting conditions you are working under.  \nIf your smartphone cannot control white balance manually, you can correct color with post-production apps (for more on this, see the section on post-production). If the color temperature is way off, it is VERY IMPORTANT to make adjustments before publishing your images.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "!(6.png)  \n## AWB (auto white balance)  \nUse this setting for shooting anywhere. The mobile device does its best to guess what the right setting should be, but it can provide poor results if the camera guesses wrong. This is the setting you should use if you\u2019re unsure of which setting is the best choice.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "!(7.png)\n## Lumi\u00e8re du Jour\nUtiliser ce r\u00e8glage pour photographier \u00e0 l'ext\u00e9rieur. \u00e7a va donner \u00e0 vos images une l\u00e8g\u00e9re teinte en bleu. En photographiant \u00e0 l'int\u00e9rieur, ce r\u00e9glage va ajouter \u00e0 vos images une teinte orange.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "!(8.png)\n## Nuageux\nUtilisez ce r\u00e9glage pour photographier \u00e0 l'ext\u00e9rieur. Ce r\u00e9glage donnera \u00e0 vos images une couleur l\u00e9g\u00e8rement plus \"chaude\". Bien que l'option de la lumi\u00e8re du jour est techniquement la balance des blancs la plus correcte, en utilisant le r\u00e9glage nuageux \u00e7a cr\u00e9e une image tr\u00e8s attrayante. Lorsque vous photographiez \u00e0 l'int\u00e9rieur, ce param\u00e8tre donnera \u00e0 vos images une teinte orange forte.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "!(9.png)\n## Lumineux\nUtilisez ce r\u00e9glage pour filmer \u00e0 l'int\u00e9rieur, o\u00f9 la chambre est \u00e9clair\u00e9e par des ampoules traditionnelles l\u00e9g\u00e8res. Lorsque vous photographiez \u00e0 l'ext\u00e9rieur, ce param\u00e8tre donnera \u00e0 vos images une forte teinte bleue.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "!(10.png)\n## Fluorescent \nUtilisez ce param\u00e8tre pour prendre des photos \u00e0 l'int\u00e9rieur, o\u00f9 la salle est \u00e9clair\u00e9e par des longues tubes fluorescentes. Lorsque vous photographiez \u00e0 l'ext\u00e9rieur, ce param\u00e8tre donnera \u00e0 vos images une teinte bleue.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## A NE PAS OUBLIER\n&bull; Vous devez g\u00e9rer la balance du blanc pour des meilleures r\u00e9sultats.\n&bull; Ajustez votre balance de blanc si vous changer d'une situation d'\u00e9clairage \u00e0 une autre.\n&bull; c'est mieux d'utiliser la balance du blanc manuelle, mais la balance automatique du blanc est acceptable.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Qui d\u00e9crit le mieux ce que signifie la balance des blancs?", 
+            "choices": [
+                {
+                    "text": "La quantit\u00e9 de lumi\u00e8re qui frappe le capteur.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "La temp\u00e9rature de couleur de la lumi\u00e8re frappant le capteur, allant de tr\u00e8s chaud (jaune) au froid (bleu).", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "La couleur du texte de la l\u00e9gende.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Aucune de ces r\u00e9ponses.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Vrai ou Faux: Une fois possible, vous devriez toujours ajuster la balance des blancs dans l'appareil ou pendant post-production.", 
+            "choices": [
+                {
+                    "text": "Vrai", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Faux", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "Comment pouvez-vous contr\u00f4ler la balance des blancs avec votre smartphone Android ou appareil photo? (Il peut y avoir plus d'une)", 
+            "choices": [
+                {
+                    "text": "R\u00e9glez manuellement la balance des blancs sur l'ic\u00f4ne qui repr\u00e9sente le mieux les couleurs claires conditions dans lesquelles vous photographiez.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "C'est une bonne id\u00e9e de calibrer avec un morceau de papier blanc comme le font les vid\u00e9o journalistes. ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Ajustez la balance du blanc en post-production.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Tout ce qui pr\u00e9c\u00e8de.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "text": "(11.jpg)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Comment pourriez-vous corriger la balance des blancs dans l'image ci-dessus?", 
+            "choices": [
+                {
+                    "text": "Modifiez l'option de balance des blancs \u00e0 \u00abfluorescent\u00bb lors de la prise.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "R\u00e9glez l'exposition.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "R\u00e9glez la temp\u00e9rature de la lumi\u00e8re dans la post-production en ajoutant jaune.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Tout ce qui pr\u00e9c\u00e8de.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "setting_white_balance", 
+    "title": "R\u00e9glage de la balance du blanc"
+}

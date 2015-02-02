@@ -1,0 +1,94 @@
+{
+    "cards": [
+        {
+            "text": "Tora akarorero canke umuntu wakarorero abantu bakurikirana iyo nkuru bomenya.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Gufotora ibintu bitandukanye vyerekana iyo ngorane."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Gusubira gukoresha uburyo bw\u2019ifoto yambere mugabo hariko uwundi."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Gusubira gukoresha uburyo bw\u2019ifoto yambere mugabo hariko uwundi."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "series", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Gusubira gukoresha uburyo bw\u2019ifoto yambere mugabo hariko uwundi."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Gusubira gukoresha uburyo bw\u2019ifoto yambere mugabo hariko uwundi."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "edit", 
+                "photo", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "--------", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "issue_series_photo_signature", 
+    "title": "Urukurikirane rw'inkuru kuriyo ingorane-insiguro."
+}

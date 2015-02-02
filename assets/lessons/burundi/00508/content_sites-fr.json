@@ -1,0 +1,196 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Quels sont les avantages des diff\u00e9rents sites de contenu disponibles?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Dans cette le\u00e7on vous allez apprendre:\n&bull; Comprendre la diff\u00e9rence entre les plateformes commerciales et non-commerciales.\n&bull; Comment choisir la meilleure plateforme pour votre vid\u00e9o.\n&bull; La distinction entre quelques plateformes d'h\u00e9bergement des vid\u00e9os.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "!(2.png)\nLes plateformes de distribution varient dans leur nature, leurs sp\u00e9cifications et leurs exigences. Il est important de garder vos options \u00e0 l'esprit lorsque vous d\u00e9cidez o\u00f9 vous souhaitez mettre votre vid\u00e9o pour le plus d'impact.\nDe nouveaux sites sont lanc\u00e9s et d'autres disparaissent en permanence, cette information est seulement un guide pour vous aider \u00e0 aller.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Il y'a des centaines de sites commerciaux qui vous permettent de publier votre vid\u00e9o en ligne. L'un des principaux inconv\u00e9nients de nombreuses plates-formes commerciales c'est que les annonces sont plac\u00e9es \u00e0 c\u00f4t\u00e9 de votre vid\u00e9o. Beaucoup de ces sites fonctionnent comme des r\u00e9seaux sociaux en ligne.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "!(3.png)\nIl y'a un certain nombre d'espaces \u00e0 but non lucratif de partage de vid\u00e9os ax\u00e9es sur la justice sociale, l'environnement ou les questions relatives aux droits de l'homme.\nSoyez conscient des questions de s\u00e9curit\u00e9 non seulement pour vous, mais pour n'importe qui dans vos vid\u00e9os lorsque vous les publiez. Une fois que vous postez un fichier en ligne, vous ne pouvez jamais \u00eatre s\u00fbr que vous serez en mesure de le retirer. Si votre contenu est risqu\u00e9e, il est pr\u00e9f\u00e9rable d'attendre un moment o\u00f9 il est plus s\u00fbr.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "# Sites commerciaux", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "!(4.png)\n### YouTube\nYouTube est le plus grand site de partage vid\u00e9o dans le monde. C'est un moyen fantastique pour atteindre un large public. Assurez vous d'avoir une campagne de promotion pour diriger les gens \u00e0 regarder votre vid\u00e9o. Il ya tellement de vid\u00e9os sur YouTube, il peut \u00eatre plus difficile \u00e0 atteindre et captiver un auditoire que dans les autres espaces. En outre, il peut \u00eatre difficile de relier les gens vers votre site, et YouTube a utilis\u00e9 ses modalit\u00e9s de service pour supprimer des vid\u00e9os de campagne. Dans certains pays, YouTube est bloqu\u00e9.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "!(5.png)\n### Vimeo\nVimeo a une interface utilisateur lisse et fait un excellent travail de Streaming vid\u00e9o de qualit\u00e9 sup\u00e9rieure. Cependant, il est loin en termes de la fa\u00e7on dont les vid\u00e9os peuvent \u00eatre export\u00e9s et affich\u00e9s sur les agr\u00e9gateurs de sites ext\u00e9rieurs, et de la recherche", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "!(6.png)\n## Facebook\nSi vous ex\u00e9cutez d\u00e9j\u00e0 une campagne en utilisant Facebook, alors le partage de vid\u00e9os sur le site peut \u00eatre tr\u00e8s puissant. Les vid\u00e9os que vous postez sur Facebook sont, toutefois, largement limit\u00e9 la disponibilit\u00e9 des groupes ou des campagnes \u00e0 qui vous \u00eates connect\u00e9 sur le site.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "!(7.png)\n### LiveLeak\nLiveLeak est un site parfois controvers\u00e9 qui met l'accent sur l'actualit\u00e9, la politique, et des images bas\u00e9e sur la r\u00e9alit\u00e9 comme des sc\u00e8nes de guerre provenant de diverses parties du monde.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "# Sites non-commerciaux", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "!(8.png)\n### L'archive Internet\nArchive.org contient des milliers de films num\u00e9riques allant de classiques longs m\u00e9trages \u00e0 des \u00e9missions d'actualit\u00e9s quotidiennes alternatives vers des vid\u00e9os de tous les genres Charg\u00e9 par les utilisateurs d'archive.org . Tous ces films sont disponibles en t\u00e9l\u00e9chargement, souvent en haute r\u00e9solution, et sont sous licence libre, il est \u00e9galement un excellent endroit pour trouver des vid\u00e9os pour une utilisation dans la production.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "!(9.png)\n### EngageMedia\nEngageMedia est un collectif but non lucratif fournissant des outils m\u00e9diatiques pour les activistes, les communaut\u00e9s, et des journalistes citoyens. Vous pouvez t\u00e9l\u00e9charger et regarder des vid\u00e9os sur la justice sociale et les questions environnementales. Leur accent est mis sur la r\u00e9gion Asie-Pacifique, mais une vid\u00e9o venant \u00e0 partir d'autres endroits est la bienvenue. EngageMedia vise \u00e0 cr\u00e9er une archive en ligne de productions vid\u00e9o ind\u00e9pendants utilisant licences de contenu ouverts et de former un r\u00e9seau de pairs des vid\u00e9astes, des \u00e9ducateurs, et les organisations de d\u00e9pistage. Les mat\u00e9riaux sont principalement en anglais, avec quelques langues asiatiques.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "!(10.png)\n### Autres sites utiles\n&bull; uStream / Livestream \u2014 un service de streaming en ligne\n&bull; Transmission cc \u2014 un r\u00e9seau international des projets vid\u00e9o en ligne de justice sociale\n&bull; Clearer Channel  \u2014 un projet de vid\u00e9o en ligne qui encourage les t\u00e9l\u00e9spectateurs \u00e0 t\u00e9l\u00e9charger et transmettre la vid\u00e9o pour le changement social\n&bull; IMC video \u2014 M\u00e9dia international ind\u00e9pendante\n&bull; dotSUB \u2014 Un site qui permet aux utilisateurs de traduire vos vid\u00e9os en diff\u00e9rentes langues en utilisant des sous-titres\n&bull; Amara  \u2014  Un site qui permet aux utilisateurs de sous-titrer des vid\u00e9os en ligne h\u00e9berg\u00e9s dans des diff\u00e9rents endroits.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "Quels sont certains des probl\u00e8mes avec YouTube? (Il peut y avoir plus d'une r\u00e9ponse.)", 
+            "choices": [
+                {
+                    "text": "Il peut-\u00eatre difficile de cr\u00e9er un lien entre les gens et votre site.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Il a utilis\u00e9 ses modalit\u00e9s de service pour supprimer des vid\u00e9os.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Dans certaines zones YouTube est bloqu\u00e9.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Aucune de ces r\u00e9ponses.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Les vid\u00e9os sur Facebook sont:", 
+            "choices": [
+                {
+                    "text": "Non regard\u00e9 par aucune personne.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Montr\u00e9 seulement \u00e0 votre famille.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Limit\u00e9 dans la disponibilit\u00e9 des groupes ou des campagnes que vous \u00eates connect\u00e9 sur le site.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "va \u00eatre aim\u00e9 beaucoup.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Quel site offre son contenu \u00e0 t\u00e9l\u00e9charger gratuitement, souvent en tr\u00e8s haute r\u00e9solution, et sous licence libre?", 
+            "choices": [
+                {
+                    "text": "Facebook", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Vimeo", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "YouTube", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Archive.org", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "Quel est le / les sites qui vous permet de traduire vos vid\u00e9os dans diff\u00e9rentes langues en utilisant des sous-titres?", 
+            "choices": [
+                {
+                    "text": "DotSUB", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Amara", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Vimeo", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Transmission CC", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "content_sites", 
+    "title": "Sites de Contenu"
+}

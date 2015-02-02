@@ -1,0 +1,176 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Comment puis-je apprendre \u00e0 raconter mon histoire avec professionnalisme et \u00e9thique?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Dans cette le\u00e7on vous allez apprendre:\n&bull; Comment appliquer l'\u00e9thique de vos histoires\n&bull; Comment raconter des histoires bas\u00e9es sur des faits et non des opinions\n&bull; Comment raconter des histoires qui sont \u00e9quilibr\u00e9s et responsables \u00e0 votre public", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "2.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Comment puis-je apprendre \u00e0 raconter mon histoire avec professionnalisme et \u00e9thique?", 
+            "exampleMediaPath": "2.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "De nombreux organismes de presse publient un ensemble de lignes directrices professionnelles et \u00e9thiques, appel\u00e9 un code de d\u00e9ontologie, pour leur personnel. Parfois, associations de journalistes ou des organisations professionnelles font la m\u00eame chose. Le journaliste mobiles ind\u00e9pendant ne peut avoir le m\u00eame soutien institutionnel, mais vous devriez toujours maintenir les normes professionnelles et \u00e9thiques les plus \u00e9lev\u00e9es. Peu importe \u00e0 quel point vous vous sentez sur un sujet ou une injustice, votre opinion ne devrait pas \u00eatre votre histoire. Signaler les faits et laisser le jugement de l'audience pour eux-m\u00eames. Vous serez un journaliste plus mieux avec le r\u00e9sultat.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "# 10 normes professionnelles et d\u00e9ontologiques pour les journalistes", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "## Fond\u00e9e sur les faits\nLe bon journalisme est bas\u00e9 sur des faits v\u00e9rifiables recueillies par le biais de bons rapports, pas par ou\u00ef-dire, l'opinion, ou la sp\u00e9culation. Peu importe \u00e0 quel point vous vous sentez sur une histoire, que les faits parlent d'eux-m\u00eames et font confiance \u00e0 la capacit\u00e9 du public de tirer ses propres conclusions.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "##Citoyen de base\nEn tant que journaliste, vous \u00eates un gardien de l'int\u00e9r\u00eat public, pas un porte-parole des int\u00e9r\u00eats politiques ou commerciaux. Votre couverture doit \u00eatre apolitique et sur des questions importantes pour la vie des gens ordinaires. La pr\u00e9sentation de l'information dans votre rapport doit \u00eatre clair et facile \u00e0 lire.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "## \u00c9quilibre\nLes meilleurs journalistes cherchent \u00e0 repr\u00e9senter toutes les parties concern\u00e9es d'un probl\u00e8me, et pas seulement celle qui refl\u00e8te leurs points de vue. Les journalistes doivent interroger les meilleures sources pour repr\u00e9senter une vari\u00e9t\u00e9 de points de vue \u00e9clair\u00e9s. Les sources doivent toujours avoir la possibilit\u00e9 de r\u00e9pondre aux critiques et all\u00e9gations d'actes r\u00e9pr\u00e9hensibles. Cela peut signifier soit des personnes ou des points de vue avec lesquels vous n'\u00eates pas d'accord fortement. Tout cela fait partie de bon journalisme.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "##\u00c9quitable\nSoyez honn\u00eate avec vous-m\u00eame vos propres valeurs culturelles, et ne leur permettez pas de juger votre d\u00e9claration sur les autres. \u00c9viter les st\u00e9r\u00e9otypes par la race, la religion, l'origine ethnique, le sexe, l'\u00e2ge, l'orientation sexuelle, l'occupation, les capacit\u00e9s physiques ou mentales, l'apparence physique ou le statut social.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## Pr\u00e9cis\nLes faits et les d\u00e9tails d'une histoire doivent \u00eatre confirm\u00e9es comme exactes au meilleur de votre capacit\u00e9. Jamais fabriquer l'information. Ne jamais d\u00e9former les faits pour qu'ils soutiennent votre histoire ou opinion. Ne jamais omettre l'information importante, car elle ne supporte pas votre histoire ou opinion. Ne jamais manipuler une citation ou l'utiliser hors de son contexte.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## Pertinent\nLe journalisme doit \u00eatre de valeur imm\u00e9diate pour le public. Si vos histoires ne sont pas d'int\u00e9r\u00eat imm\u00e9diat \u00e0 la vie des gens, vous les perdrez en tant que lecteurs. Tout aussi important est de savoir si ou non la couverture du sujet peut donner lieu \u00e0 une plus grande connaissance et une discussion sur un probl\u00e8me social important et peut-\u00eatre changement significatif \u00e0 l'ordre public.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "##Opportun\nVotre couverture doit \u00eatre rapide. Une couverture qui est en temps opportun est plus pr\u00e9cieuse pour votre auditoire dans leur vie quotidienne et plus susceptibles de changer la politique du public li\u00e9. Il est important de tirer des nouvelles rapidement. Des nouvelles qui sonten retard ne sont pas nouvelles du tout.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## Ind\u00e9pendant\nLes journalistes ne doivent pas \u00eatre affili\u00e9s \u00e0 un parti politique sp\u00e9cifique, agenda, ou un groupe d'int\u00e9r\u00eat. Vous ne devriez jamais rapporter - ou pas signaler -  une question particuli\u00e8re parce que vous avez \u00e9t\u00e9 pay\u00e9 ou donn\u00e9 des dons par des organisations ou des individus. Toujours \u00eatre au courant des motivations des sources de votre couverture. \u00c9viter les conflits d'int\u00e9r\u00eats, r\u00e9el ou per\u00e7u. \u00c9vitez l'appartenance \u00e0 des organisations ou assister \u00e0 des \u00e9v\u00e9nements dans votre vie personnelle qui peuvent compromettre votre int\u00e9grit\u00e9.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "## Transparent\nLes journalistes doivent \u00eatre ouverts sur leurs techniques de couverture, les sources et les int\u00e9r\u00eats li\u00e9s \u00e0 leurs histoires. Divulguer les conflits potentiels d'int\u00e9r\u00eats in\u00e9vitables. Ne prenez jamais de renseignements provenant d'autres organismes de presse sans l'attribuer. Admettre ses erreurs ou limitations \u00e0 votre couverture. Clarifier les conditions attach\u00e9es \u00e0 toute promesse que vous avez faite en \u00e9change d'informations. \u00c9vitez m\u00e9thodes clandestines de collecte d'informations sauf si des m\u00e9thodes plus ouvertes ne seront pas produire de l'information importante au public. Encourager le d\u00e9bat public au sujet de votre couverture.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "## limiter les pertes\nVous devez toujours \u00eatre sensible \u00e0 l'impact que reportage aura sur ceux qui sont couverts. Soyez sensible lors de la recherche ou au moyen d'entrevues ou de contenu visuel des personnes touch\u00e9es par la trag\u00e9die ou la douleur, en particulier aupr\u00e8s des enfants et des personnes inexp\u00e9riment\u00e9es avec les m\u00e9dias. Les personnes priv\u00e9es ont davantage le droit \u00e0 la vie priv\u00e9e plus que les officiers publics et les autres qui cherchent le pouvoir, l'influence ou de l'attention. Seulement un besoin public majeur peut justifier l'intrusion dans la vie priv\u00e9e de quiconque. Les personnes accus\u00e9es, mais pas jug\u00e9 pour des crimes ou des actes r\u00e9pr\u00e9hensibles devraient pas \u00eatre jug\u00e9s dans les m\u00e9dias.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "text": "## A NE PAS OUBLIER\n&bull; \u00c9vitez le d\u00e9sir d'injecter vos propres opinions si les faits dans votre rapport ne prend pas en charge.\n&bull; Repr\u00e9sentez tous les aspects d'une question, peu importe combien vous pouvez \u00eatre en d\u00e9saccord avec l'un ou plusieurs d'entre eux.\n&bull; Essayez de fournir des informations d'une importance imm\u00e9diate \u00e0 votre communaut\u00e9.\n&bull; \u00catre aussi ind\u00e9pendant que possible dans votre reportage.\n&bull; \u00catre transparent \u00e0 propos de vos sources et votre relation \u00e0 l'histoire.\n&bull; Ne pas mettre des gens au risque \u00e0 travers votre reportage.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Lequel des ce qui suit est un exemple du journalisme \u00e9thique?", 
+            "choices": [
+                {
+                    "text": "Pr\u00e9coniser dans votre rapport pour un parti politique de l'opposition qui est nettement mieux que le gouvernement actuel,  publiquement corrompu.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Pr\u00e9tend d'\u00eatre un membre d'un parti politique lors d'un rassemblement quand vous \u00eates l\u00e0 pour le couvrir en tant que journaliste.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Reportages sur des questions qui vous int\u00e9ressent, mais qui n'ont aucune valeur imm\u00e9diate \u00e0 votre public.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Aucune de ces r\u00e9ponses.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Vrai ou Faux: Si votre environnement de travail est exceptionnellement difficile ou compliqu\u00e9 d'une mani\u00e8re qui le rend difficile \u00e0 respecter des normes professionnelles, c'est OK de ne pas appliquer le code de d\u00e9ontologie.", 
+            "choices": [
+                {
+                    "text": "Vrai", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Faux", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Les journalistes peuvent parfois devenir des c\u00e9l\u00e9brit\u00e9s ou des experts reconnus qui ont des opinions fortes. Ce type de pouvoir peut conduire \u00e0 des compromis dans l'\u00e9thique professionnelle. Pour \u00e9viter cela, les journalistes qui deviennent des personnalit\u00e9s publiques devraient", 
+            "choices": [
+                {
+                    "text": "\u00catre transparent sur leurs affiliations professionnelles.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Chercher \u00e0 minimiser l'apparition d'une relation trop \u00e9troite avec des dirigeants politiques et \u00e9conomiques de fortes puissances.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "R\u00e9affirmer leur engagement aux rapports de l'int\u00e9r\u00eat des citoyens plut\u00f4t que l'\u00e9lite dans leur couverture.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Tout ce qui pr\u00e9c\u00e8de.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "introduction_to_ethics_and_professional_standards", 
+    "title": "Introduction aux normes d'\u00e9thique et professionnels"
+}

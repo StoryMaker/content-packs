@@ -1,0 +1,131 @@
+{
+    "cards": [
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "audio", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Fata amajwi yahantu hahambaye ku muntu wawe."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:07", 
+            "goals": [
+                "Fata amajwi atangura ibiganiro vyanyu."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:20", 
+            "goals": [
+                "Fata amajwi yivyo uwo muntu akora kugira abeho.", 
+                "Fata amajwi y\u2019inyifato yuwo muntu wawe agira ariko araganira n\u2019abandi bantu mu buzima bwiwe.", 
+                "Fata amajwi y\u2019abantu bariko baraganira na wamuntu wawe. "
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "Baza ikibazo :kuberiki mwibaza ko urya muntu ahambaye?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "Baza ikibazo: kuberiki mwibaza ko urya muntu ahambaye?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "Baza ikibazo :kuberiki mwibaza ko urya muntu ahambaye?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "Baza ikibazo :kuberiki mwibaza ko urya muntu ahambaye?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "Baza ikibazo :kuberiki mwibaza ko urya muntu ahambaye? "
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:09", 
+            "goals": [
+                "Fata amajwi y\u2019impande y\u2019uwo muntu wawe. "
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "edit", 
+                "audio", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Mbega inkuru yawe iratubwira igituma umuntu wawe ahambaye ?", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "profile_discussion_audio_question13", 
+    "title": "ukuganira dans un profile."
+}

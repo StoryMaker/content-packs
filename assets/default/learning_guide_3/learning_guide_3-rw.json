@@ -1,0 +1,484 @@
+{
+    "cards": [
+        {
+            "level": "Shingiro 3.", 
+            "headline": "Kuvuga inkuru n\u2019ikibazo rusangi.", 
+            "time": null, 
+            "exampleMediaPath": "lg_003_01.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "## Intangamarara \nubu ko mwumvise ibintu shingiro bigize inkuru reka ubu tuvuge ingene bakora inkuru inyura.inkuru zinyura ahanini zishura ikibazo kimwe,ikibazo rusangi.ico kibazo kiguha intumbero utegerezwa gukurikira kandi kikakurongora murico gikorwa cose.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Intangamarara  \nIco cigwa iciyumviro ni \u00ab ngira vuge inkuru kurukino rwumupira w\u2019amaguru aho nyene\u00bb ukavyerekana uko vyovugwa muburyo butandukanye.ubonye hari akantu kaguhimbaye urashobora kugakora muntumbero yukugira inkuru yawe.tanguza uburya ibibazobizokurikira munyuma.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "header": "Select your Medium", 
+            "type": "MediumCard", 
+            "id": "medium_card"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "profile_interview_001.mp3", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: Why did Marvin become a goalie?", 
+            "header": "Guhura na Goalie Marvin.", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "exampleMediaPath": "profile_interview_001.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Ikiganiro k\u2019umuntu wahisemwo.", 
+            "header": "Tangura.", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "path": "profile_interview_audio.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_0", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "event_report_001.mp3", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What brought each person to the game?", 
+            "header": "Gukina umupira wa soccer kuwa gatandatu.", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "exampleMediaPath": "event_report_001.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Umviriza uwusigura amasanamu vuga ibiriko biraba mu gihe umugwi wabanyamahanga bahuye kugira bakine urukinorw\u2019umupira w\u2019amaguru aho nyene.iyo nkuru ivuga ikintu kiraho kizwi, ivyabaye n\u2019igituma.namajambo, amajwi y\u2019abantu batandukanyeniyo kenshe akoze inkuru.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ]
+        }, 
+        {
+            "text": "Shikiriza uko umunsi mukuru uriko uragenda.", 
+            "header": "Tangura.", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "path": "event_report_audio.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_1", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": null, 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What makes pickup soccer great?", 
+            "header": "Niki gukina soccer?", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Umviriza umusiguzi asigure umupira w\u2019amaguru n\u2019abandi bantu basobanure igituma bakunda umupira w\u2019amaguru.inkuru ihagaze ku kibazo \u00ab ni igiki umupira w\u2019amaguru \u00bbmu majwi umusiguzi atangura kenshi akoresha amajwi y\u2019abantu batandukanye kugira ashikirize ivyiyumviro bitandukanye.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ]
+        }, 
+        {
+            "text": "Gutanga inkuru ijanye n\u2019iyo ngorane.", 
+            "header": "Tangura.", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "path": "issue_report_audio.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_2", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "issue_discussion_001.mp3", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What do people love about pickup soccer?", 
+            "header": "N\u2019igiki kiryoshe mu mupira wamaguru.", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "exampleMediaPath": "issue_discussion_001.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Umviriza umugwi w\u2019abantu bo muri new york bavuga ingene bakunda inkino z\u2019umupira w\u2019amaguru.iyo nkuru iva mubantu bariko baharira ku kibazo gitomoye.inkuru baharira zirakora neza muri audio,ziba zavuye kumajwi y\u2019abantu batandukanye.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "text": "Gutanga inkuru ijanye n\u2019iyo ngorane.", 
+            "header": "Tangura.", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "path": "profile_interview_audio.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_3", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "issue_report_001.mov", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What makes pickup soccer great?", 
+            "header": "Niki gukina soccer?", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "exampleMediaPath": "issue_report_001.mov", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Raba umugwi w\u2019abantu basigura umupira w\u2019amaguru mu gihe umusiguzi ariwe akurikirana inkuru.inkuru igizwe n\u2019ikibazo \u00ab n\u2019iki umupira w\u2019amaguru \u00bbmuri video amasanamu aza gushigikira canke guhakana amajwi y\u2019abantu.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ]
+        }, 
+        {
+            "text": "Gutanga inkuru ijanye n\u2019iyo ngorane.", 
+            "header": "Tangura. ", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "path": "issue_report_video.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_4", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "profile_interview_001.mov", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: Why did Marvin become a goalie?", 
+            "header": "Guhura na Goalie Marvin.", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "exampleMediaPath": "profile_interview_001.mov", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "Raba Marvin ariko arakina cane imbere yuko avuga ubuzima bwiwe  n\u2019inyuma yuko aba umunyezamu w\u2019igori mu mugwi waho nyene.iyo nkuru ivuga umuntu umwe gusa aho atubwira inkuru yiwe.mu ma clip koresha amasanamu yerekana amajambo canke imishamiramo.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ]
+        }, 
+        {
+            "text": "Ikiganiro k\u2019umuntu wahisemwo. ", 
+            "header": "Tangura.", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "path": "profile_interview_video.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_5", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "issue_discussion_001.mov", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What do people love about pickup soccer?", 
+            "header": "N\u2019igiki kiryoshe mu mupira wamaguru.", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "exampleMediaPath": "issue_discussion_001.mov", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "text": "Raba umugwi w\u2019abanyamahanga bariko bakina umupira w\u2019amaguru baharira kandi k\u2019urukundo bakunda urwo rukino rwonyene.iyo n\u2019inkuru ivuye mu bantu bariko baharira ku kibazo kizwi.impari zo mumasanamu zikoresha ama clips video mu gushigikira inyushu yose y\u2019umwumwe wese.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }, 
+        {
+            "text": "Impari ku ngorane.", 
+            "header": "Tangura.", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "path": "issue_discussion_video_question_10.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_6", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "event_report_001.mov", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What brought each person to the game?", 
+            "header": "Gukina umupira w\u2019amaguru kuwa gatandatu.", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "exampleMediaPath": "event_report_001.mov", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_7"
+        }, 
+        {
+            "text": "Raba ibishika mu gihe umugwi w\u2019abanyamahanga bahuye kugira bakine umupira w\u2019amaguru aho nyene.iyo nkuru ihagaze ku munsi mukuru uzwi, ivyabaye  n\u2019igituma vyabaye.muri video amasanamu akomeye arakenewe kurusha amajwi y\u2019abantu.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ]
+        }, 
+        {
+            "text": "Shikiriza uko umunsi mukuru uriko uragenda.", 
+            "header": "Tangura.", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "path": "event_report_video.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_7", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "event_highlights_001.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "event_highlights_002.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "event_highlights_003.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "event_highlights_004.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "event_highlights_005.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "event_highlights_006.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "event_highlights_007.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "event_highlights_008.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What brought each person to the game?", 
+            "header": "Gukina umupira w\u2019amaguru kuwagatandatu.", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ], 
+            "exampleMediaPath": "event_highlights_001.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_8"
+        }, 
+        {
+            "text": "Raba ibiriko biraba mu gihe umugwi w\u2019abanyamahanga uhuye kugira bakine umupira w\u2019amaguru aho nyene. Iyo nkuru yibanda ku kintu kimwe hamwe n\u2019ivyabaye.ibiganiro bigizwe n\u2019amafoto vyegeranya amasanamu anezereza canke y\u2019ibikorwa vy\u2019iyo nkuru kenshi mugukoresha ivyandiko biza kuzuza insiguro zibonekeza.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ]
+        }, 
+        {
+            "text": "Kubijanye n\u2019uwo munsi mukuru.", 
+            "header": "Tangura.", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ], 
+            "path": "event_highlights_photo.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_8", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "issue_series_001.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_002.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_003.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_004.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_005.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What makes pickup soccer great?", 
+            "header": "Niki gukina soccer ?", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ], 
+            "exampleMediaPath": "issue_series_001.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_9"
+        }, 
+        {
+            "text": "Raba urukurikirane rw\u2019ibiganiro vy\u2019abakinyi b\u2019umupira w\u2019amaguru aho nyene.iyo nkuru ikozwe n\u2019ibiganiro kubakinyi bifashijwe n\u2019ivyandiko bisobanura umupira w\u2019amaguru.inkuru z\u2019amafoto zikoresha kenshi urukurikirane rw\u2019amasanamu afatanye akoresha abanyagihugu  mukuzuza insiguro zihambaye hamwe n\u2019ivyandiko.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ]
+        }, 
+        {
+            "text": "Urukurikirane rwo mu munsi mukuru.", 
+            "header": "Tangura. ", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ], 
+            "path": "event_series_photo_action.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_9", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "issue_series_001.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_002.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_003.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_004.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_005.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What is it like to be a goalie?", 
+            "header": "Guhura na Goalie Marvin. ", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ], 
+            "exampleMediaPath": "issue_series_001.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_10"
+        }, 
+        {
+            "text": "Kuraba ibiba kwa Marvin ku munsi umwe nkuko yoba ari umunyezamu w\u2019igori y\u2019umugwi w\u2019umpupira w\u2019amaguru aho nyene.iyo nkuruigizwe n\u2019amasanamu y\u2019umuntu umwe gusa.inkuru zo mu mafoto k\u2019umuntu umwe zirerekana umunezero w\u2019uwo muntu nabo bariko baraganira mu nkuru yiwe.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_9", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ]
+        }, 
+        {
+            "text": "Kubujanye n\u2019igihagararo c'uyo muntu.", 
+            "header": "Tangura. ", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ], 
+            "path": "profile_highlights_photo.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_10", 
+            "icon": "right"
+        }
+    ], 
+    "storyPathLibraryFile": "learning_guide_3_library.json", 
+    "classPackage": "scal.io.liger.model", 
+    "id": "learning_guide_3", 
+    "title": "Kuvuga inkuru n\u2019ikibazo rusangi."
+}

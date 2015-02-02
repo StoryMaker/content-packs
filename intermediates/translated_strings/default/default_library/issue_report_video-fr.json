@@ -1,0 +1,19 @@
+{
+    "issue_report_video::clip_card_3::goals[0]": "Poser la question: Comment le problème affecte les individus ou la communauté?",
+    "issue_report_video::clip_card_14::goals[0]": "Montrer comment votre personnage résout le problème.",
+    "issue_report_video::clip_card_11::goals[0]": "Demander à quelqu'un affecté: Que voudriez-vous voir se produire concernant le problème?",
+    "issue_report_video::clip_card_10::goals[0]": "Montrer le personnage en interaction avec ceux qui sont affectés",
+    "issue_report_video::clip_card_8::goals[0]": "Montrer que font les gens à propos le problème.",
+    "issue_report_video::clip_card_4::goals[0]": "Montrer comment le problème affecte les gens.",
+    "issue_report_video::clip_card_9::goals[0]": "Demander à une source d'information: Quand le problème s'est commencé au début?",
+    "issue_report_video::clip_card_0::goals[0]": "Montrer où s'est produit le problème.",
+    "issue_report_video::clip_card_5::goals[0]": "Montrer quelque chose d'important à propos le problème.",
+    "issue_report_video::clip_card_13::goals[0]": "Poser la question: Qu'est ce qu'on a fait à propos de ce problème?",
+    "issue_report_video::clip_card_6::goals[0]": "Demander à un expert: Comment peuvent les autres aider pour résoudre ce problème?",
+    "issue_report_video::clip_card_1::goals[0]": "Montrer quelque chose qui introduit le problème.",
+    "issue_report_video::clip_card_2::goals[0]": "Présenter le problème.",
+    "issue_report_video::evaluation_card_0::text": "--------",
+    "issue_report_video::clip_card_7::goals[0]": "Montrer où travaille l'expert",
+    "issue_report_video::clip_card_12::goals[0]": "Montrer le résultat de ce que les gens sont en train de faire à propos du problème.",
+    "issue_report_video::title": "Rapport à propos un problème"
+}

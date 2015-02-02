@@ -1,0 +1,373 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Comment je cr\u00e9e une s\u00e9quence en vid\u00e9o?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Dan cette le\u00e7on vous allez apprendre:\n&bull; Comment construire de multiple clips vid\u00e9o pour cr\u00e9er une s\u00e9quence.\n&bull; Comment utiliser des diff\u00e9rents techniques pour cr\u00e9er une s\u00e9quence d'action.\n&bull; comment les s\u00e9quences am\u00e9liorent et augmentent l'impact de votre histoire.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Une S\u00e9rie de plans assembl\u00e9es est une s\u00e9quence. Lorsque compos\u00e9e de plans qui se soutiennent mutuellement, une s\u00e9quence individuelle peut raconter une histoire compl\u00e8te. StoryMaker se concentre sur l'utilisation de plusieurs plans pour faire une s\u00e9quence compl\u00e8te.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## Les bases de prise des s\u00e9quences\nPour pr\u00e9parer une s\u00e9quence vous devez d\u00e9composer chaque \u00e9l\u00e9ment de l'histoire en pi\u00e8ces d\u00e9tach\u00e9es. Il est peut-\u00eatre un petit nombre de pi\u00e8ces, ou il peut \u00eatre beaucoup. Vous devez conna\u00eetre toutes les pi\u00e8ces avant de pouvoir mettre correctement la s\u00e9quence ensemble.\nExaminez cet exemple. Le r\u00e9alisateur veut faire une histoire sur un stand de fruits populaire. Ils veulent faire une s\u00e9quence qui montre quelqu'un qui ach\u00e8te des fruits.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "2.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Nous aurons besoin de voir une personne qui va acheter le fruit.", 
+            "exampleMediaPath": "2.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "3.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "nous aurons besoin de voir le fruit.", 
+            "exampleMediaPath": "3.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "4.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Nous aurons besoin de voir une personne en train de payer le fruit.", 
+            "exampleMediaPath": "4.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "5.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Comme une s\u00e9quence de trois plan dans un ordre qui raconte une histoire simple, mais compl\u00e8te.", 
+            "exampleMediaPath": "5.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Conna\u00eetre votre histoire vous donne la libert\u00e9 d'enregistrer vos photos dans un ordre quelconque. En fin de compte, vous aurez les assembler pour raconter votre histoire.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Ces plans sont le d\u00e9but, milieu et fin de votre histoire. Il existe une personne, il existe un morceau de fruit, la personne paye le fruit. C'est une histoire tr\u00e8s simple, mais \u00e7a fonctionne. Vous pouvez maintenant ajouter une interview avec le vendeur ou l'acheteur du fruit. Vous pouvez \u00e9galement inclure un plan large pour d\u00e9finir l'emplacement.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "Peu importe la complexit\u00e9 de votre histoire, n'oubliez pas de filmer en trois parties: d\u00e9but, milieu et une fin. Chacun d'eux peut avoir plusieurs s\u00e9quences, avec diff\u00e9rents \u00e9l\u00e9ments dans le cadre. Dans l'ensemble, les plans doivent correspondre \u00e0 une s\u00e9quence qui comprend les trois parties. Dans certaines histoires vous pouvez avoir une sc\u00e8ne de cinq plans (ou plus) pour chaque section de l'histoire.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "6.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "l'utilisation ", 
+            "exampleMediaPath": "6.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "Une technique populaire \u00e0 utiliser lorsque vous savez peut-\u00eatre pas l'histoire que vous dites, c'est de commencer avec des plans qui sont plus loin,Commencer votre chemin par une sc\u00e8ne plan par plan. Lorsque vous vous assemblez vos photos dans l'ordre chronologique, ils cr\u00e9eront une progression naturelle. En utilisant les cinq plans de base: large, long, moyen, serr\u00e9, D\u00e9tails, vous serez en mesure de cr\u00e9er une s\u00e9quence compl\u00e8te avec un d\u00e9bit naturel.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## S\u00e9quence en Champ /Contre-champ\n!(7.png)\nSi vous voulez montrer une action survenant sous des angles diff\u00e9rents en m\u00eame temps, vous devez les filmer s\u00e9par\u00e9ment. C'est connu par s\u00e9quence en champ / contre-champ.\nPour cr\u00e9er une  s\u00e9quence en champ / contre-champ, enregistrez deux plans \u00e0 la fois \u00e0 l'esprit. Consid\u00e9rons cet exemple o\u00f9 un cin\u00e9aste prend un champ / contrechamp  de quelqu'un qui tape sur son  clavier.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "8.mp4", 
+                    "media_caption": "The first shot is the character\u2019s face in a medium shot while typing on the keyboard."
+                }
+            ], 
+            "header": "Plan d'une personne", 
+            "exampleMediaPath": "8.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "9.mp4", 
+                    "media_caption": "The second shot, the reverse shot in this sequence, should be a shot of whatever the character is doing in the first shot. In this case, typing on the keyboard."
+                }
+            ], 
+            "header": "Contrechamp", 
+            "exampleMediaPath": "9.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_7"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "10.mp4", 
+                    "media_caption": "When you cut these two shots together, it will appear as if the subject is typing on their keyboard. While we used a medium shot in the first shot, it could also be a close-up. This is a matter of style on your part, but the other shots in your video will help you make that decision. That is it. You have enough shots to construct a shot / reverse shot."
+                }
+            ], 
+            "header": "Plan / contrechamp Ensemble", 
+            "exampleMediaPath": "10.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_8"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "11.mp4", 
+                    "media_caption": "This technique also works to show what a subject may be looking at. Either an object, or potentially another person. For example, if you want to show someone on their phone, film their face while they use their phone and then film the phone they are using."
+                }
+            ], 
+            "header": "Exemple alternatif.", 
+            "exampleMediaPath": "11.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_9"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "12.mp4", 
+                    "media_caption": "You are not limited to using only two shots. Adding more shots allows you to show how the process of the action changes over time. If a task is becoming more difficult, you might show a second shot of the subject appearing interested while writing an email, and end with a look of satisfaction when they send the email."
+                }
+            ], 
+            "header": "Construire l'Action", 
+            "exampleMediaPath": "12.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_10"
+        }, 
+        {
+            "text": "## S\u00e9quences d'interview\nLes entretiens sont cr\u00e9\u00e9s avec des clips de personnages. Utilisez plans moyens ou gros plans. Suivez les lignes directrices  sugg\u00e9r\u00e9es par StoryMaker dans l'aper\u00e7u de la cam\u00e9ra si vous \u00eates incertain. Quelque chose de loin, ou plus pr\u00e8s, rend difficile d'entendre l'entrevue, ou de cr\u00e9er une relation entre le public et le sujet.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "13.mp4", 
+                    "media_caption": "Example of changing composition after a question"
+                }
+            ], 
+            "header": "Changer la taille du plan", 
+            "exampleMediaPath": "13.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_11"
+        }, 
+        {
+            "text": "Choisissez un cadre et maintenez le. Une fois que vous avez d\u00e9cid\u00e9 de quel c\u00f4t\u00e9 du cadre le sujet sera pr\u00e9sent\u00e9e , l'y maintenir. Tenez-le jusqu'\u00e0 ce que le sujet a fini la r\u00e9ponse \u00e0 une question. Seulement changer la composition du cadre entre les deux questions.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "14.mp4", 
+                    "media_caption": "How to set up good head space in your shot"
+                }
+            ], 
+            "header": "L'espace de la t\u00eate", 
+            "exampleMediaPath": "14.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_12"
+        }, 
+        {
+            "text": "Gardez un bon l'espace de t\u00eate. Si vous n'\u00eates pas s\u00fbr, s'il vous pla\u00eet, voir le cadrage dans la le\u00e7on des Plan.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "15.mp4", 
+                    "media_caption": "Example of not panning away, but adding a shot in later"
+                }
+            ], 
+            "header": "Garder le cadre", 
+            "exampleMediaPath": "15.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_13"
+        }, 
+        {
+            "text": "Ne pas recadrer ou d\u00e9placer la cam\u00e9ra Si votre sujet se concentre\u00a0 \u00e0 quelque chose ou discute quelque chose en dehors du cadre. Apr\u00e8s que votre sujet termine \u00e0 r\u00e9pondre \u00e0 la question sur la cam\u00e9ra, enregistrer une prise de vue de l'action qu'il ou elle a \u00e9t\u00e9 dirig\u00e9e vers.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "## A NE PAS OUBLIER\n&bull; Les s\u00e9quences de plan / contrechamp aident \u00e0 cr\u00e9er l'apparence d'une action continue dans votre vid\u00e9o.\n&bull; Les s\u00e9quences de plan / contrechamp sont populaires \u00e0 utiliser dans des interviews en montrant l'enqu\u00eateur ainsi que la personne interview\u00e9e.\n&bull; Les s\u00e9quences de plan / contrechamp sont de bonnes techniques \u00e0 utiliser pour avoir un bon tournage.\n&bull; Les s\u00e9quences r\u00e9ussies r\u00e9pondent aux six questions importantes que nous avons d\u00e9j\u00e0 discut\u00e9. (Qui, quoi, o\u00f9, quand, pourquoi et comment.).\n&bull; La cr\u00e9ation d'une s\u00e9quence efficace signifie la prise de vue diff\u00e9rents tailles des plans , contenant chacune des parties compl\u00e9mentaires de l'histoire.\n&bull; Quand vous apportez plusieurs s\u00e9quences ensemble, vous faites une histoire plus complexe.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "En quoi  est faite une liste de plan?", 
+            "choices": [
+                {
+                    "text": "M\u00e9t\u00e9o.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Type de plan", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Description.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Les \u00e9l\u00e9ments d'une histoires.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Quel est le nombre le plus petit des plans pour cr\u00e9er un plan de champ /contrechamps?", 
+            "choices": [
+                {
+                    "text": "10 plans", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "3 Plans", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "6 plans", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "2 plans", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Vrai ou Faux: Une s\u00e9quence du champ / contre-champs peut seulement montrer \u00e0 ce que regarde un sujet.", 
+            "choices": [
+                {
+                    "text": "Vrai, ils ne peuvent montrer que ce que le sujet regarde.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Faux, ils peuvent seulement montrer ce que fait le sujet.", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Quels types de Plans fonctionnent mieux pour un plan de Champ/contre-champ", 
+            "choices": [
+                {
+                    "text": "Long plan.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Plan Moyen", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Plan de Situation.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Plan de d\u00e9tails", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Vrai ou faux: l'ajout de plans vous permet de montrer comment le processus de l'action est ex\u00e9cut\u00e9 et les changements au fil du temps.", 
+            "choices": [
+                {
+                    "text": "Vrai, chaque plan peut montrer une \u00e9tape diff\u00e9rente du processus.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Faux, Ajouter des plan confond l'audience seulement.", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_5"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "sequences", 
+    "title": "S\u00e9quences"
+}

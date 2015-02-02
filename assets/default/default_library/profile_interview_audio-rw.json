@@ -1,0 +1,187 @@
+{
+    "cards": [
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "before", 
+                "audio"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Fata amajwi yaho wa muntu wawe aba."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:25", 
+            "goals": [
+                "Dondora wa muntu wawe."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "goals": [
+                "Fata amajwi y\u2019ikintu c\u2019ibonekeza aho wa muntu wawe aba."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Fata amajwi yawa muntu wawe yaho yitegurira ku munsi."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:20", 
+            "goals": [
+                "Fata amajwi yahantu hahambaye ku muntu wawe."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:35", 
+            "goals": [
+                "Baza ikibazo :mwoshobora gutangura kutubwira inkuru kuvyo mukora ? "
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "goals": [
+                "Fata amajwi y\u2019ikintu cakozwe nawa muntu wawe kandi gihambaye mu nkuru yawe."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:18", 
+            "goals": [
+                "Fata amajwi yo kukazi kuwo muntu. "
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:11", 
+            "goals": [
+                "Fata amajwi y\u2019ikintu gihambaye kubijanye n\u2019akazi kawa muntu wawe."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:17", 
+            "goals": [
+                "Fata amajwi yahantu wa muntu wawe ahereza umunsi."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_9"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Record sound of your character interacting with other people in his life."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_10"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:19", 
+            "goals": [
+                "Fata amajwi yico wa muntu wawe akora kugira yinezereze. "
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_11"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "Baza ikibazo :murashobora munkundiye kutubwira kazoza kawe ?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_12"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:13", 
+            "goals": [
+                "Fata amajwi y\u2019ikintu gihambaye ku muntu wawe."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_13"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:13", 
+            "goals": [
+                "Fata amajwi yawa muntu wawe mu mpera z\u2019umunsi."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_14"
+        }, 
+        {
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "narration"
+            ]
+        }, 
+        {
+            "text": "--------", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "profile_interview_audio", 
+    "title": "Ikiganiro k\u2019umuntu wahisemwo."
+}

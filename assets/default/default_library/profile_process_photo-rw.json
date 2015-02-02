@@ -1,0 +1,140 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Erekana wa muntu wawe ngene y\u2019itegura kugira atangure procssus.gute y\u2019itegura ? "
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "portrait", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Erekana intango canke intambwe yambere y\u2019igikorwa."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Fata ifoto ifasha gutahura uwuyiraba aho inkuru iriko irabera."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Fotora intambwe ifise icisigura murukurikirane."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "text": "Kuba uzi yuko uronka uruvange rw\u2019ibikorwa mugusigura processus.ama plan yagutse,ama plan manini hamwe nama plan asanzwe.wa muntu wawe ntategerezwa kuja mumasanamu yose.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Fotora intango canke intambwe yambere y\u2019igikorwa."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "photo essay", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Fotora intango canke intambwe yambere y\u2019igikorwa."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Fata ifoto isigura muncamake vyose."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Nimba inkuru yawe yerekeye ikintu wa muntu wawe akora abantu baraba,fata amafoto yivyo bariko baragira."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Fata ifoto yawa muntu wawe mu mpera y\u2019igikorwa.ibabaje cane,nziza cane."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "narration"
+            ]
+        }, 
+        {
+            "text": "--------", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "profile_process_photo", 
+    "title": "Inyifato murugendo."
+}

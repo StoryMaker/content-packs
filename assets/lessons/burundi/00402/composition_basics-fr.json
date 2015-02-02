@@ -1,0 +1,165 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Quels sont les principes de base d'une bonne composition de photo?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Dans cette le\u00e7on vous allez apprendre:\n&bull; Les concepts cl\u00e9s pour la composition de photos.\n&bull; Que signifie la r\u00e8gle des tiers dans la photographie.\n&bull; Comment cr\u00e9er une superposition en photographie.\n&bull; Que signifie \"travailler sur les bords\".\n&bull; Comment capturer des actions de pointe.\n&bull; Conseils pour prendre des photos en s\u00e9curit\u00e9", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "La photographie emprunte beaucoup de la peinture. Les meilleures photos sont compos\u00e9s de sorte que le sujet de l'image est bien cadr\u00e9e et le but de la photo est claire. Bonne couleur et la relation entre les formes dominantes dans un cadre - les \u00e9l\u00e9ments de l'image qui attire vos yeux en premier - sont importants pour une bonne composition. Comment la lumi\u00e8re est utilis\u00e9 est extr\u00eamement important.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Exemple d'une photo qui fournit le contexte et l'action.](2.jpg)\nLorsque vous prenez des photos d'un \u00e9v\u00e9nement\u00a0 , il est important de se rappeler que les membres de votre public ne peut pas voir la totalit\u00e9 de la sc\u00e8ne que vous le pouvez. Ils ne peuvent pas savoir ce que vous ne les montrez pas.\n![Exemple d'une photo qui fournit le contexte et l'action.](3.jpg)\nLes bons photojournalistes captent pas seulement le drame et l'action d'un \u00e9v\u00e9nement dans leurs images, mais comprennent des \u00e9l\u00e9ments visuels qui fournissent le contexte quant \u00e0 l'emplacement et les causes de l'\u00e9v\u00e9nement photographi\u00e9. Le monde peut \u00eatre tr\u00e8s diff\u00e9rent dans une photo. Cela vous oblige \u00e0 penser visuellement, ce qui peut \u00eatre un d\u00e9fi, m\u00eame pour les meilleurs journalistes.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![R\u00e8gle des tiers](4.png)\n## R\u00e8gle des tiers\nLe fondement de la bonne composition est la r\u00e8gle des tiers. La r\u00e8gle des tiers d\u00e9compose le cadre en neuf rectangles \u00e9gaux. Beaucoup de smartphones vous permettra d'afficher la grille de la r\u00e8gle des tiers sur l'\u00e9cran de la cam\u00e9ra.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![Une bonne utilisation de la r\u00e8gle des tiers](5.jpg)\nLes bons photographes composent le long des intersections de lignes dans le cadre et travaillent \u00e0 utiliser chacun des neuf rectangles de raconter leurs histoires.\n![Une bonne utilisation de la r\u00e8gle des tiers](6.jpg)\nLes amateurs ont tendance \u00e0 placer le sujet au milieu du cadre et d'ignorer l'espace restant plut\u00f4t que de l'utiliser pour faire une image plus convaincante.\n![Une bonne utilisation de la r\u00e8gle des tiers](7.jpg)\n![Une bonne utilisation de la r\u00e8gle des tiers](8.jpg)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![Exemple d'une photo avec un premier plan clair, plan moyen, et un fond](9.png)\n## superposition\nUn autre principe important pour une bonne composition est appel\u00e9 stratification. Cr\u00e9ation de calques distincts dans votre cadre - premier plan, plan moyen, et de fond - vous aide \u00e0 en dire plus des histoires visuelles complexes avec votre photographie. Vous pouvez choisir de placer votre sujet, un agriculteur dont les champs sont st\u00e9riles en raison de la s\u00e9cheresse, cadre de gauche au premier plan et son champ vide ass\u00e9ch\u00e9 en arri\u00e8re-plan. Cela donnera \u00e0 l'image une couche transparente de l'objet (au premier plan) et le contexte (couche de fond).", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![Exemple d'une photo en utilisant les bords](10.png)\n## Utilisation des bords\nDans une photo bien compos\u00e9e, des formes ou des informations importantes se compl\u00e8tent dans le cadre. Les mains du cuisinier ne sont pas coup\u00e9s maladroitement. Le transporteur du personnel qui fournit un contexte \u00e0 l'image dans la couche de fond n'est pas coup\u00e9e en deux au bord du cadre. Les photographes appellent ce travail des bords. Des formes telles que les cadres de portes ou des arbres ou des objets avec une forte couleur sont utilis\u00e9s pour d\u00e9finir le bord du cadre en leur permettant de r\u00e9soudre en lui.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## Action de pointe", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "11.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Entretien avec un photographe qui discute l'utilisation d'une composition lors d'une mission", 
+            "exampleMediaPath": "11.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Un dernier \u00e9l\u00e9ment cl\u00e9 de la bonne photographie est le timing. Les photos les plus puissants sont prises \u00e0 la fraction de seconde lorsque tous les \u00e9l\u00e9ments de composition se r\u00e9unissent et l'action dans la sc\u00e8ne est \u00e0 son plus dramatique. Ceci est appel\u00e9 le moment de l'action de pointe. Les meilleurs photos ont une grande anticipation. Ils seront souvent mis en place pour profiter d'\u00e9l\u00e9ments cl\u00e9s de composition, puis attendre le moment de l'action de pointe.\nUn peu de soin dans la composition et la r\u00e9flexion \u00e0 propos de l'information que vous devez transmettre \u00e0 raconter l'histoire ira un long chemin vers la prise de meilleures photos.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "![Avertissement](12.png)\n## La s\u00e9curit\u00e9\nRappelez-vous toujours de consid\u00e9rer votre s\u00e9curit\u00e9 et celle de vos sujets, en premier. Un journaliste peut se tenir au bord d'une sc\u00e8ne potentiellement dangereuse. Un photographe a besoin de se rapprocher de prendre une bonne photo. Les photojournalistes \u00e9quilibrent toujours entre la s\u00e9curit\u00e9 et la n\u00e9cessit\u00e9 de capturer des images fascinantes.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## A NE PAS OUBLIER\n&bull; Penser visuellement\n&bull; Organiser les \u00e9l\u00e9ments de votre image pour raconter une histoire convaincante et instructive.\n&bull; Investissez-vous dans prise des meilleures photos. La bonne photographie prend du temps.\n&bull; Vous devez planifier et r\u00e9fl\u00e9chir \u00e0 comment vous allez obtenir des images qui capturent le d'une histoire et attirer les t\u00e9l\u00e9spectateurs \u00e9motionnellement.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "Que signifie penser visuellement?(Il peut y avoir plus q'une r\u00e9ponse.)", 
+            "choices": [
+                {
+                    "text": "Planifier votre histoire d\u00e8s le d\u00e9part pour de bon contenu visuel.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Consacrer du temps \u00e0 obtenir de bonnes images.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Comprendre comment raconter des histoires visuelles est plus que simplement traduire ce que vous souhaitez signaler et \u00e0 \u00e9crire.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Aucune de ces r\u00e9ponses.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Vrai ou Faux: Une image doit \u00eatre bien organis\u00e9e. Une bonne fa\u00e7on de le faire est d'avoir un seul sujet  pos\u00e9 et mettre votre sujet au milieu de votre cadre.", 
+            "choices": [
+                {
+                    "text": "Vrai", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Faux", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "Lequel des \u00e9l\u00e9ments suivants est un principe de base de la photographie de bonne composition? (Il peut y avoir plus d'une r\u00e9ponse.)", 
+            "choices": [
+                {
+                    "text": "La r\u00e8gle des tiers", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Utilisation des bords", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Les calques", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Aucune de ces r\u00e9ponses", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "composition_basics", 
+    "title": "Notions de base de composition"
+}

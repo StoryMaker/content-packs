@@ -1,0 +1,168 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2014"
+                }
+            ], 
+            "header": "Comment vous d\u00e9veloppez et pensez \u00e0 identifier les bonnes personnages pour qu'ils soient comme sources pour vos histoires?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "![Les composants d'une histoire](2.png)\n## Dans cette le\u00e7on vous allez apprendre:\n&bull; Qu'est-ce qu'une source d'information\n&bull; Comment identifier les bonnes sources pour votre histoire\n&bull; Comment les diff\u00e9rentes sources jouent des r\u00f4les diff\u00e9rents dans votre histoire\n&bull; Les r\u00e8gles d'utilisation des sources anonymes et les sources en arri\u00e8re plan.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Une bonne histoire est seulement consid\u00e9r\u00e9e par le choix des personnages. Les journalistes appellent ces personnages des sources . L'informations de vos sources est la force motrice dans la plupart des histoires. Les sources qui participent comme des personnages dans votre histoire sont des sources \"enregistr\u00e9s\". Certaines sources peuvent fournir des informations de fond seulement que vous utilisez pour enqu\u00eater sur votre histoire et de confirmer \u00e0 travers les sources \"enregistr\u00e9s\".\nEn plus des sources que vous identifiez \u00e0 la sc\u00e8ne d'une histoire de nouvelles, bonnes journalistes d\u00e9veloppent les sources et les contacts qu'ils peuvent atteindre \u00e0 plusieurs reprises.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## Types des Sources\nLa source la plus commune est une personne que vous interviewez et qui est un personnage dans une histoire sp\u00e9cifique. Sources se pr\u00e9sentent en cinq cat\u00e9gories g\u00e9n\u00e9rales:\n&bull; Des sources r\u00e9actionnaires\n&bull; Des sources d'information\n&bull; Sources autoritaire ou la voix d'un expert\n&bull; Des documents\n&bull; Sites des r\u00e9seaux sociaux\nLes bonnes nouvelles ont au moins deux des cinq, parfois tous les cinq.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "### Les sources r\u00e9actionnaires\n![Les sources r\u00e9actionnaires](3.png)\nLes gens sur la sc\u00e8ne et imm\u00e9diatement impliqu\u00e9s ou touch\u00e9s par la question, tels que:\n&bull; Victimes d'un bombardement.\n&bull; Les gens qui ach\u00e8tent moins (ou pas)la suite \u00e0 la faiblesse de l'\u00e9conomie.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "### Les sources d'information\n![Les sources d'information](4.png)\nLes gens, souvent des officiels, qui peuvent vous donner de donn\u00e9es concr\u00e8tes sur l'\u00e9v\u00e9nement sp\u00e9cifique, tels que:\n&bull; Un officier de l'arm\u00e9e ou d'un porte-parole de l'h\u00f4pital en cas d'incendie.\n&bull; Un porte-parole d'une ONG en train de parler des \u00e9lections ou la nouvelle r\u00e9glementation financi\u00e8re.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "### Sources autoritaire ou la voix d'un expert\n![Sources autoritaire ou la voix d'un expert](5.png)\nLes personnes qui peuvent vous donner un aper\u00e7u en grand-image de la question que de votre histoire, tels que:\n&bull; Les Universitaires, Les chercheurs, Les consultants.\n&bull; Quelqu'un de M\u00e9decins sans fronti\u00e8res ou un expert m\u00e9dical international sur une histoire au sujet du manque de fournitures m\u00e9dicales dans un h\u00f4pital local, surtout si cela fait partie d'une tendance nationale.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "### Les Documents\n![Les documents](6.png)\nLes documents sont souvent des excellentes sources. Les documents physiques peuvent \u00eatre trouv\u00e9s dans les bureaux gouvernementaux, les biblioth\u00e8ques et les rapports des ONG. Un \u00e9norme tr\u00e9sor de documents est maintenant disponible en ligne. Les informations provenant des documentation peuvent fournir une voix autoritaire ou expert en donnant la position de l'organisation sur une question importante. Les documents peuvent aussi fonctionner comme une source en arri\u00e8re plan.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "### Les sites des r\u00e9seaux sociaux\n![Les sites des r\u00e9seaux sociaux](7.png)\nLes gens et les publications sur les sites sociaux comme Facebook ou YouTube sont des sources. Des groupes existent autour de tous les sujets imaginables. C'est un bon endroit pour faire des recherches en arri\u00e8re plan et des entrevues de conduite . Il est important de vous identifier en tant que journaliste lors de l'utilisation des sites sociaux comme outils de reportage. Il est \u00e9galement important d'\u00eatre transparent sur vos sources avec les \u00e9diteurs et les agences de presse.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## Conseils pour trouver et utiliser les sources\nDemandez-vous toujours si vous avez les meilleures sources possibles de votre histoire - sont-ils le plus qualifi\u00e9? Vous devez \u00e9galement vous demander si vous avez une bonne vari\u00e9t\u00e9 de sources - font tous partie du probl\u00e8me\u00a0 repr\u00e9sent\u00e9? Plus que le probl\u00e8me est controvers\u00e9e, plus qu'il devient difficile de trouver de bonnes sources.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "### Les sources ne devraient jamais \u00eatre form\u00e9es", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "### La transparence est la cl\u00e9\nVos sources doivent \u00eatre clairement et compl\u00e8tement identifi\u00e9s", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "### Respectez l'accord d'\u00eatre seulement en arri\u00e8re plan avec vos sources\nLes sources peuvent choisir de vous donner des informations que en arri\u00e8re plan. Cela signifie que vous ne pouvez pas les identifier ou de les citer dans votre d\u00e9claration. Les sources en arri\u00e8re plan peuvent \u00eatre un excellent moyen d'apprendre \u00e0 propos votre sujet. Par exemple, une source un minist\u00e8re important du gouvernement peut vous faire basculer des histoires avant qu'ils ne surviennent et vous donner des informations importantes \u00e0 utiliser dans vos rapports. Il est important de toujours respecter l'accord \"arri\u00e8re plan-seulement\" avec une source. Lorsque vous briser ces accords avec des sources, ils ne sont pas susceptibles de continuer vous fournir des informations pr\u00e9cieuses.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "### Attribution\nChaque fois que vous utilisez les mots ou les id\u00e9es de quelqu'un d'autre, qu'il soit imprim\u00e9 ou parl\u00e9, attribuez les \u00e0 la source. Attribuer les information prises des organismes de presse, et fournir un lien si cela est possible. Cela donnera aux lecteurs, de pr\u00e9cieuses informations suppl\u00e9mentaires. Ne pas utiliser la copie exacte d'un communiqu\u00e9 de presse sans attribution. S'efforcer d'aller au-del\u00e0 du communiqu\u00e9 de presse en s'appuyant sur d'autres sources. Ne pas utiliser du mat\u00e9riel de sites obscures ou des sites tels que l'encyclop\u00e9die Wikipedia sans confirmer les informations de la source d'origine. Vos t\u00e9l\u00e9spectateurs, lecteurs, ou les auditeurs devraient \u00eatre en mesure d'identifier imm\u00e9diatement la source de toute information fournie. Les informations prises directement ou paraphras\u00e9es d'autres sources d'information ne sont pas des exception.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "text": "### Identifier quand accorder l'anonymat \u00e0 une source\nCertaines sources vont demander l'anonymat quand ils ne en ont pas besoin. Soyez prudent sur dissimulant l'identit\u00e9 de ces sources; elle sape votre cr\u00e9dibilit\u00e9 en tant que journaliste et affecte n\u00e9gativement la cr\u00e9dibilit\u00e9 de votre histoire. L'octroi de l'anonymat \u00e0 une source ne devrait \u00eatre utilis\u00e9e qu'en dernier recours.\nLes situations dans lesquelles vous pourriez accorder l'anonymat \u00e0 une source comprennent lorsque la vie ou l'emploi de la source serait en danger se il / elle ont \u00e9t\u00e9 identifi\u00e9s. Dans ces rares cas, travailler avec votre source pour d\u00e9terminer quelles informations vous pouvez utiliser dans votre histoire pour identifier sa place dans l'histoire. Par exemple, \"un fonctionnaire au d\u00e9partement d'Etat qui a parl\u00e9 de la condition de l'anonymat parce qu'elle n'est pas autoris\u00e9 \u00e0 parler \u00e0 la presse,\" ou \"un membre de la communaut\u00e9 dont la vie a \u00e9t\u00e9 menac\u00e9e et qui est actuellement dans la clandestinit\u00e9.\"", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "text": "## A NE PAS OUBLIER\n\n&&bull; Votre histoire ne sera aussi bonne que par vos sources et vos personnages\n&bull; Il est important d'avoir une vari\u00e9t\u00e9 de sources pour votre histoire.\n&bull; Il existe de diff\u00e9rents types de sources. Utilisez-les de mani\u00e8re appropri\u00e9e.\n&bull; Tous vos sources ne sont pas des personnages dans votre histoire. Certaines des meilleures sources ne fournissent que des informations en arri\u00e8re plan.\n&bull; Soyez transparents \u00e0 propos vos sources et attribuez les mati\u00e8res provenant d'autres publications.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_14"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Si vous voulez savoir combien de personnes ont \u00e9t\u00e9 bless\u00e9es dans un tremblement de terre, vous pourriez demander quels types de sources suivants?", 
+            "choices": [
+                {
+                    "text": "Une source r\u00e9actionnaire.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Une source autoris\u00e9e.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Une source d'information", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Aucune de ces r\u00e9ponses.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Vrai ou Faux: Une source de fond est quelqu'un qui accepte de vous parler en mode priv\u00e9, ce qui signifie son nom n'appara\u00eetra pas dans l'histoire. Pour \u00eatre honn\u00eate, il est OK pour publier le nom.", 
+            "choices": [
+                {
+                    "text": "Vrai", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Faux", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "En plus de parler aux gens, les recherches et les documents source sont des \u00e9l\u00e9ments importants du bon journalisme. Quelles sont les bonnes sources pour ce genre de d\u00e9claration?", 
+            "choices": [
+                {
+                    "text": "les Flux RSS.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Les \u00e9tudes produites par des organismes \u00e0 but non lucratif ou par le gouvernement.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Les sites sociaux, sp\u00e9cialement ceux qui produisent des statistiques \u00e0 propos des lecteurs et des visiteurs.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Tout ce qui pr\u00e9c\u00e8de.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "selecting_and_verifying_sources", 
+    "title": "La S\u00e9lection et la v\u00e9rification des sources"
+}

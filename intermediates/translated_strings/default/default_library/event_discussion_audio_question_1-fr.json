@@ -1,0 +1,13 @@
+{
+    "event_discussion_audio_question1::evaluation_card_0::text": "Est-ce que votre histoire nous raconte pourquoi l'événement est important?",
+    "event_discussion_audio_question1::clip_card_5::goals[0]": "Pourquoi l'événement est-il important?",
+    "event_discussion_audio_question1::clip_card_1::goals[0]": "Enregistrer des sons qui introduisent votre discussion.",
+    "event_discussion_audio_question1::clip_card_4::goals[0]": "Pourquoi l'événement est-il important?",
+    "event_discussion_audio_question1::clip_card_7::goals[0]": "Enregistrer des sons pour montrer comment s'est terminé l’événement.",
+    "event_discussion_audio_question1::title": "Discussion sur un événement - Pourquoi",
+    "event_discussion_audio_question1::clip_card_0::goals[0]": "Enregistrer des sons pour montrer où s'est déroulé l'événement.",
+    "event_discussion_audio_question1::clip_card_3::goals[0]": "Pourquoi l'événement est-il important?",
+    "event_discussion_audio_question1::clip_card_6::goals[0]": "Pourquoi l'événement est-il important?",
+    "event_discussion_audio_question1::clip_card_0::goals[1]": "Enregistrer des sons d'une place importante pour l'événement.",
+    "event_discussion_audio_question1::clip_card_2::goals[0]": "Pourquoi l'événement est-il important?"
+}

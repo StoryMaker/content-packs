@@ -1,0 +1,236 @@
+{
+    "cards": [
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "audio", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "goals": [
+                "Fata amajwi yahantu habereye iyo ngorane."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Koresha ijwi ryawe cank usabe wamuntu asigure iyo ngorane."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:20", 
+            "goals": [
+                "Fata ijwi isigura iyo ngorane."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "Kubaza ikibazo :gute iyo ingorane ibangamira abantu, canke abanyagihugu?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Gufata amajwi avuga ingaruka iyo ngorane yagize kubantu."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:14", 
+            "goals": [
+                "Fata amajwi y\u2019ikintu cibonekeza muriyo ngorane."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:25", 
+            "goals": [
+                "Baza umuhinga : gute abandi bashobora gufasha mugukemura iyo ngorane ?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Gufata amajwi yahantu hakorera abahinga."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:15", 
+            "goals": [
+                "Fata amajwi y\u2019abantu bariko bakorera kuriyo ngorane."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:40", 
+            "goals": [
+                "Tubwire bimwe bimwe bikenewe bijanye n\u2019iyo ngorane canke kuberiki iyo ngorane yatanguye."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_9"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "Baza uwo musaba inkuru :ryari iyo ngorane yatanguye ubwambere ?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_10"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "goals": [
+                "Fata amajwi y'ikintu gihambaye kijanye n'iyo ngorane."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_11"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "Tubwire ingene iyo ngorane iriko irahinduka bivanye n\u2019inyishu yatanzwe nibikorwa vyuwo muntu mu nkuru."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_12"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:15", 
+            "goals": [
+                "Gufata amajwi yuwo muntu ariko araganira nabashikiwe n\u2019iyo ngarane."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_13"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:20", 
+            "goals": [
+                "Kubaza umuntu yashikiwe n\u2019iyo ngorane :n\u2019igiki cokorwa kuriyo ngorane?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_14"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:14", 
+            "goals": [
+                "Fata amajwi yabantu bariko baratorera inyishu iyo ngorane."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_15"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:25", 
+            "goals": [
+                "Kubaza ikibazo :hakozwe iki kubijanye n\u2019iyo ngorane ? "
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_16"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:14", 
+            "goals": [
+                "Fata amajwi yukungene abantu bariko bagerageza gukemura iyo ngorane."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_17"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:20", 
+            "goals": [
+                "Tubwire ibitegekanijwe kuriyo ngorane muri kazoza."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_18"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "edit", 
+                "audio", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "narration"
+            ]
+        }, 
+        {
+            "text": "--------", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "issue_report_audio", 
+    "title": "Gutanga inkuru ijanye n\u2019iyo ngorane."
+}

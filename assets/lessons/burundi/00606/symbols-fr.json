@@ -1,0 +1,88 @@
+{
+    "cards": [
+        {
+            "text": "# Comment puis - je utiliser les symboles dans mon histoire?\n## Dans cette le\u00e7on vous allez apprendre:\n&bull; Que fait d'un chose un symbole\n&bull; Comment les symboles am\u00e9liorent votre histoire\n&bull; Comment trouver un symbole puisant", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Les bonnes histoires font usage des symboles. Un symbole est tout ce qui a une signification associ\u00e9e puissant pour les gens. Il peut \u00eatre un objet, l'action, le nom, ou un \u00e9v\u00e9nement. Les symboles signifient souvent des choses diff\u00e9rentes pour diff\u00e9rentes personnes, en particulier pour les personnes de diff\u00e9rentes soci\u00e9t\u00e9s ou cultures. Pour rendre vos histoires puissant, vous devriez inclure des symboles visuels. Audiences comprennent \u00e9motionnellement et rapidement. Seuls les symboles peuvent raconter de belles histoires.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Une fa\u00e7on de dire de belles histoires est en suivant l'\u00e9volution du sens des symboles. Par exemple, dans les premiers jours apr\u00e8s la r\u00e9volution de 2011 en Libye, graffiti couvert les murs des plus grandes villes du pays. Au d\u00e9but, ce graffiti \u00e9tait comme un symbole d'espoir, des d\u00e9sirs de la nouvelle g\u00e9n\u00e9ration de la Libye. La m\u00eame graffiti dans les rues appara\u00eet d\u00e9sormais comme un symbole de l'espoir perdu et r\u00eaves insens\u00e9s du peuple de Libye.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Parfois les symboles sont puissants pr\u00e9cis\u00e9ment parce qu'ils endurent, par exemple, une image d'une montagne qui reste inchang\u00e9 apr\u00e8s un tremblement de terre ou une statue d'une grande figure culturelle d'il y'a longtemps.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Trop souvent les reportages d\u00e9peignent des informations seulement d'une fa\u00e7on litt\u00e9rale. Le journaliste ne consid\u00e8re pas la mani\u00e8re de transmettre l'information ou raconter une histoire d'une mani\u00e8re visuellement plus convaincant en utilisant des symboles. Le contenu visuel pr\u00e9sent\u00e9 sans pens\u00e9e \u00e0 la puissance du symbolisme peut \u00eatre simpliste. Ce manque de profondeur est une des premi\u00e8res raisons que les infos\u00a0 peut appara\u00eetre terne et sans int\u00e9r\u00eat.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "Il est important de ne pas abuser les symboles ou les utiliser d'une mani\u00e8re\u00a0 clich\u00e9 ou ils peuvent \u00eatre interpr\u00e9t\u00e9s comme de la propagande. Il est \u00e9galement important de se rappeler que les gens comprennent\u00a0 les symboles de diff\u00e9rentes mani\u00e8res.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "Voici quelques exemples de symboles et comment ils changent \u00e0 mesure que l'histoire se d\u00e9veloppe:\n&bull; Dans une guerre, les soldats sont la chasse un homme. Le village le cache, mais il est menac\u00e9 de destruction s'il ne sort pas. Avant qu'il abandonne, il symbolise l'\u00e9go\u00efsme; il est pr\u00eat \u00e0 laisser tout le village souffrent juste pour lui. Quand il abandonne et sauve le village, il symbolise la bravoure et la g\u00e9n\u00e9rosit\u00e9.\n&bull; Dans une course \u00e0 la pr\u00e9sidence, un politicien consid\u00e8re courir contre son fr\u00e8re. Lorsque le politicien parle en faveur de son fr\u00e8re, il symbolise la loyaut\u00e9. Quand il d\u00e9clare sa propre candidature contre son fr\u00e8re, il symbolise la trahison.\n&bull; Un joueur de football qui marque le but de vainqueur de la Coupe symbolise un h\u00e9ros. Quand il est expos\u00e9 comme un mari violent, il est consid\u00e9r\u00e9 comme un l\u00e2che.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Un politicien qui est reconnu coupable de corruption ne parvient pas \u00e0 se faire r\u00e9\u00e9lire. Il symbolise:", 
+            "choices": [
+                {
+                    "text": "Arrogance.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Le syst\u00e8me \u00e9lectoral.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "La punition", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Un soldat bless\u00e9 est dit qu'il ne marchera plus jamais. Il est confin\u00e9 \u00e0 un fauteuil roulant et les luttes pendant des mois jusqu'\u00e0 ce qu'il prenne enfin ses premiers pas. Il symbolise:", 
+            "choices": [
+                {
+                    "text": "Un miracle.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Mauvais m\u00e9decins.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "D\u00e9termination", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "symbols", 
+    "title": "Symboles"
+}

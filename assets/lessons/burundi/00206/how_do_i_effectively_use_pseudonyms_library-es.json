@@ -1,0 +1,23 @@
+{
+    "title": "Introducci\u00f3n al Periodismo", 
+    "storyPathTemplateFiles": {
+        "introduction_to_journalism": ".json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": null, 
+            "dependencyFile": ".json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": null
+        }
+    ], 
+    "currentStoryPathFile": ".json", 
+    "id": null
+}

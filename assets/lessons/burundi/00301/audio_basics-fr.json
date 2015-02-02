@@ -1,0 +1,170 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Je n'ai jamais enregistr\u00e9 une histoire audio. Quels sont les bases que je devrais savoir?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Dans cette le\u00e7on vous allez apprendre:\n&bull; Comment confirmer que vous enregistrez les sons que vous attendez.\n&bull; Comment enregistrer plusieurs sources audio pour faire votre histoire", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "![Planifier une histoire audio](2.png)\nEnregistrer un  audio n'est pas aussi compliqu\u00e9 comme le pr\u00e9parer des vid\u00e9os ou des photos, mais il exige des connaissances techniques de base combin\u00e9e avec un bon plan de raconter une histoire en utilisant uniquement du son. Parce qu'il n'y a pas d'image, vous devez aider le public \u00e0 visualiser l'histoire \u00e0 travers votre utilisation de sons. Son clair et int\u00e9ressant peut peindre une bonne image dans l'esprit de quiconque \u00e9coute. L'astuce est de pr\u00e9senter ces sons de la meilleure fa\u00e7on possible de cr\u00e9er une image mentale convaincante.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## Techniques d'enregistrement\nQue vous enregistrez des voix ou capturer les sons ambiants \u00e0 utiliser dans votre histoire, assurez-vous que vous \u00eates en train d'enregistrer un son qui peut \u00eatre entendu clairement. Vous ne voulez pas penser que vous avez enregistr\u00e9 quelque chose d'utilisable pour votre histoire et d'apprendre que vous avez manqu\u00e9 une partie, ne pas enregistrer quoi que ce soit, ou vos niveaux \u00e9taient si mauvaises et\u00a0 l'enregistrement ne est pas compr\u00e9hensible. Testez le niveau avant de l'enregistrer; assurez-vous qu'il n'est ni trop fort ni trop calme, et que les sons aigus ou soudains, comme tourner une page tout \u00e0 coup, ou klaxons dehors, ne fera pas le contenu que vous souhaitez enregistrer inaudible. Une fois que vous commencez \u00e0 enregistrer, vous devez attendre quelques secondes avant de parler, et de faire la m\u00eame chose avant que vous appuyez sur le bouton pour arr\u00eater l'enregistrement; donner quelques secondes suppl\u00e9mentaires de silence.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "3.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Exemple d'un enregistrement audio o\u00f9 certains sons sont trop forts.", 
+            "exampleMediaPath": "3.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "4.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Exemple de comment enregistrer le silence avant et apr\u00e8s votre clip.", 
+            "exampleMediaPath": "4.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "## L'utilisation des sources audio\nVous \u00eates en train de peindre un tableau et cr\u00e9er l'histoire dans l'esprit d'un auditeur. Vous pouvez peindre cette image en utilisant de nombreuses sources d'audio, y compris les voix des gens, les sons d'un \u00e9v\u00e9nement, vos propres sons voix (dynamique et \u00e9motionnelle) expliquant ou racontant une histoire, et ambiantes qui fixent la sc\u00e8ne, comme les hommes qui travaillent, les manifestants scandant , les sons d'une cuisine. Toute histoire donn\u00e9e peut avoir de multiples sources audio, qui lorsqu'ils sont utilis\u00e9s ensemble, vont raconter une belle histoire que les auditeurs pourront voir et sentir.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "5.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Exemple d'utilisation des sources de son.", 
+            "exampleMediaPath": "5.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "6.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Exemple d'utilisation des sources de son.", 
+            "exampleMediaPath": "6.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "## A NE PAS OUBLIER\n&bull; Lancez l'enregistrement avant de poser une question, permettant \u00e0 quelques secondes de silence avant de parler. Lorsque votre question est r\u00e9solue, enregistrer quelques secondes de silence \u00e0 la fin avant de se arr\u00eater.\n&bull; En utilisant des \u00e9couteurs, v\u00e9rifiez vos niveaux audio avec un court enregistrement avant de commencer l'enregistrement de clips \u00e0 utiliser dans votre histoire.\n&bull; utilisez des sources de son multiples pour raconter votre histoire.\n&bull; Trouvez des sons diff\u00e9rents et des citations qui vous aideront \u00e0 raconter votre histoire. Essayez d'utiliser votre propre voix aussi peu que possible et raconter l'histoire \u00e0 travers les voix des autres.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Que dois-je faire pour m'assurer que mes niveaux audio sont corrects?", 
+            "choices": [
+                {
+                    "text": "Avoir des \u00e9couteurs en marche lors de l'enregistrement.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Faire un test d'enregistrement avant de commencer.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Si vous avez un r\u00e9glage du niveau audio, ajustez le par cons\u00e9quent.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Tout ce qui pr\u00e9c\u00e8de", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Oui ou Non: Une bonne histoire peut avoir plus d'une source audio?", 
+            "choices": [
+                {
+                    "text": "Non", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Oui", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "oui, mais au maximum deux sources seulement.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Pourquoi devriez-vous taper enregistrer et attendre cinq secondes avant que vous commencez \u00e0 parler?", 
+            "choices": [
+                {
+                    "text": "Pour vous donner cinq secondes pour se rappeler de vos questions.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Pour rendre votre histoire plus int\u00e9ressante.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Pour vous assurer que vous ne coupez pas le d\u00e9but de votre enregistrement.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "audio_basics", 
+    "title": "Notions de base pour l'audio"
+}

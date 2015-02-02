@@ -1,0 +1,19 @@
+{
+    "issue_interview_audio::clip_card_10::goals[0]": "Enregistrer des sons de la façon dont le personnage est en train de résoudre le problème.",
+    "issue_interview_audio::clip_card_3::goals[0]": "Enregistrer des sons de l'impact du problème sur les gens.",
+    "issue_interview_audio::clip_card_6::goals[0]": "Quand est-ce que le problème s'est commencée d'abord?",
+    "issue_interview_audio::clip_card_9::goals[0]": "Enregistrer des sons du personnage en interaction avec ceux qui sont affectés.",
+    "issue_interview_audio::title": "Interview dans un problème.",
+    "issue_interview_audio::clip_card_14::goals[0]": "Que voulez-vous voir se passer concernant ce problème?",
+    "issue_interview_audio::clip_card_7::goals[0]": "Enregistrer des sons du lieu où se passe le problème.",
+    "issue_interview_audio::clip_card_4::goals[0]": "Poser la question: Comment le problème affecte les individus ou la communauté?",
+    "issue_interview_audio::evaluation_card_0::text": "--------",
+    "issue_interview_audio::clip_card_12::goals[0]": "Enregistrer des sons de ce que des gens sont en train de faire à propos du problème.",
+    "issue_interview_audio::clip_card_0::goals[0]": "Enregistrer des sons du lieux de travail du personnage.",
+    "issue_interview_audio::clip_card_13::goals[0]": "Enregistrer des sons de quelque chose remarquable à propos du problème.",
+    "issue_interview_audio::clip_card_2::goals[0]": "Présenter le problème.",
+    "issue_interview_audio::clip_card_11::goals[0]": "Comment peuvent les autres aider à résoudre le problème?",
+    "issue_interview_audio::clip_card_5::goals[0]": "Enregistrer des sons de la chose la plus importante à propos du problème.",
+    "issue_interview_audio::clip_card_8::goals[0]": "Poser la question: Qu'est ce qu'on a fait à propos de ce problème?",
+    "issue_interview_audio::clip_card_1::goals[0]": "Enregistrer des sons des gens travaillant sur le problème."
+}

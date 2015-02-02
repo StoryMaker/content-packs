@@ -1,0 +1,119 @@
+{
+    "cards": [
+        {
+            "text": "# le Climax\n## Dans cette le\u00e7on vous allez apprendre:\n&bull; Le r\u00f4le du Climax dans l'histoire.\n&bull; Comment le Climax peut \u00eatre int\u00e9gr\u00e9  dans une histoire de presse.\n&bull; La relation entre le Climax et la question centrale.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Les bonnes histoires nous introduisent une id\u00e9e centrale, souvent un conflit ou une question, et un personnage. Ils d\u00e9veloppent l'id\u00e9e selon un arc de tension vers une sorte de r\u00e9v\u00e9lation ou de la confrontation, appel\u00e9 le climax. Le climax est le pic \u00e9motionnel de l'histoire. Dans une bonne histoire, tout ce qui pr\u00e9c\u00e8de le point culminant construit vers le climax.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Un probl\u00e8me commun avec beaucoup de couverture des actualit\u00e9s est qu'il n'y a pas de structure de l'histoire et aucun point culminant. Les t\u00e9l\u00e9spectateurs ne sont pas pris \u00e0 travers un arc d'histoire d\u00e9fini, et aucun point culminant est livr\u00e9. L'information est tout simplement enfil\u00e9es et pr\u00e9sent\u00e9 comme un peu plus d'une liste de faits; l'histoire se d\u00e9place \u00e0 partir de d\u00e9but \u00e0 la fin sans tension dramatique ou l'excitation.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Les journalistes ont besoin de r\u00e9fl\u00e9chir \u00e0 la structure et l'apog\u00e9e lors de la d\u00e9claration des histoires. Dans une bonne histoire, il y aura des mesures ou des \u00e9v\u00e9nements qui augmentent la tension et incitent le public que l'histoire progresse vers le point culminant. Mais le climax est le moment o\u00f9 la question centrale de l'histoire est r\u00e9pondu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Il est essentiel que le climax r\u00e9pond \u00e0 la question centrale de l'histoire, sinon l'histoire semblera incompl\u00e8te, et le public sera laiss\u00e9 insatisfait et peut se sentir flou\u00e9s. Voici quelques exemples de climax qui r\u00e9pondent \u00e0 une question centrale:\n&bull; Question centrale: le politicien prouve son innocence? Climax: Il est reconnu coupable de corruption.\n&bull; Question centrale: Est-ce que l'ouragan va d\u00e9truire le village? Climax: Seules 10 maisons ont \u00e9t\u00e9 laiss\u00e9s debout.\n&bull; Question centrale: Est ce que la c\u00e9l\u00e9brit\u00e9 est le p\u00e8re de l'enfant de cette femme? Climax: les r\u00e9sultats des tests d'ADN montrent qu'il n'est pas le p\u00e8re.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "## A NE PAS OUBLIER\n&bull; Le point culminant -Climax- devrait r\u00e9pondre \u00e0 votre question centrale.\n&bull; La mati\u00e8re que vous \u00eates capables de rapporter limite le climax que vous pouvez pr\u00e9senter et peut changer votre question centrale.\n&bull; Consid\u00e9rez le potentiel de votre propre voix pour r\u00e9pondre \u00e0 l'apog\u00e9e utilisant la narration, s'il ne est pas clair \u00e0 partir de vos images, mais jamais cr\u00e9er des faits qui ne sont pas l\u00e0.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "Dans ces histoires sur une \u00e9pid\u00e9mie de rougeole, quel climax r\u00e9pond aux questions centrales respectives? (Il peut y avoir plus d'une r\u00e9ponse.)", 
+            "choices": [
+                {
+                    "text": "Question centrale: les parents vont amener leurs enfants pour la vaccination contre la rougeole? Climax: Cinquante pour cent des parents ont amen\u00e9 leurs enfants pour la vaccination.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Question centrale: des enfants meurent \u00e0 la suite de l'\u00e9pid\u00e9mie de la rougeole? Climax: Jusqu'\u00e0 pr\u00e9sent, aucun d'enfants sont morts.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Question centrale: l'\u00e9pid\u00e9mie se est propag\u00e9e en dehors de cette communaut\u00e9? Climax: Non, tous les enfants infect\u00e9s sont rester \u00e0 la maison jusqu'\u00e0 ce qu'ils ne sont plus contagieux.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "Dans ces histoires \u00e0 propos d'une manifestation sur la place principale de la ville, quel climax r\u00e9pond aux questions centrales respectives? (Il peut y avoir plus d'une r\u00e9ponse.)", 
+            "choices": [
+                {
+                    "text": "Question centrale: les personnes arr\u00eat\u00e9es vont -ils\u00a0 \u00eatre inculp\u00e9s ou rel\u00e2ch\u00e9s? Climax: Tous sauf un manifestant a \u00e9t\u00e9 lib\u00e9r\u00e9.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Question centrale: est-ce que le pr\u00e9sident va d\u00e9missionner? Climax: Le pr\u00e9sident refuse de d\u00e9missionner.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Question centrale: est-ce que la police va disperser la manifestation? Climax: La police rejoigne les manifestants.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Question centrale: Qui va gagner le contr\u00f4le de la place? Climax: Le bras de fer entre la police et les manifestants se poursuit toute la nuit.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "Dans ces histoires sur le joueur de football bless\u00e9s, quel climax r\u00e9pond aux questions centrales respectives? (Il peut y avoir plus d'une r\u00e9ponse.)", 
+            "choices": [
+                {
+                    "text": "Question centrale: Sera-t-il apte \u00e0 jouer pour la Coupe du Monde? Climax: Il le fait juste \u00e0 l'\u00e9quipe de Coupe du Monde, mais il n'a pas jou\u00e9 une seule partie.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Question centrale:va-t-il jamais jouer un autre jeu? Climax: Il a la chirurgie pour r\u00e9parer son genou.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Question centrale: le club de football va le retirer de l'\u00e9quipe? Climax: Il se retire de jouer au football.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Question centrale: son contrat de transfert est-il encore valable ? Climax: L'autre club l'ach\u00e8te pour la moiti\u00e9 des frais d'origine.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "climax", 
+    "title": "Climax"
+}

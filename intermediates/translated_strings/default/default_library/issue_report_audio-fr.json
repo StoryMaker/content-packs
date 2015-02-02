@@ -1,0 +1,23 @@
+{
+    "issue_report_audio::clip_card_14::goals[0]": "Demander à quelqu'un affecté: Que voudriez-vous voir se produire concernant le problème?",
+    "issue_report_audio::clip_card_4::goals[0]": "Enregistrer des sons de l'impact du problème sur les gens.",
+    "issue_report_audio::clip_card_13::goals[0]": "Enregistrer des sons du personnage en interaction avec ceux qui sont affectés.",
+    "issue_report_audio::clip_card_10::goals[0]": "Demander à une source d'information: Quand le problème s'est commencé au début?",
+    "issue_report_audio::clip_card_7::goals[0]": "Enregistrer des sons du lieux de travail des experts.",
+    "issue_report_audio::clip_card_0::goals[0]": "Enregistrer où s'est produit le problème.",
+    "issue_report_audio::clip_card_3::goals[0]": "Poser la question: Comment le problème affecte les individus ou la communauté?",
+    "issue_report_audio::clip_card_15::goals[0]": "Enregistrer des sons de ce que des gens sont en train de faire à propos du problème.",
+    "issue_report_audio::clip_card_6::goals[0]": "Demander à un expert: Comment peuvent les autres aider pour résoudre ce problème?",
+    "issue_report_audio::clip_card_11::goals[0]": "Enregistrer des sons de la chose la plus importante à propos du problème.",
+    "issue_report_audio::clip_card_16::goals[0]": "Poser la question: Qu'est ce qu'on a fait à propos de ce problème?",
+    "issue_report_audio::clip_card_2::goals[0]": "Enregistrer un son introduisant le problème.",
+    "issue_report_audio::clip_card_17::goals[0]": "Enregistrer des sons de la façon dont le(s) personnages est en train de résoudre le problème.",
+    "issue_report_audio::clip_card_12::goals[0]": "Dites-nous comment le problème est en train de changer en réponse aux actions des personnages de l'histoire.",
+    "issue_report_audio::title": "Reportage à propos un problème",
+    "issue_report_audio::clip_card_18::goals[0]": "Dites-nous ce qui est prévu pour le problème dans le futur.",
+    "issue_report_audio::clip_card_9::goals[0]": "Nous dire quelques faits intéressants à propos de l'histoire du problème ou bien pourquoi il s'est commencé.",
+    "issue_report_audio::evaluation_card_0::text": "--------",
+    "issue_report_audio::clip_card_5::goals[0]": "Enregistrer des sons de quelque chose remarquable à propos du problème.",
+    "issue_report_audio::clip_card_8::goals[0]": "Enregistrer des sons des gens travaillant sur le problème.",
+    "issue_report_audio::clip_card_1::goals[0]": "Utiliser votre propre voix ou bien demander à votre personnage d'introduire le problème."
+}

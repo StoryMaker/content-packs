@@ -1,0 +1,148 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "\u00bfC\u00f3mo funciona una c\u00e1mara digital?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n podr\u00e1 aprender:  \n&bull; C\u00f3mo funciona la c\u00e1mara en su dispositivo m\u00f3vil.  \n&bull; Qu\u00e9 es el obturador, la apertura, y la ISO.\n&bull; Una introducci\u00f3n al tri\u00e1ngulo de exposici\u00f3n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "![Ejemplo de sensor](2.png)\nUna gran parte de la comprensi\u00f3n de c\u00f3mo funciona una c\u00e1mara y c\u00f3mo utilizarla, es comprender que no lo hace bien comparada con el ojo humano. Su ojo puede ver detalles en lugares con un contraste extremadamente bajo \u2014 reflejos en la cima cubierta de nieve de una monta\u00f1a, por ejemplo, y sombras oscuras en la entrada de una cueva en la falda de esa misma monta\u00f1a. Las c\u00e1maras digitales no siempre pueden ver detalles visibles para sus ojos. Las im\u00e1genes a menudo aparecen demasiado brillantes o demasiado oscuras.\nSu ojo es r\u00e1pido enfocando sobre aquello de inter\u00e9s singular en su campo de visi\u00f3n. A una c\u00e1mara digital hay que decirle d\u00f3nde enfocar, especialmente con luz baja, y puede ser lenta haci\u00e9ndolo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Ejemplo de una foto infraexpuesta con luz baja.](3.jpg)  \nEjemplo de una foto infraexpuesta con luz baja.\n![Ejemplo de una foto con la exposici\u00f3n correcta en luz baja.](4.jpg)  \nEjemplo de una foto con la exposici\u00f3n correcta en luz baja.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![C\u00f3mo funciona una c\u00e1mara.](5.png)  \n## C\u00f3mo funciona una c\u00e1mara\nUna c\u00e1mara digital es muy simple. Tiene un sensor digital que recoge luz, un bot\u00f3n del obturador que controla durante cuanto tiempo se expone el sensor a la luz, y una lente para controlar la cantidad de luz que incide en el sensor. Aqu\u00ed tiene una breve explicaci\u00f3n de cada uno.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![El sensor](6.png)  \n## El sensor\nC\u00f3mo un sensor de c\u00e1mara capta la luz:  \n  \nA. Luz incidente  \nB. Filtros de color  \nC. La luz se convierte en electricidad  \nD. El sensor est\u00e1 hecho de millones de p\u00edxeles que recogen la luz.  \n  \nDentro de cada c\u00e1mara digital hay un sensor que registra la luz. Estos sensores pueden tener diferentes de formas, tama\u00f1os, y dise\u00f1os. Los sensores m\u00e1s grandes son mejores registrando buen color e im\u00e1genes definidas, especialmente con luz baja.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![Uso de la ISO para distintos entornos](7.png)  \nLos sensores digitales pueden ajustarse a diferentes niveles para la grabaci\u00f3n, incrementando o reduciendo su sensibilidad a la luz. El sistema para ajustar la sensibilidad del sensor se llama ISO, y se mide en un rango num\u00e9rico, en su dispositivo m\u00f3vil t\u00edpicamente desde 100 a 800 y m\u00e1s alto. Su ISO debe ser m\u00e1s alta con luz baja (800) y m\u00e1s baja con luz brillante (100). Su c\u00e1mara establecer\u00e1 la ISO autom\u00e1ticamente. Pero muchos dispositivos Android y aplicaciones de c\u00e1mara le permitir\u00e1n establecerlo manualmente.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "## El obturador\nCuando pulsa el bot\u00f3n del obturador, la c\u00e1mara activa el sensor. Esto controla la duraci\u00f3n del intervalo en que esa luz es absorvida por el sensor. Esto se llama velocidad del obturador. En fotograf\u00eda esto se mide en fracciones de un segundo. El obturador permite a los fot\u00f3grafos congelar la acci\u00f3n. Si el obturador es demasiado lento, el movimiento del sujeto puede ser grabado por el sensor, haciendo que parezca borroso. Puede que no tenga el espectro completo de funciones de obturador en su dispositivo m\u00f3vil. \nLa mayor\u00eda de los dispositivos m\u00f3viles no le permitir\u00e1n controlar directamente el obturador. Pero muchas c\u00e1maras Android y aplicaciones de c\u00e1mara le ofrecer\u00e1n un perfil para fotos en movimiento que funciona propiciando una velocidad de obturador m\u00e1s r\u00e1pida en el c\u00e1lculo de exposici\u00f3n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![C\u00f3mo funciona la apertura de una c\u00e1mara](8.png)  \n## Apertura  \nLa apertura es una peque\u00f1a v\u00e1lvula o iris que controla la cantidad de luz que incide sobre la lente de la c\u00e1mara. Cuanto m\u00e1s grande sea la apertura de la v\u00e1lvula, m\u00e1s luz incidir\u00e1 sobre el sensor. Cuanto m\u00e1s peque\u00f1a sea la v\u00e1lvula de iris, menos luz incidir\u00e1 sobre el sensor.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## Equilibrar el tri\u00e1ngulo de exposici\u00f3n  \n![Ejemplo de oscura y borrosa.](9.jpg)  \nEjemplo de una foto desequilibrada.  \n![Ejemplo de brillante y definida.](10.jpg)  \nEjemplo de foto equilibrada.  \nCrear una imagen con una exposici\u00f3n apropiada es muy similar a un juego de ajustar la ISO, la apertura, y el obturado de alg\u00fan otro para alcanzar el efecto deseado. Las c\u00e1maras m\u00e1s caras proporcionan al fot\u00f3grafo un mayor control manual sobre estas caracter\u00edsticas, pero incluso los smartphones ahora le permiten ajustar la exposici\u00f3n al cambiar la ISO o tocar la pantalla en un punto que representa un valor medio de exposici\u00f3n. Algunos tambi\u00e9n tienen un zoom digital que le permite acercar o alejar el zoom.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## Working within limitations  \nUnderstanding these limitations and working within them is the key to getting the most out of your smartphone camera. Remember, if you have a smartphone and you need photos for your story, plan your coverage around time of day or lighting conditions if possible.  \n![Example of an unusable photo](11.jpg)  \nExample of an unusable photo.  \n![Usable example.](12.jpg)  \nExample of a balanced photo.  \nAdditionally, while the image of ambulances speeding by might be a great one for your story, you may opt to also take a more static picture of the front of the hospital to make sure you have a usable image in case the ambulance photo doesn\u2019t work out.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Las c\u00e1maras de smartphone son esas c\u00e1maras de tel\u00e9fono que est\u00e1n limitadas en lo que pueden hacer comparadas con las m\u00e1s grandes c\u00e1maras compactas y ciertamente las r\u00e9flex digitales (dSLRs).  \n&bull; No tiene el mismo grado de control manual con una c\u00e1mara de smartphone que la que tiene con una c\u00e1mara compacta o una r\u00e9flex digital.\n&bull; Las c\u00e1maras de smartphone son dif\u00edciles de usar con luz baja.  \n&bull; Las c\u00e1maras de smartphone a veces tienen dificultades con el movimiento r\u00e1pido.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "La c\u00e1mara est\u00e1 limitada en su capacidad de recoger luz, \u00bfen cu\u00e1l de las siguientes formas?:", 
+            "choices": [
+                {
+                    "text": "Requiere m\u00e1s luz para exponer una escena de la que necesita su ojo para verla.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "La c\u00e1mara tiene dificultades para congelar la acci\u00f3n donde su ojo (y su cerebro) lo hacen f\u00e1cilmente.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Su ojo puede decidir y ajustar el foco r\u00e1pidamente; una c\u00e1mara es m\u00e1s lenta y necesita instrucciones espec\u00edficas acerca de d\u00f3nde enfocar.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todo lo anterior", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Verdadero o falso: La calidad de imagen del smartphone es fundamentalmente la misma que la de muchas c\u00e1maras compactas y c\u00e1maras profesionales. La diferencia es que puede que no tenga un control manual de la exposici\u00f3n, y que la lente y la apertura que incorporan es muy peque\u00f1a.", 
+            "choices": [
+                {
+                    "text": "Verdadero", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falso", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfQu\u00e9 ocurre cuando pulsa el obturador en una c\u00e1mara de smartphone?", 
+            "choices": [
+                {
+                    "text": "Toma la fotograf\u00eda.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Enfoca la imagen.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Decide la exposici\u00f3n.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todo lo anterior.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "camera_basics", 
+    "title": "Fundamentos de la c\u00e1mara"
+}
