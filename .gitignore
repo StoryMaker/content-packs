@@ -58,7 +58,3 @@ target/
 *.iml
 .idea/
 
-
-# storymaker stuff
-
-intermediates/
