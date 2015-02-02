@@ -38,6 +38,7 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
     cardcounts = {}
     if doc.has_key('cards'): # SPLS can have no cards
         for card in doc['cards']:
+            #print "card: %s" % card
             if card['type'] == 'MarkDownCard':
                 card['type'] = 'MarkdownCard'
                 set_id("markdown_card", card)
@@ -177,8 +178,6 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
                 card_fqid = "%s::%s" % (doc['id'], card['id'])
                 strings["%s::text" % card_fqid] = card['text']
 
-    # FIXME !!!!! edit in place like we do for cards
-
     doc['classPackage'] = 'scal.io.liger.model'
     strings['%s::title' % doc['id']] = doc['title']
 
@@ -216,13 +215,25 @@ def do_dir():
         cardcounts = {}
         fileName, fileExtension = os.path.splitext(f)
         if fileExtension == ".yaml":
-            #print "parsing %s" % f
+            print "parsing %s" % f
             in_file = yaml_dir + "/" + f
             json_out_file = "%s/%s.json" % (json_dir, fileName)
             strings_out_file = "%s/%s.json" % (strings_dir, fileName)
             parse_file(in_file, json_out_file, strings_out_file)
 
 # FIXME global vars are the best!!
+
+
+
+print "generating content for lessons"
+cardcounts = {}
+yaml_parent_dir = os.getcwd() + "/yaml/lessons/burundi"
+for f in os.listdir(yaml_parent_dir):
+    yaml_dir = "%s/%s" % (yaml_parent_dir, f)
+    json_dir = os.getcwd() + "/assets/lessons/burundi/%s" % f
+    strings_dir = os.getcwd() + "/intermediates/strings/lessons/burundi/%s" % f
+    do_dir()
+
 print "generating content for default library"
 cardcounts = {}
 yaml_dir = os.getcwd() + "/yaml/default/default_library"
@@ -247,3 +258,4 @@ yaml_dir = os.getcwd() + "/yaml/default/learning_guide_3"
 json_dir = os.getcwd() + "/assets/default/learning_guide_3"
 strings_dir = os.getcwd() + "/intermediates/strings/default/learning_guide_3"
 do_dir()
+
