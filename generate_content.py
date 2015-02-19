@@ -27,7 +27,7 @@ def set_id(key, card):
     if not card.has_key('id'):
         card['id'] = "%s_%s" % (key, get_count(key))
 
-# TODO export directly to the real assets/ folder
+# TODO export directly to the real assets/org.storymaker.app/ folder
 # TODO warn that fields existed in card but not card
 
 def parse_file(in_filename, json_out_filename, strings_out_filename):
@@ -227,35 +227,35 @@ def do_dir():
 
 print "generating content for lessons"
 cardcounts = {}
-yaml_parent_dir = os.getcwd() + "/yaml/burundi"
+yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/burundi"
 for f in os.listdir(yaml_parent_dir):
     yaml_dir = "%s/%s" % (yaml_parent_dir, f)
-    json_dir = os.getcwd() + "/assets/burundi/%s" % f
-    strings_dir = os.getcwd() + "/intermediates/strings/burundi/%s" % f
+    json_dir = os.getcwd() + "/assets/org.storymaker.app/burundi/%s" % f
+    strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/burundi/%s" % f
     do_dir()
 
 print "generating content for default library"
 cardcounts = {}
-yaml_dir = os.getcwd() + "/yaml/default"
-json_dir = os.getcwd() + "/assets/default"
-strings_dir = os.getcwd() + "/intermediates/strings/default"
+yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/default"
+json_dir = os.getcwd() + "/assets/org.storymaker.app/default"
+strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/default"
 do_dir()
 
 print "generating content for learning guide 1"
-yaml_dir = os.getcwd() + "/yaml/learning_guide/learning_guide_1"
-json_dir = os.getcwd() + "/assets/learning_guide/learning_guide_1"
-strings_dir = os.getcwd() + "/intermediates/strings/learning_guide/learning_guide_1"
+yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/learning_guide/learning_guide_1"
+json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_1"
+strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/learning_guide/learning_guide_1"
 do_dir()
 
 print "generating content for learning guide 2"
-yaml_dir = os.getcwd() + "/yaml/learning_guide/learning_guide_2"
-json_dir = os.getcwd() + "/assets/learning_guide/learning_guide_2"
-strings_dir = os.getcwd() + "/intermediates/strings/learning_guide/learning_guide_2"
+yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/org.storymaker.app/learning_guide/learning_guide_2"
+json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_2"
+strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/learning_guide/learning_guide_2"
 do_dir()
 
 print "generating content for learning guide 3"
-yaml_dir = os.getcwd() + "/yaml/learning_guide/learning_guide_3"
-json_dir = os.getcwd() + "/assets/learning_guide/learning_guide_3"
-strings_dir = os.getcwd() + "/intermediates/strings/learning_guide/learning_guide_3"
+yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/org.storymaker.app/learning_guide/learning_guide_3"
+json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_3"
+strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/learning_guide/learning_guide_3"
 do_dir()
 

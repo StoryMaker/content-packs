@@ -2,961 +2,961 @@
 host = https://www.transifex.com
 
 [storymaker.introduction_to_journalism]
-file_filter = intermediates/translated_strings/burundi/00100/introduction_to_journalism-<lang>.json
-source_file = intermediates/strings/burundi/00100/introduction_to_journalism.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00100/introduction_to_journalism-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00100/introduction_to_journalism.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.introduction_to_journalism_library]
-file_filter = intermediates/translated_strings/burundi/00100/introduction_to_journalism_library-<lang>.json
-source_file = intermediates/strings/burundi/00100/introduction_to_journalism_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00100/introduction_to_journalism_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00100/introduction_to_journalism_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.social_media_basics]
-file_filter = intermediates/translated_strings/burundi/00101/social_media_basics-<lang>.json
-source_file = intermediates/strings/burundi/00101/social_media_basics.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00101/social_media_basics-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00101/social_media_basics.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.social_media_basics_library]
-file_filter = intermediates/translated_strings/burundi/00101/social_media_basics_library-<lang>.json
-source_file = intermediates/strings/burundi/00101/social_media_basics_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00101/social_media_basics_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00101/social_media_basics_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.reporting_basics]
-file_filter = intermediates/translated_strings/burundi/00102/reporting_basics-<lang>.json
-source_file = intermediates/strings/burundi/00102/reporting_basics.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00102/reporting_basics-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00102/reporting_basics.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.reporting_basics_library]
-file_filter = intermediates/translated_strings/burundi/00102/reporting_basics_library-<lang>.json
-source_file = intermediates/strings/burundi/00102/reporting_basics_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00102/reporting_basics_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00102/reporting_basics_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.selecting_and_verifying_sources]
-file_filter = intermediates/translated_strings/burundi/00103/selecting_and_verifying_sources-<lang>.json
-source_file = intermediates/strings/burundi/00103/selecting_and_verifying_sources.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00103/selecting_and_verifying_sources-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00103/selecting_and_verifying_sources.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.selecting_and_verifying_sources_library]
-file_filter = intermediates/translated_strings/burundi/00103/selecting_and_verifying_sources_library-<lang>.json
-source_file = intermediates/strings/burundi/00103/selecting_and_verifying_sources_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00103/selecting_and_verifying_sources_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00103/selecting_and_verifying_sources_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.interview_techniques]
-file_filter = intermediates/translated_strings/burundi/00104/interview_techniques-<lang>.json
-source_file = intermediates/strings/burundi/00104/interview_techniques.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00104/interview_techniques-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00104/interview_techniques.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.interview_techniques_library]
-file_filter = intermediates/translated_strings/burundi/00104/interview_techniques_library-<lang>.json
-source_file = intermediates/strings/burundi/00104/interview_techniques_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00104/interview_techniques_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00104/interview_techniques_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.evolution_of_a_story]
-file_filter = intermediates/translated_strings/burundi/00105/evolution_of_a_story-<lang>.json
-source_file = intermediates/strings/burundi/00105/evolution_of_a_story.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00105/evolution_of_a_story-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00105/evolution_of_a_story.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.evolution_of_a_story_library]
-file_filter = intermediates/translated_strings/burundi/00105/evolution_of_a_story_library-<lang>.json
-source_file = intermediates/strings/burundi/00105/evolution_of_a_story_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00105/evolution_of_a_story_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00105/evolution_of_a_story_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.introduction_to_ethics_and_professional_standards]
-file_filter = intermediates/translated_strings/burundi/00106/introduction_to_ethics_and_professional_standards-<lang>.json
-source_file = intermediates/strings/burundi/00106/introduction_to_ethics_and_professional_standards.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00106/introduction_to_ethics_and_professional_standards-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00106/introduction_to_ethics_and_professional_standards.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.introduction_to_ethics_and_professional_standards_library]
-file_filter = intermediates/translated_strings/burundi/00106/introduction_to_ethics_and_professional_standards_library-<lang>.json
-source_file = intermediates/strings/burundi/00106/introduction_to_ethics_and_professional_standards_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00106/introduction_to_ethics_and_professional_standards_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00106/introduction_to_ethics_and_professional_standards_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.using_text]
-file_filter = intermediates/translated_strings/burundi/00107/using_text-<lang>.json
-source_file = intermediates/strings/burundi/00107/using_text.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00107/using_text-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00107/using_text.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.using_text_library]
-file_filter = intermediates/translated_strings/burundi/00107/using_text_library-<lang>.json
-source_file = intermediates/strings/burundi/00107/using_text_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00107/using_text_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00107/using_text_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.media_law]
-file_filter = intermediates/translated_strings/burundi/00108/media_law-<lang>.json
-source_file = intermediates/strings/burundi/00108/media_law.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00108/media_law-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00108/media_law.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.media_law_library]
-file_filter = intermediates/translated_strings/burundi/00108/media_law_library-<lang>.json
-source_file = intermediates/strings/burundi/00108/media_law_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00108/media_law_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00108/media_law_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.introduction_to_security]
-file_filter = intermediates/translated_strings/burundi/00200/introduction_to_security-<lang>.json
-source_file = intermediates/strings/burundi/00200/introduction_to_security.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00200/introduction_to_security-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00200/introduction_to_security.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.introduction_to_security_library]
-file_filter = intermediates/translated_strings/burundi/00200/introduction_to_security_library-<lang>.json
-source_file = intermediates/strings/burundi/00200/introduction_to_security_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00200/introduction_to_security_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00200/introduction_to_security_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.how_do_my_communications_put_me_at_risk]
-file_filter = intermediates/translated_strings/burundi/00201/how_do_my_communications_put_me_at_risk-<lang>.json
-source_file = intermediates/strings/burundi/00201/how_do_my_communications_put_me_at_risk.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00201/how_do_my_communications_put_me_at_risk-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00201/how_do_my_communications_put_me_at_risk.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.how_do_my_communications_put_me_at_risk_library]
-file_filter = intermediates/translated_strings/burundi/00201/how_do_my_communications_put_me_at_risk_library-<lang>.json
-source_file = intermediates/strings/burundi/00201/how_do_my_communications_put_me_at_risk_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00201/how_do_my_communications_put_me_at_risk_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00201/how_do_my_communications_put_me_at_risk_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.how_can_i_use_sms_safely]
-file_filter = intermediates/translated_strings/burundi/00202/how_can_i_use_sms_safely-<lang>.json
-source_file = intermediates/strings/burundi/00202/how_can_i_use_sms_safely.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00202/how_can_i_use_sms_safely-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00202/how_can_i_use_sms_safely.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.how_can_i_use_sms_safely_library]
-file_filter = intermediates/translated_strings/burundi/00202/how_can_i_use_sms_safely_library-<lang>.json
-source_file = intermediates/strings/burundi/00202/how_can_i_use_sms_safely_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00202/how_can_i_use_sms_safely_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00202/how_can_i_use_sms_safely_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.how_can_i_use_a_browser_safely]
-file_filter = intermediates/translated_strings/burundi/00203/how_can_i_use_a_browser_safely-<lang>.json
-source_file = intermediates/strings/burundi/00203/how_can_i_use_a_browser_safely.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00203/how_can_i_use_a_browser_safely-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00203/how_can_i_use_a_browser_safely.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.how_can_i_use_a_browser_safely_library]
-file_filter = intermediates/translated_strings/burundi/00203/how_can_i_use_a_browser_safely_library-<lang>.json
-source_file = intermediates/strings/burundi/00203/how_can_i_use_a_browser_safely_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00203/how_can_i_use_a_browser_safely_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00203/how_can_i_use_a_browser_safely_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.how_can_i_send_email_safely]
-file_filter = intermediates/translated_strings/burundi/00204/how_can_i_send_email_safely-<lang>.json
-source_file = intermediates/strings/burundi/00204/how_can_i_send_email_safely.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00204/how_can_i_send_email_safely-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00204/how_can_i_send_email_safely.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.how_can_i_send_email_safely_library]
-file_filter = intermediates/translated_strings/burundi/00204/how_can_i_send_email_safely_library-<lang>.json
-source_file = intermediates/strings/burundi/00204/how_can_i_send_email_safely_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00204/how_can_i_send_email_safely_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00204/how_can_i_send_email_safely_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.what_makes_a_password_strong]
-file_filter = intermediates/translated_strings/burundi/00205/what_makes_a_password_strong-<lang>.json
-source_file = intermediates/strings/burundi/00205/what_makes_a_password_strong.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00205/what_makes_a_password_strong-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00205/what_makes_a_password_strong.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.what_makes_a_password_strong_library]
-file_filter = intermediates/translated_strings/burundi/00205/what_makes_a_password_strong_library-<lang>.json
-source_file = intermediates/strings/burundi/00205/what_makes_a_password_strong_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00205/what_makes_a_password_strong_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00205/what_makes_a_password_strong_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.how_do_i_effectively_use_pseudonyms]
-file_filter = intermediates/translated_strings/burundi/00206/how_do_i_effectively_use_pseudonyms-<lang>.json
-source_file = intermediates/strings/burundi/00206/how_do_i_effectively_use_pseudonyms.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00206/how_do_i_effectively_use_pseudonyms-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00206/how_do_i_effectively_use_pseudonyms.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.how_do_i_effectively_use_pseudonyms_library]
-file_filter = intermediates/translated_strings/burundi/00206/how_do_i_effectively_use_pseudonyms_library-<lang>.json
-source_file = intermediates/strings/burundi/00206/how_do_i_effectively_use_pseudonyms_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00206/how_do_i_effectively_use_pseudonyms_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00206/how_do_i_effectively_use_pseudonyms_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.introduction_to_audio]
-file_filter = intermediates/translated_strings/burundi/00300/introduction_to_audio-<lang>.json
-source_file = intermediates/strings/burundi/00300/introduction_to_audio.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00300/introduction_to_audio-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00300/introduction_to_audio.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.introduction_to_audio_library]
-file_filter = intermediates/translated_strings/burundi/00300/introduction_to_audio_library-<lang>.json
-source_file = intermediates/strings/burundi/00300/introduction_to_audio_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00300/introduction_to_audio_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00300/introduction_to_audio_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.audio_basics]
-file_filter = intermediates/translated_strings/burundi/00301/audio_basics-<lang>.json
-source_file = intermediates/strings/burundi/00301/audio_basics.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00301/audio_basics-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00301/audio_basics.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.audio_basics_library]
-file_filter = intermediates/translated_strings/burundi/00301/audio_basics_library-<lang>.json
-source_file = intermediates/strings/burundi/00301/audio_basics_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00301/audio_basics_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00301/audio_basics_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.preparation]
-file_filter = intermediates/translated_strings/burundi/00302/preparation-<lang>.json
-source_file = intermediates/strings/burundi/00302/preparation.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00302/preparation-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00302/preparation.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.preparation_library]
-file_filter = intermediates/translated_strings/burundi/00302/preparation_library-<lang>.json
-source_file = intermediates/strings/burundi/00302/preparation_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00302/preparation_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00302/preparation_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.types_of_stories]
-file_filter = intermediates/translated_strings/burundi/00303/types_of_stories-<lang>.json
-source_file = intermediates/strings/burundi/00303/types_of_stories.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00303/types_of_stories-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00303/types_of_stories.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.types_of_stories_library]
-file_filter = intermediates/translated_strings/burundi/00303/types_of_stories_library-<lang>.json
-source_file = intermediates/strings/burundi/00303/types_of_stories_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00303/types_of_stories_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00303/types_of_stories_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.storyboarding_recording_plan]
-file_filter = intermediates/translated_strings/burundi/00304/storyboarding_recording_plan-<lang>.json
-source_file = intermediates/strings/burundi/00304/storyboarding_recording_plan.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00304/storyboarding_recording_plan-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00304/storyboarding_recording_plan.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.storyboarding_recording_plan_library]
-file_filter = intermediates/translated_strings/burundi/00304/storyboarding_recording_plan_library-<lang>.json
-source_file = intermediates/strings/burundi/00304/storyboarding_recording_plan_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00304/storyboarding_recording_plan_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00304/storyboarding_recording_plan_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.recording_tips_and_techniques]
-file_filter = intermediates/translated_strings/burundi/00305/recording_tips_and_techniques-<lang>.json
-source_file = intermediates/strings/burundi/00305/recording_tips_and_techniques.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00305/recording_tips_and_techniques-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00305/recording_tips_and_techniques.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.recording_tips_and_techniques_library]
-file_filter = intermediates/translated_strings/burundi/00305/recording_tips_and_techniques_library-<lang>.json
-source_file = intermediates/strings/burundi/00305/recording_tips_and_techniques_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00305/recording_tips_and_techniques_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00305/recording_tips_and_techniques_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.introduction_to_photography]
-file_filter = intermediates/translated_strings/burundi/00400/introduction_to_photography-<lang>.json
-source_file = intermediates/strings/burundi/00400/introduction_to_photography.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00400/introduction_to_photography-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00400/introduction_to_photography.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.introduction_to_photography_library]
-file_filter = intermediates/translated_strings/burundi/00400/introduction_to_photography_library-<lang>.json
-source_file = intermediates/strings/burundi/00400/introduction_to_photography_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00400/introduction_to_photography_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00400/introduction_to_photography_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.camera_basics]
-file_filter = intermediates/translated_strings/burundi/00401/camera_basics-<lang>.json
-source_file = intermediates/strings/burundi/00401/camera_basics.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00401/camera_basics-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00401/camera_basics.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.camera_basics_library]
-file_filter = intermediates/translated_strings/burundi/00401/camera_basics_library-<lang>.json
-source_file = intermediates/strings/burundi/00401/camera_basics_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00401/camera_basics_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00401/camera_basics_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.composition_basics]
-file_filter = intermediates/translated_strings/burundi/00402/composition_basics-<lang>.json
-source_file = intermediates/strings/burundi/00402/composition_basics.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00402/composition_basics-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00402/composition_basics.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.composition_basics_library]
-file_filter = intermediates/translated_strings/burundi/00402/composition_basics_library-<lang>.json
-source_file = intermediates/strings/burundi/00402/composition_basics_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00402/composition_basics_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00402/composition_basics_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.captions_and_keywords]
-file_filter = intermediates/translated_strings/burundi/00403/captions_and_keywords-<lang>.json
-source_file = intermediates/strings/burundi/00403/captions_and_keywords.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00403/captions_and_keywords-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00403/captions_and_keywords.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.captions_and_keywords_library]
-file_filter = intermediates/translated_strings/burundi/00403/captions_and_keywords_library-<lang>.json
-source_file = intermediates/strings/burundi/00403/captions_and_keywords_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00403/captions_and_keywords_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00403/captions_and_keywords_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.exposure_basics]
-file_filter = intermediates/translated_strings/burundi/00404/exposure_basics-<lang>.json
-source_file = intermediates/strings/burundi/00404/exposure_basics.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00404/exposure_basics-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00404/exposure_basics.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.exposure_basics_library]
-file_filter = intermediates/translated_strings/burundi/00404/exposure_basics_library-<lang>.json
-source_file = intermediates/strings/burundi/00404/exposure_basics_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00404/exposure_basics_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00404/exposure_basics_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.post_production]
-file_filter = intermediates/translated_strings/burundi/00405/post_production-<lang>.json
-source_file = intermediates/strings/burundi/00405/post_production.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00405/post_production-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00405/post_production.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.post_production_library]
-file_filter = intermediates/translated_strings/burundi/00405/post_production_library-<lang>.json
-source_file = intermediates/strings/burundi/00405/post_production_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00405/post_production_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00405/post_production_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.the_photo_essay]
-file_filter = intermediates/translated_strings/burundi/00406/the_photo_essay-<lang>.json
-source_file = intermediates/strings/burundi/00406/the_photo_essay.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00406/the_photo_essay-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00406/the_photo_essay.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.the_photo_essay_library]
-file_filter = intermediates/translated_strings/burundi/00406/the_photo_essay_library-<lang>.json
-source_file = intermediates/strings/burundi/00406/the_photo_essay_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00406/the_photo_essay_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00406/the_photo_essay_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.photographing_fast_moving_objects]
-file_filter = intermediates/translated_strings/burundi/00407/photographing_fast_moving_objects-<lang>.json
-source_file = intermediates/strings/burundi/00407/photographing_fast_moving_objects.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00407/photographing_fast_moving_objects-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00407/photographing_fast_moving_objects.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.photographing_fast_moving_objects_library]
-file_filter = intermediates/translated_strings/burundi/00407/photographing_fast_moving_objects_library-<lang>.json
-source_file = intermediates/strings/burundi/00407/photographing_fast_moving_objects_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00407/photographing_fast_moving_objects_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00407/photographing_fast_moving_objects_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.setting_white_balance]
-file_filter = intermediates/translated_strings/burundi/00408/setting_white_balance-<lang>.json
-source_file = intermediates/strings/burundi/00408/setting_white_balance.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00408/setting_white_balance-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00408/setting_white_balance.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.setting_white_balance_library]
-file_filter = intermediates/translated_strings/burundi/00408/setting_white_balance_library-<lang>.json
-source_file = intermediates/strings/burundi/00408/setting_white_balance_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00408/setting_white_balance_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00408/setting_white_balance_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.photographing_different_stories]
-file_filter = intermediates/translated_strings/burundi/00409/photographing_different_stories-<lang>.json
-source_file = intermediates/strings/burundi/00409/photographing_different_stories.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00409/photographing_different_stories-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00409/photographing_different_stories.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.photographing_different_stories_library]
-file_filter = intermediates/translated_strings/burundi/00409/photographing_different_stories_library-<lang>.json
-source_file = intermediates/strings/burundi/00409/photographing_different_stories_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00409/photographing_different_stories_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00409/photographing_different_stories_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.photographing_difficult_uncomfortable_situations]
-file_filter = intermediates/translated_strings/burundi/00410/photographing_difficult_uncomfortable_situations-<lang>.json
-source_file = intermediates/strings/burundi/00410/photographing_difficult_uncomfortable_situations.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00410/photographing_difficult_uncomfortable_situations-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00410/photographing_difficult_uncomfortable_situations.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.photographing_difficult_uncomfortable_situations_library]
-file_filter = intermediates/translated_strings/burundi/00410/photographing_difficult_uncomfortable_situations_library-<lang>.json
-source_file = intermediates/strings/burundi/00410/photographing_difficult_uncomfortable_situations_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00410/photographing_difficult_uncomfortable_situations_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00410/photographing_difficult_uncomfortable_situations_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.introduction_to_video]
-file_filter = intermediates/translated_strings/burundi/00500/introduction_to_video-<lang>.json
-source_file = intermediates/strings/burundi/00500/introduction_to_video.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00500/introduction_to_video-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00500/introduction_to_video.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.introduction_to_video_library]
-file_filter = intermediates/translated_strings/burundi/00500/introduction_to_video_library-<lang>.json
-source_file = intermediates/strings/burundi/00500/introduction_to_video_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00500/introduction_to_video_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00500/introduction_to_video_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.video_basics]
-file_filter = intermediates/translated_strings/burundi/00501/video_basics-<lang>.json
-source_file = intermediates/strings/burundi/00501/video_basics.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00501/video_basics-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00501/video_basics.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.video_basics_library]
-file_filter = intermediates/translated_strings/burundi/00501/video_basics_library-<lang>.json
-source_file = intermediates/strings/burundi/00501/video_basics_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00501/video_basics_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00501/video_basics_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.getting_good_sound_and_light]
-file_filter = intermediates/translated_strings/burundi/00502/getting_good_sound_and_light-<lang>.json
-source_file = intermediates/strings/burundi/00502/getting_good_sound_and_light.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00502/getting_good_sound_and_light-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00502/getting_good_sound_and_light.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.getting_good_sound_and_light_library]
-file_filter = intermediates/translated_strings/burundi/00502/getting_good_sound_and_light_library-<lang>.json
-source_file = intermediates/strings/burundi/00502/getting_good_sound_and_light_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00502/getting_good_sound_and_light_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00502/getting_good_sound_and_light_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.setting_white_balance_in_video]
-file_filter = intermediates/translated_strings/burundi/00503/setting_white_balance_in_video-<lang>.json
-source_file = intermediates/strings/burundi/00503/setting_white_balance_in_video.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00503/setting_white_balance_in_video-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00503/setting_white_balance_in_video.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.setting_white_balance_in_video_library]
-file_filter = intermediates/translated_strings/burundi/00503/setting_white_balance_in_video_library-<lang>.json
-source_file = intermediates/strings/burundi/00503/setting_white_balance_in_video_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00503/setting_white_balance_in_video_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00503/setting_white_balance_in_video_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.framing_your_shot]
-file_filter = intermediates/translated_strings/burundi/00504/framing_your_shot-<lang>.json
-source_file = intermediates/strings/burundi/00504/framing_your_shot.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00504/framing_your_shot-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00504/framing_your_shot.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.framing_your_shot_library]
-file_filter = intermediates/translated_strings/burundi/00504/framing_your_shot_library-<lang>.json
-source_file = intermediates/strings/burundi/00504/framing_your_shot_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00504/framing_your_shot_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00504/framing_your_shot_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.videos_different_shots]
-file_filter = intermediates/translated_strings/burundi/00505/videos_different_shots-<lang>.json
-source_file = intermediates/strings/burundi/00505/videos_different_shots.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00505/videos_different_shots-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00505/videos_different_shots.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.videos_different_shots_library]
-file_filter = intermediates/translated_strings/burundi/00505/videos_different_shots_library-<lang>.json
-source_file = intermediates/strings/burundi/00505/videos_different_shots_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00505/videos_different_shots_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00505/videos_different_shots_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.sequences]
-file_filter = intermediates/translated_strings/burundi/00506/sequences-<lang>.json
-source_file = intermediates/strings/burundi/00506/sequences.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00506/sequences-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00506/sequences.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.sequences_library]
-file_filter = intermediates/translated_strings/burundi/00506/sequences_library-<lang>.json
-source_file = intermediates/strings/burundi/00506/sequences_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00506/sequences_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00506/sequences_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.organizing_your_shoot]
-file_filter = intermediates/translated_strings/burundi/00507/organizing_your_shoot-<lang>.json
-source_file = intermediates/strings/burundi/00507/organizing_your_shoot.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00507/organizing_your_shoot-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00507/organizing_your_shoot.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.organizing_your_shoot_library]
-file_filter = intermediates/translated_strings/burundi/00507/organizing_your_shoot_library-<lang>.json
-source_file = intermediates/strings/burundi/00507/organizing_your_shoot_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00507/organizing_your_shoot_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00507/organizing_your_shoot_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.content_sites]
-file_filter = intermediates/translated_strings/burundi/00508/content_sites-<lang>.json
-source_file = intermediates/strings/burundi/00508/content_sites.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00508/content_sites-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00508/content_sites.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.content_sites_library]
-file_filter = intermediates/translated_strings/burundi/00508/content_sites_library-<lang>.json
-source_file = intermediates/strings/burundi/00508/content_sites_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00508/content_sites_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00508/content_sites_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.introduction_to_story]
-file_filter = intermediates/translated_strings/burundi/00600/introduction_to_story-<lang>.json
-source_file = intermediates/strings/burundi/00600/introduction_to_story.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00600/introduction_to_story-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00600/introduction_to_story.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.introduction_to_story_library]
-file_filter = intermediates/translated_strings/burundi/00600/introduction_to_story_library-<lang>.json
-source_file = intermediates/strings/burundi/00600/introduction_to_story_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00600/introduction_to_story_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00600/introduction_to_story_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.central_question]
-file_filter = intermediates/translated_strings/burundi/00601/central_question-<lang>.json
-source_file = intermediates/strings/burundi/00601/central_question.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00601/central_question-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00601/central_question.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.central_question_library]
-file_filter = intermediates/translated_strings/burundi/00601/central_question_library-<lang>.json
-source_file = intermediates/strings/burundi/00601/central_question_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00601/central_question_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00601/central_question_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.climax]
-file_filter = intermediates/translated_strings/burundi/00602/climax-<lang>.json
-source_file = intermediates/strings/burundi/00602/climax.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00602/climax-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00602/climax.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.climax_library]
-file_filter = intermediates/translated_strings/burundi/00602/climax_library-<lang>.json
-source_file = intermediates/strings/burundi/00602/climax_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00602/climax_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00602/climax_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.resolution]
-file_filter = intermediates/translated_strings/burundi/00603/resolution-<lang>.json
-source_file = intermediates/strings/burundi/00603/resolution.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00603/resolution-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00603/resolution.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.resolution_library]
-file_filter = intermediates/translated_strings/burundi/00603/resolution_library-<lang>.json
-source_file = intermediates/strings/burundi/00603/resolution_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00603/resolution_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00603/resolution_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.arc]
-file_filter = intermediates/translated_strings/burundi/00604/arc-<lang>.json
-source_file = intermediates/strings/burundi/00604/arc.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00604/arc-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00604/arc.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.arc_library]
-file_filter = intermediates/translated_strings/burundi/00604/arc_library-<lang>.json
-source_file = intermediates/strings/burundi/00604/arc_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00604/arc_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00604/arc_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.deeper_meaning]
-file_filter = intermediates/translated_strings/burundi/00605/deeper_meaning-<lang>.json
-source_file = intermediates/strings/burundi/00605/deeper_meaning.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00605/deeper_meaning-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00605/deeper_meaning.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.deeper_meaning_library]
-file_filter = intermediates/translated_strings/burundi/00605/deeper_meaning_library-<lang>.json
-source_file = intermediates/strings/burundi/00605/deeper_meaning_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00605/deeper_meaning_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00605/deeper_meaning_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.symbols]
-file_filter = intermediates/translated_strings/burundi/00606/symbols-<lang>.json
-source_file = intermediates/strings/burundi/00606/symbols.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00606/symbols-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00606/symbols.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.symbols_library]
-file_filter = intermediates/translated_strings/burundi/00606/symbols_library-<lang>.json
-source_file = intermediates/strings/burundi/00606/symbols_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/burundi/00606/symbols_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/burundi/00606/symbols_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.learning_guide_1]
-file_filter = intermediates/translated_strings/learning_guide/learning_guide_1/learning_guide_1-<lang>.json
-source_file = intermediates/strings/learning_guide/learning_guide_1/learning_guide_1.json
+file_filter = intermediates/translated_strings/org.storymaker.app/learning_guide/learning_guide_1/learning_guide_1-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/learning_guide/learning_guide_1/learning_guide_1.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.learning_guide_1_library]
-file_filter = intermediates/translated_strings/learning_guide/learning_guide_1/learning_guide_1_library-<lang>.json
-source_file = intermediates/strings/learning_guide/learning_guide_1/learning_guide_1_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/learning_guide/learning_guide_1/learning_guide_1_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/learning_guide/learning_guide_1/learning_guide_1_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.learning_guide_2]
-file_filter = intermediates/translated_strings/learning_guide/learning_guide_2/learning_guide_2-<lang>.json
-source_file = intermediates/strings/learning_guide/learning_guide_2/learning_guide_2.json
+file_filter = intermediates/translated_strings/org.storymaker.app/learning_guide/learning_guide_2/learning_guide_2-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/learning_guide/learning_guide_2/learning_guide_2.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.learning_guide_2_library]
-file_filter = intermediates/translated_strings/learning_guide/learning_guide_2/learning_guide_2_library-<lang>.json
-source_file = intermediates/strings/learning_guide/learning_guide_2/learning_guide_2_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/learning_guide/learning_guide_2/learning_guide_2_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/learning_guide/learning_guide_2/learning_guide_2_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.learning_guide_3]
-file_filter = intermediates/translated_strings/learning_guide/learning_guide_3/learning_guide_3-<lang>.json
-source_file = intermediates/strings/learning_guide/learning_guide_3/learning_guide_3.json
+file_filter = intermediates/translated_strings/org.storymaker.app/learning_guide/learning_guide_3/learning_guide_3-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/learning_guide/learning_guide_3/learning_guide_3.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.learning_guide_3_library]
-file_filter = intermediates/translated_strings/learning_guide/learning_guide_3/learning_guide_3_library-<lang>.json
-source_file = intermediates/strings/learning_guide/learning_guide_3/learning_guide_3_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/learning_guide/learning_guide_3/learning_guide_3_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/learning_guide/learning_guide_3/learning_guide_3_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.default_library]
-file_filter = intermediates/translated_strings/default/default_library-<lang>.json
-source_file = intermediates/strings/default/default_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/default_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/default_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.event_discussion_audio_question_1]
-file_filter = intermediates/translated_strings/default/event_discussion_audio_question_1-<lang>.json
-source_file = intermediates/strings/default/event_discussion_audio_question_1.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/event_discussion_audio_question_1-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/event_discussion_audio_question_1.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.event_discussion_audio_question_2]
-file_filter = intermediates/translated_strings/default/event_discussion_audio_question_2-<lang>.json
-source_file = intermediates/strings/default/event_discussion_audio_question_2.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/event_discussion_audio_question_2-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/event_discussion_audio_question_2.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.event_discussion_audio_question_3]
-file_filter = intermediates/translated_strings/default/event_discussion_audio_question_3-<lang>.json
-source_file = intermediates/strings/default/event_discussion_audio_question_3.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/event_discussion_audio_question_3-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/event_discussion_audio_question_3.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.event_discussion_video_question_4]
-file_filter = intermediates/translated_strings/default/event_discussion_video_question_4-<lang>.json
-source_file = intermediates/strings/default/event_discussion_video_question_4.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/event_discussion_video_question_4-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/event_discussion_video_question_4.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.event_discussion_video_question_5]
-file_filter = intermediates/translated_strings/default/event_discussion_video_question_5-<lang>.json
-source_file = intermediates/strings/default/event_discussion_video_question_5.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/event_discussion_video_question_5-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/event_discussion_video_question_5.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.event_discussion_video_question_6]
-file_filter = intermediates/translated_strings/default/event_discussion_video_question_6-<lang>.json
-source_file = intermediates/strings/default/event_discussion_video_question_6.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/event_discussion_video_question_6-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/event_discussion_video_question_6.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.event_highlights_audio]
-file_filter = intermediates/translated_strings/default/event_highlights_audio-<lang>.json
-source_file = intermediates/strings/default/event_highlights_audio.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/event_highlights_audio-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/event_highlights_audio.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.event_highlights_audio]
-file_filter = intermediates/translated_strings/default/event_highlights_audio-<lang>.json
-source_file = intermediates/strings/default/event_highlights_audio.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/event_highlights_audio-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/event_highlights_audio.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.event_highlights_photo]
-file_filter = intermediates/translated_strings/default/event_highlights_photo-<lang>.json
-source_file = intermediates/strings/default/event_highlights_photo.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/event_highlights_photo-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/event_highlights_photo.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.event_highlights_video]
-file_filter = intermediates/translated_strings/default/event_highlights_video-<lang>.json
-source_file = intermediates/strings/default/event_highlights_video.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/event_highlights_video-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/event_highlights_video.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.event_interview_audio]
-file_filter = intermediates/translated_strings/default/event_interview_audio-<lang>.json
-source_file = intermediates/strings/default/event_interview_audio.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/event_interview_audio-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/event_interview_audio.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.event_interview_video]
-file_filter = intermediates/translated_strings/default/event_interview_video-<lang>.json
-source_file = intermediates/strings/default/event_interview_video.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/event_interview_video-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/event_interview_video.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.event_process_audio]
-file_filter = intermediates/translated_strings/default/event_process_audio-<lang>.json
-source_file = intermediates/strings/default/event_process_audio.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/event_process_audio-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/event_process_audio.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.event_process_photo]
-file_filter = intermediates/translated_strings/default/event_process_photo-<lang>.json
-source_file = intermediates/strings/default/event_process_photo.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/event_process_photo-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/event_process_photo.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.event_process_video]
-file_filter = intermediates/translated_strings/default/event_process_video-<lang>.json
-source_file = intermediates/strings/default/event_process_video.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/event_process_video-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/event_process_video.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.event_report_audio]
-file_filter = intermediates/translated_strings/default/event_report_audio-<lang>.json
-source_file = intermediates/strings/default/event_report_audio.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/event_report_audio-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/event_report_audio.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.event_report_video]
-file_filter = intermediates/translated_strings/default/event_report_video-<lang>.json
-source_file = intermediates/strings/default/event_report_video.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/event_report_video-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/event_report_video.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.event_series_photo_action]
-file_filter = intermediates/translated_strings/default/event_series_photo_action-<lang>.json
-source_file = intermediates/strings/default/event_series_photo_action.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/event_series_photo_action-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/event_series_photo_action.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.event_series_photo_character]
-file_filter = intermediates/translated_strings/default/event_series_photo_character-<lang>.json
-source_file = intermediates/strings/default/event_series_photo_character.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/event_series_photo_character-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/event_series_photo_character.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.event_series_photo_place]
-file_filter = intermediates/translated_strings/default/event_series_photo_place-<lang>.json
-source_file = intermediates/strings/default/event_series_photo_place.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/event_series_photo_place-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/event_series_photo_place.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.event_series_photo_result]
-file_filter = intermediates/translated_strings/default/event_series_photo_result-<lang>.json
-source_file = intermediates/strings/default/event_series_photo_result.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/event_series_photo_result-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/event_series_photo_result.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.issue_discussion_audio_question_7]
-file_filter = intermediates/translated_strings/default/issue_discussion_audio_question_7-<lang>.json
-source_file = intermediates/strings/default/issue_discussion_audio_question_7.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/issue_discussion_audio_question_7-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/issue_discussion_audio_question_7.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.issue_discussion_audio_question_8]
-file_filter = intermediates/translated_strings/default/issue_discussion_audio_question_8-<lang>.json
-source_file = intermediates/strings/default/issue_discussion_audio_question_8.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/issue_discussion_audio_question_8-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/issue_discussion_audio_question_8.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.issue_discussion_audio_question_9]
-file_filter = intermediates/translated_strings/default/issue_discussion_audio_question_9-<lang>.json
-source_file = intermediates/strings/default/issue_discussion_audio_question_9.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/issue_discussion_audio_question_9-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/issue_discussion_audio_question_9.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.issue_discussion_video_question_10]
-file_filter = intermediates/translated_strings/default/issue_discussion_video_question_10-<lang>.json
-source_file = intermediates/strings/default/issue_discussion_video_question_10.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/issue_discussion_video_question_10-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/issue_discussion_video_question_10.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.issue_discussion_video_question_11]
-file_filter = intermediates/translated_strings/default/issue_discussion_video_question_11-<lang>.json
-source_file = intermediates/strings/default/issue_discussion_video_question_11.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/issue_discussion_video_question_11-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/issue_discussion_video_question_11.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.issue_discussion_video_question_12]
-file_filter = intermediates/translated_strings/default/issue_discussion_video_question_12-<lang>.json
-source_file = intermediates/strings/default/issue_discussion_video_question_12.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/issue_discussion_video_question_12-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/issue_discussion_video_question_12.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.issue_highlights_audio]
-file_filter = intermediates/translated_strings/default/issue_highlights_audio-<lang>.json
-source_file = intermediates/strings/default/issue_highlights_audio.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/issue_highlights_audio-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/issue_highlights_audio.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.issue_highlights_photo]
-file_filter = intermediates/translated_strings/default/issue_highlights_photo-<lang>.json
-source_file = intermediates/strings/default/issue_highlights_photo.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/issue_highlights_photo-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/issue_highlights_photo.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.issue_highlights_video]
-file_filter = intermediates/translated_strings/default/issue_highlights_video-<lang>.json
-source_file = intermediates/strings/default/issue_highlights_video.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/issue_highlights_video-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/issue_highlights_video.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.issue_interview_audio]
-file_filter = intermediates/translated_strings/default/issue_interview_audio-<lang>.json
-source_file = intermediates/strings/default/issue_interview_audio.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/issue_interview_audio-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/issue_interview_audio.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.issue_interview_video]
-file_filter = intermediates/translated_strings/default/issue_interview_video-<lang>.json
-source_file = intermediates/strings/default/issue_interview_video.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/issue_interview_video-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/issue_interview_video.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.issue_report_audio]
-file_filter = intermediates/translated_strings/default/issue_report_audio-<lang>.json
-source_file = intermediates/strings/default/issue_report_audio.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/issue_report_audio-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/issue_report_audio.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.issue_report_video]
-file_filter = intermediates/translated_strings/default/issue_report_video-<lang>.json
-source_file = intermediates/strings/default/issue_report_video.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/issue_report_video-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/issue_report_video.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.issue_series_photo_character]
-file_filter = intermediates/translated_strings/default/issue_series_photo_character-<lang>.json
-source_file = intermediates/strings/default/issue_series_photo_character.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/issue_series_photo_character-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/issue_series_photo_character.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.issue_series_photo_place]
-file_filter = intermediates/translated_strings/default/issue_series_photo_place-<lang>.json
-source_file = intermediates/strings/default/issue_series_photo_place.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/issue_series_photo_place-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/issue_series_photo_place.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.issue_series_photo_signature]
-file_filter = intermediates/translated_strings/default/issue_series_photo_signature-<lang>.json
-source_file = intermediates/strings/default/issue_series_photo_signature.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/issue_series_photo_signature-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/issue_series_photo_signature.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.profile_discussion_audio_question_13]
-file_filter = intermediates/translated_strings/default/profile_discussion_audio_question_13-<lang>.json
-source_file = intermediates/strings/default/profile_discussion_audio_question_13.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/profile_discussion_audio_question_13-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/profile_discussion_audio_question_13.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.profile_discussion_audio_question_14]
-file_filter = intermediates/translated_strings/default/profile_discussion_audio_question_14-<lang>.json
-source_file = intermediates/strings/default/profile_discussion_audio_question_14.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/profile_discussion_audio_question_14-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/profile_discussion_audio_question_14.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.profile_discussion_audio_question_15]
-file_filter = intermediates/translated_strings/default/profile_discussion_audio_question_15-<lang>.json
-source_file = intermediates/strings/default/profile_discussion_audio_question_15.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/profile_discussion_audio_question_15-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/profile_discussion_audio_question_15.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.profile_discussion_video_question_16]
-file_filter = intermediates/translated_strings/default/profile_discussion_video_question_16-<lang>.json
-source_file = intermediates/strings/default/profile_discussion_video_question_16.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/profile_discussion_video_question_16-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/profile_discussion_video_question_16.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.profile_discussion_video_question_17]
-file_filter = intermediates/translated_strings/default/profile_discussion_video_question_17-<lang>.json
-source_file = intermediates/strings/default/profile_discussion_video_question_17.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/profile_discussion_video_question_17-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/profile_discussion_video_question_17.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.profile_discussion_video_question_18]
-file_filter = intermediates/translated_strings/default/profile_discussion_video_question_18-<lang>.json
-source_file = intermediates/strings/default/profile_discussion_video_question_18.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/profile_discussion_video_question_18-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/profile_discussion_video_question_18.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.profile_highlights_audio]
-file_filter = intermediates/translated_strings/default/profile_highlights_audio-<lang>.json
-source_file = intermediates/strings/default/profile_highlights_audio.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/profile_highlights_audio-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/profile_highlights_audio.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.profile_highlights_photo]
-file_filter = intermediates/translated_strings/default/profile_highlights_photo-<lang>.json
-source_file = intermediates/strings/default/profile_highlights_photo.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/profile_highlights_photo-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/profile_highlights_photo.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.profile_highlights_video]
-file_filter = intermediates/translated_strings/default/profile_highlights_video-<lang>.json
-source_file = intermediates/strings/default/profile_highlights_video.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/profile_highlights_video-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/profile_highlights_video.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.profile_interview_audio]
-file_filter = intermediates/translated_strings/default/profile_interview_audio-<lang>.json
-source_file = intermediates/strings/default/profile_interview_audio.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/profile_interview_audio-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/profile_interview_audio.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.profile_interview_video]
-file_filter = intermediates/translated_strings/default/profile_interview_video-<lang>.json
-source_file = intermediates/strings/default/profile_interview_video.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/profile_interview_video-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/profile_interview_video.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.profile_process_audio]
-file_filter = intermediates/translated_strings/default/profile_process_audio-<lang>.json
-source_file = intermediates/strings/default/profile_process_audio.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/profile_process_audio-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/profile_process_audio.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.profile_process_photo]
-file_filter = intermediates/translated_strings/default/profile_process_photo-<lang>.json
-source_file = intermediates/strings/default/profile_process_photo.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/profile_process_photo-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/profile_process_photo.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.profile_process_video]
-file_filter = intermediates/translated_strings/default/profile_process_video-<lang>.json
-source_file = intermediates/strings/default/profile_process_video.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/profile_process_video-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/profile_process_video.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.profile_report_audio]
-file_filter = intermediates/translated_strings/default/profile_report_audio-<lang>.json
-source_file = intermediates/strings/default/profile_report_audio.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/profile_report_audio-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/profile_report_audio.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.profile_report_video]
-file_filter = intermediates/translated_strings/default/profile_report_video-<lang>.json
-source_file = intermediates/strings/default/profile_report_video.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/profile_report_video-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/profile_report_video.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.profile_series_photo_action]
-file_filter = intermediates/translated_strings/default/profile_series_photo_action-<lang>.json
-source_file = intermediates/strings/default/profile_series_photo_action.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/profile_series_photo_action-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/profile_series_photo_action.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.profile_series_photo_character]
-file_filter = intermediates/translated_strings/default/profile_series_photo_character-<lang>.json
-source_file = intermediates/strings/default/profile_series_photo_character.json
+file_filter = intermediates/translated_strings/org.storymaker.app/default/profile_series_photo_character-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/default/profile_series_photo_character.json
 source_lang = en
 type = KEYVALUEJSON
