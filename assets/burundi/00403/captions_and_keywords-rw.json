@@ -1,0 +1,226 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Ni gute nokwandika insobanuro isanzwe (sous-titre canke l\u00e9gende) iherekeza ifoto", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Mur'inyigisho uzokwiga:\nIngene wandika insobanuro isanzwe y' isanamu\nIngene wandika ibimenyetso n'amajambo nyamukuru vy'isanamu", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "##Akarorero k'isanamu ifise insobanuro nziza, amajambo nyamukuru, hamwe n'ibimenyetso. ![Akarorero k'isanamu](2.jpg) \n### Insobanuro: 4 Kigarama, 2014 -- Bujumbura -- Umunyeshure yicaye kuri ordinateur mukibanza cagenewe gusoma nokubikwamwo ibitabo (Librairie) ca Kaminuza yitiriwe Ikiyaga Tanganyika, kaminuza izwi cane gusumba izindi mu Burundi. Kugira ubushakashatsi (recherche) ngirakamaro vyamye bigoye murino kaminuza ifise impfashanyo zidakwiye mugabo kuronka ubuhinga ngurukanabumenyi bwa internet biriko birafasha kubihindura.\n###amajambo nyamukuru:Kaminuza yitiriwe Ikiyaga Tanganyika, kuronswa internet, ikibanza cagenewe gusoma nokubikwamwo ibitabo (Librairie), ubushakashatsi, ubukene, Amashure yisumbuye, Burundi, Bujumbura.\n### Ibimenyetso: Umukobwa, ordinateur, ibitabo, ikibanza cagenewe gusoma nokubikwamwo ibitabo (Librairie), Intebe, Imeza, Bujumbura, Afrika, Ishure, Kaminuza\nIsanamu yose irakeneye insobanuro hamwe n'amajambo nyamukuru/ibimenyetso. Insobanuro nziza iha abakurikiranye amakuru n'iciyumviro ngenderwako kirihamwe gituma batahura isanamu naho isaniye nibivugwa: aho iyo sanamu yafatiwe, ryari yafashwe, hamwe n'insiguro ngufi yibiri muriyo sanamu. Ivyuma bishaka mumpfunyampfunyo moteurs de recherche hamwe naho wandika urondera mumpfunyampfunyo champs de recherche nkivyo kumurongo wa Flickr ntibimenya ibicapo. Bishobora gusa kumenya amajambo arikumwe n'igicapo. Amajambo nyamukuru n'ibimenyetso, birikumwe n'insobanuro, bifasha abashatsi bamasanamu mumpfunyampfunyo t\u00e9l\u00e9spectateurs gutora ibicapo arizo images biciye murayo ma moteurs de recherche.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## Akarorero kifoto  ifise insiguro mbi\n![Akarorero kifoto](3.jpg)\n### Insiguro mbi: Umugore yicaye kumutayeri wiwe iruhande yimachine ishona nziza.\n### Insiguro nziza: 4 Kigarama, 2014 -- Bujumbura -- Umutayeri amaze imyaka irenga 25 murako kazi, kuva aho impuzu za ba chinois ziziye, vyaciye bituma barondera isoko nshasha ryabifise bitaho.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Insobanuro zikwiriye kuba zitomoye, zihuye kandi zikwiranye n'amakuru zitanga kuvyerekeye isanamu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## Insobanuro y'amasanamu arihamwe \nInsobanuro ku sanamu zirihamwe ntiyarikwiye gusubiramwo yamakuru nyene uko zigenda zikurikirana. Andika insobanuro ngufi ngufi, zigenda zisobanura cagicapo kimwe kigize iryoshirwa hamwe ryayo masanamu uko akurikirana. Rimwe na rimwe, ushobora kuzishikiriza nkibicapo vyerekana ibirimwo (carton-titre). Ivyo navyo n'inkuru ziyongerako canke ibitororokanijwe (statistiques) bifasha gutanga iciyumviro ngenderwako (contexte)\n\n ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![akarorero kifoto.](4.jpg) ### Insobanuro nziza: 5 Kigarama, 2014 -- Bujumbura -- Isoko rihuza abacuruzi bo mu buseruko bw'Afrika ukwa mezi atatu aheze harya mukibanza cagenewe imico na karanga ibujumbura. Mugihe igisata coguhingura cuburundi kitarakomera kubera intabara zabaye, abaguzi babarundi barifuza kugura ibintu biza bivuye mubuseruko bw'Afrika.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![akarorero kifoto.](5.jpg)\n### Insobanuro nziza: 5 Kigarama, 2014 -- Bujumbura -- Isoko rihuza abacuruzi bo mu buseruko bw'Afrika ukwa mezi atatu aheze harya mukibanza cagenewe imico na karanga ibujumbura. Mugihe igisata coguhingura cuburundi kitarakomera kubera intabara zabaye, abaguzi babarundi barifuza kugura ibintu biza bivuye mubuseruko bw'Afrika.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![akarorero kifoto.](6.jpg) \n### Insobanuro nziza: 5 Kigarama, 2014 -- Bujumbura -- Isoko rihuza abacuruzi bo mu buseruko bw'Afrika ukwa mezi atatu aheze harya mukibanza cagenewe imico na karanga ibujumbura. Mugihe igisata coguhingura cuburundi kitarakomera kubera intabara zabaye, abaguzi babarundi barifuza kugura ibintu biza bivuye mubuseruko bw'Afrika.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "Kwandika insiguro  insiguro n\u2019iryungane rimwe canke abiri kenshi na kenshi iryungane ryambere risigura abantu n\u2019ikibanza ifoto yafatiwemwo iryungane rya kabiri ritanga insiguro zituma abantu bategera ifoto baraba.Iryungane ribwirizwa kubaryanditse muri kubu rikwiye .sobanura ibiri mw\u2019isanamu ryari yafashwe n\u2019aho yafatiwe.Irya kabiri canke rya ga\u2026\u2026\u2026. Ryanditswe muri kahise ryikwije ryotanga insiguro ifasha abanru kumva akamaro kayo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "### Akarorero:\nikibondo caturiwe cane n'ikibombe caturikiye mumuduga kuwa 9 Ruheshi, 2010, kiriko kivurwa mubitaro bivura abana vyitiriwe Indira Gandhi biri Kabul, muri Afghanistani. Abaganga bakora bigoranye kubera ubukene bw'imiti iriho kugira bavure igitigiri kibandanya ciyongera c'abana bashikiwe n'impanuka bafise ibikomere kenshi bica vyunyuka kubera ibindi bibazo vy'amamagara, nku kutafungura bikwiye, bituma bigabanya ubushobozi bw'ikibondo bwo gukira.  (John Smock/SIPA Press)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "![Akarorero kifoto](7.jpg)\n### Insiguro nziza: 5 Kigarama, 2014 -- Bujumbura -- Abana bo mwibarabara bagerageza kwibeshaho mu mabarabara yiburundi: bahagarika imiduga irengana kugira bamwe bashobore kuva muri parking, mucizere cokuronswa uduhera duke (nka 500Fbu canke 0.30 $) nuwo bafashije", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "![akarorero kifoto.](8.jpg)\n### Insobanuro nziza: 5 Kigarama, 2014 -- Bujumbura -- Abana bo mwibarabara bagerageza kwibeshaho mu mabarabara yiburundi: bahagarika imiduga irengana kugira bamwe bashobore kuva muri parking, mucizere cokuronswa uduhera duke (nka 500Fbu canke 0.30 $) nuwo bafashije", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "![akarorero kifoto.](9.jpg) \n### Insobanuro nziza: 5 Kigarama, 2014 -- Bujumbura -- Abana bo mwibarabara bagerageza kwibeshaho mu mabarabara yiburundi: bahagarika imiduga irengana kugira bamwe bashobore kuva muri parking, mucizere cokuronswa uduhera duke (nka 500Fbu canke 0.30 $) nuwo bafashije", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "text": "Aho wandikako insiguro hashobora guhinduka  format ariko insiguro y\u2019ifoto itegerezwa .kwerekana neza aboro n\u2019ikibanza amajambo makuru y\u2019umutwe n\u2019amazina y\u2019ikibanza ategerezwa kubamwo Mumirwi minini ibiranga baboneka cane bibwirizwa kubamwo ninkenerwa .Mumanza zihuta abantu aho abantu basantere ataho basigura cane ID zishobora kuba nkenerwa .Shiramwo italiki ifoto yafatiriweko .Ari ifoto ya kera canke yaho \u2026. Insiguro yayo icayerekana gutomora newa ibiranga ifoto ngo akamaro k\u2019inkuru irimwifoto kaboneka.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "text": "## Amajambo nyamukuru hamwe nibimenyetso\n![Ibimenyetso: Gukota umuduga, Ubutunzi, Bujumbura, Burundi, Amashirahamwe ategamiye leta, ingwano, ibibazo](10.jpg)\n### Ibimenyetso: Gukota umuduga, Ubutunzi, Bujumbura, Burundi, Amashirahamwe ategamiye leta, ingwano, ibibazo\nAmajambo nyamukuru hamwe nibimenyetso birafasha ivyuma bishaka (moteurs de recherche) kuronka ibicapo hamwe nogushobora kumenya amafoto mububiko rw'ivyakera (archive). Mubisanzwe habwirizwa kuba ikibanza c'amajambo nyamukuru canke ibimenyetso birikumwe n'ikibanza cinsiguro.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_14"
+        }, 
+        {
+            "text": "## Ibintu bifasha mukwandika amajambo nyamukuru hamwe n'ibimenyetso\n&bull; shiramwo ibiranga neza aho hantu aho haherereye *\n&bull; Irinde gucagagura\n&bull; tanga amajambo nyamukuru ahwanye nuko amasanamu ari (ukumuntu ari, imyiyerekano, ubutunzi).\n&bull; itondere ingene utora ijambo: hari umuntu yokoresha irindi jambo rimworohera kugira arondere ikintu kuri internet?\n&bull; iyumvire amajambo yoba ajanye nicushaka kuvuga ashobora gufasha abantu gutora isanamu yawe.\n&bull; koresha amajambo yaminsi yose ashushanya ibivugwa bimwe bimwe. Nka karorero, ugucungera ivyuma vya ordinateurs: ukoreshe amajambo mumpfunyampunyo nka piratage, pirates, ugucungera/s\u00e9curit\u00e9, pare-feu, attaque, r\u00e9seau, d\u00e9faut.\n&bull; Urutonde rwayo majambo nyamukuru/ibimenyetso rurahambaye; amajambo abiri yambere afise agaciro gakomeye gusumba. ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_15"
+        }, 
+        {
+            "text": "# Uburorero burengeje", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_16"
+        }, 
+        {
+            "text": "![Ibimenyetso: ifoto, Umugabo, Karangamuntu, Burundi, Igikumu, Kwiyandikisha mu gutora](11.jpg)\n### Ibimenyetso: ifoto, Umugabo, Karangamuntu, Burundi, Igikumu, Kwiyandikisha mu gutora", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_17"
+        }, 
+        {
+            "text": "![Ibimenyetso: Abamenyeshamakuru, Umutunzi, ikiganiro (conf\u00e9rence), Inama, Afrika, terefone, urupapuro](12.jpg)\n### Tags: Ibimenyetso: Abamenyeshamakuru, Umutunzi, ikiganiro (conf\u00e9rence), Inama, Afrika, terefone, urupapuro", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_18"
+        }, 
+        {
+            "text": "![Ibimenyetso: Umugore, Igitambara co mumutwe, kononekara](13.jpg)\n### Ibimenyetso: Umugore, Igitambara co mumutwe, kononekara", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_19"
+        }, 
+        {
+            "text": "## IBINTU VYO KWIBUKA\n&bull; Insobanuro isanzwe n'amajambo nyamukuru bikwiriye kwama birimwo\n&bull; Witondere kw'amazina y'abantu n'ibibanza yerekanywe kandi yanditse neza\n&bull; Vyame bihuye\n&bull; ukumenyesha amakuru biciye mumasanamu navyone nukumenyesha amakuru\n&bull; iyo isanamu ikozweko muburyo bita digital bikarenga guhindura ukwingana (taille) no gutunganya ukwisa (couleur), yarikwiye kwitwa \u201cisanamu ihinguwe\u201d munsobanuro canke munyitiro yayo. Nyamba ubuhinga budasanzwe bw'amasanamu bwakoreshejwe, nkivyo bita effets de distance dynamique \u00e9lev\u00e9e (high dynamic range effects), vyaribikwiye kwandikwa munsobanuro.\n&bull; Ntutange iciyumviro canke ugire ivyo wibaza ku vy'umuntu ari mw'isanamu ariko ariyumvira canke yiyunvamwo, nka karorero: \u201cumuntu atora ataryohewe\u201d canke \u201cumuntu yagize Imana agakira.\u201d ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_20"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Iryungane (phrase) ryambere ry'insobanuro y'isanamu (ifoto) rikwiriye kuba ririmwo", 
+            "choices": [
+                {
+                    "text": "Insiguro ngufi yibiboneka mu gicapo, italiki, ahariho, hamwe namazina yabantu biteka canke ibibanza bikomeye", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Urutonde rwuko vyagiye birashika bifashwe mu masanamu", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Insiguro uwafashe isanamu aha kukuntu abantu bari murico gicapo biyunva", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ibiri hejuru vyose", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Nivyo canke Sivyo: Amajambo nyamukuru n'Insobanuro ntibifasha gusa abantu gutora ivyapa (image) vyawe kumurongo wa internet (en ligne), biranagufasha nawe hamwe n'ibimenyeshamakuru gutora ivyapa muburyo bworoshe aho biri murubiko rw'amasanamu (archives).", 
+            "choices": [
+                {
+                    "text": "Nivyo ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Sivyo", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Insobanuro nziza ifise iki muribi bikurikira biyingenga (caract\u00e9ristiques) (Bishobora kuba birenga imwe)", 
+            "choices": [
+                {
+                    "text": "Ikibanza n'italiki iyo sanamu yafatiweko biraboneka neza", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Abantu bakomeye berekanywe barangwa n'amazina yabo yose hamwe n'ikibanza bafise (titre)", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Ntacanditswe nabi canke gihushanye munsiguro", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ibiri hejuru vyose", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "text": "!(15.jpg)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_21"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "N'iyihe nsiguro zinza ijanye nico gicapo co hejuru", 
+            "choices": [
+                {
+                    "text": "2 Kigarama -- Bujumbura -- Umuririmvyi rurangiranwa wumu rappeur Thomas Nzeyimana (azwi nka Mkonbozi) ari kuri Afro Music Studio mu bice vya Buyenzi i Bujumbura, Burundi.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Umuvuzi wumuziki muri studio yiwe yuzuye ivyuma bizimvye", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Umurundi wumuririmvyi wa rap wingabirano ikomeye ariko avuga igituma umuziki aringirakamaro", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "captions_and_keywords", 
+    "title": "Insobanuro (sous-titre canke l\u00e9gende) hamwe namajambo nyamukuru (mots cl\u00e9s)"
+}

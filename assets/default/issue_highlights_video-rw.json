@@ -1,0 +1,158 @@
+{
+    "cards": [
+        {
+            "medium": "video", 
+            "length": "0:08", 
+            "goals": [
+                "Erekana ikibanza canke abanyagihugu berekewe niyo ngorane"
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "video", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "Erekana abantu bashikiwe n\u2019iyo ngorane"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "video", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:15", 
+            "goals": [
+                "Erekana ikintu gitanga incamake y\u2019ingorane n\u2019inkurikizi zayo"
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "Erekana akarorero gahambaye cane kadondora ingorane n\u2019inkurikizi zayo"
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Erekana akandi karorero gahambaye kadondora neza ingorane n\u2019inkurikizi zayo"
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "video", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "Erekana akandi karorero gahambaye gatandukanye n\u2019utundi kadondora ingorane n\u2019inkurikizi zayo"
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "text": "Nimba hari ibice birenga bitatu,mutegerezwa kwongerako ama clip kugira mubishiremwo.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:15", 
+            "goals": [
+                "Vugana nuwariwe wese ari murivyo biriko biraba.ashobora kuba umusobanuzi canke uwutanga amajambo.ashobora kuba kandi umunyepolitike canke uwundi azwi yaje."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Erekana inkurikizi y\u2019ingorane.erekana ingene ivyo bishikira abanyagihugu"
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Twarakoze ikintu kubijanye n\u2019iyo ngorane ?erekana icahindutse", 
+                "Nimba atacahinduts,vyerekane."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_3", 
+            "tags": [
+                "edit", 
+                "video", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_4", 
+            "tags": [
+                "narration"
+            ]
+        }, 
+        {
+            "text": "--------", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "issue_highlights_video", 
+    "title": "Kubijanye n\u2019ingorane"
+}

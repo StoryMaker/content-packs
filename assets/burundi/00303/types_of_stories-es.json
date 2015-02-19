@@ -14,7 +14,7 @@
             "id": "preview_card_0"
         }, 
         {
-            "text": "## In this lesson you will learn:  \n&bull; How the type of story helps inform your style of audio production and presentation.  \n&bull; How to decide what voices you need in your story.", 
+            "text": "## En esta lecci\u00f3n aprender\u00e1s a:\u25a0&bull; C\u00f3mo el t\u00edpo de historia ayuda a saber tu estilo producci\u00f3n y presentaci\u00f3n de audio.\u25a0&bull; C\u00f3mo decidir qu\u00e9 voces necesitas en  tu historia.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
@@ -42,7 +42,7 @@
             "id": "preview_card_1"
         }, 
         {
-            "text": "A breaking news report (hard news) requires a piece of audio that explains what is happening, summarizing the key points, the main actors, and any information that is known so far. Because such reports are about something that may still be going on, sometimes there will be unanswered questions that will be addressed in follow-up reports. Breaking news stories may feature a reporter at the location of the action, with his/her voice explaining what is known so far and what can be seen on the ground from that vantage point. In some cases, a breaking news story may be introduced from a remote location based on secondhand reports when it is not possible to be there. It is crucial that you at least cover the following questions: Who, What, Where, Why, When, and How.", 
+            "text": "Un informe de noticias de \u00faltima hora ( noticias duras ) requiere una pieza de audio que explique lo que est\u00e1 sucediendo, resumiendo los puntos clave, los principales actores, y cualquier informaci\u00f3n que se conozca hasta el momento. Porque tales informes son sobre algo que todav\u00eda puede estar pasando, a veces habr\u00e1 preguntas sin respuesta que se abordar\u00e1n en los informes de seguimiento. Las noticias de \u00faltima hora pueden ofrecer a un reportero en un lugar de los hechos, con su voz, explicando lo que se sabe hasta el momento y lo que puede ser visto sobre el terreno desde ese punto de ventaja.\nEn algunos casos, una noticia de \u00faltima hora pude ser introducida desde una localizaci\u00f3n remota basada en reportajes de segunda mano cuando no es posible estar all\u00ed. Es crucial que al menos tu cubras las siguientes questiones: qui\u00e9n, qu\u00e9, d\u00f3nde, por qu\u00e9, cu\u00e1ndo y c\u00f3mo.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_3"
         }, 
@@ -99,7 +99,7 @@
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
-            "header": "Example of a story using multiple contributors.", 
+            "header": "Ejemplo de una historia usando m\u00faltiples contribuyentes.", 
             "exampleMediaPath": "05.mp3", 
             "clipType": "character", 
             "type": "ExampleCard", 
@@ -123,7 +123,7 @@
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "To summarize what information is available regarding something that is happening now; the outcome is still not completely known and will require follow-up reports.", 
+                    "text": "Para resumir que informaci\u00f3n esta disponible con respecto a lo que este sucediendo ahora; el resultado a\u00fan no es completamente conocido y requerir\u00e1 informes de seguimiento.", 
                     "id": "answer_3"
                 }, 
                 {
@@ -166,7 +166,7 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Narration can be used in what type of audio story:", 
+            "question": "En que t\u00edpo de historias de audio se puede utilizar la narraci\u00f3n:", 
             "choices": [
                 {
                     "text": "Problema.", 
@@ -194,5 +194,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "types_of_stories", 
-    "title": "Types of Stories"
+    "title": "Tipos de historias"
 }

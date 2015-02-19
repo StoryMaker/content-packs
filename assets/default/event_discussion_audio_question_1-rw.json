@@ -103,7 +103,7 @@
             "id": "review_card_0"
         }, 
         {
-            "text": "Does your story tell us why the event is important?", 
+            "text": "Iyo nkuru yawe iradutomorera igituma ibiriko biraba bihambaye", 
             "type": "BasicTextCard", 
             "id": "evaluation_card_0"
         }, 
@@ -115,5 +115,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "event_discussion_audio_question1", 
-    "title": "Event Discussion - Why"
+    "title": "Kubera iki?"
 }

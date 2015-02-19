@@ -1,0 +1,150 @@
+{
+    "cards": [
+        {
+            "medium": "audio", 
+            "length": "0:08", 
+            "goals": [
+                "Fata amajwi yaho hantu haza kubera ivyo bintu imbere yuko bitangura."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:25", 
+            "goals": [
+                "Shikiriza intango y\u2019ivyabaye", 
+                "Kuja hafi yaho binjirira hama ugafata amajwi y\u2019abantu bariko barinjira", 
+                "Fata amajwi y\u2019abantu benshi bari murivyo biriko biraba."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "goals": [
+                "Fata amajwi yintambwe ya mbere ifise insiguro murivyo vyabaye"
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "text": "Ntufata intambwe zose.intambwe zifise insiguro gusa kugira werekaneingene ibintu biriko biragenda kuva mu ntango gushika bihere", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:15", 
+            "goals": [
+                "Fata intambwe ya kabiri ifise insiguro mugihe vyariko biraba."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:11", 
+            "goals": [
+                "Fata intambwe ya gatatu ifise insiguro kurivy vyabaye."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "text": "Hari ibice birenga bine,ongerako carte de clips n\u2019ikimenyetso guteranya +", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:15", 
+            "goals": [
+                "Fata intambwe ifise insiguro yanyuma y\u2019ivyo vyabaye"
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:20", 
+            "goals": [
+                "Fata umwanya ububabaje udasanzwe uvuga muri make ivyabaye."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:15", 
+            "goals": [
+                "Fata amajwi yuwo muntu wawe ariko arakora igikorwa."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Fata abantu bariko bararaba canke bariko bakora igikorwa murivyo vyabaye.abarorerezi bashushe bazi ivyobarimwo nibo bakenewe."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:15", 
+            "goals": [
+                "Faaa amajwi yigikorwa caheze canke impera y\u2019ivyo vyabaye"
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_9"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "edit", 
+                "audio", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "narration"
+            ]
+        }, 
+        {
+            "text": "--------", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "event_process_audio", 
+    "title": "Ingene bigenda ivyabaye."
+}

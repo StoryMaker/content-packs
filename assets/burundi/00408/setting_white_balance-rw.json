@@ -1,0 +1,176 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Amafoto amwamwe yanje asa numuhondo cane. Ayandi nubururu cane. Ingorane irihe kandi nokora iki ngobibe neza.", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Muriyi nyigisho uzokwiga:\n&bull; ico urugezo rwera (r\u00e9glage de la balance des blancs) rusigura\n&bull; ingene uringaniza ibara (couleur) uciye kuri contr\u00f4le yurugezo rwera (r\u00e9glage de la balance des blancs)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Amaso yawe, vyifatanije n\u2019ubwenge bwawe, bikora neza mugutomora ingene ubona amabara. Uzomenya kw\u2019ibara ritukura naho umuco urizana uzoba werekanako aribara ry\u2019umuhondo mwinshi, bituma ibara riboneka risa na orange. Uzomenya ayagomba gusa numubiri naho umuco werekana ico uriko urafata ifoto uzoba ugomba gusa nurwatsi rutoto/ubururu buja kwera (fluorescente bleu-vert)\nCamera digital ntishobora kugira ivyo. Ibwirizwa gushirwa kurugezo kugira iringanize amasoko yubushuhe bwamabara yumuco atandukanye. Uku kuringaniza bipimirwa urabiye kucera cane. Nico gituma vyitwa urugezo rwera (r\u00e9glage de la balance des blancs)\n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "!(2.png)\n### Akarorero kikintu kimuritswe nitara rya tungst\u00e8ne\nAmatara ya tungst\u00e8ne arafise ubushuhe bw'umuco butaribuke, bituma ibicapo bisa numuhondo.\n!(3.png)\n###Akarorero kikintu giteretse hanze hari igicu\nKumurango iyo hapfutse, hari igicu haba ubushuhe bw'umuco utarimwinshi, bituma ibicapo bisa nubururu\n!(4.jpg)\nAyandi masoko yumuco (source de lumi\u00e8re) --- Umuco uva kuzuba, umuco uvanze (fluorescent), igitutu --- vyose bijana hagati. Ubushuhe bw'umuco ntaco busana n'uburingane (quantit\u00e9) bw'umuco", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Gushobora gutunganya neza amabara ningirakamaro. Bituma igicapo giseruka neza nkicakozwe numuhinga. Ama smartfone menshi aratanga uburyo butandukanye buzanana nayo kuvyerekeye ingene utomora urugezo rwera (r\u00e9glage de la balance des blancs). \n!(5.png)\n## akantu (ic\u00f4ne) kerekana mubisanzwe ingene utomora urugezo rwera\nNyamba terefone yawe ikwemerera gutomora urugezo rwera (r\u00e9glage de la balance des blancs) uvyiyinjirijemwo, bigire. Smartfone yawe ishobora kuba ifise aka bouton canke option muri menu kuvyerekeye ingene utomora urugezo rwera. Iratanga utuntu (ic\u00f4ne) twinshi twerekana ahava umuco dushika dutanu canke dutandatu. Tora ako kajanye neza ningene hasa aho hantu uriko urakorera.Nyamba rero iyo smartfone yawe idashobora gutomora urugezo rwera wiyinjirijemwo, urashobora gukosora amabara ukoresheje ama application ya post-production (ibindi vyerekeye ibi, raba igice ca post-production). Nyamba ubushuhe bw\u2019amabara burengenje,NIVYIZA CANE yuko usubira kubiringaniza imbere yuko umenyekanisha ivyo bicapo vyawe (images) ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "!(6.png)\n## AWB (urugezo rwera (r\u00e9glage de la balance des blancs) rwigira (auto)\nKoresha ibi (param\u00e8tres) kugira ufate amafoto hose. Terefone ikora ivyo ishoboye mukumenya ibikoreshwa neza (bon param\u00e8tres), mugabo ishobora gutanga igikorwa kitashimishije iyo yihenze. Ibi (param\u00e8tres) nivyo warukwiriye gukoresha iyo utazi neza icotanga igikorwa gishimishije.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "! (7.png) ## umuco w\u2019umusi koresha ubwo buhinga mugufata ama foto hanze. Bitanga ama sanamu afise ibara ry\u2019ubururu. Mugufata ama foto munzu, ubwo bwongera ku ma foto ibara ry\u2019umucungwe. ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "!(8.png)\n## Nuageux.\nKoresha iyo r\u00e9glage mugufotorera hanze. Iyo r\u00e9glage izotuma kuma  sanamu yanyu hba une couleur l\u00e9g\u00e8rement plus \u00ab chaude \u00bb. naho option y\u2019umuco w\u2019umusi ikoresha ubuhinga bwa balance des blancs itomoye, mugukresha le r\u00e9glage nuageux  bitanga isanamu ikwega ijisho. Iyo muriko mufototrera munzu, iyo parametre, izotuma ama sanamu yanyu agira une teinte orange forte.   ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "!(9.png)\n ##Lumineux.\nKoresha iro reglage mugu fata ma sanamu munzu, aho ico cumba cakirijwe na ma ampoules traditionnelles l\u00e9g\u00e8res. Iyo muriko mufotorera hanze iyo parametre izoha am asanamu yanyu iune forte teint bleu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "!(10.png) ## Fluorescent.\nKoresha ubwo buryo mugufata ama foto munzu, aho iyo sale yakirijwe nama tubes fluorescentes maremare. Muriko murafata ama foto hanze, iyo param\u00e8tre ica ituma ma ama foto afise ibara ryubururu.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "##IBINTU VYO KWIBUKA\n&bull; ubwirizwa gutunganya neza urugezo rwera (r\u00e9glage de la balance des blancs) kugira ushike kuri vyiza\n&bull; Riganiza urugezo rwera (r\u00e9glage de la balance des blancs) iyo uhinduye ikibanza uva k'ubwoko bw'umuco runaka uja kubundi igihe uriko urafata amafoto.\n&bull; Nivyiza ukoresheje igitabo kivyerekeye urugezo rwera (r\u00e9glage de la balance des blancs) mugabo n'urugezo rwera (r\u00e9glage de la balance des blancs) rwigira (auto) ni neza.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Nigiki cerekana neza ico urugezo rwera (r\u00e9glage de la balance des blancs) rusigura", 
+            "choices": [
+                {
+                    "text": "Uburingane (quantit\u00e9) bw'umuco ukubita kuri capteur", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Ubushuhe bw'ibara ry'umuco (temp\u00e9rature de couleur de la lumi\u00e8re) rikubita kuri capteur, riva kubushuhe (umuhondo) gushika kumbeho (ubururu).", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Ibara ry'indome zinsobanuro", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ntanimwe muri izo nyishu.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Nivyo canke Sivyo. Aho bishobokeye hose warukwiriye kuringaniza urugezo rwera (r\u00e9glage de la balance des blancs) kuri camera canke muri post-production.", 
+            "choices": [
+                {
+                    "text": "Nivyo", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Sivyo", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "Ni gute wocungera (contr\u00f4ler) urugezo rwera (r\u00e9glage de la balance des blancs) ukoresheje smartfone yawe ya android canke gutumbereza no gufata vya camera yawe ", 
+            "choices": [
+                {
+                    "text": "Iyinjirizemwo urugezo rwera (r\u00e9glage de la balance des blancs) uciye ku kakantu (ic\u00f4ne) kerekana neza ibara ryumuco (couleur de la lumi\u00e8re) ujanye naho hantu uriko urafatira amafoto.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Niciyumviro ciza kuringaniza (calibrer) ukoresheje urupapuro rwera nkuko abanyamakuru bakoresha amasanamu babigira.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Kuringaniza urugezo rwera (r\u00e9glage de la balance des blancs) muri post-production", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ibiri hejuru vyose", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "text": "(11.jpg)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Ni gute wokosora urugezo rwera (r\u00e9glage de la balance des blancs) muriyo sanamu iri hejuru?", 
+            "choices": [
+                {
+                    "text": "Hindura option y'urugezo rwera (r\u00e9glage de la balance des blancs) ushire kuri \u2019fluorescent\u2019 igihe ufata ifoto", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Kuringaniza ukobisa (ajuster l'exposition)", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Kuringaniza ubushuhe bw'umuco (temp\u00e9rature de lumi\u00e8re) muri post-production wongerako ibara ry'umuhondo", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ibiri hejuru vyose", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "setting_white_balance", 
+    "title": "Gukorera kurugezo rwera (r\u00e9glage de la balance des blancs)"
+}

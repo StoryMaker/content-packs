@@ -1,0 +1,258 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Ni gute ibiyago digital vyanje binshira mukibazo", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Muriyi nyigisho uzokwiga:\n&bull; Nubuhe bwoko bw'ibiyago bushobora gukurikiranwa\n&bull; Ingene ibiyago vyo ku materefone ngendanwa bikurikiranwa\n&bull; Ingene wokwirinda gukurikiranwa iyo bishoboka\n\n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Kuba umumenyeshamakuru akora neza bikenerwa yuko ukoresha uburyo bwinshi bwo guhanahana amakuru. Uburyo bwoguhanahana amakuru bumenyerewe bisaga inzira ishobora gukoreshwa nabo bakubangamiye canke babangamiye abaguha amakuru. \nMutumbero yogutunganya inkuru, ushobora gusiga inzira ya digital ifasha abo bakubangamiye canke babangamiye abaguha amakuru.\nGutahura neza inzira isigwa n'ibiyago vyawe niyo ntambwe yambere ugira kugira wihumurize yuko abo bakubangamiye batazoshobora kukugirira nabi canke bagirire nabi abaguha amakuru.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Guhanahana amakuru m'uburyo bwa electronique](2.png)\nInzira zisanzwe zose zo guhanahana amakuru m'uburyo bwa electronique zirafise ibimenyetso bisigara (trace). Guhanahana amakuru m'uburyo bwa electronique bigizwe n'uburyo bwinshi butandukanye:\n&bull; Ihamagara\n&bull; Ubutumwa bwanditse (SMS / MMS)\n&bull; Email\n&bull; Ivya Voice over IP(VoIP) nka Skype canke Google Hangout\n&bull; Gukoresha navigateur\n&bull; Gukoresha r\u00e9seau social", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Guhanahana amakuru muburyo bwa electronique vyisunga vyose inzira imwe. Ikiyago gihera kumuntu umwe, kigafata inzira ica mu muhora, kigashikira umuntu wundi wakabiri. \nUbwoko bw'ingorane zitewe no guhanahana amakuru buvana na systeme iriko irakoreshwa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![Gukurikiranwa kw'ibiyago vyokuri terefone ngendanwa](3.png)\n### Gukurikiranwa kw'ibiyago vyokuri terefone ngendanwa\nIbiyago biciye ku mihora ya terefone ngendanwa bikenera ivyo bita systeme passif ituma terefone y'uwukoresha, par d\u00e9faut, yinjizwa mu muhora.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![Gukurikiranwa kwa email kuri ISP hamwe na gateway national](4.png)\n### Gukurikiranwa kwa email kuri ISP hamwe na gateway national\nGukoresha nagivateur, email, VoIP, n'ibiyago vya r\u00e9seau social vyamye bikenera yuko uwubikoresha yinjira neza mu muhora imbere yuko guhanahana amakuru bitangura. ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![Ibikorwa vyo guhanahana amakuru](5.png)\nUko abakoresha bagenda biyongera mu gukenera terefone zabo kuma donn\u00e9es hamwe n'ibikorwa vyo guhanahana amakuru, ibi biyago vyose bitangura gukenera ivyo bita communication passive. Naho ubwirirzwa gufa ingingo yo guhanahana amakuru kuri r\u00e9seau socail canke kuronka email kuri ordinateur, terefone yawe izoronka irihanahana ry'amakuru par d\u00e9faut, igihe bitanguye. ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![Terefone ngendanwa](6.png)\nIhweze urwo rutonde rw'ibikoresho bifasha kugumana ukutashira ahabona n'ukutamenywa igihe utanguye ibiyago vya electronique. Inyigisho zohanyuma zizosigura imigendere myiza ku bwoko bwose bwoguhanahana amakuru.\n### Ibikoresho bihanuwe gukoresha\n&bull; kuri SMS: TextSecure\n&bull; kuri VoIP/ihamagara: OSTel / CSipSimple canke Redphone\n&bull; Guhanahana amakuru atawukuzi: Orbot\n&bull; Ukoresha navigateur: Orweb\n&bull; uri kuri Chat: ChatSecure\n&bull; kuri Email: K9Mail\n&bull; kuri Notes: NoteCipher\n&bull; Ubunyegezabanga (mot de passe): KeePassDroid", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "media": [
+                {
+                    "media": "7.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Ni gute terefone ngendanwa vyanje inshira mukibazo", 
+            "exampleMediaPath": "7.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "![Terefone na SIM](8.png)\nUkwari bibiri, ikarata SIM na terefone ngendanwa vyawe bishobora kumenyekanisha uwo uriwe. Ibiyago vyose vya terefone yawe biciye k'umuhora wa terefone yawe ---- waba uriko urahamagara canke baguhamaga, kurungika ubutumwa, gukoresha navigatuer kuri web, canke kuguma uri kuri internet ---vyose bituma hamenyekana ivyerekeye terefone n'ikarata SIM.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## Ni gute ikarata SIM yonyononera?\n![Idonido y'ikarata SIM ](9.png)\nIyo bita ikarata ya Subscriber Identity Module (SIM) ibika ivyerekeye umuntu yiyandikisha ngwakoresha terefone. Ivyo nivyo uwuntanga ubwo buryo (fournisseur) akoresha kugira amenye uwo uriwe, hisunzwe ibikuranga canke impapuro watanze mukwiyandikisha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## Ni gute terefone ngendanwa yanje yonyononera?\n![Akarorero k'inomero ya IMEI](10.png)\nIkarata SIM irakumenya, mugabo terefone ngendanwa yawe irashobora kugutera ingorane. Terefone ngendanwa yose ifise inomero yisangije, yitwa International Mobile Equipment Identity (IMEI). Iyi nomero ishobora gukurikiranwa umwanya wariwo wose.\nIhweze terefone ngendanwa yawe kugira ubone iyo IMEI (kenshi iherereye inyuma y'ibateri) canke ufyonde *#06# muri terefone yawe kugira ubone inomero terefone ngendanwa yawe yisangije.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "Ushobora kwibaza yuko ikarata SIM yawe ariyo nzira yonyene uwutanga umuhora canke inzego zishobora gucako mukukumenya canke mukugukurikirana mukibanza urimwo. Abantu benshi barahindura ama karata SIM yabo mugabo bakabandanya bakoresha ya terefone nyene. Iri nikosa. Bifatanije, ikarata SIM yawe (ariyo ikumenya) hamwe n'inomero ya IMEI (ariyo imenya terefone yawe) bituma umenyekana kandi ukirikiranwa igihe cose. \nIterefone ngendanwa yawe igihe cose iguma yandika ikibanza urimwo kuri antenne ya terefone yose winjiyeko. Kuramwo ibateri yawe canke usige terefone yawe muhira nyamba udashaka gukurikiranwa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "## Ni gute terefone yanje yerekana ikabanza ndimwo?\n![Triangulation](11.png)\nIgihe terefone ngendanwa yawe yugaye, uwutanga umuhora arazi ikibanza urimwo, akoresheje ivya Triangulation vyama antenne arihafi yawe arondera ikimenyetso kiva kuri terefone yawe (signal de t\u00e9l\u00e9phone). Ikibanza urimwo gishobora kumenywa ku metero zike iyo uri mu gisagara mugabo kikamenywa ku metero nyinshi uri nka ruguru aho ata antene nyinshi ziriho. Nyamba uhamagaye canke uhamagawe, canke wanditse ubutumwa, ikibanza urimwo muruwo mwanya kirabikwa m'urutonde rw'uwutanga umuhora. Menya kwibi ariko bikora mumihora kwatari ukuronderwa (surveillance). Imihora yose iragira Triangulation y'ibimenyetso vya terefone yawe. Ibi ni nkenerwa kuvyibuka kuko bishobora gukoreshwa nabi kuri wewe.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "text": "## Terefone yanje irashobora gukoreshwa mu kunkurikirana?\n![Kugira inama ama bateri yakuwemwo](12.png) \nNigihe ushobora kuba utariko urakoresha terefone ngendanwa yawe, ishobora gukoreshwa nkaka microfone mwibanga nabandi kugira bakumvirize. Kuramwo ibateri yawe (ntiwugare terefone yawe gusa) canke shira terefone yawe kure yaho uri mugihe uriko ugira ibiyago atawukwiye kumenya.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "text": "Mwikoreshwa risanzwe, ubutumwa wanditse hamwe n'ihamagara ryawe bishobora gukurikiranwa n'uwutanga umuhora (fournisseur).\nIhamagara rishobora kumvirizwa hamwe nogukurikiranwa, n'intonde zishobora (bikurikije amategeko canke bitayakurikije) guhabwa uwundi muntu.\nIntambwe zike ushobora kugira mu kwirinda:\n&bull; Gura amakarata SIM akora aruko arishe (pr\u00e9pay\u00e9), kandi arihamwe bishoboka wirinde kwiyandikisha ukoresheje izina ryawe. Koresha amahera kuko ama karata ya cr\u00e9dit canke aya banki ashobora kumenyekanisha ko ikarata arigwawe.\n&bull; Gura terefone ngendanwa isanzwe kandi izimbutse ataco bikubwiye kuyita arihamwe vyokenerwa\n&bull; Nyamba wibaza yuko uriko urakurikiranwa, ntute ikarata SIM yawe gusa, ute na terefone ngendanwa yawe.\n&bull; Wame wirinda minsi yose gusangira amakuru afise akabanga  nabandi kuri terefone ngendanwa yawe.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_14"
+        }, 
+        {
+            "text": "## IBINTU VYO KWIBUKA\n&bull; Ikarata SIM hamwe na terefone ngendanwa vyawe bishobora kukumenya\n&bull; terefone ngendanwa yawe ishobora kugukurikirana\n&bull; terefone ngendanwa yawe ishobora gukurikiranwa yumvirizwa (\u00e9coutes t\u00e9l\u00e9phoniques)\n&bull; Gendana amakarata SIM menshi yo mu mihora itandukanye ushobora guhindagura usubiriza iyo karata yawe. Nyamba bishoboka, gendana terefone irenga imwe \n&bull; Kuramwo ibateri muri terefone yawe canke uyisige muhira igihe uzoba uriko ugenda guhura canke uva aho uhurira nabandi kugira wirinde ivya Triangulation bikoresha ama antenne y'imihora hamwe nogukurikiranwa mukibanza urimwo.\n&bull; Nyamba wibaza yuko uriko urakurikiranwa n'inzego, ikure ikarata sim hamwe na terefone vyawe wamye ukoresha.\n&bull; Gushira muri mode nkuko uri mundege (Airplane mode) suburyo buhumurije cane gusumba; terefone yawe irashobora kubandanya ishoboza uwayikoze kugushikira aciye kuvyo bite backdoor.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_15"
+        }, 
+        {
+            "text": "## Inyigisho ziri muriki cigwa zivanywe cane cane munyigisho zateguwe n'igikorwa ca Mobile Active\u2019s now-closed Safer Mobile hamwe na Tibet Action Institute http://tibetaction.net.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_16"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "Ni bihe biyago bifise ibimenyetso bisigara (traces)?", 
+            "choices": [
+                {
+                    "text": "Email + SMS", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Ihamagara rya terefone", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Ubutumwa bwanditswe n'amaboko", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Gukoresha ubuhinga ngurukana bumenyi web", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Ni gute terefone ngendanwa zinjira muri r\u00e9seau par d\u00e9faut?", 
+            "choices": [
+                {
+                    "text": "Uciye gufyonda inomero za terefone", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Iyo gusa uriko uratefona", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Terefone ngendanwa zituma ugira ibiyago birebire (passif) igihe cose", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Iyo gusa uriko uratefona canke urungika SMS", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "Niyihe nzira nziza yo kwirinda gukurikiranwa na terefone ngendanwa yanje?", 
+            "choices": [
+                {
+                    "text": "Guhindura ikarata SIM yanje", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Guta kure terefone ngendanwa yanje", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Gukuramwo ibateri yanje", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Gura ikarata SIM zikora zirishe", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Nigiki nokora kugira nkingire terefone yanje mu gukurikiranwa kuri jewe (\u00e9coutes sur moi)?", 
+            "choices": [
+                {
+                    "text": "Guhindura ikarata SIM yanje", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Kuzimya terefone yanje", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Gushira terefone yanje muri mode nkuko ndi mundege", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Gukuramwo ibateri yanje", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "Ni gute terefone yanje bayitora (identifi\u00e9)?", 
+            "choices": [
+                {
+                    "text": "Uciye kw'iyandikwa ry'ikarata SIM", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Uciye kuri nomero ya terefone", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Uciye kw'iyandikwa rya IMEI", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Uciye kuri antenne za terefone", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_5"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "how_do_my_communications_put_me_at_risk", 
+    "title": "Ni gute ibiyago vyanje kuri terefone binshira mukibazo"
+}

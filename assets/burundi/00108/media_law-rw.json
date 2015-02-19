@@ -1,0 +1,111 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Amategeko agenga ibimenyeshamakuru yama ariko asubirwamwo kugira bahoze abamenyeshamakuru. Nigute wokwingenza murivyo bigenda bihinduka mu mategeko agenga ibimenyeshamakuru?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Muriyi nyigisho uzokwiga\n&bull; Uko ingingo yinyifato imeze\n&bull; Uko kubuzanya kuvuga biri\n&bull; Ivyogufasha kwikingira nku mumenyeshamakuru", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Abamenyeshamakuru aho bari hose bakorera nimiburiburi kumategeko make ababuza ivyo bashobora gusohora. Kensi usanga ibi vyerekeye umutekano wigihugu, inkuru vyitwa kwariterasoni, hamwe nimvugo zishobora gutera induru canke gushira abantu mungorane. \nMubihugu bifise amategeko agenga ibimenyeshamakuru anonosowe neza, kutavuga rumwe na leta hamwe noguserura ivyiyumviro bitashimisha bose birarekuriwe. Kwabanyagihugu baronswa ivyerekeye ibikorwa vya leta bike navyone birabwirizwa (garanti)\nMugabo intwaro zimwe zirabuza vyinshi gusumba. Amategeko mashasha muri rusangi aragabanya umwidengenvyo wibimenyeshamakuru hamwe no gushikira cane cane ubuhinga bwa internet. Amashirahamwe aharanira agateka nka the Committee to Protect Journalists araterwa amakenga niyo mvugo idasobanuwe yandikwa mungingo ziseruka zizoza gukoreshwa mu kurwanya abamenyeshamakuru. ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "#Nigiki wokora kugira winkingire ugukoresha birengeje ingigo ziri mumategeko agenga ibimenyeshamakuru?", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "### Kumenya amategeko\n![Kumenya amategeko](2.png)\nMenya amategeko mugihugu canke mukarere ukoreramwo. Ntibivuga yuko kubera amategeko akingira abamenyeshamakuru ariho bica bisigura yuko leta, inzego zomugihugu hagati, hamwe n'abajejwe umutekano bazoyubahiriza. Nuko rero, gutahura amategeko bishobora kuba intambwe yambere mukuyateza imbere. ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "### Emeza ingigo ngenderwako zumukozi mwiza\n![Emeza ingigo ngenderwako zumukozi mwiza](3.png) \nMunyigisho zinyifato, harimwo ingigo ngenderwako zumukozi mwiza kubamenyeshamakuru. No mubihugu amategeko agenga ibimenyeshamakuru akaze gose, gukurikiza intumbero zirimwo bishobora kugufasha kwirinda ivyagirizo vyikibi canke guhemukira igihugu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "### Guharanira ihinduka\n![Guharanira ihinduka](4.png)\nKimwe mubintu nyamukuru bigize ihinduka muvyerekeye ibimenyeshamakuru mwisi yose nubuvange bwavyo nabaharanira agateka kavyo. Abanyagihugu bamenyesha amakuru bariko bahindura uko ubumenyeshamakuru bwari busanzwe buzwi mugihe kandi bariko baramenyesha inkuru. Shirahamwe inguvu nabandi kugira mutangure kungurana ubwenge. Saba gushigikirwa namashirahamwe ajejwe amategeko mugihugu canyu. Saba gushigikirwa nokumenyeshwa inkuru mumashirahamwe yohanze yigihugu nka Committee to Project Journalists", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "### Mwamwe muzirikanya ukubuzanya kuvuga\nNo mubihugu vyinshi bifise amategeko yoroheje, ukubuzanya kuvuga nikibazo hagati yabamenyeshamakuru. Abamenyeshamakuru bamwe ntibiborohera kumenyesha ibintu bidahurizwako nabose bijanye nimico, nkuburenganzira bw'abagore canke amatati yamoko. Abamenyeshamakuru bamwe baranka kumenyesha ibintu bishobora kwonona izina ry'igihugu nk'akaborerwe karengeje gwakiragiye hose canke gutanga ibiturire muzengo zigihugu. Mugabo nyamaba ibi bintu bijanye nivyabanyagihugu bakeneye, abantu bakwiriye kubimenya, kandi nigikorwa cawe kubibabwira. ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "### Ikingire (wongere ukingire abaguha inkuru)\n![Ikingire](5.png)\nIki kibazo kirasigurwa neza mu nyigisho z'umutekano digital (num\u00e9rique). Muri make, gutahura amategeko, ingene inzego zishobora kwirengagiza canke bagakoresha nabi amategeko canke bakakumenya kuri internet, kubitanga rero nivyo bikuru ku mumenyeshamakuru wese ariko akorera murivyo bihe bidahumurije. Nyamba uhagaritswe, canke uriko uratotezwa, rondera amashirahamwe akorera mu gihugu canke ayo hanze yigihugu afasha abamenyeshamakuru.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## IBINTU VYO KWIBUKA\n&bull; Amategeko agenga ibimenyeshamakuru azogenda yunguruzwa bitarikimwe mubihugu no muturere dutandukanye \n&bull; Gira umuryango wabamenyeshamakuru muce mukora muharanira agateka kawo\n&bull; Mwamwe muzirikanya ukubuzanya kuvuga hagati yabamenyeshamakuru\n&bull; Emeza ingigo ngenderwako zumukozi mwiza\n&bull; Shira umutahe mumutekano digital (num\u00e9rique) wanyu", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Naho amategeko agenga ibimenyeshamakuru adatomoye neza kandi inzego ziyashira mungiro mugihugu canke mukarere ukoreramwo zihengamye, nikihe muribi bikurikira cofasha abanyagihugu bamenyesha amakuru kwikingira? ", 
+            "choices": [
+                {
+                    "text": "Imenyereze amategeko ari mubitabo", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Haranira agateka kokuronswa amategeko meza agenga ibimenyeshamakuru", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Emeza ingigo ziranga inyifato zumukozi mwiza", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ibiri hejuru vyose", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Nivyo canke Sivyo: ukubuzanya kuvuga bishobora kuba ikibazo kubamenyeshamakuru benshi naho kubuzwa kuvuga biva muri leta atabiriho. Abamenyeshamakuru beza bakwiriye kwemera kumenyesha ivyiyumviro bashobora kuba batemera, ibiyago bidashimisha bose ariko bijanye nivyabanyagihugu bakeneye, hamwe nibintu kubera imico bigoye kuvuga ariko arinkenerwa. ", 
+            "choices": [
+                {
+                    "text": "Nivyo", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Sivyo", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "media_law", 
+    "title": "Amategeko agenga ibimenyeshamakuru"
+}

@@ -1,0 +1,170 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Erekana aho biza kubera n\u2019ingene biza kuba imbere ko bitangura."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Erekana intango y\u2019ingene bigenda"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "portrait", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Fata intambwe ya mbere ifise insiguro murivyo vyabaye."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "text": "Ntufata intambwe zose.intambwe zifise insiguro gusa kugira werekaneingene ibintu biriko biragenda kuva mu ntango gushika bihere", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "fata igice ca kabiri gifise insiguro mubiriko biraba"
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "text": "Kuba uzi neza yuko ufise ibintu bitandukanye vyerekana ngene bigenda. Amasanamu yagutse, ayegereye hamwe nayasanzwe.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Fata intambwe ya gatatu ifise insiguro kurivy vyabaye."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "text": "Hari ibice birenga bine,ongerako carte de clips n\u2019ikimenyetso guteranya +", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Fata intambwe ifise insiguro yanyuma kuvyabaye"
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Fata amafoto y\u2019umwanya ubabaje udasanzwe uvuga muri make ivyabaye"
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Fata ifoto ifise insiguro y\u2019abantu bariko bakora igikorwa"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "photo", 
+                "photo essay", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Fata amafoto y\u2019abantu bariko bararaba canke bariko bavuga kukungene bigenda.inkuru zishushe nizo zikenegwa."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Erekana igikorwa caheze canke impera y\u2019ivyabaye-impera ibabaje."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_9"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "edit", 
+                "photo", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_3", 
+            "tags": [
+                "narration"
+            ]
+        }, 
+        {
+            "text": "--------", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "event_process_photo", 
+    "title": "Ingene bigenda ivyabaye."
+}

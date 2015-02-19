@@ -1,0 +1,141 @@
+{
+    "cards": [
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "audio", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "goals": [
+                "Fata amajwi yo hafi yaho hantu "
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Fata abantu baje murivyo biriko biraba canke bariko bavuga ku kintu kiriko kiraba muri uwo munsi mukuru.inkuru ziryoshe nizo nziza"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "audio", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Fata ijwi rivuga muri make ivyuyo munsi mukuru"
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:15", 
+            "goals": [
+                "Fata umuntu ahambaye cane yaje kuraba ivyo biriko biraba"
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:20", 
+            "goals": [
+                "Fata umuntu ahambaye cane murivyo biriko biraba"
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:13", 
+            "goals": [
+                "Fata ijwi ry\u2019igice cisa gihambaye c\u2019ivyo biriko biraba"
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "Fata ijwi ry\u2019uwariwe wese akenewe muri ivyo biriko biraba. Akarorero uwusobanura,umunyepolitike canke umuntu azwi mubaje."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "audio", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "Rondera ikintu gikenewe canke ikintu gihera nabi kugira ubifate amajwi.iherzo ry\u2019urukino canke ry\u2019agakino canke ijambo nk\u2019akarorero"
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_3", 
+            "tags": [
+                "audio", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_4", 
+            "tags": [
+                "narration"
+            ]
+        }, 
+        {
+            "text": "--------", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "event_highlights_audio", 
+    "title": "Kubijanye n\u2019uwo munsi mukuru."
+}

@@ -1,0 +1,146 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Ni gute norungika kandi nkaronka SMS bihumurije?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Muriyi nyigisho uzokwiga:\n&bull; Ingorane zishobora gushika kubera kuyagira kuri SMS\n&bull; Ingene ubutumwa SMS bukurikiranwa\n&bull; Ubuhinga bumwe bumwe bwogukoresha igihe wikeka ko SMS yawe ishobora kuba iriko irakurikiranwa", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "![Ingene SMS ishobora kubonwa ahigiye ](2.png)\n### Ingene SMS ishobora kubonwa ahigiye\nSMS n'uburyo bworoshe cane bwokurungika ubutumwa, ariko ntibuhumirije. Ubutumwa bwa SMS bubikwa n'uwuntanga ubwo buryo (fournisseur)  kandi bushobora kubonwa aho bugiye nabo bashobora gushikira Ivyuma vya antenne birungika nyabutumwa. Ubutumwa bwa SMS bwawe bushobora gushikirwa muri terefone yawe, canke umuntu wese ashobora gushika k'urutonde rw'uwubutanga (dossiers de fournisseur) canke urutonde rwabitswe muri antenne yakoreshejwe mukuburungika.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Ingene ushobora kwirinda yuko SMS yawe ibonwa ahigiye ](3.png)\n### Ingene ushobora kwirinda yuko SMS yawe ibonwa ahigiye\nSMS zirashobora kuronderwa hamwe nogushirwako ikimenyetso (indexable). SMS itafise uburyo burimwo udufindo (crypt\u00e9) iroroshe gukurikirana. Nyamba wewe canke uwuguha amakuru mushobora kubangamirwa, warukwiriye kurungika SMS ifise uburyo burimwo udufindo gusa. Uzirungike ari ntonto kandi hakoreshejwe terefone zitazwi gusa. \nKurungika SMS ifise uburyo burimwo udufindo, ubwirizwa gukoresha Application zizwi. Wewe n'uwuguha inkuru mubwirizwa mwese gukoresha Application imwe. Rungikira uwuguha inkuru ubutumwa uciye muri Application wifuza kugira utangure guhana urufunguruzo. Iyo mumaze guhana infunguruzo, murashobora kuyaga n'uwuguha amakuru muciye kunyandiko zifise uburyo burimwo udufindo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "## IBUKA: Ubwirizwa gukoresha Application y'urwandiko rufise uburyo burimwo udufindo (crypt\u00e9) kugira ushobore kurungika inyandiko zifise uburyo burimwo udufindo. Application usanzwe ukoresha mukurungika ubutumwa ntishobora kurungika inyandiko zifise uburyo burimwo udufindo", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![Kuguma utekanye](4.png)\nImbere yuko uyaga n'uwuguha amakuru kuri SMS, banza urabe ko afise uburyo burimwo udufindo (crypt\u00e9) bukoreshwa na Application ya SMS; Kandi witwararike yuko bazi neza ko SMS zabo zishobora gusomwa n'inzego kandi zikamenywa kwari rwabo iyo badakoresheje terefone itazwi.\nNtukarungike amakuru afise ibanga uciye kuri SMS idafise uburyo burimwo udufindo (non crypt\u00e9) kiretse nyamba wemeye yuko busomwa n'inzego. Ubutumwa bwose bwa SMS bushora gushirwa k'urutonde n'uwuntanga ubwo buryo (fournisseur) hamwe nogusomwa n'inzego. \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![Indome rudende zikoreshwa nkutubanga (code)](5.png\nUburyo bworoshe bwokwirinda abahungabanya umutekano wawe ni gutangura kuyagira kuri system ifise utubanga (cod\u00e9) hamwe nabo wizera mubo mukorana. Shira hamwe urutonde rw'utubanga dufasha gutanga amakuru asanzwe.  Nka karorero, \u201cX\u201d ishobora gusigura kubangamiwe, hanyuma \u201cZ\u201d nayo ko utekanye. \u201cTree\u201d ishobora gusigura kushaka ko muhura. \u201cBanner\u201d ishobora kuba arahantu muhurira. \nBiva kuri mwebe gutora uburyo mukoresha buzoborohera kwibuka wewe hamwe n'abaguha inkuru. Hariho ama logiciel ashoboye gukoresha inyandiko zihumurije (SMS s\u00e9curis\u00e9) mugabo ntiyoroshe gucungera nk'utubanga wisangije twa SMS. ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![Gufuta ubutumwa bwasomwe](6.png)\n## Gufuta ubutumwa bwasomwe\nWarukwiriye gufuta iminsi yose ubutumwa bwarungitswe (dossier envoy\u00e9) buri muri terefone yawe. Ntakintu kibi kingana gutangura kubika ibintu vyakera bitondetse (archives index\u00e9es) birorereye inzego ngo zibisubiremwo mugihe uzoba upfunzwe.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "StoryMaker ihanura yuko wokoresha Application y'ubutumwa bufise uburyo burimwo udufindo ya Open Whisper System,  [TextSecure]\n(https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en).", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## IBINTU VYO KWIBUKA\n&bull; Ubutumwa bwose bwa SMS bushora gushirwa k'urutonde n'uwuntanga ubwo buryo (fournisseur) hamwe nogusomwa n'inzego\n&bull; Nyamba wewe canke uwuguha amakuru mubangamiwe kandi mubwirizwa kuyaga biciye muri SMS, Mwari mukwiriye gukoresha mwese Application ya SMS ifise uburyo burimwo udufindo (crypt\u00e9) igihe cose. \n&bull; Waba ushobora gushikira Application ya SMS ifise uburyo burimwo udufindo canke atavyo ushoboye, wame minsi yose uyaga ukoresheje terefone itazwi idashobora kumenywa kwari gwawe muburyo bwari bwo bwose, nka facturation canke ibikuranga watanze mukwiyandikisha\n&bull; Umenye neza gukoresha uburyo bw'utubanga (cod\u00e9) nyamba wewe n'uwuguha inkuru mudashobora gushikira Application ya SMS ifise uburyo burimwo udufindo kandi SMS akaba aribwo buryo bwonyene ushobora kuyagamwo n'uwuguha inkuru.\n&bull; Ntukabike urutonde (enregistrement) rw'ubutumwa SMS bwawe kuri terefone, Ubutumwa SMS bwawe burashobora kubandanya busomwa nyamba inzego zisuzumye intonde z'uwuntanga ubwo buryo (fournisseur).", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Ni gute norinda ubutumwa SMS bwanje gusomwa?", 
+            "choices": [
+                {
+                    "text": "Gufuta ubutumwa SMS bwose muri terefone yanje", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Usuzume neza yuko uwaronse ubutumwa SMS yabupfuse ahejeje kubusoma", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Koresha Application ya SMS ifise uburyo burimwo udufindo (crypt\u00e9)", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Koresha terefone itazwi", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Ni gute noyagira kuri SMS atawumenye?", 
+            "choices": [
+                {
+                    "text": "Koresha Application ya SMS ifise uburyo burimwo udufindo (crypt\u00e9)", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Koresha terefone itazwi", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Gufuta ubutumwa SMS bwose muri terefone yanje", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Usuzume neza yuko uwaronse ubutumwa SMS yabupfuse ahejeje kubusoma", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Ni gute nokingira amakuru ndungika nciye kuri SMS iyo ntashobora gushira uburyo burimwo udufindo (crypt\u00e9) murubwo butumwa?", 
+            "choices": [
+                {
+                    "text": "Koresha terefone itazwi", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Gufuta ubutumwa SMS bwose muri terefone yanje", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Usuzume neza yuko uwaronse ubutumwa SMS yabupfuse ahejeje kubusoma", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Koresha akabanga (code) wunvikanyeko murikumwe amaso muyandi nuwuza kuronka ubwo butumwa bwawe", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "how_can_i_use_sms_safely", 
+    "title": "Ni gute nokoresha SMS mu mutekano?"
+}

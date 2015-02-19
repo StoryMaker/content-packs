@@ -1,0 +1,140 @@
+{
+    "cards": [
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "audio", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Gufata amajwi kugira werekane aho umunsi mukuru wabereye.", 
+                "Gufata amajwi y\u2019ikibanza gihambaye muruwo munsi mukuru."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:07", 
+            "goals": [
+                "Fata amajwi atangura ibiganiro vyanyu."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "N\u2019ikihe gice wibaza ko arico kiryoshe kurivyo vyabaye ?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "N\u2019ikihe gice wibaza kiryoshe kurivyo vyabaye?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:09", 
+            "goals": [
+                "Gufata amajwi kugira werekane aho umunsi mukuru wabereye.", 
+                "Gufata amajwi y\u2019ikibanza gihambaye muruwo munsi mukuru."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "N\u2019ikihe gice wibaza kiryoshe kurivyo vyabaye?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "N\u2019ikihe gice wibaza kiryoshe kurivyo vyabaye?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "goals": [
+                "Fata abantu bagire ico bavuze ku gice gihambaye c\u2019ibiriko biraba"
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "N\u2019ikihe gice wibaza kiryoshe kurivyo vyabaye?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:09", 
+            "goals": [
+                "Gufata amajwi yerekana ingene umunsi mukuru waheze."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_9"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "audio", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Mbega inkuru yawe iravuga ibice vyose bihambaye vyibintu biriko biraba ?", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "event_discussion_audio_question3", 
+    "title": "Impari kuri ivyo biriko biraba-biryoshe"
+}

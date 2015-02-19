@@ -1,0 +1,123 @@
+{
+    "cards": [
+        {
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Uburyo nokoresha amajambo atuma inkuru ija mu binyamakuru vyinshi?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "##Muri iki cigwa muzobona:&bull;Ingene amajambo ashobora gukora akazi gatandukanye&bull;Ingene uwusomye amajambo aca amenya ko inkuru ari nziza&bull;ingene umuntu yandika inkuru ntoyi&bull;Ingene umuntu yandika utujambo duto duherekeza amasanamu,amajwi,canke ibindi bimenyeshamakuru", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Internet muri rusangi hamwe nama telefone ngendanwa n'uburyo bwo kwihweza.Amafoto, amreresi,amajwi arakomeye gose mu gutanga inkuru.Ariko rero ubwo buryo bwose uko bumeze kose baurakeneye amajambo abuherekeza.&bull;Amajambo arakora ibintu vyinshi bitandukanye kuri internet.Bishobora kuba nk'iryungane rigufi risigura nk'ireresi canke ifoto, canke rikaba ijambo ry'umutwe canke ijambo rigufi rijanye n'urundi rubuga.Mugihe ushobora gukoresha internet,Google's specch irashobora kugufasha kongerako amajambo ku nkuru yawe.Ijambo rikoreshwa rero kugira ryigishe,ritomore kandi rice make.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "##Ijambo ry\u2019umutwe\nMukwandika inkuru nshasha, birashika ko amasanamu canke amajwi ataboneka.Hari n\u2019inkuru zidashobora kuronka amasanamu canke amajwi.Izo n\u2019inkuru zitarinda kuba zifise amasanamu kubera induru canke  izo n\u2019 inkuru zivugwa iyo zaheze.Muri ico gihe ijambo ry\u2019umutwe ritegerezwa kuba rifise ibi : \n& bull;Amungane ategerezwa kuba hagati ya 25-35.Ukoreshe amungane asanzwe kandi avuga ashimangira& bull;Utomore kare.Ibintu vyurufatiro bitegerezwa kuba mu mungane abiri ya mbere.Ukwereka uwusoma ibikuru bikuru hakiri kare.Ntuvuge ibikomeye mu mpera& bull;Kwiyumvira ibivugwa(Raba icigwa co gutanga inkuru).Utange ibikenewe,inkuru zurufatiro:ninde,niki,nihehe,ryari ni kubera iki? & bull;\nAkungane kajana n\u2019iciyumviro:Akungane kajana n\u2019icuyumviro.Ntakintu cobuza kugira amungane menshi,kamwe gafise iciyumviro ku nkuru nini. & bull;Wirinde amajambo aturira canke ururimi rubi& bull;Wongereko ibintu bijanye niyo nkuru yawe aho bikunda. & bull;Wiyumvire ugukurikirana inkuru yawe:ni ukuvuga ubruyo inkuru yawe yoshikira abantu benshi mugukomera kwayo?\n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "##Akarorero k'ijambo ry'umutwe&bull;Dhaka,Bangladesh;25/11/2012-Abantu barenga 100 barapfuye ku musi wa gatandatu no ku musi w'imana mu muriro wadutse mw'ihinguriro ry'impuzu riri hanze y'igisagara.&bull;Vyafashe amasaha arenga 17 kugira uwo muriro bawuzimye, muri iryo shirahamweTarzeen Fashions, inyuma yaho uwo muriro wadukiye ku musi w'imana, nkuko tubikesha uwahoze ari mubazimya umuriro Nawaj Bhuiyan ,kuri telefone ari Dhaka,ku murwa mukuru Bangladesh.&bull;Abantu bababa 111 barishwe, abakozi benshi nabo bajanywe mubitaro vyo ngaho hafi bivuye kubushe hamwe no guhema imyotsi&bull;Ikintu cagoranye cane ni kuzimya uwo muriro.Vyaragoye kuronka inzira bacamwo ngo bazimye.&bull;Inyuma ya chine bangladesh n'igihugu ca kabiri mu kugurisha impuzu hanze.Ayo mahinguriro akoresha abantu barenga imiliyoni 3,benshi ni abagore.&bull;hanyuma ayo mahinguriro ntafise ibisabwa mu kuzimya umuriro.Kuva muri 2006 abantu barenga 500 bo muri bangladesh barishwe n'umuriro ivyo tubihabwa n'ishirahamwe ryitaho gukingira agateka k'abakozi ryitwa Clean clothes Camapaign riri Amsterdam&bull;Abahinga bavuga ko iyo miriro yashobora kuba yarakingiwe iyo ayo mashirahamwe aba yarafashe ingingo zikwiye.Amhinguriro menshi ari mu bucimbiri bwegeranye hanyuma afise ahantu hake ho guca mu gihe hadutse umuriro,nkuko abahinga babivuga.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "##Kwandika amajambo ahambaye no kuyahomeka&bull;Abantu mutari ku Rubuga rumwe barakeneye kumenya inkuru yawe.Biragoye rero gushoka urondera isanamu canke ijwi.Abatu barondera amajambo nico gituma amajambo ahambaye utegerezwa kuyahomeka ku nkuru yawe.Ayo majambo niyo ajana n'inkuru yawe&bull;ayo majambo ashobora kuba fise aho yandikwa ukwayo canke akaja muri storymaker canke ku rubuga iyo nkuru yawe izojako.Ikindi ni uko ayo majambo ashobora kujana n'isanamu&bull;###Ivyo urufatiro kuvyerekeye kwandika amajambo ahambaye&bull;", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "##Ibintu vyokwibuka&bull; Kugira inkuru ngufi&bull; ikibanda kuvyabaye&bull;akarangamutima ku mumenyeshamakuru karakoreshwa&bull;ugakoresha utujambo tworohera abantu gutora inkuru yawe.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Ikintu kiranga ijambo ry'intangamarara", 
+            "choices": [
+                {
+                    "text": "Amajambo ari hagati ya 25-35", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Kuresha uwusoma kugira asome inkuru", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Incamake ijanye n'inkuru kandi yerekana ivyabaye.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ibiri hejuru vyose", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Nivyo canke sivyo:Abanditsi beza ntibama ari abamenyeshamakuru beza.Mu kumenyesha amakuru umuntu arerekana ivyiyumviro nyamukuru bahwanye n'ivyabaye.", 
+            "choices": [
+                {
+                    "text": "Nivyo", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Sivyo", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Ni ibihe bintu bishobora gutandukanya kwandika inkuru no kwandika ibitabo?", 
+            "choices": [
+                {
+                    "text": "Kwandika inkuru canke gukoresha amungane atuma umuntu yumva iciyumviro atarayisoma yose", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Irashobora kuba ari inkuru yanditse mu majambo marermare ameze nk'indirimbo", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Inkuru irashobora kujamwo amajambo adatomoye canke magufi mu gihe uwusoma aba azi kahise kiyo nkuru.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ntanimwe muri izo nyishu.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "using_text", 
+    "title": "Ugukoresha ijambo"
+}

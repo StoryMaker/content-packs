@@ -1,0 +1,124 @@
+{
+    "cards": [
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "edit", 
+                "audio", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Fata amajwi y\u2019ahantu hahambaye kuri uwo muntu wawe.", 
+                "Fata amajwi canke amasanamu y\u2019umuntu wawe ashitse ahantu hakomeye."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Fata amajwi y\u2019abantu bariko baganira n\u2019uyo muntu", 
+                "Fata amajwi yuwo muntu ariko akora ikimutandukanya n\u2019abandi"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:13", 
+            "goals": [
+                "Fata amajwi wa muntu mumwanya ubabaje", 
+                "Rondera hama ufate ijwi rivuga muri make inkuru."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:15", 
+            "goals": [
+                "Fata amajwi y\u2019ibihe bihambaye vyerekana muntu wawe ."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:20", 
+            "goals": [
+                "Fata amajwi yakandi karorero gahambaye kadasa nakambere kandondora umuntu wawe."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "audio", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:13", 
+            "goals": [
+                "Fata amajwi yakandi karorero kisa kerekana ingorane n\u2019ingaruka mbi yayo."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "text": "Nimba hari ibice birenga bitatu,mutegerezwa kongereza ubunini bwikarata yububiko", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:20", 
+            "goals": [
+                "Fata umuntu winkuru yawe mu mwanya uryoshe muri iyo nkuru yose"
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "narration"
+            ]
+        }, 
+        {
+            "text": "--------", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "profile_highlights_audio", 
+    "title": "Kubujanye n\u2019igihagararo c'uyo muntu."
+}
