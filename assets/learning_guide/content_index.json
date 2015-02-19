@@ -1,0 +1,20 @@
+[
+    {
+        "instanceFilePath": "org.storymaker.app/learning_guide/learning_guide_1/learning_guide_1_library.json",
+        "language": "english",
+        "storyThumbnailPath": "org.storymaker.app/learning_guide/learning_guide_1/lg_001_01.png",
+        "storyTitle": "Learn the Basic Elements of a Story"
+    },
+    {
+        "instanceFilePath": "org.storymaker.app/learning_guide/learning_guide_2/learning_guide_2_library.json",
+        "language": "english",
+        "storyThumbnailPath": "org.storymaker.app/learning_guide/learning_guide_2/lg_002_01.png",
+        "storyTitle": "Add More Detail to Your Story"
+    },
+    {
+        "instanceFilePath": "org.storymaker.app/learning_guide/learning_guide_3/learning_guide_3_library.json",
+        "language": "english",
+        "storyThumbnailPath": "org.storymaker.app/learning_guide/learning_guide_3/lg_003_01.png",
+        "storyTitle": "Tell Stories with a Central Question"
+    }
+]
