@@ -114,14 +114,14 @@ json_dir = os.getcwd() + "/assets/default"
 translations_dir = os.getcwd() + "/intermediates/translated_strings/default"
 gen_translations()
 
-json_dir = os.getcwd() + "/assets/default/learning_guide_1"
+json_dir = os.getcwd() + "/assets/learning_guide/learning_guide_1"
 translations_dir = os.getcwd() + "/intermediates/translated_strings/learning_guide/learning_guide_1"
 gen_translations()
 
-json_dir = os.getcwd() + "/assets/default/learning_guide_2"
+json_dir = os.getcwd() + "/assets/learning_guide/learning_guide_2"
 translations_dir = os.getcwd() + "/intermediates/translated_strings/learning_guide/learning_guide_2"
 gen_translations()
 
-json_dir = os.getcwd() + "/assets/default/learning_guide_3"
+json_dir = os.getcwd() + "/assets/learning_guide/learning_guide_3"
 translations_dir = os.getcwd() + "/intermediates/translated_strings/learning_guide/learning_guide_3"
 gen_translations()
