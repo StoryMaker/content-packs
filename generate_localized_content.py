@@ -110,18 +110,18 @@ for f in os.listdir(parent_dir):
 
 
 # FIXME make sure there's no translations present or we are going to double translate them, maybe go into a loop
-json_dir = os.getcwd() + "/assets/default/default_library"
-translations_dir = os.getcwd() + "/intermediates/translated_strings/default/default_library"
+json_dir = os.getcwd() + "/assets/default"
+translations_dir = os.getcwd() + "/intermediates/translated_strings/default"
 gen_translations()
 
 json_dir = os.getcwd() + "/assets/default/learning_guide_1"
-translations_dir = os.getcwd() + "/intermediates/translated_strings/default/learning_guide_1"
+translations_dir = os.getcwd() + "/intermediates/translated_strings/learning_guide/learning_guide_1"
 gen_translations()
 
 json_dir = os.getcwd() + "/assets/default/learning_guide_2"
-translations_dir = os.getcwd() + "/intermediates/translated_strings/default/learning_guide_2"
+translations_dir = os.getcwd() + "/intermediates/translated_strings/learning_guide/learning_guide_2"
 gen_translations()
 
 json_dir = os.getcwd() + "/assets/default/learning_guide_3"
-translations_dir = os.getcwd() + "/intermediates/translated_strings/default/learning_guide_3"
+translations_dir = os.getcwd() + "/intermediates/translated_strings/learning_guide/learning_guide_3"
 gen_translations()

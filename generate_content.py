@@ -236,26 +236,26 @@ for f in os.listdir(yaml_parent_dir):
 
 print "generating content for default library"
 cardcounts = {}
-yaml_dir = os.getcwd() + "/yaml/default/default_library"
-json_dir = os.getcwd() + "/assets/default/default_library"
+yaml_dir = os.getcwd() + "/yaml/default"
+json_dir = os.getcwd() + "/assets/default"
 strings_dir = os.getcwd() + "/intermediates/strings/default/default_library"
 do_dir()
 
 print "generating content for learning guide 1"
-yaml_dir = os.getcwd() + "/yaml/default/learning_guide_1"
-json_dir = os.getcwd() + "/assets/default/learning_guide_1"
-strings_dir = os.getcwd() + "/intermediates/strings/default/learning_guide_1"
+yaml_dir = os.getcwd() + "/yaml/learning_guide/learning_guide_1"
+json_dir = os.getcwd() + "/assets/learning_guide/learning_guide_1"
+strings_dir = os.getcwd() + "/intermediates/strings/learning_guide/learning_guide_1"
 do_dir()
 
 print "generating content for learning guide 2"
-yaml_dir = os.getcwd() + "/yaml/default/learning_guide_2"
-json_dir = os.getcwd() + "/assets/default/learning_guide_2"
-strings_dir = os.getcwd() + "/intermediates/strings/default/learning_guide_2"
+yaml_dir = os.getcwd() + "/yaml/learning_guide/learning_guide_2"
+json_dir = os.getcwd() + "/assets/learning_guide/learning_guide_2"
+strings_dir = os.getcwd() + "/intermediates/strings/learning_guide/learning_guide_2"
 do_dir()
 
 print "generating content for learning guide 3"
-yaml_dir = os.getcwd() + "/yaml/default/learning_guide_3"
-json_dir = os.getcwd() + "/assets/default/learning_guide_3"
-strings_dir = os.getcwd() + "/intermediates/strings/default/learning_guide_3"
+yaml_dir = os.getcwd() + "/yaml/learning_guide/learning_guide_3"
+json_dir = os.getcwd() + "/assets/learning_guide/learning_guide_3"
+strings_dir = os.getcwd() + "/intermediates/strings/learning_guide/learning_guide_3"
 do_dir()
 
