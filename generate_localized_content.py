@@ -102,10 +102,10 @@ def gen_translations():
 
 print "generating content for lessons"
 cardcounts = {}
-parent_dir = os.getcwd() + "/intermediates/translated_strings/lessons/burundi/"
+parent_dir = os.getcwd() + "/intermediates/translated_strings/burundi/"
 for f in os.listdir(parent_dir):
-    json_dir = os.getcwd() + "/assets/lessons/burundi/%s" % f
-    translations_dir = os.getcwd() + "/intermediates/translated_strings/lessons/burundi/%s" % f
+    json_dir = os.getcwd() + "/assets/burundi/%s" % f
+    translations_dir = os.getcwd() + "/intermediates/translated_strings/burundi/%s" % f
     gen_translations()
 
 

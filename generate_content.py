@@ -227,18 +227,18 @@ def do_dir():
 
 print "generating content for lessons"
 cardcounts = {}
-yaml_parent_dir = os.getcwd() + "/yaml/lessons/burundi"
+yaml_parent_dir = os.getcwd() + "/yaml/burundi"
 for f in os.listdir(yaml_parent_dir):
     yaml_dir = "%s/%s" % (yaml_parent_dir, f)
-    json_dir = os.getcwd() + "/assets/lessons/burundi/%s" % f
-    strings_dir = os.getcwd() + "/intermediates/strings/lessons/burundi/%s" % f
+    json_dir = os.getcwd() + "/assets/burundi/%s" % f
+    strings_dir = os.getcwd() + "/intermediates/strings/burundi/%s" % f
     do_dir()
 
 print "generating content for default library"
 cardcounts = {}
 yaml_dir = os.getcwd() + "/yaml/default"
 json_dir = os.getcwd() + "/assets/default"
-strings_dir = os.getcwd() + "/intermediates/strings/default/default_library"
+strings_dir = os.getcwd() + "/intermediates/strings/default"
 do_dir()
 
 print "generating content for learning guide 1"
