@@ -7,6 +7,7 @@
 
         - 
             type: PreviewCard
+            medium: photo
             title: I've never used a video camera before, what are the basics I should know?
             media: 
                 - 
@@ -42,6 +43,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: Example of a subject framed in a scene.
             media: 
                 - 
@@ -61,6 +63,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: The proper way to hold a camera steady.
             media: 
                 - 
@@ -76,6 +79,7 @@
                   
         - 
             type: PreviewCard
+            medium: video
             title: Example of how to properly show motion in a frame without panning.
             media: 
                 - 
@@ -99,6 +103,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: Here's an example of how a complete action looks in a frame.
             media: 
                 - 
@@ -117,6 +122,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: Example of recording a complete action with 5 seconds pre-roll and post-roll
             media: 
                 - 

@@ -7,6 +7,7 @@
 
         - 
             type: PreviewCard
+            medium: photo
             title: I’ve never recorded an audio story. What are the basics I should know?
             media: 
                 - 
@@ -34,6 +35,7 @@
                  
         - 
             type: PreviewCard
+            medium: audio
             title: Example of an audio recording where some sounds are too loud.
             media: 
                 - 
@@ -42,6 +44,7 @@
 
         - 
             type: PreviewCard
+            medium: audio
             title: Example of how to record silence before and after your clip.
             media: 
                 - 
@@ -56,6 +59,7 @@
 
         - 
             type: PreviewCard
+            medium: audio
             title: Example of using audio sources.
             media: 
                 - 
@@ -64,6 +68,7 @@
 
         - 
             type: PreviewCard
+            medium: audio
             title: Example of using audio sources.
             media: 
                 - 

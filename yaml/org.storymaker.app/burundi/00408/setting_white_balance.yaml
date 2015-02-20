@@ -7,6 +7,7 @@
 
         - 
             type: PreviewCard
+            medium: photo
             title: Some of my pictures are too yellow. Some are too blue. What is the problem and what can I do about it?
             media: 
                 - 

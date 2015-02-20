@@ -7,6 +7,7 @@
 
         - 
             type: PreviewCard
+            medium: photo
             title: How can I use a browser safely?
             media: 
                 - 

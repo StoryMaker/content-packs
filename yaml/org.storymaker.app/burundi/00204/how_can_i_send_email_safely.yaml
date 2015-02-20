@@ -8,6 +8,7 @@
         - 
             type: PreviewCard
             title: How can I send email safely?
+            medium: photo
             media: 
                 - 
                     media: 1.png

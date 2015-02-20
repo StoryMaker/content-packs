@@ -7,6 +7,7 @@
 
         - 
             type: PreviewCard
+            medium: photo
             title: How do I use text effectively to support a multimedia story?
             media: 
                 - 

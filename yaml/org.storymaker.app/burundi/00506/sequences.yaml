@@ -7,6 +7,7 @@
 
         - 
             type: PreviewCard
+            medium: photo
             title: How do I create a sequence in video?
             media: 
                 - 
@@ -35,6 +36,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: We will need to see a person who will be buying the fruit.
             media: 
                 - 
@@ -43,6 +45,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: We will need to see the fruit.
             media: 
                 - 
@@ -51,6 +54,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: We will need to see the person paying for the fruit.
             media: 
                 - 
@@ -59,6 +63,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: As a sequence of three shots in that order it tells a simple, but complete story.
             media: 
                 - 
@@ -82,6 +87,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: Working Your Way In
             media: 
                 - 
@@ -103,6 +109,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: Shot of Character
             media: 
                 - 
@@ -111,6 +118,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: Reverse Shot
             media: 
                 - 
@@ -119,6 +127,7 @@
                 
         - 
             type: PreviewCard
+            medium: video
             title: Shot / Reverse Shot Together
             media: 
                 - 
@@ -127,6 +136,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: Alternative Example
             media: 
                 - 
@@ -135,6 +145,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: Building Action
             media: 
                 - 
@@ -149,6 +160,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: Changing Shot Size
             media: 
                 - 
@@ -162,6 +174,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: Head Space
             media: 
                 - 
@@ -175,6 +188,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: Holding the Frame
             media: 
                 - 

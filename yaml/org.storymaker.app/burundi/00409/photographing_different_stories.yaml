@@ -7,6 +7,7 @@
 
         - 
             type: PreviewCard
+            medium: photo
             title: At events ranging from press conferences to demonstrations to elections, how do I know what kinds of images I should be looking for?
             media: 
                 - 

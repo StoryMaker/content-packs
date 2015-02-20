@@ -7,6 +7,7 @@
 
         - 
             type: PreviewCard
+            medium: photo
             title: The best reporting is fact-based rather than based on opinion, rumor, or personal interest. How do I apply this concept in a social-first environment?
             media: 
                 - 
@@ -112,6 +113,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: More involved or longer stories may require more reporting with a wider variety of sources before and after an event.
             media: 
                 - 

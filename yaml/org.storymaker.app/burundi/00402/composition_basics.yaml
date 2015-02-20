@@ -7,6 +7,7 @@
 
         - 
             type: PreviewCard
+            medium: photo
             title: What are some basic principles of good photo composition?
             media: 
                 - 
@@ -75,6 +76,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: Interview with a photographer who discusses using composition on assignment
             media: 
                 - 

@@ -8,6 +8,7 @@
         - 
             type: PreviewCard
             title: What are some basic techniques for getting the most out of an interview?
+            medium: photo
             media: 
                 - 
                     media: 1.png
@@ -66,6 +67,7 @@
         - 
             type: PreviewCard
             title: Example of a beginning of an interview
+            medium: video
             media: 
                 - 
                     media: 03.mp4
@@ -96,6 +98,7 @@
         - 
             type: PreviewCard
             title: Example of how to control an interview, probe and clarify
+            medium: video
             media: 
                 - 
                     media: 04.mp4
@@ -112,6 +115,7 @@
         - 
             type: PreviewCard
             title: Example of asking a sensitive question and ending an interview
+            medium: video
             media: 
                 - 
                     media: 05.mp4

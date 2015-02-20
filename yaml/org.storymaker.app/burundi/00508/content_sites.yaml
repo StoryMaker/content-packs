@@ -7,6 +7,7 @@
 
         - 
             type: PreviewCard
+            medium: photo
             title: What are the advantages of the different content sites available?
             media: 
                 - 

@@ -7,6 +7,7 @@
 
         - 
             type: PreviewCard
+            medium: photo
             title: Why are sound and light so important to video?
             media: 
                 - 
@@ -46,6 +47,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: How to use your hand to improve audio in a windy situation.
             media: 
                 - 
@@ -64,6 +66,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: Example of how to properly record a subject in a crowd.
             media: 
                 - 
@@ -83,6 +86,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: Example of machinery noise in a video recording.
             media: 
                 - 
@@ -101,6 +105,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: Example of bad audio echo caused by a hallway.
             media: 
                 - 
@@ -119,6 +124,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: How to use a headset as a microphone.
             media: 
                 - 
@@ -143,6 +149,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: Properly lighting a subject.
             media: 
                 - 
@@ -157,6 +164,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: How to use natural light to properly light a subject.
             media: 
                 - 
@@ -171,6 +179,7 @@
         - 
             type: PreviewCard
             title: Obscuring a subject’s face.
+            medium: video
             media: 
                 - 
                     media: 10.mp4
@@ -183,6 +192,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: How to set up a shot to obscure a subject’s face.
             media: 
                 - 
@@ -196,6 +206,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: How to use a reflector outside.
             media: 
                 - 

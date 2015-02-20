@@ -7,6 +7,7 @@
 
         - 
             type: PreviewCard
+            medium: photo
             title: How do digital communications put me at risk?
             media: 
                 - 
@@ -82,6 +83,7 @@
 
         - 
             type: PreviewCard
+            medium: photo
             title: How does my mobile phone put me at risk?
             media: 
                 - 

@@ -7,6 +7,7 @@
 
         - 
             type: PreviewCard
+            medium: photo
             title: What do I do if someone is reluctant to be photographed or the circumstances are emotionally difficult for the subject or myself?
             media: 
                 - 
@@ -50,6 +51,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: Interview with a photographer who experienced photographing those affected by tragedy or grief.
             media: 
                 - 
@@ -58,6 +60,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: Interview with a photographer who experienced photographing those affected by tragedy or grief.
             media: 
                 - 
@@ -82,6 +85,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: Interview with a photographer who found themself biased on an assignment.
             media: 
                 - 
@@ -100,6 +104,7 @@
 
         - 
             type: PreviewCard
+            medium: video
             title: Interview with a photographer about shooting in unsafe situations.
             media: 
                 - 

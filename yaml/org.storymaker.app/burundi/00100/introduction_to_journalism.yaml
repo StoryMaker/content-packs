@@ -8,6 +8,7 @@
         - 
             type: PreviewCard
             title: Introduction to Journalism
+            medium: photo
             media: 
                 - 
                     media: 1.png
