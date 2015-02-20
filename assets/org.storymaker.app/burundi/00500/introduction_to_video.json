@@ -1,6 +1,7 @@
 {
     "cards": [
         {
+            "medium": "photo", 
             "media": [
                 {
                     "media": "1.png", 
@@ -24,7 +25,7 @@
             "id": "markdown_card_1"
         }, 
         {
-            "text": "The lessons here are focused on understanding video as a craft for news production using StoryMaker. After completing this curriculum, you will have an understanding of the basic concepts, techniques, as well as specific step-by-step instructions to produce a video news story.  ", 
+            "text": "The lessons here are focused on understanding video as a craft for news production using StoryMaker. After completing this curriculum, you will have an understanding of the basic concepts, techniques, as well as specific step-by-step instructions to produce a video news story.  \n", 
             "type": "MarkdownCard", 
             "id": "markdown_card_2"
         }

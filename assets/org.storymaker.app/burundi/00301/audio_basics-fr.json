@@ -1,6 +1,7 @@
 {
     "cards": [
         {
+            "medium": "photo", 
             "media": [
                 {
                     "media": "1.png", 
@@ -29,6 +30,7 @@
             "id": "markdown_card_2"
         }, 
         {
+            "medium": "audio", 
             "media": [
                 {
                     "media": "3.mp3", 
@@ -42,6 +44,7 @@
             "id": "preview_card_1"
         }, 
         {
+            "medium": "audio", 
             "media": [
                 {
                     "media": "4.mp3", 
@@ -60,6 +63,7 @@
             "id": "markdown_card_3"
         }, 
         {
+            "medium": "audio", 
             "media": [
                 {
                     "media": "5.mp3", 
@@ -73,6 +77,7 @@
             "id": "preview_card_3"
         }, 
         {
+            "medium": "audio", 
             "media": [
                 {
                     "media": "6.mp3", 

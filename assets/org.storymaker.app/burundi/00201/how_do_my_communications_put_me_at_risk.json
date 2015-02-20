@@ -1,6 +1,7 @@
 {
     "cards": [
         {
+            "medium": "photo", 
             "media": [
                 {
                     "media": "1.png", 
@@ -54,6 +55,7 @@
             "id": "markdown_card_7"
         }, 
         {
+            "medium": "photo", 
             "media": [
                 {
                     "media": "7.png", 

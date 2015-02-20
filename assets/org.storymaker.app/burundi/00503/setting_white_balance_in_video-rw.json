@@ -1,6 +1,7 @@
 {
     "cards": [
         {
+            "medium": "photo", 
             "media": [
                 {
                     "media": "1.png", 
@@ -177,6 +178,7 @@
             "id": "quiz_card_4"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "11.mp4", 

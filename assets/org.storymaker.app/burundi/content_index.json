@@ -1,0 +1,23 @@
+[
+    {
+        "instanceFilePath": "org.storymaker.app/burundi/00100/introduction_to_journalism_library.json",
+        "language": "en",
+        "thumbnailPath": "org.storymaker.app/burundi/cover.jpg",
+        "title": "Introduction to Journalism",
+        "description": "Introduction to Journalism"
+    },
+    {
+        "instanceFilePath": "org.storymaker.app/burundi/00101/social_media_basics_library.json",
+        "language": "en",
+        "thumbnailPath": "org.storymaker.app/burundi/cover.jpg",
+        "title": "Social Media Basics",
+        "description": "Social Media Basics"
+    },
+    {
+        "instanceFilePath": "org.storymaker.app/burundi/00102/reporting_basics_library.json",
+        "language": "en",
+        "thumbnailPath": "org.storymaker.app/burundi/cover.jpg",
+        "title": "Reporting Basics",
+        "description": "Reporting Basics"
+    }
+]

@@ -1,6 +1,7 @@
 {
     "cards": [
         {
+            "medium": "photo", 
             "media": [
                 {
                     "media": "1.png", 
@@ -29,6 +30,7 @@
             "id": "markdown_card_2"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "2.mp4", 
@@ -42,6 +44,7 @@
             "id": "preview_card_1"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "3.mp4", 
@@ -55,6 +58,7 @@
             "id": "preview_card_2"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "4.mp4", 
@@ -68,6 +72,7 @@
             "id": "preview_card_3"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "5.mp4", 
@@ -96,6 +101,7 @@
             "id": "markdown_card_5"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "6.mp4", 
@@ -119,6 +125,7 @@
             "id": "markdown_card_7"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "8.mp4", 
@@ -132,6 +139,7 @@
             "id": "preview_card_6"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "9.mp4", 
@@ -145,6 +153,7 @@
             "id": "preview_card_7"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "10.mp4", 
@@ -158,6 +167,7 @@
             "id": "preview_card_8"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "11.mp4", 
@@ -171,6 +181,7 @@
             "id": "preview_card_9"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "12.mp4", 
@@ -189,6 +200,7 @@
             "id": "markdown_card_8"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "13.mp4", 
@@ -207,6 +219,7 @@
             "id": "markdown_card_9"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "14.mp4", 
@@ -225,6 +238,7 @@
             "id": "markdown_card_10"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "15.mp4", 

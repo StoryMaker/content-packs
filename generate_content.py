@@ -165,6 +165,10 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
                 del card['title']
                 card['clipType'] = 'character'   # FIXME not needed at all? remove from our code
                 card['exampleMediaPath'] = card['media'][0]['media'] # for now we only grab the first media
+                
+                if "medium" not in card:
+                    print "PreviewCard missing medium: %s" % card
+                    sys.exit()
 
                 #strings
                 card_fqid = "%s::%s" % (doc['id'], card['id'])
@@ -225,11 +229,12 @@ def do_dir():
 
 
 
-print "generating content for lessons"
+print "generating content for burundi lessons"
 cardcounts = {}
 yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/burundi"
 for f in os.listdir(yaml_parent_dir):
     yaml_dir = "%s/%s" % (yaml_parent_dir, f)
+    print yaml_dir
     json_dir = os.getcwd() + "/assets/org.storymaker.app/burundi/%s" % f
     strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/burundi/%s" % f
     do_dir()
@@ -248,13 +253,13 @@ strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/learning_
 do_dir()
 
 print "generating content for learning guide 2"
-yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/org.storymaker.app/learning_guide/learning_guide_2"
+yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/learning_guide/learning_guide_2"
 json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_2"
 strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/learning_guide/learning_guide_2"
 do_dir()
 
 print "generating content for learning guide 3"
-yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/org.storymaker.app/learning_guide/learning_guide_3"
+yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/learning_guide/learning_guide_3"
 json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_3"
 strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/learning_guide/learning_guide_3"
 do_dir()

@@ -1,6 +1,7 @@
 {
     "cards": [
         {
+            "medium": "photo", 
             "media": [
                 {
                     "media": "1.png", 
@@ -39,6 +40,7 @@
             "id": "markdown_card_4"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "3.mp4", 
@@ -62,6 +64,7 @@
             "id": "markdown_card_6"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "4.mp4", 
@@ -85,6 +88,7 @@
             "id": "markdown_card_8"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "5.mp4", 
@@ -108,6 +112,7 @@
             "id": "markdown_card_10"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "6.mp4", 
@@ -131,6 +136,7 @@
             "id": "markdown_card_12"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "7.mp4", 
@@ -159,6 +165,7 @@
             "id": "markdown_card_15"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "8.mp4", 
@@ -177,6 +184,7 @@
             "id": "markdown_card_16"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "9.mp4", 
@@ -195,6 +203,7 @@
             "id": "markdown_card_17"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "10.mp4", 
@@ -213,6 +222,7 @@
             "id": "markdown_card_18"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "11.mp4", 
@@ -231,6 +241,7 @@
             "id": "markdown_card_19"
         }, 
         {
+            "medium": "video", 
             "media": [
                 {
                     "media": "12.mp4", 

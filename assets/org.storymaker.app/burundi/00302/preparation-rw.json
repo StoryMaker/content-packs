@@ -1,6 +1,7 @@
 {
     "cards": [
         {
+            "medium": "photo", 
             "media": [
                 {
                     "media": "1.png", 
@@ -24,6 +25,7 @@
             "id": "markdown_card_1"
         }, 
         {
+            "medium": "audio", 
             "media": [
                 {
                     "media": "02.mp3", 
@@ -42,6 +44,7 @@
             "id": "markdown_card_2"
         }, 
         {
+            "medium": "audio", 
             "media": [
                 {
                     "media": "03.mp3", 

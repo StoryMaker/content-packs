@@ -1,6 +1,7 @@
 {
     "cards": [
         {
+            "medium": "photo", 
             "media": [
                 {
                     "media": "1.png", 
@@ -34,7 +35,7 @@
             "id": "markdown_card_3"
         }, 
         {
-            "text": "These changes have produced a more democratic kind of journalism: news producers and their audiences are more closely related. The citizen journalist is a key player in social-first news. StoryMaker will show you how to leverage your unique tools and skills to reach the broadest possible audience with information about important issues.  ", 
+            "text": "These changes have produced a more democratic kind of journalism: news producers and their audiences are more closely related. The citizen journalist is a key player in social-first news. StoryMaker will show you how to leverage your unique tools and skills to reach the broadest possible audience with information about important issues.  \n", 
             "type": "MarkdownCard", 
             "id": "markdown_card_4"
         }
