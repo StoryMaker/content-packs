@@ -15,7 +15,7 @@
             "target": "audio_basics"
         }
     ], 
-    "currentStoryPathFile": ".json", 
+    "currentStoryPathFile": "audio_basics.json", 
     "storyPathTemplateFiles": {
         "audio_basics": "audio_basics.json"
     }, 
