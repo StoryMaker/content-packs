@@ -1,12 +1,12 @@
 {
     "title": "Introducci\u00f3n al Periodismo", 
     "storyPathTemplateFiles": {
-        "introduction_to_journalism": ".json"
+        "introduction_to_journalism": "how_do_i_effectively_use_pseudonyms.json"
     }, 
     "dependencies": [
         {
-            "dependencyId": null, 
-            "dependencyFile": ".json"
+            "dependencyId": "how_do_i_effectively_use_pseudonyms", 
+            "dependencyFile": "how_do_i_effectively_use_pseudonyms.json"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
@@ -15,9 +15,9 @@
             "action": "LOAD", 
             "type": "LoaderHeadlessCard", 
             "id": "loader_card", 
-            "target": null
+            "target": "how_do_i_effectively_use_pseudonyms"
         }
     ], 
-    "currentStoryPathFile": ".json", 
-    "id": null
+    "currentStoryPathFile": "how_do_i_effectively_use_pseudonyms.json", 
+    "id": "how_do_i_effectively_use_pseudonyms"
 }
