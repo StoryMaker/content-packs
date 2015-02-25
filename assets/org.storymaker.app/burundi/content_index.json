@@ -1,294 +1,294 @@
 [
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00204/how_can_i_send_email_safely_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00204/how_can_i_send_email_safely_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "How can I send Email Safely?"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00603/resolution_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00603/resolution_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Resolution"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00104/interview_techniques_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00104/interview_techniques_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Interview Techniques"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00101/social_media_basics_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00101/social_media_basics_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Social Media Basics"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00302/preparation_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00302/preparation_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Preparation"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00502/getting_good_sound_and_light_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00502/getting_good_sound_and_light_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Getting Good Sound and Light"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00205/what_makes_a_password_strong_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00205/what_makes_a_password_strong_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "What Makes a Password Strong"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00501/video_basics_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00501/video_basics_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Video Basics"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00503/setting_white_balance_in_video_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00503/setting_white_balance_in_video_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Setting White Balance in Video"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00602/climax_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00602/climax_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Climax"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00405/post_production_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00405/post_production_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Post Production"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00401/camera_basics_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00401/camera_basics_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Camera Basics"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00601/central_question_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00601/central_question_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Central Question"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00600/introduction_to_story_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00600/introduction_to_story_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Introduction to Story"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00300/introduction_to_audio_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00300/introduction_to_audio_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Introduction to Audio"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00202/how_can_i_use_sms_safely_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00202/how_can_i_use_sms_safely_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "How can I use SMS Safely?"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00203/how_can_i_use_a_browser_safely_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00203/how_can_i_use_a_browser_safely_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "How can I use a Browser Safely?"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00506/sequences_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00506/sequences_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Sequences"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00107/using_text_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00107/using_text_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Using Text"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00105/evolution_of_a_story_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00105/evolution_of_a_story_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Evolution of a Story"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00305/recording_tips_and_techniques_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00305/recording_tips_and_techniques_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Recording Tips and Techniques"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00508/content_sites_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00508/content_sites_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Content Sites"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00606/symbols_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00606/symbols_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Symbols"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00605/deeper_meaning_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00605/deeper_meaning_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Deeper Meaning"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00404/exposure_basics_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00404/exposure_basics_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Exposure Basics"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00400/introduction_to_photography_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00400/introduction_to_photography_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Introduction to Photography"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00304/storyboarding_recording_plan_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00304/storyboarding_recording_plan_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Storyboarding Recording Plan"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00409/photographing_different_stories_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00409/photographing_different_stories_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Photographing Different Stories"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00505/videos_different_shots_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00505/videos_different_shots_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Videos Different Shots"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00402/composition_basics_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00402/composition_basics_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Composition Basics"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00102/reporting_basics_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00102/reporting_basics_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Reporting Basics"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00303/types_of_stories_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00303/types_of_stories_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Types of Stories"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00103/selecting_and_verifying_sources_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00103/selecting_and_verifying_sources_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Selecting and Verifying Sources"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00407/photographing_fast_moving_objects_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00407/photographing_fast_moving_objects_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Photographing Fast Moving Objects"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00504/framing_your_shot_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00504/framing_your_shot_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Framing Your Shot"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00200/introduction_to_security_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00200/introduction_to_security_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Introduction to Security"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00406/the_photo_essay_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00406/the_photo_essay_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "The Photo Essay"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00201/how_do_my_communications_put_me_at_risk_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00201/how_do_my_communications_put_me_at_risk_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "How do my Communications put me at Risk?"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00403/captions_and_keywords_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00403/captions_and_keywords_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Captions and Keywords"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00408/setting_white_balance_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00408/setting_white_balance_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Setting White Balance"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00206/how_do_i_effectively_use_pseudonyms_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00206/how_do_i_effectively_use_pseudonyms_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "How Do I Effectively Use Pseudonyms"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00106/introduction_to_ethics_and_professional_standards_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00106/introduction_to_ethics_and_professional_standards_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Introduction to Ethics and Professional Standards"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00507/organizing_your_shoot_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00507/organizing_your_shoot_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Organizing Your Shoot"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00301/audio_basics_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00301/audio_basics_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Audio Basics"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00100/introduction_to_journalism_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00100/introduction_to_journalism_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/00100/cover.gif", 
     "language": "en", 
     "title": "Introduction to Journalism"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00500/introduction_to_video_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00500/introduction_to_video_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Introduction to Video"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00410/photographing_difficult_uncomfortable_situations_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00410/photographing_difficult_uncomfortable_situations_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Photographing Difficult Uncomfortable Situations"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00604/arc_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00604/arc_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Arc"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/burundi/00108/media_law_library_library.json", 
+    "instanceFilePath": "org.storymaker.app/burundi/00108/media_law_library.json", 
     "thumbnailPath": "org.storymaker.app/burundi/cover.jpg", 
     "language": "en", 
     "title": "Media Law"

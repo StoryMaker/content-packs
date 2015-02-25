@@ -236,7 +236,7 @@ def generate_content_index_record(library_dir, package, content_pack, library, i
     f = open(file_path, 'r')
     file_json = json.load(f)
     
-    rec['instanceFilePath'] = "%s/%s/%s/%s_library.json" % (package, content_pack, library, instance)
+    rec['instanceFilePath'] = "%s/%s/%s/%s.json" % (package, content_pack, library, instance)
     rec['language'] = 'en' # TODO make this generate other languages too?
     rec['title'] = file_json['%s::title' % (instance_id)]
     covers = glob.glob("assets/%s/%s/%s/cover.*" % (package, content_pack, library))

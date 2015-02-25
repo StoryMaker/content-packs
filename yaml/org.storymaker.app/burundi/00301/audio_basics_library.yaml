@@ -3,7 +3,7 @@
     title: Audio Basics
     classPackage: scal.io.liger.model
     
-    currentStoryPathFile: .json
+    currentStoryPathFile: audio_basics.json
     storyPathTemplateFiles:
         audio_basics: audio_basics.json
     dependencies:
