@@ -1,0 +1,23 @@
+{
+    "title": "\u0414\u043e\u0431\u0430\u0432\u044c\u0442\u0435 \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0434\u0435\u0442\u0430\u043b\u0438 \u043a \u0432\u0430\u0448\u0435\u043c\u0443 \u0441\u044e\u0436\u0435\u0442\u0443", 
+    "storyPathTemplateFiles": {
+        "learning_guide_2": "learning_guide_2.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "learning_guide_2", 
+            "dependencyFile": "learning_guide_2.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "learning_guide_2"
+        }
+    ], 
+    "currentStoryPathFile": "learning_guide_2.json", 
+    "id": "learning_guide_2_library"
+}
