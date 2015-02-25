@@ -4,6 +4,7 @@ import sys
 import os
 import yaml
 import json
+import glob
 #stream = open("test.yaml", 'r')
 #stream = open("lesson_test.yaml", 'r')
 
@@ -30,8 +31,8 @@ def set_id(key, card):
 # TODO export directly to the real assets/org.storymaker.app/ folder
 # TODO warn that fields existed in card but not card
 
-def parse_file(in_filename, json_out_filename, strings_out_filename):
-    stream = open(in_filename, 'r')
+def parse_file(in_file_name, json_out_file_name, strings_out_file_name):
+    stream = open(in_file_name, 'r')
     doc = yaml.load(stream)
     strings = {}
     global cardcounts
@@ -190,7 +191,7 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
     except: pass
     
     j = json.dumps(doc, indent=4)
-    json_outfile = open(json_out_filename, 'w')
+    json_outfile = open(json_out_file_name, 'w')
     json_outfile.write(j)
     json_outfile.close()
 
@@ -199,7 +200,7 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
     #    print "%s %s" % (k,v)
     
     # y = yaml.dump(strings)
-    # strings_outfile = open(strings_out_filename, 'w')
+    # strings_outfile = open(strings_out_file_name, 'w')
     # strings_outfile.write(y)
     # strings_outfile.close()
 
@@ -207,7 +208,7 @@ def parse_file(in_filename, json_out_filename, strings_out_filename):
         os.makedirs(strings_dir)
     except: pass
     strings_json = json.dumps(strings, indent=2)
-    strings_outfile = open(strings_out_filename, 'w')
+    strings_outfile = open(strings_out_file_name, 'w')
     strings_outfile.write(strings_json)
     strings_outfile.close()
 
@@ -217,20 +218,41 @@ def do_dir():
     for f in os.listdir(yaml_dir):
         #print name
         cardcounts = {}
-        fileName, fileExtension = os.path.splitext(f)
-        if fileExtension == ".yaml":
+        file_name, file_extension = os.path.splitext(f)
+        if file_extension == ".yaml":
             print "parsing %s" % f
             in_file = yaml_dir + "/" + f
-            json_out_file = "%s/%s.json" % (json_dir, fileName)
-            strings_out_file = "%s/%s.json" % (strings_dir, fileName)
+            json_out_file = "%s/%s.json" % (json_dir, file_name)
+            strings_out_file = "%s/%s.json" % (strings_dir, file_name)
             parse_file(in_file, json_out_file, strings_out_file)
 
 # FIXME global vars are the best!!
 
-
-
+def generate_content_index_record(library_dir, package, content_pack, library, instance):
+    rec = {}
+    instance_id = instance.split('_library')[0]
+    file_path = '%s/%s.json' % (library_dir, instance)
+    print "file_path: " + file_path
+    f = open(file_path, 'r')
+    file_json = json.load(f)
+    
+    rec['instanceFilePath'] = "%s/%s/%s/%s_library.json" % (package, content_pack, library, instance)
+    rec['language'] = 'en' # TODO make this generate other languages too?
+    rec['title'] = file_json['%s::title' % (instance_id)]
+    covers = glob.glob("assets/%s/%s/%s/cover.*" % (package, content_pack, library))
+    print covers
+    if len(covers) > 0:
+        print "library has it's own cover: %s" % covers[0]
+        rec['thumbnailPath'] = covers[0].split("assets/")[1]
+    else:    
+        covers = glob.glob("assets/%s/%s/cover.*" % (package, content_pack))
+        print "using content pack cover for library: %s" % covers[0]
+        rec['thumbnailPath'] = covers[0].split("assets/")[1]
+    return rec
+    
 print "generating content for burundi lessons"
 cardcounts = {}
+content_index = []
 yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/burundi"
 for f in os.listdir(yaml_parent_dir):
     yaml_dir = "%s/%s" % (yaml_parent_dir, f)
@@ -263,4 +285,32 @@ yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/learning_guide/learning_guide
 json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_3"
 strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/learning_guide/learning_guide_3"
 do_dir()
+    
+print "generating content for burundi lessons"
+package = 'org.storymaker.app'
+cardcounts = {}
+content_index = []
+content_pack = 'burundi'
+content_pack_strings_dir = os.getcwd() + "/intermediates/strings/%s/%s" % (package, content_pack)
+for library in os.listdir(content_pack_strings_dir):
+    library_dir = "%s/%s" % (content_pack_strings_dir, library)
+    if os.path.isdir(library_dir):
+        print library_dir
+        #json_dir = os.getcwd() + "/assets/%s/%s/%s" % (package, content_pack, library)
+        #strings_dir = os.getcwd() + "/intermediates/strings/%s/%s/%s" % (package, content_pack, library)
+        
+        for f in os.listdir(library_dir):
+            #print "    %s" % f
+            cardcounts = {}
+            file_name, file_extension = os.path.splitext(f)
+            if file_extension == ".json" and "_library" in file_name:
+                #print "      ...is library"
+                rec = generate_content_index_record(library_dir, package, content_pack, library, file_name)
+                print rec
+                content_index.append(rec)
+
+print "prepping burundi content index"
+content_index_file = open("assets/%s/%s/content_index.json" % (package, content_pack), 'w')
+content_index_file.write(json.dumps(content_index, indent=2))
+content_index_file.close()
 
