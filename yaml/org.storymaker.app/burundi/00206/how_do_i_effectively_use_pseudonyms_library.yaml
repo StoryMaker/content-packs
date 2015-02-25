@@ -1,18 +1,18 @@
 ---
-    id: 
-    title: Introduction to Journalism
+    id: how_do_i_effectively_use_pseudonyms
+    title: How Do I Effectively Use Pseudonyms
     classPackage: scal.io.liger.model
     
-    currentStoryPathFile: .json
+    currentStoryPathFile: how_do_i_effectively_use_pseudonyms.json
     storyPathTemplateFiles:
-        introduction_to_journalism: .json
+        introduction_to_journalism: how_do_i_effectively_use_pseudonyms.json
     dependencies:
         -
-            dependencyId: 
-            dependencyFile: .json
+            dependencyId: how_do_i_effectively_use_pseudonyms
+            dependencyFile: how_do_i_effectively_use_pseudonyms.json
     cards:
         -
             type: LoaderHeadlessCard
             id: loader_card
             action: LOAD
-            target: 
+            target: how_do_i_effectively_use_pseudonyms
