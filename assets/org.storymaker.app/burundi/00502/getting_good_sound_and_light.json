@@ -25,7 +25,7 @@
             "id": "markdown_card_1"
         }, 
         {
-            "text": "(2.png)  \nKnow the capabilities of your mobile device. Each mobile device has its own advantages and problems. Experiment with it to understand how to get the best results.  \n", 
+            "text": "![](2.png)  \nKnow the capabilities of your mobile device. Each mobile device has its own advantages and problems. Experiment with it to understand how to get the best results.  \n", 
             "type": "MarkdownCard", 
             "id": "markdown_card_2"
         }, 
@@ -260,7 +260,7 @@
             "id": "markdown_card_20"
         }, 
         {
-            "text": "!(13.png)  \n#### Lighting a subject indoors  \nLights approximately 3 feet away are most flattering.  \n", 
+            "text": "![](13.png)  \n#### Lighting a subject indoors  \nLights approximately 3 feet away are most flattering.  \n", 
             "type": "MarkdownCard", 
             "id": "markdown_card_21"
         }, 

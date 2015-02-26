@@ -31,7 +31,7 @@
         - 
             type: MarkDownCard
             body: |   
-                (2.png)  
+                ![](2.png)  
                 Know the capabilities of your mobile device. Each mobile device has its own advantages and problems. Experiment with it to understand how to get the best results.  
 
         - 
@@ -221,7 +221,7 @@
         - 
             type: MarkDownCard
             body: |   
-                !(13.png)  
+                ![](13.png)  
                 #### Lighting a subject indoors  
                 Lights approximately 3 feet away are most flattering.  
 

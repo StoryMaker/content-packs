@@ -8,24 +8,24 @@
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
-            "header": "Sindigera mfata inkuru y\u2019amajwi.Ni ibihe nobanza kumenya.", 
+            "header": "Sindigera mfata inkuru y\u2019amajwi.Ni ibihe nobanza kumenya.  ", 
             "exampleMediaPath": "1.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
         }, 
         {
-            "text": "## Muri kino cigwa muzokwiga \nGute mwemeza ko mwafashe amajwi mwumva mwipfuza\nGute mufata amajwi menshi yo gukora inkuru .", 
+            "text": "## Muri kino cigwa muzokwiga  \n&bull; Gute mwemeza ko mwafashe amajwi mwumva mwipfuza.  \n&bull; Gute mufata amajwi menshi yo gukora inkuru.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
         {
-            "text": "![Gupanga inkuru y\u2019amajwi](2.png) \nGupanga amajwi ntibigoye nko kubikora n\u2019amasanamu canke n\u2019amafoto ariko bisaba ubumenyi n\u2019ubuhinga nshingiro burikumwe n\u2019urutonde rwiza rwogutunganya inkuru ukoresheje ijwi gusa. Kuko atasanamu, mutegerezwa gufasha abantu gutegera , no kubona iyo nkuru biciye mu majwi. Ijwi ritomoye kandi rinezereye rishobora kuba nk\u2019isanamu mu mutima w\u2019uwuryumviriza wese. Ubuhinga ni kuritanga kuburyo bwiza bushoboka bwo gukora isanamu mu mutwe inyura.", 
+            "text": "![Gupanga inkuru y\u2019amajwi](2.png)  \nGupanga amajwi ntibigoye nko kubikora n\u2019amasanamu canke n\u2019amafoto ariko bisaba ubumenyi n\u2019ubuhinga nshingiro burikumwe n\u2019urutonde rwiza rwogutunganya inkuru ukoresheje ijwi gusa. Kuko atasanamu, mutegerezwa gufasha abantu gutegera , no kubona iyo nkuru biciye mu majwi. Ijwi ritomoye kandi rinezereye rishobora kuba nk\u2019isanamu mu mutima w\u2019uwuryumviriza wese. Ubuhinga ni kuritanga kuburyo bwiza bushoboka bwo gukora isanamu mu mutwe inyura.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_1"
         }, 
         {
-            "text": "## uburyo bwo gufata amajwi \nMufata amajwi canke amajwi yo kuruhande vyose mukoresha mu nkuru ni ukumenya neza ko mufata ijwi rishobora kumvikana neza ntimukeneye kwibazako ko mwakunze agace ntimufata ivyo arivyo vyose, bicumvikana. Ni ukuraba urugezo imbere yogufata,umenye ko rutari hasi cane canke hejuru, ko amajwi amena amatwi, \u2026.atazoja muvyo ukeneye ku kugumya bitavuga. Mutanguye gufata, mutegerezwa kurindira imisegonda imbere yo kuvuga, mukagira ukonyene imbere yo gutuza gufata, tanga imisegonda irengako y\u2019agacerere.", 
+            "text": "## uburyo bwo gufata amajwi  \nMufata amajwi canke amajwi yo kuruhande vyose mukoresha mu nkuru ni ukumenya neza ko mufata ijwi rishobora kumvikana neza ntimukeneye kwibazako ko mwakunze agace ntimufata ivyo arivyo vyose, bicumvikana. Ni ukuraba urugezo imbere yogufata,umenye ko rutari hasi cane canke hejuru, ko amajwi amena amatwi, \u2026.atazoja muvyo ukeneye ku kugumya bitavuga. Mutanguye gufata, mutegerezwa kurindira imisegonda imbere yo kuvuga, mukagira ukonyene imbere yo gutuza gufata, tanga imisegonda irengako y\u2019agacerere.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_2"
         }, 
@@ -37,7 +37,7 @@
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
-            "header": "Akarorero k'amajwi afise urugero ruri hejuru", 
+            "header": "Akarorero k'amajwi afise urugero ruri hejuru.  ", 
             "exampleMediaPath": "3.mp3", 
             "clipType": "character", 
             "type": "ExampleCard", 
@@ -51,14 +51,14 @@
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
-            "header": "Akarorero ko gufata agacerere imbere canke inyuma yaclip", 
+            "header": "Akarorero ko gufata agacerere imbere canke inyuma yaclip  ", 
             "exampleMediaPath": "4.mp3", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_2"
         }, 
         {
-            "text": "## Ikoreshwa ry\u2019aho ukura amajwi \nGusiga ikibaho no kwubaka inkuru mu mutima w\u2019uwuyumviriza. Mushobora gusiga isanamu mukoresheje amajwi yavuye henshi, harimwo ayabantu canke amajwi y\u2019ibirori, imanza, amajwi yanyu (mugusigura inkuru no kuyumvisha) nk\u2019abantu bakora, abari mumyiyerekano, amajwi yo mu gikone.Toute histoire ishobora kugira aho ukura amajwi kenshi, iyo zikoreshejwe hamwe zivuga inkuru nziza, abakurinira bashobora kubona no kumva.", 
+            "text": "## Ikoreshwa ry\u2019aho ukura amajwi  \nGusiga ikibaho no kwubaka inkuru mu mutima w\u2019uwuyumviriza. Mushobora gusiga isanamu mukoresheje amajwi yavuye henshi, harimwo ayabantu canke amajwi y\u2019ibirori, imanza, amajwi yanyu (mugusigura inkuru no kuyumvisha) nk\u2019abantu bakora, abari mumyiyerekano, amajwi yo mu gikone.Toute histoire ishobora kugira aho ukura amajwi kenshi, iyo zikoreshejwe hamwe zivuga inkuru nziza, abakurinira bashobora kubona no kumva.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_3"
         }, 
@@ -70,7 +70,7 @@
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
-            "header": "Akarorero ko gukoresha amasoko y\u2019amajwi,aho wakuye amajwi ", 
+            "header": "Akarorero ko gukoresha amasoko y\u2019amajwi,aho wakuye amajwi  ", 
             "exampleMediaPath": "5.mp3", 
             "clipType": "character", 
             "type": "ExampleCard", 
@@ -84,35 +84,35 @@
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
-            "header": "Akarorero ko gukoresha amasoko y'amajwi", 
+            "header": "Akarorero ko gukoresha amasoko y'amajwi.  ", 
             "exampleMediaPath": "6.mp3", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_4"
         }, 
         {
-            "text": "##Ntimwibagiye \nGutangura gufata  mutarabaza ikibazo bifasha kuronka amasegunda imbere yokuvuga. Ico kibazo gitoye inyishu fata imisegondanda mike y\u2019agacerere imbere yo gusozera.\nUmviriza urugero rw\u2019amajwi ukoresheje utwuma two kwumviriza ufashe gato imbere yo gutangura gufata burundu clips mukoresha munkuru \nkoresha amajwi yavuye ahantu henshi mugutanga inkuru \nRondera amajwi atandukanye, n\u2019imigani ibafasha gutanga inkuru.gerageza gukoresha ijwi ryanyu bwite gake gashoboka hanyuma mutange inkuru n\u2019amajwi yandi mwafashe ", 
+            "text": "##Ntimwibagiye  \n&bull; Gutangura gufata  mutarabaza ikibazo bifasha kuronka amasegunda imbere yokuvuga. Ico kibazo gitoye inyishu fata imisegondanda mike y\u2019agacerere imbere yo gusozera.  \n&bull; Umviriza urugero rw\u2019amajwi ukoresheje utwuma two kwumviriza ufashe gato imbere yo gutangura gufata burundu clips mukoresha munkuru  \n&bull; koresha amajwi yavuye ahantu henshi mugutanga inkuru  \n&bull; Rondera amajwi atandukanye, n\u2019imigani ibafasha gutanga inkuru.gerageza gukoresha ijwi ryanyu bwite gake gashoboka hanyuma mutange inkuru n\u2019amajwi yandi mwafashe  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_4"
         }, 
         {
             "correctRequired": 1, 
-            "question": "Ntegerezwa kugira iki ngo menye ko urugero rw\u2019amajwi ari rwiza", 
+            "question": "Ntegerezwa kugira iki ngo menye ko urugero rw\u2019amajwi ari rwiza  ", 
             "choices": [
                 {
-                    "text": "kuba ufise utwuma two kwumviriza mugihe uba uriko urafata amajwi", 
+                    "text": "kuba ufise utwuma two kwumviriza mugihe uba uriko urafata amajwi.  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Fata amajwi yakarorero imbere yo gutangura", 
+                    "text": "Fata amajwi yakarorero imbere yo gutangura  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Niba ufise uburyo bwo gutunganya amajwi, bukoreshe wisunze akanovera kamajwi", 
+                    "text": "Niba ufise uburyo bwo gutunganya amajwi, bukoreshe wisunze akanovera kamajwi.  ", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Ivyo vyose biheze ", 
+                    "text": "Ivyo vyose biheze  ", 
                     "id": "answer_4"
                 }
             ], 
@@ -124,18 +124,18 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Ego canke oya: inkuru nziza ishobora gufita isoko rirenga imwe", 
+            "question": "Ego canke oya: inkuru nziza ishobora gufita isoko rirenga imwe?  ", 
             "choices": [
                 {
-                    "text": "Oya ", 
+                    "text": "Oya  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Ego ", 
+                    "text": "Ego  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Ego, mugabo nturenze amasoko abiri", 
+                    "text": "Ego, mugabo nturenze amasoko abiri.  ", 
                     "id": "answer_3"
                 }
             ], 
@@ -147,18 +147,18 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "kubera iki mwotegerezwa kwandika, gufata, no kwumviriza amasegonda atanu imbere yo gutangura kuvuga? ", 
+            "question": "kubera iki mwotegerezwa kwandika, gufata, no kwumviriza amasegonda atanu imbere yo gutangura kuvuga?  ", 
             "choices": [
                 {
-                    "text": "Kwiha imiseconda itanu kugira ushobore kwibuka ibibazo vyawe ", 
+                    "text": "Kwiha imiseconda itanu kugira ushobore kwibuka ibibazo vyawe.  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Gukora inkuru yawe ikaryohera abayumviriza", 
+                    "text": "Gukora inkuru yawe ikaryohera abayumviriza.  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "kugira mumenye ko mutaciye intango y\u2019ivyo mwafashe ", 
+                    "text": "kugira mumenye ko mutaciye intango y\u2019ivyo mwafashe  ", 
                     "id": "answer_3"
                 }
             ], 
@@ -171,5 +171,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "audio_basics", 
-    "title": "Inshingiro ry'amajwi"
+    "title": "Inshingiro ry'amajwi  "
 }

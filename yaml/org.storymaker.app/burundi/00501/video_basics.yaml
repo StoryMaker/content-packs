@@ -96,7 +96,7 @@
             type: MarkDownCard
             body: |   
                 # Have commitment  
-                !(5.png)  
+                ![](5.png)  
                 Have a goal for your shot, and record the complete action. Knowing what you are trying to record before you begin will allow you to know when you have completed the shot.  
                 Do not stop recording until actions have completed.  
                 When you are recording an action, be sure to have the camera recording for 5-10 seconds before it begins and continue recording for 5-10 seconds after the action ends. Seeing the action in its entirety will allow the audience to understand it.  
@@ -132,7 +132,7 @@
         - 
             type: MarkDownCard
             body: |   
-                !(8.png)  
+                ![](8.png)  
                 Stand in front of what you want to film, not off to the side.  
 
 

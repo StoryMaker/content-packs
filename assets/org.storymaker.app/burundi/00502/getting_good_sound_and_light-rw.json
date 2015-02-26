@@ -229,7 +229,7 @@
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
-            "header": "Ingene utegura gufata ifoto kugira wirabuze (obscur) mumaso y'umuntu", 
+            "header": "Ingene utegura gufata ifoto kugira wirabuze (obscur) mumaso y'umuntu.  ", 
             "exampleMediaPath": "11.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
@@ -324,7 +324,7 @@
             "question": "Mbega n'igiki wokoresha kugira ukingire micro yawe?", 
             "choices": [
                 {
-                    "text": "Ikiganza cawe", 
+                    "text": "Ikiganza cawe.  ", 
                     "id": "answer_1"
                 }, 
                 {

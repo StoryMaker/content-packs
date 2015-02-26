@@ -193,7 +193,7 @@
             ]
         }, 
         {
-            "text": "!(15.jpg)  \n", 
+            "text": "![](15.jpg)  \n", 
             "type": "MarkdownCard", 
             "id": "markdown_card_21"
         }, 

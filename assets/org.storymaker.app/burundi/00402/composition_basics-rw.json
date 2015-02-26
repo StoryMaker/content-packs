@@ -8,49 +8,49 @@
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
-            "header": "Ni izihe ngingo ngenderwako z\u2019ifoto ikoze neza?", 
+            "header": "Ni izihe ngingo ngenderwako z\u2019ifoto ikoze neza?  ", 
             "exampleMediaPath": "1.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
         }, 
         {
-            "text": "## Muri ico cigwa muzokwiga:\nAmazina atomoye \nIbikurukuru mubigize ifoto \nRegle des tiers isigura iki mw\u2019ifoto.\nBakora gute\u201dsuperposition mw\u2019ifoto.\nBisigura iki\u201dtravailler sur les bords\u201d\nImpanuro ngo mufate ifoto mutekanye", 
+            "text": "## Muri ico cigwa muzokwiga:  \n&bull; Amazina atomoye  \n&bull; Ibikurukuru mubigize ifoto  \n&bull; Regle des tiers isigura iki mw\u2019ifoto  \n&bull; Bakora gute\u201dsuperposition mw\u2019ifoto  \n&bull; Bisigura iki\u201dtravailler sur les bords\u201d  \n&bull; Impanuro ngo mufate ifoto mutekanye  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
         {
-            "text": "Gufata ifoto bikura vyinshi mugisata co gusiga amarangi. Amafoto meza aba akozwe kuburyo uwafashwe icafotowe neza, nayo intumbero y\u2019ifoto iratomoye.Ibararyiza n\u2019isano hagati y\u2019ibiboneka mw\u2019ifoto, ivyo abantu bashoka babona ubwambere ni ngirakamaro mugukora ifoto. Uko umuco wakoreshejwe ni ngirakamaro cane.", 
+            "text": "Gufata ifoto bikura vyinshi mugisata co gusiga amarangi. Amafoto meza aba akozwe kuburyo uwafashwe icafotowe neza, nayo intumbero y\u2019ifoto iratomoye.Ibararyiza n\u2019isano hagati y\u2019ibiboneka mw\u2019ifoto, ivyo abantu bashoka babona ubwambere ni ngirakamaro mugukora ifoto. Uko umuco wakoreshejwe ni ngirakamaro cane.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_1"
         }, 
         {
-            "text": "![Akarorero k\u2019ifoto yerekana n\u2019igikorwa.](2.jpg)\nIyo mufashe ifoto nko mumunsi mukuru ningombwa kumenya ko abanyagihugu batabona uko vyose vyagenze.Nti bamenya ivyo utaberetse.\n![Akarorero k\u2019ifoto yerekana n\u2019igikorwa.](3.jpg) \nAbamenyeshamakuru beza ntibafata gusa ivyabaye mumasanamu, biyumvira ibikenewe biboneka bitanga kandi bikerekana ahabereye urubanza n\u2019icatumye ubifotora. hari ibishoboka guhinduka. Ivyo bibasaba  kubona agahaze, n\u2019abamenyeshamakuru babahinga ni uko.", 
+            "text": "![Akarorero k\u2019ifoto yerekana n\u2019igikorwa.](2.jpg)  \nIyo mufashe ifoto nko mumunsi mukuru ningombwa kumenya ko abanyagihugu batabona uko vyose vyagenze.Nti bamenya ivyo utaberetse.  \n![Akarorero k\u2019ifoto yerekana n\u2019igikorwa.](3.jpg)  \nAbamenyeshamakuru beza ntibafata gusa ivyabaye mumasanamu, biyumvira ibikenewe biboneka bitanga kandi bikerekana ahabereye urubanza n\u2019icatumye ubifotora. hari ibishoboka guhinduka. Ivyo bibasaba  kubona agahaze, n\u2019abamenyeshamakuru babahinga ni uko.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_2"
         }, 
         {
-            "text": "![Ifatiro yogukora neza ifoto bayita \u201cRegers des tiers\u201d](4.png)\nIfatiro yogukora neza ifoto bayita \u201cRegers des tiers\u201d\nIyo njinyo iyobora ifoto muduce 9 tungana.Ama smart phones abafasha kwerekana utwo duce kutudirisha na kamera.", 
+            "text": "![Ifatiro yogukora neza ifoto bayita \u201cRegers des tiers\u201d](4.png)  \nIfatiro yogukora neza ifoto bayita \u201cRegers des tiers\u201d  \nIyo njinyo iyobora ifoto muduce 9 tungana.Ama smart phones abafasha kwerekana utwo duce kutudirisha na kamera.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_3"
         }, 
         {
-            "text": "![Ugukoresha neza Regles des Tiers](5.jpg)\nabahinga mugufotora baraba ibigize ifoto bagafatira kumirongo yo muri cadre yifoto kandi bagakore kamwe kamwe mudu ce icenda mugusigura inkuru zabo\n![Ugukoresha Regles des Tiers](6.jpg)\nAbatabimenyereye bakunda gushiramwo hagati uwo bafotra bakibagira ikibanza gisigaye ko cokora ngo isanamu inyure abayibona.\n![Ugukoresha neza Regles des Tiers](7.jpg)\n![Ugukoresha neza Regles des Tiers](8.jpg)", 
+            "text": "![Ugukoresha neza Regles des Tiers](5.jpg)  \nabahinga mugufotora baraba ibigize ifoto bagafatira kumirongo yo muri cadre yifoto kandi bagakore kamwe kamwe mudu ce icenda mugusigura inkuru zabo.  \n![Ugukoresha Regles des Tiers](6.jpg)  \nAbatabimenyereye bakunda gushiramwo hagati uwo bafotra bakibagira ikibanza gisigaye ko cokora ngo isanamu inyure abayibona.  \n![Ugukoresha neza Regles des Tiers](7.jpg)  \n![Ugukoresha neza Regles des Tiers](8.jpg)  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_4"
         }, 
         {
-            "text": "![Akarorero k\u2019ifoto ibona neza, igereranye mukubona](9.png)\n##kugerekeranya\n Ikindi gikomeye ni \u201cGusumbasumbanya\u201d.Isanamu yambere igereranya ifasha kuvuga vyinshi biboneka mw\u2019ifoto.Mushobora guhitamwo gushira ico mufotora umurimyi/mirima yanse kubera uruzuba utamushira ibubanfu n\u2019umurima wiwe inyuma.Ivyo vyerekana ishusho ibonerana yico wafotoye (imbere) nayo ibindi  bikwiye mw\u2019isanamu(inyuma).                                                                                                       ", 
+            "text": "![Akarorero k\u2019ifoto ibona neza, igereranye mukubona](9.png)  \n##kugerekeranya  \nIkindi gikomeye ni \u201cGusumbasumbanya\u201d.Isanamu yambere igereranya ifasha kuvuga vyinshi biboneka mw\u2019ifoto.Mushobora guhitamwo gushira ico mufotora umurimyi/mirima yanse kubera uruzuba utamushira ibubanfu n\u2019umurima wiwe inyuma.Ivyo vyerekana ishusho ibonerana yico wafotoye (imbere) nayo ibindi  bikwiye mw\u2019isanamu(inyuma).  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_5"
         }, 
         {
-            "text": "![Akarorero k'ifoto ikoresha inkengera](10.png) \n## Gukoresha inkengera.\nMw\u2019ifoto ikozwe neza iforoma n\u2019amakuru ahambaye birafashanya.Ibiganza vy\u2019iteka ntibabikaza uko ariko kose.uwutwara abakozi arinico aterera mw\u2019isanamu ntibamukatimwo kabiri kunkengera ya cadre. Abahinga mugufotora bavyita Igikorwa c'inkengera. Amaforoma aca cadre,inzugi canke ibiti n\u2019ibindi,vy\u2019amabara akaze,babikoresha ngo berekane aho inkengera ya cadre igarukira bigafasha ngo biboneke muriyo .", 
+            "text": "![Akarorero k'ifoto ikoresha inkengera](10.png)  \n## Gukoresha inkengera.  \nMw\u2019ifoto ikozwe neza iforoma n\u2019amakuru ahambaye birafashanya.Ibiganza vy\u2019iteka ntibabikaza uko ariko kose.uwutwara abakozi arinico aterera mw\u2019isanamu ntibamukatimwo kabiri kunkengera ya cadre. Abahinga mugufotora bavyita Igikorwa c'inkengera. Amaforoma aca cadre,inzugi canke ibiti n\u2019ibindi,vy\u2019amabara akaze,babikoresha ngo berekane aho inkengera ya cadre igarukira bigafasha ngo biboneke muriyo.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_6"
         }, 
         {
-            "text": "## Ibihe bukuru bikuru", 
+            "text": "## Ibihe bukuru bikuru  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_7"
         }, 
@@ -62,45 +62,45 @@
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
-            "header": "Ikiganiro n\u2019umuhinga afata ifoto avuga gukoresha ibigize ifoto mu rugendo", 
+            "header": "Ikiganiro n\u2019umuhinga afata ifoto avuga gukoresha ibigize ifoto mu rugendo  ", 
             "exampleMediaPath": "11.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_1"
         }, 
         {
-            "text": "Icanyuma kigize ifoto nziza ni umwanya. Amafoto meza afatwa muduce tw\u2019umusegonda.Mugihe ibigize ifoto bikwiye, igikorwa co gufata amafoto nico kiba gisigaye gikomeye. Ivyo bavyita umwanya wigikorwa. Amafoto meza kenshi ni ayihutiwe. Ivyo kenshi bishirwaho mukwegeranya ibikubikuru bikenewe mwifoto, hanyuma ukarindira umwanya mwiza wo gufata ifoto. Hakenewe ubwitonzi mugufata ifoto nukwiyunvira kukuntu mushora gutanga inkuru musigura, bifata umwanya muremure gushika kumwanya wo gufata amafoto meza.", 
+            "text": "Icanyuma kigize ifoto nziza ni umwanya. Amafoto meza afatwa muduce tw\u2019umusegonda.Mugihe ibigize ifoto bikwiye, igikorwa co gufata amafoto nico kiba gisigaye gikomeye. Ivyo bavyita umwanya wigikorwa. Amafoto meza kenshi ni ayihutiwe. Ivyo kenshi bishirwaho mukwegeranya ibikubikuru bikenewe mwifoto, hanyuma ukarindira umwanya mwiza wo gufata ifoto.  \nHakenewe ubwitonzi mugufata ifoto nukwiyunvira kukuntu mushora gutanga inkuru musigura, bifata umwanya muremure gushika kumwanya wo gufata amafoto meza.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_8"
         }, 
         {
-            "text": "![Menya neza](12.png) \n##Umutekano\nIbuka ko utegerezwa kwitaho umutekano wawe nuwufotora imbere ya vyose.\nUmumenyeshamakuru ashobora guhagarara kumpera z\u2019ikibanza hagoye.Ufata ifoto akeneye kwegera ngo afate ifoto neza. Abamenyeshamakuru imisi yose bafatirahamwe umutekano nigi kenewe ngo afate isanamu nziza.", 
+            "text": "![Menya neza](12.png)  \n##Umutekano  \nIbuka ko utegerezwa kwitaho umutekano wawe nuwufotora imbere ya vyose. Umumenyeshamakuru ashobora guhagarara kumpera z\u2019ikibanza hagoye.Ufata ifoto akeneye kwegera ngo afate ifoto neza. Abamenyeshamakuru imisi yose bafatirahamwe umutekano nigi kenewe ngo afate isanamu nziza.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_9"
         }, 
         {
-            "text": "## Ntimwibagire\n Kwiyunvira kumasanamu \ngupanga ibija mw\u2019isanamu kugira mutange inkuru inyura kandi yigisha .\nGerageza gufata amasanamu meza ifoto nziza itwara umwanya \nNi ugutegura mukibaza ukuntu muronka isanamu nziza zo gukora inkuru zituma abatira banezerwa.", 
+            "text": "## Ntimwibagire  \n&bull; Kwiyunvira kumasanamu  \n&bull; gupanga ibija mw\u2019isanamu kugira mutange inkuru inyura kandi yigisha.  \n&bull; Gerageza gufata amasanamu meza ifoto nziza itwara umwanya.  \n&bull; Ni ugutegura mukibaza ukuntu muronka isanamu nziza zo gukora inkuru zituma abatira banezerwa.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_10"
         }, 
         {
             "correctRequired": 3, 
-            "question": "Bisigura iki kwiyunvira kw\u2019isanamu ", 
+            "question": "Bisigura iki kwiyunvira kw\u2019isanamu?  ", 
             "choices": [
                 {
-                    "text": "Gutunganya inkuru kuva kuntango ngo ushire vyiza mw\u2019isanamu ", 
+                    "text": "Gutunganya inkuru kuva kuntango ngo ushire vyiza mw\u2019isanamu.  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Gufata umwanya uhagije ngo uronke isanamu nziza.", 
+                    "text": "Gufata umwanya uhagije ngo uronke isanamu nziza.  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Ugutahura ingene utanga inkuru ziboneka birahambaye gusumba ingene usigura canke wandika.", 
+                    "text": "Ugutahura ingene utanga inkuru ziboneka birahambaye gusumba ingene usigura canke wandika.  ", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Ntanimwe muri izo nyishu.", 
+                    "text": "Ntanimwe muri izo nyishu.  ", 
                     "id": "answer_4"
                 }
             ], 
@@ -114,14 +114,14 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Ego /oya: isanamu ibwirizwa kuba itunganijwe neza.uburyo bwo kubikora ukorera kumuntu umwe ukamushira hagati neza.", 
+            "question": "Ego / oya: Isanamu ibwirizwa kuba itunganijwe neza.uburyo bwo kubikora ukorera kumuntu umwe ukamushira hagati neza.  ", 
             "choices": [
                 {
-                    "text": "Nivyo", 
+                    "text": "Nivyo  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Sivyo", 
+                    "text": "Sivyo  ", 
                     "id": "answer_2"
                 }
             ], 
@@ -133,22 +133,22 @@
         }, 
         {
             "correctRequired": 3, 
-            "question": "Ni ikihe muri ibi ari ingingo shingiro y\u2019ifoto ikoze neza?(inyishu zishobora kuba nyishi)", 
+            "question": "Ni ikihe muri ibi ari ingingo shingiro y\u2019ifoto ikoze neza? (inyishu zishobora kuba nyishi)  ", 
             "choices": [
                 {
-                    "text": "Gukoresha twatuntu icenda.", 
+                    "text": "Gukoresha twatuntu icenda  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Gukoresha inkengera", 
+                    "text": "Gukoresha inkengera  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Ukwigana", 
+                    "text": "Ukwigana  ", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Ntanimwe muri izo nyishu", 
+                    "text": "Ntanimwe muri izo nyishu  ", 
                     "id": "answer_4"
                 }
             ], 
@@ -163,5 +163,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "composition_basics", 
-    "title": "Ishingiro ry\u2019ibigize isanamu"
+    "title": "Ishingiro ry\u2019ibigize isanamu  "
 }

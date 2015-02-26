@@ -8,7 +8,7 @@
         - 
             type: MarkDownCard
             body: |   
-                !(1.png)  
+                ![](1.png)  
                 # INTRODUCTION TO PHOTOGRAPHY  
                 Photography is a very powerful storytelling tool. A single, good news photo or collection of photos can transcend language and cross cultural boundaries to deliver a strong message. The best photos do more than document an event. They illustrate why the event is important, why it is in the news, and why people should care.  
                 

@@ -21,7 +21,7 @@
   "exposure_basics::quiz_card_3::choices[3]::text": "None of the above.", 
   "exposure_basics::title": "Exposure Basics", 
   "exposure_basics::quiz_card_1::question": "What three things control exposure?", 
-  "exposure_basics::markdown_card_8::text": "!(11.jpg)  \n", 
+  "exposure_basics::markdown_card_8::text": "![](11.jpg)  \n", 
   "exposure_basics::quiz_card_4::question": "How might you correct the exposure in the example image above?", 
   "exposure_basics::quiz_card_3::choices[0]::text": "Nothing. Smartphones offer no manual control of exposure.", 
   "exposure_basics::markdown_card_7::text": "## THINGS TO REMEMBER  \n&bull; It is essential that your images be properly exposed.  \n&bull; Smartphone cameras often struggle to take well-exposed images under tough lighting conditions.  \n&bull; Managing the exposure within the range that the camera is capable can help a lot.  \n&bull; Always take a few practice pictures to check the exposure, and make adjustments if necessary.  \n", 

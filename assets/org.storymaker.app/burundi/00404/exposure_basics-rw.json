@@ -8,70 +8,70 @@
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
-            "header": "Nikubera iki amashusho ashobora kuba kumuco urenze ( umuco mwinshi) canke kumuco muke ( irimwo umwijima), na nigute nobitorera umuti?", 
+            "header": "Nikubera iki amashusho ashobora kuba kumuco urenze ( umuco mwinshi) canke kumuco muke ( irimwo umwijima), na nigute nobitorera umuti?  ", 
             "exampleMediaPath": "1.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
         }, 
         {
-            "text": "## Muriyi nyigisho uzokwiga:\n&bull; ingene camera yawe ipima umuco\n&bull; Ingene utora ibibazo bikunda gushika nk'umuco udakwiye hamwe n'umuco uri inyuma mu mugongo (r\u00e9tro\u00e9clairage)\n&bull; ingene gusubiriza ivyerekanwa (compensation d'exposition) bikora", 
+            "text": "## Muriyi nyigisho uzokwiga:  \n&bull; ingene camera yawe ipima umuco  \n&bull; Ingene utora ibibazo bikunda gushika nk'umuco udakwiye hamwe n'umuco uri inyuma mu mugongo (r\u00e9tro\u00e9clairage)  \n&bull; ingene gusubiriza ivyerekanwa (compensation d'exposition) bikora  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
         {
-            "text": "Muri camera ya terefone ngendanwa yose harimwo ikonteri ipima umuco (compteur). Iyi konteri irafata igipimo coroshe akanya gato imbere yuko ufata ifoto kandi ikabwira camera ingene itunganya ISO, aperture hamwe na obturateur (raba mu gice c'inyigisho za camera). Hamwe no gutumbereza no gufata vy'amakamera hamwe na dSLRs iyi konteri iba ihinyanyuwe kandi bivana n'uwufata amasanamu gutunganya iyerekanwa (exposition) yose canke igice bishingiye mu gusoma umuco.", 
+            "text": "Muri camera ya terefone ngendanwa yose harimwo ikonteri ipima umuco (compteur). Iyi konteri irafata igipimo coroshe akanya gato imbere yuko ufata ifoto kandi ikabwira camera ingene itunganya ISO, aperture hamwe na obturateur (raba mu gice c'inyigisho za camera). Hamwe no gutumbereza no gufata vy'amakamera hamwe na dSLRs iyi konteri iba ihinyanyuwe kandi bivana n'uwufata amasanamu gutunganya iyerekanwa (exposition) yose canke igice bishingiye mu gusoma umuco.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_1"
         }, 
         {
-            "text": "![Akarorero k\u2019ingorane zikunda gushika kugipimo c\u2019umuco](2.jpg)\n### Akarorero k\u2019ingorane zikunda gushika kugipimo c\u2019umuco\nIzi compteurs ziroroshe kwihendako. Zifata ibiri muri rusangi vyanditse k\u2019umuco ujana mw\u2019ijisho rya camera (objectif de la cam\u00e9ra) bigaca biringaniza kugira hafatwe ifoto. Camera iragira ingorane mu kugereranya iyerekanwa (exposition) nyamba harimwo uguhinduka kwinshi m\u2019umuco ubonetse --- terefone ngendanwa ntizishobora kugira iyerekanwa ryiza kubicapo bifise guhinduka kwinshi kw\u2019amabara aboneka n\u2019ayigitutu. \nUkudakwira kw\u2019umuco niyo ngorane ikunda gushikira cane abafata amasanamu. Camera n\u2019igikoresho kitashoboye cane gushirahamwe umuco ukigereranije n\u2019ijisho ry\u2019umuntu. Ikintu kigorane cane iyo abafata amasanamu bariko barayafata hari umuco muke ni kumenya ingorane hamwe nokuyitorera inyishu m\u2019uburyo bwitonze gusumba gufata amafoto menshi kandi wizera yuko imwe izakuba nziza. ", 
+            "text": "![Akarorero k\u2019ingorane zikunda gushika kugipimo c\u2019umuco](2.jpg)  \n### Akarorero k\u2019ingorane zikunda gushika kugipimo c\u2019umuco  \nIzi compteurs ziroroshe kwihendako. Zifata ibiri muri rusangi vyanditse k\u2019umuco ujana mw\u2019ijisho rya camera (objectif de la cam\u00e9ra) bigaca biringaniza kugira hafatwe ifoto. Camera iragira ingorane mu kugereranya iyerekanwa (exposition) nyamba harimwo uguhinduka kwinshi m\u2019umuco ubonetse --- terefone ngendanwa ntizishobora kugira iyerekanwa ryiza kubicapo bifise guhinduka kwinshi kw\u2019amabara aboneka n\u2019ayigitutu.  \nUkudakwira kw\u2019umuco niyo ngorane ikunda gushikira cane abafata amasanamu. Camera n\u2019igikoresho kitashoboye cane gushirahamwe umuco ukigereranije n\u2019ijisho ry\u2019umuntu. Ikintu kigorane cane iyo abafata amasanamu bariko barayafata hari umuco muke ni kumenya ingorane hamwe nokuyitorera inyishu m\u2019uburyo bwitonze gusumba gufata amafoto menshi kandi wizera yuko imwe izakuba nziza.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_2"
         }, 
         {
-            "text": "![Akarorero k\u2019ifoto yafashwe hakoreshejwe terefone](3.jpg)\n### Akarorero k\u2019ifoto yafashwe hakoreshejwe terefone\n![Akarorero k\u2019ifoto yafashe hakoreshejwe uburyo bwo gutumbereza no gufata vya camera](4.jpg)\n### Akarorero k\u2019ifoto yafashe hakoreshejwe uburyo bwo gutumbereza no gufata vya camera\n![Akarorero k\u2019ifoto yafashe hakoreshejwe camera ya DSLR](5.jpg)\n### Akarorero k\u2019ifoto yafashe hakoreshejwe camera ya DSLR\nMu bihe usanga hari umuco muke, nta muco ukwiye ukubita kuri capteur kugira yerekanwe neza. Smartfone zifise ama lentilles mato kandi bica bituma Aperture zishoboka ziba ntoyi (raba mu gice c'inyigisho za camera) gusumba camera zagenewe ico gikorwa. Kubera Aperture iba ari ntoyi, zishobora kurekurira umuco winjira ungana co kimwe nuw\u2019ama camera manini afise ama lentilles manini ariko akorera kuri vitesse d'obturation imwe.*", 
+            "text": "![Akarorero k\u2019ifoto yafashwe hakoreshejwe terefone](3.jpg)  \n### Akarorero k\u2019ifoto yafashwe hakoreshejwe terefone  \n![Akarorero k\u2019ifoto yafashe hakoreshejwe uburyo bwo gutumbereza no gufata vya camera](4.jpg)  \n### Akarorero k\u2019ifoto yafashe hakoreshejwe uburyo bwo gutumbereza no gufata vya camera  \n![Akarorero k\u2019ifoto yafashe hakoreshejwe camera ya DSLR](5.jpg)  \n### Akarorero k\u2019ifoto yafashe hakoreshejwe camera ya DSLR  \nMu bihe usanga hari umuco muke, nta muco ukwiye ukubita kuri capteur kugira yerekanwe neza. Smartfone zifise ama lentilles mato kandi bica bituma Aperture zishoboka ziba ntoyi (raba mu gice c'inyigisho za camera) gusumba camera zagenewe ico gikorwa. Kubera Aperture iba ari ntoyi, zishobora kurekurira umuco winjira ungana co kimwe nuw\u2019ama camera manini afise ama lentilles manini ariko akorera kuri vitesse d'obturation imwe.*  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_3"
         }, 
         {
-            "text": "Ikindi kibazo cerekeye iyerekanwa (exposition) gishobora kuba iyo igihe uriko urafata amasanamu hari igicu gitanga umuco muke kubera camera ica igerageza kugira yuko ivyo ubona (scene) bisa nkivyoroheje gusumba uko mubisanzwe bisa.\n![Akarorero k'ifoto iri r\u00e9tro\u00e9clair\u00e9.](6.jpg)\n### Akarorero k'ifoto iri r\u00e9tro\u00e9clair\u00e9.\n![Akarorero k'umuco ugarutse uva kuri surface hautement r\u00e9fl\u00e9chissante .](7.jpg)\n### Akarorero k'umuco ugarutse uva kuri surface hautement r\u00e9fl\u00e9chissante", 
+            "text": "Ikindi kibazo cerekeye iyerekanwa (exposition) gishobora kuba iyo igihe uriko urafata amasanamu hari igicu gitanga umuco muke kubera camera ica igerageza kugira yuko ivyo ubona (scene) bisa nkivyoroheje gusumba uko mubisanzwe bisa.  \n![Akarorero k'ifoto iri r\u00e9tro\u00e9clair\u00e9.](6.jpg)  \n### Akarorero k'ifoto iri r\u00e9tro\u00e9clair\u00e9.  \n![Akarorero k'umuco ugarutse uva kuri surface hautement r\u00e9fl\u00e9chissante .](7.jpg)  \n### Akarorero k'umuco ugarutse uva kuri surface hautement r\u00e9fl\u00e9chissante.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_4"
         }, 
         {
-            "text": "Ingorane ikunda kuboneka niyo umuco uri inyuma mu mugongo (r\u00e9tro\u00e9clairage). Uriko ufata isanamu ry\u2019umuntu ari ahantu hafise igitutu gisanzwe gifise umuco ukaze canke umuco w\u2019izuba inyuma yiwe. Ibi bishobora guhenda ikonteri ugasanga umuntu yaje ari r\u00e9tro\u00e9clair\u00e9. \nIyindi ngorane ikunze gushika n\u2019umuco ugarutse uva kuri surface hautement r\u00e9fl\u00e9chissante nk\u2019ibihuzu vy\u2019amahema year, Neige canke umusenyi.\n![Akarorero k\u2019ifoto iri surexpos\u00e9 .](8.jpg)\n### Akarorero k\u2019ifoto iri surexpos\u00e9\n![Akarorero kingene ushobora kwerekana neza ikibanza cirabura ukoresheje smartfone.](9.jpg)\n### Akarorero kingene ushobora kwerekana neza ikibanza cirabura ukoresheje smartfone.\nAma camera menshi yama smartfone ashoboza uwufata ifoto gukora ahantu kukiyo (\u00e9cran) kugira camera imenye aho ishira ubushobozi bw\u2019iyerekanwa (exposition) ryayo. Ibikoresho bimwe bimwe bizogushoboza gutumbereza camera mukibanza gifise ibitutu mu nkikuro y\u2019igicapo (cadre), ugakora kukiyo kandi ugaca ugira recadrage y\u2019ifoto.", 
+            "text": "Ingorane ikunda kuboneka niyo umuco uri inyuma mu mugongo (r\u00e9tro\u00e9clairage). Uriko ufata isanamu ry\u2019umuntu ari ahantu hafise igitutu gisanzwe gifise umuco ukaze canke umuco w\u2019izuba inyuma yiwe. Ibi bishobora guhenda ikonteri ugasanga umuntu yaje ari r\u00e9tro\u00e9clair\u00e9.  \nIyindi ngorane ikunze gushika n\u2019umuco ugarutse uva kuri surface hautement r\u00e9fl\u00e9chissante nk\u2019ibihuzu vy\u2019amahema year, Neige canke umusenyi.  \n![Akarorero k\u2019ifoto iri surexpos\u00e9 .](8.jpg)  \n### Akarorero k\u2019ifoto iri surexpos\u00e9  \n![Akarorero kingene ushobora kwerekana neza ikibanza cirabura ukoresheje smartfone.](9.jpg)  \n### Akarorero kingene ushobora kwerekana neza ikibanza cirabura ukoresheje smartfone.  \nAma camera menshi yama smartfone ashoboza uwufata ifoto gukora ahantu kukiyo (\u00e9cran) kugira camera imenye aho ishira ubushobozi bw\u2019iyerekanwa (exposition) ryayo. Ibikoresho bimwe bimwe bizogushoboza gutumbereza camera mukibanza gifise ibitutu mu nkikuro y\u2019igicapo (cadre), ugakora kukiyo kandi ugaca ugira recadrage y\u2019ifoto.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_5"
         }, 
         {
-            "text": "![Akarorero kingene ushobora kuringaniza neza iyerekanwa (exposition) ukoresheje  compensation d'exposition](10.jpg) \nCamera za smartfone zimwe zimwe hamwe n\u2019ama application y\u2019amafoto azogushoboza kuringaniza iyerekanwa ukoresheje ikintu bizanana citwa \u201ccompensation d'exposition.\u201d Urashobora kugira yuko camera iringaniza iyerekanwa riri kugipimo kugira surexposer canke sous-exposer y\u2019igicapo ibe imbere yuko ufata ifoto. Ibi bishobora gutuma wishura ukurenga cane kw\u2019ikibanza c\u2019amabara aboneka canke ayigitutu mu nkikuro y\u2019igicapo (cadre) yawe. Ibicapo biri surexposer canke sous-exposer buhoro buhoro bishobora rimwe na rimwe gukosorwa muri post-production hakoreshejwe ibizanana na terefone vyerekeye ama logiciel y\u2019amafoto canke ama application nka Adobe Photoshop Express. Adobe Photoshop Express igushoboza gutunganya iyerekanwa (exposition) mw\u2019ifoto yawe. Ushobora gukora mumaso humuntu ari mw\u2019ifoto yawe, camera igaca isubiza k\u2019urugezo iyerekanwa bijanye no mumaso hiwe.", 
+            "text": "![Akarorero kingene ushobora kuringaniza neza iyerekanwa (exposition) ukoresheje  compensation d'exposition](10.jpg)  \nCamera za smartfone zimwe zimwe hamwe n\u2019ama application y\u2019amafoto azogushoboza kuringaniza iyerekanwa ukoresheje ikintu bizanana citwa \u201ccompensation d'exposition.\u201d Urashobora kugira yuko camera iringaniza iyerekanwa riri kugipimo kugira surexposer canke sous-exposer y\u2019igicapo ibe imbere yuko ufata ifoto. Ibi bishobora gutuma wishura ukurenga cane kw\u2019ikibanza c\u2019amabara aboneka canke ayigitutu mu nkikuro y\u2019igicapo (cadre) yawe.  \nIbicapo biri surexposer canke sous-exposer buhoro buhoro bishobora rimwe na rimwe gukosorwa muri post-production hakoreshejwe ibizanana na terefone vyerekeye ama logiciel y\u2019amafoto canke ama application nka Adobe Photoshop Express. Adobe Photoshop Express igushoboza gutunganya iyerekanwa (exposition) mw\u2019ifoto yawe. Ushobora gukora mumaso humuntu ari mw\u2019ifoto yawe, camera igaca isubiza k\u2019urugezo iyerekanwa bijanye no mumaso hiwe.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_6"
         }, 
         {
-            "text": "## IBINTU VYO KWIBUKA\n&bull; Nibintu bikenewe cane yuko ibicapo vyawe vyerekanwa neza.\n&bull; camera za Smartfone kenshi ziragira ingorane zo gufata ibicapo vyerekanywe neza iyo hari igicu gitanga umuco ugorana cane.\n&bull; Gutunganya iyerekanwa (exposition) m'uburebure (distance) bushoboza camera bishobora gufasha cane.\n&bull; Minsi yose wame ufata amafoto make yokwimenyereza iyerekanwa (exposition) hamwe no kuringaniza ivyoba bikenewe.", 
+            "text": "## IBINTU VYO KWIBUKA  \n&bull; Nibintu bikenewe cane yuko ibicapo vyawe vyerekanwa neza.  \n&bull; camera za Smartfone kenshi ziragira ingorane zo gufata ibicapo vyerekanywe neza iyo hari igicu gitanga umuco ugorana cane.  \n&bull; Gutunganya iyerekanwa (exposition) m'uburebure (distance) bushoboza camera bishobora gufasha cane.  \n&bull; Minsi yose wame ufata amafoto make yokwimenyereza iyerekanwa (exposition) hamwe no kuringaniza ivyoba bikenewe.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_7"
         }, 
         {
             "correctRequired": 3, 
-            "question": "Nibihe bintu bitatu bifise ububasha kuvyerekanwa (exposition)?", 
+            "question": "Nibihe bintu bitatu bifise ububasha kuvyerekanwa (exposition)?  ", 
             "choices": [
                 {
-                    "text": "ISO", 
+                    "text": "ISO  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Aperture", 
+                    "text": "Aperture  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Ingene utegura Zoom", 
+                    "text": "Ingene utegura Zoom  ", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Akuma ko kw'i camera karaba umwanya ifoto imara mugufatwa", 
+                    "text": "Akuma ko kw'i camera karaba umwanya ifoto imara mugufatwa  ", 
                     "id": "answer_4"
                 }
             ], 
@@ -85,14 +85,14 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Nivyo canke sivyo: obturateur niyo ifise ububasha ku kungene umwanya ungana aho obturateur iguma ishizweko umuco. ", 
+            "question": "Nivyo canke sivyo: obturateur niyo ifise ububasha ku kungene umwanya ungana aho obturateur iguma ishizweko umuco.  ", 
             "choices": [
                 {
-                    "text": "Nivyo", 
+                    "text": "Nivyo  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Sivyo", 
+                    "text": "Sivyo  ", 
                     "id": "answer_2"
                 }
             ], 
@@ -104,22 +104,22 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Iyo uriko ufata amafoto ukoresheje smartfone, nigiki wokora muribi nyamba igicapo kiboneka cana birengeje (surexpos\u00e9e)", 
+            "question": "Iyo uriko ufata amafoto ukoresheje smartfone, nigiki wokora muribi nyamba igicapo kiboneka cana birengeje (surexpos\u00e9e)  ", 
             "choices": [
                 {
-                    "text": "Ntanakimwe. Smartfone ntabubasha ukoresha ukushatse (manuel) zitanga kuvyerekanwa (exposition) ", 
+                    "text": "Ntanakimwe. Smartfone ntabubasha ukoresha ukushatse (manuel) zitanga kuvyerekanwa (exposition)  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Ama camera menshi yama Smartfone ubu araguha guhitamwo ikibanza mu nkikuro y'igicapo (cadre) kizokwerekanwa (exposition) neza mukugikorako. Camera ica isubiza kurugezo (recalibrer) ibizokwerekanwa hisunzwe aho hantu wahisemwo.", 
+                    "text": "Ama camera menshi yama Smartfone ubu araguha guhitamwo ikibanza mu nkikuro y'igicapo (cadre) kizokwerekanwa (exposition) neza mukugikorako. Camera ica isubiza kurugezo (recalibrer) ibizokwerekanwa hisunzwe aho hantu wahisemwo.  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Shira smartfone muri mode camera ukoresha ukushatse (manuel)", 
+                    "text": "Shira smartfone muri mode camera ukoresha ukushatse (manuel)  ", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Ntanimwe muri izo nyishu.", 
+                    "text": "Ntanimwe muri izo nyishu.  ", 
                     "id": "answer_4"
                 }
             ], 
@@ -130,32 +130,32 @@
             "id": "quiz_card_3"
         }, 
         {
-            "text": "!(11.jpg)", 
+            "text": "!(11.jpg)  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_8"
         }, 
         {
             "correctRequired": 1, 
-            "question": "Nigute nokosora ingene imeze muri aka karorero kari hejuru?", 
+            "question": "Nigute nokosora ingene imeze muri aka karorero kari hejuru?  ", 
             "choices": [
                 {
-                    "text": "Ongereza ISO", 
+                    "text": "Ongereza ISO  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Ringaniza gato ivyerekanwa (exposition) muri post-production", 
+                    "text": "Ringaniza gato ivyerekanwa (exposition) muri post-production.  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Ugurura aperture (nyamba bishoboka)", 
+                    "text": "Ugurura aperture (nyamba bishoboka)  ", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Gabanya vitesse d'obturation witonze cane kugira ntuyigabanye cane gushika aho igicapo kigira igifungu (floue)", 
+                    "text": "Gabanya vitesse d'obturation witonze cane kugira ntuyigabanye cane gushika aho igicapo kigira igifungu (floue)  ", 
                     "id": "answer_4"
                 }, 
                 {
-                    "text": "Ibiri hejuru vyose", 
+                    "text": "Ibiri hejuru vyose.  ", 
                     "id": "answer_5"
                 }
             ], 
@@ -168,5 +168,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "exposure_basics", 
-    "title": "Ishingiro ry\u2019ibigize ivyerekanwa (exposition)"
+    "title": "Ishingiro ry\u2019ibigize ivyerekanwa (exposition)  "
 }

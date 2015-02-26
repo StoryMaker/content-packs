@@ -63,7 +63,7 @@
             type: MarkDownCard
             body: |   
                 ## Sizing  
-                !(8.png)  
+                ![](8.png)  
                 Even mobile devices are capable of creating images with resolution so great that they can be published in a magazine. Always shoot on the largest file size available. However, large files take up a lot of space and are slow to send. Some mobile devices and apps will allow you to make an image smaller for more efficient reproduction on a website. ALWAYS keep a copy of the original images if reducing file size dramatically.  
 
         - 

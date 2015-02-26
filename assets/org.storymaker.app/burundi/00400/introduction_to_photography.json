@@ -1,7 +1,7 @@
 {
     "cards": [
         {
-            "text": "!(1.png)  \n# INTRODUCTION TO PHOTOGRAPHY  \nPhotography is a very powerful storytelling tool. A single, good news photo or collection of photos can transcend language and cross cultural boundaries to deliver a strong message. The best photos do more than document an event. They illustrate why the event is important, why it is in the news, and why people should care.  \n", 
+            "text": "![](1.png)  \n# INTRODUCTION TO PHOTOGRAPHY  \nPhotography is a very powerful storytelling tool. A single, good news photo or collection of photos can transcend language and cross cultural boundaries to deliver a strong message. The best photos do more than document an event. They illustrate why the event is important, why it is in the news, and why people should care.  \n", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
@@ -16,7 +16,7 @@
             "id": "markdown_card_2"
         }, 
         {
-            "text": "We strongly suggest you complete the Security and Journalism curriculum before you begin. Those lessons are referenced in the Photography section, but they deserve your undivided attention. Without them, you are likely to put yourself and others at risk.  ", 
+            "text": "We strongly suggest you complete the Security and Journalism curriculum before you begin. Those lessons are referenced in the Photography section, but they deserve your undivided attention. Without them, you are likely to put yourself and others at risk.  \n", 
             "type": "MarkdownCard", 
             "id": "markdown_card_3"
         }

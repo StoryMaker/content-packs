@@ -148,7 +148,7 @@
         - 
             type: MarkDownCard
             body: |   
-                !(11.jpg)  
+                ![](11.jpg)  
 
         - 
             id: quiz_card_4
