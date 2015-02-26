@@ -38,7 +38,7 @@
     "sequences::quiz_card_1::choices[1]::text": "Plan rusangi.",
     "sequences::markdown_card_1::text": "Urutonde rwa ma plan n’urukurikiranerwa mafoto. Ikozwe na ma plan ahigikiranye, urukurikirane rumwe rwama foto rurashobora gusigura inkuru yose. Storymaker yitaho gukoresha ama plan meshi ngo ikore urukurikirane rukwiye. ",
     "sequences::preview_card_0::header": "Nigute nkora urukurikirane mu ma sanamu ? ",
-    "sequences::markdown_card_7::text": "## urukurikirane mukibanza n’inyuma yikibanza! (7.png) \nMushaka kwerekana igikorwa mupande zitandukanye mumwanya umwe, mutegerezwa gufata mubihe bitandukanye. Birazwi murukurikirane mufata mubibanza ninyuma y’ibibanza. Mugukora urukwirikirane mukibanza ninyuma y’ikibanza , fata impande zibiri mumwanya umwe. Dufate ako karorero ahou mu hinga akora cinema afashe umuntu mukibanza ninyuma yikibanza ariko arndika kumashini.",
+    "sequences::markdown_card_7::text": "## urukurikirane mukibanza n’inyuma yikibanza  \n![](7.png) Mushaka kwerekana igikorwa mupande zitandukanye mumwanya umwe, mutegerezwa gufata mubihe bitandukanye. Birazwi murukurikirane mufata mubibanza ninyuma y’ibibanza. Mugukora urukwirikirane mukibanza ninyuma y’ikibanza , fata impande zibiri mumwanya umwe. Dufate ako karorero ahou mu hinga akora cinema afashe umuntu mukibanza ninyuma yikibanza ariko arndika kumashini.",
     "sequences::quiz_card_4::question": "Nizihe plan zishoboka kuri plan y’ikibanza n’inyuma y’ikibanza.",
     "sequences::quiz_card_2::choices[1]::text": "Plan 3",
     "sequences::preview_card_3::header": "Tuzokenera kubona umuntu ariko arariha ivyamwa.",

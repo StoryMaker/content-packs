@@ -38,7 +38,7 @@
     "sequences::quiz_card_1::choices[1]::text": "Type de plan",
     "sequences::markdown_card_1::text": "Une Série de plans assemblées est une séquence. Lorsque composée de plans qui se soutiennent mutuellement, une séquence individuelle peut raconter une histoire complète. StoryMaker se concentre sur l'utilisation de plusieurs plans pour faire une séquence complète.",
     "sequences::preview_card_0::header": "Comment je crée une séquence en vidéo?",
-    "sequences::markdown_card_7::text": "## Séquence en Champ /Contre-champ\n!(7.png)\nSi vous voulez montrer une action survenant sous des angles différents en même temps, vous devez les filmer séparément. C'est connu par séquence en champ / contre-champ.\nPour créer une  séquence en champ / contre-champ, enregistrez deux plans à la fois à l'esprit. Considérons cet exemple où un cinéaste prend un champ / contrechamp  de quelqu'un qui tape sur son  clavier.",
+    "sequences::markdown_card_7::text": "## Séquence en Champ /Contre-champ  \n![](7.png) Si vous voulez montrer une action survenant sous des angles différents en même temps, vous devez les filmer séparément. C'est connu par séquence en champ / contre-champ.  \nPour créer une séquence en champ / contre-champ, enregistrez deux plans à la fois à l'esprit. Considérons cet exemple où un cinéaste prend un champ / contrechamp de quelqu'un qui tape sur son clavier.",
     "sequences::quiz_card_4::question": "Quels types de Plans fonctionnent mieux pour un plan de Champ/contre-champ",
     "sequences::quiz_card_2::choices[1]::text": "3 Plans",
     "sequences::preview_card_3::header": "Nous aurons besoin de voir une personne en train de payer le fruit.",
