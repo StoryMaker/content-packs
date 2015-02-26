@@ -103,7 +103,7 @@
             type: MarkDownCard
             body: |   
                 ## Shot/Reverse Shot Sequences  
-                !(7.png)  
+                ![](7.png)  
                 If you want to show an action occurring from different angles at the same time, you must film them separately. This is known as a shot/reverse shot sequence.  
                 To create a shot/reverse shot sequence, record two shots with both in mind. Consider this example where a filmmaker shoots a basic shot/reverse shot of someone typing on their keyboard.  
 

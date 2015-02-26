@@ -15,7 +15,7 @@
             "id": "preview_card_0"
         }, 
         {
-            "text": "## Muri iki cigwa muzokwiga\nico mutegerezwa kwiyumvira imbere yo gutangura inkuru yawe\ngute wotegura inkuru yawe\ngute wiyumvira abo ushaka guha inkuru mumwanya umwe wiyumvira n\u2019inkuru yawe.", 
+            "text": "## Muri iki cigwa muzokwiga\n&bull; ico mutegerezwa kwiyumvira imbere yo gutangura inkuru yawe.\n&bull; gute wotegura inkuru yawe.\n&bull; gute wiyumvira abo ushaka guha inkuru mumwanya umwe wiyumvira n\u2019inkuru yawe.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
@@ -28,12 +28,12 @@
             "medium": "audio", 
             "media": [
                 {
-                    "media": "02.mp3", 
+                    "media": "2.mp3", 
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
             "header": "N\u2019ubuhe bwoko bwa segment y\u2019amajwi mutoshobora gukora iyaba mwari mwishamba?", 
-            "exampleMediaPath": "02.mp3", 
+            "exampleMediaPath": "2.mp3", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_1"
@@ -47,18 +47,18 @@
             "medium": "audio", 
             "media": [
                 {
-                    "media": "03.mp3", 
+                    "media": "3.mp3", 
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
             "header": "Akarorero k\u2019icegeranyo c\u2019amajwi y\u2019umuntu wambere.", 
-            "exampleMediaPath": "03.mp3", 
+            "exampleMediaPath": "3.mp3", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_2"
         }, 
         {
-            "text": "[itegurwa ry\u2019amajwi](4.png)\ntegura neza ngene uzofata amajwi imbere yuko utangura gufata amajwi. Iyo nteguro yawe itegerezwa kuba ifise.", 
+            "text": "![itegurwa ry\u2019amajwi](4.png)\ntegura neza ngene uzofata amajwi imbere yuko utangura gufata amajwi. Iyo nteguro yawe itegerezwa kuba ifise.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_3"
         }, 
