@@ -43,12 +43,12 @@
             "medium": "video", 
             "media": [
                 {
-                    "media": "03.mp4", 
+                    "media": "3.mp4", 
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
             "header": "Example of a beginning of an interview", 
-            "exampleMediaPath": "03.mp4", 
+            "exampleMediaPath": "3.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_1"
@@ -67,12 +67,12 @@
             "medium": "video", 
             "media": [
                 {
-                    "media": "04.mp4", 
+                    "media": "4.mp4", 
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
             "header": "Example of how to control an interview, probe and clarify", 
-            "exampleMediaPath": "04.mp4", 
+            "exampleMediaPath": "4.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_2"
@@ -86,12 +86,12 @@
             "medium": "video", 
             "media": [
                 {
-                    "media": "05.mp4", 
+                    "media": "5.mp4", 
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
             "header": "Example of asking a sensitive question and ending an interview", 
-            "exampleMediaPath": "05.mp4", 
+            "exampleMediaPath": "5.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_3"

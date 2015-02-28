@@ -78,12 +78,12 @@
             "medium": "video", 
             "media": [
                 {
-                    "media": "03.mp4", 
+                    "media": "3.mp4", 
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
             "header": "Les histoires les plus  impliqu\u00e9s ou longues peuvent exiger plus de rapports avec une plus grande vari\u00e9t\u00e9 de sources avant et apr\u00e8s un \u00e9v\u00e9nement.  ", 
-            "exampleMediaPath": "03.mp4", 
+            "exampleMediaPath": "3.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_1"

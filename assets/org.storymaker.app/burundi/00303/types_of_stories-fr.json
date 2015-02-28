@@ -33,12 +33,12 @@
             "medium": "audio", 
             "media": [
                 {
-                    "media": "02.mp3", 
+                    "media": "2.mp3", 
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
             "header": "Exemple d'une Edition sp\u00e9ciale.  ", 
-            "exampleMediaPath": "02.mp3", 
+            "exampleMediaPath": "2.mp3", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_1"
@@ -57,12 +57,12 @@
             "medium": "audio", 
             "media": [
                 {
-                    "media": "03.mp3", 
+                    "media": "3.mp3", 
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
             "header": "Exemple d'un rapport sur un \u00e9v\u00e9nement.  ", 
-            "exampleMediaPath": "03.mp3", 
+            "exampleMediaPath": "3.mp3", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_2"
@@ -81,12 +81,12 @@
             "medium": "audio", 
             "media": [
                 {
-                    "media": "04.mp3", 
+                    "media": "4.mp3", 
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
             "header": "Exemple sur une histoire sur un probl\u00e8me.  ", 
-            "exampleMediaPath": "04.mp3", 
+            "exampleMediaPath": "4.mp3", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_3"
@@ -100,12 +100,12 @@
             "medium": "audio", 
             "media": [
                 {
-                    "media": "05.mp3", 
+                    "media": "5.mp3", 
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
             "header": "Exemple d'une histoire en utilisant des contributeurs multiples  ", 
-            "exampleMediaPath": "05.mp3", 
+            "exampleMediaPath": "5.mp3", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_4"

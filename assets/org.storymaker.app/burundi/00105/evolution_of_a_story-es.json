@@ -38,12 +38,12 @@
             "medium": "video", 
             "media": [
                 {
-                    "media": "03.mp4", 
+                    "media": "3.mp4", 
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
             "header": "Ejemplo de historia de noticia de \u00faltima hora", 
-            "exampleMediaPath": "03.mp4", 
+            "exampleMediaPath": "3.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_1"
@@ -57,12 +57,12 @@
             "medium": "video", 
             "media": [
                 {
-                    "media": "04.mp4", 
+                    "media": "4.mp4", 
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
             "header": "Ejemplo de historia de un evento", 
-            "exampleMediaPath": "04.mp4", 
+            "exampleMediaPath": "4.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_2"
@@ -76,12 +76,12 @@
             "medium": "video", 
             "media": [
                 {
-                    "media": "05.mp4", 
+                    "media": "5.mp4", 
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
             "header": "Ejemplo de una historia de reportaje", 
-            "exampleMediaPath": "05.mp4", 
+            "exampleMediaPath": "5.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_3"
@@ -95,12 +95,12 @@
             "medium": "video", 
             "media": [
                 {
-                    "media": "06.mp4", 
+                    "media": "6.mp4", 
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
             "header": "Ejemplo de una historia de perfil personal", 
-            "exampleMediaPath": "06.mp4", 
+            "exampleMediaPath": "6.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_4"

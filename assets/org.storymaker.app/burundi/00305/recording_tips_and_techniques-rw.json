@@ -33,12 +33,12 @@
             "medium": "audio", 
             "media": [
                 {
-                    "media": "03.mp3", 
+                    "media": "3.mp3", 
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
             "header": "Akarorero kingene umuntu yirinda urwamo ruterwa n'jwi.  ", 
-            "exampleMediaPath": "03.mp3", 
+            "exampleMediaPath": "3.mp3", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_1"
@@ -67,12 +67,12 @@
             "medium": "audio", 
             "media": [
                 {
-                    "media": "06.mp3", 
+                    "media": "6.mp3", 
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
             "header": "Akarorero kamajwi arekurwa navyavyuma bikanyisha amazu bita air-conditionne mururimi rw'igifaransa  ", 
-            "exampleMediaPath": "06.mp3", 
+            "exampleMediaPath": "6.mp3", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_2"
