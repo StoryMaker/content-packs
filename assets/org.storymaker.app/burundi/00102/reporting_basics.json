@@ -78,12 +78,12 @@
             "medium": "video", 
             "media": [
                 {
-                    "media": "3.mp4", 
+                    "media": "2.mp4", 
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
             "header": "More involved or longer stories may require more reporting with a wider variety of sources before and after an event.", 
-            "exampleMediaPath": "3.mp4", 
+            "exampleMediaPath": "2.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_1"

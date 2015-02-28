@@ -78,12 +78,12 @@
             "medium": "video", 
             "media": [
                 {
-                    "media": "3.mp4", 
+                    "media": "2.mp4", 
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
             "header": "Izindi nkuru ndende canke zikomeye zishobora gusaba gutangwa hakoreshejwe uburyo bundi butandukanye bwokuzirondera imbere canke inyuma yuko ikintu kiba.  ", 
-            "exampleMediaPath": "3.mp4", 
+            "exampleMediaPath": "2.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_1"
