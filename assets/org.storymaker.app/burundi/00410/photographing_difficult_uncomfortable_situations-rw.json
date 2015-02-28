@@ -8,34 +8,34 @@
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
-            "header": "Mbe nokora iki mugihe umuntu adashaka gufotorwa canke ibiringo  bigoye kwihanganamwo haba k'uwo mfotora canke jewe nyene?", 
+            "header": "Mbe nokora iki mugihe umuntu adashaka gufotorwa canke ibiringo  bigoye kwihanganamwo haba k'uwo mfotora canke jewe nyene?  ", 
             "exampleMediaPath": "1.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
         }, 
         {
-            "text": "## Muri kino cigwa uzokwiga:\n&bull; Ingene bafata amafoto y'ibintu bigoye canke nkoramutima.\n&bull; Ingene umenya ingene wayikoze ko bibabza abantu canke bibashira mumutego.\n&bull; Ingene umenya impengamiro zawe mukungene ukora ifoto.\n&bull; Ingene ukora mumutekano nk'umufotozi.\n&bull; Ingene wigira inama muburyo bwiza werekanamwo ivyabaye bibaje mw'ifoto.", 
+            "text": "## Muri kino cigwa uzokwiga:  \n&bull; Ingene bafata amafoto y'ibintu bigoye canke nkoramutima.  \n&bull; Ingene umenya ingene wayikoze ko bibabza abantu canke bibashira mumutego.  \n&bull; Ingene umenya impengamiro zawe mukungene ukora ifoto.  \n&bull; Ingene ukora mumutekano nk'umufotozi.  \n&bull; Ingene wigira inama muburyo bwiza werekanamwo ivyabaye bibaje mw'ifoto.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
         {
-            "text": "Abantu ntibasanzwe bakunda ko amafoto yabo afatwa. Ingene ivyabaye usanga bikaze, niko usanga no gufata amafoto bigoye. Impengamiro zacu ivyipfuzo dushaka gushiramwo munkuru birashobora gutuma bigora gucagura neza ingene dufata amafoto.", 
+            "text": "Abantu ntibasanzwe bakunda ko amafoto yabo afatwa. Ingene ivyabaye usanga bikaze, niko usanga no gufata amafoto bigoye. Impengamiro zacu ivyipfuzo dushaka gushiramwo munkuru birashobora gutuma bigora gucagura neza ingene dufata amafoto.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_1"
         }, 
         {
-            "text": "Mugihe uba mubantu ukoreramwo, hariho ingorane hisangije, nka:\n&bull; Wofotora abantu kandi batabishaka kuzifata?\n&bull; Wokwerekana  amafoto y'ikubagurana canke y'abapfuye?\n&bull; Wofasha umuntu yakomeretse canke womufotora?\nUmumenyeshamakuru afotora wese ategerezwa kwiyumvira ico yokora agarukiye kuvyo ubumenyi n'amategeko yemerwa n'ibijanye n'ukumenyesha inkuru.", 
+            "text": "Mugihe uba mubantu ukoreramwo, hariho ingorane hisangije, nka:  \n&bull; Wofotora abantu kandi batabishaka kuzifata?  \n&bull; Wokwerekana  amafoto y'ikubagurana canke y'abapfuye?  \n&bull; Wofasha umuntu yakomeretse canke womufotora?  \nUmumenyeshamakuru afotora wese ategerezwa kwiyumvira ico yokora agarukiye kuvyo ubumenyi n'amategeko yemerwa n'ibijanye n'ukumenyesha inkuru.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_2"
         }, 
         {
-            "text": "## Oroherezaz abantu.\nAri inkuru ncamugongo, abamenyashamakuru barabikorerako muga bafise umwanya muto kugira bakore amaraporo. Muga mugihe co gufata amasnamu y'ivyabaye, inkuru y'ingorane, canke y'abantu, utegerezwa kubanza gucangamura abantu. Sigura ingene ifoto izokoreshwa. Bwira abantu bikeya bikwerekeye. Muvugane mukiganiro., Ibi vyose bishobora kugufasha kuronka ifoto y'abantu banka gufotorwa. Ushobora gusenga vyorohereza abantu gukoresha amaterefone agezweho, mugihe abandi abandi batagufata nka nkama.", 
+            "text": "## Oroherezaz abantu  \nAri inkuru ncamugongo, abamenyashamakuru barabikorerako muga bafise umwanya muto kugira bakore amaraporo. Muga mugihe co gufata amasnamu y'ivyabaye, inkuru y'ingorane, canke y'abantu, utegerezwa kubanza gucangamura abantu. Sigura ingene ifoto izokoreshwa. Bwira abantu bikeya bikwerekeye. Muvugane mukiganiro., Ibi vyose bishobora kugufasha kuronka ifoto y'abantu banka gufotorwa. Ushobora gusenga vyorohereza abantu gukoresha amaterefone agezweho, mugihe abandi abandi batagufata nka nkama.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_3"
         }, 
         {
-            "text": "## Nugabanye kwibabaza canke kubabaza abandi.", 
+            "text": "## Nugabanye kwibabaza canke kubabaza abandi  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_4"
         }, 
@@ -47,7 +47,7 @@
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
-            "header": "Vugana n'umufashi w'amasanamu we yayafashe abakozweko n'impanuka canke ingorane.", 
+            "header": "Vugana n'umufashi w'amasanamu we yayafashe abakozweko n'impanuka canke ingorane.  ", 
             "exampleMediaPath": "3.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
@@ -61,24 +61,24 @@
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
-            "header": "Vugana n'umufashi w'amasanamu we yayafashe abakozweko n'impanuka canke ingorane.", 
+            "header": "Vugana n'umufashi w'amasanamu we yayafashe abakozweko n'impanuka canke ingorane.  ", 
             "exampleMediaPath": "4.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_2"
         }, 
         {
-            "text": "Utegerezwa iminsi yose kwitwararika ingaruka mugushira ahabona amafoto yafashwe y'abantu. Niwitwararike uriko ufata amafoto y'abantu bagize ivyago canke bashikiwe n'impanuka , na cane cane abana canke abantu batamenyereye kuvugira kubinyamakuru. Abantu bigenga bafise uburenganzira bwo kutaja ahabona burenze gusumba abo muri Leta canke abandi barondera ubutegetsi, bosha abandi canke bakeye kwumvirizwa.", 
+            "text": "Utegerezwa iminsi yose kwitwararika ingaruka mugushira ahabona amafoto yafashwe y'abantu. Niwitwararike uriko ufata amafoto y'abantu bagize ivyago canke bashikiwe n'impanuka , na cane cane abana canke abantu batamenyereye kuvugira kubinyamakuru. Abantu bigenga bafise uburenganzira bwo kutaja ahabona burenze gusumba abo muri Leta canke abandi barondera ubutegetsi, bosha abandi canke bakeye kwumvirizwa.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_5"
         }, 
         {
-            "text": "## N'ufate amasanamu bivanye n'uburyo\nNo mugihe ifoto izokwerekanwa iriko inkuru canke ikindi, urakeneye amafoto atandukanye uza gucaguramwo. Mugihe uriko uvuga kukintu kigoye, ama foto ategerezwa gutanga inkuru atakivuyeko. Ntiyoba nk'uko ataho ivuye. Uriko urerekana amafoto, abafotozi bategerezwa kwitwararika abayibona, akamaro k'inkuru, n'ingaruka ayo mafoto azogira.", 
+            "text": "## N'ufate amasanamu bivanye n'uburyo  \nNo mugihe ifoto izokwerekanwa iriko inkuru canke ikindi, urakeneye amafoto atandukanye uza gucaguramwo. Mugihe uriko uvuga kukintu kigoye, ama foto ategerezwa gutanga inkuru atakivuyeko. Ntiyoba nk'uko ataho ivuye. Uriko urerekana amafoto, abafotozi bategerezwa kwitwararika abayibona, akamaro k'inkuru, n'ingaruka ayo mafoto azogira.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_6"
         }, 
         {
-            "text": "## Tunganya impengamiro yawe", 
+            "text": "## Tunganya impengamiro yawe  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_7"
         }, 
@@ -90,19 +90,19 @@
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
-            "header": "Girana interview n'umufotozi yisanze afise ivyo ahengamiyeko mugikorwa.", 
+            "header": "Girana interview n'umufotozi yisanze afise ivyo ahengamiyeko mugikorwa.  ", 
             "exampleMediaPath": "5.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_3"
         }, 
         {
-            "text": "Niwimenye. Menya impengamiro zawe kandi ntubareke ngo ukore ivyo bashaka muburyo ubona ivyabaye. Umumenyeshamakuru afata amasanamu mwiza arondera ibintu mpurirwako vy'umuntu munkuru. Ubuntu ntibusiguwe n'imbibe z'ibihugu, amoko, poiltike, canke intara.", 
+            "text": "Niwimenye. Menya impengamiro zawe kandi ntubareke ngo ukore ivyo bashaka muburyo ubona ivyabaye. Umumenyeshamakuru afata amasanamu mwiza arondera ibintu mpurirwako vy'umuntu munkuru. Ubuntu ntibusiguwe n'imbibe z'ibihugu, amoko, poiltike, canke intara.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_8"
         }, 
         {
-            "text": "## Umutekano wawe", 
+            "text": "## Umutekano wawe  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_9"
         }, 
@@ -114,40 +114,40 @@
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
-            "header": "Nugirane interview n'umufotozi kubijanye no gufata amasanamu mubihe bigoye.", 
+            "header": "Nugirane interview n'umufotozi kubijanye no gufata amasanamu mubihe bigoye.  ", 
             "exampleMediaPath": "6.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_4"
         }, 
         {
-            "text": "Harivyo usanga bigoye gufata amasanamu kubera kubera atamutekano urimwo. Nta mufotozi numwe yategerezwa gukomereka. Mugufata amasanamu mubiringo bigoye, utegerezwa kuba ufise uburyo bwo kuhasohoka. Menya neza ko abasirikare nabajejwe umutekano bashobora kuba badashaka gufotorwa. Koresha ubwenge kubijanye nivyogushikira. \nKuba meze neza mumutwe n'ibimwe muvyo kwikingira navyo.\nNiwewe nyene utegerezwa kumenya aho ugarukiza. urashobora kwifatira ingingo nimba canke ryari ushira camera hasi hama ugafasha. Uzokwigira ingingo nziza nyinshi nziza wiyumviriye amateka yawe imbere y'uko wisanga mukiringo kigoye kigusaba gufataraho ingingo.\nUgukoresha iterefone igezwehovyokwosha kwishira mumitego irenze, wibaza ko uboneka bukebuke gusumba abakoresha ibi camera binini. Uraba magabo ntukengere urugero uriko urishira mumutego.", 
+            "text": "Harivyo usanga bigoye gufata amasanamu kubera kubera atamutekano urimwo. Nta mufotozi numwe yategerezwa gukomereka. Mugufata amasanamu mubiringo bigoye, utegerezwa kuba ufise uburyo bwo kuhasohoka. Menya neza ko abasirikare nabajejwe umutekano bashobora kuba badashaka gufotorwa. Koresha ubwenge kubijanye nivyogushikira.  \nKuba meze neza mumutwe n'ibimwe muvyo kwikingira navyo.  \nNiwewe nyene utegerezwa kumenya aho ugarukiza. urashobora kwifatira ingingo nimba canke ryari ushira camera hasi hama ugafasha. Uzokwigira ingingo nziza nyinshi nziza wiyumviriye amateka yawe imbere y'uko wisanga mukiringo kigoye kigusaba gufataraho ingingo.\nUgukoresha iterefone igezwehovyokwosha kwishira mumitego irenze, wibaza ko uboneka bukebuke gusumba abakoresha ibi camera binini. Uraba magabo ntukengere urugero uriko urishira mumutego.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_10"
         }, 
         {
-            "text": "## IBINTU VYO KWIBUKA\n&bull; Sigurira inkuru yawe abo ufotora.\n&bull; N'ukore mukworohereza abantu ingene bigenda.\n&bull; Nukore utuje ingene ubikora udafatiye kubishobisho vyawe.\n&bull; Umutekano wawe uza imbere.", 
+            "text": "## IBINTU VYO KWIBUKA  \n&bull; Sigurira inkuru yawe abo ufotora.  \n&bull; N'ukore mukworohereza abantu ingene bigenda.  \n&bull; Nukore utuje ingene ubikora udafatiye kubishobisho vyawe.  \n&bull; Umutekano wawe uza imbere.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_11"
         }, 
         {
             "correctRequired": 1, 
-            "question": "Ni ikihe kintu wokora kugira abanka gufotorwa boroherwe gusumba n'iciyumviro?", 
+            "question": "Ni ikihe kintu wokora kugira abanka gufotorwa boroherwe gusumba n'iciyumviro?  ", 
             "choices": [
                 {
-                    "text": "Basigurire ingene ayo mafoto azokoreshwa.", 
+                    "text": "Basigurire ingene ayo mafoto azokoreshwa.  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "N'ukubamenyesha kwari akaryo ko kugira bashire ahabona akababakiye bishobora kubagirira akamaro.", 
+                    "text": "N'ukubamenyesha kwari akaryo ko kugira bashire ahabona akababakiye bishobora kubagirira akamaro.  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Nimwumvikane gatoya ingene ifoto iza gufatwa wanashima ingene ikoreshwa.", 
+                    "text": "Nimwumvikane gatoya ingene ifoto iza gufatwa wanashima ingene ikoreshwa.  ", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Ibiri hejuru vyose", 
+                    "text": "Ibiri hejuru vyose.  ", 
                     "id": "answer_4"
                 }
             ], 
@@ -159,14 +159,14 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Nivyo canke sivyo: Ni sawa kuba ufise urukurikirane rufatiye kuvyiyumviro vyawe nivya politike ushaka gukorera kukintu kanaka.", 
+            "question": "Nivyo canke sivyo: Ni sawa kuba ufise urukurikirane rufatiye kuvyiyumviro vyawe nivya politike ushaka gukorera kukintu kanaka.  ", 
             "choices": [
                 {
-                    "text": "Nivyo", 
+                    "text": "Nivyo  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Sivyo", 
+                    "text": "Sivyo  ", 
                     "id": "answer_2"
                 }
             ], 
@@ -178,22 +178,22 @@
         }, 
         {
             "correctRequired": 2, 
-            "question": "Ni ibihe mubikurukira ari ngirakamaro gufata nkankama mugihe ufata amasanamu mubiringo bigoye ( zishobora kurenga imwe).", 
+            "question": "Ni ibihe mubikurukira ari ngirakamaro gufata nkankama mugihe ufata amasanamu mubiringo bigoye ( zishobora kurenga imwe).  ", 
             "choices": [
                 {
-                    "text": "umufotozi ategerezwa gutahura amateka y'abenegihugu bigenga mugufata amafoto.", 
+                    "text": "umufotozi ategerezwa gutahura amateka y'abenegihugu bigenga mugufata amafoto.  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Wategerezwa kumenya umutekano wawe.", 
+                    "text": "Wategerezwa kumenya umutekano wawe.  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Ntufate amasanamu mugihe bishobora kubabaza umuntu.", 
+                    "text": "Ntufate amasanamu mugihe bishobora kubabaza umuntu.  ", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Ibiri hejuru vyose", 
+                    "text": "Ibiri hejuru vyose.  ", 
                     "id": "answer_4"
                 }
             ], 
@@ -207,5 +207,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "photographing_difficult_uncomfortable_situations", 
-    "title": "Ibiringo bigoye mugufata amafoto."
+    "title": "Ibiringo bigoye mugufata amafoto.  "
 }

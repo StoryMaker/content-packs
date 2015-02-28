@@ -130,7 +130,7 @@
             "id": "quiz_card_3"
         }, 
         {
-            "text": "!(11.jpg)  ", 
+            "text": "![](11.jpg)  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_8"
         }, 

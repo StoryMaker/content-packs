@@ -8,29 +8,29 @@
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
-            "header": "Encadrement du plan", 
+            "header": "Encadrement du plan  ", 
             "exampleMediaPath": "1.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
         }, 
         {
-            "text": "## Dans cette le\u00e7on vous allez apprendre:\n&bull; Une technique facile pour souligner l'\u00e9l\u00e9ment le plus important dans un clip vid\u00e9o.\n&bull; Comment cadrer la t\u00eate de votre sujet proprement.\n&bull; Comment cadrer votre sujet pour voir dans la bonne direction pour para\u00eetre naturel.", 
+            "text": "## Dans cette le\u00e7on vous allez apprendre:  \n&bull; Une technique facile pour souligner l'\u00e9l\u00e9ment le plus important dans un clip vid\u00e9o.  \n&bull; Comment cadrer la t\u00eate de votre sujet proprement.  \n&bull; Comment cadrer votre sujet pour voir dans la bonne direction pour para\u00eetre naturel.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
         {
-            "text": "Lorsque de nouveaux journalistes commencent \u00e0 enregistrer une vid\u00e9o, ils deviennent souvent frustr\u00e9s quand les clips qu'ils ont enregistr\u00e9 ne refl\u00e8tent pas les exp\u00e9riences qu'ils les avaient tir\u00e9. Le probl\u00e8me qu'ils rencontrent est la compr\u00e9hension que les cam\u00e9ras observent le monde tr\u00e8s diff\u00e9remment d'un humain. En apprenant quelques r\u00e8gles de base, vous pouvez apprendre \u00e0 enregistrer les \u00e9v\u00e9nements de fa\u00e7on \u00e0 permettre un auditoire de se concentrer sur les \u00e9l\u00e9ments sp\u00e9cifiques que vous voulez.", 
+            "text": "Lorsque de nouveaux journalistes commencent \u00e0 enregistrer une vid\u00e9o, ils deviennent souvent frustr\u00e9s quand les clips qu'ils ont enregistr\u00e9 ne refl\u00e8tent pas les exp\u00e9riences qu'ils les avaient tir\u00e9. Le probl\u00e8me qu'ils rencontrent est la compr\u00e9hension que les cam\u00e9ras observent le monde tr\u00e8s diff\u00e9remment d'un humain. En apprenant quelques r\u00e8gles de base, vous pouvez apprendre \u00e0 enregistrer les \u00e9v\u00e9nements de fa\u00e7on \u00e0 permettre un auditoire de se concentrer sur les \u00e9l\u00e9ments sp\u00e9cifiques que vous voulez.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_1"
         }, 
         {
-            "text": "!(2.png)\n### La r\u00e8gle de Hitchcock\n\"La taille d'un objet dans le cadre doit \u00eatre \u00e9gale \u00e0 son importance dans l'histoire \u00e0 ce moment.\"\n\u2014 Alfred Hitchcock", 
+            "text": "![](2.png)  \n### La r\u00e8gle de Hitchcock  \n\"La taille d'un objet dans le cadre doit \u00eatre \u00e9gale \u00e0 son importance dans l'histoire \u00e0 ce moment.\"  \n\u2014 Alfred Hitchcock", 
             "type": "MarkdownCard", 
             "id": "markdown_card_2"
         }, 
         {
-            "text": "Un des probl\u00e8mes les plus courants pour les d\u00e9butants\u00a0 c'est que\u00a0 leurs \u00e9l\u00e9ments les plus importants sont perdus dans le cadre. En s'assurant que votre objet le plus important remplit la majorit\u00e9 du cadre (comme dans 50 pour cent ou plus) votre public verra exactement ce que vous voulez dans votre plan.\nRegardons un exemple. Revoir ce plan et reflechissez \u00e0 ce que va \u00eatre le sujet de l'histoire.", 
+            "text": "Un des probl\u00e8mes les plus courants pour les d\u00e9butants\u00a0 c'est que\u00a0 leurs \u00e9l\u00e9ments les plus importants sont perdus dans le cadre. En s'assurant que votre objet le plus important remplit la majorit\u00e9 du cadre (comme dans 50 pour cent ou plus) votre public verra exactement ce que vous voulez dans votre plan.  \nRegardons un exemple. Revoir ce plan et reflechissez \u00e0 ce que va \u00eatre le sujet de l'histoire.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_3"
         }, 
@@ -42,14 +42,14 @@
                     "media_caption": null
                 }
             ], 
-            "header": "Utilisation du cadre", 
+            "header": "Utilisation du cadre  ", 
             "exampleMediaPath": "3.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_1"
         }, 
         {
-            "text": "Vous pouvez voir que vous allez probablement voir une histoire sur un march\u00e9, mais peut-\u00eatre c'est la femme qui fait des achats . Globalement, c'est un bon plan, mais il y'a quelques \u00e9l\u00e9ments en comp\u00e9tition pour votre attention.\nMaintenant examiner ce plan, et envisager le sujet de l'histoire .", 
+            "text": "Vous pouvez voir que vous allez probablement voir une histoire sur un march\u00e9, mais peut-\u00eatre c'est la femme qui fait des achats . Globalement, c'est un bon plan, mais il y'a quelques \u00e9l\u00e9ments en comp\u00e9tition pour votre attention.  \nMaintenant examiner ce plan, et envisager le sujet de l'histoire.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_4"
         }, 
@@ -61,65 +61,65 @@
                     "media_caption": null
                 }
             ], 
-            "header": "Utilisation du cadre", 
+            "header": "Utilisation du cadre  ", 
             "exampleMediaPath": "4.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_2"
         }, 
         {
-            "text": "La pomme remplit plus de 50 pour cent de l'ensemble du cadre, afin que le public se concentre sur ce point. Comme l'histoire progresse pour discuter des pommes, le public comprend cette histoire sur les pommes. Qui rend ce plan r\u00e9ussi. Vous pouvez maintenant passer \u00e0 un autre coup, et mettre en \u00e9vidence le prochain \u00e9l\u00e9ment important dans votre histoire.\nla r\u00e8gle de Hitchcock fournit une base solide pour commencer \u00e0 faire de meilleures histoires vid\u00e9o. Espace de nez et de l'espace de t\u00eate sont deux autres r\u00e8gles importantes qui vous aideront \u00e0 organiser votre ch\u00e2ssis pour supporter votre histoire.", 
+            "text": "La pomme remplit plus de 50 pour cent de l'ensemble du cadre, afin que le public se concentre sur ce point. Comme l'histoire progresse pour discuter des pommes, le public comprend cette histoire sur les pommes. Qui rend ce plan r\u00e9ussi. Vous pouvez maintenant passer \u00e0 un autre coup, et mettre en \u00e9vidence le prochain \u00e9l\u00e9ment important dans votre histoire.  \nla r\u00e8gle de Hitchcock fournit une base solide pour commencer \u00e0 faire de meilleures histoires vid\u00e9o. Espace de nez et de l'espace de t\u00eate sont deux autres r\u00e8gles importantes qui vous aideront \u00e0 organiser votre ch\u00e2ssis pour supporter votre histoire.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_5"
         }, 
         {
-            "text": "## Espace du Nez\n!(5.png)\nLes plan les bien compos\u00e9s disposer d'un espace dans le sens vers lequel le sujet fait face ou se d\u00e9place.\n!(6.png)\nDans ce plan moyen, le sujet est sur la ligne droite de la r\u00e8gle des tiers. Il est en face \u00e0 la cot\u00e9  gauche du cadre. Vous pouvez voir la direction \u00e0 laquelle il est confront\u00e9 est l'endroit o\u00f9 sont les deux tiers restants du cadre.", 
+            "text": "## Espace du Nez  \n![](5.png)  \nLes plan les bien compos\u00e9s disposer d'un espace dans le sens vers lequel le sujet fait face ou se d\u00e9place.  \n![](6.png)  \nDans ce plan moyen, le sujet est sur la ligne droite de la r\u00e8gle des tiers. Il est en face \u00e0 la cot\u00e9  gauche du cadre. Vous pouvez voir la direction \u00e0 laquelle il est confront\u00e9 est l'endroit o\u00f9 sont les deux tiers restants du cadre.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_6"
         }, 
         {
-            "text": "S'il \u00e9tait face \u00e0 la direction oppos\u00e9e, vous pouvez soit lui demander de changer la direction il est confront\u00e9 et suivre le m\u00eame exemple, ou d'ajuster votre cadre, il devrait ressembler \u00e0 ceci:\n!(7.png)\nLe plan est cadr\u00e9 \u00e0 droite maintenant qu'il est en face \u00e0 la direction oppos\u00e9e.\nSuivre cette directive va assurer que votre sujet aura une place appropri\u00e9e en face d'eux. Vous pouvez \u00e9galement entendre cette r\u00e8gle d\u00e9nomm\u00e9e \u00abespace recherche\u00bb ou \u00abchambre de direction.\"", 
+            "text": "S'il \u00e9tait face \u00e0 la direction oppos\u00e9e, vous pouvez soit lui demander de changer la direction il est confront\u00e9 et suivre le m\u00eame exemple, ou d'ajuster votre cadre, il devrait ressembler \u00e0 ceci:  \n![](7.png)  \nLe plan est cadr\u00e9 \u00e0 droite maintenant qu'il est en face \u00e0 la direction oppos\u00e9e.  \nSuivre cette directive va assurer que votre sujet aura une place appropri\u00e9e en face d'eux. Vous pouvez \u00e9galement entendre cette r\u00e8gle d\u00e9nomm\u00e9e \u00abespace recherche\u00bb ou \u00abchambre de direction.\"  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_7"
         }, 
         {
-            "text": "### Espace de la t\u00eate\n!(8.png)\nl'espace de la t\u00eate est la distance entre la distance entre le sommet de la t\u00eate d'un sujet et la partie sup\u00e9rieure du cadre. C'est une ligne directrice pour s'assurer que la t\u00eate de votre sujet ne semble pas \u00e9lev\u00e9 ou trop bas dans le cadre.", 
+            "text": "### Espace de la t\u00eate  \n![](8.png)  \nl'espace de la t\u00eate est la distance entre la distance entre le sommet de la t\u00eate d'un sujet et la partie sup\u00e9rieure du cadre. C'est une ligne directrice pour s'assurer que la t\u00eate de votre sujet ne semble pas \u00e9lev\u00e9 ou trop bas dans le cadre.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_8"
         }, 
         {
-            "text": "!(9.png)\n!(10.png)\nTous ces trois plans diff\u00e9rents poss\u00e8dent de diff\u00e9rents espace de t\u00eate. Mais dans chacun d'eux le point focal de l'objet repose sur la ligne sup\u00e9rieure. l'espace de la t\u00eate est un \u00e9quilibre de la r\u00e8gle des tiers et le haut du cadre.", 
+            "text": "![](9.png)  \n![](10.png)  \nTous ces trois plans diff\u00e9rents poss\u00e8dent de diff\u00e9rents espace de t\u00eate. Mais dans chacun d'eux le point focal de l'objet repose sur la ligne sup\u00e9rieure. l'espace de la t\u00eate est un \u00e9quilibre de la r\u00e8gle des tiers et le haut du cadre.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_9"
         }, 
         {
-            "text": "### R\u00e8gle des tiers\n!(11.png)\nCouper votre cadre en tiers verticalement et horizontalement, la grille cr\u00e9e quatre points d'int\u00e9r\u00eat. Ces quatre points sont l'endroit id\u00e9al pour les \u00e9l\u00e9ments importants de votre histoire quand vous les organiser dans votre cadre.\nEn utilisant ces points, vous divisez le cadre en tiers. Le cadre est ensuite s\u00e9par\u00e9e avec un tiers de l'espace d'un c\u00f4t\u00e9, et deux tiers \u00e0 l'autre. Cette r\u00e9partition in\u00e9gale permet de d\u00e9placer l'oeil \u00e0 travers le cadre, ainsi que autour de lui.", 
+            "text": "### R\u00e8gle des tiers  \n![](11.png)  \nCouper votre cadre en tiers verticalement et horizontalement, la grille cr\u00e9e quatre points d'int\u00e9r\u00eat. Ces quatre points sont l'endroit id\u00e9al pour les \u00e9l\u00e9ments importants de votre histoire quand vous les organiser dans votre cadre.  \nEn utilisant ces points, vous divisez le cadre en tiers. Le cadre est ensuite s\u00e9par\u00e9e avec un tiers de l'espace d'un c\u00f4t\u00e9, et deux tiers \u00e0 l'autre. Cette r\u00e9partition in\u00e9gale permet de d\u00e9placer l'oeil \u00e0 travers le cadre, ainsi que autour de lui.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_10"
         }, 
         {
-            "text": "## A NE PAS OUBLIER\n&bull; Si vous ne autorisez pas l'espace de nez, votre sujet peut sembler en train de parler \u00e0 quelqu'un d'autre.\n&bull; Lorsque votre sujet appara\u00eet \u00e9troit dans le cadre le public sera distrait.\n&bull; Si vous ne laissez pas l'espace de t\u00eate appropri\u00e9e, la t\u00eate de votre sujet sera coup\u00e9e, ou leur t\u00eate sera tr\u00e8s faible dans le cadre. Ces deux \u00e9l\u00e9ments sont des sources de distraction pour un public.", 
+            "text": "## A NE PAS OUBLIER  \n&bull; Si vous ne autorisez pas l'espace de nez, votre sujet peut sembler en train de parler \u00e0 quelqu'un d'autre.  \n&bull; Lorsque votre sujet appara\u00eet \u00e9troit dans le cadre le public sera distrait.  \n&bull; Si vous ne laissez pas l'espace de t\u00eate appropri\u00e9e, la t\u00eate de votre sujet sera coup\u00e9e, ou leur t\u00eate sera tr\u00e8s faible dans le cadre. Ces deux \u00e9l\u00e9ments sont des sources de distraction pour un public.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_11"
         }, 
         {
             "correctRequired": 1, 
-            "question": "C'est quoi l'espace du nez?", 
+            "question": "C'est quoi l'espace du nez?  ", 
             "choices": [
                 {
-                    "text": "Mettre le nez du sujet \u00e0 la partie inf\u00e9rieure du cadre.", 
+                    "text": "Mettre le nez du sujet \u00e0 la partie inf\u00e9rieure du cadre.  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "L'espace entre le nez du sujet et de l'objectif de la cam\u00e9ra.", 
+                    "text": "L'espace entre le nez du sujet et de l'objectif de la cam\u00e9ra.  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Permettant pour l'espace dans le cadre dans le sens le sujet fait face ou en mouvement.", 
+                    "text": "Permettant pour l'espace dans le cadre dans le sens le sujet fait face ou en mouvement.  ", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Quelle place doit \u00eatre comprise entre vous et l'appareil.", 
+                    "text": "Quelle place doit \u00eatre comprise entre vous et l'appareil.  ", 
                     "id": "answer_4"
                 }
             ], 
@@ -131,22 +131,22 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "C'est quoi l'espace de la t\u00eate?", 
+            "question": "C'est quoi l'espace de la t\u00eate?  ", 
             "choices": [
                 {
-                    "text": "La distance entre les bras d'un sujet et le c\u00f4t\u00e9 du cadre.", 
+                    "text": "La distance entre les bras d'un sujet et le c\u00f4t\u00e9 du cadre.  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "L'espace entre votre t\u00eate et la cam\u00e9ra.", 
+                    "text": "L'espace entre votre t\u00eate et la cam\u00e9ra.  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "l'espace o\u00f9 vous mettez la t\u00eate du sujet.", 
+                    "text": "l'espace o\u00f9 vous mettez la t\u00eate du sujet.  ", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "La distance entre le sommet de la t\u00eate d'un sujet et la partie sup\u00e9rieure du cadre.", 
+                    "text": "La distance entre le sommet de la t\u00eate d'un sujet et la partie sup\u00e9rieure du cadre.  ", 
                     "id": "answer_4"
                 }
             ], 
@@ -159,5 +159,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "framing_your_shot", 
-    "title": "Cadrez votre plan"
+    "title": "Cadrez votre plan  "
 }

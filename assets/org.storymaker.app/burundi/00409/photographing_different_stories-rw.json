@@ -8,70 +8,70 @@
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
-            "header": "Mu bihe bitandukanye bivugwa mu biganiro n'abamenyashamakuru canke imwiyerekano hamwe n'amatora,nomenya gute amafoto umuntu ashirako?", 
+            "header": "Mu bihe bitandukanye bivugwa mu biganiro n'abamenyashamakuru canke imwiyerekano hamwe n'amatora,nomenya gute amafoto umuntu ashirako?  ", 
             "exampleMediaPath": "1.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
         }, 
         {
-            "text": "##Muri iki cigwa uzobona ibi:\n&bull;Ingene umuntu amenya ubwoko bw'amasanamu ajana n'inkuru.\n&bull;Ingene umuntu afata ifoto yo mu nkuru z'ingorane zisanzwe.\n&bull;Ingene umuntu afata ifoto ivuga umuntu.\n&bull;Ingene umuntu afata ifoto mu nkuru zisanzwe.\n&bull;ingene umuntu afata ifoto mu nkuru zihambaye.", 
+            "text": "## Muri iki cigwa uzobona ibi:  \n&bull; Ingene umuntu amenya ubwoko bw'amasanamu ajana n'inkuru.  \n&bull; Ingene umuntu afata ifoto yo mu nkuru z'ingorane zisanzwe.  \n&bull; Ingene umuntu afata ifoto ivuga umuntu.  \n&bull; Ingene umuntu afata ifoto mu nkuru zisanzwe.  \n&bull; Ingene umuntu afata ifoto mu nkuru zihambaye.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
         {
-            "text": "Amafoto y'abamenyeshamakuru arakurikiza amategeko.Abantu baziraba canke bazikora baba barindiriye kubona amafoto arimwo ubuhinga bivanye n'ibintu vyabaye.Abmenyeshamakuru bafata amafoto meza baba bazi ivyo bashiramwo nivyo bakurikiza.Ivyo bakoresha birafasha abamenyeshamakuru bashasha mu gufata amafoto canke baba bafise n'ibindi bakora mu nkuru akaba ata mwanya munini baronka gufata amafoto gusa.", 
+            "text": "Amafoto y'abamenyeshamakuru arakurikiza amategeko.Abantu baziraba canke bazikora baba barindiriye kubona amafoto arimwo ubuhinga bivanye n'ibintu vyabaye.Abmenyeshamakuru bafata amafoto meza baba bazi ivyo bashiramwo nivyo bakurikiza.Ivyo bakoresha birafasha abamenyeshamakuru bashasha mu gufata amafoto canke baba bafise n'ibindi bakora mu nkuru akaba ata mwanya munini baronka gufata amafoto gusa.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_1"
         }, 
         {
-            "text": "# Inkuru zivuga ibintu biriko biraba(2.jpg)\nAmatora imanza,amahuriro ya politike, izo nkuru ziriko ziraba nizo nyamukuru abafata amasanamu bakora.(3.jpg)Ifoto ifashwe neza iravuga gusumba ibintu vyanditse, irerekana inguvu hamwe n'uburemere bw'iyo nkuru.Ni ukwibaza ibintu bishobora kwerekana neza iyo nkuru muri rusangi; akenshi ni ukuvuga ifoto.Akarorero:&bull;mutora, kwerekana umuntu ariko arashira ijwi ryiwe mw'isandungu ubwa mbere.&bull;Ifoto y'uwuhiganirwa ikibanza c'umukuru w'igihugu ariko araramutsa umukuru w'ingabo.&bull;mu mahuriro ya politike ifoto y'umuntu ariko aragira imwiyerekano kandi ashavuye ari kumwe n'abandi.", 
+            "text": "# Inkuru zivuga ibintu biriko biraba  \n![](2.jpg)  \nAmatora imanza,amahuriro ya politike, izo nkuru ziriko ziraba nizo nyamukuru abafata amasanamu bakora.  \n![](3.jpg)  \nIfoto ifashwe neza iravuga gusumba ibintu vyanditse, irerekana inguvu hamwe n'uburemere bw'iyo nkuru.Ni ukwibaza ibintu bishobora kwerekana neza iyo nkuru muri rusangi; akenshi ni ukuvuga ifoto.Akarorero:  \n&bull;mutora, kwerekana umuntu ariko arashira ijwi ryiwe mw'isandungu ubwa mbere.  \n&bull; Ifoto y'uwuhiganirwa ikibanza c'umukuru w'igihugu ariko araramutsa umukuru w'ingabo.  \n&bull; Mu mahuriro ya politike ifoto y'umuntu ariko aragira imwiyerekano kandi ashavuye ari kumwe n'abandi.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_2"
         }, 
         {
-            "text": "#Inkuru ihambaye (4.jpg)\nInkuru zihambaye n'inkuru ziba zivuga ibintu biba bihjeje kuba.Inkuru zihambaye zivuga ibintu vyashitse bidateguwe mugabo bifise ikimazi mu kibano.Kenshi biraboneka ku masanamu tubona.\n(5.jpg)\n\nInkuru ihambaye ishobora kuvuga ku gisasu caturitse canke ahanut umusozi waguye ,umwuzure w'amazi canke umu nyepolitike yavuze ko ashaka kwitoza.Uwuftira ashobora gufata ifoto kugira yerekane uburemere bw'iyo nkuru.Ni ukwiyumvira ikintu kija imbere(Sujet) muri iyo nkuru hamwe n'ikintu nyamukuru kiyigize(Contexte).Kenshi na kenshi izo kuru zerekanwa iyo zimaze kuba.Ingene abantu bafata iyo nkuru-Inyuma y'iyo nkuru ingene abantu bayifata-birashobora guha uburemere izo foto.Abantu bariko abarakubira aho nyamugigima yaraye iciye ,canke abantu abryohewe inyuma yo gutsinad urugamba.", 
+            "text": "# Inkuru ihambaye  \n![](4.jpg)  \nInkuru zihambaye n'inkuru ziba zivuga ibintu biba bihjeje kuba.Inkuru zihambaye zivuga ibintu vyashitse bidateguwe mugabo bifise ikimazi mu kibano.Kenshi biraboneka ku masanamu tubona.  \n![](5.jpg)  \nInkuru ihambaye ishobora kuvuga ku gisasu caturitse canke ahanut umusozi waguye ,umwuzure w'amazi canke umu nyepolitike yavuze ko ashaka kwitoza. Uwuftira ashobora gufata ifoto kugira yerekane uburemere bw'iyo nkuru.Ni ukwiyumvira ikintu kija imbere muri iyo nkuru hamwe n'ikintu nyamukuru kiyigize.Kenshi na kenshi izo kuru zerekanwa iyo zimaze kuba.Ingene abantu bafata iyo nkuru-Inyuma y'iyo nkuru ingene abantu bayifata-birashobora guha uburemere izo foto.Abantu bariko abarakubira aho nyamugigima yaraye iciye ,canke abantu abryohewe inyuma yo gutsinad urugamba.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_3"
         }, 
         {
-            "text": "# Inkuru ku ngorane zisanwe(6.jpg)\nInkuru ku ngorane zisanzwe ntizivuga ikintu kinaka.Ingorane zisanzwe zishobora kuba  zivuga umuco mushasha-canke nk'ibura ry'amazi- canke inkintu nkoramutima kandi gitangaje-canke umuderi mushasha(7.jpg)\nInkuru ku ngorane zisasha niho abafata amafoto baba barindiriwe mu guhindura ubury bashobora gufatamwo amasanamu.Uribaza ikintu cotera ikibabagwe cinshi mu bantu babonye ifoto.Wiyumvire contexte ya mafoto yawe n'ikibabagwe c'abantu.Umwanya hamwe n'ibintu vyokwerekana iyo nkuru yawe bikaryohera abantu?", 
+            "text": "# Inkuru ku ngorane zisanwe  \n![](6.jpg)  \nInkuru ku ngorane zisanzwe ntizivuga ikintu kinaka. Ingorane zisanzwe zishobora kuba  zivuga umuco mushasha-canke nk'ibura ry'amazi- canke inkintu nkoramutima kandi gitangaje-canke umuderi mushasha.  \n![](7.jpg)  \nInkuru ku ngorane zisasha niho abafata amafoto baba barindiriwe mu guhindura ubury bashobora gufatamwo amasanamu.Uribaza ikintu cotera ikibabagwe cinshi mu bantu babonye ifoto. Wiyumvire contexte ya mafoto yawe n'ikibabagwe c'abantu. Umwanya hamwe n'ibintu vyokwerekana iyo nkuru yawe bikaryohera abantu?  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_4"
         }, 
         {
-            "text": "# Inkuru zivuga abantu(8.jpg)\nAbantu bafata amafoto barerekana 'portrait' kugira bavuge inkuru yashikiye umuntu canke bakerekana uwo muntu muyindi nkuru.Portrait eziri mu bwoko bubiri:iyo witeguriye n'iyindi yapfuye gufatwa.Iyo witeguriye bagushira imbere ya camera ukayiraba canke ukaraba hirya.(9.jpg)\n\nIyo rero witeguriye gufatwa ifoto uwuyifata ararondera umuco ukwiye kugira afate ifoto yerekana neza uwo muntu muri iyo nkuru igira ivugwe.Izo utiteguriye zerekana uwo muntu ari kukazi kajanye niyo nkuru.Abafotora kenshi bafata ayo ma foto y'ubwoko bubiri igihe cose bagira portrait.Ni vyiza kongeramwo ibintu bimwe bimwe bijanye n'iyo nkuru bizoha umuntu ayisoma ukumenya igituma uwo muntu ariko arerekanwa mu makuru.", 
+            "text": "# Inkuru zivuga abantu  \n![](8.jpg)  \nAbantu bafata amafoto barerekana 'portrait' kugira bavuge inkuru yashikiye umuntu canke bakerekana uwo muntu muyindi nkuru.Portrait eziri mu bwoko bubiri:iyo witeguriye n'iyindi yapfuye gufatwa.Iyo witeguriye bagushira imbere ya camera ukayiraba canke ukaraba hirya.  \n![](9.jpg)  \nIyo rero witeguriye gufatwa ifoto uwuyifata ararondera umuco ukwiye kugira afate ifoto yerekana neza uwo muntu muri iyo nkuru igira ivugwe.Izo utiteguriye zerekana uwo muntu ari kukazi kajanye niyo nkuru.Abafotora kenshi bafata ayo ma foto y'ubwoko bubiri igihe cose bagira portrait.Ni vyiza kongeramwo ibintu bimwe bimwe bijanye n'iyo nkuru bizoha umuntu ayisoma ukumenya igituma uwo muntu ariko arerekanwa mu makuru.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_5"
         }, 
         {
-            "text": "# Ifoto zakozwe\n(10.jpg)\nIbi bintu vyerekeye uburyo bwo gufata amafoto vyoroshe.Ntivyotuma uzazanirwa.Ni vyiza kumva ko abafata amafoto bafise uburenganzira bwo gukora amafoto.Ariko NTA NA RIMWE VYEMEWE mu nkuru zihambaye canke mu nkuru za misi yose.(11.jpg)\nRimwe na rimwe igihe umuntu bamuhaye igikorwa akora canke agira portrait, uwoufotora arashobora gukora ifoto-arasaba uwo ariko arafotora guhindukira canke kwegera ahari umuco, kugira yongeremwo umuco ,canke ashiremwo bintu bijanye n'iyo nkuru, canke asubiremwo ivyabaye.", 
+            "text": "# Ifoto zakozwe  \n![](10.jpg)  \nIbi bintu vyerekeye uburyo bwo gufata amafoto vyoroshe.Ntivyotuma uzazanirwa.Ni vyiza kumva ko abafata amafoto bafise uburenganzira bwo gukora amafoto.Ariko NTA NA RIMWE VYEMEWE mu nkuru zihambaye canke mu nkuru za misi yose.  \n![](11.jpg)  \nRimwe na rimwe igihe umuntu bamuhaye igikorwa akora canke agira portrait, uwoufotora arashobora gukora ifoto-arasaba uwo ariko arafotora guhindukira canke kwegera ahari umuco, kugira yongeremwo umuco ,canke ashiremwo bintu bijanye n'iyo nkuru, canke asubiremwo ivyabaye.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_6"
         }, 
         {
-            "text": "##Ibintu vyo kwitwararika&bull; Kumenya inkuru uriko uravuga biragufasha no kumenya ifoto ufata&bull;Inkuru zikomeye zijamwo amafoto akurikije amategeko menshi gusumba inkuru zivuga ku bintu bihinduka mu mibano.&bull;amafoto y'inkuru nshasha ntkuyandira.Amafoto yerekana abantu arashobora guhindurwa.", 
+            "text": "##Ibintu vyo kwitwararika  \n&bull; Kumenya inkuru uriko uravuga biragufasha no kumenya ifoto ufata.  \n&bull; Inkuru zikomeye zijamwo amafoto akurikije amategeko menshi gusumba inkuru zivuga ku bintu bihinduka mu mibano.  \n&bull; Amafoto y'inkuru nshasha ntkuyandira. Amafoto yerekana abantu arashobora guhindurwa.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_7"
         }, 
         {
             "correctRequired": 1, 
-            "question": "Mu gihe uriko urafata isanamu y'ikiganiro n'abamenyeshamakuru ni ukugerageza gufata amasanamu akurikira?", 
+            "question": "Mu gihe uriko urafata isanamu y'ikiganiro n'abamenyeshamakuru ni ukugerageza gufata amasanamu akurikira?  ", 
             "choices": [
                 {
-                    "text": "Gufata ifoto y'umuntu wese umwegereye gusumba ifoto y'abantu bose iri hamwe.", 
+                    "text": "Gufata ifoto y'umuntu wese umwegereye gusumba ifoto y'abantu bose iri hamwe.  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Gufata ifoto utumbereye gusumba kuyifatira mu musaya w'iburyo canke ibubamfu", 
+                    "text": "Gufata ifoto utumbereye gusumba kuyifatira mu musaya w'iburyo canke ibubamfu  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Gufata ifoto mu murwi'Groupe photo'", 
+                    "text": "Gufata ifoto mu murwi'Groupe photo'.  ", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Ibiri hejuru vyose", 
+                    "text": "Ibiri hejuru vyose.  ", 
                     "id": "answer_4"
                 }
             ], 
@@ -83,14 +83,14 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Nivyo canke sivyo:Ni sawa kwerekana amafoto mu makuru asanzwe.", 
+            "question": "Nivyo canke sivyo:Ni sawa kwerekana amafoto mu makuru asanzwe.  ", 
             "choices": [
                 {
-                    "text": "Nivyo", 
+                    "text": "Nivyo  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Sivyo", 
+                    "text": "Sivyo  ", 
                     "id": "answer_2"
                 }
             ], 
@@ -102,22 +102,22 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Muri ibi bikurikira n'ibihe vyerekana inkuru nziza ya portrait(birashobora kuba vyinshi)", 
+            "question": "Muri ibi bikurikira n'ibihe vyerekana inkuru nziza ya portrait (birashobora kuba vyinshi).", 
             "choices": [
                 {
-                    "text": "Uwuriko aravuga araba kamera ntahandi araba", 
+                    "text": "Uwuriko aravuga araba kamera ntahandi araba.  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Mu masanamu ntakintu na kimwe kijamwo gituma umuntu amenya igituma iyo nkuru iriko iravugwa mu makuru", 
+                    "text": "Mu masanamu ntakintu na kimwe kijamwo gituma umuntu amenya igituma iyo nkuru iriko iravugwa mu makuru.  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Ifoto irimwo igipfungu biragora kubona isura yuwo wafashe neza", 
+                    "text": "Ifoto irimwo igipfungu biragora kubona isura yuwo wafashe neza.  ", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Ntanimwe muri izo nyishu.", 
+                    "text": "Ntanimwe muri izo nyishu.  ", 
                     "id": "answer_4"
                 }
             ], 
@@ -130,5 +130,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "photographing_different_stories", 
-    "title": "Gufata amasanamu y'inkuru zitandukanye"
+    "title": "  Gufata amasanamu y'inkuru zitandukanye  "
 }

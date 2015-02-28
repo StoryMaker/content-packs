@@ -8,85 +8,85 @@
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
-            "header": "Comment fonctionne un cam\u00e9ra num\u00e9rique?", 
+            "header": "Comment fonctionne un cam\u00e9ra num\u00e9rique?  ", 
             "exampleMediaPath": "1.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
         }, 
         {
-            "text": "## Dans Cette le\u00e7on vous allez apprendre:\n&bull; Comment fonctionne la cam\u00e9ra dans votre portable.\n&bull; C'est quoi l'obturateur, l'ouverture et l'ISO.\n&bull; Une introduction au triangle d'exposition", 
+            "text": "## Dans Cette le\u00e7on vous allez apprendre:  \n&bull; Comment fonctionne la cam\u00e9ra dans votre portable.  \n&bull; C'est quoi l'obturateur, l'ouverture et l'ISO.  \n&bull; Une introduction au triangle d'exposition.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
         {
-            "text": "![Exemple de Capteur](2.png)\nUne grande partie de comprendre comment fonctionne un appareil photo et comment l'utiliser c'est de comprendre ce qu'elle ne fait pas bien par rapport \u00e0 l'\u0153il de l'\u00eatre humain. Votre \u0153il peut voir les d\u00e9tails dans les lieux avec un contraste extr\u00eame - points forts au sommet d'une montagne enneig\u00e9e, par exemple, et les ombres sombres dans l' entr\u00e9e de la grotte dans le c\u00f4t\u00e9 de cette m\u00eame montagne. Les appareils photo num\u00e9riques ne peuvent pas toujours voir les d\u00e9tails visibles \u00e0 vos yeux. Les images apparaissent souvent trop claire ou trop sombre.\nVotre \u0153il est rapide \u00e0 se concentrer sur une unique point d'int\u00e9r\u00eat dans votre champ de vision. Un appareil photo num\u00e9rique doit \u00eatre dite o\u00f9 se concentrer, surtout en basse lumi\u00e8re, et peut \u00eatre lente \u00e0 se concentrer.", 
+            "text": "![Exemple de Capteur](2.png)  \nUne grande partie de comprendre comment fonctionne un appareil photo et comment l'utiliser c'est de comprendre ce qu'elle ne fait pas bien par rapport \u00e0 l'\u0153il de l'\u00eatre humain. Votre \u0153il peut voir les d\u00e9tails dans les lieux avec un contraste extr\u00eame - points forts au sommet d'une montagne enneig\u00e9e, par exemple, et les ombres sombres dans l' entr\u00e9e de la grotte dans le c\u00f4t\u00e9 de cette m\u00eame montagne. Les appareils photo num\u00e9riques ne peuvent pas toujours voir les d\u00e9tails visibles \u00e0 vos yeux. Les images apparaissent souvent trop claire ou trop sombre.  \nVotre \u0153il est rapide \u00e0 se concentrer sur une unique point d'int\u00e9r\u00eat dans votre champ de vision. Un appareil photo num\u00e9rique doit \u00eatre dite o\u00f9 se concentrer, surtout en basse lumi\u00e8re, et peut \u00eatre lente \u00e0 se concentrer.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_1"
         }, 
         {
-            "text": "![Exemple d'une photo mal-expos\u00e9e en basse lumi\u00e8re.](3.jpg)\nExemple d'une photo sous-expos\u00e9e en basse lumi\u00e8re.\n![Exemple d'une photo expos\u00e9e correctement en basse lumi\u00e8re.](4.jpg)\nExemple d'une photo expos\u00e9e correctement en basse lumi\u00e8re.", 
+            "text": "![Exemple d'une photo mal-expos\u00e9e en basse lumi\u00e8re.](3.jpg)  \nExemple d'une photo sous-expos\u00e9e en basse lumi\u00e8re.  \n![Exemple d'une photo expos\u00e9e correctement en basse lumi\u00e8re.](4.jpg)  \nExemple d'une photo expos\u00e9e correctement en basse lumi\u00e8re.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_2"
         }, 
         {
-            "text": "![Comment fonctionne une Cam\u00e9ra](5.png)\n## Comment fonctionne une Cam\u00e9ra\nUn appareil photo num\u00e9rique est tr\u00e8s simple. Il dispose d'un capteur num\u00e9rique qui recueille la lumi\u00e8re, un d\u00e9clencheur qui contr\u00f4le la dur\u00e9e pendant laquelle le capteur est expos\u00e9 \u00e0 la lumi\u00e8re, et une lentille pour commander la quantit\u00e9 de lumi\u00e8re qui frappe le capteur. Voici une br\u00e8ve explication de chaque.", 
+            "text": "![Comment fonctionne une Cam\u00e9ra](5.png)  \n## Comment fonctionne une Cam\u00e9ra  \nUn appareil photo num\u00e9rique est tr\u00e8s simple. Il dispose d'un capteur num\u00e9rique qui recueille la lumi\u00e8re, un d\u00e9clencheur qui contr\u00f4le la dur\u00e9e pendant laquelle le capteur est expos\u00e9 \u00e0 la lumi\u00e8re, et une lentille pour commander la quantit\u00e9 de lumi\u00e8re qui frappe le capteur. Voici une br\u00e8ve explication de chaque.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_3"
         }, 
         {
-            "text": "![Le capteur](6.png)\n## Le capteur\nComment le capteur de la cam\u00e9ra accepte la lumi\u00e8re:\n\nA. Lumi\u00e8re entrante\nB. filtres des couleurs\nC. La lumi\u00e8re est convertie en \u00e9lectricit\u00e9\nD. Le Capteur est compos\u00e9 des millions de pixels qui collectent la lumi\u00e8re.\n\nL'int\u00e9rieur de chaque appareil photo num\u00e9rique il y'a un capteur qui enregistre la lumi\u00e8re. Ces capteurs sont disponibles dans une vari\u00e9t\u00e9 de formes, tailles et conceptions. Les\u00a0plus grands capteurs\u00a0 sont mieux \u00e0 l'enregistrement de bonnes couleurs et des images nettes, surtout en basse lumi\u00e8re.", 
+            "text": "![Le capteur](6.png)  \n## Le capteur  \nComment le capteur de la cam\u00e9ra accepte la lumi\u00e8re:  \n  \nA. Lumi\u00e8re entrante  \nB. filtres des couleurs  \nC. La lumi\u00e8re est convertie en \u00e9lectricit\u00e9  \nD. Le Capteur est compos\u00e9 des millions de pixels qui collectent la lumi\u00e8re.  \n  \nL'int\u00e9rieur de chaque appareil photo num\u00e9rique il y'a un capteur qui enregistre la lumi\u00e8re. Ces capteurs sont disponibles dans une vari\u00e9t\u00e9 de formes, tailles et conceptions. Les\u00a0plus grands capteurs\u00a0 sont mieux \u00e0 l'enregistrement de bonnes couleurs et des images nettes, surtout en basse lumi\u00e8re.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_4"
         }, 
         {
-            "text": "![Utilisation de l'ISO dans des environnements diff\u00e9rents](7.png)\nLes capteurs num\u00e9riques peuvent \u00eatre fix\u00e9s \u00e0 diff\u00e9rents niveaux d'enregistrement, augmentant ou en diminuant leur sensibilit\u00e9 \u00e0 la lumi\u00e8re. Ce syst\u00e8me de r\u00e9glage de la sensibilit\u00e9 du capteur est appel\u00e9 l'ISO et est mesur\u00e9 en plage num\u00e9rique, g\u00e9n\u00e9ralement de 100 \u00e0 800 et plus sur l'appareil mobile. Votre ISO devrait \u00eatre plus \u00e9lev\u00e9 en basse lumi\u00e8re (800) et inf\u00e9rieur en pleine lumi\u00e8re (100). Votre appareil photo r\u00e8gle automatiquement l'ISO. Mais de nombreux appareils Android et les applications de l'appareil photo permettent de le r\u00e9gler manuellement.", 
+            "text": "![Utilisation de l'ISO dans des environnements diff\u00e9rents](7.png)  \nLes capteurs num\u00e9riques peuvent \u00eatre fix\u00e9s \u00e0 diff\u00e9rents niveaux d'enregistrement, augmentant ou en diminuant leur sensibilit\u00e9 \u00e0 la lumi\u00e8re. Ce syst\u00e8me de r\u00e9glage de la sensibilit\u00e9 du capteur est appel\u00e9 l'ISO et est mesur\u00e9 en plage num\u00e9rique, g\u00e9n\u00e9ralement de 100 \u00e0 800 et plus sur l'appareil mobile. Votre ISO devrait \u00eatre plus \u00e9lev\u00e9 en basse lumi\u00e8re (800) et inf\u00e9rieur en pleine lumi\u00e8re (100). Votre appareil photo r\u00e8gle automatiquement l'ISO. Mais de nombreux appareils Android et les applications de l'appareil photo permettent de le r\u00e9gler manuellement.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_5"
         }, 
         {
-            "text": "## l'obturateur\nLorsque vous appuyez sur le d\u00e9clencheur, l'appareil photo active le capteur. Il contr\u00f4le la dur\u00e9e pendant laquelle la lumi\u00e8re est absorb\u00e9e par le capteur. Ceci est appel\u00e9 la vitesse d'obturation. En photographie cela est mesur\u00e9e en fractions de seconde. L'obturateur permet aux photographes de geler une action. Si l'obturateur est trop lent, le mouvement du sujet peut \u00eatre enregistr\u00e9 par le capteur, le faisant appara\u00eetre floue. Vous ne pouvez pas avoir la gamme compl\u00e8te de fonctionnalit\u00e9s d'obturation sur votre appareil mobile.\nLa plupart des appareils mobiles ne vous permettront de contr\u00f4ler directement l'obturateur. Mais beaucoup de cam\u00e9ra et les applications Android offriront un pr\u00e9r\u00e9glage pour les photos d'action qui fonctionne en favorisant une vitesse d'obturation plus rapide dans le calcul de l'exposition.", 
+            "text": "## l'obturateur  \nLorsque vous appuyez sur le d\u00e9clencheur, l'appareil photo active le capteur. Il contr\u00f4le la dur\u00e9e pendant laquelle la lumi\u00e8re est absorb\u00e9e par le capteur. Ceci est appel\u00e9 la vitesse d'obturation. En photographie cela est mesur\u00e9e en fractions de seconde. L'obturateur permet aux photographes de geler une action. Si l'obturateur est trop lent, le mouvement du sujet peut \u00eatre enregistr\u00e9 par le capteur, le faisant appara\u00eetre floue. Vous ne pouvez pas avoir la gamme compl\u00e8te de fonctionnalit\u00e9s d'obturation sur votre appareil mobile.  \nLa plupart des appareils mobiles ne vous permettront de contr\u00f4ler directement l'obturateur. Mais beaucoup de cam\u00e9ra et les applications Android offriront un pr\u00e9r\u00e9glage pour les photos d'action qui fonctionne en favorisant une vitesse d'obturation plus rapide dans le calcul de l'exposition.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_6"
         }, 
         {
-            "text": "![Comment fonctionne l' ouverture d'une cam\u00e9ra](8.png)\n## L'ouverture\nL'ouverture est une petite valve ou diaphragme qui contr\u00f4le la quantit\u00e9 de lumi\u00e8re qui frappe la lentille de la cam\u00e9ra. Plus d'ouverture de valve, plus la lumi\u00e8re qui frappe le capteur. Quand l'ouverture est plus petite, moins de lumi\u00e8re frappe le capteur.", 
+            "text": "![Comment fonctionne l' ouverture d'une cam\u00e9ra](8.png)  \n## L'ouverture  \nL'ouverture est une petite valve ou diaphragme qui contr\u00f4le la quantit\u00e9 de lumi\u00e8re qui frappe la lentille de la cam\u00e9ra. Plus d'ouverture de valve, plus la lumi\u00e8re qui frappe le capteur. Quand l'ouverture est plus petite, moins de lumi\u00e8re frappe le capteur.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_7"
         }, 
         {
-            "text": "## Triangle de l\u2019\u00e9quilibre de l'exposition\n![Exemple sombre et flou.](9.jpg)\nExemple d'une photo non \u00e9quilibr\u00e9e.\n![Exemple net et lumineux.](10.jpg)\nExemple d'une photo \u00e9quilibr\u00e9e.\nLa cr\u00e9ation d'une image avec une exposition correcte est tr\u00e8s bien un jeu de manipuler ISO, l'ouverture et l'obturateur pour obtenir l'effet d\u00e9sir\u00e9. Les cam\u00e9ras plus chers fournissent au photographe un plus de contr\u00f4le manuel sur ces caract\u00e9ristiques, mais m\u00eame les smartphones maintenant vous permettent de r\u00e9gler l'exposition en changeant l'ISO ou de toucher l'\u00e9cran \u00e0 un point qui repr\u00e9sente une valeur d'exposition moyenne. Certains ont aussi zoom num\u00e9rique qui vous permettent d' agrandir ou de r\u00e9duire.", 
+            "text": "## Triangle de l\u2019\u00e9quilibre de l'exposition  \n![Exemple sombre et flou.](9.jpg)  \nExemple d'une photo non \u00e9quilibr\u00e9e.  \n![Exemple net et lumineux.](10.jpg)  \nExemple d'une photo \u00e9quilibr\u00e9e.  \nLa cr\u00e9ation d'une image avec une exposition correcte est tr\u00e8s bien un jeu de manipuler ISO, l'ouverture et l'obturateur pour obtenir l'effet d\u00e9sir\u00e9. Les cam\u00e9ras plus chers fournissent au photographe un plus de contr\u00f4le manuel sur ces caract\u00e9ristiques, mais m\u00eame les smartphones maintenant vous permettent de r\u00e9gler l'exposition en changeant l'ISO ou de toucher l'\u00e9cran \u00e0 un point qui repr\u00e9sente une valeur d'exposition moyenne. Certains ont aussi zoom num\u00e9rique qui vous permettent d' agrandir ou de r\u00e9duire.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_8"
         }, 
         {
-            "text": "## Working within limitations  \nUnderstanding these limitations and working within them is the key to getting the most out of your smartphone camera. Remember, if you have a smartphone and you need photos for your story, plan your coverage around time of day or lighting conditions if possible.  \n![Example of an unusable photo](11.jpg)  \nExample of an unusable photo.  \n![Usable example.](12.jpg)  \nExample of a balanced photo.  \nAdditionally, while the image of ambulances speeding by might be a great one for your story, you may opt to also take a more static picture of the front of the hospital to make sure you have a usable image in case the ambulance photo doesn\u2019t work out.", 
+            "text": "## Travailler dans les limites  \nLa compr\u00e9hension de ces limites et travailler dans ce limites est la cl\u00e9 pour obtenir le maximum de votre appareil photo du smartphone. Rappelez-vous, si vous avez un smartphone et vous avez besoin de photos de votre histoire, planifier votre couverture par rapport du temps du jour ou des conditions d'\u00e9clairage si possible.  \n![Exemple d'une photo inutilisable](11.jpg)  \nExemple d'une photo inutilisable  \n![Exemple net et lumineux.](12.jpg)  \nExemple d'une photo \u00e9quilibr\u00e9e.  \nEn outre, pendant que l'image d'ambulances par exc\u00e8s de vitesse pourrait \u00eatre un grand pour votre histoire, vous pouvez choisir de prendre \u00e9galement une image plus statique de la face de l'h\u00f4pital pour s'assurer que vous avez une image utilisable dans le cas o\u00f9 la photo de l'ambulance n'est pas utilisable.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_9"
         }, 
         {
-            "text": "## A NE PAS OUBLIER\n&bull; Les cam\u00e9ras des Smartphone\u00a0 sont limit\u00e9s dans ce qu'ils peuvent faire par rapport aux grandes appareils\u00a0 et certainement par rapport aux dSLRs\n&bull; Vous n'avez pas le m\u00eame degr\u00e9 de contr\u00f4le manuel avec un appareil photo de t\u00e9l\u00e9phone comme vous le faites avec une grande cam\u00e9ra ou dSLR\n&bull; Les cam\u00e9ras des Smartphones sont difficiles \u00e0 utiliser en lumi\u00e8re faible.\n&bull; Les cam\u00e9ras des Smartphones ont parfois du mal avec le mouvement rapide.", 
+            "text": "## A NE PAS OUBLIER  \n&bull; Les cam\u00e9ras des Smartphone\u00a0 sont limit\u00e9s dans ce qu'ils peuvent faire par rapport aux grandes appareils\u00a0 et certainement par rapport aux dSLRs  \n&bull; Vous n'avez pas le m\u00eame degr\u00e9 de contr\u00f4le manuel avec un appareil photo de t\u00e9l\u00e9phone comme vous le faites avec une grande cam\u00e9ra ou dSLR  \n&bull; Les cam\u00e9ras des Smartphones sont difficiles \u00e0 utiliser en lumi\u00e8re faible.  \n&bull; Les cam\u00e9ras des Smartphones ont parfois du mal avec le mouvement rapide.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_10"
         }, 
         {
             "correctRequired": 1, 
-            "question": "La cam\u00e9ra est limit\u00e9 dans sa capacit\u00e9 \u00e0 collecter la lumi\u00e8re dans laquelle des mani\u00e8res suivantes:", 
+            "question": "La cam\u00e9ra est limit\u00e9 dans sa capacit\u00e9 \u00e0 collecter la lumi\u00e8re dans laquelle des mani\u00e8res suivantes:  ", 
             "choices": [
                 {
-                    "text": "Elle n\u00e9cessite de lumi\u00e8re pour exposer une sc\u00e8ne plus qu'il n'en faut \u00e0 votre \u0153il pour le voir.", 
+                    "text": "Elle n\u00e9cessite de lumi\u00e8re pour exposer une sc\u00e8ne plus qu'il n'en faut \u00e0 votre \u0153il pour le voir.  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "La cam\u00e9ra lutte pour geler une action o\u00f9 votre \u0153il (et le cerveau) font facilement.", 
+                    "text": "La cam\u00e9ra lutte pour geler une action o\u00f9 votre \u0153il (et le cerveau) font facilement.  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Votre \u0153il peut d\u00e9cider d'ajuster le focus et rapidement; un appareil photo est plus lente et a besoin d'instructions sp\u00e9cifiques sur l'endroit o\u00f9 se concentrer.", 
+                    "text": "Votre \u0153il peut d\u00e9cider d'ajuster le focus et rapidement; un appareil photo est plus lente et a besoin d'instructions sp\u00e9cifiques sur l'endroit o\u00f9 se concentrer.  ", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Tout ce qui pr\u00e9c\u00e8de", 
+                    "text": "Tout ce qui pr\u00e9c\u00e8de  ", 
                     "id": "answer_4"
                 }
             ], 
@@ -98,14 +98,14 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Vrai ou Faux: La qualit\u00e9 d'image des Smartphone est fondamentalement la m\u00eame que de nombreux point-and-shoot et pro cam\u00e9ras. La diff\u00e9rence est que vous pouvez avoir aucun contr\u00f4le manuel de l'exposition, et la lentille et l'ouverture sont\u00a0 tr\u00e8s petites.", 
+            "question": "Vrai ou Faux: La qualit\u00e9 d'image des Smartphone est fondamentalement la m\u00eame que de nombreux point-and-shoot et pro cam\u00e9ras. La diff\u00e9rence est que vous pouvez avoir aucun contr\u00f4le manuel de l'exposition, et la lentille et l'ouverture sont\u00a0 tr\u00e8s petites.  ", 
             "choices": [
                 {
-                    "text": "Vrai", 
+                    "text": "Vrai  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Faux", 
+                    "text": "Faux  ", 
                     "id": "answer_2"
                 }
             ], 
@@ -117,22 +117,22 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Que se passe t-il lorsque vous appuyez sur le d\u00e9clencheur d'une cam\u00e9ra de smartphone?", 
+            "question": "Que se passe t-il lorsque vous appuyez sur le d\u00e9clencheur d'une cam\u00e9ra de smartphone?  ", 
             "choices": [
                 {
-                    "text": "Il prend la photo.", 
+                    "text": "Il prend la photo.  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Il focalise l'image.", 
+                    "text": "Il focalise l'image.  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Il d\u00e9cide l'exposition.", 
+                    "text": "Il d\u00e9cide l'exposition.  ", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Tout ce qui pr\u00e9c\u00e8de.", 
+                    "text": "Tout ce qui pr\u00e9c\u00e8de.  ", 
                     "id": "answer_4"
                 }
             ], 
@@ -145,5 +145,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "camera_basics", 
-    "title": "Les bases de la cam\u00e9ra"
+    "title": "Les bases de la cam\u00e9ra  "
 }

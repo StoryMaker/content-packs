@@ -8,29 +8,29 @@
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
-            "header": "Je n'ai jamais utilis\u00e9 une cam\u00e9ra. Quels sont les bases que je devrais savoir?", 
+            "header": "Je n'ai jamais utilis\u00e9 une cam\u00e9ra. Quels sont les bases que je devrais savoir?  ", 
             "exampleMediaPath": "1.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
         }, 
         {
-            "text": "## Dans cette le\u00e7on vous allez apprendre:\n&bull; Quelles sont les techniques fondamentales pour cr\u00e9er des vid\u00e9os clips de bonne qualit\u00e9.\n&bull; comment enregistrer assez de vid\u00e9o pour votre histoire.\n&bull; Comment tenir votre appareil photo stable.", 
+            "text": "## Dans cette le\u00e7on vous allez apprendre:  \n&bull; Quelles sont les techniques fondamentales pour cr\u00e9er des vid\u00e9os clips de bonne qualit\u00e9.  \n&bull; comment enregistrer assez de vid\u00e9o pour votre histoire.  \n&bull; Comment tenir votre appareil photo stable.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
         {
-            "text": "Les cam\u00e9ras per\u00e7oivent le monde diff\u00e9remment que l'\u0153il humain. En apprenant quelques r\u00e8gles de base, vous pouvez apprendre \u00e0 enregistrer les \u00e9v\u00e9nements de fa\u00e7on \u00e0 permettre un auditoire de se concentrer sur les \u00e9l\u00e9ments importants de votre histoire. Pour un examen approfondi de la fa\u00e7on dont les cam\u00e9ras travail, voir la le\u00e7on de base de l'appareil photo en photographie.\nEn plein tournage de votre vid\u00e9o, il peut \u00eatre difficile de savoir exactement ce que vous devriez enregistrer. Cela est particuli\u00e8rement vrai lorsque vous \u00eates d\u00e9butant. Il est facile d'\u00eatre frustr\u00e9, confus, et de ne pas avoir confiance en soi.", 
+            "text": "Les cam\u00e9ras per\u00e7oivent le monde diff\u00e9remment que l'\u0153il humain. En apprenant quelques r\u00e8gles de base, vous pouvez apprendre \u00e0 enregistrer les \u00e9v\u00e9nements de fa\u00e7on \u00e0 permettre un auditoire de se concentrer sur les \u00e9l\u00e9ments importants de votre histoire. Pour un examen approfondi de la fa\u00e7on dont les cam\u00e9ras travail, voir la le\u00e7on de base de l'appareil photo en photographie.  \nEn plein tournage de votre vid\u00e9o, il peut \u00eatre difficile de savoir exactement ce que vous devriez enregistrer. Cela est particuli\u00e8rement vrai lorsque vous \u00eates d\u00e9butant. Il est facile d'\u00eatre frustr\u00e9, confus, et de ne pas avoir confiance en soi.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_1"
         }, 
         {
-            "text": "Gardez trois choses \u00e0 l'esprit pendant que vous filmez pour devenir un vid\u00e9o-graphe efficace:\n&bull; Avoir un but\n&bull; Avoir  le contr\u00f4le\n&bull; Avoir un engagement", 
+            "text": "Gardez trois choses \u00e0 l'esprit pendant que vous filmez pour devenir un vid\u00e9o-graphe efficace:  \n&bull; Avoir un but  \n&bull; Avoir  le contr\u00f4le  \n&bull; Avoir un engagement  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_2"
         }, 
         {
-            "text": "# Avoir un but", 
+            "text": "# Avoir un but  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_3"
         }, 
@@ -42,19 +42,19 @@
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
-            "header": "Exemple d'un sujet cadr\u00e9 dans une sc\u00e8ne", 
+            "header": "Exemple d'un sujet cadr\u00e9 dans une sc\u00e8ne.  ", 
             "exampleMediaPath": "2.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_1"
         }, 
         {
-            "text": "## Conna\u00eetre ce que vous voulez enregistrer\n&bull; Faites tr\u00e8s attention \u00e0 l'action ou l'objet que vous souhaitez enregistrer, et assurez-vous que vous le pouvez voir clairement dans le cadre.", 
+            "text": "## Conna\u00eetre ce que vous voulez enregistrer  \n&bull; Faites tr\u00e8s attention \u00e0 l'action ou l'objet que vous souhaitez enregistrer, et assurez-vous que vous le pouvez voir clairement dans le cadre.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_4"
         }, 
         {
-            "text": "#  Avoir le contr\u00f4le", 
+            "text": "#  Avoir le contr\u00f4le  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_5"
         }, 
@@ -66,14 +66,14 @@
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
-            "header": "La bonne fa\u00e7on de tenir une cam\u00e9ra stable.", 
+            "header": "La bonne fa\u00e7on de tenir une cam\u00e9ra stable.  ", 
             "exampleMediaPath": "3.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_2"
         }, 
         {
-            "text": "## Garder votre cam\u00e9ra stable\n&bull; Utilisez votre corps pour bloquer la cam\u00e9ra, l'individu ci-dessus utilise le c\u00f4t\u00e9 de son corps afin de bloquer la cam\u00e9ra, tout en centrant la cam\u00e9ra en face de lui.\n&bull; N'oubliez pas de respirer. Vous pourriez \u00eatre tent\u00e9 de retenir votre souffle pour maintenir l'appareil de bouger, mais il est pr\u00e9f\u00e9rable de r\u00e9gler votre plan, respirer, et quand vous avez une vue stable, commencer l'enregistrement.", 
+            "text": "## Garder votre cam\u00e9ra stable  \n&bull; Utilisez votre corps pour bloquer la cam\u00e9ra, l'individu ci-dessus utilise le c\u00f4t\u00e9 de son corps afin de bloquer la cam\u00e9ra, tout en centrant la cam\u00e9ra en face de lui.  \n&bull; N'oubliez pas de respirer. Vous pourriez \u00eatre tent\u00e9 de retenir votre souffle pour maintenir l'appareil de bouger, mais il est pr\u00e9f\u00e9rable de r\u00e9gler votre plan, respirer, et quand vous avez une vue stable, commencer l'enregistrement.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_6"
         }, 
@@ -85,19 +85,19 @@
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
-            "header": "Exemple de la fa\u00e7on de bien montrer un mouvement dans un cadre sans le panoramique.", 
+            "header": "Exemple de la fa\u00e7on de bien montrer un mouvement dans un cadre sans le panoramique.  ", 
             "exampleMediaPath": "4.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_3"
         }, 
         {
-            "text": "# Ne pas filmer en panoramique\n&bull; D\u00e9placement de l'appareil photo cr\u00e9e beaucoup de mouvement dans le cadre. C'est souvent plus g\u00eanant que utile. Si vous voulez un autre angle, arr\u00eater l'enregistrement, changer votre cadre, et commencer l'enregistrement de votre nouvelle prise.", 
+            "text": "# Ne pas filmer en panoramique.  \n&bull; D\u00e9placement de l'appareil photo cr\u00e9e beaucoup de mouvement dans le cadre. C'est souvent plus g\u00eanant que utile. Si vous voulez un autre angle, arr\u00eater l'enregistrement, changer votre cadre, et commencer l'enregistrement de votre nouvelle prise.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_7"
         }, 
         {
-            "text": "# Avoir un Engagement\n!(5.png)\nAyez un objectif pour votre photo et enregistrer l'action compl\u00e8te. Savoir ce que vous essayez d'enregistrer avant de commencer vous permettra de savoir quand vous avez termin\u00e9 l'enregistrement.\nN\u2019arr\u00eatez pas l'enregistrement jusqu'\u00e0 ce que l'action soit termin\u00e9e.\nLorsque vous enregistrez une action, soyez s\u00fbr d'avoir l'enregistrement de la cam\u00e9ra pendant 5-10 secondes avant qu'il commence et continuer l'enregistrement pendant 5-10 secondes apr\u00e8s la fin de l'action. Voyant le action dans son ensemble permettra au public de comprendre.", 
+            "text": "# Avoir un Engagement    \n![](5.png)  \nAyez un objectif pour votre photo et enregistrer l'action compl\u00e8te. Savoir ce que vous essayez d'enregistrer avant de commencer vous permettra de savoir quand vous avez termin\u00e9 l'enregistrement.  \nN\u2019arr\u00eatez pas l'enregistrement jusqu'\u00e0 ce que l'action soit termin\u00e9e.  \nLorsque vous enregistrez une action, soyez s\u00fbr d'avoir l'enregistrement de la cam\u00e9ra pendant 5-10 secondes avant qu'il commence et continuer l'enregistrement pendant 5-10 secondes apr\u00e8s la fin de l'action. Voyant le action dans son ensemble permettra au public de comprendre.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_8"
         }, 
@@ -109,19 +109,19 @@
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
-            "header": "En voici un exemple sur la fa\u00e7on dont une action compl\u00e8te appara\u00eet dans un enregistrement.", 
+            "header": "En voici un exemple sur la fa\u00e7on dont une action compl\u00e8te appara\u00eet dans un enregistrement.  ", 
             "exampleMediaPath": "6.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_4"
         }, 
         {
-            "text": "L'action prise marque le pain avant il est cuit, et nous voyons l'ensemble du processus. Quand nous allons utiliser ce clip, il sera tr\u00e8s facile de couper dans un gros plan sur le pain \u00e9tant marqu\u00e9, ou un contre champ , inversant l'angle de la cam\u00e9ra pour enregistrer le sujet comment il effectue cette action. Ceci est possible car il contient une action compl\u00e8te.", 
+            "text": "L'action prise marque le pain avant il est cuit, et nous voyons l'ensemble du processus. Quand nous allons utiliser ce clip, il sera tr\u00e8s facile de couper dans un gros plan sur le pain \u00e9tant marqu\u00e9, ou un contre champ , inversant l'angle de la cam\u00e9ra pour enregistrer le sujet comment il effectue cette action. Ceci est possible car il contient une action compl\u00e8te.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_9"
         }, 
         {
-            "text": "Avant que ce plan a \u00e9t\u00e9 enregistr\u00e9, le vid\u00e9aste a encadr\u00e9 le plan et interagit avec son sujet pour expliquer ce qu'il essayait de documenter. Il peut \u00eatre n\u00e9cessaire de demander \u00e0 vos sujets de r\u00e9p\u00e9ter une action ou recr\u00e9er afin de le \u00a0documenter correctement, il. C'est OK tant que vous ne demandez pas \u00e0 quelqu'un de se repr\u00e9senter faussement.", 
+            "text": "Avant que ce plan a \u00e9t\u00e9 enregistr\u00e9, le vid\u00e9aste a encadr\u00e9 le plan et interagit avec son sujet pour expliquer ce qu'il essayait de documenter. Il peut \u00eatre n\u00e9cessaire de demander \u00e0 vos sujets de r\u00e9p\u00e9ter une action ou recr\u00e9er afin de le \u00a0documenter correctement, il. C'est OK tant que vous ne demandez pas \u00e0 quelqu'un de se repr\u00e9senter faussement.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_10"
         }, 
@@ -133,32 +133,32 @@
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
-            "header": "Exemple de l'enregistrement d'une action compl\u00e8te avec 5 secondes de pr\u00e9-tournage et post-tournage", 
+            "header": "Exemple de l'enregistrement d'une action compl\u00e8te avec 5 secondes de pr\u00e9-tournage et post-tournage  ", 
             "exampleMediaPath": "7.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_5"
         }, 
         {
-            "text": "!(8.png)\nTenez-vous devant ce que vous voulez filmer, pas sur le c\u00f4t\u00e9.", 
+            "text": "![](8.png)  \nTenez-vous devant ce que vous voulez filmer, pas sur le c\u00f4t\u00e9.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_11"
         }, 
         {
-            "text": "## A NE PAS OUBLIER\n&bull; Lorsque vous avez termin\u00e9 l'enregistrement, compter jusqu'\u00e0 cinq dans votre t\u00eate, puis arr\u00eater l'enregistrement. Cela fera en sorte que vous avez assez de mati\u00e8re \u00e0 la fin de votre clip de l'utiliser efficacement.\n&bull; Vous n'avez pas besoin d'enregistrer en permanence, mais parfois d'enregistrement pour une, deux ou m\u00eame cinq minutes est n\u00e9cessaire pour enregistrer une action dans son int\u00e9gralit\u00e9.\n&bull; \u00e7a doit \u00eatre \u00e9quilibr\u00e9 avec le fait que par enregistrer trop de mati\u00e8re, vous allez cr\u00e9er une barri\u00e8re pour partager rapidement vos histoires. Cherchez les pauses naturelles pour arr\u00eater l'enregistrement d'un clip et passer \u00e0 l'enregistrement d'un deuxi\u00e8me clip si vous sentez que votre clip est tr\u00e8s long.\n&bull; Pour \u00eatre utile, vos clips doivent durer au moins 15 secondes. Ind\u00e9pendamment de la fa\u00e7on dont l'action est courte vous filmez. Il est probable que les clips tr\u00e8s courts ne seront pas utiles.", 
+            "text": "## A NE PAS OUBLIER  \n&bull; Lorsque vous avez termin\u00e9 l'enregistrement, compter jusqu'\u00e0 cinq dans votre t\u00eate, puis arr\u00eater l'enregistrement. Cela fera en sorte que vous avez assez de mati\u00e8re \u00e0 la fin de votre clip de l'utiliser efficacement.  \n&bull; Vous n'avez pas besoin d'enregistrer en permanence, mais parfois d'enregistrement pour une, deux ou m\u00eame cinq minutes est n\u00e9cessaire pour enregistrer une action dans son int\u00e9gralit\u00e9.  \n&bull; \u00e7a doit \u00eatre \u00e9quilibr\u00e9 avec le fait que par enregistrer trop de mati\u00e8re, vous allez cr\u00e9er une barri\u00e8re pour partager rapidement vos histoires. Cherchez les pauses naturelles pour arr\u00eater l'enregistrement d'un clip et passer \u00e0 l'enregistrement d'un deuxi\u00e8me clip si vous sentez que votre clip est tr\u00e8s long.  \n&bull; Pour \u00eatre utile, vos clips doivent durer au moins 15 secondes. Ind\u00e9pendamment de la fa\u00e7on dont l'action est courte vous filmez. Il est probable que les clips tr\u00e8s courts ne seront pas utiles.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_12"
         }, 
         {
             "correctRequired": 1, 
-            "question": "Vrai ou Faux: l'enregistrement d'une action compl\u00e8te peut raconter une histoire avec un seul plan.", 
+            "question": "Vrai ou Faux: l'enregistrement d'une action compl\u00e8te peut raconter une histoire avec un seul plan.  ", 
             "choices": [
                 {
-                    "text": "Vrai", 
+                    "text": "Vrai  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Faux", 
+                    "text": "Faux  ", 
                     "id": "answer_2"
                 }
             ], 
@@ -170,22 +170,22 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Quel est la majorit\u00e9 du cadre?", 
+            "question": "Quel est la majorit\u00e9 du cadre?  ", 
             "choices": [
                 {
-                    "text": "10 pourcent", 
+                    "text": "10 pourcent  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "25 pourcent", 
+                    "text": "25 pourcent  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "33 pourcent", 
+                    "text": "33 pourcent  ", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "50 pour cent ou plus", 
+                    "text": "50 pour cent ou plus  ", 
                     "id": "answer_4"
                 }
             ], 
@@ -197,22 +197,22 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Pour combien de secondes faut-il s'attendre \u00e0 enregistrer avant et apr\u00e8s votre action attendue?", 
+            "question": "Pour combien de secondes faut-il s'attendre \u00e0 enregistrer avant et apr\u00e8s votre action attendue?  ", 
             "choices": [
                 {
-                    "text": "10 secondes avant, o secondes apr\u00e8s", 
+                    "text": "10 secondes avant, o secondes apr\u00e8s  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "0 secondes avant, 10 secondes apr\u00e8s", 
+                    "text": "0 secondes avant, 10 secondes apr\u00e8s  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "10 secondes avant, 10 secondes apr\u00e8s.", 
+                    "text": "10 secondes avant, 10 secondes apr\u00e8s  ", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "0 secondes avant, o secondes apr\u00e8s", 
+                    "text": "0 secondes avant, o secondes apr\u00e8s  ", 
                     "id": "answer_4"
                 }
             ], 
@@ -224,14 +224,14 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Est-il acceptable de demander \u00e0 vos sujets de r\u00e9p\u00e9ter une action ou de recr\u00e9er afin de la \u00a0documenter correctement?", 
+            "question": "Est-il acceptable de demander \u00e0 vos sujets de r\u00e9p\u00e9ter une action ou de recr\u00e9er afin de la \u00a0documenter correctement?  ", 
             "choices": [
                 {
-                    "text": "Oui, tant que vous ne demandez pas \u00e0 quelqu'un de se repr\u00e9senter faussement.", 
+                    "text": "Oui, tant que vous ne demandez pas \u00e0 quelqu'un de se repr\u00e9senter faussement.  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Non, vous devez jamais communiquer avec votre sujet.", 
+                    "text": "Non, vous devez jamais communiquer avec votre sujet.  ", 
                     "id": "answer_2"
                 }
             ], 
@@ -244,5 +244,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "video_basics", 
-    "title": "Les bases de la vid\u00e9o"
+    "title": "Les bases de la vid\u00e9o  "
 }

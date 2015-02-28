@@ -8,145 +8,145 @@
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
-            "header": "N'ibihe bintu bimwe bimwe nshingiro mugufata amafoto bikorana neza nk'uko vyateguwe? ", 
+            "header": "N'ibihe bintu bimwe bimwe nshingiro mugufata amafoto bikorana neza nk'uko vyateguwe?  ", 
             "exampleMediaPath": "1.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
         }, 
         {
-            "text": "## Muri kino cigwa uziga:\n&bull; Ingene umenya inkuru ishobora kuvugwa ukoresheje amshusho menshi\n&bull;  Uburyo butandukanye bwokerekana inkuru ivuzwe n'ashusho menshi\n&bull; Ingene utondeka mukwandika inkuru kw'ifoto\n&bull; Ingene utondeka amafoto yo murukurikirane", 
+            "text": "## Muri kino cigwa uziga:  \n&bull; Ingene umenya inkuru ishobora kuvugwa ukoresheje amshusho menshi  \n&bull; Uburyo butandukanye bwokerekana inkuru ivuzwe n'ashusho menshi  \n&bull; Ingene utondeka mukwandika inkuru kw'ifoto  \n&bull; Ingene utondeka amafoto yo murukurikirane  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
         {
-            "text": "Inkuru nyinshi ziherekezwa n'agafoto kamwe. Iyo foto ikeneye gutanga muncamake muga cadre kamwe.\n![Abakozi b'igipolisi ca New York City barasaka imiduga muri Columbus Circle kumunsi wa gatanu Gitugutu, italiki 7 2008. Umutekano mugisagara waduze kubera iryo tangazo ryatanzwe ejo kubera bikeka Abihevyi baca mumiduga.  (AP Photo/John Smock)(2.jpg) \n### !Abakozi b'igipolisi ca New York City barasaka imiduga muri Columbus Circle kumunsi wa gatanu Gitugutu, italiki 7 2008. Umutekano mugisagara waduze kubera iryo tangazo ryatanzwe ejo kubera bikeka Abihevyi baca mumiduga.  (AP Photo/John Smock)", 
+            "text": "Inkuru nyinshi ziherekezwa n'agafoto kamwe. Iyo foto ikeneye gutanga muncamake muga cadre kamwe.  \n![Abakozi b'igipolisi ca New York City barasaka imiduga muri Columbus Circle kumunsi wa gatanu Gitugutu, italiki 7 2008. Umutekano mugisagara waduze kubera iryo tangazo ryatanzwe ejo kubera bikeka Abihevyi baca mumiduga.  (AP Photo/John Smock)](2.jpg)  \n### Abakozi b'igipolisi ca New York City barasaka imiduga muri Columbus Circle kumunsi wa gatanu Gitugutu, italiki 7 2008. Umutekano mugisagara waduze kubera iryo tangazo ryatanzwe ejo kubera bikeka Abihevyi baca mumiduga. (AP Photo/John Smock)  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_1"
         }, 
         {
-            "text": "Ukwandika kw'ifoto irimwo amashusho menshi bshobora kuba igikoresho gikomeye mugutanga inkuru y'ibiboneka kuriyo nyene, canke mubindi biri muriyo nkuru. Ukwerekana murukurikirane amafoto biri mubikunzwe gusangwa kubuhinga ngurukana bumenyi kandi vyitaweho n'abenshi.\nAbanyshure bashaka kungana na 20 bariga ubuhinga bw'ukudandaza biciye mubinyamakuru kw'ishure ry'ishirahamwe DISC ry'i Cairo muri Egypt mukw icumi italiki22, 2012. Iryo shure ririgisha ubumenyashamakuru butandukanye n'ivyigwa vy'inyabwonko nyoroshi. ( John Smock/ Inkuru ziciye hagufi zo mw'isi)\n!(3.jpg)\n!(4.jpg) \n!(5.jpg) \n!(6.jpg) \n!(7.jpg) \n!(8.jpg) \n!(9.jpg) \n!(10.jpg) \nUkwandika kw'ifoto irimwo amashusho menshi bshobora kuba igikoresho gikomeye mugutanga inkuru y'ibiboneka kuriyo nyene, canke mubindi biri muriyo nkuru. Ukwerekana murukurikirane amafoto biri mubikunzwe gusangwa kubuhinga ngurukana bumenyi kandi vyitaweho n'abenshi.", 
+            "text": "Ukwandika kw'ifoto irimwo amashusho menshi bshobora kuba igikoresho gikomeye mugutanga inkuru y'ibiboneka kuriyo nyene, canke mubindi biri muriyo nkuru. Ukwerekana murukurikirane amafoto biri mubikunzwe gusangwa kubuhinga ngurukana bumenyi kandi vyitaweho n'abenshi.  \nAbanyshure bashaka kungana na 20 bariga ubuhinga bw'ukudandaza biciye mubinyamakuru kw'ishure ry'ishirahamwe DISC ry'i Cairo muri Egypt mukw icumi italiki22, 2012. Iryo shure ririgisha ubumenyashamakuru butandukanye n'ivyigwa vy'inyabwonko nyoroshi. (John Smock / Inkuru ziciye hagufi zo mw'isi)  \n![](3.jpg)  \n![](4.jpg)  \n![](5.jpg)  \n![](6.jpg)  \n![](7.jpg)  \n![](8.jpg)  \n![](9.jpg)  \n![](10.jpg)  \nUkwandika kw'ifoto irimwo amashusho menshi bshobora kuba igikoresho gikomeye mugutanga inkuru y'ibiboneka kuriyo nyene, canke mubindi biri muriyo nkuru. Ukwerekana murukurikirane amafoto biri mubikunzwe gusangwa kubuhinga ngurukana bumenyi kandi vyitaweho n'abenshi.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_2"
         }, 
         {
-            "text": "## Akarorero k'ukwandika neza kw'ifoto\nAbanyeshure baja kwiga kuri all-boys Eagle Academy for Young Men in Queens muri New York City, muri Ndamukiza italiki 12, 2006. Ishure rimwe mumashure matomato mugisagara agwanya igwirirana ry'abaheba benshibaciye mudushure dutoduto kandi atiga ibirengereye. (John Smock/Gates Foundation)\n!(11.jpg) \n!(12.jpg) \n!(13.jpg) \n!(14.jpg) \n!(15.jpg) \n!(16.jpg) \n!(17.jpg)", 
+            "text": "## Akarorero k'ukwandika neza kw'ifoto  \nAbanyeshure baja kwiga kuri all-boys Eagle Academy for Young Men in Queens muri New York City, muri Ndamukiza italiki 12, 2006. Ishure rimwe mumashure matomato mugisagara agwanya igwirirana ry'abaheba benshibaciye mudushure dutoduto kandi atiga ibirengereye. (John Smock/Gates Foundation)  \n![](11.jpg)  \n![](12.jpg)  \n![](13.jpg)  \n![](14.jpg)  \n![](15.jpg)  \n![](16.jpg)  \n![](17.jpg)  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_3"
         }, 
         {
-            "text": "Akarorero k'ifoto yanditsweko nabi\nAbandandaji bo kuri Pyramids i Giza muri Egypt bicara nk'imburakimazi kubera ubundandaji buke muri Gitugutu. Igitigiri c'abaza kubagendera kumusi bagabuwe nki 5000 baza kumusi kubera vyahindutse.\n!(18.jpg) \n!(19.jpg) \n!(20.jpg) \n!(21.jpg) \n!(22.jpg) \n!(23.jpg) \n!(24.jpg)", 
+            "text": "## Akarorero k'ifoto yanditsweko nabi  \nAbandandaji bo kuri Pyramids i Giza muri Egypt bicara nk'imburakimazi kubera ubundandaji buke muri Gitugutu. Igitigiri c'abaza kubagendera kumusi bagabuwe nki 5000 baza kumusi kubera vyahindutse.  \n![](18.jpg)  \n![](19.jpg)  \n![](20.jpg)  \n![](21.jpg)  \n![](22.jpg)  \n![](23.jpg)  \n![](24.jpg)  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_4"
         }, 
         {
-            "text": "Ukwandika kw'ifoto bisaba itondekwa n'ubutumwa bwumvikana. Ukwandika kw'ifoto bishobora gutondekwa muri buno buryo bubiri bukurikira: nk'itangwa ry'inkuru canke mumice. Tumbereza nn'amafoto ari hagati 5-8 muvy'ukora ubwanyuma. urashobora gukenera gufata menshi ushobora gukoresha.", 
+            "text": "Ukwandika kw'ifoto bisaba itondekwa n'ubutumwa bwumvikana. Ukwandika kw'ifoto bishobora gutondekwa muri buno buryo bubiri bukurikira: nk'itangwa ry'inkuru canke mumice. Tumbereza nn'amafoto ari hagati 5-8 muvy'ukora ubwanyuma. urashobora gukenera gufata menshi ushobora gukoresha.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_5"
         }, 
         {
-            "text": "Umuringoti upima imetero 10 mureburebure utwara igitoro ca Baku-Tblisi-Ceyan akoregwa mugihugu ca Georjiya hama agateranya munzira acamwo. \n!(25.jpg) \n!(26.jpg) \n!(27.jpg) \n!(28.jpg) \n!(29.jpg) \n!(30.jpg) \nUriko urategura inkuru yo kuvuga wategerezwa gukora umuheto ubivugiramwo, ubungane, igikorwa, ibivamwo, ahantu n'umukono. Niwibaze ibibazo vyo nyamukuru, bisumbije hamwe n'inyishu. Niwiyumviro iyo biva n'ico bivyara. Urukurikirane rwawe rwategerzwa gutanga inkuru muburyo buboneka muburyo buramvuye nk'uko inkuru ivuga mumajambo.", 
+            "text": "Umuringoti upima imetero 10 mureburebure utwara igitoro ca Baku-Tblisi-Ceyan akoregwa mugihugu ca Georjiya hama agateranya munzira acamwo.  \n![](25.jpg)  \n![](26.jpg)  \n![](27.jpg)  \n![](28.jpg)  \n![](29.jpg)  \n![](30.jpg)  \nUriko urategura inkuru yo kuvuga wategerezwa gukora umuheto ubivugiramwo, ubungane, igikorwa, ibivamwo, ahantu n'umukono. Niwibaze ibibazo vyo nyamukuru, bisumbije hamwe n'inyishu. Niwiyumviro iyo biva n'ico bivyara. Urukurikirane rwawe rwategerzwa gutanga inkuru muburyo buboneka muburyo buramvuye nk'uko inkuru ivuga mumajambo.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_6"
         }, 
         {
-            "text": "Ahari ububasha bwo gufata ifoto ni ubushobozi bwo kwerekana ivyo umuntu yabayemwo mw'isi. Inkuru zitewe neza zifatiye ukuntu usa nabakubona bakumenya. Abakwumviriza bakeneye umuntu canke ikintu bashobora kumenya kandi vyinjira mubwenge bwabo, niko gakwegakwego k'inkuru. Menya icarico bifasha gukwegakwega, bigatuma bayitaho.", 
+            "text": "Ahari ububasha bwo gufata ifoto ni ubushobozi bwo kwerekana ivyo umuntu yabayemwo mw'isi. Inkuru zitewe neza zifatiye ukuntu usa nabakubona bakumenya. Abakwumviriza bakeneye umuntu canke ikintu bashobora kumenya kandi vyinjira mubwenge bwabo, niko gakwegakwego k'inkuru. Menya icarico bifasha gukwegakwega, bigatuma bayitaho.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_7"
         }, 
         {
-            "text": "Hari uburyo bwinshi bwo gutondeka ingene utanga inkuru. Gira iciyumviro c'ivyo ugomba kwandika vyerekeye hama fata amashusho abitomora. Ishusho nshasha yoseyategerzwa kujamwo inkuru nshasha itangurira iyo nkuru. Ubwoko bw'inkuru bwerekanwa hepfo buragufasha kubikora. Rimwe na rimwe abafotora barashobora kuvanga ubu buryo bwose butanzwe ngaha munsi.", 
+            "text": "Hari uburyo bwinshi bwo gutondeka ingene utanga inkuru. Gira iciyumviro c'ivyo ugomba kwandika vyerekeye hama fata amashusho abitomora. Ishusho nshasha yoseyategerzwa kujamwo inkuru nshasha itangurira iyo nkuru. Ubwoko bw'inkuru bwerekanwa hepfo buragufasha kubikora. Rimwe na rimwe abafotora barashobora kuvanga ubu buryo bwose butanzwe ngaha munsi.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_8"
         }, 
         {
-            "text": "## Ibishimangiweko\nAbo muri Georjiya barahimbaza ibisikana k'ubutegetzi bw'umukuru w'igihugu Eduard Shevardnadze kuwa Munyonyonyo 23, 2003 muri Tbilisi, muri Georjiya.\n!(31.jpg) \n!(32.jpg) \n!(33.jpg) \n!(34.jpg) \n!(35.jpg) \n!(36.jpg) \n!(37.jpg)\nInkuru y'ifoto n'inkuru iba ishimangiweko; wategerezwa kwitwararika ibintu nyamukuru biboneka munkuru. Muga inkuru zimwe zimwe zitondetswe uburyo busanzwe mukwerekana akarongo k'inkuru nacane cane mukwerekana umwanya uhambaye canke uteye ubwoba munkuru.", 
+            "text": "## Ibishimangiweko  \nAbo muri Georjiya barahimbaza ibisikana k'ubutegetzi bw'umukuru w'igihugu Eduard Shevardnadze kuwa Munyonyonyo 23, 2003 muri Tbilisi, muri Georjiya.  \n![](31.jpg)  \n![](32.jpg)  \n![](33.jpg)  \n![](34.jpg)  \n![](35.jpg)  \n![](36.jpg)  \n![](37.jpg)  \nInkuru y'ifoto n'inkuru iba ishimangiweko; wategerezwa kwitwararika ibintu nyamukuru biboneka munkuru. Muga inkuru zimwe zimwe zitondetswe uburyo busanzwe mukwerekana akarongo k'inkuru nacane cane mukwerekana umwanya uhambaye canke uteye ubwoba munkuru.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_9"
         }, 
         {
-            "text": "## Ukwo bigenda\nGeorge Tanner akora impunzu agakora n'amakoti nk'uko yaramaze imyaka 30abikora mw'iduka ryiwe riri Fatbush, New York, kuwa Nyakanga 22 umwaka w'i 2011.\n!(38.jpg) \n!(39.jpg) \n!(40.jpg) \n!(41.jpg) \n!(42.jpg) \n!(43.jpg)\nUkwandika uburyo wakoze ifoto bwerekana ukuntu ikintu gikozwe kuva muntango gushika mumpera, akarorero, ukaraba ingene ikintugikoze, amatora akora, canke ingene bahagarika umuntu mubutungane.", 
+            "text": "## Ukwo bigenda  \nGeorge Tanner akora impunzu agakora n'amakoti nk'uko yaramaze imyaka 30abikora mw'iduka ryiwe riri Fatbush, New York, kuwa Nyakanga 22 umwaka w'i 2011.  \n![](38.jpg)  \n![](39.jpg)  \n![](40.jpg)  \n![](41.jpg)  \n![](42.jpg)  \n![](43.jpg)  \nUkwandika uburyo wakoze ifoto bwerekana ukuntu ikintu gikozwe kuva muntango gushika mumpera, akarorero, ukaraba ingene ikintugikoze, amatora akora, canke ingene bahagarika umuntu mubutungane.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_10"
         }, 
         {
-            "text": "Mohammed Assul amara umara umugoroba akorera i faluka kuri Nile y'Uruzi rw'i Cairo, muri Egypt kuwa Munyonyo itariki 24, 2012. Ubudandandaji bwaragabanutse, nikwo avuga, kuva igihe haba ihunduka mumwaka uheze.\n(John Smock/Small World News) \n!(44.jpg) \n!(45.jpg) \n!(46.jpg) \n!(47.jpg) \n!(48.jpg) \n!(49.jpg) \n!(50.jpg) \nVyaba vyo canke ibishushanyo, uraha umwanya wo gutondeka inkuru yawe. Uburyo bwiza bwo gutondeka inkuru yo kw'ifoto bivanye n'umwanya ni ubw'\u201cumunsi mubuzima\u201d", 
+            "text": "Mohammed Assul amara umara umugoroba akorera i faluka kuri Nile y'Uruzi rw'i Cairo, muri Egypt kuwa Munyonyo itariki 24, 2012. Ubudandandaji bwaragabanutse, nikwo avuga, kuva igihe haba ihunduka mumwaka uheze. (John Smock/Small World News)  \n![](44.jpg)  \n![](45.jpg)  \n![](46.jpg)  \n![](47.jpg)  \n![](48.jpg)  \n![](49.jpg)  \n![](50.jpg)  \nVyaba vyo canke ibishushanyo, uraha umwanya wo gutondeka inkuru yawe. Uburyo bwiza bwo gutondeka inkuru yo kw'ifoto bivanye n'umwanya ni ubw'\u201cumunsi mubuzima\u201d.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_11"
         }, 
         {
-            "text": "# Ukwerekana urukurikirane\nIbigo bimenyasha amakuru birafise ubuhinga bwo gufata amafoto bisabwa n'ukwandika amafoto meza canke urukurikirane rwayo. Ubwo buhinga bujejwe gufasha abafotora kwirinda kugira vyabindi kandi ziba zipanze neza. Urukurukirane rw'amafoto rwiza amwe araza ayandi asohoka. Nkuko abamvuriza inkuru bakurikirana inkuru, amashusho araza akagukahama agasubira inyuma,  bikabandanya guco. Uyu muzo wisubirizabituma abaraba baguma baraba baraba kw'ishusho ikurikira.\nNg'ubu ubuhinga kumashusho atandukanye agira urukurikirane rwiza. N'umenye neza gufata amashusho mumurwi wose muguha urukurikirane rwawe urutonde ruboneka; ubutandukane bw'amasanamu  butanga inkuru yikwije. (RABA NEZA: ubu buhinga ntibukora kunkuru ntomozi, kenshi usanga ari uruvange rw'amafoto meza): ", 
+            "text": "# Ukwerekana urukurikirane  \nIbigo bimenyasha amakuru birafise ubuhinga bwo gufata amafoto bisabwa n'ukwandika amafoto meza canke urukurikirane rwayo. Ubwo buhinga bujejwe gufasha abafotora kwirinda kugira vyabindi kandi ziba zipanze neza. Urukurukirane rw'amafoto rwiza amwe araza ayandi asohoka. Nkuko abamvuriza inkuru bakurikirana inkuru, amashusho araza akagukahama agasubira inyuma,  bikabandanya guco. Uyu muzo wisubirizabituma abaraba baguma baraba baraba kw'ishusho ikurikira.  \nNg'ubu ubuhinga kumashusho atandukanye agira urukurikirane rwiza. N'umenye neza gufata amashusho mumurwi wose muguha urukurikirane rwawe urutonde ruboneka; ubutandukane bw'amasanamu  butanga inkuru yikwije. (RABA NEZA: ubu buhinga ntibukora kunkuru ntomozi, kenshi usanga ari uruvange rw'amafoto meza):   ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_12"
         }, 
         {
-            "text": "(51.jpg)\n# Umukono w'ifoto\nIfoto itanga muncamake ingorane yose kandi igatomora ibintu ngirakamaro ko munkuru. Iyaba bokoze ifoto imwe, niyo iba iyo foto.", 
+            "text": "![](51.jpg)  \n# Umukono w'ifoto  \nIfoto itanga muncamake ingorane yose kandi igatomora ibintu ngirakamaro ko munkuru. Iyaba bokoze ifoto imwe, niyo iba iyo foto.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_13"
         }, 
         {
-            "text": "(52.jpg)\n# Aho ufatira\nN'ukoreshe imfuruka yaguye mugutegura ahantu aho iyo nkuru yabaye. Uriko ukora inkuru kw'ifoto, uba urikouratemebereza abantu. Koresha ubwo buryo mukubatahuza iyo bariko baraja, ishusho ribafasha gutahura ibindi vyose muri mur'ivyo bicapo", 
+            "text": "![](52.jpg)  \n# Aho ufatira  \nN'ukoreshe imfuruka yaguye mugutegura ahantu aho iyo nkuru yabaye. Uriko ukora inkuru kw'ifoto, uba urikouratemebereza abantu. Koresha ubwo buryo mukubatahuza iyo bariko baraja, ishusho ribafasha gutahura ibindi vyose muri mur\"ivyo bicapo.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_14"
         }, 
         {
-            "text": "(53.jpg)\n# Mukurangiza\nUkuja mumizi bitomora ibigize inkuru yawe. Ukurangiza, rimwe na rimwe urasa n'uwinjira indani, ntukore vyinsi nguhaka guh'inkuru abaraba ahubwo biba bije kwonona inkuru\nIMINSI YOSE fata nyinshi zoguheza.", 
+            "text": "![](53.jpg)  \n# Mukurangiza  \nUkuja mumizi bitomora ibigize inkuru yawe. Ukurangiza, rimwe na rimwe urasa n'uwinjira indani, ntukore vyinsi nguhaka guh'inkuru abaraba ahubwo biba bije kwonona inkuru.  \nIMINSI YOSE fata nyinshi zoguheza.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_15"
         }, 
         {
-            "text": "(54.jpg)\n# Ubungane\nIyi ishobora ifoto yo kumutwe canke iyivy'ibidukikije, muryo bujanye n'inkuru. Ukwandika kw'ifoto vybakiye k'ubumgane. Utegerezwa kuba ufise uburinganire bwiza buhamagarira abaraba k'ubungane. Iminsi yose fata nyinshi zishoboka, muburyo busanzwe, bisiguye ko bifata uburyo busanzwe, batumebereye.", 
+            "text": "![](54.jpg)  \n# Ubungane  \nIyi ishobora ifoto yo kumutwe canke iyivy'ibidukikije, muryo bujanye n'inkuru. Ukwandika kw'ifoto vybakiye k'ubumgane. Utegerezwa kuba ufise uburinganire bwiza buhamagarira abaraba k'ubungane. Iminsi yose fata nyinshi zishoboka, muburyo busanzwe, bisiguye ko bifata uburyo busanzwe, batumebereye.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_16"
         }, 
         {
-            "text": "(55.jpg)\n# Igikorwa\nIhatire ico ushaka gufotora kiri mubindi. Amafoto  y'uwo ufotora ari mubandi atanga uburinganire bw'uwo ushaka.", 
+            "text": "![](55.jpg)  \n# Igikorwa  \nIhatire ico ushaka gufotora kiri mubindi. Amafoto  y'uwo ufotora ari mubandi atanga uburinganire bw'uwo ushaka.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_17"
         }, 
         {
-            "text": "(56.jpg)\n# Ivyavuyemwo\nIfoto ishobora gukoreshwa muguheraheza inkuru, iyo uvuga uti  \u201cniyanyuma.\u201d Iyi ishobora kuba ishusho y'umudandaji muguheza inkuru, Iyizuba rirenga nk'uko amatora arangiye, canke nk'umwana asinzinziriye ahejeje kubagwa.", 
+            "text": "![](56.jpg)  \n# Ivyavuyemwo  \nIfoto ishobora gukoreshwa muguheraheza inkuru, iyo uvuga uti \u201cniyanyuma.\u201d Iyi ishobora kuba ishusho y'umudandaji muguheza inkuru, Iyizuba rirenga nk'uko amatora arangiye, canke nk'umwana asinzinziriye ahejeje kubagwa.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_18"
         }, 
         {
-            "text": "Amashusho makeya ya mbere murukurikirane n'ingirakamaro kandi kenshi ashiramwo ibi bikurikira:\n&bull; Ikibanza: Kenshi ishusho yaguye mumfuruka yerekana ahantu, aho inkuru iriko irabera.\n&bull; Ubungane: Inkuru ivuga kw'ifoto yerekanwa ningoga na ningoga. utegerezwa kwerekana ubungane bwawe nk'uko ubandanya uhura nabntu uri murugendo.\n&bull;  Umukono: Inkuru ivuga kare kurivyo kandi igasa n'iyiyivuga muncamake. ", 
+            "text": "Amashusho makeya ya mbere murukurikirane n'ingirakamaro kandi kenshi ashiramwo ibi bikurikira:  \n&bull; Ikibanza: Kenshi ishusho yaguye mumfuruka yerekana ahantu, aho inkuru iriko irabera.  \n&bull; Ubungane: Inkuru ivuga kw'ifoto yerekanwa ningoga na ningoga. utegerezwa kwerekana ubungane bwawe nk'uko ubandanya uhura nabntu uri murugendo.  \n&bull; Umukono: Inkuru ivuga kare kurivyo kandi igasa n'iyiyivuga muncamake.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_19"
         }, 
         {
-            "text": "## Urukurikirane\nUkwerekana itembagazwa rya General Muammar Gaddafi n'ivyo vyakweze mugihugu vyabereye canecane i Tripoli muri Libya kuwa 8 Ruheshi 2012.\n!(57.jpg) \n!(58.jpg) \n!(59.jpg) \n!(60.jpg) \n!(61.jpg) \n!(62.jpg) \n!(63.jpg) \n!(64.jpg) \nUrukurikirane nko murayo amshusho ateguwe ngo yerekane itandukaniro: nk'akarero k'urukurikirane k'ibintu canke ivyasmbuwe canke ubwoko bushasha bw'amarori y'izuba. Amashusho murukurikirane yategerezwa kuba asa uriko urerekana itandukaniro. Urukurikirane n'uburyo buhambaye mukwerekana iciyumviro kubwaco nko musi y'isanamu, iyo wumviriza, canke inkuru itanzwe murwandiko.", 
+            "text": "## Urukurikirane  \nUkwerekana itembagazwa rya General Muammar Gaddafi n'ivyo vyakweze mugihugu vyabereye canecane i Tripoli muri Libya kuwa 8 Ruheshi 2012.  \n![](57.jpg)  \n![](58.jpg)  \n![](59.jpg)  \n![](60.jpg)  \n![](61.jpg)  \n![](62.jpg)  \n![](63.jpg)  \n![](64.jpg)  \nUrukurikirane nko murayo amshusho ateguwe ngo yerekane itandukaniro: nk'akarero k'urukurikirane k'ibintu canke ivyasmbuwe canke ubwoko bushasha bw'amarori y'izuba. Amashusho murukurikirane yategerezwa kuba asa uriko urerekana itandukaniro. Urukurikirane n'uburyo buhambaye mukwerekana iciyumviro kubwaco nko musi y'isanamu, iyo wumviriza, canke inkuru itanzwe murwandiko.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_20"
         }, 
         {
-            "text": "Ntibikenewe kugira ifoto imwe imwe murutonde cokimwe n'izindi zose. Rimwe rimwe ntibishoboka. Muga ng'ibi ibintu nyamukuru twogumiza mumutwe.\n &bull; Imfuruka yokurabiramwo, gerageza kudahindura imfuruka yokurabiramwo muntonde, nk'akarorero, nk'ifoto imwe ifashwe kurugero rw'ijisho,fata zose kururwo rugero.\n&bull; Uburebure wishimikiza: Gerageza kugumiza ku rugero rumwe aho urabira n'aho ivyufotora. Ibi bifasha kubandanya ubona ibintu kimwe.\n&bull; Cadrage: Amafoto yose yategerezwa gutumbereza uburyo bumwe. Mu burebure wishimikiza ntibuhinduka, ushobora gukenera kwigira inyuma kubintu binini ( canke abantu bafise imitwwe minimini) cake ukegera kubintu bitobito.\n&bull; Ubwiza n'amafoto abereye: Bishoboka, ureke gukoresha flasheur kumafoto amwe amwe uretse yose. Ntuhindure ISO canke ubwera buringaniye.  ", 
+            "text": "Ntibikenewe kugira ifoto imwe imwe murutonde cokimwe n'izindi zose. Rimwe rimwe ntibishoboka. Muga ng'ibi ibintu nyamukuru twogumiza mumutwe.  \n &bull; Imfuruka yokurabiramwo, gerageza kudahindura imfuruka yokurabiramwo muntonde, nk'akarorero, nk'ifoto imwe ifashwe kurugero rw'ijisho,fata zose kururwo rugero.  \n&bull; Uburebure wishimikiza: Gerageza kugumiza ku rugero rumwe aho urabira n'aho ivyufotora. Ibi bifasha kubandanya ubona ibintu kimwe.  \n&bull; Cadrage: Amafoto yose yategerezwa gutumbereza uburyo bumwe. Mu burebure wishimikiza ntibuhinduka, ushobora gukenera kwigira inyuma kubintu binini ( canke abantu bafise imitwwe minimini) cake ukegera kubintu bitobito.  \n&bull; Ubwiza n'amafoto abereye: Bishoboka, ureke gukoresha flasheur kumafoto amwe amwe uretse yose. Ntuhindure ISO canke ubwera buringaniye.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_21"
         }, 
         {
-            "text": "## IBINTU VYO KWIBUKA\n&bull; Gufata amafoto menshi.\n&bull; Ubutandukane nirwo rupfunguruzo.\n&bull; Niwiyumvire kumafoto uza gutegurako inkuru.\n&bull; Tegura imbere ingene uyakora.", 
+            "text": "## IBINTU VYO KWIBUKA  \n&bull; Gufata amafoto menshi.  \n&bull; Ubutandukane nirwo rupfunguruzo.  \n&bull; Niwiyumvire kumafoto uza gutegurako inkuru.  \n&bull; Tegura imbere ingene uyakora.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_22"
         }, 
         {
             "correctRequired": 1, 
-            "question": "Ukwandika kw'ifoto nziza biruta kwandika kw'ifoto isanzwe. Aba akeneye itunganywa ry'inkru. Ni buhe buryo muri ubu bukurikira bwoshobora gutanga itunganywa ( bushobora kurenga bumwe)?", 
+            "question": "Ukwandika kw'ifoto nziza biruta kwandika kw'ifoto isanzwe. Aba akeneye itunganywa ry'inkru. Ni buhe buryo muri ubu bukurikira bwoshobora gutanga itunganywa ( bushobora kurenga bumwe)?  ", 
             "choices": [
                 {
-                    "text": "Inkuru ishobora gutondekwa kubiringo.", 
+                    "text": "Inkuru ishobora gutondekwa kubiringo.  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Inkuru ishobora gutondekwa muduce duce kugira berekane ingene yakozwe.", 
+                    "text": "Inkuru ishobora gutondekwa muduce duce kugira berekane ingene yakozwe.  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Inkuru ishobora gutondekwa nk'igishimangizo cerekana ibintu ngirakamaro vy'ikintu.", 
+                    "text": "Inkuru ishobora gutondekwa nk'igishimangizo cerekana ibintu ngirakamaro vy'ikintu.  ", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Ibiri hejuru vyose", 
+                    "text": "Ibiri hejuru vyose.  ", 
                     "id": "answer_4"
                 }
             ], 
@@ -158,14 +158,14 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Nivyo canke sivyo? Inkuru itewe ikeneye ibitandukanye. Urukurikirane kurundi ruhande rukoa neza mugihe ingene wateguye bisa kuva kw'ifoto imwe uja kuyindi.", 
+            "question": "Nivyo canke sivyo: Inkuru itewe ikeneye ibitandukanye. Urukurikirane kurundi ruhande rukoa neza mugihe ingene wateguye bisa kuva kw'ifoto imwe uja kuyindi.  ", 
             "choices": [
                 {
-                    "text": "Nivyo", 
+                    "text": "Nivyo  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Sivyo", 
+                    "text": "Sivyo  ", 
                     "id": "answer_2"
                 }
             ], 
@@ -177,22 +177,22 @@
         }, 
         {
             "correctRequired": 2, 
-            "question": "Inkuru nziza zifise ibiziranga bikurikira ( zishobora kurenga imwe).", 
+            "question": "Inkuru nziza zifise ibiziranga bikurikira ( zishobora kurenga imwe).  ", 
             "choices": [
                 {
-                    "text": "Umugambi wose uba hagati y'amafoto 8 na 20.", 
+                    "text": "Umugambi wose uba hagati y'amafoto 8 na 20.  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Nimba ari inkuru yo kuvuga, Hari ubwoko bwinshi bwo kuvyerekana.", 
+                    "text": "Nimba ari inkuru yo kuvuga, Hari ubwoko bwinshi bwo kuvyerekana.  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Inkuru zivuga ibintu vyiyaguye zama ari nziza zikaba inkuru bitaho.", 
+                    "text": "Inkuru zivuga ibintu vyiyaguye zama ari nziza zikaba inkuru bitaho.  ", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Ibiri hejuru vyose", 
+                    "text": "Ibiri hejuru vyose.  ", 
                     "id": "answer_4"
                 }
             ], 
@@ -206,5 +206,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "the_photo_essay", 
-    "title": "Ukwandikakw'ifoto"
+    "title": "Ukwandikakw'ifoto  "
 }

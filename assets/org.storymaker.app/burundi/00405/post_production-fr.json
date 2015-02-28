@@ -8,80 +8,80 @@
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
-            "header": "Quelles sont les exigences techniques et les limites \u00e9thiques lors de l'\u00e9dition mes photos pour assurer des images utilisables \u00e0 une haute qualit\u00e9?", 
+            "header": "Quelles sont les exigences techniques et les limites \u00e9thiques lors de l'\u00e9dition mes photos pour assurer des images utilisables \u00e0 une haute qualit\u00e9?  ", 
             "exampleMediaPath": "1.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
         }, 
         {
-            "text": "## Dans cette le\u00e7on vous allez apprendre:\n&bull; Les principes d'une meilleure \u00e9dition de photo.\n&bull; Comment recadrer une image.\n&bull; Comment fonctionne la correction de l'exposition.\n&bull; Comment fonctionne la correction automatique de la balance du blanc.", 
+            "text": "## Dans cette le\u00e7on vous allez apprendre:  \n&bull; Les principes d'une meilleure \u00e9dition de photo.  \n&bull; Comment recadrer une image.  \n&bull; Comment fonctionne la correction de l'exposition.  \n&bull; Comment fonctionne la correction automatique de la balance du blanc.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
         {
-            "text": "Votre photo initiale est la m\u00eame comme un brouillon d'une histoire \u00e9crite. Les images peuvent \u00eatre consid\u00e9rablement am\u00e9lior\u00e9es par la fa\u00e7on dont elles sont coup\u00e9es, la taille et la couleur corrig\u00e9es.", 
+            "text": "Votre photo initiale est la m\u00eame comme un brouillon d'une histoire \u00e9crite. Les images peuvent \u00eatre consid\u00e9rablement am\u00e9lior\u00e9es par la fa\u00e7on dont elles sont coup\u00e9es, la taille et la couleur corrig\u00e9es.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_1"
         }, 
         {
-            "text": "![Exemple d'une photo qui est correctement expos\u00e9e mise au point](2.jpg)\n### Exemple d'une photo qui est correctement expos\u00e9e mise au point\nLa meilleure \u00e9dition commence par la meilleure photographie. Assurez-vous que vos images sont correctement expos\u00e9es et concentr\u00e9s. Les images qui sont techniquement forte pour commencer sont plus faciles \u00e0 modifier. La possibilit\u00e9 de modifier votre propre travail est une partie non reconnue mais essentielle du travail.\n![Exemple d'une photo qui a \u00e9t\u00e9 agrandie et pixelis\u00e9e.](3.jpg)\n### Exemple d'une photo qui a \u00e9t\u00e9 agrandie et pixelis\u00e9\nLe dimensionnement, le recadrage, la correction des couleurs, l'ajout de texte prennent du temps, donc vous devez planifier. Si le temps est tr\u00e8s important, publier vos meilleures images telles qu'elles sont et fournir des versions mises \u00e0 jour plus tard dans votre couverture.", 
+            "text": "![Exemple d'une photo qui est correctement expos\u00e9e mise au point](2.jpg)  \n### Exemple d'une photo qui est correctement expos\u00e9e mise au point  \nLa meilleure \u00e9dition commence par la meilleure photographie. Assurez-vous que vos images sont correctement expos\u00e9es et concentr\u00e9s. Les images qui sont techniquement forte pour commencer sont plus faciles \u00e0 modifier. La possibilit\u00e9 de modifier votre propre travail est une partie non reconnue mais essentielle du travail.  \n![Exemple d'une photo qui a \u00e9t\u00e9 agrandie et pixelis\u00e9e.](3.jpg)  \n### Exemple d'une photo qui a \u00e9t\u00e9 agrandie et pixelis\u00e9  \nLe dimensionnement, le recadrage, la correction des couleurs, l'ajout de texte prennent du temps, donc vous devez planifier. Si le temps est tr\u00e8s important, publier vos meilleures images telles qu'elles sont et fournir des versions mises \u00e0 jour plus tard dans votre couverture.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_2"
         }, 
         {
-            "text": "## Recadrage\nRecadrage peut transformer une photo m\u00e9diocre en une image puissante. Recadrer impitoyablement avec la r\u00e8gle des tiers \u00e0 l'esprit.\n![Apr\u00e8s Recadrage](4.jpg)\n### Apr\u00e8s Recadrage\n![Avant Recadrage](5.jpg)\n### Avant Recadrage\nCouper l'exc\u00e8s ou l'espace sans signification du cadre. Couper les objets de votre cadre qui distraient le spectateur et peuvent diminuer l'impact. Le cadre entier doit travailler pour raconter l'histoire.", 
+            "text": "## Recadrage  \nRecadrage peut transformer une photo m\u00e9diocre en une image puissante. Recadrer impitoyablement avec la r\u00e8gle des tiers \u00e0 l'esprit.  \n![Apr\u00e8s Recadrage](4.jpg)  \n### Apr\u00e8s Recadrage  \n![Avant Recadrage](5.jpg)  \n### Avant Recadrage  \nCouper l'exc\u00e8s ou l'espace sans signification du cadre. Couper les objets de votre cadre qui distraient le spectateur et peuvent diminuer l'impact. Le cadre entier doit travailler pour raconter l'histoire.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_3"
         }, 
         {
-            "text": "## Laissez terminer les objets \n![Apr\u00e8s le Recadrage](6.jpg)\n### Apr\u00e8s Recadrage\n![Avant Recadrage](7.jpg)\n### Avant Recadrage\nSoyez prudent en recadrant des personnes \u00e0 des points litigieux; ne coupez pas les mains et les pieds. Ne pas amputer. Laissez les formes importantes se compl\u00e8tent dans le cadre. Les formes attirent l'\u0153il du spectateur dans l'image; une forme achev\u00e9e contribue \u00e0 l'y garder.", 
+            "text": "## Laissez terminer les objets  \n![Apr\u00e8s le Recadrage](6.jpg)  \n### Apr\u00e8s Recadrage  \n![Avant Recadrage](7.jpg)  \n### Avant Recadrage  \nSoyez prudent en recadrant des personnes \u00e0 des points litigieux; ne coupez pas les mains et les pieds. Ne pas amputer. Laissez les formes importantes se compl\u00e8tent dans le cadre. Les formes attirent l'\u0153il du spectateur dans l'image; une forme achev\u00e9e contribue \u00e0 l'y garder.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_4"
         }, 
         {
-            "text": "## Le dimensionnement\n!(8.png)\nM\u00eame les appareils mobiles sont capables de cr\u00e9er des images avec une r\u00e9solution si grande pour qu'ils peuvent \u00eatre publi\u00e9es dans un magazine. Toujours photographier sur le plus grand format disponible. Cependant, de gros fichiers prennent beaucoup d'espace et sont lents \u00e0 envoyer. Certains appareils mobiles et applications vous permettront de faire une image plus petite pour une reproduction plus efficace sur un site Web. Gardez TOUJOURS une copie des images originales  dont la taille a \u00e9t\u00e9 r\u00e9duite.", 
+            "text": "## Le dimensionnement  \n![](8.png)  \nM\u00eame les appareils mobiles sont capables de cr\u00e9er des images avec une r\u00e9solution si grande pour qu'ils peuvent \u00eatre publi\u00e9es dans un magazine. Toujours photographier sur le plus grand format disponible. Cependant, de gros fichiers prennent beaucoup d'espace et sont lents \u00e0 envoyer. Certains appareils mobiles et applications vous permettront de faire une image plus petite pour une reproduction plus efficace sur un site Web. Gardez TOUJOURS une copie des images originales dont la taille a \u00e9t\u00e9 r\u00e9duite.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_5"
         }, 
         {
-            "text": "## L'exposition et la correction de la balance des blancs\nLes applications de Modification telles que Photoshop Express ou les applications sociales telles que Instagram vous permettront d'augmenter ou de diminuer l'exposition et de corriger les probl\u00e8mes de la couleur, , appel\u00e9s la balance des blancs. Ils vous permettent \u00e9galement la possibilit\u00e9 de corriger les images qui apparaissent trop jaunes ou trop bleues. Cela peut \u00eatre aussi simple que d'ajouter un filtre \"assombrir\" pour des images surexpos\u00e9es ou un filtre \"int\u00e9rieur\" pour les images qui sont tr\u00e8s jaunes. Les images avec une bonne exposition et balance des blancs devraient exiger un peu plus de retouches, mais les images prises sous un \u00e9clairage difficiles peuvent \u00eatre consid\u00e9rablement am\u00e9lior\u00e9es en post-production.", 
+            "text": "## L'exposition et la correction de la balance des blancs  \nLes applications de Modification telles que Photoshop Express ou les applications sociales telles que Instagram vous permettront d'augmenter ou de diminuer l'exposition et de corriger les probl\u00e8mes de la couleur, , appel\u00e9s la balance des blancs. Ils vous permettent \u00e9galement la possibilit\u00e9 de corriger les images qui apparaissent trop jaunes ou trop bleues. Cela peut \u00eatre aussi simple que d'ajouter un filtre \"assombrir\" pour des images surexpos\u00e9es ou un filtre \"int\u00e9rieur\" pour les images qui sont tr\u00e8s jaunes. Les images avec une bonne exposition et balance des blancs devraient exiger un peu plus de retouches, mais les images prises sous un \u00e9clairage difficiles peuvent \u00eatre consid\u00e9rablement am\u00e9lior\u00e9es en post-production.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_6"
         }, 
         {
-            "text": "## manipulation non \u00e9thique\n![Exemple d'une manipulation non \u00e9thique d'une photo.](9.jpg)\n### Exemple d'une manipulation non \u00e9thique d'une photo.\nLes outils d'\u00e9dition des photo sont tr\u00e8s puissants. Journalistes ne devraient pas combler des faits ou des citations, photojournalistes ne devraient pas modifier les images.\n![Exemple d'une manipulation non \u00e9thique d'une photo.](10.jpg)\n### Exemple d'une manipulation non \u00e9thique d'une photo.", 
+            "text": "## manipulation non \u00e9thique  \n![Exemple d'une manipulation non \u00e9thique d'une photo.](9.jpg)  \n### Exemple d'une manipulation non \u00e9thique d'une photo.  \nLes outils d'\u00e9dition des photo sont tr\u00e8s puissants. Journalistes ne devraient pas combler des faits ou des citations, photojournalistes ne devraient pas modifier les images.  \n![Exemple d'une manipulation non \u00e9thique d'une photo.](10.jpg)  \n### Exemple d'une manipulation non \u00e9thique d'une photo.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_7"
         }, 
         {
-            "text": "Les lignes directrices \u00e9thiques de l'Associated Press pour la post-production de photographies fournissent un bon code d'\u00e9thique \u00e0 suivre; Ces lignes comprennent:\n&bull; Le contenu d'une photo ne doit pas \u00eatre sensiblement modifi\u00e9e dans Photoshop ou par tout autre moyen.\n&bull; Aucun \u00e9l\u00e9ment devrait \u00eatre num\u00e9riquement ajout\u00e9 ou soustrait de toute photo.\n&bull; Les visages ou les identit\u00e9s des individus ne doivent pas \u00eatre masqu\u00e9es par un outil d'\u00e9dition, sauf en dernier recours pour prot\u00e9ger la s\u00e9curit\u00e9.\n&bull; Seulement la retouche ou l'utilisation de l'outil de clonage pour \u00e9liminer la poussi\u00e8re et les rayures est acceptable.\n&bull; Des ajustements mineurs avec des outils d'\u00e9dition sont acceptables. Ceux-ci comprennent le recadrage, la soustraction et la gravure, conversion en niveaux de gris, et des ajustements normaux de tonification et de couleurs qui devraient \u00eatre limit\u00e9es \u00e0 celles minimalement n\u00e9cessaires pour une reproduction claire et pr\u00e9cise (souvent utilis\u00e9 dans le traitement des images dans la chambre noire ) et qui restaurer les nature authentique de la photo.\n&bull; Les changements dans les niveaux de densit\u00e9, contraste, couleur, et de saturation qui modifient sensiblement la sc\u00e8ne originale ne sont pas acceptables.\n&bull; les arri\u00e8res plans ne devraient pas \u00eatre num\u00e9riquement brouill\u00e9s ou \u00e9limin\u00e9 par la tonification agressive.", 
+            "text": "Les lignes directrices \u00e9thiques de l'Associated Press pour la post-production de photographies fournissent un bon code d'\u00e9thique \u00e0 suivre; Ces lignes comprennent:  \n&bull; Le contenu d'une photo ne doit pas \u00eatre sensiblement modifi\u00e9e dans Photoshop ou par tout autre moyen.  \n&bull; Aucun \u00e9l\u00e9ment devrait \u00eatre num\u00e9riquement ajout\u00e9 ou soustrait de toute photo.  \n&bull; Les visages ou les identit\u00e9s des individus ne doivent pas \u00eatre masqu\u00e9es par un outil d'\u00e9dition, sauf en dernier recours pour prot\u00e9ger la s\u00e9curit\u00e9.  \n&bull; Seulement la retouche ou l'utilisation de l'outil de clonage pour \u00e9liminer la poussi\u00e8re et les rayures est acceptable.  \n&bull; Des ajustements mineurs avec des outils d'\u00e9dition sont acceptables. Ceux-ci comprennent le recadrage, la soustraction et la gravure, conversion en niveaux de gris, et des ajustements normaux de tonification et de couleurs qui devraient \u00eatre limit\u00e9es \u00e0 celles minimalement n\u00e9cessaires pour une reproduction claire et pr\u00e9cise (souvent utilis\u00e9 dans le traitement des images dans la chambre noire ) et qui restaurer les nature authentique de la photo.  \n&bull; Les changements dans les niveaux de densit\u00e9, contraste, couleur, et de saturation qui modifient sensiblement la sc\u00e8ne originale ne sont pas acceptables.  \n&bull; les arri\u00e8res plans ne devraient pas \u00eatre num\u00e9riquement brouill\u00e9s ou \u00e9limin\u00e9 par la tonification agressive.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_8"
         }, 
         {
-            "text": "## A NE PA OUBLIER\n&bull; Les images qui sont techniquement forte pour commencer sont plus faciles \u00e0 g\u00e9rer en post-production.\n&bull; Toujours photographier la plus grande taille de fichier de votre appareil photo permettra. Vous pouvez faire des petits copies plus tard.\n&bull; Un bon recadrage peut consid\u00e9rablement am\u00e9liorer une image.\n&bull; La correction de l'exposition, de la couleur et la balance des blancs peut am\u00e9liorer une image.\n&bull; Quelque chose au del\u00e0 des ajustements mineurs est contraire \u00e0 l'\u00e9thique.", 
+            "text": "## A NE PA OUBLIER  \n&bull; Les images qui sont techniquement forte pour commencer sont plus faciles \u00e0 g\u00e9rer en post-production.  \n&bull; Toujours photographier la plus grande taille de fichier de votre appareil photo permettra. Vous pouvez faire des petits copies plus tard.  \n&bull; Un bon recadrage peut consid\u00e9rablement am\u00e9liorer une image.  \n&bull; La correction de l'exposition, de la couleur et la balance des blancs peut am\u00e9liorer une image.  \n&bull; Quelque chose au del\u00e0 des ajustements mineurs est contraire \u00e0 l'\u00e9thique.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_9"
         }, 
         {
             "correctRequired": 1, 
-            "question": "Lequel des \u00e9l\u00e9ments suivants va permettre la post-production plus effective lors du tournage?", 
+            "question": "Lequel des \u00e9l\u00e9ments suivants va permettre la post-production plus effective lors du tournage?  ", 
             "choices": [
                 {
-                    "text": "Assurez-vous que votre appareil est r\u00e9gl\u00e9 sur la plus grande taille de fichier.", 
+                    "text": "Assurez-vous que votre appareil est r\u00e9gl\u00e9 sur la plus grande taille de fichier.  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Assurez-vous que l'image est correctement expos\u00e9.", 
+                    "text": "Assurez-vous que l'image est correctement expos\u00e9.  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Soyez s\u00fbrs que l'image est proprement mise au point.", 
+                    "text": "Soyez s\u00fbrs que l'image est proprement mise au point.  ", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Tout ce qui pr\u00e9c\u00e8de.", 
+                    "text": "Tout ce qui pr\u00e9c\u00e8de.  ", 
                     "id": "answer_4"
                 }
             ], 
@@ -93,14 +93,14 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Vrai ou Faux: 300 ppp (points par pouce) signifie que vous devez d\u00e9poser vos images \u00e0 300 points (ou pixels) le long du bord plus long.", 
+            "question": "Vrai ou Faux: 300 ppp (points par pouce) signifie que vous devez d\u00e9poser vos images \u00e0 300 points (ou pixels) le long du bord plus long.  ", 
             "choices": [
                 {
-                    "text": "Vrai", 
+                    "text": "Vrai  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Faux", 
+                    "text": "Faux  ", 
                     "id": "answer_2"
                 }
             ], 
@@ -112,22 +112,22 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Lesquels des \u00e9l\u00e9ments suivant sont \u00e9thiques?", 
+            "question": "Lesquels des \u00e9l\u00e9ments suivant sont \u00e9thiques?  ", 
             "choices": [
                 {
-                    "text": "Les personnes g\u00eanants peuvent \u00eatre retir\u00e9s \u00e0 partir d'un cadre avec un outil d'airbrush ou de clonage.", 
+                    "text": "Les personnes g\u00eanants peuvent \u00eatre retir\u00e9s \u00e0 partir d'un cadre avec un outil d'airbrush ou de clonage.  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "La couleur et la saturation peuvent \u00eatre faites plus intense dans l'int\u00e9r\u00eat de rendre l'image plus forte \u00e9motionnellement.", 
+                    "text": "La couleur et la saturation peuvent \u00eatre faites plus intense dans l'int\u00e9r\u00eat de rendre l'image plus forte \u00e9motionnellement.  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "L'image peut \u00eatre sous-titr\u00e9es avec des informations qui changent le sens d'un photographe.", 
+                    "text": "L'image peut \u00eatre sous-titr\u00e9es avec des informations qui changent le sens d'un photographe.  ", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Aucune de ces r\u00e9ponses.", 
+                    "text": "Aucune de ces r\u00e9ponses.  ", 
                     "id": "answer_4"
                 }
             ], 
@@ -140,5 +140,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "post_production", 
-    "title": "Post-Production"
+    "title": "Post-Production  "
 }

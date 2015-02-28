@@ -1,32 +1,32 @@
 {
     "cards": [
         {
-            "text": "Ni gute nshobora gukoresha ivyibutso munkuru yanj e? muri\u00e7ki cigwa muzokwiga. Nokoresha iki icibutso?  Nigute ivyibutso biryohora inkuru yawe? Nigute utora icibutso gikomeye? ", 
+            "text": "# Ni gute nshobora gukoresha ivyibutso munkuru yanj e?  \n## muri\u00e7ki cigwa muzokwiga.  \n&bull; Nokoresha iki icibutso?  \n&bull; Nigute ivyibutso biryohora inkuru yawe?  \n&bull; Nigute utora icibutso gikomeye?  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
         {
-            "text": "Inkuru nziza zikoresha ibimenyetso. Ikimenyetso nico cose gifise insiduro ifatanije nabantu. Bishobora kuba ikintu, igikorwa, izina, canke umusi mukuru. Ibimenyetso kenshi bisigura ibintu bitandukanye kubantu batandukanye, cane cane kubantu bava mumihingo itandukanye. Kugira mukore inkuru zinyura, mwoshiramwo ibimenyetso biboneka. Abaibona batahura ningonga kandi kumutima .\nIbimeneytso nivyo vyonyene bishobora gutanga inkuru nziza. ", 
+            "text": "Inkuru nziza zikoresha ibimenyetso. Ikimenyetso nico cose gifise insiduro ifatanije nabantu. Bishobora kuba ikintu, igikorwa, izina, canke umusi mukuru. Ibimenyetso kenshi bisigura ibintu bitandukanye kubantu batandukanye, cane cane kubantu bava mumihingo itandukanye. Kugira mukore inkuru zinyura, mwoshiramwo ibimenyetso biboneka. Abaibona batahura ningonga kandi kumutima.  \nIbimeneytso nivyo vyonyene bishobora gutanga inkuru nziza.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_1"
         }, 
         {
-            "text": "Uburyo  bwo gukora inkuru zimeze neza nugukurikirana insiguro y\u2019ivyibutso. Nkakarorero mumisi yambere y\u2019intureka muri Libiya mu mwaka w\u20192011, ibicapo biri ku mpome z\u2019ibisagara binini binini vy\u2019igihugu. Muntango, ivyo vyapa vyatanga umwizero, ivyifuzo vy\u2019urunganwe rushasha rwa Libiya. Ico capa nyene muma barabara kiboneka nkumwihzero waheze nindoto zitabaho z\u2019abanya Libiya.", 
+            "text": "Uburyo  bwo gukora inkuru zimeze neza nugukurikirana insiguro y\u2019ivyibutso. Nkakarorero mumisi yambere y\u2019intureka muri Libiya mu mwaka w\u20192011, ibicapo biri ku mpome z\u2019ibisagara binini binini vy\u2019igihugu. Muntango, ivyo vyapa vyatanga umwizero, ivyifuzo vy\u2019urunganwe rushasha rwa Libiya. Ico capa nyene muma barabara kiboneka nkumwihzero waheze nindoto zitabaho z\u2019abanya Libiya.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_2"
         }, 
         {
-            "text": "Rimwe narimwe ibimenyetso birakomeye, akarorero, n\u2019ishusho y\u2019umusozi idahinduka inyuma ya nyamugigima, canke ikibumbano c\u2019umuntu  ahambaye mukahise. ", 
+            "text": "Rimwe narimwe ibimenyetso birakomeye, akarorero, n\u2019ishusho y\u2019umusozi idahinduka inyuma ya nyamugigima, canke ikibumbano c\u2019umuntu  ahambaye mukahise.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_3"
         }, 
         {
-            "text": "Kenshi na kenshi amasanamu atanga inkuru  zidakwiye. Umumenyeshamakuru ntiyitaho ingene atanga inkuru canke agatanga inkuru kuburyo butahuritse akoresheje ivyibutso. Ibirimwo biboneka atacongwemwo kubushobozi bw\u2019icibutso bishobora kuba ibisanzwe. Ata kwinjira mumizi y\u2019inkuru bituma ita akanovera kayo.", 
+            "text": "Kenshi na kenshi amasanamu atanga inkuru  zidakwiye. Umumenyeshamakuru ntiyitaho ingene atanga inkuru canke agatanga inkuru kuburyo butahuritse akoresheje ivyibutso. Ibirimwo biboneka atacongwemwo kubushobozi bw\u2019icibutso bishobora kuba ibisanzwe. Ata kwinjira mumizi y\u2019inkuru bituma ita akanovera kayo.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_4"
         }, 
         {
-            "text": "Ni nkengwa kudakoresha cane ivyibutsocanke kubikoresha nk\u2019ivyijijicanke bishobora guhabwa insiguro y\u2019imyiyamamazo. Ni nkenegwa kandi kwibuka ko abantu batahura ivyibutso uburyo butandukanye", 
+            "text": "Ni nkengwa kudakoresha cane ivyibutsocanke kubikoresha nk\u2019ivyijijicanke bishobora guhabwa insiguro y\u2019imyiyamamazo. Ni nkenegwa kandi kwibuka ko abantu batahura ivyibutso uburyo butandukanye.  ", 
             "type": "MarkdownCard", 
             "id": "markdown_card_5"
         }, 
@@ -37,18 +37,18 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Umunye politike yagiriwe nukurya ruswa ntashobora kwitoza kandi. Yerekena :", 
+            "question": "Umunye politike yagiriwe nukurya ruswa ntashobora kwitoza kandi. Yerekena:  ", 
             "choices": [
                 {
-                    "text": "Kuvuga nabi ", 
+                    "text": "Kuvuga nabi.  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Uburyo bw\u2019amatora ", 
+                    "text": "Uburyo bw\u2019amatora.  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Igihano", 
+                    "text": "Igihano.  ", 
                     "id": "answer_3"
                 }
             ], 
@@ -60,18 +60,18 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Umusoda yakomeretse ngo ntazoshobora ukundi gutambuka. Aguma yicaye mu gakinga kibimuga amezi atari make gushika ahoboye gutambuka. Yerekana :", 
+            "question": "Umusoda yakomeretse ngo ntazoshobora ukundi gutambuka. Aguma yicaye mu gakinga kibimuga amezi atari make gushika ahoboye gutambuka. Yerekana:  ", 
             "choices": [
                 {
-                    "text": "Igitangaro ", 
+                    "text": "Igitangaro.  ", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Abaganga babi", 
+                    "text": "Abaganga babi.  ", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Ishaka", 
+                    "text": "Ishaka  ", 
                     "id": "answer_3"
                 }
             ], 
@@ -84,5 +84,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "symbols", 
-    "title": "Icibutso"
+    "title": "Icibutso  "
 }
