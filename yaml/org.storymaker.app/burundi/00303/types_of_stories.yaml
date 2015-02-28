@@ -39,7 +39,7 @@
             title: Example of a breaking news report.
             media: 
                 - 
-                    media: 02.mp3
+                    media: 2.mp3
                     media_caption: © Small World News 2012
 
         - 
@@ -58,7 +58,7 @@
             title: Example of an event report.
             media: 
                 - 
-                    media: 03.mp3
+                    media: 3.mp3
                     media_caption: © Small World News 2012
 
         - 
@@ -78,7 +78,7 @@
             title: Example of a issue story.
             media: 
                 - 
-                    media: 04.mp3
+                    media: 4.mp3
                     media_caption: © Small World News 2012
 
         - 
@@ -93,7 +93,7 @@
             title: Example of a story using multiple contributors.
             media: 
                 - 
-                    media: 05.mp3
+                    media: 5.mp3
                     media_caption: © Small World News 2012
 
         - 

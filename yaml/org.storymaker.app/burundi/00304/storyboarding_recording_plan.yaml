@@ -44,7 +44,7 @@
             title: Example of a professional introduction to a story
             media: 
                 - 
-                    media: 02.mp3
+                    media: 2.mp3
                     media_caption: © Small World News 2012
 
         - 
@@ -63,7 +63,7 @@
             title: Example of a personal introduction to a story
             media: 
                 - 
-                    media: 03.mp3
+                    media: 3.mp3
                     media_caption: © Small World News 2012
 
         - 
@@ -88,7 +88,7 @@
             title: Example of using background audio
             media: 
                 - 
-                    media: 04.mp3
+                    media: 4.mp3
                     media_caption: © Small World News 2012
 
         - 
@@ -107,7 +107,7 @@
             title: Example of a story conclusion
             media: 
                 - 
-                    media: 05.mp3
+                    media: 5.mp3
                     media_caption: © Small World News 2012
 
         - 

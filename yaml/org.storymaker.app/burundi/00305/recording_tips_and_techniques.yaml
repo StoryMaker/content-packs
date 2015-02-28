@@ -38,7 +38,7 @@
             title: Example of handling noise
             media: 
                 - 
-                    media: 03.mp3
+                    media: 3.mp3
                     media_caption: © Small World News 2012
 
         - 
@@ -72,7 +72,7 @@
             title: Example of air-conditioning sound
             media: 
                 - 
-                    media: 06.mp3
+                    media: 6.mp3
                     media_caption: © Small World News 2012
 
         - 

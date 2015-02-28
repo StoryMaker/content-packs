@@ -70,7 +70,7 @@
             medium: video
             media: 
                 - 
-                    media: 03.mp4
+                    media: 3.mp4
                     media_caption: © Small World News 2012
 
         - 
@@ -101,7 +101,7 @@
             medium: video
             media: 
                 - 
-                    media: 04.mp4
+                    media: 4.mp4
                     media_caption: © Small World News 2012
 
         - 
@@ -118,7 +118,7 @@
             medium: video
             media: 
                 - 
-                    media: 05.mp4
+                    media: 5.mp4
                     media_caption: © Small World News 2012
 
         - 

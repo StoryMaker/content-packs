@@ -50,7 +50,7 @@
             title: Example of a breaking news story
             media: 
                 - 
-                    media: 03.mp4
+                    media: 3.mp4
                     media_caption: © Small World News 2012
 
         - 
@@ -65,7 +65,7 @@
             title: Example of an event story
             media: 
                 - 
-                    media: 04.mp4
+                    media: 4.mp4
                     media_caption: © Small World News 2012
 
 
@@ -81,7 +81,7 @@
             title: Example of an issue story
             media: 
                 - 
-                    media: 05.mp4
+                    media: 5.mp4
                     media_caption: © Small World News 2012
 
         - 
@@ -96,7 +96,7 @@
             title: Example of an profile story
             media: 
                 - 
-                    media: 06.mp4
+                    media: 6.mp4
                     media_caption: © Small World News 2012
 
         - 
