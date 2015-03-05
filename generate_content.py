@@ -292,7 +292,8 @@ cardcounts = {}
 content_index = []
 content_pack = 'burundi'
 content_pack_strings_dir = os.getcwd() + "/intermediates/strings/%s/%s" % (package, content_pack)
-for library in os.listdir(content_pack_strings_dir):
+lst = sorted(os.listdir(content_pack_strings_dir))
+for library in lst:
     library_dir = "%s/%s" % (content_pack_strings_dir, library)
     if os.path.isdir(library_dir):
         print library_dir
