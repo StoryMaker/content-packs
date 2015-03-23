@@ -285,33 +285,47 @@ yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/learning_guide/learning_guide
 json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_3"
 strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/learning_guide/learning_guide_3"
 do_dir()
+
+
+print "generating content for DressGate"
+yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/dressgate"
+json_dir = os.getcwd() + "/assets/org.storymaker.app/dressgate"
+strings_dir = os.getcwd() + "/intermediates/org.storymaker.app/dressgate"
+do_dir()
+
+
     
 print "generating content for burundi lessons"
+def generate_content_index(package, content_pack, lang=None)
+    cardcounts = {}
+    content_index = []
+    content_pack_strings_dir = os.getcwd() + "/intermediates/strings/%s/%s" % (package, content_pack)
+    lst = sorted(os.listdir(content_pack_strings_dir))
+    for library in lst:
+        library_dir = "%s/%s" % (content_pack_strings_dir, library)
+        if os.path.isdir(library_dir):
+            print library_dir
+            #json_dir = os.getcwd() + "/assets/%s/%s/%s" % (package, content_pack, library)
+            #strings_dir = os.getcwd() + "/intermediates/strings/%s/%s/%s" % (package, content_pack, library)
+            
+            for f in os.listdir(library_dir):
+                #print "    %s" % f
+                cardcounts = {}
+                file_name, file_extension = os.path.splitext(f)
+                if file_extension == ".json" and "_library" in file_name:
+                    #print "      ...is library"
+                    rec = generate_content_index_record(library_dir, package, content_pack, library, file_name)
+                    print rec
+                    content_index.append(rec)
+
+    print "prepping burundi content index"
+    lang_postfix = ""
+    if lang is not None:
+        lang_postfix = "-%s" % lang
+    content_index_file = open("assets/%s/%s/content_index%s.json" % (package, content_pack, lang_postfix), 'w')
+    content_index_file.write(json.dumps(content_index, indent=2))
+    content_index_file.close()
+
+
 package = 'org.storymaker.app'
-cardcounts = {}
-content_index = []
 content_pack = 'burundi'
-content_pack_strings_dir = os.getcwd() + "/intermediates/strings/%s/%s" % (package, content_pack)
-lst = sorted(os.listdir(content_pack_strings_dir))
-for library in lst:
-    library_dir = "%s/%s" % (content_pack_strings_dir, library)
-    if os.path.isdir(library_dir):
-        print library_dir
-        #json_dir = os.getcwd() + "/assets/%s/%s/%s" % (package, content_pack, library)
-        #strings_dir = os.getcwd() + "/intermediates/strings/%s/%s/%s" % (package, content_pack, library)
-        
-        for f in os.listdir(library_dir):
-            #print "    %s" % f
-            cardcounts = {}
-            file_name, file_extension = os.path.splitext(f)
-            if file_extension == ".json" and "_library" in file_name:
-                #print "      ...is library"
-                rec = generate_content_index_record(library_dir, package, content_pack, library, file_name)
-                print rec
-                content_index.append(rec)
-
-print "prepping burundi content index"
-content_index_file = open("assets/%s/%s/content_index.json" % (package, content_pack), 'w')
-content_index_file.write(json.dumps(content_index, indent=2))
-content_index_file.close()
-
