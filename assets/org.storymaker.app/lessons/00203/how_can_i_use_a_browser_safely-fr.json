@@ -1,0 +1,184 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Comment je peux utiliser un navigateur en toute s\u00e9curit\u00e9?  ", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Dans cette le\u00e7on vous allez apprendre:  \n&bull; Comment travaille un Fournisseur d'Acc\u00e8s Internet  \n&bull; Comment vos habitudes de navigation sont surveill\u00e9es  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Si quelqu'un veut espionner votre appel t\u00e9l\u00e9phonique, il / elle doit avoir acc\u00e8s physique \u00e0 la ligne de t\u00e9l\u00e9phone ou un contact \u00e0 l'\u00e9change de t\u00e9l\u00e9phone qui permet d'acc\u00e9der \u00e0 votre ligne t\u00e9l\u00e9phonique. Sur Internet, il est possible soit d'intercepter la ligne qui vous connecte \u00e0 Internet ou \u00e0 persuader le fournisseur d'acc\u00e8s Internet (FAI) \u00e0 faire de m\u00eame. Toute l'activit\u00e9 Internet \u00e0 partir de votre ordinateur peut \u00eatre enregistr\u00e9 ou m\u00eame command\u00e9 par le syst\u00e8me de surveillance.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "# Comment \u00eates-vous surveill\u00e9s  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![Comment travaille un FAI](2.png)  \n### Comment travaille un FAI  \nIntercepter un appel t\u00e9l\u00e9phonique ou une ligne Internet peut n\u00e9cessiter des comp\u00e9tences sp\u00e9cifiques et des actions clandestines; influencer le FAI est plus simple. De nombreux pays n'ont qu'un seul fournisseur de services Internet, et il est g\u00e9n\u00e9ralement sous le contr\u00f4le du gouvernement.  \nTous les pays ont acc\u00e8s \u00e0 une passerelle Internet. Cette passerelle peut ouvrir ou fermer pour contr\u00f4ler l'acc\u00e8s \u00e0 Internet d'un pays donn\u00e9. Tout le trafic Internet passe par la passerelle nationale, et on peut supposer que, pour avoir le contr\u00f4le sur la passerelle du pays signifie l'acc\u00e8s \u00e0 tout le trafic Internet relatives \u00e0 un pays.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![Comment les cookies sont stock\u00e9s sur un ordinateur](3.png)  \n### Comment les cookies sont stock\u00e9s sur un ordinateur  \nLes enregistrements de votre activit\u00e9 sur Internet sont stock\u00e9s sur les sites que vous visitez et sur votre ordinateur personnel ou votre appareil mobile. De nombreux sites Web n\u00e9cessitent l'installation d'un \u00abcookie\u00bb. Un cookie est un fichier qui contient des informations sp\u00e9cifiques sur l'utilisateur. Par exemple, il pourrait enregistrer votre pays de r\u00e9sidence afin de pr\u00e9senter une page de pays concern\u00e9 lors de la visite d'un site Web particulier. Autres informations pourraient comprendre les liens que vous avez suivies pour arriver sur le site, ou les donn\u00e9es personnelles vous concernant \u00e0 partir de votre propre ordinateur.  \nApr\u00e8s la navigation sur Internet pendant un mois, vous pouvez avoir des centaines de cookies sur votre ordinateur. Y acc\u00e9der peut r\u00e9v\u00e9ler des informations sur vos int\u00e9r\u00eats et affiliations. Un cookie sur votre ordinateur peut \u00eatre une preuve de votre visite d'un site Web particulier.  \nIl est possible de supprimer les cookies de votre ordinateur. Cela peut \u00eatre fait \u00e0 partir de votre navigateur Internet ou en trouvant et en les supprimant manuellement. Il est \u00e9galement possible de dire \u00e0 votre navigateur pour ne pas accepter les cookies. Cela peut bloquer l'acc\u00e8s \u00e0 de nombreux sites Web sur votre ordinateur, mais vous fournira une protection maximale contre l'infiltration cookies.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "# L'historique de navigation  \nVotre navigateur va stocker votre historique par d\u00e9faut. Si vous naviguez sur des sujets sensibles, d\u00e9sactivez l'historique de mise en cache et supprimer votre historique.  \nNaviguez via la fonction \"l'Onglet incognito \" du navigateur Chrome, ou \"navigation priv\u00e9e\" dans Firefox.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![Comment fonctionne le HTTP et le HTTPS](4.png)  \n### Comment fonctionne le HTTP et le HTTPS  \nSuppression de l'historique n'est que la premi\u00e8re \u00e9tape pour une navigation plus s\u00fbre. La plupart des sites sur le Web peuvent \u00eatre accessibles en utilisant le protocole HTTP non crypt\u00e9. HTTP est vuln\u00e9rable \u00e0 l'\u00e9coute, et m\u00eame \u00e0 des interm\u00e9diaires qui pourraient modifier les pages d'un navigateur.  \nLe HTTPS est une alternative plus s\u00e9curis\u00e9 \u00e0 HTTP. Le HTTPS chiffre les pages et les tentatives pour assurer trois choses: 1) que des tiers ne peuvent pas voir le contenu de la page, 2) que la page ne peut pas \u00eatre modifi\u00e9e par des tiers, et 3) que la page a \u00e9t\u00e9 r\u00e9ellement envoy\u00e9 par le serveur Web \u00e9num\u00e9r\u00e9s dans la barre d'URL.  \nMalheureusement, un serveur web doit \u00eatre configur\u00e9 pour prendre en charge le HTTPS correctement avant de pouvoir l'utiliser. S'il y'a un site que auquel vous aviez l'intention d'envoyer des informations sensibles, v\u00e9rifiez que vous utilisez le HTTPS. Si un site ne supporte pas le HTTPS, n'envoyez pas des informations sensibles.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![Quelques notes sur l'utilisation du HTTPS](5.png)  \n### Quelques notes sur l'utilisation du HTTPS  \nV\u00e9rifiez trois indicateurs pour s'assurer que vous \u00eates sur une page HTTPS: 1) l'URL commence par https: //, 2) il y'a une ic\u00f4ne de verrouillage soit dans le coin du navigateur ou dans la barre d'adresse juste avant l'URL, et 3 ) la barre d'adresse / URL est color\u00e9e.  \nSi vous recevez un avertissement sur les certificats ou une ic\u00f4ne de serrure cass\u00e9e, vous devriez supposer que l'une des propri\u00e9t\u00e9s de s\u00e9curit\u00e9 de la page pourrait \u00eatre rompu. Contactez le webmaster du site et veuillez \u00e0 ce qu'il / elle corrige le probl\u00e8me avant d'envoyer des informations sensibles sur le site.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "![R\u00e9seaux de l'anonymat](6.png)  \n### R\u00e9seaux de l'anonymat  \nR\u00e9seaux de l'anonymat sont utilis\u00e9s pour contourner le blocage de sites Web par votre FAI ou de gouvernement. Ils vous permettent de parcourir avec un niveau de confidentialit\u00e9 et d'anonymat que HTTPS seule ne fournit pas.  \nImaginez que vous envoyez une lettre \u00e0 un ami et l'emballer dans plusieurs enveloppes, une adresse diff\u00e9rente sur chaque. La lettre fera circuler autour de ces adresses dans un ordre secret. Aucun des r\u00e9cepteurs conna\u00eetra son origine ou de destination finale, mais seulement l'adresse pr\u00e9c\u00e9dente d'o\u00f9 il vient et la suivante vers o\u00f9 il ira.  \nLe r\u00e9seau Tor est un syst\u00e8me similaire. Il va anonymiser vos demandes de pr\u00e9sence et de navigation en ligne. Les agents de surveillance \u00e0 votre FAI ou d'une passerelle nationale ne sauront pas la destination finale de votre requ\u00eate de navigation, et le site que vous visitez ne conna\u00eetra pas d'o\u00f9 votre demande est venue.  \nTOR peut maintenant \u00eatre install\u00e9 sur les appareils bas\u00e9s sur Android. Orbot et Orweb sont deux applications qui travaillent ensemble pour offrir une exp\u00e9rience de navigation anonyme.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## A NE PAS OUBLIER  \n&bull; Utilisez le HTTPS chaque fois que possible.  \n&bull; Si vous craignez que votre navigation est surveill\u00e9e, utilisez un r\u00e9seau d'anonymat, comme TOR.  \n&bull; D\u00e9sactivez les cookies  \n&bull; D\u00e9sactivez l'historique de votre navigation.  \n&bull; Votre navigation n'est pas s\u00e9curis\u00e9e \u00e0 100 %; s'il s'agit d'une information qui met une vie en danger, ne la transmettez pas par un navigateur.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "Comment la navigation me met en risque?  ", 
+            "choices": [
+                {
+                    "text": "Par d\u00e9faut, mon FAI peut avoir un enregistrement de toute ma navigation.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "L'Internet est un endroit effrayant.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Les navigateurs gardent un historique par d\u00e9faut.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Mon historique de navigation peut \u00eatre accessible au gouvernement.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "Quelles mesures dois je prendre pour naviguer d'une mani\u00e8re plus s\u00e9curis\u00e9e?  ", 
+            "choices": [
+                {
+                    "text": "D\u00e9sactiver la mis en cache de \"l'historique\".  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Supprimer votre \"Historique.\"  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Utilisez la fonction \"L'onglet incognito\" sur le navigateur Chrome / navigation priv\u00e9e sur Firefox.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Fermer l'Ordinateur quand je termine la navigation.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "Quelle est la raison d'un r\u00e9seau anonyme?  ", 
+            "choices": [
+                {
+                    "text": "Pour prot\u00e9ger mon trafic d'\u00eatre surveill\u00e9.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Pour voir les sites bloqu\u00e9s.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Pour \u00e9viter les sites Web de suivre mes habitudes de navigation.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Pour s'engager dans une activit\u00e9 criminelle.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "comment pouvez-vous conna\u00eetre que votre navigateur est connect\u00e9 en HTTPS?  ", 
+            "choices": [
+                {
+                    "text": "Je tape HTTPS avant chaque URL d'un site web.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Un cadenas appara\u00eet soit dans le coin du le navigateur ou dans la barre d'adresse \u00e0 c\u00f4t\u00e9 de l'URL du site.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Je me connecte toujours par HTTPS.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Tout ce qui pr\u00e9c\u00e8de.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "how_can_i_use_a_browser_safely", 
+    "title": "Comment puis - je naviguer en s\u00e9curit\u00e9  "
+}

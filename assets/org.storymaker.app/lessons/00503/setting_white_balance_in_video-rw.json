@@ -1,0 +1,225 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Ubuhinga bwo kuringaniza ibara ryera mw\u2019isanamu  ", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## muriki cigwa muzokwiga:  \n&bull; Ingene uburinganire bw\u2019ibara ryera bikora kwibara ry\u2019ama clips yanyu.  \n&bull; Ingene mushobora gukoresha ubuhinga bwo kunganisha ibara ryera mu ma mashini yanyu.  \n&bull; Ivyo mushobora gukora kugira mwongereze akanovera ka ma bara muma sanamu yanyu.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "![](2.png)  \n### Akarorero kikintu kimuritswe na ampoule en tungst\u00e8ne  \nLes ampoules en tungstens zifise umuco ushushenibara ry\u2019umuhondo.  \n![](3.png)  \nAmasoko atandukanye y\u2019umuco atanga umuco de diff\u00e9rentes temp\u00e9ratures de couleur. L'\u00e9clairage artificiel tel que les ampoules de la maison produisent de la lumi\u00e8re avec une teinte orange. Umuco w\u2019umusi ufise une teinte bleue.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![](3.jpg)  \n### akarorero k\u2019ifoto mwibara ry\u2019ubuhinga.  \nAmaso yacu arateba akamenyera ihindagurika ryama bara, muganoama camera arakeneye gutumbereza ubuhinga bwitwa \"balance des blanc\" kuburyo ama sanamu azoboneka nkuko amaso yanyu ayabona.  \n![](4.png)  \n### ako karorero nyene hakoreshejwe \"equilibre des blancs\" itariyo.  \nIcitwa equilibre de blanc cisunga ihindagurika ryama bara mw\u2019isanamu kugira ivera vyose muri cadrage biboneke nkivyera ata gacafu kariko.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![](5.png)  \n### Une ic\u00f4ne commune de l'auto balance du blanc  \nAma camera meshi afise balance des blancs automatique. Iyo parametre izofata temperature de couleur de la source dominante de la lumi\u00e8re et de faire des ajustements n\u00e9cessaire.  \n![](6.png)  \n### Akarorero des icones pour des options  \nzisangiwe de la balance des blancs. Ama camera amwe amwe afise ubuhinga bucaguwe de la balance des blancs kugira zishobore kurinda imico itandukanye, nk\u2019umuco w\u2019umusi munzu canke \u00e0 l\u2019incandescence.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Ntimwibagire guhindura l\u2019option de balance de blanc iyo uburyo bwo kumurika buhindutse. Iyo muuhe hanze mwinjiye mugatangura gufata mutatumbereje neza reglage des de balance de blanc, ama sanamu yanyu azosa na orange cane. Iyo mwariko murafatira munzu mukaja gufotorera hanze  mutatumbereje la balance de blanc,muzoronka ama sanamau asa na bleu cane.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![](5.png)  \n##AWB (Balance du blanc automatique)  \nkoresha iyo r\u00e9glage aharihohose. Le dispositif mobile ikora uko ishoboye kugira itore ingen reglage nziza yokora mugabo ishobora gutanga r\u00e9sultats mbi iyo camera yihenze. Niyo r\u00e9glage mwokoresheje iyo mutazi r\u00e9glage mwohitamwo.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![](7.png)  \n## umuco w\u2019umusi koresha ubwo buhinga mugufata ama foto hanze. Bitanga ama sanamu afise ibara ry\u2019ubururu. Mugufata ama foto munzu, ubwo bwongera ku ma foto ibara ry\u2019umucungwe.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![](8.png)  \n## Nuageux  \nKoresha iyo r\u00e9glage mugufotorera hanze. Iyo r\u00e9glage izotuma kuma sanamu yanyu hba une couleur l\u00e9g\u00e8rement plus \u00ab chaude \u00bb. naho option y\u2019umuco w\u2019umusi ikoresha ubuhinga bwa balance des blancs itomoye, mugukresha le r\u00e9glage nuageux bitanga isanamu ikwega ijisho. Iyo muriko mufototrera munzu, iyo parametre, izotuma ama sanamu yanyu agira une teinte orange forte.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "![](9.png)  \n##Lumineux  \nKoresha iro reglage mugu fata ma sanamu munzu, aho ico cumba cakirijwe na ma ampoules traditionnelles l\u00e9g\u00e8res. Iyo muriko mufotorera hanze iyo parametre izoha am asanamu yanyu iune forte teint bleu.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "!(10.png)  \n## Fluorescent.  \nKoresha ubwo buryo mugufata ama foto munzu, aho iyo sale yakirijwe nama tubes fluorescentes maremare. Muriko murafata ama foto hanze, iyo param\u00e8tre ica ituma ma ama foto afise ibara ryubururu.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## Ntimwibagire  \nMushobora gukoresha ubuhinga bwo kunganisha ibara ryera mufatiye urukaratasi rwera imbrer ya camera. Uruhome rwera canke igikoreshobirashoboka. Mukoresha ubuhinga bunyaruka bwo kunganisha ibara ryera, mutumbereze camera yanyu kukintu mwifuje gufata hanyuma murindire hagati y\u2019imisegunda 3-5 imbere yo gutangura gufata. Ivyo bizokosora neza ubuhinga. Mwame mwibuka kuringaniza ibara ryera iyo muhinduye ahatndukanye naho mwariko murafatira.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Nubuhe budasa bwa mamabara, butanga umuco w\u2019umusi?  ", 
+            "choices": [
+                {
+                    "text": "Orange  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Noir  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Rouge  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ubururu  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Nirihe couleur de teinte itanga umuco artificielle?  ", 
+            "choices": [
+                {
+                    "text": "Orange  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Noir  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Rouge  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ubururu  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Ntazi iyo reglage nokoresha,nokoriki?  ", 
+            "choices": [
+                {
+                    "text": "Ibagira ico  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Koresha umunzane w\u2019ivyera binyaruka  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Gukoresha mode lumineux  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Koresha le r\u00e9glage nuageux  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Iyo muriko murafata ama sanamau hanze nuburinganire bw\u2019ibara ryera , nirihe bara isanamu yanyu iza gufita iyo munyiganyije munzu mudahinduye ubuhinga bwo kuringaniza ibara ryera?  ", 
+            "choices": [
+                {
+                    "text": "Bleu, Ubururu  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Vert , icatsi kibisi  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Orange  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Violet  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "11.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ubuhinga bwo kuringaniza ibara ryera mw\u2019isanamu  ", 
+            "exampleMediaPath": "11.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "R\u00e9glage de l\u2019\u00e9quilibre des blancs siyo muriyi pla yo hejuru. Niyihe reglage yokoreshejwe?  ", 
+            "choices": [
+                {
+                    "text": "Nuageux  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Umuco w\u2019umusi  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "bitumberejwe neza cane,Il est effectivement r\u00e9gl\u00e9 correctement.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Fluorescent  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_5"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "setting_white_balance_in_video", 
+    "title": "ubuhinga bwo gutumbereza ibara ryera mu masanamu  "
+}

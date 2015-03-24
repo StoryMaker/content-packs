@@ -1,0 +1,147 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Comment puis-je envoyer et recevoir des SMS en toute s\u00e9curit\u00e9?  ", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Dans cette le\u00e7on vous allez apprendre:  \n&bull; Les risques pos\u00e9s par la communication par les SMS  \n&bull; Comment sont surveill\u00e9s les messages SMS  \n&bull; Quelques techniques \u00e0 utiliser quand vous suspectez que vos SMS sont surveill\u00e9s  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "![Comment un SMS peut \u00eatre intercept\u00e9](2.png)  \n### Comment un SMS peut \u00eatre intercept\u00e9  \nLe SMS est une m\u00e9thode tr\u00e8s pratique d'envoyer un message, mais elle n'est pas \u00abs\u00e9curis\u00e9\u00bb. Les messages SMS sont enregistr\u00e9s par le fournisseur de service et peuvent \u00eatre intercept\u00e9s par ceux qui ont acc\u00e8s \u00e0 la tour cellulaire qui transmet le message. Vos messages SMS peuvent \u00eatre accessibles \u00e0 partir de votre t\u00e9l\u00e9phone, ou par toute personne ayant acc\u00e8s aux documents ou aux dossiers du fournisseur stock\u00e9es \u00e0 la tour cellulaire utilis\u00e9 pour la transmission.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Comment \u00e9viter le fait que votre SMS soit intercept\u00e9](3.png)  \n###  Comment \u00e9viter le fait que votre SMS soit intercept\u00e9  \nLe SMS est consultable et indexables. SMS non chiffr\u00e9 est facile \u00e0 surveiller. Si vous ou votre source peut \u00eatre menac\u00e9, vous devez envoyer des SMS seulement crypt\u00e9; les envoyer au minimum et seulement entre les t\u00e9l\u00e9phones anonymes.  \nPour envoyer un SMS crypt\u00e9, vous devez utiliser une application sp\u00e9cifique. Vous et votre source doit utiliser la m\u00eame application. Envoyer la source un message via votre application de choix pour initier un \u00e9change de cl\u00e9. Une fois que vous avez \u00e9chang\u00e9 les cl\u00e9s, vous pouvez communiquer avec votre source via textes crypt\u00e9s.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "## RAPPELEZ - VOUS: Vous devez utiliser l'application de texte crypt\u00e9 afin d'envoyer des textes crypt\u00e9s. Votre application de messagerie standard ne va pas envoyer des textes crypt\u00e9s.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![Restez s\u00e9curis\u00e9](4.png)  \nAvant de communiquer avec une source par SMS, d\u00e9terminer s'ils ont acc\u00e8s \u00e0 une application de SMS crypt\u00e9. Aussi assurez-vous qu'ils sont conscients que leur SMS peut \u00eatre lu par les autorit\u00e9s et s'attacher \u00e0 eux s'ils n'utilisent pas un t\u00e9l\u00e9phone anonyme.  \nNe pas transmettre des informations sensibles via SMS en clair, sauf si vous \u00eates pr\u00eat \u00e0 faire lire par les autorit\u00e9s. Tous les messages SMS peuvent \u00eatre enregistr\u00e9s par le prestataire de services et peuvent \u00eatre lues par les autorit\u00e9s.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![Lettres simples comme des codes](5.png)  \nUne m\u00e9thode simple pour \u00e9viter les failles de s\u00e9curit\u00e9 est de cr\u00e9er un syst\u00e8me de communication cod\u00e9 avec des coll\u00e8gues de confiance. Construire une collection de codes de relayer l'information de base. Par exemple, \"X\" pourrait signifier que vous \u00eates en danger, et \"Z\" pourrait signifier que vous \u00eates en s\u00e9curit\u00e9. \"Arbre\" pourrait signifier que vous souhaitez rencontrer. \"Banni\u00e8re\" pourrait \u00eatre un caf\u00e9 o\u00f9 vous pouvez rencontrer.  \nC'est \u00e0 vous de trouver un syst\u00e8me facile pour vous et vos sources \u00e0 retenir.  \nIl existe des solutions de logiciels tiers pour envoyer des SMS s\u00e9curis\u00e9, mais ils ne sont pas aussi faciles \u00e0 contr\u00f4ler comme un code de SMS personnelle.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![Supprimer les messages lus](6.png)  \n## Supprimer les messages lus  \nVous devriez toujours supprimer SMS envoy\u00e9 \u00e0 partir du dossier de votre t\u00e9l\u00e9phone. Il y'a rien de pire que de cr\u00e9er une archive index\u00e9e d'information qui attend les autorit\u00e9s \u00e0 revoir, dans le cas o\u00f9 vous \u00eates d\u00e9tenu.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "StoryMaker vous recommande l'utilisation de l'application d'Open Whisper Systems pour la messagerie chiffr\u00e9e, [TextSecure] (https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en)  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## A NE PAS OUBLIER  \n&bull; Tous les messages SMS peuvent \u00eatre enregistr\u00e9s par le prestataire de services et peuvent \u00eatre lues par les autorit\u00e9s.\n&bull; Si vous ou \u00a0votre source est menac\u00e9e et vous devez communiquer par SMS, vous devez \u00e0 la fois utiliser une application de SMS crypt\u00e9s \u00e0 tout moment.  \n&bull; Si vous avez acc\u00e8s \u00e0 une application de SMS crypt\u00e9 ou non, communiquer avec des t\u00e9l\u00e9phones toujours anonymes qui ne peuvent pas \u00eatre li\u00e9s \u00e0 votre identit\u00e9 personnelle par tous moyens, tels que la facturation ou l'enregistrement d'informations.  \n&bull; Veillez \u00e0 utiliser un syst\u00e8me de codes si vous ou \u00a0votre source n'avez pas acc\u00e8s \u00e0 une application de SMS crypt\u00e9 et SMS est votre seule forme de communication avec votre source.  \n&bull; Ne jamais garder une trace de vos messages SMS sur votre t\u00e9l\u00e9phone. Vos messages SMS peuvent \u00eatre lues si les autorit\u00e9s examinent les journaux de votre fournisseur de services.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Comment puis-je emp\u00eacher mes messages SMS d'\u00eatre lus?  ", 
+            "choices": [
+                {
+                    "text": "Supprimer tous les messages SMS du t\u00e9l\u00e9phone.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "V\u00e9rifiez que le r\u00e9cepteur supprime le message SMS apr\u00e8s lecture.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Utilise une application de SMS crypt\u00e9.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Utilisez un t\u00e9l\u00e9phone anonyme.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Comment puis-je communiquer par SMS en toute s\u00e9curit\u00e9?  ", 
+            "choices": [
+                {
+                    "text": "Utilise une application de SMS crypt\u00e9.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Utilisez un t\u00e9l\u00e9phone anonyme.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Supprimer tous les messages SMS du t\u00e9l\u00e9phone.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "V\u00e9rifiez que le r\u00e9cepteur supprime le message SMS apr\u00e8s lecture.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Comment puis-je prot\u00e9ger les renseignements que j'envoie par SMS si je ne peux pas chiffrer le message?  ", 
+            "choices": [
+                {
+                    "text": "Utilisez un t\u00e9l\u00e9phone anonyme.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Supprimer tous les messages SMS de mon t\u00e9l\u00e9phone.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "V\u00e9rifiez que le r\u00e9cepteur supprime le message SMS apr\u00e8s lecture.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Utilisez un code pr\u00e9alablement dispos\u00e9s en personne avec le destinataire de votre message.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "how_can_i_use_sms_safely", 
+    "title": "Comment puis-je utiliser SMS en toute s\u00e9curit\u00e9  "
+}

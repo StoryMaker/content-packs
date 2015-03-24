@@ -1,0 +1,186 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Quels sont les quelques techniques pour tirer le plus d'un interview?  ", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Dans cette le\u00e7on vous allez apprendre:  \n&bull; Comment se pr\u00e9parer pour un interview  \n&bull; Comment tirer les informations de votre sources  \n&bull; Quelques questions basique pour le d\u00e9but d'interview.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Interviewer bien est une comp\u00e9tence acquise. Dans la derni\u00e8re section que vous avez appris sur l'identification des sources et les diff\u00e9rents types d'informations qu'ils sont les mieux qualifi\u00e9s pour fournir. Dans cette section, vous apprendrez comment aborder le sujet ou la source pour obtenir l'information dont vous avez besoin sur le dossier.  \nCertains interviews peuvent \u00eatre arrang\u00e9s d'avance. Certains sont rapides, non planifi\u00e9s et faits \u00e0 la sc\u00e8ne. Les bons journalistes ont souvent des contacts \u00e9tablis - experts tels que les sources d'information ou des voix faisant autorit\u00e9 - ils peuvent les appeler pour un interview \u00e0 court pr\u00e9avis en cas de rupture ou de nouvelles un d\u00e9lai serr\u00e9.  \nLe type d'histoire que vous faites et les circonstances de l'interview permettra de d\u00e9terminer les techniques que vous utilisez et votre capacit\u00e9 \u00e0 appliquer les principes pr\u00e9sent\u00e9s ici. L'enregistrement des interviews a des exigences particuli\u00e8res; vous devez \u00eatre s\u00fbr que vous avez du mat\u00e9riel d'enregistrement utilisable. Ce sera couvert dans les modules audio et vid\u00e9o.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![types des sources](2.png)  \nLe type de sources que vous interviewez et le r\u00f4le qu'ils joueront dans votre couverture devraient d\u00e9terminer les types de questions que vous posez. La quantit\u00e9 de temps que vous avez va \u00e9galement affecter la fa\u00e7on dont vous menez votre entrevue.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "## Se pr\u00e9parer pour un interview  \n### recherche de base  \nFaites quelques recherches avant l'interview si possible. Vous poser de meilleures questions, plus pertinentes. Cela permet de savoir un peu plus sur la personne que vous interviewez.  \n###  Pr\u00e9parez quelques questions introductives  \nC'est toujours une bonne id\u00e9e d'avoir quelques questions de base pr\u00e9par\u00e9es. \u00e7a fait gagner du temps et maintient l'interview centr\u00e9.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## Exemple de notes bien pr\u00e9par\u00e9s pour une interview  \n### L'Intro ou les questions d'\u00e9chauffement  \n** Posez ces questions\u00a0 t\u00f4t pour mettre l'objet \u00e0 l'aise; ce sont des questions faciles et impersonnelles.**  \n&bull; Quel est votre nom complet (et le titre) comme vous le souhaitez pour l'article? (Ne oubliez pas de confirmer l'orthographe des noms -. M\u00eame ceux qui semblent \u00e9videntes)  \n&bull; O\u00f9 vous avez \u00e9tudi\u00e9?  \n&bull; Quels sont les mat\u00e9riaux que vous utilisez et pourquoi vous les utilisez?  \n### Principales questions de l'interview  \n** C'est l\u00e0 \u00a0 o\u00f9 vous collectez les informations les plus int\u00e9ressantes et utiles.**  \n&bull; Comment d\u00e9crivez-vous le but de votre travail aux autres?  \n&bull; Quelles sont les influences ou les inspirations pour votre \u0153uvre d'art?  \n&bull; Comment la r\u00e9volution a t-elle influenc\u00e9 les th\u00e8mes et les sujets adress\u00e9s par vos d'\u0153uvres d'art?  \n&bull; Quel r\u00f4le jouent les artistes dans votre communaut\u00e9?  \n### Questions de cl\u00f4ture  \n** C'est souvent l\u00e0 vous posez des questions les plus difficiles ou r\u00e9v\u00e9lateurs, avec la derni\u00e8re question ci-dessous.**  \n&bull; Vos critiques disent que vous \u00eates un peu plus d'un artiste\u00a0 de graffiti dans les rues ou un simple illustrateur. Comment r\u00e9agissez-vous \u00e0 ces critiques?  \n&bull; Y a t-il autre chose que vous voudriez ajouter ou que vous pensez important pour notre public de savoir?  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "3.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Exemple d'un d\u00e9but d'un interview  ", 
+            "exampleMediaPath": "3.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "## Avoir une explication d'une phrase de votre histoire pour vos sources  \nVous devez faire comprendre \u00e0 votre source le sujet de votre histoire. Cela aidera votre source de rester concentr\u00e9 et de vous donner des r\u00e9ponses pertinentes.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "## Mener une Interview  \n### S'identifier comme un journaliste  \nDans de nombreux cas ce sera \u00e9vident, mais pas dans toutes les situations. Ceci est particuli\u00e8rement important en ligne. Il est \u00e9thiquement et professionnellement tr\u00e8s important de le faire, mais il y'a quelques exceptions. (Pour plus sur cette section 8 sur les normes et l'\u00e9thique professionnelle).\nLaissez le sujet savoir si vous ou un autre journaliste serez utilisez un appareil photo pour enregistrer des photos ou vid\u00e9o - le sujet ne doit pas \u00eatre pris surpris ou d\u00e9pourvu. Dans certains endroits, l'autorisation explicite est n\u00e9cessaire pour enregistrer de l'audio ou de la vid\u00e9o. Conna\u00eetre les lois o\u00f9 vous d\u00e9clarez. Si l'autorisation est n\u00e9cessaire, demander \u00e0 la source avant de l'enregistrement, puis demander \u00e0 nouveau apr\u00e8s l'enregistrement que vous avez un enregistrement de lui.  \n### Commencer par les questions de base  \nSelon la quantit\u00e9 de temps que vous avez, il est important de commencer avec, questions de base. Aider les gens \u00e0 \u00eatre \u00e0 l'aise avant de commencer \u00e0 demander  plus  de questions \u00e9motionnelles, difficiles ou compliqu\u00e9s. \u00e7a peut aider \u00e0 donner aux gens des informations sur vous-m\u00eame.  \n### Contr\u00f4ler l'interview  \nParfois, les gens ont des attentes pour votre interview qui sont diff\u00e9rentes de la v\u00f4tre. Les politiciens essaient fr\u00e9quemment de tourner une interview \u00e0 des sujets importants pour eux. Les citoyens qui ne connaissent pas le processus de l'interview parlent souvent de choses sans rapport avec le sujet. Vous devez \u00eatre poli mais solide dans le contr\u00f4le de l'entrevue. Les monologues ne sont jamais aussi informative que des interviews, comprenant des questions et des r\u00e9ponses courtes et pertinentes.  \n### Ne pas pr\u00e9cipiter la r\u00e9ponse  \nS'il est important de contr\u00f4ler le rythme de l'interview, il est important de laisser les gens compl\u00e8tent une pens\u00e9e. Les gens vont parfois tenter de combler un silence g\u00ean\u00e9 en disant plus - parfois plus que ce qu'ils devraient!  \n### Sonder et \u00e9clairer  \nParfois les sources ne sont pas bonnes \u00e0 r\u00e9pondre clairement aux questions. D'autres fois, ils sont intentionnellement en train d'essayer d'\u00e9viter de r\u00e9pondre \u00e0 une question. Dans les deux cas, vous pouvez poser votre question une mani\u00e8re diff\u00e9rente. Parfois il est utile de r\u00e9affirmer la r\u00e9ponse \u00e0 la source: \"oui, vous dites que ...\" comme un moyen de confirmer une r\u00e9ponse. Avec les politiciens, il peut \u00eatre utile de demander une version plus g\u00e9n\u00e9rale d'une question s'ils refusent de r\u00e9pondre sp\u00e9cifiquement.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "4.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Exemple de la fa\u00e7on de contr\u00f4ler une interview, sonder et clarifier  ", 
+            "exampleMediaPath": "4.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "### Poser des questions cons\u00e9cutivement  \nNe soyez pas si attach\u00e9 \u00e0 vos questions pr\u00e9par\u00e9es et prises comme des notes / enregistr\u00e9es que vous oubliez de poser des questions de suivi. Parfois, l'information la plus pr\u00e9cieuse provient de la questions que vous ne avez pas l'intention de la demander.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "5.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Exemple de poser une question sensible et terminer une interview  ", 
+            "exampleMediaPath": "5.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "### Terminer un interview  \nc'est une bonne id\u00e9e de terminer toujours l'interview par deux questions:  \n&bull; **\" Y' a t-il une autre chose que vous voulez dire?\"**\nCela donne \u00e0 votre source de l'occasion pour vous donner des informations importantes \u00e0 lui / elle ou pour r\u00e9pondre aux questions que vous ne pensez pas \u00e0 demander.  \n&bull; **\"Puis-je vous contacter si j'ai d'autres questions?\"**\nCela vous permettra de suivre dans le cas o\u00f9 vous ou un \u00e9diteur a besoin de clarifier quelque chose ou si il y'a un d\u00e9veloppement dans l'histoire pour laquelle vous avez besoin d'une r\u00e9ponse.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## A NE PAS OUBLIER  \n\n&bull; \u00catre pr\u00eat pour votre entrevue. Faire quelques recherches. Avoir quelques questions pr\u00eates.  \n&bull; Les d\u00e9fis les plus communs \u00e0 un bon entretien sont le temps et sources r\u00e9ticents ou difficiles.  \n&bull; Prioriser vos questions et identifier le seul bit, le plus essentiel de l'information dont vous avez besoin \u00e0 partir d'un sujet.  \n&bull; Essayez de faire sentir votre sujet confortable.  \n&bull; Si la source est difficile parce qu'il / elle est mal \u00e0 l'aise ou parce qu'il ya quelque chose qu'il / elle ne veut pas vous dire, une interview peut parfois devenir une n\u00e9gociation.\n&bull; En tant que journaliste, vous devez \u00eatre s\u00e9v\u00e8re mais juste.  \n&bull; Parfois les sources reconnaissent que \"aucun commentaire\" r\u00e9pond ou est une r\u00e9ponse vague \u00e0 une question ce qui va les faire para\u00eetre plus pire dans la presse qu'une r\u00e9ponse claire. Vous pouvez choisir de le souligner.  \n&bull; Votre histoire sera plus int\u00e9ressante si vos entretiens comprennent personnes ayant des points de vue oppos\u00e9s.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Quelles sont les choses que vous pourriez faire si vous interviewez quelqu'un r\u00e9ticents \u00e0 parler?  ", 
+            "choices": [
+                {
+                    "text": "Passer  vite \u00e0 la question la plus importante.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Poser la question Pourquoi le sujet est r\u00e9ticent, et voir si une solution peu \u00eatre n\u00e9goci\u00e9e.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Avec un personnage public, vous pourriez souligner qu'un \u00abaucun commentaire\u00bb lui fera mal para\u00eetre.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Tout ce qui pr\u00e9c\u00e8de.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Vrai ou Faux: Si un sujet est r\u00e9ticent \u00e0 r\u00e9pondre \u00e0 une question importante, plut\u00f4t que de retraiter la question diff\u00e9remment ou essayer de pousser la question en sondant, vous devriez laisser tomber.  ", 
+            "choices": [
+                {
+                    "text": "Vrai  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Faux  ", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Lesquels de ces trucs vous ne devez JAMAIS Faire dans un interview:  ", 
+            "choices": [
+                {
+                    "text": "Laisser la conversation se mette en silence pour les p\u00e9riodes d\u00e9licats.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Expliquer le sujet de l'histoire.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "\u00c0 la fin de l'interview, demander \u00e0 la source si il ou elle a quelque chose \u00e0 ajouter.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Aucune de ces r\u00e9ponses.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "interview_techniques", 
+    "title": "Techniques d'interview  "
+}

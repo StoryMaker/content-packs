@@ -1,0 +1,203 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "C\u00f3mo puedo usar el sonido, de la mejor forma, dependiendo del t\u00edpo de historia que este realizando?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1s a:\u25a0&bull; C\u00f3mo el t\u00edpo de historia ayuda a saber tu estilo producci\u00f3n y presentaci\u00f3n de audio.\u25a0&bull; C\u00f3mo decidir qu\u00e9 voces necesitas en  tu historia.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Dependiendo de lo que trate tu historia y de c\u00f3mo lo quieres abordar, deber\u00edas usar diferentes estilos de producci\u00f3n de audio y presentaci\u00f3n.\u25a0A veces, puede que te encuentres en medio de un evento o una noticia de \u00faltima hora, lo cual hace, m\u00e1s \u00fatil para esa situaci\u00f3n, un estilo espec\u00edfico de presentaci\u00f3n de audio. Alternativamente, tal vez, estes haciendo una parte del perfil o una noticia sobre un problema que involucra a diferentes testigos y diferentes voces, la cual necesitar\u00eda otro abordage .\u25a0 Mientras cada situaci\u00f3n  puede ser abordada en mas de una manera, aqui hay algunos pasos y pautas determinadas que puedes seguir, con el fin de presentar mejor los espec\u00edficos tipos de historias.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": " Destacados/noticias de \u00faltima hora", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "2.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo de una noticia de \u00faltima hora.", 
+            "exampleMediaPath": "2.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Un informe de noticias de \u00faltima hora ( noticias duras ) requiere una pieza de audio que explique lo que est\u00e1 sucediendo, resumiendo los puntos clave, los principales actores, y cualquier informaci\u00f3n que se conozca hasta el momento. Porque tales informes son sobre algo que todav\u00eda puede estar pasando, a veces habr\u00e1 preguntas sin respuesta que se abordar\u00e1n en los informes de seguimiento. Las noticias de \u00faltima hora pueden ofrecer a un reportero en un lugar de los hechos, con su voz, explicando lo que se sabe hasta el momento y lo que puede ser visto sobre el terreno desde ese punto de ventaja.\nEn algunos casos, una noticia de \u00faltima hora pude ser introducida desde una localizaci\u00f3n remota basada en reportajes de segunda mano cuando no es posible estar all\u00ed. Es crucial que al menos tu cubras las siguientes questiones: qui\u00e9n, qu\u00e9, d\u00f3nde, por qu\u00e9, cu\u00e1ndo y c\u00f3mo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "#Eventos", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "3.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo del reportaje de un evento.", 
+            "exampleMediaPath": "3.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "A diferencia de las historias de noticias de \u00faltima hora,  los eventos son normalmente programados, lo cual le permite a un reportero preparar como el o ella quiere contar su historia de antemano. Un reportaje de audio sobre un evento deber\u00eda destacar el quien, el c\u00f3mo, y el por qu\u00e9 de la informaci\u00f3n. Es tambi\u00e9n \u00fatil el tener entrevistas o comentarios de los participantes quienes puedan dar una informaci\u00f3n u observaciones adicionales. Los eventos, amenudo tienen participantes principales tales como invitados de honor o conferenciantes quienes puedes contactar antes del evento para programar una entrevista. Incluso si decides no usar el audio de esas entrevistas, es bueno el hacerlas y tener ese audio como una opci\u00f3n para tu pieza final. \u25a0 Como con la mayor\u00eda de tipos de historias de audio, tu puedes utilizar una voz como el narrador explicando lo que esta pasando y el por qu\u00e9. El narrador puede ser alguien en un estudio o alguien en un lugar presentando entrevistas y otra informaci\u00f3n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "# Asunto", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "4.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo de una historia emitida.", 
+            "exampleMediaPath": "4.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "A diferencia de las historias de noticias de \u00faltima hora,  los eventos son normalmente programados, lo cual le permite a un reportero preparar como el o ella quiere contar su historia de antemano. Un reportaje de audio sobre un evento deber\u00eda destacar el quien, el c\u00f3mo, y el por qu\u00e9 de la informaci\u00f3n. Es tambi\u00e9n \u00fatil el tener entrevistas o comentarios de los participantes quienes puedan dar una informaci\u00f3n u observaciones adicionales. Los eventos, amenudo tienen participantes principales tales como invitados de honor o conferenciantes quienes puedes contactar antes del evento para programar una entrevista. Incluso si decides no usar el audio de esas entrevistas, es bueno el hacerlas y tener ese audio como una opci\u00f3n para tu pieza final. \u25a0 Como con la mayor\u00eda de tipos de historias de audio, tu puedes utilizar una voz como el narrador explicando lo que esta pasando y el por qu\u00e9. El narrador puede ser alguien en un estudio o alguien en un lugar presentando entrevistas y otra informaci\u00f3n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "5.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo de una historia usando m\u00faltiples contribuyentes.", 
+            "exampleMediaPath": "5.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "##COSAS A RECORDAR\n\u25a0&bull; Asegurate de tener, siempre que te sea posible, obsevaciones de primera mano y entrevistas.\u25a0&bull; Es bueno tener m\u00e1s de una voz en una historia.\u25a0&bull; Incluye diferentes tipos de fuentes en tus historias.\u25a0&bull; Asegurate de presentar las respuestas cl\u00e1sicas a: qui\u00e9n, qu\u00e9, d\u00f3nde, cu\u00e1ndo, y por qu\u00e9 en una historia.\u25a0&bull; S\u00e9 claro, y centrate en un solo t\u00f3pico primario en cada historia.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "El prop\u00f3sito principal de una noticia de \u00faltima hora es.", 
+            "choices": [
+                {
+                    "text": "Para hacer un audio largo y detallado, incluyendo una intensiva busqueda y muchas entrevistas.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Presentar un invitado de honor que est\u00e1 hablando en una conferencia especial.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Para resumir que informaci\u00f3n esta disponible con respecto a lo que este sucediendo ahora; el resultado a\u00fan no es completamente conocido y requerir\u00e1 informes de seguimiento.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "NInguna de las anteriores.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "La ventaja de producir un informe de audio sobre un evento es", 
+            "choices": [
+                {
+                    "text": "Con antelaci\u00f3n, puedes preparar una investigaci\u00f3n y entrevistas programadas relacionadas con el evento.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "No tienes tiempo de hacer una investigaci\u00f3n, s\u00f3lo di lo que sabes.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "No es posible hacer entrevistas en un evento.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todo lo anterior.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "En que t\u00edpo de historias de audio se puede utilizar la narraci\u00f3n:", 
+            "choices": [
+                {
+                    "text": "Problema.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Acontecimiento.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Perfil", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todas las de arriba", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "types_of_stories", 
+    "title": "Tipos de historias"
+}

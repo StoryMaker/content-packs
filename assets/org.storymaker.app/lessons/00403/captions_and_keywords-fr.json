@@ -1,0 +1,227 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Comment puis-je \u00e9crire une l\u00e9gende de base pour accompagner une photo?  ", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Dans cette le\u00e7on vous allez apprendre:  \n&bull; Comment \u00e9crire une l\u00e9gende de base pour une photographie.  \n&bull; Comment \u00e9crire des balises et des mots-cl\u00e9s pour une photographie.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "## Exemple de photo avec des l\u00e9gende, des mots cl\u00e9s et des balises fiables.\n![Exemple de Photo](2.jpg)  \n### L\u00e9gende: 10 Juin2012 - Tripoli, La Libye -  Les fans de football c\u00e9l\u00e8brent une victoire 2-1 contre le Cameroun en match de qualification Coupe du Monde.  \n### Mots cl\u00e9s: Tripoli, Libye, Cameroon, Coupe de Monde, Moyen Orient  \n### Balises: Sports, c\u00e9l\u00e9bration, drapeaux, Coupe de Monde, fans  \nChaque photo a besoin d'une l\u00e9gende et mots cl\u00e9s / tags. Une bonne l\u00e9gende fournit le public des informations de base et le contexte pour comprendre une photographie et sa pertinence pour les nouvelles: o\u00f9 la photo a \u00e9t\u00e9 prise, quand il a \u00e9t\u00e9 pris, et une tr\u00e8s br\u00e8ve description de ce qui est sur la photo. Les moteurs de recherche et les champs de recherche sur des sites comme Flickr ne peuvent pas reconna\u00eetre les images. Ils ne peuvent reconna\u00eetre le texte associ\u00e9 \u00e0 l'image. Les mots cl\u00e9s et les \u00e9tiquettes, avec la l\u00e9gende, aident les t\u00e9l\u00e9spectateurs \u00e0 trouver des images \u00e0 travers les moteurs de recherche.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## Exemple de photo avec une mauvaise l\u00e9gende  \n![Example photo.](3.jpg)  \n### Mauvaise l\u00e9gende:  \n### Bonne l\u00e9gende:  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Les l\u00e9gendes doivent \u00eatre claires, exactes et compl\u00e8tes quant aux informations qu'elles fournissent \u00e0 propos de la photo.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## Les l\u00e9gendes dans les reportages photographiques  \nLes l\u00e9gendes pour un reportage photo ne devraient pas r\u00e9p\u00e9ter la m\u00eame information \u00e0 plusieurs reprises. R\u00e9diger des l\u00e9gendes que des explications br\u00e8ves et progressistes de l'image individuelle dans le contexte de l'ensemble du diaporama. Dans certains cas, vous pouvez les pr\u00e9senter comme des cartes de titres qui pr\u00e9sentent des anecdotes courtes. Anecdotes sont des informations ou des statistiques suppl\u00e9mentaires qui aident \u00e0 fournir un contexte.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![Exemple de photo.](4.jpg)  \n### Bonne l\u00e9gende:  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![Example photo.](5.jpg)  \n### Bonne l\u00e9gende: 27 Avril 2006 -- Birqash, Egypte-- Un jeune gar\u00e7on aide \u00e0 charger  des chamelons sur remorques au March\u00e9 Chameau dans Birqash, une heure au nord-ouest du Caire. Des centaines d'animaux font le voyage d'aussi loin que le sud du Soudan \u00e0 ce qui est peut-\u00eatre le plus ancien et le plus grand march\u00e9 aux chameaux restant dans le Moyen-Orient. Les animaux sont vendus pour la viande, ainsi que pour le transport. (John Smock/SIPA Press)  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![Example photo.](6.jpg)  \n### Bonne l\u00e9gende: 27 Avril 2006 \u2014 Birqash, Egypte \u2014 Un marchand de chameau poursuit un chameau au march\u00e9 de chameau dans Birqash, une heure au nord-ouest du Caire. La vente des viande de chameau est \u00e0 la hausse en Egypte et les pays environnants en r\u00e9ponse \u00e0 l'\u00e9pid\u00e9mie de la grippe aviaire, qui a rendu le poulet impropre \u00e0 la consommation. (John Smock/SIPA Press)  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## L'\u00e9criture des l\u00e9gendes\nUne l\u00e9gende doit \u00eatre une ou deux phrases. Dans la plupart des l\u00e9gendes de photo la premi\u00e8re phrase identifie les personnes et l'emplacement de la photo et date \u00e0 laquelle elle a \u00e9t\u00e9 prise. La deuxi\u00e8me phrase devrait fournir des informations contextuelles pour aider le public \u00e0 comprendre ce qu'ils regardent.\n\nLa premi\u00e8re phrase devrait:\n&bull; \u00catre \u00e9crite dans le temps pr\u00e9sent.\n&bull; \u00catre \u00e9crite comme une phrase compl\u00e8te.\n&bull; D\u00e9crire ce qui est dans l'image.\n&bull; Dire exactement quand elle a \u00e9t\u00e9 prise.\n&bull; Dire exactement o\u00f9 elle a \u00e9t\u00e9 prise.\n\nUne deuxi\u00e8me ou parfois troisi\u00e8me phrase:\n&bull; Typiquement peut \u00eatre \u00e9crit dans le pass\u00e9 si cela fait plus de sens.\n&bull; Devrait \u00eatre \u00e9crit comme une phrase compl\u00e8te.\n&bull; Devrait fournir un contexte pour permettre au public de mieux comprendre l'importance de l'image.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "### Exemple:  \nUn enfant gravement br\u00fbl\u00e9 par une voiture pi\u00e9g\u00e9e le 9 Juin 2010, re\u00e7oit des soins \u00e0 l'Institut Indira Gandhi de m\u00e9decine d'enfants \u00e0 Kaboul, en Afghanistan. Les m\u00e9decins sont aux prises avec des m\u00e9dicaments limit\u00e9es pour traiter le nombre croissant d'enfants victimes dont les blessures sont souvent aggrav\u00e9es par d'autres probl\u00e8mes m\u00e9dicaux, tels qu'une mauvaise alimentation, qui diminuent la capacit\u00e9 de l'enfant \u00e0 gu\u00e9rir. (John Smock/SIPA Press).  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "![Example photo.](8.jpg)  \n### Bonne l\u00e9gende: ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "![Example photo.](8.jpg)  \nL'artiste de rue \u00e9gyptien Gameer a inaugur\u00e9 une exposition de ses \u0153uvres cette semaine \u00e0 une galerie au Caire. Gameer a \u00e9t\u00e9 arr\u00eat\u00e9 pour son travail pendant la r\u00e9volution (Photo: John Smock)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "![Exemple de photo.](9.jpg)  \n### Bonne l\u00e9gende:  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "text": "Le format exact pour les l\u00e9gendes peut varier, mais une l\u00e9gende de la photo de base devrait:\n&bull; Identifier clairement les personnes et la localisation dans la photo. Les titres professionnels et le nom officiel de l'emplacement devraient \u00eatre inclus. Dans les grands groupes, les identifications de personnes uniquement notables peuvent \u00eatre n\u00e9cessaires. Lors d'\u00e9v\u00e9nements publics o\u00f9 les individus dans le cadre ne sont pas significatifs aucune ID peuvent \u00eatre n\u00e9cessaires.  \n&bull; Inclure la date de la photographie a \u00e9t\u00e9 prise. Si une photographie d'archives ou une photographie prise avant l'\u00e9v\u00e9nement est utilis\u00e9, la l\u00e9gende devrait indiquer clairement que c'est une \"photo de fichiers.\"  \n&bull; Fournir un contexte ou le fond pour les membres du public afin qu'ils puissent comprendre la valeur de l'information de la photo.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "text": "## Les mots-cl\u00e9s et Les \u00e9tiquettes  \n![Tags: ](10.jpg)  \n### Tags:  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_14"
+        }, 
+        {
+            "text": "## Conseils pour l'\u00e9criture des mots cl\u00e9s et des \u00e9tiquettes  \n&bull; Inclure une information g\u00e9ographique compl\u00e8te.  \n&bull; S\u2019\u00e9loigner de l\u2019abr\u00e9viation  \n&bull; Mot-cl\u00e9 avec le genre de photo (portrait, d\u00e9monstration, \u00e9conomie).  \n&bull; Consid\u00e9rez le choix des mots: Quelqu'un peut-il utiliser un autre mot plus naturellement pour effectuer une recherche?  \n&bull; Pensez \u00e0 des mots li\u00e9s \u00e0 votre sujet qui pourraient aider \u00e0 diriger les gens vers votre photo.  \n&bull; Utilisez des mots communs qui refl\u00e8tent des sujets sp\u00e9cifiques. Par exemple, avec la s\u00e9curit\u00e9 informatique: piratage, pirates, la s\u00e9curit\u00e9, pare-feu, attaque, r\u00e9seau, d\u00e9faut.  \n&bull; L'ordre des mots-cl\u00e9s / tags est important; le premier couple de mots sont \u00e9valu\u00e9s plus lourdement.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_15"
+        }, 
+        {
+            "text": "# Exemples d'astuce  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_16"
+        }, 
+        {
+            "text": "![Tags: Photo, Man, ID-card, Burundi, Fingerprint, Voter Registration](11.jpg)  \n### Tags: Photo, Man, ID-card, Burundi, Fingerprint, Voter Registration", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_17"
+        }, 
+        {
+            "text": "![Tags: Journalists, Boss, Conference, Meeting, Africa, Phone, Paper](12.jpg)   \n### Tags:", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_18"
+        }, 
+        {
+            "text": "![Tags: \u00e9lection, Arabe, Arabo-Am\u00e9ricain, Etats-Unis, politiques, femmes, filles, vote, voter](13.jpg)  \n### Tags: \u00e9lection, Arabe, Arabo-Am\u00e9ricain, Etats-Unis, politiques, femmes, filles, vote, voter  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_19"
+        }, 
+        {
+            "text": "## A NE PAS OUBLIER  \n&bull; Les l\u00e9gende et les mots-cl\u00e9s de base doivent toujours \u00eatre inclus.  \n&bull; Assurez-vous que les noms de personnes et de lieux sont correctement identifi\u00e9s et pr\u00e9cis\u00e9s.  \n&bull; Soyez pr\u00e9cis.  \n&bull; Le photojournalisme est le journalisme.  \n&bull; Si une photo est manipul\u00e9e num\u00e9riquement del\u00e0 du simple dimensionnement et de contr\u00f4le de couleur, il doit \u00eatre \u00e9tiquet\u00e9 comme un \u00abphoto d'illustration\" dans la l\u00e9gende ou dans le cr\u00e9dit photo. Si les techniques de photo inhabituels sont utilis\u00e9s, tels que l'effet de la gamme dynamique \u00e9lev\u00e9e (HDR) , il faut noter dans la l\u00e9gende.  \n&bull; Ne pas \u00e9ditorialiser ou faire des hypoth\u00e8ses sur ce que quelqu'un dans une image est en train de penser\u00a0 sentir, par exemple: \u00abun \u00e9lecteur m\u00e9content\u00bb ou \u00abun survivant chanceux.\"  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_20"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "La premi\u00e8re phrase d'une l\u00e9gende de photo devrait inclure", 
+            "choices": [
+                {
+                    "text": "Une br\u00e8ve description de la sc\u00e8ne dans l'image, la date, les emplacements et les noms des personnes importantes ou des rep\u00e8res.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Une histoire de l'\u00e9v\u00e9nement photographi\u00e9.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "L'interpr\u00e9tation d'un photographe de ce que les gens dans l'image se sentent.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Tout ce qui pr\u00e9c\u00e8de.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Vrai ou Faux: Mots-cl\u00e9s et des \u00e9tiquettes non seulement aide les gens \u00e0 trouver vos images en ligne, ils vous aident et aident aussi les organisations de presse de trouver des images plus facilement dans votre archive de photos.  ", 
+            "choices": [
+                {
+                    "text": "Vrai  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Faux  ", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Une bonne l\u00e9gende est celle qui a les caract\u00e9ristiques suivantes (il peut \u00eatre plus d'un).", 
+            "choices": [
+                {
+                    "text": "Le lieu et la date de la photo a \u00e9t\u00e9 prise est clair.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Les personnes significatives repr\u00e9sent\u00e9s sont identifi\u00e9s par leur nom complet et le titre.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Il n'y a aucune faute d'orthographe ou de grammaire.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Tout ce qui pr\u00e9c\u00e8de.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "text": "![](15.jpg)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_21"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Quelle est la meilleure l\u00e9gende de l'image ci-dessus?  ", 
+            "choices": [
+                {
+                    "text": "2 December \u2013 Bujumbura \u2013 Famous Burundese rapper Thomas Nzeyimana (aka Mkonbozi) at the Afro Music Studio in the Buyenzi neighborhood in Bujumbura, Burundi.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Des soldats dans la route le jour des \u00e9lections dans la R\u00e9publique de G\u00e9orgie.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Incredibly talented Burundese rapper talks about why music matters.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "captions_and_keywords", 
+    "title": "L\u00e9gendes et mots cl\u00e9s"
+}

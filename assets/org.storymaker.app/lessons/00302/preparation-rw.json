@@ -1,0 +1,125 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Gutora sujet nziza niyo shingiro y\u2019inkuru yawe mugabo n\u2019ubuhe buryo bwiza bwo guhitamwo sujet no gutegura inkuru yawe?  ", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Muri iki cigwa muzokwiga  \n&bull; ico mutegerezwa kwiyumvira imbere yo gutangura inkuru yawe.  \n&bull; gute wotegura inkuru yawe.  \n&bull; gute wiyumvira abo ushaka guha inkuru mumwanya umwe wiyumvira n\u2019inkuru yawe.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Imbere yo gutangura gukora igice c\u2019ijwi, hariho ibibazo mubanza kwishura\u2026n\u2019ubuhe buryo burashe bwokumvisha inkuru yawe ?mbega n\u2019inkuru y\u2019umunsi mukuru ,y\u2019umuntu canke ikibazo kizwi kiraho ?menya ko iyo nkuru iraba ibintu vyabaye vuba, ingaruka y\u2019iyo ngorane kubanyagihugu canke inkuru k\u2019umuntu ahambaye\u2026angle y\u2019iyo nkuru yawe ni iyihe ?uburyo bwizabwokwiyumvira sujet iryoshe gukora ukiyumvira kandi gute iyo nkuru iza gukorako abantu basanzwe\u2026ni bande ugomba guha inkuru yawe ?n\u2019igiki kiryoshemwo kuburyo boyumviriza ?murashobora gushikiriza inkuru mu buryo bwumvikana kandi buryohoye ?ni bihe bice bitandukanye bigize iyo nkuru yawe ?....nayahe majwi mushaka gufata ?ibiganiro,canke ibice vy\u2019insiguro zihambaye vyamajwi y\u2019inkuru ?...mbe hakenewe umwanya ungana gute kugira ukore inkuru yawe ? ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "2.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "N\u2019ubuhe bwoko bwa segment y\u2019amajwi mutoshobora gukora iyaba mwari mwishamba?  ", 
+            "exampleMediaPath": "2.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Umaze gushira aho ingene ugukora ,utegerezwa kwitegura neza .ukiha umwanya wo gufata amajwi n\u2019abaguha inkuru.ugategura aho uza gufatira amajwi ukaharaba ko hateguye neza kugira uze gukorera ahantu hahuye n\u2019ivyo uza gukora.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "3.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Akarorero k\u2019icegeranyo c\u2019amajwi y\u2019umuntu wambere  ", 
+            "exampleMediaPath": "3.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "![itegurwa ry\u2019amajwi](4.png)  \ntegura neza ngene uzofata amajwi imbere yuko utangura gufata amajwi. Iyo nteguro yawe itegerezwa kuba ifise.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Ntiwibagire kwibaza :kuberiki ndiko ndagira uyu mugambi ?mbe hariho abantu bazwi ushaka gushikira?  \nTanaga umwanya ukwiye mu gusohora no kwerekana inkuru yawe.birashoboka kushobora guhindura plan uravye amasanamu hamwe n\u2019inkuru ushobora kuronka.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "## ICO KUTIBAGIRA  \n&bull; Tegura igikorwa cawe, ntufate amajwi vyose\n&bull; capa ngene uza gukora kugira bize kugufasha mugihe uzoba uriko uravugana nabo bantu canke uriko uramufata amajwi.hamagara abozoguha ikiganiro hakiri kare ubabaze aho mwohurira na ryari mwobonana\n&bull; Banza mwiyumvire abo mushaka kubwira inkuru yanyu imbere yukuvuga uti ngira nkore iyi nkuru canke ngira mfate amajwi ameze gutya.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "N\u2019ubuhe bwoko bwa segment y\u2019amajwi mutoshobora gukora iyaba mwari mwenyene mwishamba?  ", 
+            "choices": [
+                {
+                    "text": "Icegeranyo c\u2019umuntu wambere  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "I segment de  style documentaire ihagaze kumajwi y\u2019ibidukikije  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Ikiganiro  ", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Nimba mushaka guhabwa ikiganiro n\u2019umukuru w\u2019igisagara gikomeye, gute mwobikora?  ", 
+            "choices": [
+                {
+                    "text": "Hamagara kubiro iwe ,idondore n\u2019ikikungenza ,hama hana isango.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Kuja mubiro k\u2019umukuru w\u2019igisagara uno munsi hama usabe ushimike aguhe ikiganiro cihuta.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Menya aho umukuru w\u2019igisagara afungurira hama winyegeze inyuma y\u2019igiti mugihe azoba asohotse.  ", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "preparation", 
+    "title": "Itegugwa  "
+}

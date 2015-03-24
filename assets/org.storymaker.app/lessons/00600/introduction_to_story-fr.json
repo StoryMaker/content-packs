@@ -1,0 +1,17 @@
+{
+    "cards": [
+        {
+            "text": "## INTRODUCTION A L'HISTOIRE  \nUne communication puissante passe par l'histoire. les faits et les informations, eux-m\u00eames, peuvent \u00eatre difficiles \u00e0 dig\u00e9rer, \u00e0 s'en souvenir, ou partager. Si vous fournissez des informations sans histoire, ce que vous produisez peut \u00eatre difficile pour le public de comprendre et ne sera pas un impact sur votre auditoire. Le bon journalisme engage \u00e0 la fois le c\u0153ur et l'esprit par une bonne narration.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Dans cette section, nous allons vous pr\u00e9senter les \u00e9l\u00e9ments essentiels d'une bonne narration d'histoire. Si vos histoires ont toutes ces \u00e9tapes, fabriqu\u00e9s correctement, vous aurez une histoire puissante qui a une forte probabilit\u00e9 de cr\u00e9er un journalisme convaincant.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "introduction_to_story", 
+    "title": "Introduction \u00e0 l'histoire  "
+}

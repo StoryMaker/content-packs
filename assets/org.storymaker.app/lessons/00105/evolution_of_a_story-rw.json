@@ -1,0 +1,196 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Mpindura gute ingene nkora inkuru mfatiye ukwo ibandanya ihinduka?  ", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "##Muri kino cigwa uzokwiga:  \n&bull; Ingene Ibigo bimenyesha inkuru bibandanya bitanga inkuru, bita ihinduka ry'inkuru  \n&bull; Ubwoko bw'inkuru ingene bwitwa  \n&bull; Ubuhinga bugumiza inkuru nzima nk'uko inkuru ihinduka  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Inkuru zimwe zimwe ziraravya. Zirashuha cane muga zikamara akanya gato. izindi nkuru ziduga bukebuke, zigakomera bukebuke uko umwanya ugenda. Izindi nkuru zimara akanya gato muga zikerekana ikitagenda neza murako kanya. Inkuru zose zirahinduka uko umwanya ugenda. Ni ico bita ihinduka ry'inkuru. Inkuru zimwe zifise ikiringo kirekire. Kuzindi ikiringo kikaba kigufi.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Ubwoko bwo gukora inkuru](2.png)  \nIbigo vyo kumenyesha amakuru vyiyumvira mumigwi itandukanye:  \n &bull; Erekana/ inkuru nca mugongo  \n&bull; Inkuru z'ivyabaye  \n&bull; inkuru z'ikiriho  \n&bull; inkuru z'abantu  \nIyi migwi ifasha abamenyeshamakuru gutegura ingene bayikora nk'uko umwanya uguma ugenda. Bifasha abamenyeshamakuru kugumana umwitwarariko w'abasomyi n'abaraba mukubaha ibitandukanye muvyo baba bakoze. Ugutahura ukwo bigenda nico witezweko bigufasha kuba umumenyeshamakuru w'akarorero.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Ugutomora/ inkuru ncamugongo  \nGuhera kumucanwa ukiyirekana indege igasambuka, inkuru ncamugongo ntizitegurwa kandi zisaba inyishu yihuta. Inkuru z'incamugongo zitangwa mubwihusi cane muburyo zitanga gusumba gato inkuru mfatiro: inde, iki, hehe, ryari, kubera, na gute. Niwiyumvire muburyo bwo kugira raporo y'ibiboneka, no kugira inetrview y'abo wakuyeko inkuru kugira uronke inkuru nyamukuru ubwo nyene. Inkuru ncamugongo n'inkuru itangwa ifatiye kuvyabaye k'umusi wambere nimba hazoba inkuru nshigikizi nkulo iyo nkuru iba imenyekanye. Muburwaneza, inkuru ncamugongo iba isumba akantu kagufi umuntu yerekana canke ifoto.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "3.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Akarorero k'inkuru ncamugongo  ", 
+            "exampleMediaPath": "3.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "## Inkuru y'ivyabaye  \nIyi ishobora kuba ikiganiro co kumenyeshamakuru, imyerekano yateguwe, ukwugurura ibitaro bishasha, canke amatora. Inkuru zimwe zimwe zifatira kunkuru ncamugongo. Ikintu nyamukuru bitandukaniyeko n'inkuru ncamugongo n'uko abamenyeshamakuru bafise akaryo ko kwitegurira inkuru y'icabaye. Ibi bigufasha gutanga inkuru iramvuye canke n'ibiyiherekeza. Biraguha n'akanya ko kuvugana n'abantu benshi, bishika n'uko habamwo n'umuhinga canke uwundi aatandukanije n'abandi ivyiyumviro. kwibaza inkuru n'aho uyikura bifasha umusomyi  gutahura cane iyo nkuru. Aho uyicisha bivana n'ubwoko bw'inkuru. nk'akarorero, mugihe inkuru ifiseibintu bikomeye vyo kuraba, isanamu niyo nziza muri ico gihe.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "4.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Akarorero k'inkuru y'icabaye  ", 
+            "exampleMediaPath": "4.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "## Inkuru y'ikiriho  \nInkuru z'ikiriho zivugira hamwe ibintu atari ibintu kanaka canke umuntu kanaka. Zishobora kuba zerekeye ibiganiro ngirakamaro nk'ikena ry'amazi, canke inkuru nkoramutima nk'inzira ibigezweho bitwenza biriko birafata. Inkuru z'ikiriho zerekana ahanini ivy'imyuga gusumba cane inkuru z'amakuru. Inkuru z'ibiriho akenshi zishiramwo ukudondora ukuntu ibintu bisa, bisohora amajwi, canke ukuntu abantu bifata.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "5.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Akarorero k'inkuru y'ikiriho  ", 
+            "exampleMediaPath": "5.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "## Inkuru y'umuntu  \nInkuru y'umuntu ni inkuru ivuga umuntu umwe canke inyifato. Ashobora kuba umunyepolitike, uwiruka mumahiganwa canke uwuzwi cane. Inkuru y'umuntu itwereka uwo muntu mw'isi. Nk'inkuru z'ingorane, iz'abantu kenshi zirimwo umwidondoro, hamwe na interview n'uwo muntu kandi kenshi n'abagenzi biwe, umuryango n'abo bakorana.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "6.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Akarorero k'inkuru y'umuntu  ", 
+            "exampleMediaPath": "6.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "## Impanuro zo gukora inkuru  \nAbamenyesha makuru n' ibigo bimenyeshamakuru bashobora gutanga inkuru muburyo bugenda buratahuza abumviriza hama bakanaganira kurico ciyumviro. Ng'izi impanuro zimwe zimwe ingene ugenda urakora inkuru bivanye nihinduka ry'inkuru:  \n&bull; Bishasha ni ibihe, ibiriho ubu n'ibihe: ibishasha bitegerezwa gutanga inkuru kandi bikaba bigufi. Tahura iciyumviro uce ugikorerako vyihuta. Ivyo utanze vyategerezwa gutanga ivyiyumviro nshingiro kandi bigezweho cane.  \n&bull; Erekana hama uvuge: Mugihe inkuru zimwe zimwe zigoye kwerekana, izindi zishobora gutangwa biciye mumafoto, amasanamu, mukwumvisha amajwi. Cagura uburyo bwiza canke ubuvange mukuvuga inkuru yawe. Ntiwibagire kwerekana ibintu ngirakamaro n'aho vyaciye.  \n&bull; Ikiringo: Menya neza ko watanze igihe n'ahantu iyo nkuru utanze yakorewe.  \n&bull; Erekana ahandi bokura inkuru isumbije: Hashobora kuba ari kuri Twitter, kumasanamu ya youtube canke aho bari bacishishije mugutanga inkuru iheruka, canke yakorewe mukindi kigo co kumenyesha amakuru. N'ukoreshe utwo twose mugihe twerekeye ivyo.  \n&bull; Dondora aho wakuye iinkuru: reka abaraba inkuru yawe bamenye iyo yavuye- ivyabona ningirakamaro, umuvugizi, ivyo wabonye, canke ahandi hava inkuru. Gukorera mumuco nirwo rupfunguruzo.  \n&bull; Biba gutanga iciyumviro: Tera intege abantu gutanga iciyumviro munkuru yawe. Vyoroshe kugira batange iciyumviro. Gwiza guhana ivyiyumviro ufise intumbero yo kuronka inkuru nziza.  \n&bull; Tanga inkuru yawe murukurikirane rwumvikana. Rabe neza ubushobozi ivyo hanze bifise bitangurira ikorwa ry'inkuru ncamugongo bigira ingaruka kubantu.  \n&bull; Nkuk inkuru ikura, ni ngirakamaro gushira hafi inkuru nshingiro, iyo yavuye n'ico ivuga. Abakwumviriza bashasha bazotangura kumenyera inkuru mubiringo bitandukanye: Menya neza rero ko inkuru itahuritse kubayumviriza uravye ingene wakoze iyambere.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## IBINTU VYO KWIBUKA  \n&bull; Menya inkuru uriko urakora: inkuru nca mugongo, icabaye, ingorane, canke umuntu.  \n&bull;shiramwo neza ivyawe bivanye n'ingene inkuru itonze.  \n&bull; Tangura iminsi yose raporo yawe ukoresheje inkuru nshasha.  \n&bull; Erekana neza iyo wakuye inkuru.  \n&bull; Mubugwa neza bwambere, nivyiza gutera intege abagatanga inkuru abariko barakwumviriza.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "Ni iyihe muri izi iranga inkuru nziza? ( inyishu ishobora kuba irenga imwe)  ", 
+            "choices": [
+                {
+                    "text": "Iciyumviro c'umumenyesha makuru kirumvikana.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Ugutanga inkuru vyerekana gusa iciyumviro kimwe canke uruhande rumwe rw'inkuru.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Mugihe ico erekana cerekana iciyumviro, igira iciyumviro nshingiro kuri ico ciyumviro.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Umusomyi ntamenya kwari iciyumviro canke amakuru.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Nivyo Sivyo: Nk'uko inkuru ihinduka kuva kumusi wambere ibandanya isarurwa, ni ngirakamaro gutanga inkuru ifatiye kuvyabaye yibutsa abayumviriza ivyiyumviro mfatiro.  ", 
+            "choices": [
+                {
+                    "text": "Nivyo  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Sivyo  ", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Imigwi y'inkuru yerekanywe ng'aha ni ngirakamaro kubera  ", 
+            "choices": [
+                {
+                    "text": "N'igicapo c'ingene umumenyesha makuru ashobora gutanga inkuru nk'uko inkuru ihinduka kumwanya kumwanya.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Zitanga vyinshi, bituma abayumviriza baguma bafise akanyota ko kwumviriza inkuru.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Imigwi iboneka neza iha abanditsi n'ibigo bimenyamakuru uburyo bwo kuvuga ingene bakora inkuru haba kukiringo kirekire.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ibiri hejuru vyose.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "evolution_of_a_story", 
+    "title": "Ihinduka ry'inkuru  "
+}

@@ -1,0 +1,36 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "INTRODUCTION AU VID\u00c9O  ", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Vid\u00e9o est un outil tr\u00e8s efficace pour raconter une histoire. \u00c0 son meilleur, la vid\u00e9o combine la puissance de l'audio avec l'imm\u00e9diatet\u00e9 de la photographie pour cr\u00e9er un lien \u00e9troit avec une audience.  \nIl peut \u00e9galement \u00eatre accablant la premi\u00e8re fois que vous essayez de l'utiliser. Mais comme tout outil, il ya des r\u00e8gles et pratiques que vous pouvez apprendre \u00e0 vous guider \u00e0 travers ces premi\u00e8res \u00e9tapes.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Nous vous sugg\u00e9rons fortement de compl\u00e9ter le cours de s\u00e9curit\u00e9 et de journalisme avant de commencer. Ces le\u00e7ons sont r\u00e9f\u00e9renc\u00e9s dans la section de la vid\u00e9o, mais ils m\u00e9ritent votre attention. Sans eux, vous et d'autres personnes, vous \u00eates susceptible au risque de produire de mauvaises histoires.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Les le\u00e7ons ici sont ax\u00e9es sur la compr\u00e9hension de la vid\u00e9o comme un m\u00e9tier pour la production de nouvelles en utilisant StoryMaker. Apr\u00e8s avoir termin\u00e9 ce programme, vous aurez une compr\u00e9hension des concepts de base, les techniques, ainsi que des instructions sp\u00e9cifiques, \u00e9tape par \u00e9tape pour produire une histoire vid\u00e9o.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "introduction_to_video", 
+    "title": "Introduction \u00e0 la Vid\u00e9o  "
+}

@@ -1,0 +1,134 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Lors des \u00e9v\u00e9nements variant de conf\u00e9rences de presse \u00e0 des manifestations \u00e0 des \u00e9lections, comment puis-je savoir quels types d'images que je devrais chercher?  ", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Dans cette le\u00e7on vous allez apprendre:  \n&bull; Comment identifier les diff\u00e9rents types d'histoires photo.  \n&bull; Comment photographier une histoire sur un probl\u00e8me.  \n&bull; Comment photographier un profile.  \n&bull; Comment photographier un \u00e9v\u00e9nement.  \n&bull; Comment photographier une flash-info.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Le photojournalisme peut \u00eatre st\u00e9r\u00e9otyp\u00e9. Les \u00e9diteurs et les spectateurs attendent \u00e0 voir des types particuliers d'images des \u00e9v\u00e9nements sp\u00e9cifiques. Les meilleurs\u00a0 photojournalistes connaissent la formule et peuvent produire. De grands photojournalistes connaissent la formule et peuvent s'\u00e9tendre sur elle. La formule peut \u00eatre utile pour les nouveaux journalistes \u00e0 la photographie ou pour le multit\u00e2che lors d'un \u00e9v\u00e9nement avec le temps consacr\u00e9 \u00e0 la photographie limit\u00e9.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "# Les \u00e9v\u00e9nements  \n![](2.jpg)  \n\u00c0 partir des \u00e9lections aux proc\u00e8s \u00e0 des rassemblements politiques, les histoires d'\u00e9v\u00e9nements sont l'essentiel de ce que font les photographes.  \n![](3.jpg)  \nBonne couverture photo fait plus que documenter un \u00e9v\u00e9nement , elle capte l'\u00e9nergie et de l'importance de l'\u00e9v\u00e9nement. Demandez-vous quel \u00e9l\u00e9ment visuel de l'\u00e9v\u00e9nement symbolise le mieux l'histoire globale; probablement votre photo. Par exemple:  \n&bull; Lors d'une \u00e9lection, une image d'un citoyen jetant un bulletin de vote pour la premi\u00e8re fois.  \n&bull; Une image d'un candidat \u00e0 la pr\u00e9sidentielle serrant la main avec un chef militaire.  \n&bull; Dans un rassemblement politique, une image d'un d\u00e9monstrateur passionn\u00e9e avec les autres dans l'arri\u00e8re-plan.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "# Flash-infos d'un \u00e9v\u00e9nement  \n![](4.jpg)  \nLes flash-infos d'un \u00e9v\u00e9nement sont un type sp\u00e9cial des histoires li\u00e9es \u00e0 un \u00e9v\u00e9nement. Les flash-infos comprennent des \u00e9v\u00e9nements non planifi\u00e9s et d'une importance ou d'un int\u00e9r\u00eat sociale. Cela se traduit souvent dans les images que nous voyons.  \n![](5.jpg)  \nUne flash-info peut \u00eatre un attentat ou une catastrophe naturelle ou l'annonce impr\u00e9vue de la course d'un candidat politique pour le bureau. Le photographe doit essayer d'illustrer les \u00e9l\u00e9ments dramatiques et narratifs cl\u00e9s de l'\u00e9v\u00e9nement. Pensez au premier plan (sujet) et le fond (contexte). Souvent la couverture est apr\u00e8s que l'\u00e9v\u00e9nement s'est produit. Des photos de r\u00e9action - comment les gens r\u00e9agissent \u00e0 l'\u00e9v\u00e9nement ou ses cons\u00e9quences - peuvent faire des images tr\u00e8s puissantes. Les gens balayant apr\u00e8s un tremblement de terre, c\u00e9l\u00e9brant une victoire apr\u00e8s une bataille.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "# Les Probl\u00e8mes  \n![](6.jpg)  \nLes histoire sur des probl\u00e8mes ne sont pas li\u00e9s \u00e0 un \u00e9v\u00e9nement sp\u00e9cifique. Une histoire sur un probl\u00e8me peut \u00eatre d'une tendance - un manque d'eau - ou de quelque chose de l\u00e9ger et inhabituelle - une tendance dr\u00f4le de mode.  \n![](7.jpg)\nLes histoires sur des probl\u00e8mes sont o\u00f9 les photographes de presse sont attendus \u00e0 \u00eatre cr\u00e9atifs dans leur approche de ce qu'ils prennent. Demandez-vous ce qui\u00a0 illustrent le mieux le sujet sur le plan \u00e9motionnel. Pensez au contexte dans vos images et de penser l'\u00e9motion humaine. Quels \u00e9l\u00e9ments et quels moments racontent l'histoire d'une mani\u00e8re int\u00e9ressante?  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "# Les Protraits  \n![](8.jpg)  \nLes photographes prennent fr\u00e9quemment des portraits pour illustrer une histoire de profil sur la personne sur la photo ou parce que la personne figure massivement dans une histoire plus large. Les portraits se r\u00e9partissent en deux cat\u00e9gories: pos\u00e9 et simple. Les portraits pos\u00e9s sont mis en place avec le sujet en regardant dans l'appareil photo ou tout simplement hors cam\u00e9ra.  \n![](9.jpg)  \nLes portraits les bien pos\u00e9s profiter du bon \u00e9clairage et de capturer l'expression du sujet d'une mani\u00e8re r\u00e9v\u00e9latrice et li\u00e9e \u00e0 l'histoire. Les portraits simples montrent g\u00e9n\u00e9ralement le sujet dans une action qui explique pourquoi il ou elle est dans les actualit\u00e9s. Beaucoup de photographes vont prendre deux types de photos lorsqu'ils sont affect\u00e9s \u00e0 faire un portrait. C'est une bonne id\u00e9e d'inclure certains \u00e9l\u00e9ments contextuels dans l'image qui fournissent un indice dans l'image pourquoi le sujet est important ou int\u00e9ressant.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "# Les photos arrang\u00e9s  \n![](10.jpg)  \nCes directives sont con\u00e7ues pour rendre plus facile la prise des photos. Ils ne devraient pas vous emp\u00eacher. Il est important de noter que dans certains cas, les photographes sont autoris\u00e9s \u00e0 organiser un plan. Ce n'est jamais autoris\u00e9e avec les flash-infos ou les actualit\u00e9s g\u00e9n\u00e9rales.  \n![](11.jpg)  \nParfois avec des missions sur des probl\u00e8mes et plus fr\u00e9quemment avec des portraits, un photographe peut organiser la photographie - demander \u00e0 la personne de se d\u00e9placer pour mieux la lumi\u00e8re, introduire des \u00e9l\u00e9ments contextuels, ou rejouer quelque chose.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## A NE PAS OUBLIER  \n&bull; Identifier le genre d'histoire que vous essayez de raconter peut rendre le tournage plus facile.  \n&bull; Les histoires \u00e0 propos des informations s\u00e9rieuses ont tendance \u00e0 \u00eatre plus st\u00e9r\u00e9otyp\u00e9s que des histoires en photos sur des tendances all\u00e8gres.  \n&bull; Des photos concernant un reportage sur un probl\u00e8me ou un \u00e9v\u00e9nement ne devraient jamais \u00eatre dispos\u00e9s ou manipul\u00e9s. Les images pour les profils peuvent parfois \u00eatre organis\u00e9es.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Lorsque vous photographiez une conf\u00e9rence de presse, lequel des \u00e9nonc\u00e9s suivants vous pouvez essayer de photographier?  ", 
+            "choices": [
+                {
+                    "text": "Des plans Serr\u00e9s et anim\u00e9s de chacun des participants plut\u00f4t qu'un plan globale.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Photos frontales compl\u00e8tes plut\u00f4t que les profils de gauche ou de droite.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Un groupe en train de prendre des photos au cours de la \u00abs\u00e9ance de photos.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Tout ce qui pr\u00e9c\u00e8de.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Vrai ou faux: C'est OK de mettre en place des photos lors des \u00e9v\u00e9nements g\u00e9n\u00e9raux d'actualit\u00e9.  ", 
+            "choices": [
+                {
+                    "text": "Vrai  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Faux  ", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Lequel des \u00e9l\u00e9ments suivants repr\u00e9sente des caract\u00e9ristiques d'un bon portrait pour le journal (il peut \u00eatre plus d'un).  ", 
+            "choices": [
+                {
+                    "text": "Le sujet est comme une statue en regardant la cam\u00e9ra.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Il n'y a pas d'accessoires ou d'indices dans l'image pour contextualiser ou expliquer pourquoi le sujet est dans le journal.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Le sujet est partiellement cach\u00e9 de sorte qu'il est difficile de voir son visage clairement.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Aucune de ces r\u00e9ponses.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "photographing_different_stories", 
+    "title": "Photographier des diff\u00e9rentes histoires  "
+}

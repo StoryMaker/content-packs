@@ -1,0 +1,177 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Some of my pictures are too yellow. Some are too blue. What is the problem and what can I do about it?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## In this lesson you will learn:  \n&bull; What white balance means.  \n&bull; How to adjust color with white balance control.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Your eyes, in combination with your brain, do an excellent job of calibrating how you perceive color. You will recognize a color as red even if the light source illuminating it is very yellow, making the apparent color orange. You will recognize fleshtones even if the light illuminating the subject is a greenish-blue fluorescent.  \nA digital camera can\u2019t do that. It has to be calibrated to adjust for different light sources\u2019 color temperature. This calibration is measured against absolute white. That\u2019s why it is called white balance.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![](2.png)  \n### An example of a subject lit by a tungsten bulb  \nTungsten bulbs have a very warm light temperature, coloring images more yellow. \n![](3.png)  \n### An example of a subject outside on a cloudy day\nDaylight on an overcast, cloudy day has a very cool light temperature, coloring the image blue. \n![](4.jpg)  \nOther light sources \u2014 sunlight, fluorescent light, shade \u2014 all fall in the middle. Color temperature has nothing to do with the amount of light.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Good color management is important. It makes an image much more professional in appearance. Many smartphones provide a variety of presets for white balance.  \n![](5.png)  \n## Sample icons for the common white balance options  \nIf your mobile device allows you to set the white balance manually, do it. Your smartphone may have a button or menu option for white balance. It will offer several icons representing five or six common light sources. Pick the one that best represents the shooting conditions you are working under.  \nIf your smartphone cannot control white balance manually, you can correct color with post-production apps (for more on this, see the section on post-production). If the color temperature is way off, it is VERY IMPORTANT to make adjustments before publishing your images.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![](6.png)  \n## AWB (auto white balance)  \nUse this setting for shooting anywhere. The mobile device does its best to guess what the right setting should be, but it can provide poor results if the camera guesses wrong. This is the setting you should use if you\u2019re unsure of which setting is the best choice.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![](7.png)  \n## Daylight  \nUse this setting for shooting outdoors. This setting will give your images a very \u201ccool\u201d or slight blue tint. When shooting indoors, this setting will give your images an orange tint.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![](8.png)  \n## Cloudy  \nUse this setting for shooting outdoors. This setting will give your images a slightly \u201cwarmer\u201d color. While the daylight option is technically the more correct white balance, using the cloudy setting creates a very appealing image. When shooting indoors, this setting will give your images a strong orange tint.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![](9.png)  \n## Incandescent  \nUse this setting for shooting indoors, where the room is lit with traditional small light bulbs. When shooting outdoors, this setting will give your images a strong blue tint.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "![](10.png)  \n## Fluorescent  \nUse this setting when shooting indoors, where the room is lit with long, tube fluorescent lights. When shooting outdoors, this setting will give your images a blue tint.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## THINGS TO REMEMBER  \n&bull; You must manage white balance for good results.  \n&bull; Adjust your white balance if you move from one light type to another while shooting.  \n&bull; It is best to use a manual white-balance setting, but auto white balance is OK.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "question": "Which best describes what white balance means?", 
+            "id": "quiz_card_1", 
+            "choices": [
+                {
+                    "text": "The amount of light that strikes the sensor.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "The color temperature of the light striking the sensor, ranging from very warm (yellow) to cool (blue).", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "The text color of the caption.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "None of the above.", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "question": "True or False: Whenever possible you should always adjust the white balance in the camera or in post production.", 
+            "id": "quiz_card_2", 
+            "choices": [
+                {
+                    "text": "True", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "False", 
+                    "id": "answer_2"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 2, 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "question": "How can you control the white balance with your android smartphone or point and shoot camera? (It can be more than one)", 
+            "id": "quiz_card_3", 
+            "choices": [
+                {
+                    "text": "Manually set the white balance to the icon that best represents the light color conditions under which you are shooting.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "It is a good idea to calibrate with a white piece of paper as video journalists do.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Adjust the white balance in post production.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "All of the above.", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "text": "![](11.jpg)  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "question": "How might you correct the white balance in the image above?", 
+            "id": "quiz_card_4", 
+            "choices": [
+                {
+                    "text": "Change the white balance option to \u2019fluorescent\u2019 when shooting.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Adjust the exposure.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Adjust the light temperature in post-production by adding yellow.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "All of the above.", 
+                    "id": "answer_4"
+                }
+            ]
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "setting_white_balance", 
+    "title": "Setting White Balance"
+}
