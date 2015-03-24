@@ -89,6 +89,8 @@ def parse_file(original_json_file_path, translated_strings_file_name, out_file_p
 def gen_translations():
     for translated_strings_file_name in os.listdir(translations_dir):
         file_name, file_extension = os.path.splitext(translated_strings_file_name)
+        print "translations_dir: " + translations_dir
+        print "translated_strings_file_name: " + translated_strings_file_name + " file_name: " + file_name
         (json_file_name, lang) = file_name.split('-')
         translated_json_file_name = "%s-%s.json" % (json_file_name, lang)
         out_file_path = "%s/%s" % (json_dir, translated_json_file_name)

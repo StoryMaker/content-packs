@@ -249,6 +249,38 @@ def generate_content_index_record(library_dir, package, content_pack, library, i
         print "using content pack cover for library: %s" % covers[0]
         rec['thumbnailPath'] = covers[0].split("assets/")[1]
     return rec
+
+
+    
+def generate_content_index(package, content_pack, lang=None):
+    cardcounts = {}
+    content_index = []
+    content_pack_strings_dir = os.getcwd() + "/intermediates/strings/%s/%s" % (package, content_pack)
+    lst = sorted(os.listdir(content_pack_strings_dir))
+    for library in lst:
+        library_dir = "%s/%s" % (content_pack_strings_dir, library)
+        if os.path.isdir(library_dir):
+            print library_dir
+            #json_dir = os.getcwd() + "/assets/%s/%s/%s" % (package, content_pack, library)
+            #strings_dir = os.getcwd() + "/intermediates/strings/%s/%s/%s" % (package, content_pack, library)
+            
+            for f in os.listdir(library_dir):
+                #print "    %s" % f
+                cardcounts = {}
+                file_name, file_extension = os.path.splitext(f)
+                if file_extension == ".json" and "_library" in file_name:
+                    #print "      ...is library"
+                    rec = generate_content_index_record(library_dir, package, content_pack, library, file_name)
+                    print rec
+                    content_index.append(rec)
+
+    print "prepping content index"
+    lang_postfix = ""
+    if lang is not None:
+        lang_postfix = "-%s" % lang
+    content_index_file = open("assets/%s/%s/content_index%s.json" % (package, content_pack, lang_postfix), 'w')
+    content_index_file.write(json.dumps(content_index, indent=2))
+    content_index_file.close()
     
 print "generating content for lessons"
 cardcounts = {}
@@ -294,38 +326,9 @@ strings_dir = os.getcwd() + "/intermediates/org.storymaker.app/dressgate"
 do_dir()
 
 
-    
-print "generating content for lessons"
-def generate_content_index(package, content_pack, lang=None)
-    cardcounts = {}
-    content_index = []
-    content_pack_strings_dir = os.getcwd() + "/intermediates/strings/%s/%s" % (package, content_pack)
-    lst = sorted(os.listdir(content_pack_strings_dir))
-    for library in lst:
-        library_dir = "%s/%s" % (content_pack_strings_dir, library)
-        if os.path.isdir(library_dir):
-            print library_dir
-            #json_dir = os.getcwd() + "/assets/%s/%s/%s" % (package, content_pack, library)
-            #strings_dir = os.getcwd() + "/intermediates/strings/%s/%s/%s" % (package, content_pack, library)
-            
-            for f in os.listdir(library_dir):
-                #print "    %s" % f
-                cardcounts = {}
-                file_name, file_extension = os.path.splitext(f)
-                if file_extension == ".json" and "_library" in file_name:
-                    #print "      ...is library"
-                    rec = generate_content_index_record(library_dir, package, content_pack, library, file_name)
-                    print rec
-                    content_index.append(rec)
-
-    print "prepping content index"
-    lang_postfix = ""
-    if lang is not None:
-        lang_postfix = "-%s" % lang
-    content_index_file = open("assets/%s/%s/content_index%s.json" % (package, content_pack, lang_postfix), 'w')
-    content_index_file.write(json.dumps(content_index, indent=2))
-    content_index_file.close()
-
 
 package = 'org.storymaker.app'
-content_pack = 'burundi'
+content_pack = 'lessons'
+
+print "generating content index for %s/%s" % (package, content_pack)
+generate_content_index(package, content_pack)
