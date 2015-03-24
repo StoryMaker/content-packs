@@ -250,15 +250,15 @@ def generate_content_index_record(library_dir, package, content_pack, library, i
         rec['thumbnailPath'] = covers[0].split("assets/")[1]
     return rec
     
-print "generating content for burundi lessons"
+print "generating content for lessons"
 cardcounts = {}
 content_index = []
-yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/burundi"
+yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/lessons"
 for f in os.listdir(yaml_parent_dir):
     yaml_dir = "%s/%s" % (yaml_parent_dir, f)
     print yaml_dir
-    json_dir = os.getcwd() + "/assets/org.storymaker.app/burundi/%s" % f
-    strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/burundi/%s" % f
+    json_dir = os.getcwd() + "/assets/org.storymaker.app/lessons/%s" % f
+    strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/lessons/%s" % f
     do_dir()
 
 print "generating content for default library"
@@ -295,7 +295,7 @@ do_dir()
 
 
     
-print "generating content for burundi lessons"
+print "generating content for lessons"
 def generate_content_index(package, content_pack, lang=None)
     cardcounts = {}
     content_index = []
@@ -318,7 +318,7 @@ def generate_content_index(package, content_pack, lang=None)
                     print rec
                     content_index.append(rec)
 
-    print "prepping burundi content index"
+    print "prepping content index"
     lang_postfix = ""
     if lang is not None:
         lang_postfix = "-%s" % lang

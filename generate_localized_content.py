@@ -102,10 +102,10 @@ def gen_translations():
 
 print "generating content for lessons"
 cardcounts = {}
-parent_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/burundi/"
+parent_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/lessons/"
 for f in os.listdir(parent_dir):
-    json_dir = os.getcwd() + "/assets/org.storymaker.app/burundi/%s" % f
-    translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/burundi/%s" % f
+    json_dir = os.getcwd() + "/assets/org.storymaker.app/lessons/%s" % f
+    translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/lessons/%s" % f
     gen_translations()
 
 
