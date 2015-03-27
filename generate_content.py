@@ -320,7 +320,6 @@ def mergetree(src, dst, symlinks = False, ignore = None):
 
 #############################3
 
-"""
 print "generating content for lessons"
 cardcounts = {}
 content_index = []
@@ -363,13 +362,12 @@ yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/dressgate"
 json_dir = os.getcwd() + "/assets/org.storymaker.app/dressgate"
 strings_dir = os.getcwd() + "/intermediates/org.storymaker.app/dressgate"
 do_dir()
-#"""
 
 package = 'org.storymaker.app'
 
 print "prepping lesson asset folder..."
 
-def pre_lesson_pack(content_pack, lang=None):
+def prep_lesson_pack(content_pack, lang=None):
     # TODO delete the old assets for this pack
     shutil.rmtree("%s/assets/%s/%s/" % (os.getcwd(), package, content_pack), ignore_errors=True)
     print "copying assets for index for %s/%s" % (package, content_pack)
@@ -395,6 +393,6 @@ def pre_lesson_pack(content_pack, lang=None):
     generate_content_index(package, content_pack, 'rw')
     generate_content_index(package, content_pack, 'es')
 
-pre_lesson_pack('persian')
-pre_lesson_pack('mena')
-pre_lesson_pack('burundi')
+prep_lesson_pack('persian')
+#prep_lesson_pack('mena')
+prep_lesson_pack('burundi')
