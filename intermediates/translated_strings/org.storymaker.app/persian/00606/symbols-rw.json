@@ -1,0 +1,18 @@
+{
+    "symbols::quiz_card_1::choices[0]::text": "Kuvuga nabi.  ",
+    "symbols::quiz_card_2::choices[2]::text": "Ishaka  ",
+    "symbols::quiz_card_1::choices[1]::text": "Uburyo bw’amatora.  ",
+    "symbols::quiz_card_1::choices[2]::text": "Igihano.  ",
+    "symbols::quiz_card_1::question": "Umunye politike yagiriwe nukurya ruswa ntashobora kwitoza kandi. Yerekena:  ",
+    "symbols::quiz_card_2::choices[1]::text": "Abaganga babi.  ",
+    "symbols::quiz_card_2::question": "Umusoda yakomeretse ngo ntazoshobora ukundi gutambuka. Aguma yicaye mu gakinga kibimuga amezi atari make gushika ahoboye gutambuka. Yerekana:  ",
+    "symbols::quiz_card_2::choices[0]::text": "Igitangaro.  ",
+    "symbols::markdown_card_3::text": "Rimwe narimwe ibimenyetso birakomeye, akarorero, n’ishusho y’umusozi idahinduka inyuma ya nyamugigima, canke ikibumbano c’umuntu  ahambaye mukahise.  ",
+    "symbols::markdown_card_6::text": "Raba uturero tumwe tumwe tw’ibimenyetso n’ingene bihinduka uko akahise gaterimbere. Mungwano, abasoda barikobahiga umuntu. Igisagara kiramunyegeza, mugabo babaterubwoba ko baturira ico gisagara adasohotse. Imbere y’uko aheba, yerekana ubukunzi bwinda;yoreka igisagara cose kigahohoterwa kubwiwe. Yishikanye akijije igisagara, yerekana ubugabo n’ubugwaneza. Muma tora yumukuru wigihugu, umunye politike avugira mwenewabo,  yerekena loyauté. Avuze ko azokwitoza ahiganwe na mwenewabo yerekanye trahison.  Umukinyi wumupira w’amaguru yinjije igitsindo kibaha intsinziyerekana incungu. Iyo yerekanywe nkumugabo arwana, afatwa nk’umuhemu.",
+    "symbols::markdown_card_1::text": "Inkuru nziza zikoresha ibimenyetso. Ikimenyetso nico cose gifise insiduro ifatanije nabantu. Bishobora kuba ikintu, igikorwa, izina, canke umusi mukuru. Ibimenyetso kenshi bisigura ibintu bitandukanye kubantu batandukanye, cane cane kubantu bava mumihingo itandukanye. Kugira mukore inkuru zinyura, mwoshiramwo ibimenyetso biboneka. Abaibona batahura ningonga kandi kumutima.  \nIbimeneytso nivyo vyonyene bishobora gutanga inkuru nziza.  ",
+    "symbols::markdown_card_4::text": "Kenshi na kenshi amasanamu atanga inkuru  zidakwiye. Umumenyeshamakuru ntiyitaho ingene atanga inkuru canke agatanga inkuru kuburyo butahuritse akoresheje ivyibutso. Ibirimwo biboneka atacongwemwo kubushobozi bw’icibutso bishobora kuba ibisanzwe. Ata kwinjira mumizi y’inkuru bituma ita akanovera kayo.  ",
+    "symbols::markdown_card_2::text": "Uburyo  bwo gukora inkuru zimeze neza nugukurikirana insiguro y’ivyibutso. Nkakarorero mumisi yambere y’intureka muri Libiya mu mwaka w’2011, ibicapo biri ku mpome z’ibisagara binini binini vy’igihugu. Muntango, ivyo vyapa vyatanga umwizero, ivyifuzo vy’urunganwe rushasha rwa Libiya. Ico capa nyene muma barabara kiboneka nkumwihzero waheze nindoto zitabaho z’abanya Libiya.  ",
+    "symbols::markdown_card_0::text": "# Ni gute nshobora gukoresha ivyibutso munkuru yanj e?  \n## muriçki cigwa muzokwiga.  \n&bull; Nokoresha iki icibutso?  \n&bull; Nigute ivyibutso biryohora inkuru yawe?  \n&bull; Nigute utora icibutso gikomeye?  ",
+    "symbols::markdown_card_5::text": "Ni nkengwa kudakoresha cane ivyibutsocanke kubikoresha nk’ivyijijicanke bishobora guhabwa insiguro y’imyiyamamazo. Ni nkenegwa kandi kwibuka ko abantu batahura ivyibutso uburyo butandukanye.  ",
+    "symbols::title": "Icibutso  "
+}
