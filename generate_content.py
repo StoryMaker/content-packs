@@ -228,16 +228,23 @@ def do_dir():
 
 # FIXME global vars are the best!!
 
-def generate_content_index_record(library_dir, package, content_pack, library, instance):
+def generate_content_index_record(library_dir, package, content_pack, library, instance, lang=None):
     rec = {}
     instance_id = instance.split('_library')[0]
-    file_path = '%s/%s.json' % (library_dir, instance)
+
+    # first try to use the translated file, if it doesnt exist, fallback on 'en'
+    file_path = '%s/intermediates/translated_strings/%s/%s/%s/%s-%s.json' % (os.getcwd(), package, content_pack, library, instance, lang)
+    if not os.path.isfile(file_path):
+        file_path = '%s/%s.json' % (library_dir, instance)
     print "file_path: " + file_path
     f = open(file_path, 'r')
     file_json = json.load(f)
     
     rec['instanceFilePath'] = "%s/%s/%s/%s.json" % (package, content_pack, library, instance)
-    rec['language'] = 'en' # TODO make this generate other languages too?
+    if lang is None:
+        rec['language'] = 'en'
+    else:
+        rec['language'] = lang
     rec['title'] = file_json['%s::title' % (instance_id)]
     covers = glob.glob("assets/%s/%s/%s/cover.*" % (package, content_pack, library))
     print covers
@@ -250,9 +257,12 @@ def generate_content_index_record(library_dir, package, content_pack, library, i
         rec['thumbnailPath'] = covers[0].split("assets/")[1]
     return rec
 
-
     
 def generate_content_index(package, content_pack, lang=None):
+    print "prepping content index"
+    lang_postfix = ""
+    if lang is not None:
+        lang_postfix = "-%s" % lang
     cardcounts = {}
     content_index = []
     content_pack_strings_dir = os.getcwd() + "/intermediates/strings/%s/%s" % (package, content_pack)
@@ -270,18 +280,47 @@ def generate_content_index(package, content_pack, lang=None):
                 file_name, file_extension = os.path.splitext(f)
                 if file_extension == ".json" and "_library" in file_name:
                     #print "      ...is library"
-                    rec = generate_content_index_record(library_dir, package, content_pack, library, file_name)
+                    rec = generate_content_index_record(library_dir, package, content_pack, library, file_name, lang)
                     print rec
                     content_index.append(rec)
 
-    print "prepping content index"
-    lang_postfix = ""
-    if lang is not None:
-        lang_postfix = "-%s" % lang
     content_index_file = open("assets/%s/%s/content_index%s.json" % (package, content_pack, lang_postfix), 'w')
     content_index_file.write(json.dumps(content_index, indent=2))
     content_index_file.close()
-    
+
+import os
+import shutil
+import stat
+def mergetree(src, dst, symlinks = False, ignore = None):
+    if not os.path.exists(dst):
+        os.makedirs(dst)
+        shutil.copystat(src, dst)
+    lst = os.listdir(src)
+    if ignore:
+        excl = ignore(src, lst)
+        lst = [x for x in lst if x not in excl]
+    for item in lst:
+        s = os.path.join(src, item)
+        d = os.path.join(dst, item)
+        if symlinks and os.path.islink(s):
+            if os.path.lexists(d):
+                os.remove(d)
+            os.symlink(os.readlink(s), d)
+            try:
+                st = os.lstat(s)
+                mode = stat.S_IMODE(st.st_mode)
+                os.lchmod(d, mode)
+            except:
+                pass # lchmod not available
+        elif os.path.isdir(s):
+            mergetree(s, d, symlinks, ignore)
+        else:
+            shutil.copy2(s, d)
+
+
+#############################3
+
+"""
 print "generating content for lessons"
 cardcounts = {}
 content_index = []
@@ -324,11 +363,38 @@ yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/dressgate"
 json_dir = os.getcwd() + "/assets/org.storymaker.app/dressgate"
 strings_dir = os.getcwd() + "/intermediates/org.storymaker.app/dressgate"
 do_dir()
-
-
+#"""
 
 package = 'org.storymaker.app'
-content_pack = 'lessons'
 
-print "generating content index for %s/%s" % (package, content_pack)
-generate_content_index(package, content_pack)
+print "prepping lesson asset folder..."
+
+def pre_lesson_pack(content_pack, lang=None):
+    # TODO delete the old assets for this pack
+    shutil.rmtree("%s/assets/%s/%s/" % (os.getcwd(), package, content_pack), ignore_errors=True)
+    print "copying assets for index for %s/%s" % (package, content_pack)
+    shutil.copytree("%s/assets/%s/lessons-media/%s" % (os.getcwd(), package, content_pack),
+                    "%s/assets/%s/%s" % (os.getcwd(), package, content_pack))
+    # intermediates/strings/org.storymaker.app/persian
+    shutil.rmtree("%s/intermediates/strings/%s/%s" % (os.getcwd(), package, content_pack), ignore_errors=True)
+    shutil.copytree("%s/intermediates/strings/%s/lessons" % (os.getcwd(), package),
+                    "%s/intermediates/strings/%s/%s" % (os.getcwd(), package, content_pack))
+    shutil.rmtree("%s/intermediates/translated_strings/%s/%s" % (os.getcwd(), package, content_pack), ignore_errors=True)
+    shutil.copytree("%s/intermediates/translated_strings/%s/lessons" % (os.getcwd(), package),
+                    "%s/intermediates/translated_strings/%s/%s" % (os.getcwd(), package, content_pack))
+
+    # TODO copy / merge the json on top of the assets folder
+    mergetree("%s/assets/%s/lessons/" % (os.getcwd(), package),
+                    "%s/assets/%s/%s" % (os.getcwd(), package, content_pack))
+    # TODO copy / merge the json on top of the assets folder
+    print "generating content index for %s/%s" % (package, content_pack)
+    generate_content_index(package, content_pack)
+    generate_content_index(package, content_pack, 'ar')
+    generate_content_index(package, content_pack, 'fa')
+    generate_content_index(package, content_pack, 'fr')
+    generate_content_index(package, content_pack, 'rw')
+    generate_content_index(package, content_pack, 'es')
+
+pre_lesson_pack('persian')
+pre_lesson_pack('mena')
+pre_lesson_pack('burundi')
