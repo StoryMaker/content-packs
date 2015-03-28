@@ -391,7 +391,7 @@ def prep_lesson_pack(content_pack, lang=None):
     generate_content_index(package, content_pack, 'fa')
     generate_content_index(package, content_pack, 'fr')
     generate_content_index(package, content_pack, 'rw')
-    generate_content_index(package, content_pack, 'es')
+    generate_content_index(package, content_pack, 'vi')
 
 prep_lesson_pack('persian')
 #prep_lesson_pack('mena')
