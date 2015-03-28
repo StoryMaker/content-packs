@@ -3,6 +3,9 @@ assets/org.storymaker.app/persian/
 assets/org.storymaker.app/mena/
 assets/org.storymaker.app/burundi
 assets/*.obb
+diffs.html
+patch/
+zips/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
