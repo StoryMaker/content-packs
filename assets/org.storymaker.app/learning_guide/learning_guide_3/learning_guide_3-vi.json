@@ -1,0 +1,484 @@
+{
+    "cards": [
+        {
+            "level": "C\u01a1 b\u1ea3n  3", 
+            "headline": "K\u1ec3 nh\u1eefng c\u1ea7u chuy\u1ec7n v\u1edbi m\u1ed9t c\u00e2u h\u1ecfi trung t\u00e2m", 
+            "time": null, 
+            "exampleMediaPath": "lg_003_01.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "## Gi\u1edbi thi\u1ec7u\nGi\u1edd \u0111\u00e2y b\u1ea1n hi\u1ec3u nh\u1eefng y\u1ebfu t\u1ed1 c\u01a1 b\u1ea3n c\u1ee7a m\u1ed9t c\u00e2u chuy\u1ec7n, h\u00e3y n\u00f3i v\u1ec1 vi\u1ec7c l\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 vi\u1ebft m\u1ed9t c\u00e2u chuy\u1ec7n h\u1ea5p d\u1eabn. Nh\u1eefng c\u00e2u chuy\u1ec7n h\u1ea5p d\u1eabn th\u01b0\u1eddng tr\u1ea3 l\u1eddi m\u1ed9t c\u00e2u h\u1ecfi trung t\u00e2m. C\u00e2u h\u1ecfi n\u00e0y s\u1ebd ch\u1ec9 ra m\u1ed9t g\u00f3c m\u00e0 b\u1ea1n s\u1ebd theo v\u00e0 h\u01b0\u1edbng d\u1eabn b\u1ea1n su\u1ed1t qu\u00e1 tr\u00ecnh s\u00e1ng t\u1ea1o.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "## Gi\u1edbi thi\u1ec7u\nB\u00e0i h\u1ecdc n\u00e0y l\u1ea5y \u00fd t\u01b0\u1edfng \"T\u00f4i mu\u1ed1n k\u1ec3 m\u1ed9t c\u00e2u chuy\u1ec7n v\u1ec1 m\u1ed9t tr\u1eadn \u0111\u00e1 b\u00f3ng \u0111\u1ecba ph\u01b0\u01a1ng,\" v\u00e0 ch\u1ec9 ra n\u00f3 c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c k\u1ec3 theo nhi\u1ec1u c\u00e1ch kh\u00e1c nhau. N\u1ebfu b\u1ea1n t\u00ecm th\u1ea5y m\u1ed9t \u0111i\u1ec3m l\u00f4i cu\u1ed1n m\u00e0 b\u1ea1n th\u00edch, b\u1ea1n c\u00f3 th\u1ec3 theo h\u01b0\u1edbng \u0111\u00f3 cho c\u00f3 n\u00e9t \u0111\u1eb7c th\u00f9 ri\u00eang c\u1ee7a m\u00ecnh. B\u1eaft \u0111\u1ea7u v\u1edbi m\u1ed9t ph\u01b0\u01a1ng ti\u1ec7n truy\u1ec1n \u0111\u1ea1t, v\u00e0 c\u00e2u h\u1ecfi s\u1ebd theo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "header": "Select your Medium", 
+            "type": "MediumCard", 
+            "id": "medium_card"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "profile_interview_001.mp3", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: Why did Marvin become a goalie?", 
+            "header": "G\u1eb7p g\u1ee1 th\u1ee7 m\u00f4n Marvin", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "exampleMediaPath": "profile_interview_001.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Ph\u1ecfng v\u1ea5n Nh\u00e2n v\u1eadt", 
+            "header": "Kh\u1edfi \u0111\u1ed9ng", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "path": "profile_interview_audio.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_0", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "event_report_001.mp3", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What brought each person to the game?", 
+            "header": "B\u00f3ng \u0111\u00e1 phong tr\u00e0o ng\u00e0y ch\u1ee7 nh\u1eadt", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "exampleMediaPath": "event_report_001.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Nghe m\u1ed9t ng\u01b0\u1eddi k\u1ec3 chuy\u1ec7n mi\u00eau t\u1ea3 c\u00e1i g\u00ec x\u1ea3y ra khi m\u1ed9t nh\u00f3m ng\u01b0\u1eddi l\u1ea1 g\u1eb7p nhau trong m\u1ed9t tr\u1eadn b\u00f3ng \u0111\u00e1 \u0111\u1ecba ph\u01b0\u01a1ng. C\u00e2u chuy\u1ec7n n\u00e0y t\u1eadp trung v\u00e0o m\u1ed9t s\u1ef1 ki\u1ec7n c\u1ee5 th\u1ec3, c\u00e1i g\u00ec x\u1ea3y ra v\u00e0 t\u1ea1i sao. V\u1edbi \u00e2m thanh, nh\u1eefng gi\u1ecdng n\u00f3i c\u00e1 nh\u00e2n th\u01b0\u1eddng truy\u1ec1n \u0111\u1ea1t \u0111\u01b0\u1ee3c c\u00e2u chuy\u1ec7n.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ]
+        }, 
+        {
+            "text": "B\u00e1o c\u00e1o s\u1ef1 ki\u1ec7n", 
+            "header": "Kh\u1edfi \u0111\u1ed9ng", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "path": "event_report_audio.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_1", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": null, 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What makes pickup soccer great?", 
+            "header": "B\u00f3ng \u0111\u00e1 phong tr\u00e0o l\u00e0 g\u00ec?", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Nghe ng\u01b0\u1eddi k\u1ec3 gi\u1ea3i th\u00edch b\u00f3ng \u0111\u00e1 phong tr\u00e0o l\u00e0 g\u00ec v\u00e0 v\u00e0i nh\u00e2n v\u1eadt mi\u00eau t\u1ea3 t\u1ea1i sao h\u1ecd th\u00edch n\u00f3. C\u00e2u chuy\u1ec7n \u0111\u01b0\u1ee3c \u0111\u01b0a ra b\u1edfi c\u00e2u h\u1ecfi \"B\u00f3ng \u0111\u00e1 phong tr\u00e0o l\u00e0 g\u00ec?\" V\u1edbi \u00e2m thanh ng\u01b0\u1eddi k\u1ec3 th\u01b0\u1eddng gi\u1edbi thi\u1ec7u m\u1ed9t c\u00e2u chuy\u1ec7n v\u00e0 d\u00f9ng nh\u1eefng gi\u1ecdng n\u00f3i c\u1ee7a nhi\u1ec1u nh\u00e2n v\u1eadt \u0111\u1ec3 n\u00f3i l\u00ean c\u00e1c \u00fd ki\u1ebfn kh\u00e1c nhau.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ]
+        }, 
+        {
+            "text": "B\u00e1o c\u00e1o S\u1ef1 vi\u1ec7c", 
+            "header": "Kh\u1edfi \u0111\u1ed9ng", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "path": "issue_report_audio.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_2", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "issue_discussion_001.mp3", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What do people love about pickup soccer?", 
+            "header": "\u0110i\u1ec1u g\u00ec hay ho \u1edf b\u00f3ng \u0111\u00e1 phong tr\u00e0o?", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "exampleMediaPath": "issue_discussion_001.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Nghe m\u1ed9t nh\u00f3m ng\u01b0\u1eddi New York k\u1ec3 v\u1ec1 s\u1ef1 say m\u00ea b\u00f3ng \u0111\u00e1 c\u1ee7a h\u1ecd v\u00e0 c\u1ee5 th\u1ec3 l\u00e0 b\u00f3ng \u0111\u00e1 phong tr\u00e0o. C\u00e2u chuy\u1ec7n n\u00e0y \u0111\u01b0\u1ee3c th\u00fac \u0111\u1ea9y b\u1edfi nhi\u1ec1u nh\u00e2n v\u1eadt th\u1ea3o lu\u1eadn v\u1ec1 m\u1ed9t c\u00e2u h\u1ecfi c\u1ee5 th\u1ec3. C\u00e2u chuy\u1ec7n b\u00e0n lu\u1eadn k\u1ec3 l\u1ea1i r\u1ea5t th\u00edch h\u1ee3p v\u1edbi \u00e2m thanh, v\u00e0 th\u01b0\u1eddng \u0111\u01b0\u1ee3c truy\u1ec1n \u0111\u1ea1t b\u1edfi c\u00e1c gi\u1ecdng n\u00f3i c\u00e1 nh\u00e2n.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "text": "B\u00e1o c\u00e1o S\u1ef1 vi\u1ec7c", 
+            "header": "Kh\u1edfi \u0111\u1ed9ng", 
+            "references": [
+                "learning_guide_3::medium_card::value::audio"
+            ], 
+            "path": "profile_interview_audio.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_3", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "issue_report_001.mov", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What makes pickup soccer great?", 
+            "header": "B\u00f3ng \u0111\u00e1 phong tr\u00e0o l\u00e0 g\u00ec?", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "exampleMediaPath": "issue_report_001.mov", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Xem m\u1ed9t nh\u00f3m nh\u00e2n v\u1eadt mi\u00eau t\u1ea3 b\u00f3ng \u0111\u00e1 phong tr\u00e0o trong khi ng\u01b0\u1eddi k\u1ec3 d\u1eabn d\u1eaft v\u00e0 \u0111i\u1ec1u h\u01b0\u1edbng c\u00e2u chuy\u1ec7n. C\u00e2u chuy\u1ec7n \u0111\u01b0\u1ee3c d\u1eabn d\u1eaft b\u1edfi c\u00e2u h\u1ecfi \"B\u00f3ng \u0111\u00e1 phong tr\u00e0o l\u00e0 g\u00ec?\" Trong video, h\u00ecnh \u1ea3nh \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng \u0111\u1ec3 h\u1ed7 tr\u1ee3 ho\u1eb7c \u0111\u1ed1i ngh\u1ecbch l\u1ea1i ti\u1ebfng n\u00f3i c\u1ee7a c\u00e1c nh\u00e2n v\u1eadt.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ]
+        }, 
+        {
+            "text": "B\u00e1o c\u00e1o S\u1ef1 vi\u1ec7c", 
+            "header": "Kh\u1edfi \u0111\u1ed9ng", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "path": "issue_report_video.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_4", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "profile_interview_001.mov", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: Why did Marvin become a goalie?", 
+            "header": "G\u1eb7p g\u1ee1 v\u1edbi th\u1ee7 m\u00f4n Marvin", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "exampleMediaPath": "profile_interview_001.mov", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "Xem Marvin ch\u01a1i h\u1ebft m\u00ecnh trong khi anh ta n\u00f3i v\u1ec1 cu\u1ed9c s\u1ed1ng tr\u01b0\u1edbc v\u00e0 sau khi tr\u1edf th\u00e0nh th\u1ee7 m\u00f4n cho \u0111\u1ed9i b\u00f3ng \u0111\u00e1 \u0111\u1ecba ph\u01b0\u01a1ng. C\u00e2u chuy\u1ec7n n\u00e0y n\u00f3i v\u1ec1 m\u1ed9t nh\u00e2n v\u1eadt. Trong video d\u00f9ng h\u00ecnh \u1ea3nh \u0111\u1ec3 minh ho\u1ea1 nh\u1eefng l\u1eddi n\u00f3i v\u00e0 xung \u0111\u1ed9t c\u1ee7a nh\u00e2n v\u1eadt.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ]
+        }, 
+        {
+            "text": "Ph\u1ecfng v\u1ea5n Nh\u00e2n v\u1eadt", 
+            "header": "Kh\u1edfi \u0111\u1ed9ng", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "path": "profile_interview_video.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_5", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "issue_discussion_001.mov", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What do people love about pickup soccer?", 
+            "header": "\u0110i\u1ec1u n\u00e0o l\u00e0 t\u1ed1t \u0111\u1eb9p v\u1ec1 b\u00f3ng \u0111\u00e1 phong tr\u00e0o?", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "exampleMediaPath": "issue_discussion_001.mov", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "text": "Nh\u00ecn m\u1ed9t nh\u00f3m ng\u01b0\u1eddi l\u1ea1 ch\u01a1i b\u00f3ng v\u00e0 b\u00e0n lu\u1eadn v\u1ec1 s\u1ef1 say m\u00ea b\u00f3ng \u0111\u00e1 phong tr\u00e0o c\u1ee7a h\u1ecd. C\u00e2u chuy\u1ec7n n\u00e0y \u0111\u01b0\u1ee3c d\u1eabn d\u1eaft b\u1edfi c\u00e1c nh\u00e2n v\u1eadt b\u00e0n lu\u1eadn v\u1ec1 m\u1ed9t c\u00e2u h\u1ecfi c\u1ee5 th\u1ec3. Nh\u1eefng video lu\u1eadn b\u00e0n th\u00e0nh c\u00f4ng s\u1eed d\u1ee5ng c\u00e1c video clip \u0111\u1ec3 h\u1ed7 tr\u1ee3 c\u00e2u tr\u1ea3 l\u1eddi c\u1ee7a m\u1ed7i nh\u00e2n v\u1eadt.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }, 
+        {
+            "text": "Th\u1ea3o lu\u1eadn v\u1ec1 s\u1ef1 vi\u1ec7c", 
+            "header": "Kh\u1edfi \u0111\u1ed9ng", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "path": "issue_discussion_video_question_10.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_6", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "event_report_001.mov", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What brought each person to the game?", 
+            "header": "B\u00f3ng \u0111\u00e1 phong tr\u00e0o Ch\u1ee7 nh\u1eadt", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "exampleMediaPath": "event_report_001.mov", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_7"
+        }, 
+        {
+            "text": "Xem c\u00e1i g\u00ec x\u1ea3y ra khi m\u1ed9t nh\u00f3m ng\u01b0\u1eddi l\u1ea1 g\u1eb7p g\u1ee1 trong m\u1ed9t tr\u1eadn b\u00f3ng \u0111\u00e1 \u0111\u1ecba ph\u01b0\u01a1ng. C\u00e2u chuy\u1ec7n n\u00e0y t\u1eadp trung v\u00e0o m\u1ed9t s\u1ef1 ki\u1ec7n c\u1ee5 th\u1ec3, c\u00e1i g\u00ec x\u1ea3y ra v\u00e0 t\u1ea1i sao. Trong video, nh\u1eefng h\u00ecnh \u1ea3nh m\u1ea1nh m\u1ebd c\u0169ng quan tr\u1ecdng nh\u01b0 ti\u1ebfng n\u00f3i c\u1ee7a nh\u1eefng nh\u00e2n v\u1eadt.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ]
+        }, 
+        {
+            "text": "B\u00e1o c\u00e1o s\u1ef1 ki\u1ec7n", 
+            "header": "Kh\u1edfi \u0111\u1ed9ng", 
+            "references": [
+                "learning_guide_3::medium_card::value::video"
+            ], 
+            "path": "event_report_video.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_7", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "event_highlights_001.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "event_highlights_002.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "event_highlights_003.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "event_highlights_004.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "event_highlights_005.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "event_highlights_006.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "event_highlights_007.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "event_highlights_008.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What brought each person to the game?", 
+            "header": "B\u00f3ng \u0111\u00e1 phong tr\u00e0o ch\u1ee7 nh\u1eadt", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ], 
+            "exampleMediaPath": "event_highlights_001.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_8"
+        }, 
+        {
+            "text": "Xem vi\u1ec7c g\u00ec x\u1ea3y ra khi m\u1ed9t nh\u00f3m ng\u01b0\u1eddi l\u1ea1 m\u1eb7t g\u1eb7p nhau \u1edf m\u1ed9t tr\u1eadn b\u00f3ng \u0111\u00e1 \u0111\u1ecba ph\u01b0\u01a1ng. C\u00e2u chuy\u1ec7n n\u00e0y t\u1eadp trung v\u00e0o m\u1ed9t s\u1ef1 ki\u1ec7n c\u1ee5 th\u1ec3, v\u00e0 n\u00f3 x\u1ea3y ra th\u1ebf n\u00e0o. H\u00e0ng lo\u1ea1t \u1ea3nh cho th\u1ea5y nh\u1eefng h\u00ecnh \u1ea3nh \u0111\u1eb9p nh\u1ea5t v\u1ec1 nh\u1eefng c\u1ea3m x\u00fac v\u00e0 h\u00e0nh \u0111\u1ed9ng trong c\u00e2u chuy\u1ec7n, v\u00e0 th\u01b0\u1eddng s\u1eed d\u1ee5ng v\u0103n b\u1ea3n \u0111\u1ec3 l\u1ea5p v\u00e0o nh\u1eefng chi ti\u1ebft b\u1ecb m\u1ea5t.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ]
+        }, 
+        {
+            "text": "Nh\u1eefng \u0111i\u1ec3m ch\u00ednh c\u1ee7a s\u1ef1 ki\u1ec7n", 
+            "header": "Kh\u1edfi \u0111\u1ed9ng", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ], 
+            "path": "event_highlights_photo.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_8", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "issue_series_001.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_002.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_003.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_004.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_005.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What makes pickup soccer great?", 
+            "header": "B\u00f3ng \u0110\u00e1 Phong Tr\u00e0o l\u00e0 c\u00e1i g\u00ec?", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ], 
+            "exampleMediaPath": "issue_series_001.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_9"
+        }, 
+        {
+            "text": "H\u00e3y xem lo\u1ea1t m\u00f4 t\u1ea3 ch\u00e2n dung c\u1ee7a c\u00e1c c\u1ea7u th\u1ee7 b\u00f3ng \u0111\u00e1 \u0111\u1ecba ph\u01b0\u01a1ng. C\u00e2u chuy\u1ec7n \u0111\u01b0\u1ee3c d\u1eabn d\u1eaft b\u1edfi nh\u1eefng b\u1ee9c h\u00ecnh c\u1ee7a m\u1ed9t lo\u1ea1t c\u00e1c nh\u00e2n v\u1eadt, h\u1ed7 tr\u1ee3 b\u1edfi v\u0103n b\u1ea3n v\u00e0 ghi ch\u00fa mi\u00eau t\u1ea3 b\u00f3ng \u0111\u00e1 phong tr\u00e0o. Ph\u00f3ng s\u1ef1 b\u1eb1ng h\u00ecnh th\u01b0\u1eddng s\u1eed d\u1ee5ng nh\u1eefng lo\u1ea1t \u1ea3nh \u0111\u1ec3 gi\u1edbi thi\u1ec7u v\u1edbi kh\u00e1n gi\u1ea3, v\u00e0 \u0111\u01b0\u1ee3c b\u1ed5 sung b\u1edfi nh\u1eefng th\u00f4ng tin chi ti\u1ebft d\u01b0\u1edbi d\u1ea1ng v\u0103n b\u1ea3n.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ]
+        }, 
+        {
+            "text": "Chu\u1ed7i s\u1ef1 ki\u1ec7n", 
+            "header": "Kh\u1edfi \u0111\u1ed9ng", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ], 
+            "path": "event_series_photo_action.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_9", 
+            "icon": "right"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "issue_series_001.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_002.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_003.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_004.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "issue_series_005.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Central Question: What is it like to be a goalie?", 
+            "header": "G\u1eb7p g\u1ee1 v\u1edbi th\u1ee7 m\u00f4n Marvin", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ], 
+            "exampleMediaPath": "issue_series_001.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_10"
+        }, 
+        {
+            "text": "Xem chuy\u1ec7n g\u00ec x\u1ea3y ra v\u1edbi Marvin trong m\u1ed9t ng\u00e0y \u0111i\u1ec3n h\u00ecnh nh\u01b0 l\u00e0 m\u1ed9t th\u1ee7 m\u00f4n trong \u0111\u1ed9i b\u00f3ng \u0111\u1ecba ph\u01b0\u01a1ng. C\u00e2u chuy\u1ec7n n\u00e0y \u0111\u01b0\u1ee3c d\u1eabn d\u1eaft b\u1edfi nh\u1eefng h\u00ecnh \u1ea3nh v\u1ec1 m\u1ed9t c\u00e1 nh\u00e2n. Ph\u00f3ng s\u1ef1 b\u1eb1ng h\u00ecnh v\u1ec1 m\u1ed9t nh\u00e2n v\u1eadt thu l\u1ea1i nh\u1eefng c\u1ea3m x\u00fac c\u1ee7a nh\u00e2n v\u1eadt v\u00e0 t\u01b0\u01a1ng t\u00e1c c\u1ee7a h\u1ecd v\u1edbi c\u00e1c nh\u00e2n v\u1eadt kh\u00e1c trong c\u00e2u chuy\u1ec7n.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_9", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ]
+        }, 
+        {
+            "text": "Nh\u1eefng \u0111i\u1ec3m ch\u00ednh c\u1ee7a nh\u00e2n v\u1eadt", 
+            "header": "Kh\u1edfi \u0111\u1ed9ng", 
+            "references": [
+                "learning_guide_3::medium_card::value::photo"
+            ], 
+            "path": "profile_highlights_photo.json", 
+            "type": "ButtonCard", 
+            "id": "milestone_card_10", 
+            "icon": "right"
+        }
+    ], 
+    "storyPathLibraryFile": "learning_guide_3_library.json", 
+    "classPackage": "scal.io.liger.model", 
+    "id": "learning_guide_3", 
+    "title": "K\u1ec3 nh\u1eefng c\u00e2u chuy\u1ec7n v\u1edbi m\u1ed9t c\u00e2u h\u1ecfi trung t\u00e2m"
+}

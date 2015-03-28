@@ -1,0 +1,140 @@
+{
+    "cards": [
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "audio", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Th\u00e2u \u00e2m v\u1ec1 n\u01a1i s\u1ef1 ki\u1ec7n x\u1ea3y ra.", 
+                "Th\u00e2u \u00e2m c\u1ee7a m\u1ed9t n\u01a1i quan tr\u1ecdng \u0111\u1ed1i v\u1edbi s\u1ef1 ki\u1ec7n."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:07", 
+            "goals": [
+                "Th\u00e2u \u00e2m gi\u1edbi thi\u1ec7u th\u1ea3o lu\u1eadn c\u1ee7a b\u1ea1n."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "B\u1ea1n ngh\u0129 ph\u1ea7n n\u00e0o l\u00e0 h\u1ea5p d\u1eabn nh\u1ea5t c\u1ee7a s\u1ef1 ki\u1ec7n?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "B\u1ea1n ngh\u0129 ph\u1ea7n n\u00e0o l\u00e0 h\u1ea5p d\u1eabn nh\u1ea5t c\u1ee7a s\u1ef1 ki\u1ec7n?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:09", 
+            "goals": [
+                "Th\u00e2u \u00e2m v\u1ec1 n\u01a1i s\u1ef1 ki\u1ec7n x\u1ea3y ra.", 
+                "Th\u00e2u \u00e2m c\u1ee7a m\u1ed9t n\u01a1i quan tr\u1ecdng \u0111\u1ed1i v\u1edbi s\u1ef1 ki\u1ec7n."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "B\u1ea1n ngh\u0129 ph\u1ea7n n\u00e0o l\u00e0 h\u1ea5p d\u1eabn nh\u1ea5t c\u1ee7a s\u1ef1 ki\u1ec7n?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "B\u1ea1n ngh\u0129 ph\u1ea7n n\u00e0o l\u00e0 h\u1ea5p d\u1eabn nh\u1ea5t c\u1ee7a s\u1ef1 ki\u1ec7n?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "goals": [
+                "Ghi l\u1ea1i ph\u1ea3n \u1ee9ng c\u1ee7a ng\u01b0\u1eddi ta v\u1ec1 m\u1ed9t ph\u1ea7n h\u1ea5p d\u1eabn c\u1ee7a s\u1ef1 ki\u1ec7n."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "B\u1ea1n ngh\u0129 ph\u1ea7n n\u00e0o l\u00e0 h\u1ea5p d\u1eabn nh\u1ea5t c\u1ee7a s\u1ef1 ki\u1ec7n?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:09", 
+            "goals": [
+                "Th\u00e2u \u00e2m v\u1ec1 s\u1ef1 ki\u1ec7n k\u1ebft th\u00fac th\u1ebf n\u00e0o."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_9"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "audio", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Ph\u00f3ng s\u1ef1 c\u00f3 bao g\u1ed3m t\u1ea5t c\u1ea3 nh\u1eefng ph\u1ea7n h\u1ea5p d\u1eabn c\u1ee7a s\u1ef1 ki\u1ec7n?", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "event_discussion_audio_question3", 
+    "title": "Th\u1ea3o lu\u1eadn v\u1ec1 s\u1ef1 ki\u1ec7n- H\u1ea5p d\u1eabn"
+}

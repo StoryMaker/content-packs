@@ -1,0 +1,158 @@
+{
+    "cards": [
+        {
+            "medium": "video", 
+            "length": "0:08", 
+            "goals": [
+                "Cho xem \u0111\u1ecba \u0111i\u1ec3m ho\u1eb7c c\u1ed9ng \u0111\u1ed3ng m\u00e0 v\u1ea5n \u0111\u1ec1 b\u1ea1n n\u00eau l\u00ean."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "video", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "Cho xem ng\u01b0\u1eddi b\u1ecb \u1ea3nh h\u01b0\u1edfng b\u1edfi v\u1ea5n \u0111\u1ec1."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "video", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:15", 
+            "goals": [
+                "Cho xem \u0111i\u1ec1u g\u00ec \u0111\u00f3 t\u00f3m l\u01b0\u1ee3c v\u1ea5n \u0111\u1ec1 v\u00e0 t\u00e1c \u0111\u1ed9ng c\u1ee7a n\u00f3."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "Cho xem m\u1ed9t v\u00ed d\u1ee5 quan tr\u1ecdng nh\u1ea5t \u0111\u1ec3 minh h\u1ecda cho v\u1ea5n \u0111\u1ec1 v\u00e0 t\u00e1c \u0111\u1ed9ng c\u1ee7a n\u00f3."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Cho xem m\u1ed9t v\u00ed d\u1ee5 quan tr\u1ecdng kh\u00e1c \u0111\u1ec3 minh h\u1ecda cho v\u1ea5n \u0111\u1ec1 v\u00e0 t\u00e1c \u0111\u1ed9ng c\u1ee7a n\u00f3."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "video", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "Cho xem m\u1ed9t v\u00ed d\u1ee5 quan tr\u1ecdng kh\u00e1c \u0111\u1ec3 minh h\u1ecda cho v\u1ea5n \u0111\u1ec1 v\u00e0 t\u00e1c \u0111\u1ed9ng c\u1ee7a n\u00f3."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "text": "N\u1ebfu c\u00f3 h\u01a1n ba, b\u1ea1n n\u00ean b\u1ed5 sung th\u00eam clip.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:15", 
+            "goals": [
+                "Tr\u00f2 chuy\u1ec7n v\u1edbi nh\u1eefng ng\u01b0\u1eddi quan tr\u1ecdng t\u1ea1i s\u1ef1 ki\u1ec7n. H\u1ecd c\u00f3 th\u1ec3 l\u00e0 ng\u01b0\u1eddi bi\u1ec3u di\u1ec5n hay di\u1ec5n gi\u1ea3. C\u00f3 th\u1ec3 l\u00e0 m\u1ed9t quan ch\u1ee9c ho\u1eb7c ch\u00ednh tr\u1ecb gia hay m\u1ed9t ng\u01b0\u1eddi n\u1ed5i ti\u1ebfng."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Cho xem t\u00e1c \u0111\u1ed9ng c\u1ee7a v\u1ea5n \u0111\u1ec1. Cho xem t\u00e1c \u0111\u1ed9ng c\u1ee7a n\u00f3 l\u00ean c\u1ed9ng \u0111\u1ed3ng"
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "C\u00f3 \u0111i\u1ec1u g\u00ec \u0111\u00e3 \u0111\u01b0\u1ee3c l\u00e0m v\u1ec1 v\u1ea5n \u0111\u1ec1? Cho xem s\u1ef1 thay \u0111\u1ed5i.", 
+                "N\u1ebfu kh\u00f4ng c\u00f3 g\u00ec thay \u0111\u1ed5i, cho xem \u0111i\u1ec1u \u0111\u00f3."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_3", 
+            "tags": [
+                "edit", 
+                "video", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_4", 
+            "tags": [
+                "narration"
+            ]
+        }, 
+        {
+            "text": "--------", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "issue_highlights_video", 
+    "title": "Nh\u1eefng \u0111i\u1ec3m n\u1ed5i b\u1eadt c\u1ee7a v\u1ea5n \u0111\u1ec1"
+}

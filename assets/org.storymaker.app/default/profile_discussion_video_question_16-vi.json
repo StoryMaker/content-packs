@@ -1,0 +1,121 @@
+{
+    "cards": [
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "video", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "Cho ch\u00fang t\u00f4i xem m\u1ed9t s\u1ed1 \u0111i\u1ec1u quan tr\u1ecdng v\u1ec1 nh\u00e2n v\u1eadt."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:15", 
+            "goals": [
+                "Cho xem nh\u00e2n v\u1eadt l\u00e0m g\u00ec \u0111\u1ec3 sinh s\u1ed1ng.", 
+                "Cho xem nh\u00e2n v\u1eadt t\u01b0\u01a1ng t\u00e1c v\u1edbi m\u1ecdi ng\u01b0\u1eddi trong cu\u1ed9c s\u1ed1ng c\u1ee7a h\u1ecd.", 
+                "Cho xem m\u1ecdi ng\u01b0\u1eddi trong nh\u00f3m \u0111ang th\u1ea3o lu\u1eadn v\u1ec1 nh\u00e2n v\u1eadt."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "H\u1ecfi: T\u1ea1i sao b\u1ea1n l\u1ea1i ngh\u0129 ng\u01b0\u1eddi n\u00e0y quan tr\u1ecdng?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "H\u1ecfi: T\u1ea1i sao b\u1ea1n l\u1ea1i ngh\u0129 ng\u01b0\u1eddi n\u00e0y quan tr\u1ecdng?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "H\u1ecfi: T\u1ea1i sao b\u1ea1n l\u1ea1i ngh\u0129 ng\u01b0\u1eddi n\u00e0y quan tr\u1ecdng?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "H\u1ecfi: T\u1ea1i sao b\u1ea1n l\u1ea1i ngh\u0129 ng\u01b0\u1eddi n\u00e0y quan tr\u1ecdng?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "H\u1ecfi: T\u1ea1i sao b\u1ea1n l\u1ea1i ngh\u0129 ng\u01b0\u1eddi n\u00e0y quan tr\u1ecdng?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:09", 
+            "goals": [
+                "Ghi l\u1ea1i \u00e2m thanh c\u1ee7a m\u00f4i tr\u01b0\u1eddng c\u1ee7a nh\u00e2n v\u1eadt."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "edit", 
+                "video", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "C\u00e2u chuy\u1ec7n c\u00f3 cho bi\u1ebft t\u1ea1i sao nh\u00e2n v\u1eadt \u0111\u00f3 l\u1ea1i quan tr\u1ecdng kh\u00f4ng?", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "profile_discussion_video_question16", 
+    "title": "Th\u1ea3o lu\u1eadn v\u1ec1 Nh\u00e2n v\u1eadt"
+}

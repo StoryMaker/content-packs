@@ -1,0 +1,23 @@
+{
+    "title": "B\u1ed5 sung th\u00eam chi ti\u1ebft cho c\u00e2u chuy\u1ec7n c\u1ee7a b\u1ea1n", 
+    "storyPathTemplateFiles": {
+        "learning_guide_2": "learning_guide_2.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "learning_guide_2", 
+            "dependencyFile": "learning_guide_2.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "learning_guide_2"
+        }
+    ], 
+    "currentStoryPathFile": "learning_guide_2.json", 
+    "id": "learning_guide_2_library"
+}

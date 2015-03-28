@@ -1,0 +1,22 @@
+{
+    "event_interview_audio::clip_card_5::goals[0]": "Hỏi: Sự kiện bắt đầu khi nào?",
+    "event_interview_audio::clip_card_10::goals[0]": "Ghi lại âm thanh của những điều quan trọng nhất mà nhân vật đã làm ở sự kiện đó.",
+    "event_interview_audio::clip_card_17::goals[0]": "Ghi lại những âm thanh ở phần cuối của sự kiện đó.",
+    "event_interview_audio::clip_card_2::goals[0]": "Thâu âm về nơi sự kiện xảy ra.",
+    "event_interview_audio::clip_card_9::goals[0]": "Hỏi: Ông/bà làm gì ở sự kiện đó?",
+    "event_interview_audio::clip_card_13::goals[0]": "Hỏi: Sự kiện này có ảnh hưởng thế nào đến các cá nhân hoặc cộng đồng?",
+    "event_interview_audio::clip_card_6::goals[0]": "Ghi lại âm thanh của những việc diễn ra tại sự kiện.",
+    "event_interview_audio::clip_card_11::goals[0]": "Ghi lại âm thanh mà người dự tương tác với nhau trong sự kiện.",
+    "event_interview_audio::clip_card_4::goals[0]": "Ghi lại âm thanh của việc chuẩn bị của sự kiện.",
+    "event_interview_audio::clip_card_1::goals[0]": "Giới thiệu sự kiện.",
+    "event_interview_audio::clip_card_8::goals[0]": "Thâu âm của một nơi quan trọng đối với sự kiện.",
+    "event_interview_audio::clip_card_14::goals[0]": "Thâu âm về sự kiện kết thúc thế nào.",
+    "event_interview_audio::evaluation_card_0::text": "--------",
+    "event_interview_audio::clip_card_15::goals[0]": "Ghi laim âm thanh khác của một điều gì đó trong sự kiện.",
+    "event_interview_audio::clip_card_0::goals[0]": "Ghi lại âm thanh giới thiệu sự kiện.",
+    "event_interview_audio::title": "Phỏng vấn về sự kiện",
+    "event_interview_audio::clip_card_3::goals[0]": "Hỏi: Mục đích của sự kiện đó là gì?",
+    "event_interview_audio::clip_card_16::goals[0]": "Điều gì sẽ xảy ra trong sự kiện trong tương lai?",
+    "event_interview_audio::clip_card_7::goals[0]": "Ghi lại âm thanh của một điều đặc biệt về sự kiện.",
+    "event_interview_audio::clip_card_12::goals[0]": "Ghi lại âm thanh kết quả của sự tương tác giữa mọi người ở sự kiện."
+}

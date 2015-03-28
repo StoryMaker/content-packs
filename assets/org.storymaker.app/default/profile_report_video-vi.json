@@ -1,0 +1,191 @@
+{
+    "cards": [
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "video", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:14", 
+            "goals": [
+                "H\u00e3y ch\u1ec9 cho ch\u00fang t\u00f4i n\u01a1i m\u00e0 nh\u00e2n v\u1eadt s\u1ed1ng."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:33", 
+            "goals": [
+                "H\u1ecfi: Xin b\u1ea1n gi\u1edbi thi\u1ec7u v\u1ec1 m\u00ecnh?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:13", 
+            "goals": [
+                "Cho xem m\u1ed9t \u0111i\u1ec1u \u0111\u00e1ng k\u1ec3 m\u00e0 b\u1ea1n t\u00ecm th\u1ea5y \u1edf nh\u00e2n v\u1eadt."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:28", 
+            "goals": [
+                "H\u1ecfi: Xin cho bi\u1ebft ch\u00fat \u00edt v\u1ec1 c\u00f4ng \u0103n vi\u1ec7c l\u00e0m c\u1ee7a b\u1ea1n?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "video", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:15", 
+            "goals": [
+                "Cho xem nh\u00e2n v\u1eadt c\u1ee7a b\u1ea1n l\u00e0m vi\u1ec7c."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "Cho ch\u00fang t\u00f4i xem m\u1ed9t \u0111i\u1ec1u quan tr\u1ecdng nh\u1ea5t v\u1ec1 c\u00f4ng vi\u1ec7c c\u1ee7a nh\u00e2n v\u1eadt."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "video", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:13", 
+            "goals": [
+                "Cho ch\u00fang t\u00f4i xem m\u1ed9t n\u01a1i quan tr\u1ecdng \u0111\u1ed1i v\u1edbi nh\u00e2n v\u1eadt"
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Cho xem nh\u00e2n v\u1eadt t\u01b0\u01a1ng t\u00e1c v\u1edbi m\u1ecdi ng\u01b0\u1eddi trong cu\u1ed9c s\u1ed1ng c\u1ee7a h\u1ecd."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:12", 
+            "goals": [
+                "Cho xem nh\u00e2n v\u1eadt l\u00e0m g\u00ec \u0111\u1ec3 gi\u1ea3i tr\u00ed."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:23", 
+            "goals": [
+                "Cho ch\u00fang t\u00f4i xem m\u1ed9t \u0111i\u1ec1u quan tr\u1ecdng v\u1ec1 nh\u00e2n v\u1eadt."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_9"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:24", 
+            "goals": [
+                "N\u1ebfu l\u00e0 m\u1ed9t n\u01a1i m\u1edbi, cho xem n\u01a1i m\u00e0 nh\u00e2n v\u1eadt k\u1ebft th\u00fac c\u00e2u chuy\u1ec7n."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_10"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:40", 
+            "goals": [
+                "H\u1ecfi: Xin b\u1ea1n cho bi\u1ebft v\u1ec1 t\u01b0\u01a1ng lai?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_11"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:09", 
+            "goals": [
+                "Cho xem nh\u00e2n v\u1eadt \u1edf cu\u1ed1i c\u1ee7a c\u00e2u chuy\u1ec7n."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_12"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_3", 
+            "tags": [
+                "video", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_4", 
+            "tags": [
+                "narration"
+            ]
+        }, 
+        {
+            "text": "--------", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "profile_report_video", 
+    "title": "T\u01b0\u1eddng tr\u00ecnh v\u1ec1 Nh\u00e2n v\u1eadt"
+}

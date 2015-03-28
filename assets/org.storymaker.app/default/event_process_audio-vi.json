@@ -1,0 +1,150 @@
+{
+    "cards": [
+        {
+            "medium": "audio", 
+            "length": "0:08", 
+            "goals": [
+                "Ghi l\u1ea1i nh\u1eefng \u00e2m thanh \u1edf n\u01a1i m\u00e0 s\u1ef1 ki\u1ec7n s\u1ebd x\u1ea3y ra."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:25", 
+            "goals": [
+                "Gi\u1edbi thi\u1ec7u s\u1ef1 kh\u1edfi \u0111\u1ea7u c\u1ee7a s\u1ef1 ki\u1ec7n.", 
+                "\u0110\u1ee9ng g\u1ea7n n\u01a1i ra v\u00e0o v\u00e0 ghi l\u1ea1i vi\u1ec7c \u0111i l\u1ea1i c\u1ee7a m\u1ecdi ng\u01b0\u1eddi.", 
+                "Thu l\u1ea1i nh\u1eefng \u00e2m thanh c\u1ee7a \u0111\u00e1m \u0111\u00f4ng trong s\u1ef1 ki\u1ec7n."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "goals": [
+                "Ghi l\u1ea1i b\u01b0\u1edbc th\u1ee9 nh\u1ea5t \u0111\u00e1ng k\u1ec3 trong s\u1ef1 ki\u1ec7n."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "text": "Kh\u00f4ng ghi l\u1ea1i t\u1eebng b\u01b0\u1edbc. Ch\u1ec9 nh\u1eefng b\u01b0\u1edbc c\u00f3 \u00fd ngh\u0129a \u0111\u1ec3 cho th\u1ea5y s\u1ef1 ti\u1ebfn tri\u1ec3n t\u1eeb \u0111\u1ea7u \u0111\u1ebfn cu\u1ed1i.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:15", 
+            "goals": [
+                "Ghi l\u1ea1i b\u01b0\u1edbc th\u1ee9 2 \u0111\u00e1ng k\u1ec3 trong s\u1ef1 ki\u1ec7n."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:11", 
+            "goals": [
+                "Ghi l\u1ea1i b\u01b0\u1edbc th\u1ee9 3 \u0111\u00e1ng k\u1ec3 trong s\u1ef1 ki\u1ec7n."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "text": "N\u1ebfu c\u00f3 h\u01a1n 4 b\u01b0\u1edbc, b\u1ed5 sung th\u00eam clip cards v\u1edbi n\u00fat b\u1ea5m +.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:15", 
+            "goals": [
+                "Ghi l\u1ea1i b\u01b0\u1edbc cu\u1ed1i c\u00f9ng \u0111\u00e1ng k\u1ec3 trong s\u1ef1 ki\u1ec7n."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:20", 
+            "goals": [
+                "Ghi l\u1ea1i kho\u1ea3nh kh\u1eafc \u0111\u1eb7c bi\u1ec7t k\u1ecbch t\u00ednh m\u00e0 c\u00f3 th\u1ec3 kh\u00e1i qu\u00e1t ho\u00e1 s\u1ef1 ki\u1ec7n."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:15", 
+            "goals": [
+                "Ghi l\u1ea1i h\u00e0nh \u0111\u1ed9ng c\u1ee7a nh\u00e2n v\u1eadt."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Ghi l\u1ea1i vi\u1ec7c quan s\u00e1t ho\u1eb7c ph\u1ea3n \u1ee9ng c\u1ee7a nhi\u1ec1u ng\u01b0\u1eddi trong s\u1ef1 ki\u1ec7n."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:15", 
+            "goals": [
+                "Ghi l\u1ea1i s\u1ea3n ph\u1ea9m ho\u00e0n thi\u1ec7n ho\u1eb7c k\u1ebft lu\u1eadn c\u1ee7a s\u1ef1 ki\u1ec7n- k\u1ebft th\u00fac k\u1ecbch t\u00ednh."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_9"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "edit", 
+                "audio", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "narration"
+            ]
+        }, 
+        {
+            "text": "--------", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "event_process_audio", 
+    "title": "Qu\u00e1 tr\u00ecnh x\u1ea3y ra s\u1ef1 ki\u1ec7n"
+}

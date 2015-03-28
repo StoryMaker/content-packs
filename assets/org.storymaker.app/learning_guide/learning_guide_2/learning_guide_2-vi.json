@@ -1,0 +1,438 @@
+{
+    "cards": [
+        {
+            "level": "C\u01a1 b\u1ea3n 2", 
+            "headline": "B\u1ed5 sung th\u00eam chi ti\u1ebft cho c\u00e2u chuy\u1ec7n c\u1ee7a b\u1ea1n", 
+            "time": null, 
+            "exampleMediaPath": "lg_002_01.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "## Vi\u1ec7c t\u1ea1o ra m\u1ed9t c\u00e2u chuy\u1ec7n ho\u00e0n ch\u1ec9nh v\u00e0 chi ti\u1ebft c\u1ea7n nhi\u1ec1u h\u01a1n ba clip. Ngo\u00e0i vi\u1ec7c s\u1eed d\u1ee5ng nhi\u1ec1u clip nh\u00e2n v\u1eadt, h\u00e0nh \u0111\u1ed9ng v\u00e0 k\u1ebft qu\u1ea3, nhi\u1ec1u c\u00e2u chuy\u1ec7n bao g\u1ed3m th\u00eam hai y\u1ebfu t\u1ed1:  \n\n&bull; \u0110\u1ecba \u0111i\u1ec3m  \n\nN\u1ebfu nh\u00e2n v\u1eadt c\u1ee7a b\u1ea1n s\u1ebd \u1edf nhi\u1ec1u n\u01a1i, s\u1eed d\u1ee5ng c\u00e1c clip v\u1ec1 \u0111\u1ecba \u0111i\u1ec3m \u0111\u1ec3 ch\u1ec9 ra s\u1ef1 thay \u0111\u1ed5i.  \n\n&bull; D\u1ea5u \u1ea5n\n\nB\u1ea1n c\u00f3 th\u1ec3 mu\u1ed1n cho th\u1ea5y m\u1ed9t y\u1ebfu t\u1ed1 d\u1ea5u \u1ea5n c\u1ee7a nh\u00e2n v\u1eadt ho\u1eb7c c\u00e2u chuy\u1ec7n. Clip d\u1ea5u \u1ea5n nh\u1ea5n m\u1ea1nh \u0111i\u1ec3m ch\u00ednh trong c\u00e2u chuy\u1ec7n c\u1ee7a b\u1ea1n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "lg_002_02.mp4", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Watch how combining five clips tells a more detailed story about Marvin, the main character.", 
+            "header": "Th\u1ebb Xem Tr\u01b0\u1edbc Video", 
+            "references": [
+                "learning_guide_1::medium_card::value::video"
+            ], 
+            "exampleMediaPath": "lg_002_02.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "lg_002_03.mp3", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "Listen how combining five clips tells a more detailed story about Marvin, the main character.", 
+            "header": "Th\u1ebb Xem Tr\u01b0\u1edbc \u00c2m Thanh", 
+            "references": [
+                "learning_guide_1::medium_card::value::audio"
+            ], 
+            "exampleMediaPath": "lg_002_03.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "lg_002_04.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "lg_002_05.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "lg_002_06.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "lg_002_07.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }, 
+                {
+                    "media": "lg_002_08.jpg", 
+                    "media_caption": "\u00a9 Skyler Reid 2014"
+                }
+            ], 
+            "text": "See how combining five clips tells a more detailed story about Marvin, the main character.", 
+            "header": "Th\u1ebb Xem Tr\u01b0\u1edbc H\u00ecnh \u1ea2nh", 
+            "references": [
+                "learning_guide_1::medium_card::value::photo"
+            ], 
+            "exampleMediaPath": "lg_002_04.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "B\u1ed5 sung cho c\u00e2u chuy\u1ec7n c\u1ee7a b\u1ea1n", 
+            "header": "Ti\u1ebfp", 
+            "references": [
+                "learning_guide_1::medium_card::value"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_add_to_my_story", 
+            "icon": "down"
+        }, 
+        {
+            "text": "\u0110\u00e2y l\u00e0 ba clip m\u00e0 b\u1ea1n \u0111\u00e3 t\u1ea1o ra \u1edf b\u00e0i h\u1ecdc th\u1ee9 nh\u1ea5t, C\u01a1 b\u1ea3n 1.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:40", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_video_0::clips", 
+                "learning_guide_1::medium_card::value::video"
+            ], 
+            "goals": [
+                "\u0110\u1ec1 ngh\u1ecb nh\u00e2n v\u1eadt k\u1ec3 l\u1ea1i m\u1ed9t c\u00e2u chuy\u1ec7n."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_video_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:40", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_audio_0::clips", 
+                "learning_guide_1::medium_card::value::audio"
+            ], 
+            "goals": [
+                "\u0110\u1ec1 ngh\u1ecb nh\u00e2n v\u1eadt k\u1ec3 l\u1ea1i m\u1ed9t c\u00e2u chuy\u1ec7n."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_audio_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_photo_0::clips", 
+                "learning_guide_1::medium_card::value::photo"
+            ], 
+            "goals": [
+                "Gi\u1edbi thi\u1ec7u nh\u00e2n v\u1eadt trong ph\u00f3ng s\u1ef1."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_photo_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:08", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_video_1::clips", 
+                "learning_guide_1::medium_card::value::video"
+            ], 
+            "goals": [
+                "Cho xem nh\u00e2n v\u1eadt \u0111ang th\u1ef1c hi\u1ec7n m\u1ed9t h\u00e0nh \u0111\u1ed9ng li\u00ean quan \u0111\u1ebfn c\u00e2u chuy\u1ec7n."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_video_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_audio_1::clips", 
+                "learning_guide_1::medium_card::value::audio"
+            ], 
+            "goals": [
+                "Ghi l\u1ea1i vi\u1ec7c nh\u00e2n v\u1eadt th\u1ef1c hi\u1ec7n m\u1ed9t h\u00e0nh \u0111\u1ed9ng li\u00ean quan \u0111\u1ebfn c\u00e2u chuy\u1ec7n."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_audio_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_photo_1::clips", 
+                "learning_guide_1::medium_card::value::photo"
+            ], 
+            "goals": [
+                "Ghi l\u1ea1i m\u1ed9t h\u00e0nh \u0111\u1ed9ng c\u1ee7a nh\u00e2n v\u1eadt c\u00f3 li\u00ean quan \u0111\u1ebfn c\u00e2u chuy\u1ec7n."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_photo_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_photo_1::clips", 
+                "learning_guide_1::medium_card::value::video"
+            ], 
+            "goals": [
+                "Cho xem k\u1ebft qu\u1ea3 h\u00e0nh \u0111\u1ed9ng c\u1ee7a nh\u00e2n v\u1eadt."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_video_2"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:15", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_audio_2::clips", 
+                "learning_guide_1::medium_card::value::audio"
+            ], 
+            "goals": [
+                "Ghi l\u1ea1i k\u1ebft qu\u1ea3 c\u1ee7a h\u00e0nh \u0111\u1ed9ng c\u1ee7a nh\u00e2n v\u1eadt."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_audio_2"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true", 
+                "learning_guide_1::clip_photo_2::clips", 
+                "learning_guide_1::medium_card::value::photo"
+            ], 
+            "goals": [
+                "Cho xem k\u1ebft qu\u1ea3 h\u00e0nh \u0111\u1ed9ng c\u1ee7a nh\u00e2n v\u1eadt."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_photo_2"
+        }, 
+        {
+            "text": "T\u1ed1t l\u1eafm. Gi\u1edd h\u00e3y b\u1ed5 sung c\u00e1c clip \u0111\u1ec3 h\u1ed7 tr\u1ee3 c\u00e2u chuy\u1ec7n c\u1ee7a nh\u00e2n v\u1eadt. V\u1edbi hai th\u1ebb clip ti\u1ebfp theo, b\u1ed5 sung h\u00e0nh \u0111\u1ed9ng v\u00e0 k\u1ebft qu\u1ea3.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "X\u00e2y d\u1ef1ng tr\u00ean c\u00e2u chuy\u1ec7n m\u00e0 b\u1ea1n t\u1ea1o ra \u1edf b\u00e0i h\u1ecdc th\u1ee9 nh\u1ea5t- C\u01a1 b\u1ea3n 1. Thu l\u1ea1i hai clip sau \u0111\u00e2y. R\u1ed3i ch\u00fang ta s\u1ebd xem l\u1ea1i to\u00e0n b\u1ed9 c\u00e2u chuy\u1ec7n.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ], 
+            "goals": [
+                "Cho xem m\u1ed9t \u0111i\u1ec1u quan tr\u1ecdng v\u1ec1 nh\u00e2n v\u1eadt c\u1ee7a b\u1ea1n."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_video_3"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ], 
+            "goals": [
+                "Ghi l\u1ea1i m\u1ed9t \u0111i\u1ec1u quan tr\u1ecdng v\u1ec1 nh\u00e2n v\u1eadt c\u1ee7a b\u1ea1n."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_audio_3"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ], 
+            "goals": [
+                "Cho xem m\u1ed9t \u0111i\u1ec1u quan tr\u1ecdng v\u1ec1 nh\u00e2n v\u1eadt c\u1ee7a b\u1ea1n."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_photo_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:08", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ], 
+            "goals": [
+                "Cho xem n\u01a1i x\u1ea3y ra c\u00e2u chuy\u1ec7n c\u1ee7a b\u1ea1n."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_video_4"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ], 
+            "goals": [
+                "Ghi l\u1ea1i m\u00f4i tr\u01b0\u1eddng n\u01a1i m\u00e0 c\u00e2u chuy\u1ec7n x\u1ea3y ra."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_audio_4"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ], 
+            "goals": [
+                "Cho ch\u00fang t\u00f4i xem n\u01a1i x\u1ea3y ra c\u00e2u chuy\u1ec7n."
+            ], 
+            "exampleMediaPath": null, 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_photo_4"
+        }, 
+        {
+            "text": "S\u1eafp th\u1ee9 t\u1ef1 c\u00e1c clip c\u1ee7a b\u1ea1n", 
+            "header": "Ti\u1ebfp", 
+            "references": [
+                "learning_guide_2::milestone_add_to_my_story::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_next_order_your_clips", 
+            "icon": "down"
+        }, 
+        {
+            "text": "S\u1eafp th\u1ef1 t\u1ef1 clips \u0111\u1ec3 k\u1ec3 c\u00e2u chuy\u1ec7n v\u1edbi nh\u1eefng chi ti\u1ebft b\u1ed5 sung \u0111\u00f3.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "learning_guide_2::milestone_order_your_clips::value::true"
+            ]
+        }, 
+        {
+            "references": [
+                "learning_guide_2::clip_video_0::value", 
+                "learning_guide_2::clip_video_1::value", 
+                "learning_guide_2::clip_video_2::value", 
+                "learning_guide_2::clip_video_3::value", 
+                "learning_guide_2::clip_video_4::value", 
+                "learning_guide_2::milestone_next_order_your_clips::value::true"
+            ], 
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "references": [
+                "learning_guide_2::clip_audio_0::value", 
+                "learning_guide_2::clip_audio_1::value", 
+                "learning_guide_2::clip_audio_2::value", 
+                "learning_guide_2::clip_audio_3::value", 
+                "learning_guide_2::clip_audio_4::value", 
+                "learning_guide_2::milestone_next_order_your_clips::value::true"
+            ], 
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_1"
+        }, 
+        {
+            "references": [
+                "learning_guide_2::clip_photo_0::value", 
+                "learning_guide_2::clip_photo_1::value", 
+                "learning_guide_2::clip_photo_2::value", 
+                "learning_guide_2::clip_photo_3::value", 
+                "learning_guide_2::clip_photo_4::value", 
+                "learning_guide_2::milestone_next_order_your_clips::value::true"
+            ], 
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_2"
+        }, 
+        {
+            "header": "Ti\u1ebfp", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "milestone_finish", 
+            "text": "K\u1ebft th\u00fac"
+        }, 
+        {
+            "text": "Tr\u00ecnh t\u1ef1 c\u1ee7a c\u00e1c clip m\u1edbi c\u1ee7a b\u1ea1n c\u00f3 mang l\u1ea1i m\u1ed9t c\u00e2u chuy\u1ec7n chi ti\u1ebft h\u01a1n kh\u00f4ng?", 
+            "type": "SelfEvalCard", 
+            "id": "selfeval_card_0", 
+            "checklist": [
+                "Thumbs Up", 
+                "Thumbs Down"
+            ]
+        }, 
+        {
+            "text": "## C\u00f4ng vi\u1ec7c ho\u00e0n h\u1ea3o!\nStoryMaker c\u00f3 nhi\u1ec1u b\u00e0i h\u1ecdc gi\u00fap cho b\u1ea1n h\u1ecdc v\u1ec1 nhi\u1ec1u ch\u1ee7 \u0111\u1ec1 theo h\u01b0\u1edbng n\u00e0y.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Next: K\u1ec3 l\u1ea1i c\u00e2u chuy\u1ec7n v\u1edbi m\u1ed9t c\u00e2u h\u1ecfi trung t\u00e2m", 
+            "header": "Ti\u1ebfp", 
+            "link": "learning_guide_3::intro_card_0", 
+            "references": [
+                "learning_guide_2::selfeval_card_0::value_0::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_card_0"
+        }
+    ], 
+    "storyPathLibraryFile": "learning_guide_2_library.json", 
+    "classPackage": "scal.io.liger.model", 
+    "id": "learning_guide_2", 
+    "title": "B\u1ed5 sung th\u00eam chi ti\u1ebft cho c\u00e2u chuy\u1ec7n c\u1ee7a b\u1ea1n"
+}

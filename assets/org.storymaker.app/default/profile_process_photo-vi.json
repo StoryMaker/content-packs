@@ -1,0 +1,140 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Cho xem nh\u00e2n v\u1eadt s\u1eb5n s\u00e0ng cho qu\u00e1 tr\u00ecnh. H\u1ecd chu\u1ea9n b\u1ecb nh\u01b0 th\u1ebf n\u00e0o?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "portrait", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Cho xem s\u1ef1 b\u1eaft \u0111\u1ea7u hay b\u01b0\u1edbc \u0111\u1ea7u ti\u00ean c\u1ee7a qu\u00e1 tr\u00ecnh."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Ch\u1ee5p m\u1ed9t b\u1ee9c h\u00ecnh m\u00e0 n\u00f3 gi\u00fap cho ng\u01b0\u1eddi xem hi\u1ec3u \u0111\u01b0\u1ee3c c\u00e2u chuy\u1ec7n x\u1ea3y ra \u1edf \u0111\u00e2u."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Ch\u1ee5p h\u00ecnh b\u01b0\u1edbc \u0111\u00e1ng k\u1ec3 ti\u1ebfp theo c\u1ee7a qu\u00e1 tr\u00ecnh."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "text": "\u0110\u1ea3m b\u1ea3o l\u1ea5y \u0111\u01b0\u1ee3c nhi\u1ec1u b\u1ed1 c\u1ee5c \u1ea3nh khi m\u00f4 t\u1ea3 qu\u00e1 tr\u00ecnh. M\u1ed9t s\u1ed1 h\u00ecnh khung c\u1ea3nh r\u1ed9ng, c\u1eadn c\u1ea3nh v\u00e0 trung b\u00ecnh. Nh\u00e2n v\u1eadt c\u1ee7a b\u1ea1n kh\u00f4ng c\u1ea7n ph\u1ea3i c\u00f3 \u1edf m\u1ed7i b\u1ee9c h\u00ecnh.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Ghi h\u00ecnh b\u01b0\u1edbc \u0111\u00e1ng k\u1ec3 ti\u1ebfp theo c\u1ee7a qu\u00e1 tr\u00ecnh."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "photo essay", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Ghi h\u00ecnh b\u01b0\u1edbc \u0111\u00e1ng k\u1ec3 ti\u1ebfp theo c\u1ee7a qu\u00e1 tr\u00ecnh."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Ch\u1ee5p m\u1ed9t b\u1ee9c h\u00ecnh m\u00e0 n\u00f3 t\u00f3m l\u01b0\u1ee3c c\u1ea3 qu\u00e1 tr\u00ecnh."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "N\u1ebfu c\u00e2u chuy\u1ec7n c\u1ee7a b\u1ea1n l\u00e0 v\u1ec1 m\u1ed9t \u0111i\u1ec1u nh\u00e2n v\u1eadt l\u00e0m v\u1edbi kh\u00e1n gi\u1ea3 ho\u1eb7c m\u1ecdi ng\u01b0\u1eddi ch\u1ec9 quan s\u00e1t, h\u00e3y \u0111\u1ea3m b\u1ea3o l\u1ea5y \u0111\u01b0\u1ee3c b\u1ee9c h\u00ecnh v\u1edbi ph\u1ea3n \u1ee9ng c\u1ee7a h\u1ecd."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Ch\u1ee5p h\u00ecnh nh\u00e2n v\u1eadt c\u1ee7a b\u1ea1n khi h\u1ecd k\u1ebft th\u00fac qu\u00e1 tr\u00ecnh. C\u00e0ng k\u1ecbch t\u00ednh c\u00e0ng t\u1ed1t."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "narration"
+            ]
+        }, 
+        {
+            "text": "--------", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "profile_process_photo", 
+    "title": "Qu\u00e1 tr\u00ecnh v\u1ec1 Nh\u00e2n v\u1eadt"
+}

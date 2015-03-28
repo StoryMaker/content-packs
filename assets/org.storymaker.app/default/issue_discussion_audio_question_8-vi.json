@@ -1,0 +1,132 @@
+{
+    "cards": [
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "audio", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "goals": [
+                "Ghi \u00e2m l\u1ea1i m\u1ed9t \u0111i\u1ec1u g\u00ec m\u00e0 gi\u1edbi thi\u1ec7u v\u1ea5n \u0111\u1ec1.", 
+                "Thu l\u1ea5y m\u1ed9t \u00e2m thanh r\u00f5 r\u00e0ng ti\u00eau bi\u1ec3u cho v\u1ea5n \u0111\u1ec1."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:09", 
+            "goals": [
+                "Ghi \u00e2m nh\u1eefng ng\u01b0\u1eddi b\u1ecb t\u00e1c \u0111\u1ed9ng b\u1edfi s\u1ef1 ki\u1ec7n \u0111ang n\u00f3i chuy\u1ec7n.", 
+                "Ghi l\u1ea1i nh\u1eefng \u00e2m thanh \u1edf n\u01a1i v\u1ea5n \u0111\u1ec1 x\u1ea3y ra."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "B\u1ea1n c\u00f3 \u00fd ki\u1ebfn nh\u01b0 th\u1ebf n\u00e0o v\u1ec1 v\u1ea5n \u0111\u1ec1 n\u00e0y?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "What is your opinion of the issue?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:09", 
+            "goals": [
+                "Thu nh\u1eefng \u00e2m thanh quan tr\u1ecdng c\u1ee7a m\u1ed9t n\u01a1i quan tr\u1ecdng cho s\u1ef1 ki\u1ec7n.", 
+                "Ghi l\u1ea1i \u00e2m thanh \u1edf n\u01a1i m\u00e0 v\u1ea5n \u0111\u1ec1 x\u1ea3y ra."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "B\u1ea1n c\u00f3 \u00fd ki\u1ebfn nh\u01b0 th\u1ebf n\u00e0o v\u1ec1 v\u1ea5n \u0111\u1ec1 n\u00e0y?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "B\u1ea1n c\u00f3 \u00fd ki\u1ebfn nh\u01b0 th\u1ebf n\u00e0o v\u1ec1 v\u1ea5n \u0111\u1ec1 n\u00e0y?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "\u00dd ki\u1ebfn c\u1ee7a b\u1ea1n v\u1ec1 v\u1ea5n \u0111\u1ec1 n\u00e0y nh\u01b0 th\u1ebf n\u00e0o?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:09", 
+            "goals": [
+                "Cho xem m\u1ed9t n\u01a1i quan tr\u1ecdng \u0111\u1ed1i v\u1edbi v\u1ea5n \u0111\u1ec1."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "edit", 
+                "audio", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Ph\u00f3ng s\u1ef1 c\u1ee7a b\u1ea1n c\u00f3 thu th\u1eadp \u00fd ki\u1ebfn r\u1ed9ng r\u00e3i v\u1ec1 v\u1ea5n \u0111\u1ec1 \u0111\u00f3 kh\u00f4ng?", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "issue_discussion_audio_question8", 
+    "title": "Th\u1ea3o lu\u1eadn V\u1ea5n \u0111\u1ec1 - \u00dd ki\u1ebfn"
+}

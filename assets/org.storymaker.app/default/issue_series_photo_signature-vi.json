@@ -1,0 +1,94 @@
+{
+    "cards": [
+        {
+            "text": "T\u00ecm m\u1ed9t khu\u00f4n m\u1eabu m\u00e0 ng\u01b0\u1eddi xem c\u00f3 th\u1ec3 \u0111\u1ed3ng c\u1ea3m v\u1edbi.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Ch\u1ee5p h\u00ecnh m\u1ed9t lo\u1ea1t \u0111\u1ed3 v\u1eadt \u0111\u1ec3 minh h\u1ecda v\u1ea5n \u0111\u1ec1."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "L\u1eb7p l\u1ea1i b\u1ed1 c\u1ee5c c\u1ee7a b\u1ee9c \u1ea3nh th\u1ee9 nh\u1ea5t v\u1edbi m\u1ed9t ng\u01b0\u1eddi kh\u00e1c."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "L\u1eb7p l\u1ea1i b\u1ed1 c\u1ee5c c\u1ee7a b\u1ee9c \u1ea3nh th\u1ee9 nh\u1ea5t v\u1edbi m\u1ed9t ng\u01b0\u1eddi kh\u00e1c."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "series", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "L\u1eb7p l\u1ea1i b\u1ed1 c\u1ee5c c\u1ee7a b\u1ee9c \u1ea3nh th\u1ee9 nh\u1ea5t v\u1edbi m\u1ed9t ng\u01b0\u1eddi kh\u00e1c."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "L\u1eb7p l\u1ea1i b\u1ed1 c\u1ee5c c\u1ee7a b\u1ee9c \u1ea3nh th\u1ee9 nh\u1ea5t v\u1edbi m\u1ed9t ng\u01b0\u1eddi kh\u00e1c."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "edit", 
+                "photo", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "--------", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "issue_series_photo_signature", 
+    "title": "Chu\u1ed7i V\u1ea5n \u0111\u1ec1 - D\u1ea5u \u1ea5n"
+}
