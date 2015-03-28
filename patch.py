@@ -5,8 +5,8 @@ import click
 import sys
 import shutil
 
-
-def build_patch(pack, old_zip, new_zip):
+app_package = 'org.storymaker.app'
+def build_patch(pack, old_zip, new_zip, patch_name):
     input_dir = 'assets'
     patch_dir = 'patch/%s' % pack
     #os.system('java -jar zipdiff.jar -file1 zips/%s.main.%s.obb -file2 assets/%s.main.%s.obb -outputfile diffs.html' % 
@@ -47,11 +47,12 @@ def build_patch(pack, old_zip, new_zip):
                     except Exception as e: print "e: %s" % e
                     shutil.copy("%s/%s" % (input_dir, ul.text), 
                                     "%s/%s" % (patch_dir, ul.text))
-#    os.system("rm assets/%s.main.%s.obb ; cd liger-content/assets ; zip -n .mp4 -r main.1044.org.storymaker.app.obb org.storymaker.app/default")               
+    os.system("rm patch/%s ; cd %s ; zip -n .mp4 -r %s %s ; mv %s .." 
+        % (patch_name, patch_dir, patch_name, app_package, patch_name))
 
-build_patch('burundi', 'burundi.main.2.obb', 'burundi.main.3.obb')
-build_patch('learning_guide', 'learning_guide.main.1.obb', 'learning_guide.main.2.obb')
-build_patch('default', 'main.1031.org.storymaker.app.obb', 'main.1044.org.storymaker.app.obb')
+build_patch('burundi', 'burundi.main.2.obb', 'burundi.main.3.obb', 'burundi.patch.3.obb')
+build_patch('learning_guide', 'learning_guide.main.1.obb', 'learning_guide.main.2.obb', 'learning_guide.patch.2.obb')
+build_patch('default', 'main.1031.org.storymaker.app.obb', 'main.1044.org.storymaker.app.obb', 'patch.1044.org.storymaker.app.obb')
 #build_patch('main', 2, 3)
 
 
