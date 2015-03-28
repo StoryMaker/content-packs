@@ -7,7 +7,7 @@
     "event_process_audio::clip_card_7::goals[0]": "سجل الشخصية وهو يقوم بنشاط.",
     "event_process_audio::text_card_0::text": "لا تقم بتسجيل كل الخطوات. فقط الخطوات المعبرة لإظهار التقدم من البداية إلى النهاية.",
     "event_process_audio::evaluation_card_0::text": "--------",
-    "event_process_audio::clip_card_2::goals[0]": "سجل الخطوة المعبرة الأولى في الحدث. ",
+    "event_process_audio::clip_card_2::goals[0]": "سجل الخطوة المعبرة الأولى في الحدث.",
     "event_process_audio::clip_card_9::goals[0]": "سجل الإنتاج النهائي أو خاتمة الحدث - النهاية الدرامية.",
     "event_process_audio::clip_card_6::goals[0]": "سجل لحظة درامية معينةتكون ملخصا للحدث.",
     "event_process_audio::text_card_1::text": "إذا كانوا أكثر من أربع خطوات ، أضف مقاطع باستعمل الزر + .",

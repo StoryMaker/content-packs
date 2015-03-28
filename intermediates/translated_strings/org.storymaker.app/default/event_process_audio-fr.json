@@ -2,7 +2,7 @@
     "event_process_audio::clip_card_0::goals[0]": "Enregistrer des sons du lieu où va se produire l'événement avant qu'il commence.",
     "event_process_audio::clip_card_1::goals[2]": "Prendre des sons de la foule dans l'événement.",
     "event_process_audio::title": "Processus d'un événement",
-    "event_process_audio::clip_card_4::goals[0]": "Enregistrer la troisième étape significative dans l'événement. ",
+    "event_process_audio::clip_card_4::goals[0]": "Enregistrer la troisième étape significative dans l'événement.",
     "event_process_audio::clip_card_3::goals[0]": "Enregistrer la deuxième étape significative lors de l'événement.",
     "event_process_audio::clip_card_7::goals[0]": "Enregistrer votre personnage en train de faire une activité.",
     "event_process_audio::text_card_0::text": "Ne pas enregistrer chaque étape. Seules les étapes significatives pour montrer la progression du début jusqu'à la fin.",

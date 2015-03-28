@@ -51,7 +51,7 @@
                 }
             ], 
             "exampleMediaPath": "lg_001_03.mp3", 
-            "header": "Carte d\u2019aper\u00e7ue Audio  ", 
+            "header": "Carte d\u2019aper\u00e7ue Audio", 
             "text": "In this example, Marvin tells us why he started playing soccer.", 
             "clipType": "character", 
             "type": "ExampleCard", 

@@ -1,15 +1,15 @@
 {
     "profile_discussion_audio_question14::title": "Profile Discussion",
     "profile_discussion_audio_question14::evaluation_card_0::text": "Показывает ли ваш сюжет почему этот человек является важным?",
-    "profile_discussion_audio_question14::clip_card_4::goals[0]": "Спросите: Что вы думаете об этом персонаже? ",
-    "profile_discussion_audio_question14::clip_card_3::goals[0]": "Спросите: Что вы думаете об этом персонаже? ",
+    "profile_discussion_audio_question14::clip_card_4::goals[0]": "Спросите: Что вы думаете об этом персонаже?",
+    "profile_discussion_audio_question14::clip_card_3::goals[0]": "Спросите: Что вы думаете об этом персонаже?",
     "profile_discussion_audio_question14::clip_card_8::goals[0]": "Сделайте звукозапись окружающей среды человека.",
-    "profile_discussion_audio_question14::clip_card_7::goals[0]": "Спросите: Что вы думаете об этом персонаже? ",
-    "profile_discussion_audio_question14::clip_card_2::goals[0]": "Запишите звуки того, как ваш герой взаимодействует с другими людьми в его жизне. ",
-    "profile_discussion_audio_question14::clip_card_6::goals[0]": "Спросите: Что вы думаете об этом персонаже? ",
+    "profile_discussion_audio_question14::clip_card_7::goals[0]": "Спросите: Что вы думаете об этом персонаже?",
+    "profile_discussion_audio_question14::clip_card_2::goals[0]": "Запишите звуки того, как ваш герой взаимодействует с другими людьми в его жизне.",
+    "profile_discussion_audio_question14::clip_card_6::goals[0]": "Спросите: Что вы думаете об этом персонаже?",
     "profile_discussion_audio_question14::clip_card_1::goals[0]": "Запишите звуковое сопровождение для того, чтобы представить тему дискуссии.",
-    "profile_discussion_audio_question14::clip_card_2::goals[2]": "Запишите, как люди обсуждают вашего героя в группе. ",
-    "profile_discussion_audio_question14::clip_card_5::goals[0]": "Спросите: Что вы думаете об этом персонаже? ",
-    "profile_discussion_audio_question14::clip_card_2::goals[1]": "Запишите звуки того, как ваш герой зарабатывает на жизнь . ",
-    "profile_discussion_audio_question14::clip_card_0::goals[0]": "Запишите звуки места, которое является важным для вашего героя. "
+    "profile_discussion_audio_question14::clip_card_2::goals[2]": "Запишите, как люди обсуждают вашего героя в группе.",
+    "profile_discussion_audio_question14::clip_card_5::goals[0]": "Спросите: Что вы думаете об этом персонаже?",
+    "profile_discussion_audio_question14::clip_card_2::goals[1]": "Запишите звуки того, как ваш герой зарабатывает на жизнь .",
+    "profile_discussion_audio_question14::clip_card_0::goals[0]": "Запишите звуки места, которое является важным для вашего героя."
 }

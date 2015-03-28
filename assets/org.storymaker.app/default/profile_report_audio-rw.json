@@ -80,7 +80,7 @@
             "medium": "audio", 
             "length": "0:40", 
             "goals": [
-                "Baza ikibazo : murashobora kutwiganira ivyo mukora ?  "
+                "Baza ikibazo : murashobora kutwiganira ivyo mukora ?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -128,7 +128,7 @@
             "medium": "audio", 
             "length": "0:17", 
             "goals": [
-                "Fata amajwi yico wa muntu wawe akora kugira yinezereze. "
+                "Fata amajwi yico wa muntu wawe akora kugira yinezereze."
             ], 
             "clipType": "Action", 
             "type": "ClipCard", 
@@ -148,7 +148,7 @@
             "medium": "audio", 
             "length": "0:40", 
             "goals": [
-                "Baza ikibazo :murashobora munkundiye kutubwira kazoza kawe ? "
+                "Baza ikibazo :murashobora munkundiye kutubwira kazoza kawe ?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -168,7 +168,7 @@
             "medium": "audio", 
             "length": "0:14", 
             "goals": [
-                "Fata amajwi y\u2019aho uwo muntu arangirije inkuru. "
+                "Fata amajwi y\u2019aho uwo muntu arangirije inkuru."
             ], 
             "clipType": "Place", 
             "type": "ClipCard", 

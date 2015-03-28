@@ -40,7 +40,7 @@
                 }
             ], 
             "text": "Listen how combining five clips tells a more detailed story about Marvin, the main character.", 
-            "header": "Carte d\u2019aper\u00e7ue Audio  ", 
+            "header": "Carte d\u2019aper\u00e7ue Audio", 
             "references": [
                 "learning_guide_1::medium_card::value::audio"
             ], 
@@ -321,7 +321,7 @@
                 "learning_guide_2::milestone_add_to_my_story::value::true"
             ], 
             "goals": [
-                "Enregistrer l\u2019environnement o\u00f9 se passe l'histoire. "
+                "Enregistrer l\u2019environnement o\u00f9 se passe l'histoire."
             ], 
             "exampleMediaPath": null, 
             "clipType": "Place", 

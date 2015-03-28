@@ -34,7 +34,7 @@
             "goals": [
                 "Fata amajwi yivyo uwo muntu akora kugira abeho.", 
                 "Fata amajwi y\u2019inyifato yuwo muntu wawe agira ariko araganira n\u2019abandi bantu mu buzima bwiwe.", 
-                "Fata amajwi y\u2019abantu bariko baraganira na wamuntu wawe. "
+                "Fata amajwi y\u2019abantu bariko baraganira na wamuntu wawe."
             ], 
             "clipType": "Action", 
             "type": "ClipCard", 
@@ -84,7 +84,7 @@
             "medium": "audio", 
             "length": "0:30", 
             "goals": [
-                "Baza ikibazo :kuberiki mwibaza ko urya muntu ahambaye? "
+                "Baza ikibazo :kuberiki mwibaza ko urya muntu ahambaye?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -94,7 +94,7 @@
             "medium": "audio", 
             "length": "0:09", 
             "goals": [
-                "Fata amajwi y\u2019impande y\u2019uwo muntu wawe. "
+                "Fata amajwi y\u2019impande y\u2019uwo muntu wawe."
             ], 
             "clipType": "Place", 
             "type": "ClipCard", 

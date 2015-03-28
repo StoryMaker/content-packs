@@ -1,15 +1,15 @@
 {
     "event_discussion_video_question4::clip_card_5::goals[0]": "Почему событие является важным?",
     "event_discussion_video_question4::clip_card_2::goals[0]": "Почему событие является важным?",
-    "event_discussion_video_question4::clip_card_1::goals[0]": "Покажите где происходит событие. ",
-    "event_discussion_video_question4::clip_card_8::goals[0]": "Покажите как заканчивается событие. ",
-    "event_discussion_video_question4::text_card_0::text": "Говорите с разными людьми в разных клипах, чтобы ваш сюжет представлял разные точки зрения. ",
+    "event_discussion_video_question4::clip_card_1::goals[0]": "Покажите где происходит событие.",
+    "event_discussion_video_question4::clip_card_8::goals[0]": "Покажите как заканчивается событие.",
+    "event_discussion_video_question4::text_card_0::text": "Говорите с разными людьми в разных клипах, чтобы ваш сюжет представлял разные точки зрения.",
     "event_discussion_video_question4::clip_card_4::goals[0]": "Почему событие является важным?",
-    "event_discussion_video_question4::clip_card_0::goals[0]": "Покажите нам что-то, что отражает событие. ",
+    "event_discussion_video_question4::clip_card_0::goals[0]": "Покажите нам что-то, что отражает событие.",
     "event_discussion_video_question4::text_card_1::text": "Если вы получили плохой ответ на ваш вопрос, имеет смысл снять еще один клип.",
     "event_discussion_video_question4::clip_card_7::goals[0]": "Почему событие является важным?",
     "event_discussion_video_question4::title": "Event Discussion - Why",
     "event_discussion_video_question4::evaluation_card_0::text": "Показывает ли ваш сюжет почему проблема является важной?",
     "event_discussion_video_question4::clip_card_3::goals[0]": "Почему событие является важным?",
-    "event_discussion_video_question4::clip_card_6::goals[0]": "Покажите место, являющееся важным для данного события. "
+    "event_discussion_video_question4::clip_card_6::goals[0]": "Покажите место, являющееся важным для данного события."
 }
