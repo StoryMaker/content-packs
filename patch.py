@@ -9,8 +9,6 @@ app_package = 'org.storymaker.app'
 def build_patch(pack, old_zip, new_zip, patch_name):
     input_dir = 'assets'
     patch_dir = 'patch/%s' % pack
-    #os.system('java -jar zipdiff.jar -file1 zips/%s.main.%s.obb -file2 assets/%s.main.%s.obb -outputfile diffs.html' % 
-    #    (pack, old_version, pack, new_version))
     try:
         os.remove('diffs.html')
     except: 
@@ -50,11 +48,6 @@ def build_patch(pack, old_zip, new_zip, patch_name):
     os.system("rm patch/%s ; cd %s ; zip -n .mp4 -r %s %s ; mv %s .." 
         % (patch_name, patch_dir, patch_name, app_package, patch_name))
 
-build_patch('burundi', 'burundi.main.2.obb', 'burundi.main.3.obb', 'burundi.patch.3.obb')
+build_patch('burundi', 'burundi.main.2.obb', 'burundi.main.4.obb', 'burundi.patch.4.obb')
 build_patch('learning_guide', 'learning_guide.main.1.obb', 'learning_guide.main.2.obb', 'learning_guide.patch.2.obb')
 build_patch('default', 'main.1031.org.storymaker.app.obb', 'main.1044.org.storymaker.app.obb', 'patch.1044.org.storymaker.app.obb')
-#build_patch('main', 2, 3)
-
-
-#build_patch('persian')
-#build_patch('assets', 'patch/mena')
