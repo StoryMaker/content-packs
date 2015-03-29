@@ -392,6 +392,19 @@ def prep_lesson_pack(content_pack, lang=None):
     generate_content_index(package, content_pack, 'fr')
     generate_content_index(package, content_pack, 'rw')
     generate_content_index(package, content_pack, 'vi')
+    
+    content_metadata_file = open("assets/%s/%s/content_metadata.json" % (package, content_pack), 'w')
+    cover_file = "%s/%s/cover.jpg" % (package, content_pack)
+    if not os.path.isfile("assets/%s" % cover_file):
+        cover_file = "%s/%s/cover.png" % (package, content_pack)
+    elif not os.path.isfile("assets/%s" % cover_file):
+        cover_file = "%s/%s/cover.gif" % (package, content_pack)
+    elif not os.path.isfile("assets/%s" % cover_file):
+        cover_file = "%s/%s/cover.jpeg" % (package, content_pack)
+            
+    content_metadata = { "contentPackThumbnailPath": cover_file } # TODO we might want other file types
+    content_metadata_file.write(json.dumps(content_metadata, indent=2))
+    content_metadata_file.close()
 
 prep_lesson_pack('persian')
 #prep_lesson_pack('mena')
