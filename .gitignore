@@ -1,7 +1,13 @@
 # ignore generated folders
 assets/org.storymaker.app/persian/
+intermediates/strings/org.storymaker.app/persian/
+intermediates/translated_strings/org.storymaker.app/persian/
 assets/org.storymaker.app/mena/
+intermediates/strings/org.storymaker.app/mena
+intermediates/translated_strings/org.storymaker.app/mena
 assets/org.storymaker.app/burundi
+intermediates/strings/org.storymaker.app/burundi
+intermediates/translated_strings/org.storymaker.app/burundi
 assets/*.obb
 diffs.html
 patch/
