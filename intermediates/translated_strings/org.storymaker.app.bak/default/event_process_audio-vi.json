@@ -1,0 +1,18 @@
+{
+    "event_process_audio::clip_card_0::goals[0]": "Ghi lại những âm thanh ở nơi mà sự kiện sẽ xảy ra.",
+    "event_process_audio::clip_card_1::goals[2]": "Thu lại những âm thanh của đám đông trong sự kiện.",
+    "event_process_audio::title": "Quá trình xảy ra sự kiện",
+    "event_process_audio::clip_card_4::goals[0]": "Ghi lại bước thứ 3 đáng kể trong sự kiện.",
+    "event_process_audio::clip_card_3::goals[0]": "Ghi lại bước thứ 2 đáng kể trong sự kiện.",
+    "event_process_audio::clip_card_7::goals[0]": "Ghi lại hành động của nhân vật.",
+    "event_process_audio::text_card_0::text": "Không ghi lại từng bước. Chỉ những bước có ý nghĩa để cho thấy sự tiến triển từ đầu đến cuối.",
+    "event_process_audio::evaluation_card_0::text": "--------",
+    "event_process_audio::clip_card_2::goals[0]": "Ghi lại bước thứ nhất đáng kể trong sự kiện.",
+    "event_process_audio::clip_card_9::goals[0]": "Ghi lại sản phẩm hoàn thiện hoặc kết luận của sự kiện- kết thúc kịch tính.",
+    "event_process_audio::clip_card_6::goals[0]": "Ghi lại khoảnh khắc đặc biệt kịch tính mà có thể khái quát hoá sự kiện.",
+    "event_process_audio::text_card_1::text": "Nếu có hơn 4 bước, bổ sung thêm clip cards với nút bấm +.",
+    "event_process_audio::clip_card_1::goals[0]": "Giới thiệu sự khởi đầu của sự kiện.",
+    "event_process_audio::clip_card_8::goals[0]": "Ghi lại việc quan sát hoặc phản ứng của nhiều người trong sự kiện.",
+    "event_process_audio::clip_card_1::goals[1]": "Đứng gần nơi ra vào và ghi lại việc đi lại của mọi người.",
+    "event_process_audio::clip_card_5::goals[0]": "Ghi lại bước cuối cùng đáng kể trong sự kiện."
+}
