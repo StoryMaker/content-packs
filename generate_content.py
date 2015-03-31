@@ -319,7 +319,7 @@ def mergetree(src, dst, symlinks = False, ignore = None):
 
 
 #############################3
-
+"""
 print "generating content for lessons"
 cardcounts = {}
 content_index = []
@@ -362,6 +362,7 @@ yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/dressgate"
 json_dir = os.getcwd() + "/assets/org.storymaker.app/dressgate"
 strings_dir = os.getcwd() + "/intermediates/org.storymaker.app/dressgate"
 do_dir()
+"""
 
 package = 'org.storymaker.app'
 
@@ -369,17 +370,23 @@ print "prepping lesson asset folder..."
 
 def prep_lesson_pack(content_pack, lang=None):
     # TODO delete the old assets for this pack
-    shutil.rmtree("%s/assets/%s/%s/" % (os.getcwd(), package, content_pack), ignore_errors=True)
+    dir1 = "%s/assets/%s/%s/" % (os.getcwd(), package, content_pack)
+    shutil.rmtree(dir1, ignore_errors=True)
     print "copying assets for index for %s/%s" % (package, content_pack)
-    shutil.copytree("%s/assets/%s/lessons-media/%s" % (os.getcwd(), package, content_pack),
-                    "%s/assets/%s/%s" % (os.getcwd(), package, content_pack))
+    dir2 = "%s/assets/%s/lessons-media/%s" % (os.getcwd(), package, content_pack)
+    dir3 = "%s/assets/%s/%s" % (os.getcwd(), package, content_pack)
+    shutil.copytree(dir2, dir3)
     # intermediates/strings/org.storymaker.app/persian
-    shutil.rmtree("%s/intermediates/strings/%s/%s" % (os.getcwd(), package, content_pack), ignore_errors=True)
-    shutil.copytree("%s/intermediates/strings/%s/lessons" % (os.getcwd(), package),
-                    "%s/intermediates/strings/%s/%s" % (os.getcwd(), package, content_pack))
-    shutil.rmtree("%s/intermediates/translated_strings/%s/%s" % (os.getcwd(), package, content_pack), ignore_errors=True)
-    shutil.copytree("%s/intermediates/translated_strings/%s/lessons" % (os.getcwd(), package),
-                    "%s/intermediates/translated_strings/%s/%s" % (os.getcwd(), package, content_pack))
+    dir4 = "%s/intermediates/strings/%s/%s" % (os.getcwd(), package, content_pack)
+    shutil.rmtree(dir4, ignore_errors=True)
+    dir5 = "%s/intermediates/strings/%s/lessons" % (os.getcwd(), package)
+    dir6 = "%s/intermediates/strings/%s/%s" % (os.getcwd(), package, content_pack)
+    shutil.copytree(dir5, dir6)
+    dir7 = "%s/intermediates/translated_strings/%s/%s" % (os.getcwd(), package, content_pack)
+    shutil.rmtree(dir7, ignore_errors=True)
+    dir8 = "%s/intermediates/translated_strings/%s/lessons" % (os.getcwd(), package)
+    dir9 = "%s/intermediates/translated_strings/%s/%s" % (os.getcwd(), package, content_pack)
+    shutil.copytree(dir8, dir9)
 
     # TODO copy / merge the json on top of the assets folder
     mergetree("%s/assets/%s/lessons/" % (os.getcwd(), package),
@@ -408,4 +415,4 @@ def prep_lesson_pack(content_pack, lang=None):
 
 prep_lesson_pack('persian')
 #prep_lesson_pack('mena')
-prep_lesson_pack('burundi')
+#prep_lesson_pack('burundi')
