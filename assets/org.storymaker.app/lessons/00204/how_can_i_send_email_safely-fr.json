@@ -8,39 +8,39 @@
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
-            "header": "Comment puis - je envoyer un Email en toute s\u00e9curit\u00e9?  ", 
+            "header": "Comment puis - je envoyer un Email en toute s\u00e9curit\u00e9?", 
             "exampleMediaPath": "1.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
         }, 
         {
-            "text": "## Dans cette le\u00e7on vous allez apprendre:  \n&bull; Comment votre Email peut \u00eatre surveill\u00e9.  \n&bull; Comment pouvez - vous utiliser les Emails en toute s\u00e9curit\u00e9.  \n&bull; Comment pouvez - vous  maintenir une mesure de l'anonymat avec les Emails.  ", 
+            "text": "## Dans cette le\u00e7on vous allez apprendre:  \n&bull; Comment votre Email peut \u00eatre surveill\u00e9.  \n&bull; Comment pouvez - vous utiliser les Emails en toute s\u00e9curit\u00e9.  \n&bull; Comment pouvez - vous  maintenir une mesure de l'anonymat avec les Emails.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
         {
-            "text": "Email communication utilise les m\u00eames principes que la navigation g\u00e9n\u00e9rale sur Internet, sauf que chaque message qui est le n\u00f4tre a une destination sp\u00e9cifique: une autre personne qui se connecte \u00e9galement \u00e0 Internet via le fournisseur local de son pays.  \nsource: [Frontline Defenders](www.frontlinedefenders.org/manuals/protection)  ", 
+            "text": "Email communication utilise les m\u00eames principes que la navigation g\u00e9n\u00e9rale sur Internet, sauf que chaque message qui est le n\u00f4tre a une destination sp\u00e9cifique: une autre personne qui se connecte \u00e9galement \u00e0 Internet via le fournisseur local de son pays.  \nsource: [Frontline Defenders](www.frontlinedefenders.org/manuals/protection)", 
             "type": "MarkdownCard", 
             "id": "markdown_card_1"
         }, 
         {
-            "text": "![Comment un Email peut \u00eatre intercept\u00e9 ou bien surveill\u00e9](2.png)  \n### Comment un Email peut \u00eatre intercept\u00e9 ou bien surveill\u00e9  \nVotre message peut \u00eatre intercept\u00e9 \u00e0 tous les principaux points de routage sur son chemin. Si vous vivez dans un pays avec une forte protection juridique de la vie priv\u00e9e, la l\u00e9gislation ne se applique pas lorsque votre email atteint le FAI du destinataire dans un pays avec des lois diff\u00e9rentes de la vie priv\u00e9e. Bien que votre email est en transit du pays A au pays B, il pourrait passer les routeurs de plusieurs autres pays.  ", 
+            "text": "![Comment un Email peut \u00eatre intercept\u00e9 ou bien surveill\u00e9](2.png)  \n### Comment un Email peut \u00eatre intercept\u00e9 ou bien surveill\u00e9  \nVotre message peut \u00eatre intercept\u00e9 \u00e0 tous les principaux points de routage sur son chemin. Si vous vivez dans un pays avec une forte protection juridique de la vie priv\u00e9e, la l\u00e9gislation ne se applique pas lorsque votre email atteint le FAI du destinataire dans un pays avec des lois diff\u00e9rentes de la vie priv\u00e9e. Bien que votre email est en transit du pays A au pays B, il pourrait passer les routeurs de plusieurs autres pays.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_2"
         }, 
         {
-            "text": "![Utiliser le HTTPS au lieu de HTTP](3.png)  \n### Utiliser le HTTPS au lieu de HTTP  \nUtiliser un Email qui supporte la connexion HTTPS s\u00e9curis\u00e9.  \nToujours \u00eatre s\u00fbr que vous avez une connexion s\u00e9curis\u00e9e. Lors de la connexion au service Email , ne pas se connecter via HTTP. Connectez uniquement via HTTPS. C'est l'option par d\u00e9faut\u00a0 dans Gmail, qui est livr\u00e9 en standard sur la plupart des appareils Android. Assurez-vous que vous communiquez avec quelqu'un utilise HTTPS pour leur email.  ", 
+            "text": "![Utiliser le HTTPS au lieu de HTTP](3.png)  \n### Utiliser le HTTPS au lieu de HTTP  \nUtiliser un Email qui supporte la connexion HTTPS s\u00e9curis\u00e9.  \nToujours \u00eatre s\u00fbr que vous avez une connexion s\u00e9curis\u00e9e. Lors de la connexion au service Email , ne pas se connecter via HTTP. Connectez uniquement via HTTPS. C'est l'option par d\u00e9faut\u00a0 dans Gmail, qui est livr\u00e9 en standard sur la plupart des appareils Android. Assurez-vous que vous communiquez avec quelqu'un utilise HTTPS pour leur email.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_3"
         }, 
         {
-            "text": "![Ne pas ouvrir les attachements](4.png)  \n### Ne pas ouvrir les attachements  \nUtilisez l'option \"Afficher\" \u00e0 la place. Les pi\u00e8ces jointes peuvent \u00eatre utilis\u00e9s pour diffuser des virus et compromettre la s\u00e9curit\u00e9 de votre ordinateur ou appareil mobile.  \nAssurez-vous toujours vous communiquez avec la personne que vous pensez que vous \u00eates. Selon Frontline Defenders, \"Il est relativement facile \u00e0 'imiter' une adresse e-mail . Imiter signifie feindre l'adresse et le nom  de l'exp\u00e9diteur pour le faire appara\u00eetre comme une adresse al\u00e9atoire ou celle de quelqu'un que vous connaissez\".  \nToujours v\u00e9rifier les adresses e-mail de retour , pour assurer le courriel provient de l'adresse correcte, imiter les adresses e-mail est un outil commun pour l'envoi de logiciels malveillants et compromettre les ordinateurs et les appareils mobiles.  ", 
+            "text": "![Ne pas ouvrir les attachements](4.png)  \n### Ne pas ouvrir les attachements  \nUtilisez l'option \"Afficher\" \u00e0 la place. Les pi\u00e8ces jointes peuvent \u00eatre utilis\u00e9s pour diffuser des virus et compromettre la s\u00e9curit\u00e9 de votre ordinateur ou appareil mobile.  \nAssurez-vous toujours vous communiquez avec la personne que vous pensez que vous \u00eates. Selon Frontline Defenders, \"Il est relativement facile \u00e0 'imiter' une adresse e-mail . Imiter signifie feindre l'adresse et le nom  de l'exp\u00e9diteur pour le faire appara\u00eetre comme une adresse al\u00e9atoire ou celle de quelqu'un que vous connaissez\".  \nToujours v\u00e9rifier les adresses e-mail de retour , pour assurer le courriel provient de l'adresse correcte, imiter les adresses e-mail est un outil commun pour l'envoi de logiciels malveillants et compromettre les ordinateurs et les appareils mobiles.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_4"
         }, 
         {
-            "text": "![Communiquer entre des comptes anonymes](5.png)  \n### Utiliser des navigateurs alternatifs  \nUtiliser un navigateur diff\u00e9rent pour une utilisation anonyme et l'utiliser seulement pour cela. R\u00e9initialiser le navigateur avant et apr\u00e8s chaque utilisation (\u00eatre certain d'effacer l'historique de navigation et de supprimer les cookies) Vous pouvez \u00e9galement utiliser une \"navigation priv\u00e9e\" ou en mode \"incognito\", qui ne enregistre pas des cookies et supprimer l'historique de navigation \u00e0 la cl\u00f4ture.  \nPour plus de s\u00e9curit\u00e9, se connecter \u00e0 partir d'une adresse IP diff\u00e9rente quand faire les choses de fa\u00e7on anonyme. Par exemple, utiliser vos comptes r\u00e9guliers quand vous \u00eates \u00e0 la maison, mais utiliser vos comptes anonymes uniquement lorsque vous utilisez le sans fil dans un caf\u00e9 internet. Rappelez-vous en utilisant le m\u00eame caf\u00e9 internet \u00e0 plusieurs reprises r\u00e9duit \u00e9galement le risque de l'anonymat.  \nLa seule fa\u00e7on d'envoyer un courriel qui est vraiment priv\u00e9 et s\u00e9curis\u00e9 est avec un fournisseur de messagerie crypt\u00e9 ou un client de messagerie qui permet le cryptage du c\u00f4t\u00e9 du dispositif. Utilisez un chiffrement du c\u00f4t\u00e9 du dispositif, si possible, et d'utiliser une option de cryptage tels que PGP qui fournit un standard ouvert pour assurer le cryptage fait ce qui est pr\u00e9tendu.  ", 
+            "text": "![Communiquer entre des comptes anonymes](5.png)  \n### Utiliser des navigateurs alternatifs  \nUtiliser un navigateur diff\u00e9rent pour une utilisation anonyme et l'utiliser seulement pour cela. R\u00e9initialiser le navigateur avant et apr\u00e8s chaque utilisation (\u00eatre certain d'effacer l'historique de navigation et de supprimer les cookies) Vous pouvez \u00e9galement utiliser une \"navigation priv\u00e9e\" ou en mode \"incognito\", qui ne enregistre pas des cookies et supprimer l'historique de navigation \u00e0 la cl\u00f4ture.  \nPour plus de s\u00e9curit\u00e9, se connecter \u00e0 partir d'une adresse IP diff\u00e9rente quand faire les choses de fa\u00e7on anonyme. Par exemple, utiliser vos comptes r\u00e9guliers quand vous \u00eates \u00e0 la maison, mais utiliser vos comptes anonymes uniquement lorsque vous utilisez le sans fil dans un caf\u00e9 internet. Rappelez-vous en utilisant le m\u00eame caf\u00e9 internet \u00e0 plusieurs reprises r\u00e9duit \u00e9galement le risque de l'anonymat.  \nLa seule fa\u00e7on d'envoyer un courriel qui est vraiment priv\u00e9 et s\u00e9curis\u00e9 est avec un fournisseur de messagerie crypt\u00e9 ou un client de messagerie qui permet le cryptage du c\u00f4t\u00e9 du dispositif. Utilisez un chiffrement du c\u00f4t\u00e9 du dispositif, si possible, et d'utiliser une option de cryptage tels que PGP qui fournit un standard ouvert pour assurer le cryptage fait ce qui est pr\u00e9tendu.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_5"
         }, 
@@ -50,28 +50,28 @@
             "id": "markdown_card_6"
         }, 
         {
-            "text": "## A NE PAS OUBLIER  \n&bull; Utiliser seulement des Email avec HTTPS par d\u00e9faut.  \n&bull; Le HTTPS garantie la s\u00e9curit\u00e9 de vos Emails, mais ne garantie pas que votre Email est s\u00e9curis\u00e9.  \n&bull; Seulement ouvrir les attachements apr\u00e8s avoir v\u00e9rifier l'identit\u00e9 de l'exp\u00e9diteur.  \n&bull; Ne jamais utiliser votre Email personnel dans un portable ou bien un ordinateur qui n'est pas le votre.  \n&bull; Chiffrement votre e-mail est la seule fa\u00e7on de s'assurer qu'il ne sera pas lu par quelqu'un d'autre \u00e0 part le r\u00e9cepteur.  ", 
+            "text": "## A NE PAS OUBLIER  \n&bull; Utiliser seulement des Email avec HTTPS par d\u00e9faut.  \n&bull; Le HTTPS garantie la s\u00e9curit\u00e9 de vos Emails, mais ne garantie pas que votre Email est s\u00e9curis\u00e9.  \n&bull; Seulement ouvrir les attachements apr\u00e8s avoir v\u00e9rifier l'identit\u00e9 de l'exp\u00e9diteur.  \n&bull; Ne jamais utiliser votre Email personnel dans un portable ou bien un ordinateur qui n'est pas le votre.  \n&bull; Chiffrement votre e-mail est la seule fa\u00e7on de s'assurer qu'il ne sera pas lu par quelqu'un d'autre \u00e0 part le r\u00e9cepteur.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_7"
         }, 
         {
             "correctRequired": 3, 
-            "question": "Lequel des \u00e9l\u00e9ments suivants m'aidera \u00e0 lire mon email en toute s\u00e9curit\u00e9?  ", 
+            "question": "Lequel des \u00e9l\u00e9ments suivants m'aidera \u00e0 lire mon email en toute s\u00e9curit\u00e9?", 
             "choices": [
                 {
-                    "text": "Toujours utiliser le HTTP  ", 
+                    "text": "Toujours utiliser le HTTP", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Partager un compte Email et communiquer seulement avec des \"brouillons\"  ", 
+                    "text": "Partager un compte Email et communiquer seulement avec des \"brouillons\"", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Utiliser un compte Email anonyme  ", 
+                    "text": "Utiliser un compte Email anonyme", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "utiliser toujours le HTTPS  ", 
+                    "text": "utiliser toujours le HTTPS", 
                     "id": "answer_4"
                 }
             ], 
@@ -85,22 +85,22 @@
         }, 
         {
             "correctRequired": 4, 
-            "question": "O\u00f9 est - ce que mon Email peut \u00eatre lu ou bien intercept\u00e9?  ", 
+            "question": "O\u00f9 est - ce que mon Email peut \u00eatre lu ou bien intercept\u00e9?", 
             "choices": [
                 {
-                    "text": "Sur mon propre odrinateur  ", 
+                    "text": "Sur mon propre odrinateur", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "de mon FAI  ", 
+                    "text": "de mon FAI", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Du fournisseur de messagerie  ", 
+                    "text": "Du fournisseur de messagerie", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Sur l'ordinateur du destinataire  ", 
+                    "text": "Sur l'ordinateur du destinataire", 
                     "id": "answer_4"
                 }
             ], 
@@ -115,22 +115,22 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Qu'est-ce qu'on appelle quand quelqu'un imite votre adresse e-mail ou un de vos contacts?  ", 
+            "question": "Qu'est-ce qu'on appelle quand quelqu'un imite votre adresse e-mail ou un de vos contacts?", 
             "choices": [
                 {
-                    "text": "surveillance  ", 
+                    "text": "surveillance", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "mensonge  ", 
+                    "text": "mensonge", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Le Spoofing  ", 
+                    "text": "Le Spoofing", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Piratage  ", 
+                    "text": "Piratage", 
                     "id": "answer_4"
                 }
             ], 
@@ -143,5 +143,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "how_can_i_send_email_safely", 
-    "title": "Comment puis-je envoyer un Email en toute s\u00e9curit\u00e9  "
+    "title": "Comment puis-je envoyer un Email en toute s\u00e9curit\u00e9"
 }

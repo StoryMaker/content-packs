@@ -8,24 +8,24 @@
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
-            "header": "INTANGAMARARA KUVY'UMUTEKANO  ", 
+            "header": "INTANGAMARARA KUVY'UMUTEKANO", 
             "exampleMediaPath": "1.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
         }, 
         {
-            "text": "Uno munsi, abanyagihugu basanzwe ahobari hose mwisi barashobora gushikiriza inkuru ishushe nko mumyaka 20 iheze ibinyamakuru n'amaradio bitashobora nokwiyumvira kuvuga. Imihora ikomeye biciye mu smartfone ni biciro bigenda bigabanuka vyatumye ibi bishonoka.  \nIyi mihora ikomeye yantanguye uburinzi bushasha kubanyagihugu hamwe nabo mumwuga wokumenyesha amakuru cokimwe. Uburyo busanzwe bwo guhanahana amakuru kuri internet canke kuri terefone bisaga inzira yoroshe kubona kubantu babizi bashobora gukurikirana.  ", 
+            "text": "Uno munsi, abanyagihugu basanzwe ahobari hose mwisi barashobora gushikiriza inkuru ishushe nko mumyaka 20 iheze ibinyamakuru n'amaradio bitashobora nokwiyumvira kuvuga. Imihora ikomeye biciye mu smartfone ni biciro bigenda bigabanuka vyatumye ibi bishonoka.  \nIyi mihora ikomeye yantanguye uburinzi bushasha kubanyagihugu hamwe nabo mumwuga wokumenyesha amakuru cokimwe. Uburyo busanzwe bwo guhanahana amakuru kuri internet canke kuri terefone bisaga inzira yoroshe kubona kubantu babizi bashobora gukurikirana.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
         {
-            "text": "Abamenyeshamakuru, abadaharanira ivyicaro vya politike (activistes) hamwe n'umuntu wese atinya kugira ingorane kubera ibikorwa vyiwe akwiriye gukoresha uburyo butamenyerewe muguhanahana amakuru. Ibi bimenyetso bisigara (traces) ntibigushira gusa mungorane, bishobora noguhungabanya ubuzima bwabaguhaye inkuru (sources), abomuzinanye (contacts) nabo mukorana. Nakazi kawe kwokwingira no gukingira umuntu wese ageramiwe kubera ibikorwa vyawe.  \nInyigisho zikurikira zizonbanza kugufasha gutahura nyamba ushobora kuba ubangamiwe. Uhejeje izi nyigisho, uzoshobora gutahura ingorane zishobora kugushikira hamwe nabandi. Igice canyuma kizotanga inyifato zokugenda ukurikiza kugira wicungere neza.  ", 
+            "text": "Abamenyeshamakuru, abadaharanira ivyicaro vya politike (activistes) hamwe n'umuntu wese atinya kugira ingorane kubera ibikorwa vyiwe akwiriye gukoresha uburyo butamenyerewe muguhanahana amakuru. Ibi bimenyetso bisigara (traces) ntibigushira gusa mungorane, bishobora noguhungabanya ubuzima bwabaguhaye inkuru (sources), abomuzinanye (contacts) nabo mukorana. Nakazi kawe kwokwingira no gukingira umuntu wese ageramiwe kubera ibikorwa vyawe.  \nInyigisho zikurikira zizonbanza kugufasha gutahura nyamba ushobora kuba ubangamiwe. Uhejeje izi nyigisho, uzoshobora gutahura ingorane zishobora kugushikira hamwe nabandi. Igice canyuma kizotanga inyifato zokugenda ukurikiza kugira wicungere neza.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_1"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "introduction_to_security", 
-    "title": "Intangamarara kuvy'umutekano  "
+    "title": "Intangamarara kuvy'umutekano"
 }

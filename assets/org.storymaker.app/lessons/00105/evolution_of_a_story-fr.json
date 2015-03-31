@@ -8,29 +8,29 @@
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
-            "header": "Comment puis-je adapter ma couverture aux changements de l'histoire?  ", 
+            "header": "Comment puis-je adapter ma couverture aux changements de l'histoire?", 
             "exampleMediaPath": "1.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
         }, 
         {
-            "text": "## Dans cette le\u00e7on, vous allez apprendre:  \n&bull; Comment les organisations de presse racontent des histoires au fil du temps, ce qui est appel\u00e9 le cycle des informations.  \n&bull; Qu'appelle-t-on les diff\u00e9rents types d'histoires  \n&bull; Les techniques pour garder votre couverture fra\u00eeche tant qu'une histoire \u00e9volue  ", 
+            "text": "## Dans cette le\u00e7on, vous allez apprendre:  \n&bull; Comment les organisations de presse racontent des histoires au fil du temps, ce qui est appel\u00e9 le cycle des informations.  \n&bull; Qu'appelle-t-on les diff\u00e9rents types d'histoires  \n&bull; Les techniques pour garder votre couverture fra\u00eeche tant qu'une histoire \u00e9volue", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
         {
-            "text": "Certaines histoires sont comme des fus\u00e9es lumineuses. Ils br\u00fblent intens\u00e9ment mais pour un peu de temps. Autres histoires se construisent lentement, de plus en plus  il y'a une intensit\u00e9 dans leur d\u00e9veloppement. D'autres histoires sont de courte dur\u00e9e, mais illustrent les questions sociales en cours qui m\u00e9ritent une couverture continue. Toutes les histoires \u00e9voluent avec le temps. Cela s'appelle le cycle des nouvelles. Certaines histoires ont un cycle tr\u00e8s long. Pour d'autres le cycle peut \u00eatre court.  ", 
+            "text": "Certaines histoires sont comme des fus\u00e9es lumineuses. Ils br\u00fblent intens\u00e9ment mais pour un peu de temps. Autres histoires se construisent lentement, de plus en plus  il y'a une intensit\u00e9 dans leur d\u00e9veloppement. D'autres histoires sont de courte dur\u00e9e, mais illustrent les questions sociales en cours qui m\u00e9ritent une couverture continue. Toutes les histoires \u00e9voluent avec le temps. Cela s'appelle le cycle des nouvelles. Certaines histoires ont un cycle tr\u00e8s long. Pour d'autres le cycle peut \u00eatre court.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_1"
         }, 
         {
-            "text": "![types de couverture](2.png)  \nLes organisations de presse pensent en termes de cat\u00e9gories distinctes pour la couverture:  \n&bull; Histoires en Grandes titres/flash-infos  \n&bull; Histoires sur un \u00e9v\u00e9nement  \n&bull; Histoires sur un probl\u00e8me  \n&bull; Histoires sur des profils  \nCes cat\u00e9gories aident les journalistes \u00e0 planifier leur couverture au fil du temps. Ils aident les journalistes \u00e0 maintenir l'attention des lecteurs et les t\u00e9l\u00e9spectateurs en offrant une vari\u00e9t\u00e9 dans leur couverture tout au long du cycle. Comprendre cette progression et ce qui est attendu de vous va vous faire un meilleur journaliste.  ", 
+            "text": "![types de couverture](2.png)  \nLes organisations de presse pensent en termes de cat\u00e9gories distinctes pour la couverture:  \n&bull; Histoires en Grandes titres/flash-infos  \n&bull; Histoires sur un \u00e9v\u00e9nement  \n&bull; Histoires sur un probl\u00e8me  \n&bull; Histoires sur des profils  \nCes cat\u00e9gories aident les journalistes \u00e0 planifier leur couverture au fil du temps. Ils aident les journalistes \u00e0 maintenir l'attention des lecteurs et les t\u00e9l\u00e9spectateurs en offrant une vari\u00e9t\u00e9 dans leur couverture tout au long du cycle. Comprendre cette progression et ce qui est attendu de vous va vous faire un meilleur journaliste.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_2"
         }, 
         {
-            "text": "## Le Grands titres / les flash-infos  \nDes incendies \u00e0 des manifestations \u00e0 des accidents d'avion, les flash-infos ne sont pas planifi\u00e9es et n\u00e9cessitent une r\u00e9ponse rapide. Ils sont souvent des d\u00e9p\u00eaches concises qui fournissent un peu plus d'informations de base: qui, quoi, o\u00f9, quand, pourquoi et comment. Pensez en termes de rapporter les faits de base et en interrogeant Les sources de votre couverture qui obtiennent de l'information imm\u00e9diatement. Les flash-infos font parfois r\u00e9f\u00e9rence au premier jour s'il y aura une couverture de suivi si l'\u00e9v\u00e9nement d\u00e9voile. Dans un environnement social, une flash-info peut \u00eatre un peu plus d'un message court ou une photo.  ", 
+            "text": "## Le Grands titres / les flash-infos  \nDes incendies \u00e0 des manifestations \u00e0 des accidents d'avion, les flash-infos ne sont pas planifi\u00e9es et n\u00e9cessitent une r\u00e9ponse rapide. Ils sont souvent des d\u00e9p\u00eaches concises qui fournissent un peu plus d'informations de base: qui, quoi, o\u00f9, quand, pourquoi et comment. Pensez en termes de rapporter les faits de base et en interrogeant Les sources de votre couverture qui obtiennent de l'information imm\u00e9diatement. Les flash-infos font parfois r\u00e9f\u00e9rence au premier jour s'il y aura une couverture de suivi si l'\u00e9v\u00e9nement d\u00e9voile. Dans un environnement social, une flash-info peut \u00eatre un peu plus d'un message court ou une photo.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_3"
         }, 
@@ -42,14 +42,14 @@
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
-            "header": "Exemple d'une Flash-info  ", 
+            "header": "Exemple d'une Flash-info", 
             "exampleMediaPath": "3.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_1"
         }, 
         {
-            "text": "L'histoire d'un l'\u00e9v\u00e9nement  \nCela peut \u00eatre une conf\u00e9rence de presse, une manifestation pr\u00e9vue, l'ouverture d'un nouvel h\u00f4pital, ou d'une \u00e9lection. Certaines histoires d'\u00e9v\u00e9nements suivent les flash-infos. La diff\u00e9rence cl\u00e9 c' est que les journalistes ont la possibilit\u00e9 de faire pr\u00e9-d\u00e9claration pour les histoires sur des \u00e9v\u00e9nements. Cela vous permet de pr\u00e9senter plus d'informations dans votre histoire ou des liens. Il peut \u00e9galement vous donner le temps pour parler \u00e0 plus de gens, peut-\u00eatre, y compris un expert ou quelqu'un avec un point de vue oppos\u00e9. Demandez-vous quelles sont les informations et les sources aidera le lecteur \u00e0 mieux comprendre la question. Le support que vous utilisez peut \u00eatre d\u00e9termin\u00e9e par l'histoire. Par exemple, si l'histoire a des \u00e9l\u00e9ments visuels forts, la vid\u00e9o peut \u00eatre le meilleur outil.  ", 
+            "text": "L'histoire d'un l'\u00e9v\u00e9nement  \nCela peut \u00eatre une conf\u00e9rence de presse, une manifestation pr\u00e9vue, l'ouverture d'un nouvel h\u00f4pital, ou d'une \u00e9lection. Certaines histoires d'\u00e9v\u00e9nements suivent les flash-infos. La diff\u00e9rence cl\u00e9 c' est que les journalistes ont la possibilit\u00e9 de faire pr\u00e9-d\u00e9claration pour les histoires sur des \u00e9v\u00e9nements. Cela vous permet de pr\u00e9senter plus d'informations dans votre histoire ou des liens. Il peut \u00e9galement vous donner le temps pour parler \u00e0 plus de gens, peut-\u00eatre, y compris un expert ou quelqu'un avec un point de vue oppos\u00e9. Demandez-vous quelles sont les informations et les sources aidera le lecteur \u00e0 mieux comprendre la question. Le support que vous utilisez peut \u00eatre d\u00e9termin\u00e9e par l'histoire. Par exemple, si l'histoire a des \u00e9l\u00e9ments visuels forts, la vid\u00e9o peut \u00eatre le meilleur outil.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_4"
         }, 
@@ -61,14 +61,14 @@
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
-            "header": "Exemple d'une histoire d'un \u00e9v\u00e9nement  ", 
+            "header": "Exemple d'une histoire d'un \u00e9v\u00e9nement", 
             "exampleMediaPath": "4.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_2"
         }, 
         {
-            "text": "## Les histoires sur des probl\u00e8mes  \nLes histoires sur des probl\u00e8mes sont sur les tendances plus larges plut\u00f4t que des \u00e9v\u00e9nements sp\u00e9cifiques ou des personnes individuelles. Ils peuvent \u00eatre sur des sujets importants tels que la p\u00e9nurie d'eau ou des sujets plus enjou\u00e9s tels que la dr\u00f4le tendance de la mode. Les histoires sur les probl\u00e8mes favorisent une pr\u00e9sentation plus rus\u00e9 que des reportages. Elles comportent souvent des descriptions de l'apparence des choses, ou comment les gens r\u00e9agissent.  ", 
+            "text": "## Les histoires sur des probl\u00e8mes  \nLes histoires sur des probl\u00e8mes sont sur les tendances plus larges plut\u00f4t que des \u00e9v\u00e9nements sp\u00e9cifiques ou des personnes individuelles. Ils peuvent \u00eatre sur des sujets importants tels que la p\u00e9nurie d'eau ou des sujets plus enjou\u00e9s tels que la dr\u00f4le tendance de la mode. Les histoires sur les probl\u00e8mes favorisent une pr\u00e9sentation plus rus\u00e9 que des reportages. Elles comportent souvent des descriptions de l'apparence des choses, ou comment les gens r\u00e9agissent.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_5"
         }, 
@@ -80,14 +80,14 @@
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
-            "header": "Exemple d'une histoire sur un probl\u00e8me.  ", 
+            "header": "Exemple d'une histoire sur un probl\u00e8me.", 
             "exampleMediaPath": "5.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_3"
         }, 
         {
-            "text": "## L'histoire sur un Profil  \nUn profil est une histoire d'une personne seule ou une personnage. Il ou elle pourrait \u00eatre un politicien ou un athl\u00e8te ou une c\u00e9l\u00e9brit\u00e9. Le Profil nous donnent une fen\u00eatre sur le monde de cette personne. Comme des histoires sur des probl\u00e8mes, Les profils contiennent souvent de la description, ainsi qu'une entrevue avec le sujet et, souvent, des entretiens avec des amis, des membres de la famille et des associ\u00e9s.  ", 
+            "text": "## L'histoire sur un Profil  \nUn profil est une histoire d'une personne seule ou une personnage. Il ou elle pourrait \u00eatre un politicien ou un athl\u00e8te ou une c\u00e9l\u00e9brit\u00e9. Le Profil nous donnent une fen\u00eatre sur le monde de cette personne. Comme des histoires sur des probl\u00e8mes, Les profils contiennent souvent de la description, ainsi qu'une entrevue avec le sujet et, souvent, des entretiens avec des amis, des membres de la famille et des associ\u00e9s.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_6"
         }, 
@@ -99,40 +99,40 @@
                     "media_caption": "\u00a9 Small World News 2012"
                 }
             ], 
-            "header": "Exemple d'un Profil  ", 
+            "header": "Exemple d'un Profil", 
             "exampleMediaPath": "6.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_4"
         }, 
         {
-            "text": "## Conseils de couverture  \nLes journalistes et les organismes de presse peuvent pr\u00e9senter une vari\u00e9t\u00e9 convaincante de couverture dans le temps qui encourage la compr\u00e9hension du public et le dialogue sur un sujet. Voici quelques conseils pour la production de 'une couverture continue qui \u00e9volue avec l'histoire:  \n&bull; y'a quoi de nouveau et y'a quoi maintenant : des actualit\u00e9s mises \u00e0 jour doivent \u00eatre courtes et informatives. Atteindrez le point et y acc\u00e9der rapidement. Votre message doit comprendre les faits de base et les informations les plus r\u00e9centes.  \n&bull; Montrer et raconter: Alors que certaines histoires sont difficiles \u00e0 visualiser, d'autres peuvent se pr\u00eater aux photos, vid\u00e9o ou audio. Choisissez le bon moyen ou combinaison de m\u00e9dias pour raconter votre histoire. Ne oubliez pas les mots cl\u00e9s et de taguer le contenu multim\u00e9dia.  \n&bull; La Date limite: N'oubliez pas de pr\u00e9senter exactement o\u00f9 et quand la publication et l'histoire couverte ont \u00e9t\u00e9 produites.  \n&bull; Des liens pour plus d'informations: Cela peut \u00eatre un flux Twitter ou une vid\u00e9o YouTube ou un lien vers un des postes ou des liens pr\u00e9c\u00e9dents \u00e0 la couverture d'autres organismes de presse. Pensez \u00e0 utiliser les hashtags si elles sont pertinentes \u00e0 votre plate-forme.  \n&bull; Citez vos sources: Laissez les t\u00e9l\u00e9spectateurs savent o\u00f9 votre information provient - t\u00e9moignages, un porte-parole officiel, vos propres observations, ou d'autres sources d'information. La transparence est la cl\u00e9.  \n&bull; Cultiver la contribution: Encourager les gens \u00e0 contribuer \u00e0 votre reportage. Assurez qu'il soit facile pour eux de faire des commentaires. Promouvoir plus de discussions dans le but d'une meilleure information pour tous.  \n&bull; Pr\u00e9sentez votre information dans un ordre logique pour le public. Analyse sur les causes d'une panne de courant dans la capitale ne doit pas pr\u00e9c\u00e9der une couverture par une flash-info de son impact imm\u00e9diat sur le public.  \n&bull; Comme l'histoire \u00e9volue, il est important de continuer \u00e0 pr\u00e9parer les informations contextuelles de base disponibles. Un nouveaux public\u00a0 va commencer \u00e0 consommer votre couverture \u00e0 des diff\u00e9rents moments; assurez-vous que l'histoire a toujours un sens pour le public voyant la couverture pour la premi\u00e8re fois.  ", 
+            "text": "## Conseils de couverture  \nLes journalistes et les organismes de presse peuvent pr\u00e9senter une vari\u00e9t\u00e9 convaincante de couverture dans le temps qui encourage la compr\u00e9hension du public et le dialogue sur un sujet. Voici quelques conseils pour la production de 'une couverture continue qui \u00e9volue avec l'histoire:  \n&bull; y'a quoi de nouveau et y'a quoi maintenant : des actualit\u00e9s mises \u00e0 jour doivent \u00eatre courtes et informatives. Atteindrez le point et y acc\u00e9der rapidement. Votre message doit comprendre les faits de base et les informations les plus r\u00e9centes.  \n&bull; Montrer et raconter: Alors que certaines histoires sont difficiles \u00e0 visualiser, d'autres peuvent se pr\u00eater aux photos, vid\u00e9o ou audio. Choisissez le bon moyen ou combinaison de m\u00e9dias pour raconter votre histoire. Ne oubliez pas les mots cl\u00e9s et de taguer le contenu multim\u00e9dia.  \n&bull; La Date limite: N'oubliez pas de pr\u00e9senter exactement o\u00f9 et quand la publication et l'histoire couverte ont \u00e9t\u00e9 produites.  \n&bull; Des liens pour plus d'informations: Cela peut \u00eatre un flux Twitter ou une vid\u00e9o YouTube ou un lien vers un des postes ou des liens pr\u00e9c\u00e9dents \u00e0 la couverture d'autres organismes de presse. Pensez \u00e0 utiliser les hashtags si elles sont pertinentes \u00e0 votre plate-forme.  \n&bull; Citez vos sources: Laissez les t\u00e9l\u00e9spectateurs savent o\u00f9 votre information provient - t\u00e9moignages, un porte-parole officiel, vos propres observations, ou d'autres sources d'information. La transparence est la cl\u00e9.  \n&bull; Cultiver la contribution: Encourager les gens \u00e0 contribuer \u00e0 votre reportage. Assurez qu'il soit facile pour eux de faire des commentaires. Promouvoir plus de discussions dans le but d'une meilleure information pour tous.  \n&bull; Pr\u00e9sentez votre information dans un ordre logique pour le public. Analyse sur les causes d'une panne de courant dans la capitale ne doit pas pr\u00e9c\u00e9der une couverture par une flash-info de son impact imm\u00e9diat sur le public.  \n&bull; Comme l'histoire \u00e9volue, il est important de continuer \u00e0 pr\u00e9parer les informations contextuelles de base disponibles. Un nouveaux public\u00a0 va commencer \u00e0 consommer votre couverture \u00e0 des diff\u00e9rents moments; assurez-vous que l'histoire a toujours un sens pour le public voyant la couverture pour la premi\u00e8re fois.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_7"
         }, 
         {
-            "text": "## A NE PAS OUBLIER  \n&bull; Identifiez le genre d'histoire que vous faites: les flash-infos, un \u00e9v\u00e9nement, une question ou profil.  \n&bull; Ajustez votre couverture au long du cycle de l'histoire.  \n&bull; Toujours commencez votre rapport avec les informations les plus r\u00e9centes.  \n&bull; Rendre vos sources claires.  \n&bull; dans les plateformes sociales, il est important d'encourager la contribution de votre audience.  ", 
+            "text": "## A NE PAS OUBLIER  \n&bull; Identifiez le genre d'histoire que vous faites: les flash-infos, un \u00e9v\u00e9nement, une question ou profil.  \n&bull; Ajustez votre couverture au long du cycle de l'histoire.  \n&bull; Toujours commencez votre rapport avec les informations les plus r\u00e9centes.  \n&bull; Rendre vos sources claires.  \n&bull; dans les plateformes sociales, il est important d'encourager la contribution de votre audience.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_8"
         }, 
         {
             "correctRequired": 2, 
-            "question": "Lequel des \u00e9l\u00e9ments suivants est une caract\u00e9ristique d'une histoire de bonnes nouvelles? (Il peut y avoir plus d'une r\u00e9ponse.)  ", 
+            "question": "Lequel des \u00e9l\u00e9ments suivants est une caract\u00e9ristique d'une histoire de bonnes nouvelles? (Il peut y avoir plus d'une r\u00e9ponse.)", 
             "choices": [
                 {
-                    "text": "L'opinion du journaliste est claire.  ", 
+                    "text": "L'opinion du journaliste est claire.", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "La pr\u00e9sentation de l'information montre un seul point de vue ou un c\u00f4t\u00e9 de l'histoire.  ", 
+                    "text": "La pr\u00e9sentation de l'information montre un seul point de vue ou un c\u00f4t\u00e9 de l'histoire.", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Alors que la pr\u00e9sentation peut pr\u00e9senter un point de vue, elle fait un argument fond\u00e9 sur les faits pour ce point de vue.  ", 
+                    "text": "Alors que la pr\u00e9sentation peut pr\u00e9senter un point de vue, elle fait un argument fond\u00e9 sur les faits pour ce point de vue.", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Le lecteur ne se rend pas compte que ce est un article d'opinion plut\u00f4t qu'une information.  ", 
+                    "text": "Le lecteur ne se rend pas compte que ce est un article d'opinion plut\u00f4t qu'une information.", 
                     "id": "answer_4"
                 }
             ], 
@@ -145,14 +145,14 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Vrai ou faux: Comme une histoire se d\u00e9place de couverture au premier jour d'une couverture plus approfondie, il est important de fournir des informations contextuelles dans votre expos\u00e9 que votre auditoire rappelle des faits de base de du probl\u00e8me.  ", 
+            "question": "Vrai ou faux: Comme une histoire se d\u00e9place de couverture au premier jour d'une couverture plus approfondie, il est important de fournir des informations contextuelles dans votre expos\u00e9 que votre auditoire rappelle des faits de base de du probl\u00e8me.", 
             "choices": [
                 {
-                    "text": "Vrai  ", 
+                    "text": "Vrai", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Faux  ", 
+                    "text": "Faux", 
                     "id": "answer_2"
                 }
             ], 
@@ -164,22 +164,22 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Les cat\u00e9gories d'histoires pr\u00e9sent\u00e9es ici sont importants parce que  ", 
+            "question": "Les cat\u00e9gories d'histoires pr\u00e9sent\u00e9es ici sont importants parce que", 
             "choices": [
                 {
-                    "text": "Ils sont une feuille de route pour savoir comment les journalistes peuvent pr\u00e9senter plus d'informations tant que l'histoire \u00e9volue au fil du temps.  ", 
+                    "text": "Ils sont une feuille de route pour savoir comment les journalistes peuvent pr\u00e9senter plus d'informations tant que l'histoire \u00e9volue au fil du temps.", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Fournir une vari\u00e9t\u00e9, ce qui permet de garder le public int\u00e9ress\u00e9 par le sujet au fil du temps.  ", 
+                    "text": "Fournir une vari\u00e9t\u00e9, ce qui permet de garder le public int\u00e9ress\u00e9 par le sujet au fil du temps.", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Des cat\u00e9gories claires donnent aux journalistes et aux organisations de presse un moyen de parler \u00e0 propos des histoires et de planifier la couverture \u00e0 long terme.  ", 
+                    "text": "Des cat\u00e9gories claires donnent aux journalistes et aux organisations de presse un moyen de parler \u00e0 propos des histoires et de planifier la couverture \u00e0 long terme.", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Tout ce qui pr\u00e9c\u00e8de.  ", 
+                    "text": "Tout ce qui pr\u00e9c\u00e8de.", 
                     "id": "answer_4"
                 }
             ], 
@@ -192,5 +192,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "evolution_of_a_story", 
-    "title": "Evolution d'une histoire  "
+    "title": "Evolution d'une histoire"
 }

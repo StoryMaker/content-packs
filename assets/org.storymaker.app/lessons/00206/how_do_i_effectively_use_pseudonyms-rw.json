@@ -8,55 +8,55 @@
                     "media_caption": "\u00a9 Matt Bors 2012"
                 }
             ], 
-            "header": "Ni gute nokoresha neza amatazirano?  ", 
+            "header": "Ni gute nokoresha neza amatazirano?", 
             "exampleMediaPath": "1.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
         }, 
         {
-            "text": "## Muriyi nyigisho uzokwiga:  \n&bull; Ingene amatazirano akingira ibikuranga.  \n&bull; Ingene gukoresha ama horodateurs bishobora gushira ahabona ibikuranga.  \n&bull; Ingene ugumana amatazirano yawe kuri Internet.  ", 
+            "text": "## Muriyi nyigisho uzokwiga:  \n&bull; Ingene amatazirano akingira ibikuranga.  \n&bull; Ingene gukoresha ama horodateurs bishobora gushira ahabona ibikuranga.  \n&bull; Ingene ugumana amatazirano yawe kuri Internet.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
         {
-            "text": "Iyo wewe canke uwutanga amakuru mubangamiwe, mubwirizwa gufata ingingo zogukingira ibiranga uyo muntu abangamiwe. Abamenyeshamakuru bakorera mubigoye hamwe n'abatanga amakuru babangamiwe kenshi bakoresha amatazirano kugira bakingire ibibaranga vyabo vy'ukuri. Iyo uriko uyaga ukoresha uburyo digital, ushobora gusiga utuntu twerekana ibikuranga vyukuri.  ", 
+            "text": "Iyo wewe canke uwutanga amakuru mubangamiwe, mubwirizwa gufata ingingo zogukingira ibiranga uyo muntu abangamiwe. Abamenyeshamakuru bakorera mubigoye hamwe n'abatanga amakuru babangamiwe kenshi bakoresha amatazirano kugira bakingire ibibaranga vyabo vy'ukuri. Iyo uriko uyaga ukoresha uburyo digital, ushobora gusiga utuntu twerekana ibikuranga vyukuri.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_1"
         }, 
         {
-            "text": "![Kutamenyekana ntawokwemeza kobitaba](2.png)  \nAbo bakorera (canke bafasha) kuri blog canke bafise ihuriro (forum) ryo kuri Internet bakeneye kumenya yuko bishoboka kobabamenya naho bakoresha amatazirano. Icanditswe cose kuri blog kigira uruntonde rwa address IP (http://en.wikipedia.org/wiki/IP_address) vya ordinateur carungikiweko , kandi ISPs (http://en.wikipedia.org/wiki/ISP) nyinshi ziragira urutonde rwuruja nuruza rwibicako vyose. Nico gituma rero, iyo uriko uramenyesha inkuru zifise ibanga kuri site web, ukwiriye kugira ibishoboka vyose kugira ntibagutore. Twavuganye ivyerekeye kunyegeza ivyakoreshejwe na navigateur munyigisho XX ukoresheje Tor. Nyamba ubwirizwa kuguma utazwi kuri Internet, umenye neza gukoresha R\u00e9seau d'anonymat Tor kugira ushikire site yawe kandi umenyekanishe ibirimwo.  ", 
+            "text": "![Kutamenyekana ntawokwemeza kobitaba](2.png)  \nAbo bakorera (canke bafasha) kuri blog canke bafise ihuriro (forum) ryo kuri Internet bakeneye kumenya yuko bishoboka kobabamenya naho bakoresha amatazirano. Icanditswe cose kuri blog kigira uruntonde rwa address IP (http://en.wikipedia.org/wiki/IP_address) vya ordinateur carungikiweko , kandi ISPs (http://en.wikipedia.org/wiki/ISP) nyinshi ziragira urutonde rwuruja nuruza rwibicako vyose. Nico gituma rero, iyo uriko uramenyesha inkuru zifise ibanga kuri site web, ukwiriye kugira ibishoboka vyose kugira ntibagutore. Twavuganye ivyerekeye kunyegeza ivyakoreshejwe na navigateur munyigisho XX ukoresheje Tor. Nyamba ubwirizwa kuguma utazwi kuri Internet, umenye neza gukoresha R\u00e9seau d'anonymat Tor kugira ushikire site yawe kandi umenyekanishe ibirimwo.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_2"
         }, 
         {
-            "text": "![Icungere kugira wirinde ingorane](3.png)  \n## Horodateurs  \nIyo umenyesheje amakuru kuri site web yerekeye ibikorwa vya leta mu gihugu cawe ukoresheje R\u00e9seau ya Tor, inzego ntizizobona yuko wariko urungika amakuru kuri blog bigenewe, mugabo bashobora kubona yuko igihe cose winjiye aho hari Internet, bishasha bishizweko bica biboneka kuri site. Ibi bishobora kumenywa kwari rwawe cane cane iyo mwene ico kibanza kirimwo internet yandika izina n'umawnya wahaciye. Kugira urengere iyi ngorane, saba umugenzi ari mu mahanga gushirako izo nyandiko mukibanza cawe.  Koresha webmail ihumurije (canke ifise uburyo burimwo udufindo (crypt\u00e9)), mukurungika ivyowanditse ku mugenzi wawe kandi umusabe kurorera gato imbere yokuzishirako  kuri yo blog yawe.  \nIbikuranga bishobora gutahurwa bidakoreshejwe gusa n'izina watoye ryawe canke abaguha amakuru. Ibikuranga bishobora kandi nogutahurwa bivuye kubimenyetso bisigara biva kukungene wakoresheje internet.  ", 
+            "text": "![Icungere kugira wirinde ingorane](3.png)  \n## Horodateurs  \nIyo umenyesheje amakuru kuri site web yerekeye ibikorwa vya leta mu gihugu cawe ukoresheje R\u00e9seau ya Tor, inzego ntizizobona yuko wariko urungika amakuru kuri blog bigenewe, mugabo bashobora kubona yuko igihe cose winjiye aho hari Internet, bishasha bishizweko bica biboneka kuri site. Ibi bishobora kumenywa kwari rwawe cane cane iyo mwene ico kibanza kirimwo internet yandika izina n'umawnya wahaciye. Kugira urengere iyi ngorane, saba umugenzi ari mu mahanga gushirako izo nyandiko mukibanza cawe.  Koresha webmail ihumurije (canke ifise uburyo burimwo udufindo (crypt\u00e9)), mukurungika ivyowanditse ku mugenzi wawe kandi umusabe kurorera gato imbere yokuzishirako  kuri yo blog yawe.  \nIbikuranga bishobora gutahurwa bidakoreshejwe gusa n'izina watoye ryawe canke abaguha amakuru. Ibikuranga bishobora kandi nogutahurwa bivuye kubimenyetso bisigara biva kukungene wakoresheje internet.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_3"
         }, 
         {
-            "text": "## IBINTU VYO KWIBUKA  \n&bull; Umenye neza ko wafuse ivyo wakoresheje navigateur.  \n&bull; Koresha incognito window muri Chrome canke \u201cprivate browsing\u201d muri Firefox.  \n&bull; Umenye neza ntushoboze (d\u00e9sactiver) ama cookies.  \n&bull; Saba uwomukorana atabangamiwe amenyeshe amakuru yawe.  \n&bull; Gira yuko amakuru yawe yimenyekanisha yonyene kugihe gitandukanye ukobishika (d\u00e9lai assign\u00e9 au hasard).  \n&bull; Shiramwo HTTPS ahariho hose muri Firefox canke Chrome.  \n&bull; Koresha uburyo butazwi igihe cose ushikiriye Internet.  ", 
+            "text": "## IBINTU VYO KWIBUKA  \n&bull; Umenye neza ko wafuse ivyo wakoresheje navigateur.  \n&bull; Koresha incognito window muri Chrome canke \u201cprivate browsing\u201d muri Firefox.  \n&bull; Umenye neza ntushoboze (d\u00e9sactiver) ama cookies.  \n&bull; Saba uwomukorana atabangamiwe amenyeshe amakuru yawe.  \n&bull; Gira yuko amakuru yawe yimenyekanisha yonyene kugihe gitandukanye ukobishika (d\u00e9lai assign\u00e9 au hasard).  \n&bull; Shiramwo HTTPS ahariho hose muri Firefox canke Chrome.  \n&bull; Koresha uburyo butazwi igihe cose ushikiriye Internet.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_4"
         }, 
         {
             "correctRequired": 1, 
-            "question": "Kubera iki narinkwiriye gukoresha itazirano?  ", 
+            "question": "Kubera iki narinkwiriye gukoresha itazirano?", 
             "choices": [
                 {
-                    "text": "Kubera karyoshe kumva gusumba izina ry'ukuri ryanje.  ", 
+                    "text": "Kubera karyoshe kumva gusumba izina ry'ukuri ryanje.", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Gukingira ibindanga canke ibiranga abampa amakuru.  ", 
+                    "text": "Gukingira ibindanga canke ibiranga abampa amakuru.", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Flash Gordon.  ", 
+                    "text": "Flash Gordon.", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Kubera izina ryanje rimaze gufatwa kuri Facebook.  ", 
+                    "text": "Kubera izina ryanje rimaze gufatwa kuri Facebook.", 
                     "id": "answer_4"
                 }
             ], 
@@ -68,22 +68,22 @@
         }, 
         {
             "correctRequired": 3, 
-            "question": "Ni gute nokwankira ibimenyetso bisigara (traces) vy'ikiyago digital kwerekana ibindanga vyukuri?  ", 
+            "question": "Ni gute nokwankira ibimenyetso bisigara (traces) vy'ikiyago digital kwerekana ibindanga vyukuri?", 
             "choices": [
                 {
-                    "text": "Mugukoresha minsi yose incognito windows.  ", 
+                    "text": "Mugukoresha minsi yose incognito windows.", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Mugusaba abodukorana kumenyesha amakuru iyo ntari kuri Internet.  ", 
+                    "text": "Mugusaba abodukorana kumenyesha amakuru iyo ntari kuri Internet.", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Mugukoresha Tor kugira winjire muri Internet.  ", 
+                    "text": "Mugukoresha Tor kugira winjire muri Internet.", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Mugukoresha adresse email zibiri.  ", 
+                    "text": "Mugukoresha adresse email zibiri.", 
                     "id": "answer_4"
                 }
             ], 
@@ -97,22 +97,22 @@
         }, 
         {
             "correctRequired": 2, 
-            "question": "Ni nakoresha itazirano ibindaga biza kuba  ", 
+            "question": "Ni nakoresha itazirano ibindaga biza kuba", 
             "choices": [
                 {
-                    "text": "Vyose birakingiwe.  ", 
+                    "text": "Vyose birakingiwe.", 
                     "id": "answer_1"
                 }, 
                 {
-                    "text": "Ivyarivyo vyose mbwira abantu kwarico.  ", 
+                    "text": "Ivyarivyo vyose mbwira abantu kwarico.", 
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Nkingiwe gusa iyo nankiye ibimenyetso bisigara (traces) vy'ikiyago canje gushira ahabona ibindanga canke ikibanza ndimwo.  ", 
+                    "text": "Nkingiwe gusa iyo nankiye ibimenyetso bisigara (traces) vy'ikiyago canje gushira ahabona ibindanga canke ikibanza ndimwo.", 
                     "id": "answer_3"
                 }, 
                 {
-                    "text": "Gukingirwa kukibazo atahoginshingiye (examen superficiel).  ", 
+                    "text": "Gukingirwa kukibazo atahoginshingiye (examen superficiel).", 
                     "id": "answer_4"
                 }
             ], 
@@ -126,5 +126,5 @@
     ], 
     "classPackage": "scal.io.liger.model", 
     "id": "how_do_i_effectively_use_pseudonyms", 
-    "title": "Ni gute nokoresha neza amatazirano  "
+    "title": "Ni gute nokoresha neza amatazirano"
 }
