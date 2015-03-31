@@ -1,0 +1,23 @@
+{
+    "title": "Nh\u1eefng c\u01a1 b\u1ea3n v\u1ec1 camera", 
+    "storyPathTemplateFiles": {
+        "camera_basics": "camera_basics.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "camera_basics", 
+            "dependencyFile": "camera_basics.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "camera_basics"
+        }
+    ], 
+    "currentStoryPathFile": "camera_basics.json", 
+    "id": "camera_basics"
+}

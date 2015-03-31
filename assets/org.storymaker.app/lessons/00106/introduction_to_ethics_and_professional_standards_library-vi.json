@@ -1,0 +1,23 @@
+{
+    "title": "Gi\u1edbi thi\u1ec7u v\u1ec1 nh\u1eefng ti\u00eau chu\u1ea9n ngh\u1ec1 nghi\u1ec7p v\u00e0 \u0111\u1ea1o \u0111\u1ee9c", 
+    "storyPathTemplateFiles": {
+        "introduction_to_ethics_and_professional_standards": "introduction_to_ethics_and_professional_standards.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "introduction_to_ethics_and_professional_standards", 
+            "dependencyFile": "introduction_to_ethics_and_professional_standards.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "introduction_to_ethics_and_professional_standards"
+        }
+    ], 
+    "currentStoryPathFile": "introduction_to_ethics_and_professional_standards.json", 
+    "id": "introduction_to_ethics_and_professional_standards"
+}

@@ -1,0 +1,23 @@
+{
+    "title": "K\u1ef9 thu\u1eadt ph\u1ecfng v\u1ea5n", 
+    "storyPathTemplateFiles": {
+        "interview_techniques": "interview_techniques.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "interview_techniques", 
+            "dependencyFile": "interview_techniques.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "interview_techniques"
+        }
+    ], 
+    "currentStoryPathFile": "interview_techniques.json", 
+    "id": "interview_techniques"
+}
