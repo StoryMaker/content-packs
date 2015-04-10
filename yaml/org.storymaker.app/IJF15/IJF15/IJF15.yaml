@@ -1,0 +1,83 @@
+---
+    id: IJF15
+    title: IJF15 Experience
+    cards:
+
+        - 
+            type: TextCard
+            text: StoryMaker is attending the International Journalism Festival in Perugia, we've created this content pack for everyone in attendance.
+
+        - 
+            type: TextCard
+            text: To help out, we've created this Path to collect some information about the attendees for the IJF organizers.
+        - 
+            type: ClipCard
+            medium: video
+            goals: 
+                - Show us a location that's important to the festvial.
+            clipType: Place
+            length: 0:05
+
+        - 
+            type: TextCard
+            text: Now that we know where we are, ask the first person in front of you to speak to you on camera. Ask one question per clip to allow for easy editing.
+
+        - 
+            type: ClipCard
+            medium: video
+            goals: 
+                - "Question: Who are you?"
+            clipType: Character
+            length: 0:20
+
+        - 
+            type: TextCard
+            text: Sound is important, if at all possible, find a quiet place to record your clips.
+
+        - 
+            type: ClipCard
+            medium: video
+            goals: 
+                - "Question: Why did you come to the IJF?"
+            clipType: Character
+            length: 0:20
+
+        - 
+            type: TextCard
+            text: If you have any questions, you can reach us at @StoryMakerOrg on twitter.
+
+         - 
+            type: ClipCard
+            medium: video
+            goals: 
+                - "Question: What's your job?"
+            clipType: Character
+            length: 0:20
+
+        - 
+            type: TextCard
+            text: You're almost done, end your video with a signature shot to make your video unique.
+
+        - 
+            type: ClipCard
+            medium: video
+            goals: 
+                - Show us something that represents your experience at the event.
+            clipType: Signature
+            length: 0:10
+
+        - 
+            type: TextCard
+            text: That's it, time to review and publish.
+
+        - 
+            type: ReviewCard
+            medium: video
+
+        - 
+            type: PublishCard
+            medium: video
+
+        - 
+            type: NextUpCard
+            medium: video
