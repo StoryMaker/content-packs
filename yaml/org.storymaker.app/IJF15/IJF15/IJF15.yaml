@@ -5,8 +5,11 @@
 
         - 
             type: TextCard
-            text: If you're attending the International Journalism Festival in Perugia, StoryMaker wants to hear from you.
+            text: StoryMaker is attending the International Journalism Festival in Perugia, we've created this content pack for everyone in attendance.
 
+        - 
+            type: TextCard
+            text: To help out, we've created this Path to collect some information about the attendees for the IJF organizers.
         - 
             type: ClipCard
             medium: video
@@ -14,20 +17,42 @@
                 - Show us a location that's important to the festvial.
             clipType: Place
             length: 0:05
+
         - 
             type: TextCard
-            text: Now that we know where we are, find someone you can ask a question to on camera.
+            text: Now that we know where we are, ask the first person in front of you to speak to you on camera. Ask one question per clip to allow for easy editing.
 
         - 
             type: ClipCard
             medium: video
             goals: 
-                - "Question: What's your most surprising experience at IJF15?"
-                - "Question: Why are you excited to be at IJF15?"
-                - "Question: How is mobile changing the way you do your job?"
-                - "Question: What is the most interesting experience you've had?"
+                - "Question: Who are you?"
             clipType: Character
-            length: 0:25
+            length: 0:20
+
+        - 
+            type: TextCard
+            text: Sound is important, if at all possible, find a quiet place to record your clips.
+
+        - 
+            type: ClipCard
+            medium: video
+            goals: 
+                - "Question: Why did you come to the IJF?"
+            clipType: Character
+            length: 0:20
+
+        - 
+            type: TextCard
+            text: If you have any questions, you can reach us at @StoryMakerOrg on twitter.
+
+         - 
+            type: ClipCard
+            medium: video
+            goals: 
+                - "Question: What's your job?"
+            clipType: Character
+            length: 0:20
 
         - 
             type: TextCard
