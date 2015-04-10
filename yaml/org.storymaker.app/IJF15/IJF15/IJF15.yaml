@@ -1,0 +1,58 @@
+---
+    id: IJF15
+    title: IJF15 Experience
+    cards:
+
+        - 
+            type: TextCard
+            text: If you're attending the International Journalism Festival in Perugia, StoryMaker wants to hear from you.
+
+        - 
+            type: ClipCard
+            medium: video
+            goals: 
+                - Show us a location that's important to the festvial.
+            clipType: Place
+            length: 0:05
+        - 
+            type: TextCard
+            text: Now that we know where we are, find someone you can ask a question to on camera.
+
+        - 
+            type: ClipCard
+            medium: video
+            goals: 
+                - "Question: What's your most surprising experience at IJF15?"
+                - "Question: Why are you excited to be at IJF15?"
+                - "Question: How is mobile changing the way you do your job?"
+                - "Question: What is the most interesting experience you've had?"
+            clipType: Character
+            length: 0:25
+
+        - 
+            type: TextCard
+            text: You're almost done, end your video with a signature shot to make your video unique.
+
+        - 
+            type: ClipCard
+            medium: video
+            goals: 
+                - Show us something that represents your experience at the event.
+            clipType: Signature
+            length: 0:10
+
+        - 
+            type: TextCard
+            text: That's it, time to review and publish.
+
+        - 
+            type: ReviewCard
+            medium: video
+
+        - 
+            type: PublishCard
+            medium: video
+
+        - 
+            type: NextUpCard
+            medium: video
