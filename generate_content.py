@@ -415,4 +415,4 @@ def prep_lesson_pack(content_pack, lang=None):
 
 prep_lesson_pack('persian')
 #prep_lesson_pack('mena')
-#prep_lesson_pack('burundi')
+prep_lesson_pack('burundi')
