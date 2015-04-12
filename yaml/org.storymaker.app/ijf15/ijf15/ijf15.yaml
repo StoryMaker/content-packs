@@ -62,7 +62,7 @@
             type: ClipCard
             medium: video
             goals: 
-                - Look for people putting on the event, try to capture a moments when they interact with those in attendance.
+                - Look for moments when people in attendance are interacting
             clipType: Place
             length: 0:10
 
