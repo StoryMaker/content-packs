@@ -40,10 +40,10 @@ def parse_file(in_file_name, json_out_file_name, strings_out_file_name):
     if doc.has_key('cards'): # SPLS can have no cards
         for card in doc['cards']:
             #print "card: %s" % card
-            if card['type'] == 'MarkDownCard':
+            if card['type'] == 'MarkDownCard': # FIXME this should deal with MarkdownCard capitalization too
                 card['type'] = 'MarkdownCard'
                 set_id("markdown_card", card)
-                card['text'] = card['body']
+                card['text'] = card['body'] # FIXME this should also take a 'text' prop
                 del card['body']
                 
                 #strings

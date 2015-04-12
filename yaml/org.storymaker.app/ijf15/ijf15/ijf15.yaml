@@ -55,8 +55,8 @@
             length: 0:20
 
         - 
-            type: TextCard
-            text: If you'd like to learn more, you can contact us at @StoryMakerOrg on twitter.
+            type: MarkDownCard
+            body: If you'd like to learn more, you can contact us at [@StoryMakerOrg](https://twitter.com/StoryMakerOrg) on twitter.
 
         - 
             type: ClipCard
