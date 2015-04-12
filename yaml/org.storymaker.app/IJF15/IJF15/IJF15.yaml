@@ -5,22 +5,26 @@
 
         - 
             type: TextCard
-            text: StoryMaker is attending the International Journalism Festival in Perugia, we've created this content pack for everyone in attendance.
+            text: StoryMaker is going to the International Journalism Festival in Perugia. This is for anyone in attendance.
 
         - 
             type: TextCard
-            text: To help out, we've created this Path to collect some information about the attendees for the IJF organizers.
+            text: This path will walk you through making a short bio of another attendee of #IJF15.
         - 
             type: ClipCard
             medium: video
             goals: 
-                - Show us a location that's important to the festvial.
-            clipType: Place
+                - Capture a detail that makes it clear we're at the International Journalism Festival.
+            clipType: Signature
             length: 0:05
 
         - 
             type: TextCard
-            text: Now that we know where we are, ask the first person in front of you to speak to you on camera. Ask one question per clip to allow for easy editing.
+            text: Now that we know where we are, ask the first person in front of you to speak to you on camera. 
+            
+        - 
+            type: TextCard
+            text: Ask one question per clip to allow for easy editing.
 
         - 
             type: ClipCard
@@ -32,7 +36,15 @@
 
         - 
             type: TextCard
-            text: Sound is important, if at all possible, find a quiet place to record your clips.
+            text: To get good sound find a quiet place to record your clips.
+
+        - 
+            type: ClipCard
+            medium: video
+            goals: 
+                - Capture an interaction between your subject and another attendee.
+            clipType: Action
+            length: 0:20
 
         - 
             type: ClipCard
@@ -44,7 +56,15 @@
 
         - 
             type: TextCard
-            text: If you have any questions, you can reach us at @StoryMakerOrg on twitter.
+            text: If you'd like to learn more, you can contact us at @StoryMakerOrg on twitter.
+
+        - 
+            type: ClipCard
+            medium: video
+            goals: 
+                - Look for people putting on the event, try to capture a moments when they interact with those in attendance.
+            clipType: Place
+            length: 0:10
 
          - 
             type: ClipCard
@@ -53,18 +73,21 @@
                 - "Question: What's your job?"
             clipType: Character
             length: 0:20
+        - 
+            type: TextCard
+            text: Be sure to thank your subject after they answer your last question!
 
         - 
             type: TextCard
-            text: You're almost done, end your video with a signature shot to make your video unique.
+            text: Just one more shot! End your video with a final clip that clarifies the place you're in.
 
         - 
             type: ClipCard
             medium: video
             goals: 
-                - Show us something that represents your experience at the event.
-            clipType: Signature
-            length: 0:10
+                - An entrance or a wide shot of the location works well.
+            clipType: Place
+            length: 0:20
 
         - 
             type: TextCard
