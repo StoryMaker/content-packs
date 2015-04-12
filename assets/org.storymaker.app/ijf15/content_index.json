@@ -1,8 +1,8 @@
 [
     {
-        "instanceFilePath": "org.storymaker.app/IJF15/IJF15/IJF15.json",
+        "instanceFilePath": "org.storymaker.app/ijf15/ijf15/ijf15_library.json",
         "language": "en",
-        "thumbnailPath": "org.storymaker.app/IJF15/cover.jpg",
+        "thumbnailPath": "org.storymaker.app/ijf15/cover.jpg",
         "title": "What surprised you at IJF15?",
         "description": "Share your experience with the StoryMaker community."
     }

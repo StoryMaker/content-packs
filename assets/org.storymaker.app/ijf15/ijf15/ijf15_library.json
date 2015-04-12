@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "ijf15", 
+            "dependencyFile": "ijf15.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "IJF15 Experience", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "ijf15"
+        }
+    ], 
+    "currentStoryPathFile": "ijf15.json", 
+    "storyPathTemplateFiles": {
+        "ijf15": "ijf15.json"
+    }, 
+    "id": "ijf15"
+}

@@ -1,0 +1,18 @@
+---
+    id: ijf15
+    title: IJF15 Experience
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: ijf15.json
+    storyPathTemplateFiles:
+        ijf15: ijf15.json
+    dependencies:
+        -
+            dependencyId: ijf15
+            dependencyFile: ijf15.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: ijf15

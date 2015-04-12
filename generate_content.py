@@ -355,8 +355,15 @@ yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/learning_guide/learning_guide
 json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_3"
 strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/learning_guide/learning_guide_3"
 do_dir()
+"""
 
+print "generating content for IJF"
+yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/ijf15/ijf15"
+json_dir = os.getcwd() + "/assets/org.storymaker.app/ijf15/ijf15"
+strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/ijf15"
+do_dir()
 
+"""
 print "generating content for DressGate"
 yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/dressgate"
 json_dir = os.getcwd() + "/assets/org.storymaker.app/dressgate"
@@ -413,6 +420,6 @@ def prep_lesson_pack(content_pack, lang=None):
     content_metadata_file.write(json.dumps(content_metadata, indent=2))
     content_metadata_file.close()
 
-prep_lesson_pack('persian')
-#prep_lesson_pack('mena')
-prep_lesson_pack('burundi')
+#prep_lesson_pack('persian')
+##prep_lesson_pack('mena')
+#prep_lesson_pack('burundi')
