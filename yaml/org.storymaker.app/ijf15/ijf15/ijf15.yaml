@@ -98,11 +98,3 @@
         - 
             type: ReviewCard
             medium: video
-
-        - 
-            type: PublishCard
-            medium: video
-
-        - 
-            type: NextUpCard
-            medium: video
