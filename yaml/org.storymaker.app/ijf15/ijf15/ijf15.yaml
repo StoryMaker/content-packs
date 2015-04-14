@@ -5,38 +5,35 @@
 
         - 
             type: TextCard
-            text: StoryMaker is going to the International Journalism Festival in Perugia. This is for anyone in attendance.
+            text: Are you at the International Journalism Festival in Perugia?
 
         - 
             type: TextCard
-            text: This path will walk you through making a short bio of another attendee of #IJF15.
+            text: Help us compile short stories of other attendees of #IJF15.
+
         - 
             type: ClipCard
             medium: video
             goals: 
-                - Capture a detail that makes it clear we're at IJF 2015.
+                - Capture a detail that shows we're at IJF 2015.
             clipType: Signature
             length: 0:05
 
         - 
             type: TextCard
-            text: Now that we know where we are, ask the first person in front of you to speak to you on camera. 
+            text: Now that we know where we are, ask the first person you see to speak to you on camera. 
             
-        - 
-            type: TextCard
-            text: Ask one question per clip to allow for easy editing.
-
         - 
             type: ClipCard
             medium: video
             goals: 
-                - "Question: Who are you?"
+                - "Ask: Who are you?"
             clipType: Character
             length: 0:20
 
         - 
             type: TextCard
-            text: To get good sound find a quiet place to record your clips.
+            text: Ask one question per clip to allow for easy editing.
 
         - 
             type: ClipCard
@@ -47,39 +44,44 @@
             length: 0:20
 
         - 
+            type: TextCard
+            text: To get good sound find a quiet place to record your clips.
+
+        - 
             type: ClipCard
             medium: video
             goals: 
-                - "Question: Why did you come to the IJF?"
+                - "Ask: Why are you at IJF?"
             clipType: Character
             length: 0:20
 
         - 
             type: MarkDownCard
-            body: If you'd like to learn more, you can contact us at [@StoryMakerOrg](https://twitter.com/StoryMakerOrg) on twitter.
+            body: To learn more contact us on twitter [@StoryMakerOrg](https://twitter.com/StoryMakerOrg).
 
         - 
             type: ClipCard
             medium: video
             goals: 
-                - Look for moments when people in attendance are interacting
-            clipType: Place
+                - Capture a moment of attendees talking about IJF15.
+            clipType: Action
             length: 0:10
 
         - 
             type: ClipCard
             medium: video
             goals: 
-                - "Question: What's your job?"
+                - "Ask: Please describe IJF in one word."
             clipType: Character
             length: 0:20
+
         - 
             type: TextCard
             text: Be sure to thank your subject after they answer your last question!
 
         - 
             type: TextCard
-            text: Just one more shot! End your video with a final clip that clarifies the place you're in.
+            text: Just one more shot! End your video with a final clip that reminds us where we are.
 
         - 
             type: ClipCard
@@ -88,10 +90,10 @@
                 - An entrance or a wide shot of the location works well.
             clipType: Place
             length: 0:20
-
+            
         - 
-            type: TextCard
-            text: That's it, time to review and publish.
+            type: MarkDownCard
+            body: That's it, time to review and publish. Remember, you can tweet us at [@StoryMakerOrg](https://twitter.com/StoryMakerOrg) on twitter.  
 
         - 
             type: ReviewCard
