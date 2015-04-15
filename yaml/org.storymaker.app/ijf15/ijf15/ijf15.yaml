@@ -98,7 +98,6 @@
         - 
             type: ReviewCard
             medium: video
-<<<<<<< HEAD
 
         - 
             type: MarkDownCard
@@ -107,9 +106,3 @@
         - 
             type: PublishCard
             medium: video
-
-        - 
-            type: NextUpCard
-            medium: video
-=======
->>>>>>> origin/master
