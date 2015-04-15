@@ -1,12 +1,12 @@
 {
     "cards": [
         {
-            "text": "StoryMaker is going to the International Journalism Festival in Perugia. This is for anyone in attendance.", 
+            "text": "Are you at the International Journalism Festival in Perugia?", 
             "type": "BasicTextCard", 
             "id": "text_card_0"
         }, 
         {
-            "text": "This path will walk you through making a short bio of another attendee of", 
+            "text": "Help us compile short stories of other attendees of", 
             "type": "BasicTextCard", 
             "id": "text_card_1"
         }, 
@@ -14,36 +14,31 @@
             "medium": "video", 
             "length": "0:05", 
             "goals": [
-                "Capture a detail that makes it clear we're at IJF 2015."
+                "Capture a detail that shows we're at IJF 2015."
             ], 
             "clipType": "Signature", 
             "type": "ClipCard", 
             "id": "clip_card_0"
         }, 
         {
-            "text": "Now that we know where we are, ask the first person in front of you to speak to you on camera.", 
+            "text": "Now that we know where we are, ask the first person you see to speak to you on camera.", 
             "type": "BasicTextCard", 
             "id": "text_card_2"
-        }, 
-        {
-            "text": "Ask one question per clip to allow for easy editing.", 
-            "type": "BasicTextCard", 
-            "id": "text_card_3"
         }, 
         {
             "medium": "video", 
             "length": "0:20", 
             "goals": [
-                "Question: Who are you?"
+                "Ask: Who are you?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
             "id": "clip_card_1"
         }, 
         {
-            "text": "To get good sound find a quiet place to record your clips.", 
+            "text": "Ask one question per clip to allow for easy editing.", 
             "type": "BasicTextCard", 
-            "id": "text_card_4"
+            "id": "text_card_3"
         }, 
         {
             "medium": "video", 
@@ -56,17 +51,22 @@
             "id": "clip_card_2"
         }, 
         {
+            "text": "To get good sound find a quiet place to record your clips.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
             "medium": "video", 
             "length": "0:20", 
             "goals": [
-                "Question: Why did you come to the IJF?"
+                "Ask: Why are you at IJF?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
             "id": "clip_card_3"
         }, 
         {
-            "text": "If you'd like to learn more, you can contact us at [@StoryMakerOrg](https://twitter.com/StoryMakerOrg) on twitter.", 
+            "text": "To learn more contact us on twitter [@StoryMakerOrg](https://twitter.com/StoryMakerOrg).", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
@@ -74,9 +74,9 @@
             "medium": "video", 
             "length": "0:10", 
             "goals": [
-                "Look for moments when people in attendance are interacting"
+                "Capture a moment of attendees talking about IJF15."
             ], 
-            "clipType": "Place", 
+            "clipType": "Action", 
             "type": "ClipCard", 
             "id": "clip_card_4"
         }, 
@@ -84,7 +84,7 @@
             "medium": "video", 
             "length": "0:20", 
             "goals": [
-                "Question: What's your job?"
+                "Ask: Please describe IJF in one word."
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
@@ -96,7 +96,7 @@
             "id": "text_card_5"
         }, 
         {
-            "text": "Just one more shot! End your video with a final clip that clarifies the place you're in.", 
+            "text": "Just one more shot! End your video with a final clip that reminds us where we are.", 
             "type": "BasicTextCard", 
             "id": "text_card_6"
         }, 
@@ -111,19 +111,14 @@
             "id": "clip_card_6"
         }, 
         {
-            "text": "That's it, time to review and publish.", 
-            "type": "BasicTextCard", 
-            "id": "text_card_7"
+            "text": "That's it, time to review and publish. Remember, you can tweet us at [@StoryMakerOrg](https://twitter.com/StoryMakerOrg) on twitter.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
         }, 
         {
             "medium": "video", 
             "type": "ReviewCard", 
             "id": "review_card_0"
-        }, 
-        {
-            "medium": "video", 
-            "type": "PublishButtonCard", 
-            "id": "publish_card_1"
         }
     ], 
     "classPackage": "scal.io.liger.model", 

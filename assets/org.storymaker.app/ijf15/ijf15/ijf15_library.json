@@ -1,4 +1,21 @@
 {
+    "publishProfile": {
+        "descriptionPostfix": " Created with StoryMaker for the 2015 International Journalism Festival in Perugia.  StoryMaker.org", 
+        "publishSiteKeys": [
+            "storymaker"
+        ], 
+        "uploadSiteKeys": [
+            "s3"
+        ], 
+        "titlePrefix": "IJF15: ", 
+        "tags": [
+            "ijf15"
+        ]
+    }, 
+    "title": "IJF15 Experience", 
+    "storyPathTemplateFiles": {
+        "ijf15": "ijf15.json"
+    }, 
     "dependencies": [
         {
             "dependencyId": "ijf15", 
@@ -6,7 +23,6 @@
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "title": "IJF15 Experience", 
     "cards": [
         {
             "action": "LOAD", 
@@ -16,8 +32,5 @@
         }
     ], 
     "currentStoryPathFile": "ijf15.json", 
-    "storyPathTemplateFiles": {
-        "ijf15": "ijf15.json"
-    }, 
     "id": "ijf15"
 }
