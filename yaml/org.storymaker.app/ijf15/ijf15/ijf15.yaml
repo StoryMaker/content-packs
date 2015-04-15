@@ -9,7 +9,7 @@
 
         - 
             type: TextCard
-            text: Help us compile short stories of other attendees of #IJF15.
+            text: "Help us compile short video stories of other attendees of #IJF15."
 
         - 
             type: ClipCard
@@ -92,12 +92,16 @@
             length: 0:20
             
         - 
-            type: MarkDownCard
-            body: That's it, time to review and publish. Remember, you can tweet us at [@StoryMakerOrg](https://twitter.com/StoryMakerOrg) on twitter.  
+            type: TextCard
+            body: Please note, you'll need to be logged into a StoryMaker account to publish this video story.  
 
         - 
             type: ReviewCard
             medium: video
+
+        - 
+            type: MarkDownCard
+            body: Remember, if you have any questions you can tweet us at [@StoryMakerOrg](https://twitter.com/StoryMakerOrg) on twitter.  
 
         - 
             type: PublishCard
