@@ -1,0 +1,68 @@
+---
+    id: rule_of_thirds
+    title: Rule of Thirds
+    cards:
+
+        - 
+            type: IntroCard
+            exampleMediaPath: cover.png
+            headline: Posed Portraits
+            level: Introduction
+            time: 10 Minutes
+
+        - 
+            type: TextCard
+            text: "The rule of thirds is the most basic skill a photographer needs. Let’s look at some examples."
+
+        - 
+            type: PreviewCard
+            title: "Strong visuals make use of all the space in the frame. Use these lines to frame the horizon or your subject’s eyes in a portrait."
+            medium: photo
+            media: 
+                - 
+                    media: 1_a.jpg
+                    media_caption: © 
+
+        - 
+            type: PreviewCard
+            title: "To use your entire frame well, think across the frame, place important elements of the frame on these lines."
+            medium: photo
+            media: 
+                - 
+                    media: 2.jpg
+                    media_caption: 
+
+        - 
+            type: TipCard
+            tags:
+                - rule-of-thirds
+                - photo
+
+        - 
+            type: PreviewCard
+            title: "Great photos use the entire frame well, but place the most important objects where the grid intersects."
+            medium: photo
+            media: 
+                - 
+                    media: 3.jpg
+                    media_caption: 
+
+        - 
+            type: TextCard
+            text: "Now turn on the grid in your camera app, and experiment with the rule of thirds."
+
+        - 
+            type: ClipCard
+            medium: photo
+            goals: 
+                - "Try to use at least 3 points of the grid in your photo."
+            clipType: Action
+            length: 0:20
+
+        - 
+            type: MarkDownCard
+            text: "When you upload your portrait it will be shared with the StoryMaker community. [Check out portraits made by other StoryMakers here.](https://www.storymaker.org/)"
+
+        - 
+            type: PublishCard
+            medium: photo

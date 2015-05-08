@@ -1,0 +1,64 @@
+---
+    id: working_the_layers
+    title: Working the Layers
+    cards:
+
+        - 
+            type: IntroCard
+            exampleMediaPath: cover.png
+            headline: Working the Layers
+            level: Introduction
+            time: 10 Minutes
+
+        - 
+            type: TextCard
+            text: "Create depth in your photos by working the layers. Let’s look at some examples."
+
+        - 
+            type: PreviewCard
+            title: "Strong visuals create depth. Vary your placement of the character in your frame."
+            medium: photo
+            media: 
+                - 
+                    media: 1.jpg
+                    media_caption: 
+
+        - 
+            type: PreviewCard
+            title: "To use your entire frame well, look for opportunities to use the foreground, middle, and background of the frame."
+            medium: photo
+            media: 
+                - 
+                    media: 2.jpg
+                    media_caption: 
+
+        - 
+            type: TipCard
+            tags:
+                - working-the-layers
+                - photo
+
+        - 
+            type: PreviewCard
+            title: "Layers can be used to help the audience experience the character’s environment."
+            medium: photo
+            media: 
+                - 
+                    media: 3.jpg
+                    media_caption: 
+        - 
+            type: TextCard
+            text: " Now practice shooting photos with layers."
+
+        - 
+            type: ClipCard
+            medium: photo
+            goals: 
+                - "Have your subject fill 50% of the frame."
+                - "Capture a character with a background that informs us about their environment."
+            clipType: Character
+            length: 0:20
+
+        - 
+            type: PublishCard
+            medium: photo
