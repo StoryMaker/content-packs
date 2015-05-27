@@ -1,0 +1,95 @@
+{
+    "cards": [
+        {
+            "level": "Introduction", 
+            "headline": "Posed Portraits", 
+            "time": "10 Minutes", 
+            "exampleMediaPath": "cover.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "The rule of thirds is the most basic skill a photographer needs. Let\u2019s look at some examples.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1_a.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Strong visuals make use of all the space in the frame. Use these lines to frame the horizon or your subject\u2019s eyes in a portrait.", 
+            "exampleMediaPath": "1_a.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "To use your entire frame well, think across the frame, place important elements of the frame on these lines.", 
+            "exampleMediaPath": "2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "rule-of-thirds", 
+                "photo"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "3.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Great photos use the entire frame well, but place the most important objects where the grid intersects.", 
+            "exampleMediaPath": "3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Now turn on the grid in your camera app, and experiment with the rule of thirds.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:20", 
+            "goals": [
+                "Try to use at least 3 points of the grid in your photo."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "When you upload your portrait it will be shared with the StoryMaker community. [Check out portraits made by other StoryMakers here.](https://www.storymaker.org/)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "rule_of_thirds", 
+    "title": "Rule of Thirds"
+}

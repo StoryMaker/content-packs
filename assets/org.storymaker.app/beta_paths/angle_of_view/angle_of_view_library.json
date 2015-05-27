@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "angle_of_view", 
+            "dependencyFile": "angle_of_view.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Angle of View", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "angle_of_view"
+        }
+    ], 
+    "currentStoryPathFile": "angle_of_view.json", 
+    "storyPathTemplateFiles": {
+        "posed_portraits": "angle_of_view.json"
+    }, 
+    "id": "angle_of_view"
+}

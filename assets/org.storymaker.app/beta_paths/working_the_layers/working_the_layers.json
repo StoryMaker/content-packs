@@ -1,0 +1,91 @@
+{
+    "cards": [
+        {
+            "level": "Introduction", 
+            "headline": "Working the Layers", 
+            "time": "10 Minutes", 
+            "exampleMediaPath": "cover.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Create depth in your photos by working the layers. Let\u2019s look at some examples.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Strong visuals create depth. Vary your placement of the character in your frame.", 
+            "exampleMediaPath": "1.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "To use your entire frame well, look for opportunities to use the foreground, middle, and background of the frame.", 
+            "exampleMediaPath": "2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "working-the-layers", 
+                "photo"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "3.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Layers can be used to help the audience experience the character\u2019s environment.", 
+            "exampleMediaPath": "3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": " Now practice shooting photos with layers.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:20", 
+            "goals": [
+                "Have your subject fill 50% of the frame.", 
+                "Capture a character with a background that informs us about their environment."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "working_the_layers", 
+    "title": "Working the Layers"
+}

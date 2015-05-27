@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "composition", 
+            "dependencyFile": "composition.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Composition", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "composition"
+        }
+    ], 
+    "currentStoryPathFile": "composition.json", 
+    "storyPathTemplateFiles": {
+        "posed_portraits": "composition.json"
+    }, 
+    "id": "composition"
+}

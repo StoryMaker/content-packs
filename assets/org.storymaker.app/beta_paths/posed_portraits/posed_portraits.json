@@ -1,0 +1,90 @@
+{
+    "cards": [
+        {
+            "level": "Introduction", 
+            "headline": "Posed Portraits", 
+            "time": "10 Minutes", 
+            "exampleMediaPath": "cover.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Share a portrait of someone you know with the StoryMaker Community, find out how!", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1_a.jpg", 
+                    "media_caption": "\u00a9 John Smock 2015"
+                }
+            ], 
+            "header": "Most portraits frame your subject to occupy about 50 percent of the frame.", 
+            "exampleMediaPath": "1_a.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "portrait", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "3_a.jpg", 
+                    "media_caption": "\u00a9 John Smock 2015"
+                }
+            ], 
+            "header": "A good portrait tells us something about the character or story.", 
+            "exampleMediaPath": "3_a.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "portrait", 
+                "during"
+            ]
+        }, 
+        {
+            "text": "Now it's your turn, try to capture a portrait of your own.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:20", 
+            "goals": [
+                "Have your subject fill 50% of the frame.", 
+                "Include something to help us learn about your character."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "When you upload your portrait it will be shared with the StoryMaker community. [Check out portraits made by other StoryMakers here.](https://www.storymaker.org/)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "posed_portraits", 
+    "title": "Posed Portaits"
+}

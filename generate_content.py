@@ -39,12 +39,13 @@ def parse_file(in_file_name, json_out_file_name, strings_out_file_name):
     cardcounts = {}
     if doc.has_key('cards'): # SPLS can have no cards
         for card in doc['cards']:
-            #print "card: %s" % card
+            print "card: %s" % card
             if card['type'] == 'MarkDownCard': # FIXME this should deal with MarkdownCard capitalization too
                 card['type'] = 'MarkdownCard'
                 set_id("markdown_card", card)
-                card['text'] = card['body'] # FIXME this should also take a 'text' prop
-                del card['body']
+                if card.has_key('body'):
+                    card['text'] = card['body'] # FIXME this should also take a 'text' prop
+                    del card['body']
                 
                 #strings
                 card_fqid = "%s::%s" % (doc['id'], card['id'])
@@ -357,11 +358,13 @@ strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/learning_
 do_dir()
 """
 
+"""
 print "generating content for IJF"
 yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/ijf15/ijf15"
 json_dir = os.getcwd() + "/assets/org.storymaker.app/ijf15/ijf15"
 strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/ijf15"
 do_dir()
+"""
 
 """
 print "generating content for DressGate"
@@ -371,9 +374,22 @@ strings_dir = os.getcwd() + "/intermediates/org.storymaker.app/dressgate"
 do_dir()
 """
 
-package = 'org.storymaker.app'
+print "generating content for beta paths"
+pack_dir = "beta_paths"
+yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/" + pack_dir
+for f in os.listdir(yaml_parent_dir):
+    yaml_dir = "%s/%s" % (yaml_parent_dir, f)
+    print yaml_dir
+    json_dir = os.getcwd() + "/assets/org.storymaker.app/%s/%s" % (pack_dir, f)
+    strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/%s/%s" % (pack_dir, f)
+    do_dir()
 
+
+
+#########################################
 print "prepping lesson asset folder..."
+
+package = 'org.storymaker.app'
 
 def prep_lesson_pack(content_pack, lang=None):
     # TODO delete the old assets for this pack

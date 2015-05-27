@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "rule_of_thirds", 
+            "dependencyFile": "rule_of_thirds.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Rule of Thirds", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "rule_of_thirds"
+        }
+    ], 
+    "currentStoryPathFile": "rule_of_thirds.json", 
+    "storyPathTemplateFiles": {
+        "posed_portraits": "rule_of_thirds.json"
+    }, 
+    "id": "rule_of_thirds"
+}

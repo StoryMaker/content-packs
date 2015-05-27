@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "posed_portraits", 
+            "dependencyFile": "posed_portraits.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Posed Portaits", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "posed_portraits"
+        }
+    ], 
+    "currentStoryPathFile": "posed_portraits.json", 
+    "storyPathTemplateFiles": {
+        "posed_portraits": "posed_portraits.json"
+    }, 
+    "id": "posed_portraits"
+}
