@@ -1,0 +1,18 @@
+---
+    id: rule_of_thirds
+    title: Rule of Thirds
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: rule_of_thirds.json
+    storyPathTemplateFiles:
+        posed_portraits: rule_of_thirds.json
+    dependencies:
+        -
+            dependencyId: rule_of_thirds
+            dependencyFile: rule_of_thirds.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: rule_of_thirds

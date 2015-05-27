@@ -1,0 +1,45 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/beta_paths/rule_of_thirds/rule_of_thirds.json", 
+    "thumbnailPath": "org.storymaker.app/beta_paths/rule_of_thirds/cover.jpg", 
+    "language": "en", 
+    "title": “Rule “of Thirds”
+  }, 
+
+  {
+    "instanceFilePath": "org.storymaker.app/beta_paths/angle_of_view/angle_of_view.json", 
+    "thumbnailPath": "org.storymaker.app/beta_paths/angle_of_view/cover.jpg", 
+    "language": "en", 
+    "title": “Angle of View”
+  }, 
+
+  {
+    "instanceFilePath": "org.storymaker.app/beta_paths/working_the_layers/working_the_layers.json", 
+    "thumbnailPath": "org.storymaker.app/beta_paths/working_the_layers/cover.jpg", 
+    "language": "en", 
+    "title": “Working the Layers”
+  }, 
+
+  {
+    "instanceFilePath": "org.storymaker.app/beta_paths/posed_portraits/posed_portraits.json", 
+    "thumbnailPath": "org.storymaker.app/beta_paths/posed_portraits/cover.jpg", 
+    "language": "en", 
+    "title": "Posed Portraits"
+  }, 
+
+  {
+    "instanceFilePath": "org.storymaker.app/beta_paths/IJF15/IJF15.json", 
+    "thumbnailPath": "org.storymaker.app/beta_paths/IJF15/cover.jpg", 
+    "language": "en", 
+    "title": “IJF15”
+  }, 
+
+  {
+    "instanceFilePath": "org.storymaker.app/beta_paths/composition/composition.json", 
+    "thumbnailPath": "org.storymaker.app/beta_paths/composition/cover.jpg", 
+    "language": "en", 
+    "title": “Composition”
+  }, 
+
+
+]
