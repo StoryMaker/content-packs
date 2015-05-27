@@ -93,7 +93,7 @@
             
         - 
             type: TextCard
-            body: Please note, you'll need to be logged into a StoryMaker account to publish this video story.  
+            text: Please note, you'll need to be logged into a StoryMaker account to publish this video story.  
 
         - 
             type: ReviewCard
@@ -103,6 +103,3 @@
             type: MarkDownCard
             body: Remember, if you have any questions you can tweet us at [@StoryMakerOrg](https://twitter.com/StoryMakerOrg) on twitter.  
 
-        - 
-            type: PublishCard
-            medium: video
