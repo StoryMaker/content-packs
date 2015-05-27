@@ -375,7 +375,7 @@ do_dir()
 """
 
 print "generating content for beta paths"
-pack_dir = "beta_paths"
+pack_dir = "beta"
 yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/" + pack_dir
 for f in os.listdir(yaml_parent_dir):
     yaml_dir = "%s/%s" % (yaml_parent_dir, f)
