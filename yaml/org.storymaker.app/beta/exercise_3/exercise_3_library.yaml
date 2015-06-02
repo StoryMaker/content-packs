@@ -1,0 +1,18 @@
+---
+    id: exercise_3
+    title: Create a Story with Narration.
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: exercise_3.json
+    storyPathTemplateFiles:
+        posed_portraits: exercise_3.json
+    dependencies:
+        -
+            dependencyId: exercise_3
+            dependencyFile: exercise_3.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: exercise_3

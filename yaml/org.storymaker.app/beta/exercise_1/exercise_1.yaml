@@ -1,0 +1,91 @@
+---
+    id: exercise_1
+    title: Interview your partner.
+    cards:
+
+        - 
+            type: IntroCard
+            exampleMediaPath: cover.png
+            headline: Interview your partner.
+            level: Introduction
+            time: ? Minutes
+
+        - 
+            type: TextCard
+            text: "Each with your own phones, first interview your partner, and then your partner will interview you."
+
+        - 
+            type: MarkDownCard
+            body: With your partner, choose one of the following questions you will each ask the other
+                * What is your experience with mobile journalism?
+                * How was your trip to the workshop?
+                * What has been your favorite part of the workshop so far?
+
+        - 
+            type: TextCard
+            text: "Make sure you are close enough to hear your partner."
+
+        - 
+            type: TextCard
+            text: "If there is a lot of background noise, find a new location."
+
+        - 
+            type: PreviewCard
+            title: "Example of headroom"
+            medium: photo
+            media: 
+                - 
+                    media: 2.png
+                    media_caption: 
+
+        - 
+            type: TextCard
+            text: "Be careful to provide proper headspace for your interview."
+
+        - 
+            type: ClipCard
+            medium: video
+            goals: 
+                - "Remember, ask your subject one question, you can shoot multiple times if needed."
+            clipType: Character
+            length: 0:20
+
+        - 
+            type: TextCard
+            text: "Trim by tapping the clip image."
+
+        - 
+            type: TextCard
+            text: "Select the best 30 second answer."
+
+        - 
+            type: ClipCard
+            medium: video
+            goals: 
+                - "Show your character doing something related to your question."
+            clipType: Action
+            length: 0:20
+
+        - 
+            type: ClipCard
+            medium: video
+            goals: 
+                - "Show a location important to your character or question."
+            clipType: Action
+            length: 0:20
+
+        - 
+            type: ReviewCard
+            medium: video
+
+        - 
+            type: TextCard
+            text: "If you recorded multiple clips in a single card, delete all but your chosen 3 clips before you publish."
+
+        - 
+            type: TextCard
+            text: "Don’t worry, all clips are saved in your gallery."
+
+        - 
+            type: TextCard
+            text: "When you finish uploading, return to class."

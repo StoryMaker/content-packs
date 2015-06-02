@@ -1,0 +1,91 @@
+---
+    id: exercise_3
+    title: Create a Story with Narration.
+    cards:
+
+        - 
+            type: IntroCard
+            exampleMediaPath: cover.png
+            headline: Create a Story with Narration
+            level: Production
+            time: ? Minutes
+
+        - 
+            type: TextCard
+            text: "Using one of each of the five clips provided, shoot a story and add a narration."
+
+        - 
+            type: TextCard
+            text: "Your goal is to use all five shot types and narration to tell a story with a beginning, middle and end."
+
+        - 
+            type: TextCard
+            text: "Build your story around a character, use the other clips to illustrate the character’s story."
+
+        - 
+            type: ClipCard
+            medium: video
+            goals: 
+                - "Place clips are good for establishing where your story happens."
+            clipType: Place
+            length: 0:20
+
+        - 
+            type: TextCard
+            text: "Trim any clip by tapping the clip image."
+
+        - 
+            type: ClipCard
+            medium: video
+            goals: 
+                - "Character clips are good for framing interviews with those affected."
+            clipType: character
+            length: 0:20
+
+        - 
+            type: ClipCard
+            medium: video
+            goals: 
+                - "Action clips show the primary action that carries the story. Record the whole action."
+            clipType: action
+            length: 0:20
+
+        - 
+            type: ClipCard
+            medium: video
+            goals: 
+                - "Result clips show the result of your character’s journey or primary action."
+            clipType: result
+            length: 0:20
+
+        - 
+            type: ClipCard
+            medium: video
+            goals: 
+                - "Signature clips show a very specific detail, can be the result or primary action. Get close!"
+            clipType: signature
+            length: 0:20
+
+        - 
+            type: TextCard
+            text: "If you recorded additional clips in any of your cards, be sure to delete the extras so each card only has one clip, for a total of five."
+
+        - 
+            type: TextCard
+            text: "On the next card, you will be able to review your clips, when you are happy with them, press publish."
+
+        - 
+            type: TextCard
+            text: "Don’t forget your narration."
+
+        - 
+            type: TextCard
+            text: "Write your narration first. Keep it simple, be specific, and write to your pictures."
+
+        - 
+            type: ReviewCard
+            medium: video
+
+        - 
+            type: TextCard
+            text: "When you finish uploading, return to class."
