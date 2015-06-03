@@ -318,6 +318,7 @@ def mergetree(src, dst, symlinks = False, ignore = None):
         else:
             shutil.copy2(s, d)
 
+package = 'org.storymaker.app'
 
 #############################3
 """
@@ -383,13 +384,13 @@ for f in os.listdir(yaml_parent_dir):
     json_dir = os.getcwd() + "/assets/org.storymaker.app/%s/%s" % (pack_dir, f)
     strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/%s/%s" % (pack_dir, f)
     do_dir()
+generate_content_index(package, pack_dir)
 
 
 
 #########################################
 print "prepping lesson asset folder..."
 
-package = 'org.storymaker.app'
 
 def prep_lesson_pack(content_pack, lang=None):
     # TODO delete the old assets for this pack
