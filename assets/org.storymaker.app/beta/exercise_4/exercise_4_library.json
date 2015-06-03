@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "exercise_4", 
+            "dependencyFile": "exercise_4.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "What\u2019s the most important thing you learned?", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "exercise_4"
+        }
+    ], 
+    "currentStoryPathFile": "exercise_4.json", 
+    "storyPathTemplateFiles": {
+        "posed_portraits": "exercise_4.json"
+    }, 
+    "id": "exercise_4"
+}

@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "exercise_3", 
+            "dependencyFile": "exercise_3.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Create a Story with Narration.", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "exercise_3"
+        }
+    ], 
+    "currentStoryPathFile": "exercise_3.json", 
+    "storyPathTemplateFiles": {
+        "posed_portraits": "exercise_3.json"
+    }, 
+    "id": "exercise_3"
+}
