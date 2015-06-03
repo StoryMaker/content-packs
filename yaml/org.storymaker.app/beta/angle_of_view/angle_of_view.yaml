@@ -60,5 +60,5 @@
             length: 0:20
 
         - 
-            type: PublishCard
+            type: ReviewCard
             medium: photo

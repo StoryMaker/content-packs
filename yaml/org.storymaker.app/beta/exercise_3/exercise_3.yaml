@@ -8,7 +8,7 @@
             exampleMediaPath: cover.png
             headline: Create a Story with Narration
             level: Production
-            time: ? Minutes
+            time: "? Minutes"
 
         - 
             type: TextCard
@@ -20,7 +20,7 @@
 
         - 
             type: TextCard
-            text: "Build your story around a character, use the other clips to illustrate the character’s story."
+            text: "Build your story around a character, use the other clips to illustrate the character's story."
 
         - 
             type: ClipCard
@@ -54,7 +54,7 @@
             type: ClipCard
             medium: video
             goals: 
-                - "Result clips show the result of your character’s journey or primary action."
+                - "Result clips show the result of your character's journey or primary action."
             clipType: result
             length: 0:20
 
@@ -76,7 +76,7 @@
 
         - 
             type: TextCard
-            text: "Don’t forget your narration."
+            text: "Don't forget your narration."
 
         - 
             type: TextCard

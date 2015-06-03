@@ -8,7 +8,7 @@
             exampleMediaPath: cover.png
             headline: Interview your partner.
             level: Introduction
-            time: ? Minutes
+            time: "? Minutes"
 
         - 
             type: TextCard
@@ -84,7 +84,7 @@
 
         - 
             type: TextCard
-            text: "Don’t worry, all clips are saved in your gallery."
+            text: "Don't worry, all clips are saved in your gallery."
 
         - 
             type: TextCard

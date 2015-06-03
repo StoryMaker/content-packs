@@ -64,5 +64,5 @@
             text: "When you upload your portrait it will be shared with the StoryMaker community. [Check out portraits made by other StoryMakers here.](https://www.storymaker.org/)"
 
         - 
-            type: PublishCard
+            type: ReviewCard
             medium: photo

@@ -1,14 +1,14 @@
 ---
     id: composition
-    title: What’s the most important thing you learned?
+    title: What's the most important thing you learned?
     cards:
 
         - 
             type: IntroCard
             exampleMediaPath: cover.png
-            headline: What’s the most important thing you learned?
+            headline: What's the most important thing you learned?
             level: Conclusion
-            time: ? Minutes
+            time: "? Minutes"
 
         - 
             type: TextCard
@@ -16,7 +16,7 @@
 
         - 
             type: TextCard
-            text: "Ask your partner, “What is the most important thing you  learned about making videos?”"
+            text: Ask your partner, "What is the most important thing you  learned about making videos?"
 
         - 
             type: TextCard
@@ -61,4 +61,4 @@
 
         - 
             type: TextCard
-            text: "Don’t worry, all clips are saved in your gallery."
+            text: "Don't worry, all clips are saved in your gallery."

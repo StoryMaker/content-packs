@@ -8,7 +8,7 @@
             exampleMediaPath: cover.png
             headline: What do you hope to learn?
             level: Introduction
-            time: ? Minutes
+            time: "? Minutes"
 
         - 
             type: TextCard
@@ -16,7 +16,7 @@
 
         - 
             type: TextCard
-            text: "Ask your partner, “What do you hope to learn about making videos?”"
+            text: Ask your partner, "What do you hope to learn about making videos?"
 
         - 
             type: TextCard
@@ -57,4 +57,4 @@
 
         - 
             type: TextCard
-            text: "Don’t worry, all clips are saved in your gallery."
+            text: "Don't worry, all clips are saved in your gallery."

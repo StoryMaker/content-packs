@@ -8,7 +8,7 @@
             exampleMediaPath: cover.png
             headline: Shoot a Process Story
             level: Production
-            time: ? Minutes
+            time: "? Minutes"
 
         - 
             type: TextCard
@@ -72,7 +72,7 @@
 
         - 
             type: TextCard
-            text: "By pressing "Order" on the next card, you will be able to review your clips, when you are happy with them, press publish."
+            text: By pressing "Order" on the next card, you will be able to review your clips, when you are happy with them, press publish.
 
         - 
             type: ReviewCard
@@ -80,7 +80,7 @@
 
         - 
             type: TextCard
-            text: "Don’t worry about narration immediately, we’ll discuss that later."
+            text: "Don't worry about narration immediately, we'll discuss that later."
 
         - 
             type: TextCard
