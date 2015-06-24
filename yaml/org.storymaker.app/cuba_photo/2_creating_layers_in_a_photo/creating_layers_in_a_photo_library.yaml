@@ -1,0 +1,18 @@
+---
+    id: creating_layers_in_a_photo
+    title: Creating Layers in a Photo
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: creating_layers_in_a_photo.json
+    storyPathTemplateFiles:
+        posed_portraits: creating_layers_in_a_photo.json
+    dependencies:
+        -
+            dependencyId: creating_layers_in_a_photo
+            dependencyFile: creating_layers_in_a_photo.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: creating_layers_in_a_photo

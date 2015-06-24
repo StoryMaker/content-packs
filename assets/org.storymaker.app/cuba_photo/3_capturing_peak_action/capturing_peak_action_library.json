@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "capturing_peak_action", 
+            "dependencyFile": "capturing_peak_action.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Capturing Peak Action", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "capturing_peak_action"
+        }
+    ], 
+    "currentStoryPathFile": "capturing_peak_action.json", 
+    "storyPathTemplateFiles": {
+        "posed_portraits": "capturing_peak_action.json"
+    }, 
+    "id": "capturing_peak_action"
+}

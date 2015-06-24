@@ -1,0 +1,99 @@
+---
+    id: applying_the_rule_of_thirds
+    title: Applying the Rule of Thirds
+    cards:
+
+        - 
+            type: IntroCard
+            exampleMediaPath: 0.jpg
+            headline: Applying the Rule of Thirds
+            level: Introduction
+            time: 10 Minutes
+
+        - 
+            type: TextCard
+            text: "The rule of thirds is the most basic principle of composition a photographer needs to understand."
+
+        - 
+            type: PreviewCard
+            title: "Think of the frame as grid made up of nine rectangles. Strong visuals use all the rectangles in the grid to tell the story."
+            medium: photo
+            media: 
+                - 
+                    media: 0.jpg
+                    media_caption: © 
+
+        - 
+            type: TextCard
+            text: "Do not simply place your subject in the middle of the photograph with no thought to the rest of the grid."
+
+        - 
+            type: TextCard
+            text: "The horizontal grid lines are sometimes called the 'eye line' or 'horizon line.' These lines are important to composing a portrait or a landscape."
+
+        - 
+            type: PreviewCard
+            title: "If the photo is a landscape, the element that defines the horizon is often placed on either the top or bottom 'horizon line.'"
+            medium: photo
+            media: 
+                - 
+                    media: 0.jpg
+                    media_caption: © 
+
+        - 
+            type: PreviewCard
+            title: "If the photo is a portrait, the subject's eyes are often placed on either the top or bottom 'eye line.'"
+            medium: photo
+            media: 
+                - 
+                    media: 0.jpg
+                    media_caption: © 
+
+        - 
+            type: PreviewCard
+            title: "The vertical lines and horizontal lines work together to define the frame. Place the most important elements of the composition at the the intersections of the lines. These are the points to which a viewer's eyes naturally land in a frame."
+            medium: photo
+            media: 
+                - 
+                    media: 0.jpg
+                    media_caption: © 
+
+        - 
+            type: TipCard
+            tags:
+                - general
+
+        - 
+            type: PreviewCard
+            title: "Fill the entire frame with compelling visual information. Use the grid to organize that information."
+            medium: photo
+            media: 
+                - 
+                    media: 0.jpg
+                    media_caption: 
+
+        - 
+            type: TipCard
+            tags:
+                - rule_of_thirds
+
+        - 
+            type: PreviewCard
+            title: "If possible turn on the grid feature in your mobile camera app."
+            medium: photo
+            media: 
+                - 
+                    media: rule_of_thirds_icons.png
+                    media_caption: © 
+
+        - 
+            type: ClipCard
+            medium: photo
+            goals: 
+                - "Fill the entire frame and use the lines and intersections in your composition."
+            clipType: Action
+            length: 0:20
+
+        - 
+            type: ReviewCard
+            medium: photo

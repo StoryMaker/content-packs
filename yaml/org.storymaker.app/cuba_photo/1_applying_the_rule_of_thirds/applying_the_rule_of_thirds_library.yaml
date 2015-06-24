@@ -1,0 +1,18 @@
+---
+    id: applying_the_rule_of_thirds
+    title: Applying the Rule of Thirds
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: applying_the_rule_of_thirds.json
+    storyPathTemplateFiles:
+        posed_portraits: applying_the_rule_of_thirds.json
+    dependencies:
+        -
+            dependencyId: applying_the_rule_of_thirds
+            dependencyFile: applying_the_rule_of_thirds.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: applying_the_rule_of_thirds

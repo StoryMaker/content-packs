@@ -1,0 +1,95 @@
+---
+    id: creating_layers_in_a_photo
+    title: Creating Layers in a Photo
+    cards:
+
+        - 
+            type: IntroCard
+            exampleMediaPath: 0.jpg
+            headline: Creating Layers in a Photo
+            level: Introduction
+            time: 10 Minutes
+
+        - 
+            type: TextCard
+            text: "Compose your photos with layers to create depth. Layers help the two dimensional space of a photograph better represent the three-dimensional world."
+
+        - 
+            type: PreviewCard
+            title: "To create depth in a photo, compose in distinct layers: foreground and background. Sometimes a third layer, a middle ground, is used."
+            medium: photo
+            media: 
+                - 
+                    media: 0.jpg
+                    media_caption: 
+
+        - 
+            type: PreviewCard
+            title: "The main subject of your photo can be a person or an object. It should be placed on one distinct layer of the frame."
+            medium: photo
+            media: 
+                - 
+                    media: 0.jpg
+                    media_caption: 
+
+        - 
+            type: PreviewCard
+            title: "The second layer, often the background layer, can be composed to help the viewer better understand the subject's environment and the story."
+            medium: photo
+            media: 
+                - 
+                    media: 0.jpg
+                    media_caption: 
+
+        - 
+            type: PreviewCard
+            title: "The most basic application of this idea for photojournalism is to create two distinct layers: a subject layer and a second layer that provides context to the story."
+            medium: photo
+            media: 
+                - 
+                    media: 0.jpg
+                    media_caption: 
+
+        - 
+            type: TipCard
+            tags:
+                - general
+
+        - 
+            type: PreviewCard
+            title: "Sometimes it can be effective to reverse the subject and context layers."
+            medium: photo
+            media: 
+                - 
+                    media: 0.jpg
+                    media_caption: 
+
+        - 
+            type: PreviewCard
+            title: "Complex photographs may have three layers, each illustrating a different element of the story."
+            medium: photo
+            media: 
+                - 
+                    media: 0.jpg
+                    media_caption: 
+
+        - 
+            type: TipCard
+            tags:
+                - layers
+
+        - 
+            type: TextCard
+            text: "Practice shooting photos with distinct layers, one with a clear subject and another that provides context."
+
+        - 
+            type: ClipCard
+            medium: photo
+            goals: 
+                - "Place the subject or character in a distinct layer from the rest of the image."
+            clipType: Character
+            length: 0:20
+
+        - 
+            type: ReviewCard
+            medium: photo

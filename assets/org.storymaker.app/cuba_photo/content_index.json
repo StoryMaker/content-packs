@@ -1,0 +1,20 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/cuba_photo/1_applying_the_rule_of_thirds/applying_the_rule_of_thirds.json", 
+    "thumbnailPath": "org.storymaker.app/cuba_photo/cover.jpg", 
+    "language": "en", 
+    "title": "Applying the Rule of Thirds"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/cuba_photo/2_creating_layers_in_a_photo/creating_layers_in_a_photo_library.json", 
+    "thumbnailPath": "org.storymaker.app/cuba_photo/cover.jpg", 
+    "language": "en", 
+    "title": "Creating Layers in a Photo"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/cuba_photo/3_capturing_peak_action/capturing_peak_action_library.json", 
+    "thumbnailPath": "org.storymaker.app/cuba_photo/cover.jpg", 
+    "language": "en", 
+    "title": "Capturing Peak Action"
+  }, 
+]

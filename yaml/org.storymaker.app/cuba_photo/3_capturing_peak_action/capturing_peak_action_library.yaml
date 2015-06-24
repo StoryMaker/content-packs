@@ -1,0 +1,18 @@
+---
+    id: capturing_peak_action
+    title: Capturing Peak Action
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: capturing_peak_action.json
+    storyPathTemplateFiles:
+        posed_portraits: capturing_peak_action.json
+    dependencies:
+        -
+            dependencyId: capturing_peak_action
+            dependencyFile: capturing_peak_action.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: capturing_peak_action
