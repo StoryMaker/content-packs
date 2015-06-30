@@ -5,7 +5,7 @@
 
         - 
             type: IntroCard
-            exampleMediaPath: 0.jpg
+            exampleMediaPath: 1.jpg
             headline: Capturing Peak Action
             level: Introduction
             time: 10 Minutes
@@ -20,7 +20,7 @@
             medium: photo
             media: 
                 - 
-                    media: 0.jpg
+                    media: 3.jpg
                     media_caption: 
 
         - 
@@ -29,7 +29,7 @@
             medium: photo
             media: 
                 - 
-                    media: 0.jpg
+                    media: 4.jpg
                     media_caption: 
 
         - 
@@ -38,7 +38,7 @@
             medium: photo
             media: 
                 - 
-                    media: 0.jpg
+                    media: 5.jpg
                     media_caption: 
 
         - 
@@ -47,7 +47,7 @@
             medium: photo
             media: 
                 - 
-                    media: 0.jpg
+                    media: 6.jpg
                     media_caption: 
         - 
             type: TipCard
@@ -60,7 +60,7 @@
             medium: photo
             media: 
                 - 
-                    media: 0.jpg
+                    media: 8.jpg
                     media_caption: 
 
         - 
@@ -69,7 +69,7 @@
             medium: photo
             media: 
                 - 
-                    media: 0.jpg
+                    media: 9.jpg
                     media_caption: 
 
         - 

@@ -5,7 +5,7 @@
 
         - 
             type: IntroCard
-            exampleMediaPath: 0.jpg
+            exampleMediaPath: 1.jpg
             headline: Applying the Rule of Thirds
             level: Introduction
             time: 10 Minutes
@@ -20,7 +20,7 @@
             medium: photo
             media: 
                 - 
-                    media: 0.jpg
+                    media: 3.jpg
                     media_caption: © 
 
         - 
@@ -37,7 +37,7 @@
             medium: photo
             media: 
                 - 
-                    media: 0.jpg
+                    media: 6.jpg
                     media_caption: © 
 
         - 
@@ -46,7 +46,7 @@
             medium: photo
             media: 
                 - 
-                    media: 0.jpg
+                    media: 7.jpg
                     media_caption: © 
 
         - 
@@ -55,7 +55,7 @@
             medium: photo
             media: 
                 - 
-                    media: 0.jpg
+                    media: 8.jpg
                     media_caption: © 
 
         - 
@@ -69,7 +69,7 @@
             medium: photo
             media: 
                 - 
-                    media: 0.jpg
+                    media: 10.jpg
                     media_caption: 
 
         - 
