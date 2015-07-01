@@ -375,8 +375,21 @@ strings_dir = os.getcwd() + "/intermediates/org.storymaker.app/dressgate"
 do_dir()
 """
 
+"""
 print "generating content for beta paths"
 pack_dir = "beta"
+yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/" + pack_dir
+for f in os.listdir(yaml_parent_dir):
+    yaml_dir = "%s/%s" % (yaml_parent_dir, f)
+    print yaml_dir
+    json_dir = os.getcwd() + "/assets/org.storymaker.app/%s/%s" % (pack_dir, f)
+    strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/%s/%s" % (pack_dir, f)
+    do_dir()
+generate_content_index(package, pack_dir)
+"""
+
+print "generating content for cuba_photo"
+pack_dir = "cuba_photo"
 yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/" + pack_dir
 for f in os.listdir(yaml_parent_dir):
     yaml_dir = "%s/%s" % (yaml_parent_dir, f)

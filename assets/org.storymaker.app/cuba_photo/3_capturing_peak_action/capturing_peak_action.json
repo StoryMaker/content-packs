@@ -2,54 +2,16 @@
     "cards": [
         {
             "level": "Introduction", 
-            "headline": "Composition", 
+            "headline": "Capturing Peak Action", 
             "time": "10 Minutes", 
-            "exampleMediaPath": "cover.png", 
+            "exampleMediaPath": "1.jpg", 
             "type": "IntroCard", 
             "id": "intro_card_0"
         }, 
         {
-            "text": "News photos illustrate a moment in time, This lesson will teach you to compose photos for news.", 
+            "text": "A photograph must illustrate a story or scene in a single moment. To do that it has to be the right moment. This is called the moment of peak action.", 
             "type": "BasicTextCard", 
             "id": "text_card_0"
-        }, 
-        {
-            "text": "To tell a good story, a photo must organize all important elements in the frame.\tFocus on composition, timing and working the layers.", 
-            "type": "BasicTextCard", 
-            "id": "text_card_1"
-        }, 
-        {
-            "medium": "photo", 
-            "media": [
-                {
-                    "media": "1.jpg", 
-                    "media_caption": null
-                }
-            ], 
-            "header": "News Photos show must also provide context, like the location or cause of the moment captured.", 
-            "exampleMediaPath": "1.jpg", 
-            "clipType": "character", 
-            "type": "ExampleCard", 
-            "id": "preview_card_0"
-        }, 
-        {
-            "medium": "photo", 
-            "media": [
-                {
-                    "media": "2.jpg", 
-                    "media_caption": null
-                }
-            ], 
-            "header": "Composition is first determined by the rule of thirds, place important elements of the story along the intersections of the grid.", 
-            "exampleMediaPath": "2.jpg", 
-            "clipType": "character", 
-            "type": "ExampleCard", 
-            "id": "preview_card_1"
-        }, 
-        {
-            "text": "Be sure you turn on the rule of thirds grid inside your camera app.", 
-            "type": "BasicTextCard", 
-            "id": "text_card_2"
         }, 
         {
             "medium": "photo", 
@@ -59,16 +21,11 @@
                     "media_caption": null
                 }
             ], 
-            "header": "Great news photos are taken at the moment when all elements come together and the action is at most dramatic.", 
+            "header": "Good photographs are about action and emotion. The most powerful images capture the moment when action and emotions are at their visual peak.", 
             "exampleMediaPath": "3.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
-            "id": "preview_card_2"
-        }, 
-        {
-            "text": "Frame your shot and wait patiently, if possible, capture your moment a few times.", 
-            "type": "BasicTextCard", 
-            "id": "text_card_3"
+            "id": "preview_card_0"
         }, 
         {
             "medium": "photo", 
@@ -78,14 +35,109 @@
                     "media_caption": null
                 }
             ], 
-            "header": "(insert news photo example of good use of working the layers)", 
+            "header": "Look for the moment of peak action when an action completes.", 
             "exampleMediaPath": "4.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "5.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "The moment of peak action can be a powerful reaction.", 
+            "exampleMediaPath": "5.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "6.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "The moment of peak action can be an emotional interaction.", 
+            "exampleMediaPath": "6.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
             "id": "preview_card_3"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "general"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "8.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "It is important to remember that sometimes a moment of peak action is more subtle, even intimate. ", 
+            "exampleMediaPath": "8.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "9.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "To capture moments of peak action requires anticipation and positioning. Photographers spend years perfecting these skills.", 
+            "exampleMediaPath": "9.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "## Always try to:  \n&bull; Seek out places and people likely to provide moments of peak action.  \n&bull; Don't only photograph the first thing you see. Be patient and the let the action evolve.  \n&bull; If it is a long event, plan your coverage for the right moments to photograph.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "peak_action"
+            ]
+        }, 
+        {
+            "text": "Now practice shooting photos at the moment of peak action. You may need several attempts to capture action that is not blurry.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:20", 
+            "goals": [
+                "Capture peak action at a variety of distances, as Illustrated in the examples."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "id": "composition", 
-    "title": "Composition"
+    "id": "capturing_peak_action", 
+    "title": "Capturing Peak Action"
 }

@@ -8,7 +8,7 @@ import json
 
 # edit the spreadsheet: https://docs.google.com/a/scal.io/spreadsheets/d/1S_6CeqR5sfHtdp0jiSzF61liIPUR2OKzfr0JVcQsR7M/edit#gid=0
 
-with open('Tip Cards - Sheet1.csv', 'rb') as csvfile:
+with open('tips.csv', 'rb') as csvfile:
     reader = csv.reader(csvfile, delimiter=',', quotechar='"')
         
     objs = []    

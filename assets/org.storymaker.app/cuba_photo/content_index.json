@@ -1,6 +1,6 @@
 [
   {
-    "instanceFilePath": "org.storymaker.app/cuba_photo/1_applying_the_rule_of_thirds/applying_the_rule_of_thirds.json", 
+    "instanceFilePath": "org.storymaker.app/cuba_photo/1_applying_the_rule_of_thirds/applying_the_rule_of_thirds_library.json", 
     "thumbnailPath": "org.storymaker.app/cuba_photo/cover.jpg", 
     "language": "en", 
     "title": "Applying the Rule of Thirds"
@@ -16,5 +16,5 @@
     "thumbnailPath": "org.storymaker.app/cuba_photo/cover.jpg", 
     "language": "en", 
     "title": "Capturing Peak Action"
-  }, 
+  }
 ]
