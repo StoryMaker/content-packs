@@ -388,8 +388,8 @@ for f in os.listdir(yaml_parent_dir):
 generate_content_index(package, pack_dir)
 """
 
-print "generating content for cuba_photo"
-pack_dir = "cuba_photo"
+print "generating content for mobile_photo_101"
+pack_dir = "mobile_photo_101"
 yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/" + pack_dir
 for f in os.listdir(yaml_parent_dir):
     yaml_dir = "%s/%s" % (yaml_parent_dir, f)
