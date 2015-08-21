@@ -1,0 +1,69 @@
+---
+    id: create_layers_in_a_photo
+    title: Create Layers in a Photo
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: create_layers_in_a_photo.json
+    storyPathTemplateFiles:
+        posed_portraits: create_layers_in_a_photo.json
+    dependencies:
+        -
+            dependencyId: create_layers_in_a_photo
+            dependencyFile: create_layers_in_a_photo.json
+    cards:
+        -
+            type: TipCollectionHeadlessCard
+            id: "tip_collection"
+            tips: 
+                -   tags: [rule_of_thirds]
+                    text: 'Tip: Allow important subjects to complete inside the frame.'
+                -   tags: [rule_of_thirds]
+                    text: Tip: Do not cut hands or faces with the edge of the frame, if possible.
+                -   tags: [rule_of_thirds]
+                    text: Tip: Use the whole frame to tell your story. Not just the center.
+                -   tags: [rule_of_thirds]
+                    text: Tip: The horizon can be place on the top or bottom horizontal gridline.
+                -   tags: [rule_of_thirds]
+                    text: Tip: Don't crop too tightly, get close, but capture the whole subject.
+                -   tags: [layers]
+                    text: Tip: Ensure foreground objects are not too close unless you want them out of focus.
+                -   tags: [layers]
+                    text: Tip: Subjects in the background must not appear too small or their importance may be lost.
+                -   tags: [layers]
+                    text: Tip: When shooting multiple characters or objects, place one in the background to create a sense of depth.
+                -   tags: [layers]
+                    text: Tip: Distracting objects in the background can ruin a well-framed foreground.
+                -   tags: [peak_action]
+                    text: Tip: Pick your moment carefully. Avoid distracting objects or people moving through your frame.
+                -   tags: [peak_action]
+                    text: Tip: Capture a great moment, but be sure it relates clearly to your story.
+                -   tags: [peak_action]
+                    text: Tip: Repetitive actions provide the opportunity to capture the moment from different angles.
+                -   tags: [peak_action]
+                    text: Tip: Try to push the shutter button just before the intended moment, to give the camera time to react.
+                -   tags: [peak_action]
+                    text: Tip: Think about timing and location when trying to capture peak action.
+                -   tags: [general]
+                    text: Tip: Even if you will only use one image in your story, shoot a variety of images to choose from.
+                -   tags: [general]
+                    text: 'Tip: "If your picture''s not good enough, you''re not close enough." - Robert Capa'
+                -   tags: [general]
+                    text: Tip: Even if time is limited, make a plan, do not shoot everything you see.
+                -   tags: [general]
+                    text: Tip: Get as close to your subject as possible.
+                -   tags: [general]
+                    text: Tip: Are there any distracting objects between you and subject in your frame?
+                -   tags: [general]
+                    text: 'Tip: Images on a mobile will be small. Compose with that in mind.'
+                -   tags: [general]
+                    text: Tip: Can you change your angle to include more context?
+                -   tags: [general]
+                    text: Tip: Good photography is all about light. Are you using available light as best you can?
+                -   tags: [general]
+                    text: 'Tip: the viewer won't know anything about your story that you don't show them in the photograph.'
+        
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: creating_layers_in_a_photo

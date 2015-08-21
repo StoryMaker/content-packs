@@ -1,0 +1,149 @@
+---
+    id: capture_peak_action_for_better_photos
+    title: Capture Peak Action for Better Photos
+    cards:
+
+        - 
+            type: IntroCard
+            exampleMediaPath: 1.jpg
+            headline: Capture Peak Action for Better Photos
+            level: Introduction
+            time: 5 Minutes
+
+        - 
+            type: TextCard
+            text: "A photograph must illustrate a story or scene in a single moment. To do that it has to be the right moment. This is called the moment of peak action."
+
+        - 
+            type: TextCard
+            text: "Good photographs are about action and emotion. The most powerful images capture the moment at a scene when action and emotions are at their most visually expressive."
+
+        - 
+            type: PreviewCard
+            title: "The subject is shown while shouting - the moment of peak action."
+            medium: photo
+            media: 
+                - 
+                    media: 3.jpg
+                    media_caption: 
+
+        - 
+            type: PreviewCard
+            title: "Look for the moment of peak action when a behavior completes."
+            medium: photo
+            media: 
+                - 
+                    media: 0.jpg
+                    media_caption: 
+
+        - 
+            type: PreviewCard
+            title: "Peak action is shown here at the moment the subject takes the juice."
+            medium: photo
+            media: 
+                - 
+                    media: 4.jpg
+                    media_caption: 
+
+        - 
+            type: TextCard
+            text: "The moment of peak action can be a powerful reaction."
+
+        - 
+            type: PreviewCard
+            title: "Peak action is shown here at the moment the audience reacts."
+            medium: photo
+            media: 
+                - 
+                    media: 5.jpg
+                    media_caption: 
+
+        - 
+            type: TextCard
+            text: "The moment of peak action can be an emotional interaction."
+
+        - 
+            type: PreviewCard
+            title: "Peak action is here in the the player’s frustration"
+            medium: photo
+            media: 
+                - 
+                    media: 6.jpg
+                    media_caption: 
+
+        - 
+            type: TipCard
+            tags:
+                - general
+
+        - 
+            type: TextCard
+            text: "It is important to remember that sometimes a moment of peak action is more subtle, even intimate."
+
+        - 
+            type: PreviewCard
+            title: "The silhouette captures a moment of peak action."
+            medium: photo
+            media: 
+                - 
+                    media: 8.jpg
+                    media_caption: 
+
+        - 
+            type: TextCard
+            text: "To capture moments of peak action requires anticipation and positioning."
+
+        - 
+            type: PreviewCard
+            title: "Photographers spend years perfecting these skills."
+            medium: photo
+            media: 
+                - 
+                    media: 0.jpg
+                    media_caption: 
+
+        - 
+            type: MarkDownCard
+            body: |   
+                ## Always try to:  
+                &bull; Seek out places and people likely to provide moments of peak action.  
+                &bull; Don't only photograph the first thing you see. Be patient and the let the action evolve.  
+                &bull; If it is a long event, plan your coverage for the right moments to photograph.",  
+
+        - 
+            type: TipCard
+            tags:
+                - peak_action
+
+        - 
+            type: TextCard
+            text: "Practice shooting photos at the moment of peak action. It may take several tries to get it right. Photographing movement with a mobile device can be especially difficult. Be sure you have enough light."
+
+        - 
+            type: TextCard
+            text: "Check out the lesson on light: [insert title] for more information."
+
+        - 
+            type: MilestoneCard
+            id: milestone_start_creating
+            header: Next
+            text: I'm ready to try!
+            icon: down
+            references:
+                - capture_peak_action_for_better_photos::medium_card::value
+
+        - 
+            type: ClipCard
+            medium: photo
+            goals: 
+                - "Capture peak action from a variety of angles, as Illustrated in the examples."
+            clipType: Character
+            length: 0:20
+            references:
+                - capture_peak_action_for_better_photos::milestone_start_creating::value::true
+
+        - 
+            type: ReviewCard
+            medium: photo
+            references:
+                - capture_peak_action_for_better_photos::milestone_start_creating::value::true
