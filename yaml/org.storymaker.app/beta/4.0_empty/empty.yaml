@@ -10,7 +10,7 @@
 
         -
             type: TextCard
-            text: "This vertical collection of "cards" is called a "path". The cards are different in every story.
+            text: 'This vertical collection of "cards" is called a "path". The cards are different in every story.'
 
         -
             type: TextCard
@@ -29,13 +29,13 @@
 
         -
             type: HowToCard
-            text: "Excellent, you just selected your first "milestone" card. These progress you through the path, opening up new parts as you go. This is called a "How To Card" You'll see them around the app to help you out."
+            text: 'Excellent, you just selected your first "milestone" card. These progress you through the path, opening up new parts as you go. This is called a "How To Card" You''ll see them around the app to help you out.'
             references:
                 - empty::ms_clip1::value::true
 
         -
             type: TextCard
-            text: "Next up are "Clip Cards", these cards have suggested goals for you to help you produce a story."
+            text: 'Next up are "Clip Cards", these cards have suggested goals for you to help you produce a story.'
             references:
                 - empty::ms_clip1::value::true
 
@@ -117,7 +117,7 @@
 
         -
             type: HowToCard
-            text: "This is the "Review Card" it allows you to review your video, change the order, add a narration if you like, and publish it when you're ready."
+            text: 'This is the "Review Card" it allows you to review your video, change the order, add a narration if you like, and publish it when you''re ready.'
             references:
                 - empty::ms_review::value::true
 
