@@ -1,149 +1,149 @@
 {
     "dependencies": [
         {
-            "dependencyId": "creating_layers_in_a_photo", 
-            "dependencyFile": "creating_layers_in_a_photo.json"
+            "dependencyId": "create_layers_in_a_photo", 
+            "dependencyFile": "create_layers_in_a_photo.json"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "title": "Creating Layers in a Photo", 
+    "title": "Create Layers in a Photo", 
     "cards": [
         {
             "tips": [
                 {
-                    "text": "Allow important subjects to complete inside the frame. ", 
+                    "text": "Tip: Allow important subjects to complete inside the frame.", 
                     "tags": [
                         "rule_of_thirds"
                     ]
                 }, 
                 {
-                    "text": "Do not cut hands or faces with the edge of the frame, if possible.", 
+                    "text": "Tip: Do not cut hands or faces with the edge of the frame, if possible.", 
                     "tags": [
                         "rule_of_thirds"
                     ]
                 }, 
                 {
-                    "text": "Use the whole frame to tell your story. Not just the center.", 
+                    "text": "Tip: Use the whole frame to tell your story. Not just the center.", 
                     "tags": [
                         "rule_of_thirds"
                     ]
                 }, 
                 {
-                    "text": "The horizon can be place on the top or bottom horizontal gridline.", 
+                    "text": "Tip: The horizon can be place on the top or bottom horizontal gridline.", 
                     "tags": [
                         "rule_of_thirds"
                     ]
                 }, 
                 {
-                    "text": "Don't crop too tightly, get close, but capture the whole subject.", 
+                    "text": "Tip: Don't crop too tightly, get close, but capture the whole subject.", 
                     "tags": [
                         "rule_of_thirds"
                     ]
                 }, 
                 {
-                    "text": "Ensure foreground objects are not too close unless you want them out of focus.", 
+                    "text": "Tip: Ensure foreground objects are not too close unless you want them out of focus.", 
                     "tags": [
                         "layers"
                     ]
                 }, 
                 {
-                    "text": "Subjects in the background must not appear too small or their importance may be lost.", 
+                    "text": "Tip: Subjects in the background must not appear too small or their importance may be lost.", 
                     "tags": [
                         "layers"
                     ]
                 }, 
                 {
-                    "text": "When shooting multiple characters or objects, place one in the background to create a sense of depth.", 
+                    "text": "Tip: When shooting multiple characters or objects, place one in the background to create a sense of depth.", 
                     "tags": [
                         "layers"
                     ]
                 }, 
                 {
-                    "text": "Distracting objects in the background can ruin a well-framed foreground.", 
+                    "text": "Tip: Distracting objects in the background can ruin a well-framed foreground.", 
                     "tags": [
                         "layers"
                     ]
                 }, 
                 {
-                    "text": "Pick your moment carefully. Avoid distracting objects or people moving through your frame.", 
+                    "text": "Tip: Pick your moment carefully. Avoid distracting objects or people moving through your frame.", 
                     "tags": [
                         "peak_action"
                     ]
                 }, 
                 {
-                    "text": "Capture a great moment, but be sure it relates clearly to your story.", 
+                    "text": "Tip: Capture a great moment, but be sure it relates clearly to your story.", 
                     "tags": [
                         "peak_action"
                     ]
                 }, 
                 {
-                    "text": "Repetitive actions provide the opportunity to capture the moment from different angles.", 
+                    "text": "Tip: Repetitive actions provide the opportunity to capture the moment from different angles.", 
                     "tags": [
                         "peak_action"
                     ]
                 }, 
                 {
-                    "text": "Try to push the shutter button just before the intended moment, to give the camera time to react.", 
+                    "text": "Tip: Try to push the shutter button just before the intended moment, to give the camera time to react.", 
                     "tags": [
                         "peak_action"
                     ]
                 }, 
                 {
-                    "text": "Think about timing and location when trying to capture peak action.", 
+                    "text": "Tip: Think about timing and location when trying to capture peak action.", 
                     "tags": [
                         "peak_action"
                     ]
                 }, 
                 {
-                    "text": "Even if you will only use one image in your story, shoot a variety of images to choose from.", 
+                    "text": "Tip: Even if you will only use one image in your story, shoot a variety of images to choose from.", 
                     "tags": [
                         "general"
                     ]
                 }, 
                 {
-                    "text": "\"If your picture's not good enough, you're not close enough.\" -Robert Capa", 
+                    "text": "Tip: \"If your picture's not good enough, you're not close enough.\" - Robert Capa", 
                     "tags": [
                         "general"
                     ]
                 }, 
                 {
-                    "text": "Even if time is limited, make a plan, do not shoot everything you see.", 
+                    "text": "Tip: Even if time is limited, make a plan, do not shoot everything you see.", 
                     "tags": [
                         "general"
                     ]
                 }, 
                 {
-                    "text": "Get as close to your subject as possible.", 
+                    "text": "Tip: Get as close to your subject as possible.", 
                     "tags": [
                         "general"
                     ]
                 }, 
                 {
-                    "text": "Are there any distracting objects between you and subject in your frame?", 
+                    "text": "Tip: Are there any distracting objects between you and subject in your frame?", 
                     "tags": [
                         "general"
                     ]
                 }, 
                 {
-                    "text": "Images on a mobile will be small. Compose with that in mind. ", 
+                    "text": "Tip: Images on a mobile will be small. Compose with that in mind.", 
                     "tags": [
                         "general"
                     ]
                 }, 
                 {
-                    "text": "Can you change your angle to include more context?", 
+                    "text": "Tip: Can you change your angle to include more context?", 
                     "tags": [
                         "general"
                     ]
                 }, 
                 {
-                    "text": "Good photography is all about light. Are you using available light as best you can?", 
+                    "text": "Tip: Good photography is all about light. Are you using available light as best you can?", 
                     "tags": [
                         "general"
                     ]
                 }, 
                 {
-                    "text": "Remember: the viewer won't know anything about your story that you don't show them in the photograph.", 
+                    "text": "Tip: the viewer won't know anything about your story that you don't show them in the photograph.", 
                     "tags": [
                         "general"
                     ]
@@ -159,9 +159,9 @@
             "target": "creating_layers_in_a_photo"
         }
     ], 
-    "currentStoryPathFile": "creating_layers_in_a_photo.json", 
+    "currentStoryPathFile": "create_layers_in_a_photo.json", 
     "storyPathTemplateFiles": {
-        "posed_portraits": "creating_layers_in_a_photo.json"
+        "posed_portraits": "create_layers_in_a_photo.json"
     }, 
-    "id": "creating_layers_in_a_photo"
+    "id": "create_layers_in_a_photo"
 }

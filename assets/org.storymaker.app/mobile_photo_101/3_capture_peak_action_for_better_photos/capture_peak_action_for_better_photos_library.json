@@ -101,7 +101,7 @@
                     ]
                 }, 
                 {
-                    "text": "\"If your picture's not good enough, you're not close enough.\" -Robert Capa", 
+                    "text": "Tip: \"If your picture's not good enough, you're not close enough.\" - Robert Capa", 
                     "tags": [
                         "general"
                     ]
@@ -125,7 +125,7 @@
                     ]
                 }, 
                 {
-                    "text": "Tip: Images on a mobile will be small. Compose with that in mind. ", 
+                    "text": "Tip: Images on a mobile will be small. Compose with that in mind.", 
                     "tags": [
                         "general"
                     ]
@@ -156,7 +156,7 @@
             "action": "LOAD", 
             "type": "LoaderHeadlessCard", 
             "id": "loader_card", 
-            "target": "capture_peak_action_for_better_photos"
+            "target": "capturing_peak_action"
         }
     ], 
     "currentStoryPathFile": "capture_peak_action_for_better_photos.json", 

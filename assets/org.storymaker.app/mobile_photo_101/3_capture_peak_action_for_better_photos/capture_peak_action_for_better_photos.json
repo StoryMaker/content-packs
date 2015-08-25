@@ -2,8 +2,8 @@
     "cards": [
         {
             "level": "Introduction", 
-            "headline": "Capturing Peak Action", 
-            "time": "10 Minutes", 
+            "headline": "Capture Peak Action for Better Photos", 
+            "time": "5 Minutes", 
             "exampleMediaPath": "1.jpg", 
             "type": "IntroCard", 
             "id": "intro_card_0"
@@ -14,6 +14,11 @@
             "id": "text_card_0"
         }, 
         {
+            "text": "Good photographs are about action and emotion. The most powerful images capture the moment at a scene when action and emotions are at their most visually expressive.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
             "medium": "photo", 
             "media": [
                 {
@@ -21,7 +26,7 @@
                     "media_caption": null
                 }
             ], 
-            "header": "Good photographs are about action and emotion. The most powerful images capture the moment when action and emotions are at their visual peak.", 
+            "header": "The subject is shown while shouting - the moment of peak action.", 
             "exampleMediaPath": "3.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
@@ -31,15 +36,34 @@
             "medium": "photo", 
             "media": [
                 {
+                    "media": "0.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Look for the moment of peak action when a behavior completes.", 
+            "exampleMediaPath": "0.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
                     "media": "4.jpg", 
                     "media_caption": null
                 }
             ], 
-            "header": "Look for the moment of peak action when an action completes.", 
+            "header": "Peak action is shown here at the moment the subject takes the juice.", 
             "exampleMediaPath": "4.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
-            "id": "preview_card_1"
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "The moment of peak action can be a powerful reaction.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
         }, 
         {
             "medium": "photo", 
@@ -49,11 +73,16 @@
                     "media_caption": null
                 }
             ], 
-            "header": "The moment of peak action can be a powerful reaction.", 
+            "header": "Peak action is shown here at the moment the audience reacts.", 
             "exampleMediaPath": "5.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
-            "id": "preview_card_2"
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "The moment of peak action can be an emotional interaction.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
         }, 
         {
             "medium": "photo", 
@@ -63,11 +92,11 @@
                     "media_caption": null
                 }
             ], 
-            "header": "The moment of peak action can be an emotional interaction.", 
+            "header": "Peak action is here in the the player\u2019s frustration", 
             "exampleMediaPath": "6.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
-            "id": "preview_card_3"
+            "id": "preview_card_4"
         }, 
         {
             "type": "TipCard", 
@@ -77,6 +106,11 @@
             ]
         }, 
         {
+            "text": "It is important to remember that sometimes a moment of peak action is more subtle, even intimate.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
             "medium": "photo", 
             "media": [
                 {
@@ -84,28 +118,33 @@
                     "media_caption": null
                 }
             ], 
-            "header": "It is important to remember that sometimes a moment of peak action is more subtle, even intimate. ", 
+            "header": "The silhouette captures a moment of peak action.", 
             "exampleMediaPath": "8.jpg", 
-            "clipType": "character", 
-            "type": "ExampleCard", 
-            "id": "preview_card_4"
-        }, 
-        {
-            "medium": "photo", 
-            "media": [
-                {
-                    "media": "9.jpg", 
-                    "media_caption": null
-                }
-            ], 
-            "header": "To capture moments of peak action requires anticipation and positioning. Photographers spend years perfecting these skills.", 
-            "exampleMediaPath": "9.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_5"
         }, 
         {
-            "text": "## Always try to:  \n&bull; Seek out places and people likely to provide moments of peak action.  \n&bull; Don't only photograph the first thing you see. Be patient and the let the action evolve.  \n&bull; If it is a long event, plan your coverage for the right moments to photograph.  \n", 
+            "text": "To capture moments of peak action requires anticipation and positioning.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "0.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Photographers spend years perfecting these skills.", 
+            "exampleMediaPath": "0.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "text": "## Always try to:  \n&bull; Seek out places and people likely to provide moments of peak action.  \n&bull; Don't only photograph the first thing you see. Be patient and the let the action evolve.  \n&bull; If it is a long event, plan your coverage for the right moments to photograph.\",  \n", 
             "type": "MarkdownCard", 
             "id": "markdown_card_0"
         }, 
@@ -117,27 +156,48 @@
             ]
         }, 
         {
-            "text": "Now practice shooting photos at the moment of peak action. You may need several attempts to capture action that is not blurry.", 
+            "text": "Practice shooting photos at the moment of peak action. It may take several tries to get it right. Photographing movement with a mobile device can be especially difficult. Be sure you have enough light.", 
             "type": "BasicTextCard", 
-            "id": "text_card_1"
+            "id": "text_card_6"
         }, 
         {
-            "medium": "photo", 
+            "text": "Check out the lesson on light: [insert title] for more information.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7"
+        }, 
+        {
+            "header": "Next", 
+            "references": [
+                "capture_peak_action_for_better_photos::medium_card::value"
+            ], 
+            "text": "I'm ready to try!", 
+            "type": "ButtonCard", 
+            "id": "milestone_start_creating", 
+            "icon": "down"
+        }, 
+        {
             "length": "0:20", 
+            "medium": "photo", 
+            "references": [
+                "capture_peak_action_for_better_photos::milestone_start_creating::value::true"
+            ], 
             "goals": [
-                "Capture peak action at a variety of distances, as Illustrated in the examples."
+                "Capture peak action from a variety of angles, as Illustrated in the examples."
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
             "id": "clip_card_0"
         }, 
         {
-            "medium": "photo", 
             "type": "ReviewCard", 
+            "medium": "photo", 
+            "references": [
+                "capture_peak_action_for_better_photos::milestone_start_creating::value::true"
+            ], 
             "id": "review_card_0"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "id": "capturing_peak_action", 
-    "title": "Capturing Peak Action"
+    "id": "capture_peak_action_for_better_photos", 
+    "title": "Capture Peak Action for Better Photos"
 }

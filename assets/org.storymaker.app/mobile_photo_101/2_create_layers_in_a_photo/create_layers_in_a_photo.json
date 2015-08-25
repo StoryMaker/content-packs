@@ -2,16 +2,21 @@
     "cards": [
         {
             "level": "Introduction", 
-            "headline": "Creating Layers in a Photo", 
-            "time": "10 Minutes", 
+            "headline": "Create Layers in a Photo", 
+            "time": "5-10 Minutes", 
             "exampleMediaPath": "1.jpg", 
             "type": "IntroCard", 
             "id": "intro_card_0"
         }, 
         {
-            "text": "Compose your photos with layers to create depth. Layers help the two dimensional space of a photograph better represent the three-dimensional world.", 
+            "text": "Layers help the two dimensional space of a photograph better represent the three-dimensional world.", 
             "type": "BasicTextCard", 
             "id": "text_card_0"
+        }, 
+        {
+            "text": "To create depth in a photo, compose in distinct layers: foreground and background. Sometimes a third layer, a middle ground, is used.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
         }, 
         {
             "medium": "photo", 
@@ -21,11 +26,16 @@
                     "media_caption": null
                 }
             ], 
-            "header": "To create depth in a photo, compose in distinct layers: foreground and background. Sometimes a third layer, a middle ground, is used.", 
+            "header": "TK", 
             "exampleMediaPath": "3.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
+        }, 
+        {
+            "text": "The main subject of your photo can be a person or an object. It should be placed on one distinct layer of the frame.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
         }, 
         {
             "medium": "photo", 
@@ -35,11 +45,16 @@
                     "media_caption": null
                 }
             ], 
-            "header": "The main subject of your photo can be a person or an object. It should be placed on one distinct layer of the frame.", 
+            "header": "In this photo the foreground is in color.", 
             "exampleMediaPath": "4.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_1"
+        }, 
+        {
+            "text": "The second layer, often the background layer, can be composed to help the viewer better understand a subject's environment and more about the story.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
         }, 
         {
             "medium": "photo", 
@@ -49,22 +64,27 @@
                     "media_caption": null
                 }
             ], 
-            "header": "The second layer, often the background layer, can be composed to help the viewer better understand the subject's environment and the story.", 
+            "header": "In this photo, the background is in color", 
             "exampleMediaPath": "5.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_2"
         }, 
         {
+            "text": "The most basic application of this idea for photojournalism is to create two distinct layers: a subject layer and a second layer that provides context to the story.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
             "medium": "photo", 
             "media": [
                 {
-                    "media": "6.jpg", 
+                    "media": "0.jpg", 
                     "media_caption": null
                 }
             ], 
-            "header": "The most basic application of this idea for photojournalism is to create two distinct layers: a subject layer and a second layer that provides context to the story.", 
-            "exampleMediaPath": "6.jpg", 
+            "header": "In this photo the subject layer is in color.", 
+            "exampleMediaPath": "0.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_3"
@@ -77,6 +97,11 @@
             ]
         }, 
         {
+            "text": "Sometimes it can be effective to reverse the subject and context layers.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }, 
+        {
             "medium": "photo", 
             "media": [
                 {
@@ -84,22 +109,27 @@
                     "media_caption": null
                 }
             ], 
-            "header": "Sometimes it can be effective to reverse the subject and context layers.", 
+            "header": "You can emphasize the context of your story in an image through where you place the layer.", 
             "exampleMediaPath": "8.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_4"
         }, 
         {
+            "text": "Complex photographs may have three layers, each illustrating a different element of the story.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6"
+        }, 
+        {
             "medium": "photo", 
             "media": [
                 {
-                    "media": "9.jpg", 
+                    "media": "0.jpg", 
                     "media_caption": null
                 }
             ], 
-            "header": "Complex photographs may have three layers, each illustrating a different element of the story.", 
-            "exampleMediaPath": "9.jpg", 
+            "header": "TK.", 
+            "exampleMediaPath": "0.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_5"
@@ -112,13 +142,42 @@
             ]
         }, 
         {
-            "text": "Practice shooting photos with distinct layers, one with a clear subject and another that provides context.", 
+            "text": "Next, see if you can create photos that use layers to improve your composition.", 
             "type": "BasicTextCard", 
-            "id": "text_card_1"
+            "id": "text_card_7"
         }, 
         {
-            "medium": "photo", 
+            "header": "Next", 
+            "references": [
+                "create_layers_in_a_photo::medium_card::value"
+            ], 
+            "text": "I'm ready to try!", 
+            "type": "ButtonCard", 
+            "id": "milestone_start_creating", 
+            "icon": "down"
+        }, 
+        {
+            "text": "The card below is a clip card. Select \u201cCapture\u201d to launch the camera and take a photo.", 
+            "type": "HowToCard", 
+            "id": "howto_card_0", 
+            "references": [
+                "create_layers_in_a_photo::milestone_start_creating::value::true"
+            ]
+        }, 
+        {
+            "text": "Practice taking photos with two distinct layers, one with a clear subject and another that provides context. Take several photos and work on different ways to use layers", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8", 
+            "references": [
+                "create_layers_in_a_photo::milestone_start_creating::value::true"
+            ]
+        }, 
+        {
             "length": "0:20", 
+            "medium": "photo", 
+            "references": [
+                "create_layers_in_a_photo::milestone_start_creating::value::true"
+            ], 
             "goals": [
                 "Place the subject or character in a distinct layer from the rest of the image."
             ], 
@@ -127,12 +186,15 @@
             "id": "clip_card_0"
         }, 
         {
-            "medium": "photo", 
             "type": "ReviewCard", 
+            "medium": "photo", 
+            "references": [
+                "create_layers_in_a_photo::milestone_start_creating::value::true"
+            ], 
             "id": "review_card_0"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "id": "creating_layers_in_a_photo", 
-    "title": "Creating Layers in a Photo"
+    "id": "create_layers_in_a_photo", 
+    "title": "Create Layers in a Photo"
 }

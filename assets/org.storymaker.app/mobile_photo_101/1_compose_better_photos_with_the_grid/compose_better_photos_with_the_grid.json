@@ -2,16 +2,21 @@
     "cards": [
         {
             "level": "Introduction", 
-            "headline": "Applying the Rule of Thirds", 
-            "time": "10 Minutes", 
+            "headline": "Compose Better Photos with the Grid", 
+            "time": "5-10 Minutes", 
             "exampleMediaPath": "1.jpg", 
             "type": "IntroCard", 
             "id": "intro_card_0"
         }, 
         {
-            "text": "The rule of thirds is the most basic principle of composition a photographer needs to understand.", 
+            "text": "Thinking of a photo as a grid is the most basic concept for composition a photographer needs to understand.", 
             "type": "BasicTextCard", 
             "id": "text_card_0"
+        }, 
+        {
+            "text": "Think of your photo as if it is made up of nine equal rectangles. Strong visuals use all the rectangles in the grid to tell the story.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
         }, 
         {
             "medium": "photo", 
@@ -21,21 +26,31 @@
                     "media_caption": "\u00a9"
                 }
             ], 
-            "header": "Think of the frame as grid made up of nine rectangles. Strong visuals use all the rectangles in the grid to tell the story.", 
+            "header": "Placing the grid on this photo divides one image into nine equal areas.", 
             "exampleMediaPath": "3.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_0"
         }, 
         {
+            "text": "Most smartphones allow you to turn this grid on in your Camera app. Use the grid when practicing these lessons.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
             "text": "Do not simply place your subject in the middle of the photograph with no thought to the rest of the grid.", 
             "type": "BasicTextCard", 
-            "id": "text_card_1"
+            "id": "text_card_3"
         }, 
         {
             "text": "The horizontal grid lines are sometimes called the 'eye line' or 'horizon line.' These lines are important to composing a portrait or a landscape.", 
             "type": "BasicTextCard", 
-            "id": "text_card_2"
+            "id": "text_card_4"
+        }, 
+        {
+            "text": "If the photo is a landscape, the element that defines the horizon is often placed on either the top or bottom 'horizon line.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
         }, 
         {
             "medium": "photo", 
@@ -45,11 +60,16 @@
                     "media_caption": "\u00a9"
                 }
             ], 
-            "header": "If the photo is a landscape, the element that defines the horizon is often placed on either the top or bottom 'horizon line.'", 
+            "header": "The blue line shows the horizon line in a photo of a place.", 
             "exampleMediaPath": "6.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_1"
+        }, 
+        {
+            "text": "If the photo is a portrait, the subject's eyes are often placed on either the top or bottom 'eye line.'", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6"
         }, 
         {
             "medium": "photo", 
@@ -59,11 +79,16 @@
                     "media_caption": "\u00a9"
                 }
             ], 
-            "header": "If the photo is a portrait, the subject's eyes are often placed on either the top or bottom 'eye line.'", 
+            "header": "The blue line shows the eye line in a portrait photo.", 
             "exampleMediaPath": "7.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_2"
+        }, 
+        {
+            "text": "The vertical lines and horizontal lines work together to define the frame. Place the most important elements of the composition at the the intersections of the lines. These are the points to which a viewer's eyes naturally land in a frame.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7"
         }, 
         {
             "medium": "photo", 
@@ -73,7 +98,7 @@
                     "media_caption": "\u00a9"
                 }
             ], 
-            "header": "The vertical lines and horizontal lines work together to define the frame. Place the most important elements of the composition at the the intersections of the lines. These are the points to which a viewer's eyes naturally land in a frame.", 
+            "header": "Note how the signs work to emphasize the grid format.", 
             "exampleMediaPath": "8.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
@@ -87,15 +112,20 @@
             ]
         }, 
         {
+            "text": "Fill the entire frame with compelling visual information. Use the grid to organize that information.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8"
+        }, 
+        {
             "medium": "photo", 
             "media": [
                 {
-                    "media": "10.jpg", 
+                    "media": "0.jpg", 
                     "media_caption": null
                 }
             ], 
-            "header": "Fill the entire frame with compelling visual information. Use the grid to organize that information.", 
-            "exampleMediaPath": "10.jpg", 
+            "header": "Rectangles in color show how visual information is organized on the grid.", 
+            "exampleMediaPath": "0.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_4"
@@ -108,6 +138,40 @@
             ]
         }, 
         {
+            "text": "Be careful of the edges of your frame. Try and have important shapes complete themes within the frame.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_9"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "0.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "In this photo [subject] completes entirely within the frame.", 
+            "exampleMediaPath": "0.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "Next, see if you can compose better photos by thinking of the frame as a grid made up of nine rectangles.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_10"
+        }, 
+        {
+            "header": "Next", 
+            "references": [
+                "compose_better_photos_with_the_grid::medium_card::value"
+            ], 
+            "text": "I'm ready to try!", 
+            "type": "ButtonCard", 
+            "id": "milestone_start_creating", 
+            "icon": "down"
+        }, 
+        {
             "medium": "photo", 
             "media": [
                 {
@@ -116,14 +180,28 @@
                 }
             ], 
             "header": "If possible turn on the grid feature in your mobile camera app.", 
+            "references": [
+                "compose_better_photos_with_the_grid::milestone_start_creating::value::true"
+            ], 
             "exampleMediaPath": "rule_of_thirds_icons.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
-            "id": "preview_card_5"
+            "id": "preview_card_6"
         }, 
         {
-            "medium": "photo", 
+            "text": "The card below is a clip card. Select \u201cCapture\u201d to launch the camera and take a photo.", 
+            "type": "HowToCard", 
+            "id": "howto_card_0", 
+            "references": [
+                "compose_better_photos_with_the_grid::milestone_start_creating::value::true"
+            ]
+        }, 
+        {
             "length": "0:20", 
+            "medium": "photo", 
+            "references": [
+                "compose_better_photos_with_the_grid::milestone_start_creating::value::true"
+            ], 
             "goals": [
                 "Fill the entire frame and use the lines and intersections in your composition."
             ], 
@@ -132,12 +210,15 @@
             "id": "clip_card_0"
         }, 
         {
-            "medium": "photo", 
             "type": "ReviewCard", 
+            "medium": "photo", 
+            "references": [
+                "compose_better_photos_with_the_grid::milestone_start_creating::value::true"
+            ], 
             "id": "review_card_0"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "id": "applying_the_rule_of_thirds", 
-    "title": "Applying the Rule of Thirds"
+    "id": "compose_better_photos_with_the_grid", 
+    "title": "Compose Better Photos with the Grid"
 }
