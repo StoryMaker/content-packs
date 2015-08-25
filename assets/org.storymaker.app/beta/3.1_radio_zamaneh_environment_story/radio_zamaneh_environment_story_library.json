@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "radio_zamaneh_environment_story", 
+            "dependencyFile": "radio_zamaneh_environment_story.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Radio Zamaneh's environment story", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "radio_zamaneh_environment_story"
+        }
+    ], 
+    "currentStoryPathFile": "radio_zamaneh_environment_story.json", 
+    "storyPathTemplateFiles": {
+        "radio_zamaneh_environment_story": "radio_zamaneh_environment_story.json"
+    }, 
+    "id": "radio_zamaneh_environment_story"
+}

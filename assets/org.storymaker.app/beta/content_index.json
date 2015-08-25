@@ -64,5 +64,23 @@
     "thumbnailPath": "org.storymaker.app/beta/2.0_ijf15/cover.jpg", 
     "language": "en", 
     "title": "IJF15 Experience"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/beta/3.0_radio_zamaneh_mentoring_1/radio_zamaneh_mentoring_1_library.json", 
+    "thumbnailPath": "org.storymaker.app/beta/cover.png", 
+    "language": "en", 
+    "title": "Radio Zamaneh Mentoring Assignment 1"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/beta/3.1_radio_zamaneh_environment_story/radio_zamaneh_environment_story_library.json", 
+    "thumbnailPath": "org.storymaker.app/beta/cover.png", 
+    "language": "en", 
+    "title": "Radio Zamaneh's environment story"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/beta/4.0_empty/empty_library.json", 
+    "thumbnailPath": "org.storymaker.app/beta/cover.png", 
+    "language": "en", 
+    "title": "Empty"
   }
 ]

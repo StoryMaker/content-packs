@@ -1,0 +1,18 @@
+---
+  id: radio_zamaneh_mentoring_1
+  title: "Radio Zamaneh Mentoring Assignment 1"
+  storyPathTemplateFiles: 
+    radio_zamaneh_mentoring_1: "radio_zamaneh_mentoring_1.json"
+  dependencies: 
+    - 
+      dependencyId: "radio_zamaneh_mentoring_1"
+      dependencyFile: "radio_zamaneh_mentoring_1.json"
+  classPackage: "scal.io.liger.model"
+  cards: 
+    - 
+      action: "LOAD"
+      type: "LoaderHeadlessCard"
+      id: "loader_card"
+      target: "radio_zamaneh_mentoring_1"
+  currentStoryPathFile: "radio_zamaneh_mentoring_1.json"
+
