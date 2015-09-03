@@ -68,7 +68,7 @@
 
         -
             type: TextCard
-            text: 'When you're telling a story with only three clips, it helps when they're each unique.'
+            text: 'When you''re telling a story with only three clips, it helps when they''re each unique.'
             references:
                 - empty::ms_clip2_3::value::true
 
