@@ -15,7 +15,12 @@
         -
             type: TextCard
             text: 'This path will walk you through the basic features of StoryMaker while you make your first story.'
-
+    
+        -
+            type: MediumCard
+            id: medium_card
+            header: Select your Medium
+            
         -
             type: MilestoneCard
             id: ms_clip1
@@ -29,7 +34,7 @@
 
         -
             type: HowToCard
-            text: 'Excellent, you just selected your first milestone card. These progress you through the path, opening up new parts as you go. This is called a How To Card You'll see them around the app to help you out.'
+            text: 'Excellent, you just selected your first milestone card. These progress you through the path, opening up new parts as you go. This is called a How To Card You''ll see them around the app to help you out.'
             references:
                 - empty::ms_clip1::value::true
 
@@ -41,6 +46,19 @@
 
         -
             type: ClipCard
+            id: clip_audio_1
+            medium: audio
+            goals:
+                - Capture an action you'd like to tell a story about.
+            clipType: Action
+            length: 0:15
+            references:
+                - empty::ms_clip1::value::true
+                - empty::medium_card::value::audio
+
+        -
+            type: ClipCard
+            id: clip_video_1
             medium: video
             goals:
                 - Capture an action you'd like to tell a story about.
@@ -48,6 +66,19 @@
             length: 0:15
             references:
                 - empty::ms_clip1::value::true
+                - empty::medium_card::value::video
+
+        -
+            type: ClipCard
+            id: clip_photo_1
+            medium: photo
+            goals:
+                - Capture an action you'd like to tell a story about.
+            clipType: Action
+            length: 0:15
+            references:
+                - empty::ms_clip1::value::true
+                - empty::medium_card::value::photo
 
         -
             type: MilestoneCard
@@ -120,11 +151,26 @@
             text: 'This is the Review Card it allows you to review your video, change the order, add a narration if you like, and publish it when you are ready.'
             references:
                 - empty::ms_review::value::true
-
-        -
+                
+        - 
             type: ReviewCard
             medium: video
             references:
+                - empty::clip_video_0::value
+                - empty::ms_review::value::true
+
+        - 
+            type: ReviewCard
+            medium: audio
+            references:
+                - empty::clip_audio_0::value
+                - empty::ms_review::value::true
+
+        - 
+            type: ReviewCard
+            medium: photo
+            references:
+                - empty::clip_photo_0::value
                 - empty::ms_review::value::true
 
         -

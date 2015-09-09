@@ -16,6 +16,11 @@
             "id": "text_card_1"
         }, 
         {
+            "header": "Select your Medium", 
+            "type": "MediumCard", 
+            "id": "medium_card"
+        }, 
+        {
             "header": "Next", 
             "references": [
                 "empty::medium_card::value"
@@ -26,7 +31,7 @@
             "icon": "down"
         }, 
         {
-            "text": "Excellent, you just selected your first \"milestone\" card. These progress you through the path, opening up new parts as you go. This is called a \"How To Card\" You'll see them around the app to help you out.", 
+            "text": "Excellent, you just selected your first milestone card. These progress you through the path, opening up new parts as you go. This is called a How To Card You'll see them around the app to help you out.", 
             "type": "HowToCard", 
             "id": "howto_card_1", 
             "references": [
@@ -34,7 +39,7 @@
             ]
         }, 
         {
-            "text": "Next up are \"Clip Cards\", these cards have suggested goals for you to help you produce a story.", 
+            "text": "Next up are Clip Cards, these cards have suggested goals for you to help you produce a story.", 
             "type": "BasicTextCard", 
             "id": "text_card_2", 
             "references": [
@@ -43,16 +48,45 @@
         }, 
         {
             "length": "0:15", 
-            "medium": "video", 
+            "medium": "audio", 
             "references": [
-                "empty::ms_clip1::value::true"
+                "empty::ms_clip1::value::true", 
+                "empty::medium_card::value::audio"
             ], 
             "goals": [
                 "Capture an action you'd like to tell a story about."
             ], 
             "clipType": "Action", 
             "type": "ClipCard", 
-            "id": "clip_card_0"
+            "id": "clip_audio_1"
+        }, 
+        {
+            "length": "0:15", 
+            "medium": "video", 
+            "references": [
+                "empty::ms_clip1::value::true", 
+                "empty::medium_card::value::video"
+            ], 
+            "goals": [
+                "Capture an action you'd like to tell a story about."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_video_1"
+        }, 
+        {
+            "length": "0:15", 
+            "medium": "photo", 
+            "references": [
+                "empty::ms_clip1::value::true", 
+                "empty::medium_card::value::photo"
+            ], 
+            "goals": [
+                "Capture an action you'd like to tell a story about."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_photo_1"
         }, 
         {
             "header": "Next", 
@@ -87,13 +121,11 @@
                 "empty::ms_clip2_3::value::true"
             ], 
             "goals": [
-                {
-                    "Ask someone": "what do you find interesting about this?\""
-                }
+                "Ask someone, what do you find interesting about this?"
             ], 
             "clipType": "Character", 
             "type": "ClipCard", 
-            "id": "clip_card_1"
+            "id": "clip_card_0"
         }, 
         {
             "text": "Try to make the question more specific if you can.", 
@@ -114,7 +146,7 @@
             ], 
             "clipType": "Result", 
             "type": "ClipCard", 
-            "id": "clip_card_2"
+            "id": "clip_card_1"
         }, 
         {
             "text": "The result can be another person reacting, or even the person who performed the first action.", 
@@ -135,7 +167,7 @@
             "icon": "down"
         }, 
         {
-            "text": "This is the \"Review Card\" it allows you to review your video, change the order, add a narration if you like, and publish it when you're ready.", 
+            "text": "This is the Review Card it allows you to review your video, change the order, add a narration if you like, and publish it when you are ready.", 
             "type": "HowToCard", 
             "id": "howto_card_3", 
             "references": [
@@ -146,9 +178,28 @@
             "type": "ReviewCard", 
             "medium": "video", 
             "references": [
+                "empty::clip_video_0::value", 
                 "empty::ms_review::value::true"
             ], 
             "id": "review_card_0"
+        }, 
+        {
+            "type": "ReviewCard", 
+            "medium": "audio", 
+            "references": [
+                "empty::clip_audio_0::value", 
+                "empty::ms_review::value::true"
+            ], 
+            "id": "review_card_1"
+        }, 
+        {
+            "type": "ReviewCard", 
+            "medium": "photo", 
+            "references": [
+                "empty::clip_photo_0::value", 
+                "empty::ms_review::value::true"
+            ], 
+            "id": "review_card_2"
         }, 
         {
             "text": "Congratulations, you now know how to use four very important cards inside of StoryMaker!", 
