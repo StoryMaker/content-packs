@@ -1,0 +1,47 @@
+---
+    id: capture_peak_action_activity
+    title: Capture Peak Action Activity
+    cards:
+
+        -
+            type: IntroCard
+            exampleMediaPath: 1.jpg
+            headline: 'Capture Peak Action | Activity'
+            level: 'Introduction |'
+            time: '10-15 Minutes'
+
+# link card allows people to return to the lesson connected to this activity.
+
+        -
+            type: LinkCard
+            text: 'Return to Lesson'
+            link: capture_peak_action::intro_card_0
+
+        -
+            type: TextCard
+            text: 'Now that you''ve completed the lesson on peak action, this activity will help you practice. Find an activity that repeats, such as a sport or children playing. Photographing movement with a mobile device can be especially difficult.'
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - 'Anticipate your subject''s movement, and capture peak action of their activity.'
+            clipType: Character
+            length: 0:20
+
+        -
+            type: TipCard
+            tags:
+                - peak_action
+
+        -
+            type: ReviewCard
+            medium: photo
+
+        -
+            type: TextCard
+            text: 'Congratulations on completing Mobile Photo 101! Don''t forget to share your photos with the StoryMaker community by tagging them #StoryMakerPics'
+
+        -
+            type: TextCard
+            text: 'You can return home by hitting the back button next to the StoryMaker icon at the top of your screen.'

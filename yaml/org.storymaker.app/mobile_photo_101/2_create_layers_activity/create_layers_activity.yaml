@@ -1,0 +1,49 @@
+---
+    id: create_layers_activity
+    title: Create Layers Activity
+    cards:
+
+        -
+            type: IntroCard
+            exampleMediaPath: 1.jpg
+            headline: 'Create Layers | Activity'
+            level: 'Introduction |'
+            time: '10 Minutes'
+
+# link card allows people to return to the lesson connected to this activity.
+
+        -
+            type: LinkCard
+            text: 'Return to Lesson'
+            link: create_layers::intro_card_0
+
+        -
+            type: TextCard
+            text: 'Now that you''ve completed the lesson on creating layers in a photo, this activity will help you practice. Start by taking photos with two distinct layers, one with a clear subject and another that provides context.'
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - 'Place the subject or character in a distinct layer from the rest of the image.'
+            clipType: Character
+            length: 0:20
+
+        -
+            type: TipCard
+            tags:
+                - layers
+
+        -
+            type: ReviewCard
+            medium: photo
+
+        -
+            type: LinkCard
+            text: 'Next Lesson'
+            link: capture_peak_action::intro_card_0
+
+        -
+            type: LinkCard
+            text: 'Previous Lesson'
+            link: compose_with_a_grid::intro_card_0
