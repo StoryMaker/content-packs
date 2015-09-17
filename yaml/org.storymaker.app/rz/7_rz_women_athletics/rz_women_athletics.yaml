@@ -1,0 +1,95 @@
+---
+    id: rz_women_athletics
+    title: 'Women''s Athletics in the Park'
+    cards:
+
+        -
+            type: IntroCard
+            exampleMediaPath: radiozamaneh.png
+            headline: 'Women''s Athletics in the Park'
+            level: 'Beginner |'
+            time: '30-60 minutes'
+
+        -
+            type: TextCard
+            text: 'How do women engage in sports in parks in your community? Show us how women are exercising and improving themselves in your area.'
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Show us the park where you find women engaged in athletics and sports.'
+            clipType: place
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Record one or two women exercising.'
+            clipType: action
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Show how the woman feels engaged in sports.'
+            clipType: result
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Record an interesting visual detail of the woman''s exercise.'
+            clipType: signature
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Record the beginning of an action involved in the woman''s exercise.'
+            clipType: action
+            length: 0:20
+
+        -
+            type: TextCard
+            text: 'When your character is taking a break, as her to answer the following questions.'
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Ask- When do you usually do sports?'
+            clipType: character
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Ask- What is your favorite part of doing sports?'
+            clipType: character
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Ask- Do you prefer to exercise in the park, or somewhere else?'
+            clipType: character
+            length: 0:20
+
+        -
+            type: TextCard
+            text: 'Feel free to ask other questions, such as: their reasons for exercising, the benefits, whether they exercise with others, or other questions you may have.'
+
+        -
+            type: TextCard
+            text: 'When you are finished, arrange your clips below with the ''Order'' button, and click ''Publish'' to upload.'
+
+        -
+            type: ReviewCard
+            medium: video

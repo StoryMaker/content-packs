@@ -1,0 +1,71 @@
+---
+    id: rz_nuclear_deal
+    title: What do Iranians think of the Nuclear Deal?
+    cards:
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Before you start, please capture a shot that shows your subjects'' location.'
+            clipType: place
+            length: 0:20
+
+        -
+            type: IntroCard
+            exampleMediaPath: radiozamaneh.png
+            headline: 'Community Question- What do Iranians think of the Nuclear Deal?'
+            level: 'Beginner |'
+            time: '1 hour'
+
+        -
+            type: TextCard
+            text: 'TIP: If you are going to interview people in two locations, press the 3 dots on the card above, and choose ''Duplicate Card''. Use the new card to record a clip of the second location.'
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Show your first subject engaged in an activity relevant to the location.'
+            clipType: action
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Ask- What is your opinion of the recent Nuclear deal negotiated between Iran and the international community?'
+            clipType: character
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Ask- What is your opinion of the recent Nuclear deal negotiated between Iran and the international community?'
+            clipType: character
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'If possible, show your second subject also engaged in a relevant activity, or speaking with the first subject.'
+            clipType: action
+            length: 0:20
+
+        -
+            type: TextCard
+            text: 'If you use two locations, don''t forget to shoot clips for both locations.'
+
+        -
+            type: TextCard
+            text: 'You can use the three dots to duplicate clip cards and shoot more video if you like. When you are finished, press the order button on the card below, and rearrange your clips. Tap the individual clips on the order screen, in order to trim your clips.'
+
+        -
+            type: ReviewCard
+            medium: video
+
+        -
+            type: TextCard
+            text: 'Thanks for all your help!'

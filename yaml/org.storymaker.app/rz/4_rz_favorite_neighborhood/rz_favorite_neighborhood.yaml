@@ -1,0 +1,55 @@
+---
+    id: rz_favorite_neighborhood
+    title: 'What''s your favorite part of your neighborhood?'
+    cards:
+
+        -
+            type: IntroCard
+            exampleMediaPath: radiozamaneh.png
+            headline: 'What''s your favorite part of your neighborhood?'
+            level: 'Beginner |'
+            time: '7 minutes'
+
+        -
+            type: TextCard
+            text: 'Radio Zamaneh is collecting photos of the unique neighborhoods our readers live in.'
+
+        -
+            type: TextCard
+            text: 'We want to see what you love about where you live and what happens there.'
+
+        -
+            type: TextCard
+            text: 'Please follow the instructions below. Once you''re done, select ''Publish'' to upload your photos to us.'
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - 'Photograph a place that makes you proud to live in your neighborhood.'
+            clipType: place
+            length: 0:20
+
+        -
+            type: TextCard
+            text: 'Focus on aspects that are unique to the place.'
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - 'Photograph a neighbor doing something unique to your neighborhood.'
+            clipType: action
+            length: 0:20
+
+        -
+            type: TextCard
+            text: 'Now select ''Publish'' and your photos will be sent to Radio Zamaneh.'
+
+        -
+            type: ReviewCard
+            medium: photo
+
+        -
+            type: TextCard
+            text: 'Thanks for your contribution!'

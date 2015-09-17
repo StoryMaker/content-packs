@@ -1,0 +1,17 @@
+---
+  id: rz_women_athletics
+  title: "Women's Athletics in the Park"
+  storyPathTemplateFiles:
+    rz_women_athletics: "rz_women_athletics.json"
+  dependencies:
+    -
+      dependencyId: "rz_women_athletics"
+      dependencyFile: "rz_women_athletics.json"
+  classPackage: "scal.io.liger.model"
+  cards:
+    -
+      action: "LOAD"
+      type: "LoaderHeadlessCard"
+      id: "loader_card"
+      target: "rz_women_athletics"
+  currentStoryPathFile: "rz_women_athletics.json"

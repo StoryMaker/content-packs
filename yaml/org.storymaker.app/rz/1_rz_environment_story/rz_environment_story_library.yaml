@@ -1,0 +1,17 @@
+---
+  id: rz_environment_story
+  title: "Radio Zamaneh's environment story"
+  storyPathTemplateFiles:
+    rz_environment_story: "rz_environment_story.json"
+  dependencies:
+    -
+      dependencyId: "rz_environment_story"
+      dependencyFile: "rz_environment_story.json"
+  classPackage: "scal.io.liger.model"
+  cards:
+    -
+      action: "LOAD"
+      type: "LoaderHeadlessCard"
+      id: "loader_card"
+      target: "rz_environment_story"
+  currentStoryPathFile: "rz_environment_story.json"

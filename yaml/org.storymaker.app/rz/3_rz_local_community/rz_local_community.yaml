@@ -1,0 +1,68 @@
+---
+  # storypath on the desk - https://demo.storymaker.org/desk/#/storypaths/72
+    id: rz_local_community
+    title: Show us the Iranian Community in your country.
+    cards:
+
+        -
+            type: IntroCard
+            exampleMediaPath: radiozamaneh.png
+            headline: 'Community Question- Where are the Iranians in your country?'
+            level: 'Beginner |'
+            time: '2 hours'
+
+        -
+            type: TextCard
+            text: 'Please introduce us to the Iranian experience in your country. Where do Iranians live? What unique experiences do they  have in your country? Take us to a restaurant, a grocery, or an art event.'
+
+        -
+            type: TextCard
+            text: 'Using no more than 5 photos, show us something about the Iranian experience.'
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - 'Capture an image of a typically Iranian place.'
+            clipType: place
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - 'Show us what Iranians do in this place.'
+            clipType: action
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - 'Shoot a portrait of an Iranian, or show us two Iranians interacting together.'
+            clipType: character
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - 'Get close, show us something typically Iranian.'
+            clipType: signature
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - 'Show us one more Iranian in your community.'
+            clipType: character
+            length: 0:20
+
+        -
+            type: TextCard
+            text: 'Thanks for your help. After you click ''Publish'' on the next card, be sure to write a short description about your photo set. 3-5 sentences will be sufficient.'
+
+        -
+            type: ReviewCard
+            medium: photo

@@ -1,0 +1,17 @@
+---
+  id: rz_nuclear_deal
+  title: "What do Iranians think of the Nuclear Deal?"
+  storyPathTemplateFiles:
+    rz_nuclear_deal: "rz_nuclear_deal.json"
+  dependencies:
+    -
+      dependencyId: "rz_nuclear_deal"
+      dependencyFile: "rz_nuclear_deal.json"
+  classPackage: "scal.io.liger.model"
+  cards:
+    -
+      action: "LOAD"
+      type: "LoaderHeadlessCard"
+      id: "loader_card"
+      target: "rz_nuclear_deal"
+  currentStoryPathFile: "rz_nuclear_deal.json"
