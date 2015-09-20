@@ -1,0 +1,70 @@
+{
+    "cards": [
+        {
+            "level": "Beginner |", 
+            "headline": "What's your favorite part of your neighborhood?", 
+            "time": "7 minutes", 
+            "exampleMediaPath": "radiozamaneh.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Radio Zamaneh is collecting photos of the unique neighborhoods our readers live in.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "text": "We want to see what you love about where you live and what happens there.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "Please follow the instructions below. Once you're done, select 'Publish' to upload your photos to us.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:20", 
+            "goals": [
+                "Photograph a place that makes you proud to live in your neighborhood."
+            ], 
+            "clipType": "place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "Focus on aspects that are unique to the place.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:20", 
+            "goals": [
+                "Photograph a neighbor doing something unique to your neighborhood."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "text": "Now select 'Publish' and your photos will be sent to Radio Zamaneh.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Thanks for your contribution!", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "rz_favorite_neighborhood", 
+    "title": "What's your favorite part of your neighborhood?"
+}

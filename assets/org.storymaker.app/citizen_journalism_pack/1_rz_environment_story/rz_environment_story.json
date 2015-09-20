@@ -1,0 +1,190 @@
+{
+    "cards": [
+        {
+            "exampleMediaPath": "", 
+            "level": "Beginner", 
+            "headline": "What's the most important environmental problem in your community?", 
+            "time": "15 Minutes", 
+            "type": "IntroCard", 
+            "id": "3703179b-7d75-4f56-8171-53b0f4acbb73"
+        }, 
+        {
+            "text": "Today we'd like you to assist us with a new series we're producing. We're reaching out to you, our audience, to document the environmental problems you care about.", 
+            "type": "BasicTextCard", 
+            "id": "4f97ad8c-93e8-4139-94be-22f30696bd22"
+        }, 
+        {
+            "text": "Follow this brief assignment, and help set our editorial agenda. In addition to sharing the best stories on Radio Zamaneh, we will assign one of our staff reporters to do a follow-up series on the most compelling story.", 
+            "type": "BasicTextCard", 
+            "id": "7daaeadf-84a9-4593-a581-1e0f35eb68ea"
+        }, 
+        {
+            "length": "25 seconds", 
+            "medium": "Video", 
+            "goals": [
+                "First, capture an image of the location of the problem you want to highlight."
+            ], 
+            "clipType": "place", 
+            "type": "ClipCard", 
+            "id": "3fc83a48-2035-4665-9b1e-aeef9e1c5475"
+        }, 
+        {
+            "text": "After you've captured a clip of the location, you should continue with your story. We recommend you focus first on documenting the problem. After this, investigate the public's reaction or response to the issue.", 
+            "type": "BasicTextCard", 
+            "id": "a5d4086f-6938-4b3a-8b00-1481e659ebf6"
+        }, 
+        {
+            "length": "20 seconds", 
+            "medium": "Video", 
+            "goals": [
+                "Show us how the environment is affected."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "3fa2914e-a940-44b0-abb9-5d2c49ce15b8"
+        }, 
+        {
+            "length": "20 seconds", 
+            "medium": "Video", 
+            "goals": [
+                "Capture something that shows the result of the environmental problem."
+            ], 
+            "clipType": "result", 
+            "type": "ClipCard", 
+            "id": "1bb26a5a-ac1e-4308-a412-ed4a9a2a053e"
+        }, 
+        {
+            "length": "15 seconds", 
+            "medium": "Video", 
+            "goals": [
+                "Capture the cause of the environmental problem."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "4e960830-09bc-4ac6-9070-e24ebfe75c87"
+        }, 
+        {
+            "length": "20 seconds", 
+            "medium": "Video", 
+            "goals": [
+                "Get close, and show us how intense the problem is."
+            ], 
+            "clipType": "signature", 
+            "type": "ClipCard", 
+            "id": "d7d65d2b-8036-4169-a5f4-5212451d91b5"
+        }, 
+        {
+            "text": "Now in this second group of shots, we'd like you to capture the reaction of the public to the problem. Be sure to include people in each of these shots.", 
+            "type": "BasicTextCard", 
+            "id": "355d38ba-728a-401f-95d9-22ee8764f9da"
+        }, 
+        {
+            "length": "15 seconds", 
+            "medium": "Video", 
+            "goals": [
+                "Capture someone responding to the problem."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "1e677e47-43de-4e5c-a4a4-9cf11e9e2872"
+        }, 
+        {
+            "length": "30 seconds", 
+            "medium": "Video", 
+            "goals": [
+                "Ask the same person: What is your opinion of the problem?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "773f1fff-a23f-411e-86a4-6ab86beae77c"
+        }, 
+        {
+            "length": "15 seconds", 
+            "medium": "Video", 
+            "goals": [
+                "Show a new person  encountering the result of the environmental problem."
+            ], 
+            "clipType": "result", 
+            "type": "ClipCard", 
+            "id": "5b644a18-ba54-4213-b899-960103f6932a"
+        }, 
+        {
+            "length": "30 seconds", 
+            "medium": "Video", 
+            "goals": [
+                "Ask the new person: \"What should be done about this problem?\""
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "beca4b54-6010-4db5-b244-0503f8ce3f30"
+        }, 
+        {
+            "length": "20 seconds", 
+            "medium": "Video", 
+            "goals": [
+                "Capture a shot of the place that shows several people near the problem."
+            ], 
+            "clipType": "place", 
+            "type": "ClipCard", 
+            "id": "37cd5b61-0977-4aa7-8ad6-3468f4d72f66"
+        }, 
+        {
+            "text": "If possible, you should interview two more people. Ask them to tell you their opinion of the problem.", 
+            "type": "BasicTextCard", 
+            "id": "2ed64a6f-b25f-4abb-8cf8-87a3fa6bc5bc"
+        }, 
+        {
+            "length": "30 seconds", 
+            "medium": "Video", 
+            "goals": [
+                "What is your opinion of the problem?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "1a54b1e4-6d69-4c05-bb56-cc940587847d"
+        }, 
+        {
+            "length": "30 seconds", 
+            "medium": "Video", 
+            "goals": [
+                "What is your opinion of the problem?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "65ad15b2-369e-4c7d-9781-93ba4f44d07d"
+        }, 
+        {
+            "text": "On the next card you will be able to review and order your clips. If you want to trim a clip, tap the clip image.", 
+            "type": "BasicTextCard", 
+            "id": "66b9299c-e222-492d-831c-7ad0b0d597e4"
+        }, 
+        {
+            "text": "Think about whether you want to use a narration over the first set of clips, to introduce the problem.", 
+            "type": "BasicTextCard", 
+            "id": "db1d1802-363f-4c55-9d29-12e098e076c7"
+        }, 
+        {
+            "text": "Another approach is to let the people you interviewed tell the story, and distribute all of the first clips throughout the story.", 
+            "type": "BasicTextCard", 
+            "id": "77a049b1-2bf1-4e87-9ea6-4cfae3c46d6b"
+        }, 
+        {
+            "text": "If you want to narrate your story, write the narration first. Be specific and write to your pictures.", 
+            "type": "BasicTextCard", 
+            "id": "516dea6a-0220-4c02-8e7e-ca21e2595074"
+        }, 
+        {
+            "medium": "", 
+            "type": "ReviewCard", 
+            "id": "96c80b4b-8f1d-495f-9ec9-c8f8a35149c2"
+        }, 
+        {
+            "text": "When you are satisfied with your story, prepare a description, and click publish. Make sure you add the tag #MyEnvironment to your description.", 
+            "type": "BasicTextCard", 
+            "id": "05fa9579-2508-41b1-9adc-ba34e5d00eff"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "rz_environment_story", 
+    "title": "Radio Zamaneh environment story"
+}

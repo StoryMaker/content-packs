@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "rz_my_job", 
+            "dependencyFile": "rz_my_job.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "What's your Job?", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "rz_my_job"
+        }
+    ], 
+    "currentStoryPathFile": "rz_my_job.json", 
+    "storyPathTemplateFiles": {
+        "rz_my_job": "rz_my_job.json"
+    }, 
+    "id": "rz_my_job"
+}

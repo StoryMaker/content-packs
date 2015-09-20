@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "rz_traffic_report", 
+            "dependencyFile": "rz_traffic_report.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "See a Traffic Accident?", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "rz_traffic_report"
+        }
+    ], 
+    "currentStoryPathFile": "rz_traffic_report.json", 
+    "storyPathTemplateFiles": {
+        "rz_traffic_report": "rz_traffic_report.json"
+    }, 
+    "id": "rz_traffic_report"
+}

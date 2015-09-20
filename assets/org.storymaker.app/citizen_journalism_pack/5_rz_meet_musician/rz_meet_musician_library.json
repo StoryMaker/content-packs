@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "rz_meet_musician", 
+            "dependencyFile": "rz_meet_musician.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Meet a Musician!", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "rz_meet_musician"
+        }
+    ], 
+    "currentStoryPathFile": "rz_meet_musician.json", 
+    "storyPathTemplateFiles": {
+        "rz_meet_musician": "rz_meet_musician.json"
+    }, 
+    "id": "rz_meet_musician"
+}

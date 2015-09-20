@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "rz_favorite_neighborhood", 
+            "dependencyFile": "rz_favorite_neighborhood.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "What's your favorite part of your neighborhood?", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "rz_favorite_neighborhood"
+        }
+    ], 
+    "currentStoryPathFile": "rz_favorite_neighborhood.json", 
+    "storyPathTemplateFiles": {
+        "rz_favorite_neighborhood": "rz_favorite_neighborhood.json"
+    }, 
+    "id": "rz_favorite_neighborhood"
+}

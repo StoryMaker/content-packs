@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "rz_local_community", 
+            "dependencyFile": "rz_local_community.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Show us the Iranian Community in your country", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "rz_local_community"
+        }
+    ], 
+    "currentStoryPathFile": "rz_local_community.json", 
+    "storyPathTemplateFiles": {
+        "rz_local_community": "rz_local_community.json"
+    }, 
+    "id": "rz_local_community"
+}

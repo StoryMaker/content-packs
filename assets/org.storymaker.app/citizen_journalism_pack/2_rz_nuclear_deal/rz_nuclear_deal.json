@@ -1,0 +1,90 @@
+{
+    "cards": [
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Before you start, please capture a shot that shows your subjects' location."
+            ], 
+            "clipType": "place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "level": "Beginner |", 
+            "headline": "Community Question- What do Iranians think of the Nuclear Deal?", 
+            "time": "1 hour", 
+            "exampleMediaPath": "radiozamaneh.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "TIP: If you are going to interview people in two locations, press the 3 dots on the card above, and choose 'Duplicate Card'. Use the new card to record a clip of the second location.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Show your first subject engaged in an activity relevant to the location."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Ask- What is your opinion of the recent Nuclear deal negotiated between Iran and the international community?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Ask- What is your opinion of the recent Nuclear deal negotiated between Iran and the international community?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "If possible, show your second subject also engaged in a relevant activity, or speaking with the first subject."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "text": "If you use two locations, don't forget to shoot clips for both locations.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "You can use the three dots to duplicate clip cards and shoot more video if you like. When you are finished, press the order button on the card below, and rearrange your clips. Tap the individual clips on the order screen, in order to trim your clips.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Thanks for all your help!", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "rz_nuclear_deal", 
+    "title": "What do Iranians think of the Nuclear Deal?"
+}
