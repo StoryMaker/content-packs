@@ -1,0 +1,14 @@
+{
+  "rz_nuclear_deal::text_card_1::text": "If you use two locations, don't forget to shoot clips for both locations.", 
+  "rz_nuclear_deal::text_card_3::text": "Thanks for all your help!", 
+  "rz_nuclear_deal::text_card_0::text": "TIP: If you are going to interview people in two locations, press the 3 dots on the card above, and choose 'Duplicate Card'. Use the new card to record a clip of the second location.", 
+  "rz_nuclear_deal::clip_card_0::goals[0]": "Before you start, please capture a shot that shows your subjects' location.", 
+  "rz_nuclear_deal::clip_card_3::goals[0]": "Ask- What is your opinion of the recent Nuclear deal negotiated between Iran and the international community?", 
+  "rz_nuclear_deal::clip_card_4::goals[0]": "If possible, show your second subject also engaged in a relevant activity, or speaking with the first subject.", 
+  "rz_nuclear_deal::title": "What do Iranians think of the Nuclear Deal?", 
+  "rz_nuclear_deal::clip_card_2::goals[0]": "Ask- What is your opinion of the recent Nuclear deal negotiated between Iran and the international community?", 
+  "rz_nuclear_deal::text_card_2::text": "You can use the three dots to duplicate clip cards and shoot more video if you like. When you are finished, press the order button on the card below, and rearrange your clips. Tap the individual clips on the order screen, in order to trim your clips.", 
+  "rz_nuclear_deal::intro_card_0::level": "Beginner |", 
+  "rz_nuclear_deal::intro_card_0::headline": "Community Question- What do Iranians think of the Nuclear Deal?", 
+  "rz_nuclear_deal::clip_card_1::goals[0]": "Show your first subject engaged in an activity relevant to the location."
+}

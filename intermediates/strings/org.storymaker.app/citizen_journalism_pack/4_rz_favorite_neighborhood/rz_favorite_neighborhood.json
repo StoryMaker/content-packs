@@ -1,0 +1,13 @@
+{
+  "rz_favorite_neighborhood::intro_card_0::headline": "What's your favorite part of your neighborhood?", 
+  "rz_favorite_neighborhood::text_card_2::text": "Please follow the instructions below. Once you're done, select 'Publish' to upload your photos to us.", 
+  "rz_favorite_neighborhood::text_card_5::text": "Thanks for your contribution!", 
+  "rz_favorite_neighborhood::text_card_0::text": "Radio Zamaneh is collecting photos of the unique neighborhoods our readers live in.", 
+  "rz_favorite_neighborhood::clip_card_0::goals[0]": "Photograph a place that makes you proud to live in your neighborhood.", 
+  "rz_favorite_neighborhood::text_card_3::text": "Focus on aspects that are unique to the place.", 
+  "rz_favorite_neighborhood::text_card_1::text": "We want to see what you love about where you live and what happens there.", 
+  "rz_favorite_neighborhood::clip_card_1::goals[0]": "Photograph a neighbor doing something unique to your neighborhood.", 
+  "rz_favorite_neighborhood::title": "What's your favorite part of your neighborhood?", 
+  "rz_favorite_neighborhood::text_card_4::text": "Now select 'Publish' and your photos will be sent to Radio Zamaneh.", 
+  "rz_favorite_neighborhood::intro_card_0::level": "Beginner |"
+}
