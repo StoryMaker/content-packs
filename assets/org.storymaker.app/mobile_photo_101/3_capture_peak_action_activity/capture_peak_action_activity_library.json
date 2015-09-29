@@ -1,12 +1,12 @@
 {
     "dependencies": [
         {
-            "dependencyId": "capture_peak_action", 
-            "dependencyFile": "capture_peak_action.json"
+            "dependencyId": "capture_peak_action_activity", 
+            "dependencyFile": "capture_peak_action_activity.json"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "title": "Capture Peak Action", 
+    "title": "Capture Peak Action Activity", 
     "cards": [
         {
             "tips": [
@@ -156,12 +156,12 @@
             "action": "LOAD", 
             "type": "LoaderHeadlessCard", 
             "id": "loader_card", 
-            "target": "capture_peak_action"
+            "target": "capture_peak_action_activity"
         }
     ], 
-    "currentStoryPathFile": "capture_peak_action.json", 
+    "currentStoryPathFile": "capture_peak_action_activity.json", 
     "storyPathTemplateFiles": {
-        "capture_peak_action": "capture_peak_action.json"
+        "capture_peak_action_activity": "capture_peak_action_activity.json"
     }, 
-    "id": "capture_peak_action"
+    "id": "capture_peak_action_activity"
 }

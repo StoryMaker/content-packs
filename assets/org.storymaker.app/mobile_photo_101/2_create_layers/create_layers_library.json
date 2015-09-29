@@ -1,12 +1,12 @@
 {
     "dependencies": [
         {
-            "dependencyId": "create_layers_in_a_photo", 
-            "dependencyFile": "create_layers_in_a_photo.json"
+            "dependencyId": "create_layers", 
+            "dependencyFile": "create_layers.json"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "title": "Create Layers in a Photo", 
+    "title": "Create Layers", 
     "cards": [
         {
             "tips": [
@@ -156,12 +156,12 @@
             "action": "LOAD", 
             "type": "LoaderHeadlessCard", 
             "id": "loader_card", 
-            "target": "creating_layers_in_a_photo"
+            "target": "create_layers"
         }
     ], 
-    "currentStoryPathFile": "create_layers_in_a_photo.json", 
+    "currentStoryPathFile": "create_layers.json", 
     "storyPathTemplateFiles": {
-        "posed_portraits": "create_layers_in_a_photo.json"
+        "create_layers": "create_layers.json"
     }, 
-    "id": "create_layers_in_a_photo"
+    "id": "create_layers"
 }

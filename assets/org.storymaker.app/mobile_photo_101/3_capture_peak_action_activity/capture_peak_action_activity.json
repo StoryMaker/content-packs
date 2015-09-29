@@ -1,0 +1,58 @@
+{
+    "cards": [
+        {
+            "level": "Introduction |", 
+            "headline": "Capture Peak Action | Activity", 
+            "time": "10-15 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Return to Lesson", 
+            "link": "capture_peak_action::intro_card_0", 
+            "id": "link_card_0", 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Now that you've completed the lesson on peak action, this activity will help you practice. Find an activity that repeats, such as a sport or children playing. Photographing movement with a mobile device can be especially difficult.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:20", 
+            "goals": [
+                "Anticipate your subject's movement, and capture peak action of their activity."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "peak_action"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Congratulations on completing Mobile Photo 101! Don't forget to share your photos with the StoryMaker community by tagging them #StoryMakerPics", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "You can return home by hitting the back button next to the StoryMaker icon at the top of your screen.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "capture_peak_action_activity", 
+    "title": "Capture Peak Action Activity"
+}

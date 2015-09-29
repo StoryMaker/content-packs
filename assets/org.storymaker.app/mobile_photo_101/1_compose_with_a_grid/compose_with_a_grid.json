@@ -1,22 +1,60 @@
 {
     "cards": [
         {
-            "level": "Introduction", 
-            "headline": "Compose Better Photos with the Grid", 
-            "time": "5-10 Minutes", 
+            "level": "Introduction |", 
+            "headline": "Compose with a Grid", 
+            "time": "3-5 Minutes", 
             "exampleMediaPath": "1.jpg", 
             "type": "IntroCard", 
             "id": "intro_card_0"
         }, 
         {
-            "text": "Thinking of a photo as a grid is the most basic concept for composition a photographer needs to understand.", 
+            "text": "Using a grid to improve composition is the most basic concept a photographer needs to understand. This lesson will teach you to look at your photo as a grid.", 
             "type": "BasicTextCard", 
             "id": "text_card_0"
         }, 
         {
+            "header": "Next", 
+            "references": [
+                "compose_with_a_grid::value"
+            ], 
+            "text": "Start", 
+            "type": "ButtonCard", 
+            "id": "milestone_start", 
+            "icon": "down"
+        }, 
+        {
             "text": "Think of your photo as if it is made up of nine equal rectangles. Strong visuals use all the rectangles in the grid to tell the story.", 
             "type": "BasicTextCard", 
-            "id": "text_card_1"
+            "id": "text_card_1", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Placing the grid on this photo divides one image into nine equal areas.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Most smartphones allow you to turn this grid on in your Camera app. Use the grid when practicing these lessons.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
         }, 
         {
             "medium": "photo", 
@@ -26,31 +64,72 @@
                     "media_caption": "\u00a9"
                 }
             ], 
-            "header": "Placing the grid on this photo divides one image into nine equal areas.", 
+            "header": "Do not place your subject in the middle with no thought to the rest of the grid.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
             "exampleMediaPath": "3.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
-            "id": "preview_card_0"
+            "id": "preview_card_1"
         }, 
         {
-            "text": "Most smartphones allow you to turn this grid on in your Camera app. Use the grid when practicing these lessons.", 
+            "text": "This grid is not intended to help you center your photo. Let's look at how the lines of the grid work together to help you compose better photos.", 
             "type": "BasicTextCard", 
-            "id": "text_card_2"
+            "id": "text_card_3", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
         }, 
         {
-            "text": "Do not simply place your subject in the middle of the photograph with no thought to the rest of the grid.", 
-            "type": "BasicTextCard", 
-            "id": "text_card_3"
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "4.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "This line shows the bottom third of the frame.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "4.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
         }, 
         {
-            "text": "The horizontal grid lines are sometimes called the 'eye line' or 'horizon line.' These lines are important to composing a portrait or a landscape.", 
+            "text": "If the photo is a landscape, this line is often used to establish the horizon in a grid.", 
             "type": "BasicTextCard", 
-            "id": "text_card_4"
+            "id": "text_card_4", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
         }, 
         {
-            "text": "If the photo is a landscape, the element that defines the horizon is often placed on either the top or bottom 'horizon line.", 
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "5.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "This line shows the top third of the frame.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "5.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "If the photo is a portrait, the subject's eyes are usually placed on the top horizontal line when framing with a grid. As you practice this more you may find that sometimes the bottom line works better.", 
             "type": "BasicTextCard", 
-            "id": "text_card_5"
+            "id": "text_card_5", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
         }, 
         {
             "medium": "photo", 
@@ -60,16 +139,22 @@
                     "media_caption": "\u00a9"
                 }
             ], 
-            "header": "The blue line shows the horizon line in a photo of a place.", 
+            "header": "Note how important elements of the composition are placed in the grid.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
             "exampleMediaPath": "6.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
-            "id": "preview_card_1"
+            "id": "preview_card_4"
         }, 
         {
-            "text": "If the photo is a portrait, the subject's eyes are often placed on either the top or bottom 'eye line.'", 
+            "text": "To use a grid most effectively, the vertical and horizontal lines should work together to define the frame.", 
             "type": "BasicTextCard", 
-            "id": "text_card_6"
+            "id": "text_card_6", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
         }, 
         {
             "medium": "photo", 
@@ -79,16 +164,22 @@
                     "media_caption": "\u00a9"
                 }
             ], 
-            "header": "The blue line shows the eye line in a portrait photo.", 
+            "header": "In this photo main subjects complete entirely within the frame.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
             "exampleMediaPath": "7.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
-            "id": "preview_card_2"
+            "id": "preview_card_5"
         }, 
         {
-            "text": "The vertical lines and horizontal lines work together to define the frame. Place the most important elements of the composition at the the intersections of the lines. These are the points to which a viewer's eyes naturally land in a frame.", 
+            "text": "Clearly define the edges of your frame. Try to have important shapes complete within the frame.", 
             "type": "BasicTextCard", 
-            "id": "text_card_7"
+            "id": "text_card_7", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
         }, 
         {
             "medium": "photo", 
@@ -98,127 +189,51 @@
                     "media_caption": "\u00a9"
                 }
             ], 
-            "header": "Note how the signs work to emphasize the grid format.", 
+            "header": "The rectangles in color show how visual information is organized by the grid.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
             "exampleMediaPath": "8.jpg", 
-            "clipType": "character", 
-            "type": "ExampleCard", 
-            "id": "preview_card_3"
-        }, 
-        {
-            "type": "TipCard", 
-            "id": "tip_card_0", 
-            "tags": [
-                "general"
-            ]
-        }, 
-        {
-            "text": "Fill the entire frame with compelling visual information. Use the grid to organize that information.", 
-            "type": "BasicTextCard", 
-            "id": "text_card_8"
-        }, 
-        {
-            "medium": "photo", 
-            "media": [
-                {
-                    "media": "0.jpg", 
-                    "media_caption": null
-                }
-            ], 
-            "header": "Rectangles in color show how visual information is organized on the grid.", 
-            "exampleMediaPath": "0.jpg", 
-            "clipType": "character", 
-            "type": "ExampleCard", 
-            "id": "preview_card_4"
-        }, 
-        {
-            "type": "TipCard", 
-            "id": "tip_card_1", 
-            "tags": [
-                "rule_of_thirds"
-            ]
-        }, 
-        {
-            "text": "Be careful of the edges of your frame. Try and have important shapes complete themes within the frame.", 
-            "type": "BasicTextCard", 
-            "id": "text_card_9"
-        }, 
-        {
-            "medium": "photo", 
-            "media": [
-                {
-                    "media": "0.jpg", 
-                    "media_caption": "\u00a9"
-                }
-            ], 
-            "header": "In this photo [subject] completes entirely within the frame.", 
-            "exampleMediaPath": "0.jpg", 
-            "clipType": "character", 
-            "type": "ExampleCard", 
-            "id": "preview_card_5"
-        }, 
-        {
-            "text": "Next, see if you can compose better photos by thinking of the frame as a grid made up of nine rectangles.", 
-            "type": "BasicTextCard", 
-            "id": "text_card_10"
-        }, 
-        {
-            "header": "Next", 
-            "references": [
-                "compose_better_photos_with_the_grid::medium_card::value"
-            ], 
-            "text": "I'm ready to try!", 
-            "type": "ButtonCard", 
-            "id": "milestone_start_creating", 
-            "icon": "down"
-        }, 
-        {
-            "medium": "photo", 
-            "media": [
-                {
-                    "media": "rule_of_thirds_icons.png", 
-                    "media_caption": "\u00a9"
-                }
-            ], 
-            "header": "If possible turn on the grid feature in your mobile camera app.", 
-            "references": [
-                "compose_better_photos_with_the_grid::milestone_start_creating::value::true"
-            ], 
-            "exampleMediaPath": "rule_of_thirds_icons.png", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_6"
         }, 
         {
-            "text": "The card below is a clip card. Select \u201cCapture\u201d to launch the camera and take a photo.", 
-            "type": "HowToCard", 
-            "id": "howto_card_0", 
+            "text": "Fill the entire frame with visual information. Use the grid to organize that information and create more compelling photos.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8", 
             "references": [
-                "compose_better_photos_with_the_grid::milestone_start_creating::value::true"
+                "compose_with_a_grid::milestone_start::value::true"
             ]
         }, 
         {
-            "length": "0:20", 
-            "medium": "photo", 
+            "text": "Congratulations, you've learned the basic steps to compose photos with a grid. Practice your new skill in the activity below.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_9", 
             "references": [
-                "compose_better_photos_with_the_grid::milestone_start_creating::value::true"
-            ], 
-            "goals": [
-                "Fill the entire frame and use the lines and intersections in your composition."
-            ], 
-            "clipType": "Action", 
-            "type": "ClipCard", 
-            "id": "clip_card_0"
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
         }, 
         {
-            "type": "ReviewCard", 
-            "medium": "photo", 
+            "text": "Do the Activity", 
+            "link": "compose_with_a_grid_activity::intro_card_0", 
+            "id": "link_card_0", 
             "references": [
-                "compose_better_photos_with_the_grid::milestone_start_creating::value::true"
+                "compose_with_a_grid::milestone_start::value::true"
             ], 
-            "id": "review_card_0"
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Next Lesson", 
+            "link": "create_layers::intro_card_0", 
+            "id": "link_card_1", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "id": "compose_better_photos_with_the_grid", 
-    "title": "Compose Better Photos with the Grid"
+    "id": "compose_with_a_grid", 
+    "title": "Compose with a Grid"
 }

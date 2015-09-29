@@ -1,0 +1,73 @@
+{
+    "cards": [
+        {
+            "level": "Beginner |", 
+            "headline": "Compose with a Grid | Activity", 
+            "time": "5-10 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Return to Lesson", 
+            "link": "compose_with_a_grid::intro_card_0", 
+            "id": "link_card_0", 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Now that we learned about using the grid, it's time to practice.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "rule_of_thirds_icons.png", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "If possible turn on the grid feature in your mobile camera app.", 
+            "exampleMediaPath": "rule_of_thirds_icons.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Below is a clip card. Select \"Capture\" to launch the camera and take a photo.", 
+            "type": "HowToCard", 
+            "id": "howto_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:20", 
+            "goals": [
+                "Fill the entire frame and use the lines and intersections in your composition."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "rule_of_thirds"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Next Lesson", 
+            "link": "create_layers::intro_card_0", 
+            "id": "link_card_1", 
+            "type": "LinkCard"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "compose_with_a_grid_activity", 
+    "title": "Compose with a Grid Activity"
+}

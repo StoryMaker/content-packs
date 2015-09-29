@@ -1,12 +1,12 @@
 {
     "dependencies": [
         {
-            "dependencyId": "compose_better_photos_with_the_grid", 
-            "dependencyFile": "compose_better_photos_with_the_grid.json"
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "compose_with_a_grid.json"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "title": "Compose Better Photos with the Grid", 
+    "title": "Compose with a Grid", 
     "cards": [
         {
             "tips": [
@@ -156,12 +156,12 @@
             "action": "LOAD", 
             "type": "LoaderHeadlessCard", 
             "id": "loader_card", 
-            "target": "compose_better_photos_with_the_grid"
+            "target": "compose_with_a_grid"
         }
     ], 
-    "currentStoryPathFile": "compose_better_photos_with_the_grid.json", 
+    "currentStoryPathFile": "compose_with_a_grid.json", 
     "storyPathTemplateFiles": {
-        "posed_portraits": "compose_better_photos_with_the_grid.json"
+        "compose_with_a_grid": "compose_with_a_grid.json"
     }, 
-    "id": "compose_better_photos_with_the_grid"
+    "id": "compose_with_a_grid"
 }

@@ -388,7 +388,8 @@ for f in os.listdir(yaml_parent_dir):
 generate_content_index(package, pack_dir)
 
 """
-"""
+
+#"""
 print "generating content for mobile_photo_101"
 pack_dir = "mobile_photo_101"
 yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/" + pack_dir
@@ -399,8 +400,9 @@ for f in os.listdir(yaml_parent_dir):
     strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/%s/%s" % (pack_dir, f)
     do_dir()
 generate_content_index(package, pack_dir)
-"""
+#"""
 
+#"""
 print "generating content for citizen_journalism_pack"
 pack_dir = "citizen_journalism_pack"
 yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/" + pack_dir
