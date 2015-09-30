@@ -1,8 +1,12 @@
 {
     "dependencies": [
         {
-            "dependencyId": "compose_with_a_grid_activity", 
-            "dependencyFile": "compose_with_a_grid_activity.json"
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "compose_with_a_grid.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../2_create_layers/create_layers.json"
         }
     ], 
     "classPackage": "scal.io.liger.model", 

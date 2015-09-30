@@ -54,6 +54,7 @@
             "type": "LinkCard"
         }
     ], 
+    "storyPathLibraryFile": "create_layers_activity_library.json", 
     "classPackage": "scal.io.liger.model", 
     "id": "create_layers_activity", 
     "title": "Create Layers Activity"

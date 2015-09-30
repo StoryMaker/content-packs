@@ -15,9 +15,6 @@
         }, 
         {
             "header": "Next", 
-            "references": [
-                "create_layers::value"
-            ], 
             "text": "Start", 
             "type": "ButtonCard", 
             "id": "milestone_start", 

@@ -52,6 +52,7 @@
             "id": "text_card_2"
         }
     ], 
+    "storyPathLibraryFile": "capture_peak_action_activity_library.json", 
     "classPackage": "scal.io.liger.model", 
     "id": "capture_peak_action_activity", 
     "title": "Capture Peak Action Activity"
