@@ -1,11 +1,5 @@
 [
   {
-    "instanceFilePath": "org.storymaker.app/mobile_photo_101/1_compose_better_photos_with_the_grid/compose_better_photos_with_the_grid_library.json", 
-    "thumbnailPath": "org.storymaker.app/mobile_photo_101/cover.jpg", 
-    "language": "en", 
-    "title": "Compose Better Photos with the Grid"
-  }, 
-  {
     "instanceFilePath": "org.storymaker.app/mobile_photo_101/1_compose_with_a_grid/compose_with_a_grid_library.json", 
     "thumbnailPath": "org.storymaker.app/mobile_photo_101/cover.jpg", 
     "language": "en", 
@@ -30,12 +24,6 @@
     "title": "Create Layers Activity"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/mobile_photo_101/2_create_layers_in_a_photo/create_layers_in_a_photo_library.json", 
-    "thumbnailPath": "org.storymaker.app/mobile_photo_101/cover.jpg", 
-    "language": "en", 
-    "title": "Create Layers in a Photo"
-  }, 
-  {
     "instanceFilePath": "org.storymaker.app/mobile_photo_101/3_capture_peak_action/capture_peak_action_library.json", 
     "thumbnailPath": "org.storymaker.app/mobile_photo_101/cover.jpg", 
     "language": "en", 
@@ -46,11 +34,5 @@
     "thumbnailPath": "org.storymaker.app/mobile_photo_101/cover.jpg", 
     "language": "en", 
     "title": "Capture Peak Action Activity"
-  }, 
-  {
-    "instanceFilePath": "org.storymaker.app/mobile_photo_101/3_capture_peak_action_for_better_photos/capture_peak_action_for_better_photos_library.json", 
-    "thumbnailPath": "org.storymaker.app/mobile_photo_101/cover.jpg", 
-    "language": "en", 
-    "title": "Capture Peak Action for Better Photos"
   }
 ]
