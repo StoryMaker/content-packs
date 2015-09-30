@@ -20,8 +20,6 @@
             header: Next
             text: 'Start'
             icon: down
-            references:
-                - create_layers::value
 
         -
             type: TextCard

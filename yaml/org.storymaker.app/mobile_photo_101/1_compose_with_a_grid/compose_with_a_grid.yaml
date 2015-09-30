@@ -20,8 +20,6 @@
             header: Next
             text: Start
             icon: down
-            references:
-                - compose_with_a_grid::value
 
         -
             type: TextCard

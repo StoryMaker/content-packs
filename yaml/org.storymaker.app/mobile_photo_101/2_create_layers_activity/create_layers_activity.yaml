@@ -1,6 +1,7 @@
 ---
     id: create_layers_activity
     title: Create Layers Activity
+    storyPathLibraryFile: create_layers_activity_library.json
     cards:
 
         -

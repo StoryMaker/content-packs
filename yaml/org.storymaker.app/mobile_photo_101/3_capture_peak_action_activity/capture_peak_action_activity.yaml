@@ -1,6 +1,7 @@
 ---
     id: capture_peak_action_activity
     title: Capture Peak Action Activity
+    storyPathLibraryFile: capture_peak_action_activity_library.json
     cards:
 
         -

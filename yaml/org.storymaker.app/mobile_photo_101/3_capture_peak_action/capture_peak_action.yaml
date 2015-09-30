@@ -20,8 +20,6 @@
             header: Next
             text: 'Start'
             icon: down
-            references:
-                - capture_peak_action::value
 
         -
             type: TextCard

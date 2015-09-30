@@ -1,6 +1,7 @@
 ---
     id: compose_with_a_grid_activity
     title: Compose with a Grid Activity
+    storyPathLibraryFile: compose_with_a_grid_activity_library.json
     cards:
 
         -
