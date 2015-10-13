@@ -1,21 +1,18 @@
 ---
-    id: create_layers_activity
-    title: Create Layers Activity
+    id: control_light_activity
+    title: Control Light Activity
     classPackage: scal.io.liger.model
 
-    currentStoryPathFile: create_layers_activity.json
+    currentStoryPathFile: control_light_activity.json
     storyPathTemplateFiles:
-        create_layers_activity: create_layers_activity.json
+        control_light_activity: control_light_activity.json
     dependencies:
         -
-            dependencyId: create_layers
-            dependencyFile: create_layers.json
+            dependencyId: control_light_activity
+            dependencyFile: control_light_activity.json
         -
-            dependencyId: capture_peak_action
-            dependencyFile: ../3_capture_peak_action/capture_peak_action.json
-        -
-            dependencyId: compose_with_a_grid
-            dependencyFile: ../1_compose_with_a_grid/compose_with_a_grid.json
+            dependencyId: control_light
+            dependencyFile: ../6_control_light/control_light.json
     cards:
         -
             type: TipCollectionHeadlessCard
@@ -72,4 +69,4 @@
             type: LoaderHeadlessCard
             id: loader_card
             action: LOAD
-            target: create_layers_activity
+            target: control_light_activity

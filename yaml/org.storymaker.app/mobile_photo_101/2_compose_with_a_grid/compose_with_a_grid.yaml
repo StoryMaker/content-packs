@@ -162,6 +162,13 @@
         -
             type: LinkCard
             text: 'Next Lesson'
-            link: create_layers::intro_card_0
+            link: know_your_mobile::intro_card_0
+            references:
+                - compose_with_a_grid::milestone_start::value::true
+
+        -
+            type: LinkCard
+            text: 'Previous Lesson'
+            link: compose_with_a_grid::intro_card_0
             references:
                 - compose_with_a_grid::milestone_start::value::true

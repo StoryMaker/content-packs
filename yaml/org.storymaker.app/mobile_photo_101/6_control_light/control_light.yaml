@@ -1,0 +1,167 @@
+---
+    id: control_light
+    title: Control Light
+    cards:
+
+        -
+            type: IntroCard
+            exampleMediaPath: 1.jpg
+            headline: 'Control Light'
+            level: 'Introduction |'
+            time: '5-10 Minutes'
+
+        -
+            type: TextCard
+            text: 'Control of light and proper exposure is essential to strong mobile photography. Mobile cameras can take beautiful photos but present some unique challenges. This lesson will teach you to control light effectively.'
+
+        -
+            type: MilestoneCard
+            id: milestone_start
+            header: Next
+            text: Start
+            icon: down
+
+        -
+            type: TextCard
+            text: 'Mobile cameras struggle with high contrast light––bright sunlight and deep shadow in the same frame. They also struggle in low light. Learning to solve lighting problems and use light creatively in your photos is key to better photography.'
+            references:
+                - control_light::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'This photo is blurry because mobiles cannot freeze fast motion on an overcast day.'
+            medium: photo
+            media:
+                -
+                    media: 5.jpg
+                    media_caption: ©
+            references:
+                - control_light::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'When possible choose location and time of day for maximum available light. You may also choose a moment to take your photo when your subject is still or moving slowly.'
+            references:
+                - control_light::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'Photos of the same subject can change dramatically depending on the time of day. Early morning and sunset are the most dramatic times to photograph.'
+            medium: photo
+            media:
+                -
+                    media: 7.jpg
+                    media_caption: ©
+            references:
+                - control_light::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'Mobile cameras have touch-screen exposure. You can change exposure values of your photo by touching a different spot on the screen. NOTE: In your native camera app this will also change your focus.'
+            references:
+                - control_light::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'Experiment with touching different points on the screen to see how the exposure changes.'
+            medium: photo
+            media:
+                -
+                    media: 9.jpg
+                    media_caption: ©
+            references:
+                - control_light::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'Sometimes changing the exposure point is not enough. Unwanted backlighting is a common problem. Avoid strong light sources behind your subject. Change your angle or move the subject to control strong backlighting.'
+            references:
+                - control_light::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'In the photo on the bottom, the photographer moved to the left to remove the backlight.'
+            medium: photo
+            media:
+                -
+                    media: 11.jpg
+                    media_caption: ©
+            references:
+                - control_light::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'Once you have control of basic lighting you can begin to use light to create strong photos.'
+            references:
+                - control_light::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'Rembrandt Lighting is a technique that uses soft light from the side to improve a portrait. This could be light from a window, for example. This technique is named for a famous painter.'
+            references:
+                - control_light::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'In the photo on the left, soft light from one side creates more flattering contours on the subject''s face.'
+            medium: photo
+            media:
+                -
+                    media: 14.jpg
+                    media_caption: ©
+            references:
+                - control_light::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'You can do other creative things with lighting. For example, silhouetting takes advantage of strong backlighting.'
+            references:
+                - control_light::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'In this photo the exposure is set for the much brighter background, creating a silhouette.'
+            medium: photo
+            media:
+                -
+                    media: 16.jpg
+                    media_caption: ©
+            references:
+                - control_light::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'Some of the more advanced features in your mobile''s camera app can help solve lighting problems. Exposure compensation, for example.'
+            references:
+                - control_light::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'Explore some of the more advanced features in your camera app''s menu.'
+            medium: photo
+            media:
+                -
+                    media: 18.jpg
+                    media_caption: ©
+            references:
+                - control_light::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'Congratulations, you have learned the basic steps for controlling lighting with mobile photo. Practice your new skills in the activities below.'
+            references:
+                - control_light::milestone_start::value::true
+
+        -
+            type: LinkCard
+            text: 'Do the Activity'
+            link: control_light_activity::intro_card_0
+            references:
+                - control_light::milestone_start::value::true
+
+        -
+            type: LinkCard
+            text: 'Previous Lesson'
+            link: shoot_on_an_angle::intro_card_0
+            references:
+                - control_light::milestone_start::value::true

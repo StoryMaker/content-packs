@@ -135,6 +135,13 @@
 
         -
             type: LinkCard
+            text: 'Next Lesson'
+            link: shoot_on_an_angle::intro_card_0
+            references:
+                - capture_peak_action::milestone_start::value::true
+
+        -
+            type: LinkCard
             text: 'Previous Lesson'
             link: create_layers::intro_card_0
             references:

@@ -56,3 +56,8 @@
             type: LinkCard
             text: 'Next Lesson'
             link: create_layers::intro_card_0
+
+        -
+            type: LinkCard
+            text: 'Previous Lesson'
+            link: know_your_mobile::intro_card_0

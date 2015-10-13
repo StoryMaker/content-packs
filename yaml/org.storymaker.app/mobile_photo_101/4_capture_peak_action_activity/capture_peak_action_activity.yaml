@@ -40,9 +40,11 @@
             medium: photo
 
         -
-            type: TextCard
-            text: 'Congratulations on completing Mobile Photo 101! Don''t forget to share your photos with the StoryMaker community by tagging them #StoryMakerPics'
+            type: LinkCard
+            text: 'Next Lesson'
+            link: shoot_on_an_angle::intro_card_0
 
         -
-            type: TextCard
-            text: 'You can return home by hitting the back button next to the StoryMaker icon at the top of your screen.'
+            type: LinkCard
+            text: 'Previous Lesson'
+            link: create_layers::intro_card_0
