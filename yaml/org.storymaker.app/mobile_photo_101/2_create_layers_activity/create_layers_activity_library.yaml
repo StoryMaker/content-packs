@@ -9,7 +9,7 @@
     dependencies:
         -
             dependencyId: create_layers
-            dependencyFile: create_layers.json
+            dependencyFile: ../2_create_layers/create_layers.json
         -
             dependencyId: capture_peak_action
             dependencyFile: ../3_capture_peak_action/capture_peak_action.json

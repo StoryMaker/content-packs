@@ -9,7 +9,7 @@
     dependencies:
         -
             dependencyId: compose_with_a_grid
-            dependencyFile: compose_with_a_grid.json
+            dependencyFile: ../1_compose_with_a_grid/compose_with_a_grid.json
         -
             dependencyId: create_layers
             dependencyFile: ../2_create_layers/create_layers.json

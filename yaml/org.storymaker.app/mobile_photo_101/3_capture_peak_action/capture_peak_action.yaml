@@ -1,10 +1,19 @@
 ---
     id: capture_peak_action
     title: Capture Peak Action
+    storyPathLibraryFile: capture_peak_action_library.json
+    dependencies:
+        -
+            dependencyId: capture_peak_action_activity
+            dependencyFile: ../3_capture_peak_action_activity/capture_peak_action_activity.json
+        -
+            dependencyId: create_layers
+            dependencyFile: ../2_create_layers/create_layers.json
     cards:
 
         -
             type: IntroCard
+            id: intro_card_0
             exampleMediaPath: 1.jpg
             headline: 'Capture Peak Action'
             level: 'Introduction |'

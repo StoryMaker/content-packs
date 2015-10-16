@@ -1,9 +1,18 @@
 {
+    "title": "Create Layers Activity", 
+    "storyPathLibraryFile": "create_layers_activity_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../2_create_layers/create_layers.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
     "cards": [
         {
+            "time": "10 Minutes", 
             "level": "Introduction |", 
             "headline": "Create Layers | Activity", 
-            "time": "10 Minutes", 
             "exampleMediaPath": "1.jpg", 
             "type": "IntroCard", 
             "id": "intro_card_0"
@@ -54,8 +63,5 @@
             "type": "LinkCard"
         }
     ], 
-    "storyPathLibraryFile": "create_layers_activity_library.json", 
-    "classPackage": "scal.io.liger.model", 
-    "id": "create_layers_activity", 
-    "title": "Create Layers Activity"
+    "id": "create_layers_activity"
 }

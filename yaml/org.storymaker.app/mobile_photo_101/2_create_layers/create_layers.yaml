@@ -1,10 +1,22 @@
 ---
     id: create_layers
     title: Create Layers
+    storyPathLibraryFile: create_layers_library.json
+    dependencies:
+        -
+            dependencyId: create_layers_activity
+            dependencyFile: ../2_create_layers_activity/create_layers_activity.json
+        -
+            dependencyId: capture_peak_action
+            dependencyFile: ../3_capture_peak_action/capture_peak_action.json
+        -
+            dependencyId: compose_with_a_grid
+            dependencyFile: ../1_compose_with_a_grid/compose_with_a_grid.json
     cards:
 
         -
             type: IntroCard
+            id: intro_card_0
             exampleMediaPath: 1.jpg
             headline: 'Create Layers'
             level: 'Introduction |'

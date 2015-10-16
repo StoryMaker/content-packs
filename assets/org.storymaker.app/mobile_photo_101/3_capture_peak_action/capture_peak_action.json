@@ -1,9 +1,22 @@
 {
+    "title": "Capture Peak Action", 
+    "storyPathLibraryFile": "capture_peak_action_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "capture_peak_action_activity", 
+            "dependencyFile": "../3_capture_peak_action_activity/capture_peak_action_activity.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../2_create_layers/create_layers.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
     "cards": [
         {
+            "time": "3-5 Minutes", 
             "level": "Introduction |", 
             "headline": "Capture Peak Action", 
-            "time": "3-5 Minutes", 
             "exampleMediaPath": "1.jpg", 
             "type": "IntroCard", 
             "id": "intro_card_0"
@@ -188,7 +201,5 @@
             "type": "LinkCard"
         }
     ], 
-    "classPackage": "scal.io.liger.model", 
-    "id": "capture_peak_action", 
-    "title": "Capture Peak Action"
+    "id": "capture_peak_action"
 }

@@ -2,10 +2,15 @@
     id: create_layers_activity
     title: Create Layers Activity
     storyPathLibraryFile: create_layers_activity_library.json
+    dependencies:
+        -
+            dependencyId: create_layers
+            dependencyFile: ../2_create_layers/create_layers.json
     cards:
 
         -
             type: IntroCard
+            id: intro_card_0
             exampleMediaPath: 1.jpg
             headline: 'Create Layers | Activity'
             level: 'Introduction |'

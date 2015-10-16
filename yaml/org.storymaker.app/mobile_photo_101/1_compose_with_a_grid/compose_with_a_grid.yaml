@@ -1,10 +1,19 @@
 ---
     id: compose_with_a_grid
     title: Compose with a Grid
+    storyPathLibraryFile: compose_with_a_grid_library.json
+    dependencies:
+        -
+            dependencyId: create_layers
+            dependencyFile: ../2_create_layers/create_layers.json
+        -
+            dependencyId: compose_with_a_grid_activity
+            dependencyFile: ../1_compose_with_a_grid_activity/compose_with_a_grid_activity.json
     cards:
 
         -
             type: IntroCard
+            id: intro_card_0
             exampleMediaPath: 1.jpg
             headline: 'Compose with a Grid'
             level: 'Introduction |'

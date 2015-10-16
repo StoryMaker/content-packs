@@ -1,9 +1,26 @@
 {
+    "title": "Create Layers", 
+    "storyPathLibraryFile": "create_layers_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "create_layers_activity", 
+            "dependencyFile": "../2_create_layers_activity/create_layers_activity.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action", 
+            "dependencyFile": "../3_capture_peak_action/capture_peak_action.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "../1_compose_with_a_grid/compose_with_a_grid.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
     "cards": [
         {
+            "time": "3 Minutes", 
             "level": "Introduction |", 
             "headline": "Create Layers", 
-            "time": "3 Minutes", 
             "exampleMediaPath": "1.jpg", 
             "type": "IntroCard", 
             "id": "intro_card_0"
@@ -139,7 +156,5 @@
             "type": "LinkCard"
         }
     ], 
-    "classPackage": "scal.io.liger.model", 
-    "id": "create_layers", 
-    "title": "Create Layers"
+    "id": "create_layers"
 }
