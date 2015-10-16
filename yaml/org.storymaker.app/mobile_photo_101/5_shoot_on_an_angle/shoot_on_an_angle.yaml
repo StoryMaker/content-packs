@@ -91,7 +91,7 @@
 
         -
             type: TextCard
-            text: 'Congratulations, you've learned the basic steps to shoot photos on an angle. Practice your new skill in the activity below.'
+            text: 'Congratulations, you''ve learned the basic steps to shoot photos on an angle. Practice your new skill in the activity below.'
             references:
                 - shoot_on_an_angle::milestone_start::value::true
 
