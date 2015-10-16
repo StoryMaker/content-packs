@@ -1,15 +1,18 @@
 ---
-    id: compose_with_a_grid
-    title: Compose with a Grid
+    id: control_light_activity
+    title: Control Light Activity
     classPackage: scal.io.liger.model
 
-    currentStoryPathFile: compose_with_a_grid.json
+    currentStoryPathFile: control_light_activity.json
     storyPathTemplateFiles:
-        compose_with_a_grid: compose_with_a_grid.json
+        control_light_activity: control_light_activity.json
     dependencies:
         -
-            dependencyId: compose_with_a_grid
-            dependencyFile: compose_with_a_grid.json
+            dependencyId: control_light_activity
+            dependencyFile: control_light_activity.json
+        -
+            dependencyId: control_light
+            dependencyFile: ../6_control_light/control_light.json
     cards:
         -
             type: TipCollectionHeadlessCard
@@ -66,4 +69,4 @@
             type: LoaderHeadlessCard
             id: loader_card
             action: LOAD
-            target: compose_with_a_grid
+            target: control_light_activity

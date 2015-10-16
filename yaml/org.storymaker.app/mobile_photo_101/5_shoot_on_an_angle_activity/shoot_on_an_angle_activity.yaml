@@ -1,0 +1,50 @@
+---
+    id: shoot_on_an_angle_activity
+    title: Shoot on an Angle Activity
+    storyPathLibraryFile: shoot_on_an_angle_activity_library.json
+    cards:
+
+        -
+            type: IntroCard
+            exampleMediaPath: 1.jpg
+            headline: 'Shoot on an Angle | Activity'
+            level: 'Introduction |'
+            time: '10 Minutes'
+
+# link card allows people to return to the lesson connected to this activity.
+
+        -
+            type: LinkCard
+            text: 'Return to Lesson'
+            link: shoot_on_an_angle::intro_card_0
+
+        -
+            type: TextCard
+            text: 'Now that you''ve finished the lesson on shooting on an angle, this lesson will help you practice. Try a variety of angles, with different subjects.'
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - 'Try unique angles, not only high and low. Turn the camera at an angle to your subject.'
+            clipType: action
+            length: 0:20
+
+        -
+            type: ReviewCard
+            medium: photo
+
+        -
+            type: TipCard
+            tags:
+                - general
+
+        -
+            type: LinkCard
+            text: 'Next Lesson'
+            link: control_light::intro_card_0
+
+        -
+            type: LinkCard
+            text: 'Previous Lesson'
+            link: capture_peak_action::intro_card_0

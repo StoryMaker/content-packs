@@ -1,15 +1,18 @@
 ---
-    id: create_layers
-    title: Create Layers
+    id: know_your_mobile
+    title: Know Your Mobile
     classPackage: scal.io.liger.model
 
-    currentStoryPathFile: create_layers.json
+    currentStoryPathFile: know_your_mobile.json
     storyPathTemplateFiles:
-        create_layers: create_layers.json
+        know_your_mobile: know_your_mobile.json
     dependencies:
         -
-            dependencyId: create_layers
-            dependencyFile: create_layers.json
+            dependencyId: know_your_mobile
+            dependencyFile: know_your_mobile.json
+        -
+            dependencyId: compose_with_a_grid
+            dependencyFile: ../2_compose_with_a_grid/compose_with_a_grid.json
     cards:
         -
             type: TipCollectionHeadlessCard
@@ -66,4 +69,4 @@
             type: LoaderHeadlessCard
             id: loader_card
             action: LOAD
-            target: create_layers
+            target: know_your_mobile
