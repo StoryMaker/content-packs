@@ -1,24 +1,16 @@
 {
     "dependencies": [
         {
-            "dependencyId": "create_layers_activity", 
-            "dependencyFile": "create_layers_activity.json"
+            "dependencyId": "control_light_activity", 
+            "dependencyFile": "control_light_activity.json"
         }, 
         {
-            "dependencyId": "create_layers", 
-            "dependencyFile": "../3_create_layers/create_layers.json"
-        }, 
-        {
-            "dependencyId": "capture_peak_action", 
-            "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
-        }, 
-        {
-            "dependencyId": "compose_with_a_grid", 
-            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
+            "dependencyId": "control_light", 
+            "dependencyFile": "../6_control_light/control_light.json"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "title": "Create Layers Activity", 
+    "title": "Control Light Activity", 
     "cards": [
         {
             "tips": [
@@ -168,12 +160,12 @@
             "action": "LOAD", 
             "type": "LoaderHeadlessCard", 
             "id": "loader_card", 
-            "target": "create_layers_activity"
+            "target": "control_light_activity"
         }
     ], 
-    "currentStoryPathFile": "create_layers_activity.json", 
+    "currentStoryPathFile": "control_light_activity.json", 
     "storyPathTemplateFiles": {
-        "create_layers_activity": "create_layers_activity.json"
+        "control_light_activity": "control_light_activity.json"
     }, 
-    "id": "create_layers_activity"
+    "id": "control_light_activity"
 }

@@ -1,24 +1,24 @@
 {
     "dependencies": [
         {
-            "dependencyId": "create_layers_activity", 
-            "dependencyFile": "create_layers_activity.json"
+            "dependencyId": "control_light", 
+            "dependencyFile": "../6_control_light/control_light.json"
         }, 
         {
-            "dependencyId": "create_layers", 
-            "dependencyFile": "../3_create_layers/create_layers.json"
+            "dependencyId": "shoot_on_an_angle_activity", 
+            "dependencyFile": "shoot_on_an_angle_activity.json"
+        }, 
+        {
+            "dependencyId": "shoot_on_an_angle", 
+            "dependencyFile": "../5_shoot_on_an_angle/shoot_on_an_angle.json"
         }, 
         {
             "dependencyId": "capture_peak_action", 
             "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
-        }, 
-        {
-            "dependencyId": "compose_with_a_grid", 
-            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "title": "Create Layers Activity", 
+    "title": "Name of lesson", 
     "cards": [
         {
             "tips": [
@@ -168,12 +168,12 @@
             "action": "LOAD", 
             "type": "LoaderHeadlessCard", 
             "id": "loader_card", 
-            "target": "create_layers_activity"
+            "target": "shoot_on_an_angle_activity"
         }
     ], 
-    "currentStoryPathFile": "create_layers_activity.json", 
+    "currentStoryPathFile": "shoot_on_an_angle_activity.json", 
     "storyPathTemplateFiles": {
-        "create_layers_activity": "create_layers_activity.json"
+        "shoot_on_an_angle_activity": "shoot_on_an_angle_activity.json"
     }, 
-    "id": "create_layers_activity"
+    "id": "shoot_on_an_angle_activity"
 }

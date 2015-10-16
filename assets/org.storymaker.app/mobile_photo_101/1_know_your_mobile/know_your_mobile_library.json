@@ -1,16 +1,8 @@
 {
     "dependencies": [
         {
-            "dependencyId": "create_layers_activity", 
-            "dependencyFile": "create_layers_activity.json"
-        }, 
-        {
-            "dependencyId": "create_layers", 
-            "dependencyFile": "../3_create_layers/create_layers.json"
-        }, 
-        {
-            "dependencyId": "capture_peak_action", 
-            "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
+            "dependencyId": "know_your_mobile", 
+            "dependencyFile": "know_your_mobile.json"
         }, 
         {
             "dependencyId": "compose_with_a_grid", 
@@ -18,7 +10,7 @@
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "title": "Create Layers Activity", 
+    "title": "Know Your Mobile", 
     "cards": [
         {
             "tips": [
@@ -168,12 +160,12 @@
             "action": "LOAD", 
             "type": "LoaderHeadlessCard", 
             "id": "loader_card", 
-            "target": "create_layers_activity"
+            "target": "know_your_mobile"
         }
     ], 
-    "currentStoryPathFile": "create_layers_activity.json", 
+    "currentStoryPathFile": "know_your_mobile.json", 
     "storyPathTemplateFiles": {
-        "create_layers_activity": "create_layers_activity.json"
+        "know_your_mobile": "know_your_mobile.json"
     }, 
-    "id": "create_layers_activity"
+    "id": "know_your_mobile"
 }

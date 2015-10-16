@@ -1,0 +1,236 @@
+{
+    "cards": [
+        {
+            "level": "Introduction |", 
+            "headline": "Control Light", 
+            "time": "5-10 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Control of light and proper exposure is essential to strong mobile photography. Mobile cameras can take beautiful photos but present some unique challenges. This lesson will teach you to control light effectively.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "header": "Next", 
+            "text": "Start", 
+            "type": "ButtonCard", 
+            "id": "milestone_start", 
+            "icon": "down"
+        }, 
+        {
+            "text": "Mobile cameras struggle with high contrast light\u2013\u2013bright sunlight and deep shadow in the same frame. They also struggle in low light. Learning to solve lighting problems and use light creatively in your photos is key to better photography.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "5.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "This photo is blurry because mobiles cannot freeze fast motion on an overcast day.", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "5.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "When possible choose location and time of day for maximum available light. You may also choose a moment to take your photo when your subject is still or moving slowly.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "7.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Photos of the same subject can change dramatically depending on the time of day. Early morning and sunset are the most dramatic times to photograph.", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "7.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Mobile cameras have touch-screen exposure. You can change exposure values of your photo by touching a different spot on the screen. NOTE: In your native camera app this will also change your focus.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "9.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Experiment with touching different points on the screen to see how the exposure changes.", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "9.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Sometimes changing the exposure point is not enough. Unwanted backlighting is a common problem. Avoid strong light sources behind your subject. Change your angle or move the subject to control strong backlighting.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "11.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "In the photo on the bottom, the photographer moved to the left to remove the backlight.", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "11.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Once you have control of basic lighting you can begin to use light to create strong photos.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Rembrandt Lighting is a technique that uses soft light from the side to improve a portrait. This could be light from a window, for example. This technique is named for a famous painter.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "14.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "In the photo on the left, soft light from one side creates more flattering contours on the subject's face.", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "14.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "You can do other creative things with lighting. For example, silhouetting takes advantage of strong backlighting.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "16.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "In this photo the exposure is set for the much brighter background, creating a silhouette.", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "16.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "Some of the more advanced features in your mobile's camera app can help solve lighting problems. Exposure compensation, for example.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "18.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Explore some of the more advanced features in your camera app's menu.", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "18.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "text": "Congratulations, you have learned the basic steps for controlling lighting with mobile photo. Practice your new skills in the activities below.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_9", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Do the Activity", 
+            "link": "control_light_activity::intro_card_0", 
+            "id": "link_card_0", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Previous Lesson", 
+            "link": "shoot_on_an_angle::intro_card_0", 
+            "id": "link_card_1", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "control_light", 
+    "title": "Control Light"
+}

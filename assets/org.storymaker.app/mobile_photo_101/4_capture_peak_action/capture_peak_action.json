@@ -192,9 +192,18 @@
             "type": "LinkCard"
         }, 
         {
+            "text": "Next Lesson", 
+            "link": "shoot_on_an_angle::intro_card_0", 
+            "id": "link_card_1", 
+            "references": [
+                "capture_peak_action::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }, 
+        {
             "text": "Previous Lesson", 
             "link": "create_layers::intro_card_0", 
-            "id": "link_card_1", 
+            "id": "link_card_2", 
             "references": [
                 "capture_peak_action::milestone_start::value::true"
             ], 

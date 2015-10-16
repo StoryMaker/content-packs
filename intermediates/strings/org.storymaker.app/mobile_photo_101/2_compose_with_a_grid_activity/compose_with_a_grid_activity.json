@@ -6,6 +6,7 @@
   "compose_with_a_grid_activity::link_card_1::text": "Next Lesson", 
   "compose_with_a_grid_activity::intro_card_0::level": "Beginner |", 
   "compose_with_a_grid_activity::intro_card_0::headline": "Compose with a Grid | Activity", 
+  "compose_with_a_grid_activity::link_card_2::text": "Previous Lesson", 
   "compose_with_a_grid_activity::title": "Compose with a Grid Activity", 
   "compose_with_a_grid_activity::clip_card_0::goals[0]": "Fill the entire frame and use the lines and intersections in your composition."
 }

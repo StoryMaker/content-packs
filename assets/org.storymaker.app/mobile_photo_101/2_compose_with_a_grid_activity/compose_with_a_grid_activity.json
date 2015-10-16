@@ -74,6 +74,12 @@
             "link": "create_layers::intro_card_0", 
             "id": "link_card_1", 
             "type": "LinkCard"
+        }, 
+        {
+            "text": "Previous Lesson", 
+            "link": "know_your_mobile::intro_card_0", 
+            "id": "link_card_2", 
+            "type": "LinkCard"
         }
     ], 
     "id": "compose_with_a_grid_activity"
