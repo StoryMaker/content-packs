@@ -1,0 +1,17 @@
+---
+  id: traffic_accident
+  title: "See a Traffic Accident?"
+  storyPathTemplateFiles:
+    traffic_accident: "traffic_accident.json"
+  dependencies:
+    -
+      dependencyId: "traffic_accident"
+      dependencyFile: "traffic_accident.json"
+  classPackage: "scal.io.liger.model"
+  cards:
+    -
+      action: "LOAD"
+      type: "LoaderHeadlessCard"
+      id: "loader_card"
+      target: "traffic_accident"
+  currentStoryPathFile: "traffic_accident.json"
