@@ -109,7 +109,7 @@
             text: 'I want to interview more people'
             icon: down
             references:
-                - rz_meet_musician::value
+                - meet_musician::value
 
         -
             type: ClipCard
@@ -119,7 +119,7 @@
             clipType: character
             length: 0:20
             references:
-                - rz_meet_musician::milestone_start::value::true
+                - meet_musician::milestone_start::value::true
 
         -
             type: ClipCard
@@ -129,13 +129,13 @@
             clipType: character
             length: 0:20
             references:
-                - rz_meet_musician::milestone_start::value::true
+                - meet_musician::milestone_start::value::true
 
         -
             type: TextCard
             text: 'Use the duplicate card option in the menu to create additional cards if you want to interview even more people.'
             references:
-                - rz_meet_musician::milestone_start::value::true
+                - meet_musician::milestone_start::value::true
 
         -
             type: ClipCard
