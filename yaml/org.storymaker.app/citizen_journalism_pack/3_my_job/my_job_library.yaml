@@ -1,17 +1,17 @@
 ---
-  id: rz_my_job
+  id: my_job
   title: "What's your Job?"
   storyPathTemplateFiles:
-    rz_my_job: "rz_my_job.json"
+    my_job: "my_job.json"
   dependencies:
     -
-      dependencyId: "rz_my_job"
-      dependencyFile: "rz_my_job.json"
+      dependencyId: "my_job"
+      dependencyFile: "my_job.json"
   classPackage: "scal.io.liger.model"
   cards:
     -
       action: "LOAD"
       type: "LoaderHeadlessCard"
       id: "loader_card"
-      target: "rz_my_job"
-  currentStoryPathFile: "rz_my_job.json"
+      target: "my_job"
+  currentStoryPathFile: "my_job.json"

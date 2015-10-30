@@ -1,11 +1,11 @@
 ---
-    id: rz_traffic_report
+    id: traffic_accident
     title: See a Traffic Accident?
     cards:
 
         -
             type: IntroCard
-            exampleMediaPath: radiozamaneh.png
+            exampleMediaPath: 1.jpg
             headline: 'See a Traffic Accident? Report it!'
             level: 'Beginner |'
             time: '10-15 minutes'
@@ -30,6 +30,7 @@
             type: ClipCard
             medium: video
             goals:
+                - 'Show a detail of the accident, broken glass, a torn door, etc.'
                 - 'Show a close up detail of the accident, broken glass, a torn door, some result of the accident.'
             clipType: signature
             length: 0:20

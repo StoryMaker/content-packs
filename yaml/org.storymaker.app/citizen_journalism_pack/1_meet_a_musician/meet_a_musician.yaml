@@ -1,11 +1,11 @@
 ---
-    id: rz_meet_musician
+    id: meet_a_musician
     title: Meet a Musician!
     cards:
 
         -
             type: IntroCard
-            exampleMediaPath: radiozamaneh.png
+            exampleMediaPath: 1.jpg
             headline: 'Meet a Musician!'
             level: 'Beginner |'
             time: '15-30 Minutes'

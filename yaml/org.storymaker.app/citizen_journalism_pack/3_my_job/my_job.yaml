@@ -1,11 +1,11 @@
 ---
-    id: rz_my_job
+    id: my_job
     title: 'What''s your Job?'
     cards:
 
         -
             type: IntroCard
-            exampleMediaPath: radiozamaneh.png
+            exampleMediaPath: 1.jpg
             headline: 'What''s your Job?'
             level: 'Beginner |'
             time: '15 minutes'
@@ -78,6 +78,7 @@
             type: ClipCard
             medium: video
             goals:
+                - 'Ask- What might surprise most people about your job?'
                 - 'Ask- What is something interesting about your job that might surprise most people?'
             clipType: character
             length: 0:20
