@@ -4,7 +4,15 @@
     "dependencies": [
         {
             "dependencyId": "create_layers", 
-            "dependencyFile": "../2_create_layers/create_layers.json"
+            "dependencyFile": "../3_create_layers/create_layers.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action", 
+            "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
         }
     ], 
     "classPackage": "scal.io.liger.model", 

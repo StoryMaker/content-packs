@@ -1,4 +1,13 @@
 {
+    "title": "Control Light Activity", 
+    "storyPathLibraryFile": "control_light_activity_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "control_light", 
+            "dependencyFile": "../6_control_light/control_light.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
     "cards": [
         {
             "level": "Introduction |", 
@@ -52,8 +61,5 @@
             "id": "text_card_2"
         }
     ], 
-    "storyPathLibraryFile": "control_light_activity_library.json", 
-    "classPackage": "scal.io.liger.model", 
-    "id": "control_light_activity", 
-    "title": "Control Light Activity"
+    "id": "control_light_activity"
 }
