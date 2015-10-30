@@ -5,13 +5,13 @@
     dependencies:
         -
             dependencyId: create_layers_activity
-            dependencyFile: ../2_create_layers_activity/create_layers_activity.json
+            dependencyFile: ../3_create_layers_activity/create_layers_activity.json
         -
             dependencyId: capture_peak_action
-            dependencyFile: ../3_capture_peak_action/capture_peak_action.json
+            dependencyFile: ../4_capture_peak_action/capture_peak_action.json
         -
             dependencyId: compose_with_a_grid
-            dependencyFile: ../1_compose_with_a_grid/compose_with_a_grid.json
+            dependencyFile: ../2_compose_with_a_grid/compose_with_a_grid.json
     cards:
 
         -

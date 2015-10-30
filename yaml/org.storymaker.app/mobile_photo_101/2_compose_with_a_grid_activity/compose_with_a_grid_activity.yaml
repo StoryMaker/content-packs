@@ -4,8 +4,14 @@
     storyPathLibraryFile: compose_with_a_grid_activity_library.json
     dependencies:
         -
+            dependencyId: know_your_mobile
+            dependencyFile: ../1_know_your_mobile/know_your_mobile.json
+        -
             dependencyId: compose_with_a_grid
-            dependencyFile: ../1_compose_with_a_grid/compose_with_a_grid.json
+            dependencyFile: ../2_compose_with_a_grid/compose_with_a_grid.json
+        -
+            dependencyId: create_layers
+            dependencyFile: ../3_create_layers/create_layers.json
     cards:
 
         -

@@ -5,10 +5,13 @@
     dependencies:
         -
             dependencyId: create_layers
-            dependencyFile: ../2_create_layers/create_layers.json
+            dependencyFile: ../3_create_layers/create_layers.json
+        -
+            dependencyId: know_your_mobile
+            dependencyFile: ../1_know_your_mobile/know_your_mobile.json
         -
             dependencyId: compose_with_a_grid_activity
-            dependencyFile: ../1_compose_with_a_grid_activity/compose_with_a_grid_activity.json
+            dependencyFile: ../2_compose_with_a_grid_activity/compose_with_a_grid_activity.json
     cards:
 
         -
@@ -171,13 +174,13 @@
         -
             type: LinkCard
             text: 'Next Lesson'
-            link: know_your_mobile::intro_card_0
+            link: create_layers::intro_card_0
             references:
                 - compose_with_a_grid::milestone_start::value::true
 
         -
             type: LinkCard
             text: 'Previous Lesson'
-            link: compose_with_a_grid::intro_card_0
+            link: know_your_mobile::intro_card_0
             references:
                 - compose_with_a_grid::milestone_start::value::true

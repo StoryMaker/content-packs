@@ -1,6 +1,6 @@
 ---
     id: shoot_on_an_angle_activity
-    title: Name of lesson
+    title: Shoot on an Angle Activity
     classPackage: scal.io.liger.model
 
     currentStoryPathFile: shoot_on_an_angle_activity.json

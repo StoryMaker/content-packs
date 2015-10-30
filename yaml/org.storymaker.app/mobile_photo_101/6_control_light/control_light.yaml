@@ -1,6 +1,14 @@
 ---
     id: control_light
     title: Control Light
+    storyPathLibraryFile: control_light_library.json
+    dependencies:
+        -
+            dependencyId: control_light_activity
+            dependencyFile: ../6_control_light_activity/control_light_activity.json
+        -
+            dependencyId: shoot_on_an_angle
+            dependencyFile: ../5_shoot_on_an_angle/shoot_on_an_angle.json
     cards:
 
         -

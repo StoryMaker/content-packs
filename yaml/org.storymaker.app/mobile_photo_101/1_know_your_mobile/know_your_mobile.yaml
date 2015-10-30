@@ -1,6 +1,11 @@
 ---
     id: know_your_mobile
     title: Know Your Mobile
+    storyPathLibraryFile: know_your_mobile_library.json
+    dependencies:
+        -
+            dependencyId: compose_with_a_grid
+            dependencyFile: ../2_compose_with_a_grid/compose_with_a_grid.json
     cards:
 
         -
