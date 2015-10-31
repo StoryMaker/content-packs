@@ -1,54 +1,18 @@
 [
   {
-    "instanceFilePath": "org.storymaker.app/citizen_journalism_pack/0_rz_mentoring/rz_mentoring_library.json", 
-    "thumbnailPath": "org.storymaker.app/citizen_journalism_pack/cover.jpg", 
-    "language": "en", 
-    "title": "Radio Zamaneh Mentoring Assignment 1"
-  }, 
-  {
-    "instanceFilePath": "org.storymaker.app/citizen_journalism_pack/1_rz_environment_story/rz_environment_story_library.json", 
-    "thumbnailPath": "org.storymaker.app/citizen_journalism_pack/cover.jpg", 
-    "language": "en", 
-    "title": "Radio Zamaneh's environment story"
-  }, 
-  {
-    "instanceFilePath": "org.storymaker.app/citizen_journalism_pack/2_rz_nuclear_deal/rz_nuclear_deal_library.json", 
-    "thumbnailPath": "org.storymaker.app/citizen_journalism_pack/cover.jpg", 
-    "language": "en", 
-    "title": "What do Iranians think of the Nuclear Deal?"
-  }, 
-  {
-    "instanceFilePath": "org.storymaker.app/citizen_journalism_pack/3_rz_local_community/rz_local_community_library.json", 
-    "thumbnailPath": "org.storymaker.app/citizen_journalism_pack/cover.jpg", 
-    "language": "en", 
-    "title": "Show us the Iranian Community in your country"
-  }, 
-  {
-    "instanceFilePath": "org.storymaker.app/citizen_journalism_pack/4_rz_favorite_neighborhood/rz_favorite_neighborhood_library.json", 
-    "thumbnailPath": "org.storymaker.app/citizen_journalism_pack/cover.jpg", 
-    "language": "en", 
-    "title": "What's your favorite part of your neighborhood?"
-  }, 
-  {
-    "instanceFilePath": "org.storymaker.app/citizen_journalism_pack/5_rz_meet_musician/rz_meet_musician_library.json", 
+    "instanceFilePath": "org.storymaker.app/citizen_journalism_pack/1_meet_a_musician/meet_a_musician_library.json", 
     "thumbnailPath": "org.storymaker.app/citizen_journalism_pack/cover.jpg", 
     "language": "en", 
     "title": "Meet a Musician!"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/citizen_journalism_pack/6_rz_traffic_report/rz_traffic_report_library.json", 
+    "instanceFilePath": "org.storymaker.app/citizen_journalism_pack/2_traffic_accident/traffic_accident_library.json", 
     "thumbnailPath": "org.storymaker.app/citizen_journalism_pack/cover.jpg", 
     "language": "en", 
     "title": "See a Traffic Accident?"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/citizen_journalism_pack/7_rz_women_athletics/rz_women_athletics_library.json", 
-    "thumbnailPath": "org.storymaker.app/citizen_journalism_pack/cover.jpg", 
-    "language": "en", 
-    "title": "Women's Athletics in the Park"
-  }, 
-  {
-    "instanceFilePath": "org.storymaker.app/citizen_journalism_pack/8_rz_my_job/rz_my_job_library.json", 
+    "instanceFilePath": "org.storymaker.app/citizen_journalism_pack/3_my_job/my_job_library.json", 
     "thumbnailPath": "org.storymaker.app/citizen_journalism_pack/cover.jpg", 
     "language": "en", 
     "title": "What's your Job?"

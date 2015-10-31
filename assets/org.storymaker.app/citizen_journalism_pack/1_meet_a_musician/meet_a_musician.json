@@ -4,7 +4,7 @@
             "level": "Beginner |", 
             "headline": "Meet a Musician!", 
             "time": "15-30 Minutes", 
-            "exampleMediaPath": "radiozamaneh.png", 
+            "exampleMediaPath": "1.jpg", 
             "type": "IntroCard", 
             "id": "intro_card_0"
         }, 
@@ -126,7 +126,7 @@
         {
             "header": "Next", 
             "references": [
-                "rz_meet_musician::value"
+                "meet_musician::value"
             ], 
             "text": "I want to interview more people", 
             "type": "ButtonCard", 
@@ -137,7 +137,7 @@
             "length": "0:20", 
             "medium": "video", 
             "references": [
-                "rz_meet_musician::milestone_start::value::true"
+                "meet_musician::milestone_start::value::true"
             ], 
             "goals": [
                 "Do you have a favorite song from the musician?"
@@ -150,7 +150,7 @@
             "length": "0:20", 
             "medium": "video", 
             "references": [
-                "rz_meet_musician::milestone_start::value::true"
+                "meet_musician::milestone_start::value::true"
             ], 
             "goals": [
                 "What do you want to tell us about the musician?"
@@ -164,7 +164,7 @@
             "type": "BasicTextCard", 
             "id": "text_card_5", 
             "references": [
-                "rz_meet_musician::milestone_start::value::true"
+                "meet_musician::milestone_start::value::true"
             ]
         }, 
         {
@@ -214,6 +214,6 @@
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "id": "rz_meet_musician", 
+    "id": "meet_a_musician", 
     "title": "Meet a Musician!"
 }

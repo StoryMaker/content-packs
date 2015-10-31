@@ -4,7 +4,7 @@
             "level": "Beginner |", 
             "headline": "What's your Job?", 
             "time": "15 minutes", 
-            "exampleMediaPath": "radiozamaneh.png", 
+            "exampleMediaPath": "1.jpg", 
             "type": "IntroCard", 
             "id": "intro_card_0"
         }, 
@@ -92,6 +92,7 @@
             "medium": "video", 
             "length": "0:20", 
             "goals": [
+                "Ask- What might surprise most people about your job?", 
                 "Ask- What is something interesting about your job that might surprise most people?"
             ], 
             "clipType": "character", 
@@ -115,6 +116,6 @@
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "id": "rz_my_job", 
+    "id": "my_job", 
     "title": "What's your Job?"
 }

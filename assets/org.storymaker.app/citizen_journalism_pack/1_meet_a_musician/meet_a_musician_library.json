@@ -1,8 +1,8 @@
 {
     "dependencies": [
         {
-            "dependencyId": "rz_meet_musician", 
-            "dependencyFile": "rz_meet_musician.json"
+            "dependencyId": "meet_a_musician", 
+            "dependencyFile": "meet_a_musician.json"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
@@ -12,12 +12,12 @@
             "action": "LOAD", 
             "type": "LoaderHeadlessCard", 
             "id": "loader_card", 
-            "target": "rz_meet_musician"
+            "target": "meet_a_musician"
         }
     ], 
-    "currentStoryPathFile": "rz_meet_musician.json", 
+    "currentStoryPathFile": "meet_a_musician.json", 
     "storyPathTemplateFiles": {
-        "rz_meet_musician": "rz_meet_musician.json"
+        "meet_a_musician": "meet_a_musician.json"
     }, 
-    "id": "rz_meet_musician"
+    "id": "meet_a_musician"
 }

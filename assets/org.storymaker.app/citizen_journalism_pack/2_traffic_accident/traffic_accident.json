@@ -4,7 +4,7 @@
             "level": "Beginner |", 
             "headline": "See a Traffic Accident? Report it!", 
             "time": "10-15 minutes", 
-            "exampleMediaPath": "radiozamaneh.png", 
+            "exampleMediaPath": "1.jpg", 
             "type": "IntroCard", 
             "id": "intro_card_0"
         }, 
@@ -32,6 +32,7 @@
             "medium": "video", 
             "length": "0:20", 
             "goals": [
+                "Show a detail of the accident, broken glass, a torn door, etc.", 
                 "Show a close up detail of the accident, broken glass, a torn door, some result of the accident."
             ], 
             "clipType": "signature", 
@@ -90,6 +91,6 @@
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "id": "rz_traffic_report", 
+    "id": "traffic_accident", 
     "title": "See a Traffic Accident?"
 }

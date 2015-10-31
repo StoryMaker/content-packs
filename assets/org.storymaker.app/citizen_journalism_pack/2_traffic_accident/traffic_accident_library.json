@@ -1,8 +1,8 @@
 {
     "dependencies": [
         {
-            "dependencyId": "rz_traffic_report", 
-            "dependencyFile": "rz_traffic_report.json"
+            "dependencyId": "traffic_accident", 
+            "dependencyFile": "traffic_accident.json"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
@@ -12,12 +12,12 @@
             "action": "LOAD", 
             "type": "LoaderHeadlessCard", 
             "id": "loader_card", 
-            "target": "rz_traffic_report"
+            "target": "traffic_accident"
         }
     ], 
-    "currentStoryPathFile": "rz_traffic_report.json", 
+    "currentStoryPathFile": "traffic_accident.json", 
     "storyPathTemplateFiles": {
-        "rz_traffic_report": "rz_traffic_report.json"
+        "traffic_accident": "traffic_accident.json"
     }, 
-    "id": "rz_traffic_report"
+    "id": "traffic_accident"
 }

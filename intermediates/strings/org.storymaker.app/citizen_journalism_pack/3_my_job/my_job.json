@@ -1,0 +1,18 @@
+{
+  "my_job::intro_card_0::level": "Beginner |", 
+  "my_job::clip_card_0::goals[0]": "Choose a worker to profile, start by showing the place where they work.", 
+  "my_job::text_card_1::text": "Now it's time to interview your character. Make sure you move some place quiet.", 
+  "my_job::text_card_3::text": "When you're finished shooting, you can arrange your clips below, by pressing the 'Order' button. You can trim individual clips, by tapping their thumbnail image.", 
+  "my_job::clip_card_4::goals[0]": "Record the character interacting with one or more other people on the job.", 
+  "my_job::clip_card_6::goals[0]": "Get close. Ask- What is your favorite part of your job?", 
+  "my_job::clip_card_1::goals[0]": "Show the character in action, doing their primary job.", 
+  "my_job::clip_card_5::goals[0]": "Ask- How did you come to do this job?", 
+  "my_job::clip_card_7::goals[0]": "Ask- What might surprise most people about your job?", 
+  "my_job::clip_card_7::goals[1]": "Ask- What is something interesting about your job that might surprise most people?", 
+  "my_job::clip_card_2::goals[0]": "Get close. Record a significant detail of your character's job.", 
+  "my_job::intro_card_0::headline": "What's your Job?", 
+  "my_job::title": "What's your Job?", 
+  "my_job::text_card_0::text": "Take additional shots if needed. When you have are happy you have captured the main activities involved in your character's job, continue.", 
+  "my_job::text_card_2::text": "You can repeat this process with different workers and find the contrast between them.", 
+  "my_job::clip_card_3::goals[0]": "Record the character's expression while working."
+}
