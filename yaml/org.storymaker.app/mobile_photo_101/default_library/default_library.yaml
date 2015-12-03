@@ -1,0 +1,334 @@
+---
+    id: default_library
+    title: Mobile Photo Basics
+    classPackage: scal.io.liger.model
+    storyPathTemplateFiles:
+        know_your_mobile: 1_know_your_mobile.json
+        compose_with_a_grid: 2_compose_with_a_grid.json
+        compose_with_a_grid_activity: 2_compose_with_a_grid_activity.json
+        create_layers: 3_create_layers.json
+        create_layers_activity: 3_create_layers_activity.json
+        capture_peak_action: 4_capture_peak_action.json
+        capture_peak_action_activity: 4_capture_peak_action_activity.json
+        shoot_on_an_angle: 5_shoot_on_an_angle.json
+        shoot_on_an_angle_activity: 5_shoot_on_an_angle_activity.json
+        control_light: 6_control_light.json
+        control_light_activity: 6_control_light_activity.json
+
+    cards:
+        -
+            type: IntroCard
+            exampleMediaPath: 1.jpg
+            headline: 'Mobile Photo Basics'
+            level: 'Introduction |'
+            time: '3-5 Minutes'
+        -
+            id: quiz_card_know_your_mobile
+            type: QuizCard
+            question: Know Your Mobile
+            correctRequired: 1
+            choices:
+                -
+                    id: know_your_mobile_lesson
+                    text: Read the lesson
+
+        -
+            id: quiz_card_compose_with_a_grid
+            type: QuizCard
+            question: Compose with a Grid
+            correctRequired: 1
+            choices:
+                -
+                    id: LESSONNAME_lesson
+                    text: Read the lesson
+                -
+                    id: LESSONNAME_activity
+                    text: Do the activity
+
+        -
+            id: quiz_card_know_your_mobile
+            type: QuizCard
+            question: Know Your Mobile
+            correctRequired: 1
+            choices:
+                -
+                    id: know_your_mobile_lesson
+                    text: Read the lesson.
+
+
+        -
+            id: quiz_card_format
+            type: QuizCard
+            question: How would you like to tell it?
+            correctRequired: 1
+            references:
+                - default_library::quiz_card_topic::choice
+            choices:
+                # filter answer choices based on chosen topic
+                -
+                    id: interview
+                    text: Talk to people about it.
+                    filters_or:
+                        - default_library::quiz_card_topic::choice::event
+                        - default_library::quiz_card_topic::choice::profile
+                        - default_library::quiz_card_topic::choice::issue
+
+                -
+                    id: discussion
+                    text: Ask the same question to many people.
+                    filters_or:
+                        - default_library::quiz_card_topic::choice::event
+                        - default_library::quiz_card_topic::choice::profile
+                        - default_library::quiz_card_topic::choice::issue
+
+                -
+                    id: report
+                    text: Create an accurate summary.
+                    filters_or:
+                        - default_library::quiz_card_topic::choice::event
+                        - default_library::quiz_card_topic::choice::profile
+                        - default_library::quiz_card_topic::choice::issue
+
+                -
+                    id: process
+                    text: Document the steps taken.
+                    filters_or:
+                        - default_library::quiz_card_topic::choice::event
+                        - default_library::quiz_card_topic::choice::profile
+
+                -
+                    id: series
+                    text: Collect a set of pictures of people.
+                    filters_or:
+                        - default_library::quiz_card_topic::choice::event
+                        - default_library::quiz_card_topic::choice::profile
+                        - default_library::quiz_card_topic::choice::issue
+
+                -
+                    id: highlights
+                    text: Show the best moments.
+                    filters_or:
+                        - default_library::quiz_card_topic::choice::event
+                        - default_library::quiz_card_topic::choice::profile
+                        - default_library::quiz_card_topic::choice::issue
+
+        -
+            id: quiz_card_medium
+            type: QuizCard
+            question: Choose a medium.
+            correctRequired: 1
+            references:
+                - default_library::quiz_card_format::choice
+            choices:
+                # filter answer choices based on chosen format
+                -
+                    id: audio
+                    text: Audio
+                    filters_or:
+                        - default_library::quiz_card_format::choice::interview
+                        - default_library::quiz_card_format::choice::discussion
+                        - default_library::quiz_card_format::choice::report
+                        - default_library::quiz_card_format::choice::process
+                        - default_library::quiz_card_format::choice::highlights
+
+                -
+                    id: video
+                    text: Video
+                    filters_or:
+                        - default_library::quiz_card_format::choice::interview
+                        - default_library::quiz_card_format::choice::discussion
+                        - default_library::quiz_card_format::choice::report
+                        - default_library::quiz_card_format::choice::process
+                        - default_library::quiz_card_format::choice::highlights
+
+                -
+                    id: photo
+                    text: Photo
+                    filters_or:
+                        - default_library::quiz_card_format::choice::process
+                        - default_library::quiz_card_format::choice::series
+                        - default_library::quiz_card_format::choice::highlights
+
+        # this question only shows up if format == series
+        -
+            id: quiz_card_cliptype
+            type: QuizCard
+            question: What would you like to focus on?
+            filter: default_library::quiz_card_format::choice::series
+            correctRequired: 1
+            references:
+                - default_library::quiz_card_medium::choice
+                - default_library::quiz_card_format::choice::series
+            choices:
+                # filter answer choices based on chosen topic
+                -
+                    id: character
+                    text: Characters
+                    filters_or:
+                        - default_library::quiz_card_topic::choice::event
+                        - default_library::quiz_card_topic::choice::profile
+                        - default_library::quiz_card_topic::choice::issue
+
+                -
+                    id: action
+                    text: Actions
+                    filters_or:
+                        - default_library::quiz_card_topic::choice::event
+                        - default_library::quiz_card_topic::choice::profile
+
+                -
+                    id: result
+                    text: Results
+                    filters_or:
+                        - default_library::quiz_card_topic::choice::event
+
+                -
+                    id: place
+                    text: Places
+                    filters_or:
+                        - default_library::quiz_card_topic::choice::event
+                        - default_library::quiz_card_topic::choice::issue
+
+                -
+                    id: signature
+                    text: Signatures
+                    filters_or:
+                        - default_library::quiz_card_topic::choice::issue
+
+
+        # this question only shows up only if format == discussion
+        -
+            id: quiz_card_clipquestion
+            type: QuizCard
+            question: Which question would you like to use?
+            filter: default_library::quiz_card_format::choice::discussion
+            correctRequired: 1
+            references:
+                - default_library::quiz_card_medium::choice
+                - default_library::quiz_card_format::choice::discussion
+            choices:
+                # filter answer choices based on chosen topic && medium
+                -
+                    id: question_1
+                    text: Why is the event important?
+                    filters_and:
+                        - default_library::quiz_card_topic::choice::event
+                        - default_library::quiz_card_medium::choice::audio
+                -
+                    id: question_2
+                    text: What is your opinion of the event?
+                    filters_and:
+                        - default_library::quiz_card_topic::choice::event
+                        - default_library::quiz_card_medium::choice::audio
+                -
+                    id: question_3
+                    text: What do you think is the most exciting part of the event?
+                    filters_and:
+                        - default_library::quiz_card_topic::choice::event
+                        - default_library::quiz_card_medium::choice::audio
+                -
+                    id: question_4
+                    text: Why is the event important?
+                    filters_and:
+                        - default_library::quiz_card_topic::choice::event
+                        - default_library::quiz_card_medium::choice::video
+                -
+                    id: question_5
+                    text: What is your opinion of the event?
+                    filters_and:
+                        - default_library::quiz_card_topic::choice::event
+                        - default_library::quiz_card_medium::choice::video
+                -
+                    id: question_6
+                    text: What do you think is the most exciting part of the event?
+                    filters_and:
+                        - default_library::quiz_card_topic::choice::event
+                        - default_library::quiz_card_medium::choice::video
+                -
+                    id: question_7
+                    text: Why is the issue important?
+                    filters_and:
+                        - default_library::quiz_card_topic::choice::issue
+                        - default_library::quiz_card_medium::choice::audio
+                -
+                    id: question_8
+                    text: What is your opinion of the issue?
+                    filters_and:
+                        - default_library::quiz_card_topic::choice::issue
+                        - default_library::quiz_card_medium::choice::audio
+                -
+                    id: question_9
+                    text: What do you think should be done about the issue?
+                    filters_and:
+                        - default_library::quiz_card_topic::choice::issue
+                        - default_library::quiz_card_medium::choice::audio
+                -
+                    id: question_10
+                    text: Why is the issue important?
+                    filters_and:
+                        - default_library::quiz_card_topic::choice::issue
+                        - default_library::quiz_card_medium::choice::video
+                -
+                    id: question_11
+                    text: What is your opinion of the issue?
+                    filters_and:
+                        - default_library::quiz_card_topic::choice::issue
+                        - default_library::quiz_card_medium::choice::video
+                -
+                    id: question_12
+                    text: What do you think should be done about the issue?
+                    filters_and:
+                        - default_library::quiz_card_topic::choice::issue
+                        - default_library::quiz_card_medium::choice::video
+                -
+                    id: question_13
+                    text: Why is the character important?
+                    filters_and:
+                        - default_library::quiz_card_topic::choice::event
+                        - default_library::quiz_card_medium::choice::audio
+                -
+                    id: question_14
+                    text: What is your opinion of the character?
+                    filters_and:
+                        - default_library::quiz_card_topic::choice::profile
+                        - default_library::quiz_card_medium::choice::audio
+                -
+                    id: question_15
+                    text: What do you think the character should do next?
+                    filters_and:
+                        - default_library::quiz_card_topic::choice::profile
+                        - default_library::quiz_card_medium::choice::audio
+                -
+                    id: question_16
+                    text: Why is the character important?
+                    filters_and:
+                        - default_library::quiz_card_topic::choice::profile
+                        - default_library::quiz_card_medium::choice::video
+                -
+                    id: question_17
+                    text: What is your opinion of the character?
+                    filters_and:
+                        - default_library::quiz_card_topic::choice::issue
+                        - default_library::quiz_card_medium::choice::video
+                -
+                    id: question_18
+                    text: What do you think the character should do next?
+                    filters_and:
+                        - default_library::quiz_card_topic::choice::issue
+                        - default_library::quiz_card_medium::choice::video
+
+        -
+            type: HookLoaderHeadlessCard
+            id: hook_loader_card
+            action: LOAD
+            references:
+                -
+                    default_library::quiz_card_topic::choice
+                -
+                    default_library::quiz_card_format::choice
+                -
+                    default_library::quiz_card_medium::choice
+                -
+                    default_library::quiz_card_cliptype::choice
+                -
+                    default_library::quiz_card_clipquestion::choice
