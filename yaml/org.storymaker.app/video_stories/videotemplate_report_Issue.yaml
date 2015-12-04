@@ -3,9 +3,17 @@
     title: Issue Video
     cards:
 
-		- 
+		    -
+            type: MilestoneCard
+            id: ms_moreinfo
+            header: Next
+            text: About this Template
+            icon: down
+		    -
             type: TextCard
-            text: This template will help you report on a social issue that is important to your community. The clips suggested cover the primary shots you will need to identify and describe the issue. Feel free to skip shots, or use different shots as needed. Additionally, adapt the suggested questions to suit your needs.
+            text: 'This template will help you report on a social issue that is important to your community. The clips suggested cover the primary shots you will need to identify and describe the issue. Feel free to skip shots, or use different shots as needed. Additionally, adapt the suggested questions to suit your needs.'
+            references:
+                - videotemplate_report_issue::ms_moreinfo::value::true
 
         -
             type: TipCard

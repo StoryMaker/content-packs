@@ -1,11 +1,19 @@
 ---
     id: videotemplate_discussion_question3
-    title: What is your opinion?
+    title: Why is the event important?
     cards:
 
-		-
+		    -
+            type: MilestoneCard
+            id: ms_moreinfo
+            header: Next
+            text: About this Template
+            icon: down
+		    -
             type: TextCard
-            text: Discussions are framed around asking many people the same question. This template asks many people to give their opinion of a specific character. Discussions work well for gathering opinions about a character with a strong cultural or social significance. Feel free to use alternate questions if you think they may work better for you.
+            text: 'Discussions are framed around asking many people the same question. This template examines the importance of a single event. Discussions work well for introducing events with a strong cultural or social significance. Feel free to use alternate questions if you think they may work better for you.'
+            references:
+                - videotemplate_discussion_question3::ms_moreinfo::value::true
 
         -
             type: TipCard
@@ -17,7 +25,7 @@
             type: ClipCard
             medium: video
             goals:
-                - Show us something important to your character.
+                - Show us something that represents the event.
             clipType: Signature
             length: 0:10
 
@@ -25,64 +33,83 @@
             type: ClipCard
             medium: video
             goals:
-                - Show us what your character does for a living.
-                - Show your character interacting with other people in his life.
-                - Show people discussing your character in a group.
-            clipType: Action
-            length: 0:15
-
-        -
-            type: ClipCard
-            medium: video
-            goals:
-                - "Ask: What is your opinion of the character?"
-            clipType: Character
-            length: 0:30
-
-        -
-            type: ClipCard
-            medium: video
-            goals:
-                - "Ask: What is your opinion of the character?"
-            clipType: Character
-            length: 0:30
-
-        -
-            type: ClipCard
-            medium: video
-            goals:
-                - "Ask: What is your opinion of the character?"
-            clipType: Character
-            length: 0:30
-
-        -
-            type: ClipCard
-            medium: video
-            goals:
-                - "Ask: What is your opinion of the character?"
-            clipType: Character
-            length: 0:30
-
-        -
-            type: ClipCard
-            medium: video
-            goals:
-                - "Ask: What is your opinion of the character?"
-            clipType: Character
-            length: 0:30
-
-        -
-            type: ClipCard
-            medium: video
-            goals:
-                - Record sounds of the persons enviroment.
+                - Show where the event happens.
             clipType: Place
-            length: 0:09
+            length: 0:08
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Why is the event important?
+            clipType: Character
+            length: 0:25
+
+        -
+            type: TextCard
+            text: Talk to different people for each clip to give your story a range of voices.
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Why is the event important?
+            clipType: Character
+            length: 0:25
 
         -
             type: TipCard
             tags:
-                - edit
+                - interview
+                - during
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Why is the event important?
+            clipType: Character
+            length: 0:25
+
+        -
+            type: TextCard
+            text: If you get a bad answer, it's smart to try again with a new clip.
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Why is the event important?
+            clipType: Character
+            length: 0:25
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show a place important to the event.
+            clipType: Place
+            length: 0:12
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Why is the event important?
+            clipType: Character
+            length: 0:25
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show how the event ends.
+            clipType: Place
+            length: 0:12
+
+        -
+            type: TipCard
+            tags:
                 - video
                 - after
 
@@ -92,7 +119,7 @@
 
         -
             type: EvaluationCard
-            text: Does your story tell us why the person is important?
+            text: Does your story tell us why the issue is important?
 
         -
             type: PublishCard

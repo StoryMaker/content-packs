@@ -1,11 +1,19 @@
 ---
     id: videotemplate_discussion_question2
-    title: Why is the event important?
+    title: What should be done?
     cards:
 
-		-
+		    -
+            type: MilestoneCard
+            id: ms_moreinfo
+            header: Next
+            text: About this Template
+            icon: down
+        -
             type: TextCard
-            text: Discussions are framed around asking many people the same question. This template examines the importance of a single event. Discussions work well for introducing events with a strong cultural or social significance. Feel free to use alternate questions if you think they may work better for you.
+            text: 'Discussions are framed around asking many people the same question. This template investigates what can be done about a specific issue. Discussions work well for investigating issues with a strong cultural or social significance. Feel free to use alternate questions if you think they may work better for you.'
+            references:
+                - videotemplate_discussion_question2::ms_moreinfo::value::true
 
         -
             type: TipCard
@@ -17,7 +25,7 @@
             type: ClipCard
             medium: video
             goals:
-                - Show us something that represents the event.
+                - Show us something that introduces the issue.
             clipType: Signature
             length: 0:10
 
@@ -25,7 +33,7 @@
             type: ClipCard
             medium: video
             goals:
-                - Show where the event happens.
+                - Show where people are affected by the issue.
             clipType: Place
             length: 0:08
 
@@ -33,7 +41,7 @@
             type: ClipCard
             medium: video
             goals:
-                - Why is the event important?
+                - What do you think should be done about the issue?
             clipType: Character
             length: 0:25
 
@@ -45,7 +53,7 @@
             type: ClipCard
             medium: video
             goals:
-                - Why is the event important?
+                - What do you think should be done about the issue?
             clipType: Character
             length: 0:25
 
@@ -59,7 +67,7 @@
             type: ClipCard
             medium: video
             goals:
-                - Why is the event important?
+                - What do you think should be done about the issue?
             clipType: Character
             length: 0:25
 
@@ -71,7 +79,7 @@
             type: ClipCard
             medium: video
             goals:
-                - Why is the event important?
+                - What do you think should be done about the issue?
             clipType: Character
             length: 0:25
 
@@ -79,7 +87,7 @@
             type: ClipCard
             medium: video
             goals:
-                - Show a place important to the event.
+                - Show a place important to the issue.
             clipType: Place
             length: 0:12
 
@@ -87,7 +95,7 @@
             type: ClipCard
             medium: video
             goals:
-                - Why is the event important?
+                - What do you think should be done about the issue?
             clipType: Character
             length: 0:25
 
@@ -95,13 +103,14 @@
             type: ClipCard
             medium: video
             goals:
-                - Show how the event ends.
+                - Show where the issue happens.
             clipType: Place
             length: 0:12
 
         -
             type: TipCard
             tags:
+                - edit
                 - video
                 - after
 
@@ -111,7 +120,7 @@
 
         -
             type: EvaluationCard
-            text: Does your story tell us why the issue is important?
+            text: --------
 
         -
             type: PublishCard
