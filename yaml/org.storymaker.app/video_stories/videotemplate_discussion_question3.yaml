@@ -1,0 +1,103 @@
+---
+    id: videotemplate_discussion_question3
+    title: What is your opinion?
+    cards:
+
+		-
+            type: TextCard
+            text: Discussions are framed around asking many people the same question. This template asks many people to give their opinion of a specific character. Discussions work well for gathering opinions about a character with a strong cultural or social significance. Feel free to use alternate questions if you think they may work better for you.
+
+        -
+            type: TipCard
+            tags:
+                - video
+                - before
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show us something important to your character.
+            clipType: Signature
+            length: 0:10
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show us what your character does for a living.
+                - Show your character interacting with other people in his life.
+                - Show people discussing your character in a group.
+            clipType: Action
+            length: 0:15
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - "Ask: What is your opinion of the character?"
+            clipType: Character
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - "Ask: What is your opinion of the character?"
+            clipType: Character
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - "Ask: What is your opinion of the character?"
+            clipType: Character
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - "Ask: What is your opinion of the character?"
+            clipType: Character
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - "Ask: What is your opinion of the character?"
+            clipType: Character
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Record sounds of the persons enviroment.
+            clipType: Place
+            length: 0:09
+
+        -
+            type: TipCard
+            tags:
+                - edit
+                - video
+                - after
+
+        -
+            type: ReviewCard
+            medium: video
+
+        -
+            type: EvaluationCard
+            text: Does your story tell us why the person is important?
+
+        -
+            type: PublishCard
+            medium: video
+
+        -
+            type: NextUpCard
+            medium: video
