@@ -50,7 +50,8 @@
 
         -
             type: TextCard
-            text: You may want to substitute the name of the individual you are focused on where you see “the individual.”
+            text: You may want to substitute the name of the individual you are focused on where you see \“the individual.\”'
+
         -
             type: ClipCard
             medium: audio

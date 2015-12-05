@@ -182,12 +182,14 @@
                 -
                     id: audiotemplate_dayinthelife
                     text: A Day in the Life Story
+
 		    -
             type: MilestoneCard
             id: ms_moreinfo
             header: Next
             text: More Info
             icon: down
+
         -
             type: TextCard
             text: 'Making a great audio story involves a variety of clips. These templates will guide you to get all the clips you need to tell a variety of stories.'
