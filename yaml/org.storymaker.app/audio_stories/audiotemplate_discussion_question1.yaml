@@ -1,11 +1,20 @@
 ---
-    id: audiotemplate_discussion_audio_profile
-    title: Profile Discussion
+    id: audiotemplate_discussion_question1
+    title: What is your opinion of the person?
     cards:
+
+		    -
+            type: MilestoneCard
+            id: ms_moreinfo
+            header: Next
+            text: About this Template
+            icon: down
 
         -
             type: TextCard
             text: Discussions are framed around asking many people the same question. This template asks many people to give their opinion of a specific individual. Discussions work well for gathering opinions about a character with a strong cultural or social significance. Feel free to use alternate questions if you think they may work better for you.
+            references:
+              - audiotemplate_discussion_question1::ms_moreinfo::value::true
 
         -
             type: TipCard

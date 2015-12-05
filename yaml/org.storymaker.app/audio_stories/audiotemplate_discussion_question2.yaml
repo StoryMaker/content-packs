@@ -1,11 +1,20 @@
 ---
-    id: audiotemplate_discussion_audio_issue
-    title: Audio Discussion - What to do
+    id: audiotemplate_discussion_question2
+    title: What should be done?
     cards:
 
+		    -
+            type: MilestoneCard
+            id: ms_moreinfo
+            header: Next
+            text: About this Template
+            icon: down
+
         -
-        type: TextCard
-        text: Discussions are framed around asking many people the same question. This template investigates what can be done about a specific issue. Discussions work well for investigating issues with a strong cultural or social significance. Feel free to use alternate questions if you think they may work better for you.
+            type: TextCard
+            text: Discussions are framed around asking many people the same question. This template investigates what can be done about a specific issue. Discussions work well for investigating issues with a strong cultural or social significance. Feel free to use alternate questions if you think they may work better for you.
+            references:
+              - audiotemplate_discussion_question2::ms_moreinfo::value::true
 
         -
             type: TipCard

@@ -1,11 +1,20 @@
 ---
-    id: audiotemplate_report_audio_issue
-    title: Issue Report
+    id: audiotemplate_report_event
+    title: Event Video
     cards:
+
+		    -
+            type: MilestoneCard
+            id: ms_moreinfo
+            header: Next
+            text: About this Template
+            icon: down
 
         -
             type: TextCard
-            text: This template will help you report on a social issue that is important to your community. The clips suggested cover the primary shots you will need to identify and describe the issue. Feel free to skip shots, or use different shots as needed. Additionally, adapt the suggested questions to suit your needs.
+            text: This template will help you report on an event in your community. The clips suggested cover the primary shots you will need to tell the story of most events. Feel free to skip shots, or use different shots as needed. Additionally, adapt the suggested questions to suit your needs.
+            references:
+              - audiotemplate_report_event::ms_moreinfo::value::true
 
         -
             type: TipCard
@@ -17,7 +26,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record where the issue occurs.
+                - Record where the event happens.
             clipType: Place
             length: 0:12
 
@@ -25,15 +34,15 @@
             type: ClipCard
             medium: audio
             goals:
-                - Use your own voice or ask a character to introduce the issue.
-            clipType: Character
+                - Record sounds of preparation for the event.
+            clipType: Action
             length: 0:10
 
         -
             type: ClipCard
             medium: audio
             goals:
-                - Record sound Introducing the issue.
+                - Record sound of something introducing the event.
             clipType: Signature
             length: 0:20
 
@@ -41,7 +50,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - "Ask: How does the issue impact individuals or the community?"
+                - "Ask someone who is part of the event: What happens at the event?"
             clipType: Character
             length: 0:30
 
@@ -49,15 +58,15 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sounds of the impact of the issue on people.
-            clipType: Result
+                - Record sounds of what happens at the event.
+            clipType: Action
             length: 0:10
 
         -
             type: ClipCard
             medium: audio
             goals:
-                - Record sound of something notable about the issue.
+                - Record something interesting about the event.
             clipType: Signature
             length: 0:14
 
@@ -65,7 +74,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - "Ask an expert source: How can others help solve the issue?"
+                - Ask an Expert to talk about the event.
             clipType: Character
             length: 0:25
 
@@ -73,7 +82,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sounds of where the expert works.
+                - Record sounds of a place important to the event.
             clipType: Place
             length: 0:10
 
@@ -81,7 +90,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sounds of people working on the issue.
+                - Record sound of people interacting at the event.
             clipType: Action
             length: 0:15
 
@@ -89,7 +98,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Tell us some interesting facts about the history of the issue or why it started.
+                - In your own voice, tell us some interesting facts about the event or why it happens.
             clipType: Character
             length: 0:40
 
@@ -97,7 +106,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - "Ask an informational source: When did the issue first start?"
+                - "Ask: Why is this event interesting?"
             clipType: Character
             length: 0:30
 
@@ -105,7 +114,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sounds of the most important thing about the issue.
+                - Record another sound of something important to the event.
             clipType: Signature
             length: 0:12
 
@@ -113,23 +122,15 @@
             type: ClipCard
             medium: audio
             goals:
-                - Tell us how the issue is changing in response to actions of characters in the story.
-            clipType: Character
-            length: 0:30
+                - Record sounds of how the event ends.
+            clipType: Place
+            length: 0:10
 
         -
             type: ClipCard
             medium: audio
             goals:
-                - Record sounds of the character interacting with those affected.
-            clipType: Action
-            length: 0:15
-
-        -
-            type: ClipCard
-            medium: audio
-            goals:
-                - "Ask someone affected: What would you like to see happen regarding the issue?"
+                - Tell us how the event changes as it progresses.
             clipType: Character
             length: 0:20
 
@@ -137,15 +138,15 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sounds of what people are doing about the issue.
+                - Record another sound of something happening at the event.
             clipType: Action
-            length: 0:14
+            length: 0:10
 
         -
             type: ClipCard
             medium: audio
             goals:
-                - "Ask: What is being done about the issue?"
+                - Ask someone attending the event to talk about what they did.
             clipType: Character
             length: 0:25
 
@@ -153,7 +154,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sounds of how the character(s) is solving the issue.
+                - Record sounds of the result of people interacting at the event.
             clipType: Result
             length: 0:14
 
@@ -161,9 +162,17 @@
             type: ClipCard
             medium: audio
             goals:
-                - Tell us yourself what is expected for the issue in the future.
+                - Tell us what is expected for the event the next time it happens.
             clipType: Character
             length: 0:20
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - Record sounds of the end of the event.
+            clipType: Result
+            length: 0:08
 
         -
             type: TipCard
@@ -179,7 +188,7 @@
         -
             type: TipCard
             tags:
-                - audio
+                - narration
 
         -
             type: EvaluationCard

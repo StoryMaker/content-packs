@@ -1,15 +1,15 @@
 ---
-    id: video_library
-    title: video_library storyPathTemplateFiles
+    id: audio_library
+    title: audio_library storyPathTemplateFiles
     classPackage: scal.io.liger.model
     storyPathTemplateFiles:
-        videotemplate_day_in_the_life: videotemplate_day_in_the_life.json
-        videotemplate_discussion_question1: videotemplate_discussion_question1.json
-        videotemplate_discussion_question2: videotemplate_discussion_question2.json
-        videotemplate_discussion_question3: videotemplate_discussion_question3.json
-        videotemplate_highlights: videotemplate_highlights.json
-        videotemplate_report_event: videotemplate_report_event.json
-        videotemplate_report_issue: videotemplate_report_issue.json
+        audiotemplate_day_in_the_life: audiotemplate_day_in_the_life.json
+        audiotemplate_discussion_question1: audiotemplate_discussion_question1.json
+        audiotemplate_discussion_question2: audiotemplate_discussion_question2.json
+        audiotemplate_discussion_question3: audiotemplate_discussion_question3.json
+        audiotemplate_highlights: audiotemplate_highlights.json
+        audiotemplate_report_event: audiotemplate_report_event.json
+        audiotemplate_report_issue: audiotemplate_report_issue.json
 
     cards:
         -
@@ -162,25 +162,25 @@
             correctRequired: 1
             choices:
                 -
-                    id: videotemplate_highlights
+                    id: audiotemplate_highlights
                     text: A Highlights Story
                 -
-                    id: videotemplate_discussion_question1
+                    id: audiotemplate_discussion_question1
                     text: Discussion about an Individual
                 -
-                    id: videotemplate_discussion_question2
+                    id: audiotemplate_discussion_question2
                     text: Discussion about a Social Issue
                 -
-                    id: videotemplate_discussion_question3
+                    id: audiotemplate_discussion_question3
                     text: Discussion about an Event
                 -
-                    id: videotemplate_report_event
+                    id: audiotemplate_report_event
                     text: An Event Story
                 -
-                    id: videotemplate_report_issue
+                    id: audiotemplate_report_issue
                     text: An Issue Story
                 -
-                    id: videotemplate_dayinthelife
+                    id: audiotemplate_dayinthelife
                     text: A Day in the Life Story
 		    -
             type: MilestoneCard
@@ -190,9 +190,9 @@
             icon: down
         -
             type: TextCard
-            text: 'Making a great video story involves a variety of clips. These templates will guide you to get all the clips you need to tell a variety of stories.'
+            text: 'Making a great audio story involves a variety of clips. These templates will guide you to get all the clips you need to tell a variety of stories.'
             references:
-              - video_library::ms_moreinfo::value::true
+              - audio_library::ms_moreinfo::value::true
 
         -
             type: HookLoaderHeadlessCard
@@ -200,4 +200,4 @@
             action: LOAD
             references:
                 -
-                    video_library::quiz_card_topic::choice
+                    audio_library::quiz_card_topic::choice
