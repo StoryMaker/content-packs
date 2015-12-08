@@ -1,6 +1,6 @@
 ---
-    id: audiotemplate_report_issue
-    title: Issue Audio
+    id: issue_audio
+    title: Issue Audio Report
     cards:
 
 		    -
@@ -14,7 +14,7 @@
             type: TextCard
             text: 'This template will help you report on a social issue that is important to your community. The clips suggested cover the primary shots you will need to identify and describe the issue. Feel free to skip shots, or use different shots as needed. Additionally, adapt the suggested questions to suit your needs.'
             references:
-              - audiotemplate_report_issue::ms_moreinfo::value::true
+              - issue_audio::ms_moreinfo::value::true
 
         -
             type: TipCard
@@ -26,7 +26,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record where the issue occurs.
+                - Record sound that tells where the issue occurs.
             clipType: Place
             length: 0:12
 
@@ -59,7 +59,7 @@
             medium: audio
             goals:
                 - Record sound of the impact of the issue on people.
-            clipType: Result
+            clipType: Action
             length: 0:10
 
         -
@@ -114,7 +114,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sounds of the most important thing about the issue.
+                - Record sound of the most important thing about the issue.
             clipType: Signature
             length: 0:12
 
@@ -122,7 +122,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Tell us how characters in the story are working to change the issue.
+                - Record sound of someone helping those affected.
             clipType: Character
             length: 0:30
 
@@ -130,7 +130,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sound of someone interacting with those affected.
+                - Record sound of the character interacting with those affected.
             clipType: Action
             length: 0:15
 
@@ -138,7 +138,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - "Ask someone affected: How do you want the issue to be solved?
+                - "Ask someone affected: How do you want the issue to be solved?"
             clipType: Character
             length: 0:20
 
@@ -147,14 +147,14 @@
             medium: audio
             goals:
                 - Record sound of what people are doing about the issue.
-            clipType: Action
+            clipType: Result
             length: 0:14
 
         -
             type: ClipCard
             medium: audio
             goals:
-                - "Ask: What is being done about the issue?"
+                - " Ask: What is being done about the issue?"
             clipType: Character
             length: 0:25
 
@@ -162,7 +162,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sound of how the character(s) is solving the issue.
+                - Record sound of how the character is solving the issue.
             clipType: Result
             length: 0:14
 
@@ -188,7 +188,7 @@
         -
             type: TipCard
             tags:
-                - audio
+                - narration
 
         -
             type: PublishCard

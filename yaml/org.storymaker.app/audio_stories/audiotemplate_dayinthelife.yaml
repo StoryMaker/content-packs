@@ -12,7 +12,7 @@
 
         -
             type: TextCard
-            text: A day in the life follows one character throughout the story. The story may follow a literal day, or simply showcase an important part of the day. This template assumes you are following a character with a specific type of work, but the clips can be used to document anyone's day or activity. Feel free to use alternate questions if you think they may work better for you.
+            text: 'A day in the life follows one character throughout the story. The story may follow a literal day, or simply showcase an important part of the day. This template assumes you are following a character with a specific type of work, but the clips can be used to document anyone's day or activity. Feel free to use alternate questions if you think they may work better for you.'
             references:
               - audiotemplate_dayinthelife::ms_moreinfo::value::true
 
@@ -26,7 +26,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sounds of where your character lives.
+                - Record sound where your character lives.
             clipType: Place
             length: 0:10
 
@@ -58,7 +58,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sounds of a place important to your character.
+                - Record sound of a place important to your character.
             clipType: Place
             length: 0:20
 
@@ -74,7 +74,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record something your character does that is important to your story.
+                - Record something your character does that is important to the story.
             clipType: Action
             length: 0:12
 
@@ -82,7 +82,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sounds of your character’s work.
+                - Record sound of your character’s work.
             clipType: Action
             length: 0:18
 
@@ -90,7 +90,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sounds of the most important thing about your character’s work.
+                - Record sound of the most important thing to the character's work.
             clipType: Signature
             length: 0:11
 
@@ -98,7 +98,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sounds of where your character ends the day.
+                - Record sound of where your character ends the day.
             clipType: Place
             length: 0:17
 
@@ -106,7 +106,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sound of your character interacting with other people in his life.
+                - Record sound of your character interacting with other people.
             clipType: Action
             length: 0:10
 
@@ -114,7 +114,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sounds of what your character does for fun.
+                - Record sound of what your character does for fun.
             clipType: Action
             length: 0:19
 
@@ -150,10 +150,6 @@
             type: TipCard
             tags:
                 - audio
-
-        -
-            type: EvaluationCard
-            text: --------
 
         -
             type: PublishCard

@@ -12,7 +12,7 @@
 
         -
             type: TextCard
-            text: Discussions are framed around asking many people the same question. This template examines the importance of a single event. Discussions work well for introducing events with a strong cultural or social significance. Feel free to use alternate questions if you think they may work better for you.
+            text: 'Discussions are framed around asking many people the same question. This template examines the importance of a single event. Discussions work well for introducing events with a strong cultural or social significance. Feel free to use alternate questions if you think they may work better for you.'
             references:
               - audiotemplate_discussion_question3::ms_moreinfo::value::true
 
@@ -26,8 +26,8 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sounds of where the event happens.
-                - Record sounds of a place important to the event.
+                - Record sound of where the event happens.
+                - Record sound of a place important to the event.
             clipType: Place
             length: 0:10
 
@@ -35,7 +35,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sounds that introduce your discussion.
+                - Record sound that introduces your discussion.
             clipType: Signature
             length: 0:07
 
@@ -87,7 +87,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sounds of how the event ends.
+                - Record sound of how the event ends.
             clipType: Result
             length: 0:09
 

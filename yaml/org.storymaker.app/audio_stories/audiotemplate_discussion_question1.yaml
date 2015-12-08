@@ -12,7 +12,7 @@
 
         -
             type: TextCard
-            text: Discussions are framed around asking many people the same question. This template asks many people to give their opinion of a specific individual. Discussions work well for gathering opinions about a character with a strong cultural or social significance. Feel free to use alternate questions if you think they may work better for you.
+            text: 'Discussions are framed around asking many people the same question. This template asks many people to give their opinion of a specific individual. Discussions work well for gathering opinions about a character with a strong cultural or social significance. Feel free to use alternate questions if you think they may work better for you.'
             references:
               - audiotemplate_discussion_question1::ms_moreinfo::value::true
 
@@ -26,7 +26,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sounds of a place important to your character.
+                - Record sound of a place important to your character.
             clipType: Place
             length: 0:10
 
@@ -34,23 +34,13 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sounds that introduce your discussion.
+                - Record sound that introduces your discussion.
             clipType: Signature
             length: 0:07
 
         -
-            type: ClipCard
-            medium: audio
-            goals:
-                - Record sounds of your character interacting with other people in his life.
-                - Record sounds of what your character does for a living.
-                - Record sounds of people discussing your character in a group.
-            clipType: Action
-            length: 0:20
-
-        -
             type: TextCard
-            text: You may want to substitute the name of the individual you are focused on where you see \“the individual.\”'
+            text: 'You may want to substitute the name of the individual you are focused on where you see \“the individual.\”'
 
         -
             type: ClipCard
@@ -96,7 +86,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record sounds of the place where you asked about the individual.
+                - Record sound of the place where you asked about the individual.
             clipType: Place
             length: 0:09
 
@@ -110,10 +100,6 @@
         -
             type: ReviewCard
             medium: audio
-
-        -
-            type: EvaluationCard
-            text: Does your story tell us why the person is important?
 
         -
             type: PublishCard

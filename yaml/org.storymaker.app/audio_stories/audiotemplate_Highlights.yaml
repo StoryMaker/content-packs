@@ -12,7 +12,7 @@
 
         -
             type: TextCard
-            text: This template will help you capture the best moments in your story. Highlights stories are structured less to illustrate a clear story line and more to show the peak moments or most dramatic aspects of the topic. In audio, highlights stories are typically bracketed by the storyteller's voice.
+            text: 'This template will help you capture the best moments in your story. Highlights stories are structured less to illustrate a clear story line and more to show the peak moments or most dramatic aspects of the topic. In audio, highlights stories are typically bracketed by the storyteller's voice.'
             references:
               - audiotemplate_highlights::ms_moreinfo::value::true
 
@@ -20,7 +20,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record a location or the community that your story is about.
+                - Record sound of the community that your story is about.
             clipType: Place
             length: 0:12
 
@@ -84,7 +84,7 @@
 
         -
             type: TextCard
-            text: You may want more than 5 clips. On each clip there is a button that looks like three vertical dots. This is the “overflow menu.” This button will allow you to edit your clips or duplicate the card.
+            text: 'You may want more clips. On each clip there is a button that looks like three vertical dots. This is the \“overflow menu.\” This button will allow you to edit your clips or duplicate the card.'
 
         -
             type: ClipCard
@@ -118,10 +118,6 @@
             type: TipCard
             tags:
                 - audio
-
-        -
-            type: EvaluationCard
-            text: --------
 
         -
             type: PublishCard

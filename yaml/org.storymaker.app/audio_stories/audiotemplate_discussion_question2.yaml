@@ -12,7 +12,7 @@
 
         -
             type: TextCard
-            text: Discussions are framed around asking many people the same question. This template investigates what can be done about a specific issue. Discussions work well for investigating issues with a strong cultural or social significance. Feel free to use alternate questions if you think they may work better for you.
+            text: 'Discussions are framed around asking many people the same question. This template investigates what can be done about a specific issue. Discussions work well for investigating issues with a strong cultural or social significance. Feel free to use alternate questions if you think they may work better for you.'
             references:
               - audiotemplate_discussion_question2::ms_moreinfo::value::true
 
@@ -35,39 +35,13 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record the sounds of where the issue happens.
+                - Record sound of where the issue happens.
             clipType: Place
             length: 0:09
 
         -
             type: TextCard
-            text: You may want to substitute the name of the issue you are focused on where you see \“the issue.\”'
-
-        -
-            type: ClipCard
-            medium: audio
-            goals:
-                - What do you think should be done about the issue?
-            clipType: Character
-            length: 0:30
-
-        -
-            type: ClipCard
-            medium: audio
-            goals:
-                - What do you think should be done about the issue?
-            clipType: Character
-            length: 0:30
-
-        -
-            type: ClipCard
-            medium: audio
-            goals:
-                - Record people affected by the issue talking.
-                - Capture important sounds of a place important to the event.
-                - Record sounds of where the issue occurs.
-            clipType: Action
-            length: 0:09
+            text: 'You may want to substitute the name of the issue you are focused on where you see \“the issue.\”'
 
         -
             type: ClipCard
@@ -97,7 +71,23 @@
             type: ClipCard
             medium: audio
             goals:
-                - Show a place important to the issue.
+                - What do you think should be done about the issue?
+            clipType: Character
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - What do you think should be done about the issue?
+            clipType: Character
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - Record sound from the place you asked your questions.
             clipType: Place
             length: 0:09
 
