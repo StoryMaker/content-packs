@@ -1,0 +1,170 @@
+---
+    id: shoot_on_an_angle
+    title: Shoot on an Angle
+    storyPathLibraryFile: shoot_on_an_angle_library.json
+    dependencies:
+        -
+            dependencyId: toc
+            dependencyFile: ../0_toc/toc.json
+        -
+            dependencyId: capture_peak_action
+            dependencyFile: ../4_capture_peak_action/capture_peak_action.json
+        -
+            dependencyId: shoot_on_an_angle_activity
+            dependencyFile: ../5_shoot_on_an_angle_activity/shoot_on_an_angle_activity.json
+        -
+            dependencyId: control_light
+            dependencyFile: ../6_control_light/control_light.json
+    cards:
+        -
+            type: IntroCard
+            exampleMediaPath: 1.jpg
+            headline: 'Shoot on an Angle'
+            level: 'Introduction |'
+            time: '3-5 Minutes'
+
+        -
+            type: TextCard
+            text: 'Too often photographers simply stand in front of their subject and snap a photo. This lesson will demonstrate how to change your angle to make more compelling photos.'
+
+        -
+            type: MilestoneCard
+            id: milestone_start
+            header: Next
+            text: Start
+            icon: down
+
+        -
+            type: TextCard
+            text: 'To make stronger photos choose interesting angles from which to photograph your subject.'
+            references:
+                - shoot_on_an_angle::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'Shooting from a low angle can make a subject appear more powerful.'
+            medium: photo
+            media:
+                -
+                    media: 2.jpg
+                    media_caption: ©
+            references:
+                - shoot_on_an_angle::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'Explore a variety of angles when photographing a character or place. A high angle has a very different effect than a low angle.'
+            references:
+                - shoot_on_an_angle::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'A slightly elevated angle can help provide information about the scene.'
+            medium: photo
+            media:
+                -
+                    media: 3.jpg
+                    media_caption: ©
+            references:
+                - shoot_on_an_angle::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'An unusual angle can help you emphasize a particular element of your story.'
+            references:
+                - shoot_on_an_angle::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'This image emphasizes the chess piece, illustrating the story more dramatically.'
+            medium: photo
+            media:
+                -
+                    media: 4.jpg
+                    media_caption: ©
+            references:
+                - shoot_on_an_angle::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'A very high angle can help better capture an entire scene in a single image.'
+            references:
+                - shoot_on_an_angle::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'Unique angles can help you present the story in an interesting and creative way.'
+            medium: photo
+            media:
+                -
+                    media: 5.jpg
+                    media_caption: ©
+            references:
+                - shoot_on_an_angle::milestone_start::value::true
+
+        -
+            type: MilestoneCard
+            id: milestone_examples_start
+            header: Next
+            text: See More Examples
+            icon: down
+            references:
+                - shoot_on_an_angle::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: ''
+            medium: photo
+            media:
+                -
+                    media: example_1.jpg
+                    media_caption: ©
+            references:
+                - shoot_on_an_angle::milestone_examples_start::value::true
+        -
+            type: PreviewCard
+            title: ''
+            medium: photo
+            media:
+                -
+                    media: example_2.jpg
+                    media_caption: ©
+            references:
+                - shoot_on_an_angle::milestone_examples_start::value::true
+        -
+            type: PreviewCard
+            title: ''
+            medium: photo
+            media:
+                -
+                    media: example_3.jpg
+                    media_caption: ©
+            references:
+                - shoot_on_an_angle::milestone_examples_start::value::true
+
+        -
+            type: TextCard
+            text: 'Congratulations, you''ve learned the basic steps to shoot photos on an angle. Practice your new skill in the activity below.'
+            references:
+                - shoot_on_an_angle::milestone_start::value::true
+
+        -
+            type: LinkCard
+            text: 'Do the Activity'
+            link: shoot_on_an_angle_activity::intro_card_0
+            references:
+                - shoot_on_an_angle::milestone_start::value::true
+
+        -
+            type: LinkCard
+            text: 'Next Lesson'
+            link: control_light::intro_card_0
+            references:
+                - shoot_on_an_angle::milestone_start::value::true
+
+        -
+            type: LinkCard
+            text: 'Previous Lesson'
+            link: capture_peak_action::intro_card_0
+            references:
+                - shoot_on_an_angle::milestone_start::value::true

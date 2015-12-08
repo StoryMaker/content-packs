@@ -1,0 +1,158 @@
+---
+    id: create_layers
+    title: Create Layers
+    storyPathLibraryFile: create_layers_library.json
+    dependencies:
+        -
+            dependencyId: toc
+            dependencyFile: ../0_toc/toc.json
+        -
+            dependencyId: create_layers_activity
+            dependencyFile: ../3_create_layers_activity/create_layers_activity.json
+        -
+            dependencyId: capture_peak_action
+            dependencyFile: ../4_capture_peak_action/capture_peak_action.json
+    cards:
+
+        -
+            type: IntroCard
+            id: intro_card_0
+            exampleMediaPath: 1.jpg
+            headline: 'Create Layers'
+            level: 'Introduction |'
+            time: '3 Minutes'
+
+        -
+            type: TextCard
+            text: 'Layers help the two-dimensional space of a photo better represent the three-dimensional world. This lesson will teach you the basic steps to create photos with layers.'
+
+        -
+            type: MilestoneCard
+            id: milestone_start
+            header: Next
+            text: 'Start'
+            icon: down
+
+        -
+            type: TextCard
+            text: 'The most basic way to use layers is with two distinct layers: a subject layer and a context layer. The context layer provides additional information related to your subject.'
+            references:
+                - create_layers::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'In this photo the subject layer is in color.'
+            medium: photo
+            media:
+                -
+                    media: 2.jpg
+                    media_caption:
+            references:
+                - create_layers::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'The subject layer shows the main subject of your photo. This is usually a person or an object. The subject layer is often placed in the foreground layer of your frame.'
+            references:
+                - create_layers::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'In this photo the context layer is in color.'
+            medium: photo
+            media:
+                -
+                    media: 3.jpg
+                    media_caption:
+            references:
+                - create_layers::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'The context layer is often the background layer. It helps the viewer better understand a subject''s environment or an important detail of the story. In this photo the context layer tells the viewer the women are at a protest.'
+            references:
+                - create_layers::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'Sometimes the layers are reversed, here the context layer is in the foreground.'
+            medium: photo
+            media:
+                -
+                    media: 4.jpg
+                    media_caption:
+            references:
+                - create_layers::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'This image highlights the context of the story — the game — by placing it in the foreground and placing the subject in the background.'
+            references:
+                - create_layers::milestone_start::value::true
+
+        -
+            type: MilestoneCard
+            id: milestone_examples_start
+            header: Next
+            text: See More Examples
+            icon: down
+            references:
+                - create_layers::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: ''
+            medium: photo
+            media:
+                -
+                    media: example_1.jpg
+                    media_caption: ©
+            references:
+                - create_layers::milestone_examples_start::value::true
+        -
+            type: PreviewCard
+            title: ''
+            medium: photo
+            media:
+                -
+                    media: example_2.jpg
+                    media_caption: ©
+            references:
+                - create_layers::milestone_examples_start::value::true
+        -
+            type: PreviewCard
+            title: ''
+            medium: photo
+            media:
+                -
+                    media: example_3.jpg
+                    media_caption: ©
+            references:
+                - create_layers::milestone_examples_start::value::true
+
+        -
+            type: TextCard
+            text: 'Congratulations, you''ve learned the basics to creating layers in a photo. Practice your new skill in the activity below.'
+            references:
+                - create_layers::milestone_start::value::true
+
+        -
+            type: LinkCard
+            text: 'Do the Activity'
+            link: create_layers_activity::intro_card_0
+            references:
+                - create_layers::milestone_start::value::true
+
+        -
+            type: LinkCard
+            text: 'Next Lesson'
+            link: capture_peak_action::intro_card_0
+            references:
+                - create_layers::milestone_start::value::true
+
+        -
+            type: LinkCard
+            text: 'Previous Lesson'
+            link: create_layers::intro_card_0
+            references:
+                - create_layers::milestone_start::value::true

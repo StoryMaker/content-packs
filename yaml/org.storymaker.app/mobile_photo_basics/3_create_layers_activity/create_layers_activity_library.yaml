@@ -1,0 +1,43 @@
+---
+    id: create_layers_activity
+    title: Create Layers Activity
+    classPackage: scal.io.liger.model
+
+    currentStoryPathFile: create_layers_activity.json
+    storyPathTemplateFiles:
+        create_layers_activity: create_layers_activity.json
+    dependencies:
+        -
+            dependencyId: toc
+            dependencyFile: ../0_toc/toc.json
+        -
+            dependencyId: compose_with_a_grid
+            dependencyFile: ../2_compose_with_a_grid/compose_with_a_grid.json
+        -
+            dependencyId: create_layers
+            dependencyFile: ../3_create_layers/create_layers.json
+        -
+            dependencyId: create_layers_activity
+            dependencyFile: create_layers_activity.json
+        -
+            dependencyId: capture_peak_action
+            dependencyFile: ../4_capture_peak_action/capture_peak_action.json
+    cards:
+        -
+            type: TipCollectionHeadlessCard
+            id: "tip_collection"
+            tips:
+                -   tags: [layers]
+                    text: 'Tip: Ensure foreground objects are not too close unless you want them out of focus.'
+                -   tags: [layers]
+                    text: 'Tip: Subjects in the background must not appear too small or their importance may be lost.'
+                -   tags: [layers]
+                    text: 'Tip: When shooting multiple characters or objects, place one in the background to create a sense of depth.'
+                -   tags: [layers]
+                    text: 'Tip: Distracting objects in the background can ruin a well-framed foreground.'
+
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: create_layers_activity
