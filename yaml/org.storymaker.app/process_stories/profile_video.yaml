@@ -42,8 +42,8 @@
             length: 0:20
 
         -
-            type: BasicTextCard
-            text: Be sure to get a variety of compositions when illustrating the process. Some wide shots, close-ups and medium shots. Your character does not have to be in every frame.
+            type: TextCard
+            text: 'Be sure to get a variety of compositions when illustrating the process. Some wide shots, close-ups and medium shots. Your character does not have to be in every frame.'
 
         -
             type: ClipCard
@@ -99,10 +99,6 @@
             type: TipCard
             tags:
                 - narration
-
-        -
-            type: EvaluationCard
-            text: --------
 
         -
             type: PublishCard

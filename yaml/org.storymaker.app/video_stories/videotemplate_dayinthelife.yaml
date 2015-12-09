@@ -14,6 +14,7 @@
             text: 'A day in the life follows one character throughout the story. The story may follow a literal day, or simply showcase an important part of the day. This template assumes you are following a character with a specific type of work, but the clips can be used to document anyone''s day or activity. Feel free to use alternate questions if you think they may work better for you.'
             references:
               - videotemplate_dayinthelife::ms_moreinfo::value::true
+
         -
             type: TipCard
             tags:
@@ -116,10 +117,6 @@
             type: TipCard
             tags:
                 - narration
-
-        -
-            type: EvaluationCard
-            text: --------
 
         -
             type: PublishCard

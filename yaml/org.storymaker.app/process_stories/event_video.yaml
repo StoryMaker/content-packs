@@ -29,7 +29,7 @@
 
         -
             type: TextCard
-            text: Do not shoot every step. Just the significant steps to show the progression from beginning to end.
+            text: 'Do not shoot every step. Just the significant steps to show the progression from beginning to end.'
 
         -
             type: ClipCard
@@ -83,7 +83,7 @@
             type: ClipCard
             medium: video
             goals:
-                - Show the finished product or the event concluding - the dramatic finish.
+                - Show the event concluding.
             clipType: Result
             length: 0:15
 
@@ -102,10 +102,6 @@
             type: TipCard
             tags:
                 - narration
-
-        -
-            type: EvaluationCard
-            text: --------
 
         -
             type: PublishCard

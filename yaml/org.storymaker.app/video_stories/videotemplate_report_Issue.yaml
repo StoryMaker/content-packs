@@ -42,7 +42,7 @@
             type: ClipCard
             medium: video
             goals:
-                - Introduce the issue.
+                - Ask someone to introduce the issue.
             clipType: Signature
             length: 0:12
 
@@ -157,10 +157,6 @@
             type: TipCard
             tags:
                 - narration
-
-        -
-            type: EvaluationCard
-            text: --------
 
         -
             type: PublishCard

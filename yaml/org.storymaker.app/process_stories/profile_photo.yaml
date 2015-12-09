@@ -42,8 +42,8 @@
             length: 0:00
 
         -
-            type: BasicTextCard
-            text: Shoot a variety of compositions when illustrating the process. Some wide shots, close-ups and medium shots. Your character does not have to be in every picture.
+            type: TextCard
+            text: 'Shoot a variety of compositions when illustrating the process. Some wide shots, close-ups and medium shots. Your character does not have to be in every picture.'
 
         -
             type: ClipCard
@@ -99,10 +99,6 @@
             type: TipCard
             tags:
                 - photo
-
-        -
-            type: EvaluationCard
-            text: --------
 
         -
             type: PublishCard

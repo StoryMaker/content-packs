@@ -74,7 +74,7 @@
             type: ClipCard
             medium: video
             goals:
-                - "Ask someone who is part of the event: Why is this event interesting?"
+                - "Ask someone who is in the event: Why is this event interesting?"
             clipType: Character
             length: 0:25
 
@@ -173,10 +173,6 @@
             type: TipCard
             tags:
                 - narration
-
-        -
-            type: EvaluationCard
-            text: --------
 
         -
             type: PublishCard

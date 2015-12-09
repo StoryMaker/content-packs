@@ -9,6 +9,7 @@
             header: Next
             text: About this Template
             icon: down
+
 		    -
             type: TextCard
             text: 'Discussions are framed around asking many people the same question. This template examines the importance of a single event. Discussions work well for introducing events with a strong cultural or social significance. Feel free to use alternate questions if you think they may work better for you.'
@@ -47,7 +48,7 @@
 
         -
             type: TextCard
-            text: Talk to different people for each clip to give your story a range of voices.
+            text: 'Talk to different people for each clip to give your story a range of voices. You may want to substitute the name of the issue you are focused on where you see \“the issue.\”'
 
         -
             type: ClipCard
@@ -73,7 +74,7 @@
 
         -
             type: TextCard
-            text: If you get a bad answer, it's smart to try again with a new clip.
+            text: 'If you get a bad answer, feel free to ask again in a new clip, or find someone else.'
 
         -
             type: ClipCard

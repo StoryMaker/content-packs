@@ -16,7 +16,7 @@
             medium: audio
             goals:
                 - Introduce the beginning of the event.
-                - Stand near the entrance and record the sounds of people walking by.
+                - Stand near the entrance and record sound of people walking by.
                 - Capture the sounds of the crowd inside the event.
             clipType: Character
             length: 0:25
@@ -50,10 +50,6 @@
             length: 0:11
 
         -
-            type: TextCard
-            text: If there are more than four steps involved, add more clip cards with the + button.
-
-        -
             type: ClipCard
             medium: audio
             goals:
@@ -65,7 +61,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record an especially dramatic moment that is a summary of the event.
+                - Record an especially dramatic moment that summarizes the event.
             clipType: Signature
             length: 0:20
 
@@ -73,7 +69,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record the character doing the activity.
+                - Record the character engaged in the event's main activity.
             clipType: Character
             length: 0:15
 
@@ -81,7 +77,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record people watching or reacting to the event. Engaged and animated watchers are best.
+                - Record people watching or reacting to the event.
             clipType: Result
             length: 0:10
 
@@ -89,7 +85,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - Record the finished product or the event concluding - the dramatic finish.
+                - Record sound of the event concluding.
             clipType: Result
             length: 0:15
 
@@ -103,15 +99,6 @@
         -
             type: ReviewCard
             medium: audio
-
-        -
-            type: TipCard
-            tags:
-                - narration
-
-        -
-            type: EvaluationCard
-            text: --------
 
         -
             type: PublishCard

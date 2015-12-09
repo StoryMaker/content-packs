@@ -9,6 +9,7 @@
             header: Next
             text: About this Template
             icon: down
+
        	-
             type: TextCard
             text: 'This template will help you capture the best moments in your story. Highlights stories are structured less to illustrate a clear story line and more to show the peak moments or most dramatic aspects of the topic. In video, highlights stories are typically carried by narration.'
@@ -19,7 +20,7 @@
             type: ClipCard
             medium: video
             goals:
-                - Show a location or the community that your issue is about.
+                - Show a location or the community that your story is about.
             clipType: Place
             length: 0:08
 
@@ -33,7 +34,7 @@
             type: ClipCard
             medium: video
             goals:
-                - Show people affected by the issue.
+                - Show the main character(s) in your story.
             clipType: Character
             length: 0:10
 
@@ -47,7 +48,7 @@
             type: ClipCard
             medium: video
             goals:
-                - Show something that sums up the the issue and its impact.
+                - Show something that sums up the the importance of the story.
             clipType: Signature
             length: 0:15
 
@@ -55,7 +56,7 @@
             type: ClipCard
             medium: video
             goals:
-                - Show the most important example that illustrates the issue and its impact.
+                - Show character(s) engaged in an activity relevant to the story.
             clipType: Action
             length: 0:30
 
@@ -63,9 +64,9 @@
             type: ClipCard
             medium: video
             goals:
-                - Show another important but different example that illustrates the issue and its impact.
-            clipType: Action
-            length: 0:20
+                - Ask a relevant character to talk about the story.
+            clipType: Character
+            length: 0:15
 
         -
             type: TipCard
@@ -77,19 +78,15 @@
             type: ClipCard
             medium: video
             goals:
-                - Show another important but different example that illustrate the issue and its impact.
+                - Show the character engaged in an activity relevant to the story.
             clipType: Action
             length: 0:25
-
-        -
-            type: TextCard
-            text: If there are more than three, you should add clips to include them.
 
         -
             type: ClipCard
             medium: video
             goals:
-                - Talk to any significant people at the event. This might be the main performer or speaker. This might be a dignitary or politician or celebrity in attendance.
+                - Ask another relevant character to talk about the story.
             clipType: Character
             length: 0:15
 
@@ -97,16 +94,7 @@
             type: ClipCard
             medium: video
             goals:
-                - Show the effect of the issue. Show how it impacts the community.
-            clipType: Result
-            length: 0:20
-
-        -
-            type: ClipCard
-            medium: video
-            goals:
-                - Has anything been done about the issue? Show the change.
-                - If nothing has changed, show that.
+                - Show something that sums up or concludes the story.
             clipType: Result
             length: 0:20
 
@@ -125,10 +113,6 @@
             type: TipCard
             tags:
                 - narration
-
-        -
-            type: EvaluationCard
-            text: --------
 
         -
             type: PublishCard
