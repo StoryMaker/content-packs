@@ -1,0 +1,18 @@
+---
+    id: exercise_2
+    title: Shoot a Process Story.
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: exercise_2.json
+    storyPathTemplateFiles:
+        posed_portraits: exercise_2.json
+    dependencies:
+        -
+            dependencyId: exercise_2
+            dependencyFile: exercise_2.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: exercise_2

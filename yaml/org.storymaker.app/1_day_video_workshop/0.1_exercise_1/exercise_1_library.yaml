@@ -1,0 +1,18 @@
+---
+    id: exercise_1
+    title: Interview your partner.
+    classPackage: scal.io.liger.model
+    
+    currentStoryPathFile: exercise_1.json
+    storyPathTemplateFiles:
+        posed_portraits: exercise_1.json
+    dependencies:
+        -
+            dependencyId: exercise_1
+            dependencyFile: exercise_1.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: exercise_1
