@@ -1,0 +1,127 @@
+---
+    id: photo_library
+    title: Photo Essay Stories
+    classPackage: scal.io.liger.model
+    storyPathTemplateFiles:
+        highlights: highlights.json
+        series_character: series_character.json
+        series_place: series_place.json
+        series_action: series_action.json
+        series_signature: series_signature.json
+        process: process.json
+
+    cards:
+        -
+            type: TipCollectionHeadlessCard
+            id: "tip_collection"
+            tips:
+                -   tags: [photo essay, after]
+                    text: Aim for 8 to 20 images in your final edit. Shoot more pictures than you plan to use.
+                -   tags: [photo, photo essay, during]
+                    text: Every new image should contain new information that advances your story.
+                -   tags: [photo, photo essay, during]
+                    text: Even if you will only use one image in your story, shoot a variety of images to choose from.
+                -   tags: [ethics, journalism, during]
+                    text: Know yourself, be aware of your biases don't let them influence how you portray your story.
+                -   tags: [security, photo, video, journalism, during]
+                    text: When shooting in dangerous situations always have an exit strategy.
+                    text: Think about the audience you want to reach when considering what Topic and Format to use.
+                -   tags: [photo, video, before]
+                    text: Even if time is limited, make a plan, do not shoot everything you see.
+                -   tags: [journalism, story, before]
+                    text: Focus on a single primary topic to tell a concise and clear story.
+                -   tags: [video, photo, during]
+                -   tags: [journalism, general, during]
+                    text: 'Ask yourself for every clip: does it tell me something new? '
+                -   tags: [journalism, general, during]
+                    text: 'Ask yourself for every clip: does it tell me something new about my major question?'
+                -   tags: [photo, during]
+                    text: Get as close to your subject as possible.
+                -   tags: [photo, during]
+                    text: !!python/str "Remember: the viewer won't know anything about your story\\ that you don\u2019t show them in the photograph."
+                -   tags: [photo, after]
+                    text: Does your image illustrate context?
+                -   tags: [photo, during]
+                    text: Think Rule-of-Thirds.
+                -   tags: [photo, during]
+                    text: 'Pay attention to the edges of your frame not just the middle. '
+                -   tags: [photo, during]
+                    text: Good photography is all about light. Are you using available light as best you can?
+                -   tags: [photo, during]
+                    text: Simply changing the angle of view can make a much better photograph.
+                -   tags: [photo, during]
+                    text: Don't take just one photograph. Take lots. Experiment.
+                -   tags: [photo, during]
+                    text: 'Don''t forget to get signature shots when possible. '
+                -   tags: [photo, during]
+                    text: Get a variety of images -- close-ups, medium shots and wide shots.
+                -   tags: [photo, during]
+                    text: Good photographs are about peak action and drama. Choose your moments with that in mind.
+                -   tags: [series, before]
+                    text: For a series your images should be composed as identically as possible.
+                -   tags: [series, during]
+                    text: Taking your picture from an interesting angle of view can make a much better portrait.
+                -   tags: [series, after]
+                    text: A good series should be made up of five strong images. If you have more good shots, add them in though.
+
+        -
+            id: quiz_card_topic
+            type: QuizCard
+            question: What kind of story are you making?
+            correctRequired: 1
+            choices:
+                -
+                    id: highlights
+                    text: An Highlights Story
+                -
+                    id: series
+                    text: A Series Story
+
+                -
+                    id: process
+                    text: A Process Story
+
+        -
+            id: quiz_card_series
+            type: QuizCard
+            question: What is the focus of your series?
+            correctRequired: 1
+            references:
+                - process_library::quiz_card_topic::series
+            choices:
+                -
+                    id: character
+                    text: Portraits
+
+                -
+                    id: place
+                    text: Places or Buildings
+
+                -
+                    id: action
+                    text: Action or Activities
+
+                -
+                    id: signature
+                    text: Objects
+
+		    -
+            type: MilestoneCard
+            id: ms_moreinfo
+            header: Next
+            text: More Info
+            icon: down
+
+        -
+            type: TextCard
+            text: 'A photo essay is a story told over any number of related photos. These templates will guide you to get all the photos you need to tell a variety of stories.'
+            references:
+              - video_library::ms_moreinfo::value::true
+
+        -
+            type: HookLoaderHeadlessCard
+            id: hook_loader_card
+            action: LOAD
+            references:
+                - process_library::quiz_card_topic::choice
+                - process_library::quiz_card_series::choice
