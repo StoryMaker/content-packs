@@ -1,0 +1,19 @@
+{
+    "create_layers::text_card_1::text": "La forma más básica de usar las capas es en dos capas distintas: una capa del sujeto, y una capa del contexto. La capa del contexto provee información adicional relacionada con tu sujeto.\n",
+    "create_layers::intro_card_0::level": "Introducción",
+    "create_layers::text_card_3::text": "La capa del contexto es a menudo la capa del fondo. Ayuda al espectador a entender mejor el ambiente del sujeto o un detalle importante de la historia. En esta foto la capa del contexto le dice al espectador que las mujeres están en una protesta.",
+    "create_layers::preview_card_1::header": "En esta foto la capa del contexto está a color.",
+    "create_layers::text_card_4::text": "Esta imagen resalta el contexto de la historia, el juego, al colocarlo en el primer plano y colocar al sujeto en el fondo.",
+    "create_layers::intro_card_0::headline": "Crear Capas",
+    "create_layers::title": "Crear Capas",
+    "create_layers::link_card_2::text": "Lección Previa",
+    "create_layers::milestone_start::text": "COMIENZA",
+    "create_layers::preview_card_2::header": "A veces las capas están al revés, aquí la capa del contexto está al frente.",
+    "create_layers::preview_card_0::header": "En esta foto la capa del sujeto está a color.",
+    "create_layers::text_card_5::text": "Felicidades, has aprendido lo básico para crear capas en una foto. Practica tu nueva habilidad en la actividad de abajo.",
+    "create_layers::milestone_start::header": "Siguiente",
+    "create_layers::link_card_1::text": "Próxima Lección",
+    "create_layers::text_card_0::text": "Las capas ayudan el espacio de dos dimensiones de un fotógrafo a representar mejor el mundo tridimensional. Esta lección te enseñará los pasos básicos para crear fotos con capas.",
+    "create_layers::link_card_0::text": "Realiza la Actividad",
+    "create_layers::text_card_2::text": "La capa del sujeto muestra al sujeto principal de tu foto. Esto es usualmente una persona u objeto. La capa del sujeto está a menudo colocada en la capa del frente de tu encuadre."
+}
