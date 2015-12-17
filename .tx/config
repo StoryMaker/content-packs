@@ -122,21 +122,6 @@ source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/6_contro
 source_lang = en
 type = KEYVALUEJSON
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [storymaker.0_0_exercise_0]
 file_filter = intermediates/translated_strings/org.storymaker.app/beta/0.0_exercise_0/exercise_0-<lang>.json
 source_file = intermediates/strings/org.storymaker.app/beta/0.0_exercise_0/exercise_0.json
