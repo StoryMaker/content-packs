@@ -1,6 +1,127 @@
 [main]
 host = https://www.transifex.com
 
+[storymaker.mobile_photo_101_know_your_mobile]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/1_know_your_mobile/know_your_mobile-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/1_know_your_mobile/know_your_mobile.json
+source_lang = en
+type = KEYVALUEJSON
+[storymaker.mobile_photo_101_know_your_mobile_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/1_know_your_mobile/know_your_mobile_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/1_know_your_mobile/know_your_mobile_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.mobile_photo_101_compose_with_a_grid]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/2_compose_with_a_grid/compose_with_a_grid-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/2_compose_with_a_grid/compose_with_a_grid.json
+source_lang = en
+type = KEYVALUEJSON
+[storymaker.mobile_photo_101_compose_with_a_grid_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/2_compose_with_a_grid/compose_with_a_grid_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/2_compose_with_a_grid/compose_with_a_grid_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.mobile_photo_101_compose_with_a_grid_activity]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/2_compose_with_a_grid_activity/compose_with_a_grid_activity-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/2_compose_with_a_grid_activity/compose_with_a_grid_activity.json
+source_lang = en
+type = KEYVALUEJSON
+[storymaker.mobile_photo_101_compose_with_a_grid_activity_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/2_compose_with_a_grid_activity/compose_with_a_grid_activity_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/2_compose_with_a_grid_activity/compose_with_a_grid_activity_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.mobile_photo_101_create_layers]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/3_create_layers/create_layers-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/3_create_layers/create_layers.json
+source_lang = en
+type = KEYVALUEJSON
+[storymaker.mobile_photo_101_create_layers_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/3_create_layers/create_layers_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/3_create_layers/create_layers_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.mobile_photo_101_create_layers_activity]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/3_create_layers_activity/create_layers_activity-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/3_create_layers_activity/create_layers_activity.json
+source_lang = en
+type = KEYVALUEJSON
+[storymaker.mobile_photo_101_create_layers_activity_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/3_create_layers_activity/create_layers_activity_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/3_create_layers_activity/create_layers_activity_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.mobile_photo_101_capture_peak_action]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/4_capture_peak_action/capture_peak_action-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/4_capture_peak_action/capture_peak_action.json
+source_lang = en
+type = KEYVALUEJSON
+[storymaker.mobile_photo_101_capture_peak_action_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/4_capture_peak_action/capture_peak_action_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/4_capture_peak_action/capture_peak_action_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.mobile_photo_101_capture_peak_action_activity]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/4_capture_peak_action_activity/capture_peak_action_activity-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/4_capture_peak_action_activity/capture_peak_action_activity.json
+source_lang = en
+type = KEYVALUEJSON
+[storymaker.mobile_photo_101_capture_peak_action_activity_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/4_capture_peak_action_activity/capture_peak_action_activity_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/4_capture_peak_action_activity/capture_peak_action_activity_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.mobile_photo_101_shoot_on_an_angle]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/5_shoot_on_an_angle/shoot_on_an_angle-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/5_shoot_on_an_angle/shoot_on_an_angle.json
+source_lang = en
+type = KEYVALUEJSON
+[storymaker.mobile_photo_101_shoot_on_an_angle_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/5_shoot_on_an_angle/shoot_on_an_angle_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/5_shoot_on_an_angle/shoot_on_an_angle_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.mobile_photo_101_shoot_on_an_angle_activity]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/5_shoot_on_an_angle_activity/shoot_on_an_angle_activity-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/5_shoot_on_an_angle_activity/shoot_on_an_angle_activity.json
+source_lang = en
+type = KEYVALUEJSON
+[storymaker.mobile_photo_101_shoot_on_an_angle_activity_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/5_shoot_on_an_angle_activity/shoot_on_an_angle_activity_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/5_shoot_on_an_angle_activity/shoot_on_an_angle_activity_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.mobile_photo_101_control_light]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/6_control_light/control_light-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/6_control_light/control_light.json
+source_lang = en
+type = KEYVALUEJSON
+[storymaker.mobile_photo_101_control_light_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/6_control_light/control_light_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/6_control_light/control_light_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.mobile_photo_101_control_light_activity]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/6_control_light_activity/control_light_activity-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/6_control_light_activity/control_light_activity.json
+source_lang = en
+type = KEYVALUEJSON
+[storymaker.mobile_photo_101_control_light_activity_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_101/6_control_light_activity/control_light_activity_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/mobile_photo_101/6_control_light_activity/control_light_activity_library.json
+source_lang = en
+type = KEYVALUEJSON
+
 [storymaker.0_0_exercise_0]
 file_filter = intermediates/translated_strings/org.storymaker.app/beta/0.0_exercise_0/exercise_0-<lang>.json
 source_file = intermediates/strings/org.storymaker.app/beta/0.0_exercise_0/exercise_0.json

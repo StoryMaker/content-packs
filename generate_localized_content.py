@@ -104,12 +104,22 @@ for f in os.listdir(parent_dir):
     gen_translations()
 """
     
+"""
 print "generating content for beta pack"
 cardcounts = {}
 parent_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/beta/"
 for f in os.listdir(parent_dir):
     json_dir = os.getcwd() + "/assets/org.storymaker.app/beta/%s" % f
     translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/beta/%s" % f
+    gen_translations()
+"""
+    
+print "generating content for mobile_photo_101 pack"
+cardcounts = {}
+parent_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/mobile_photo_101/"
+for f in os.listdir(parent_dir):
+    json_dir = os.getcwd() + "/assets/org.storymaker.app/mobile_photo_101/%s" % f
+    translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/mobile_photo_101/%s" % f
     gen_translations()
 
 """

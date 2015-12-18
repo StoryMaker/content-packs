@@ -1,0 +1,94 @@
+{
+    "title": "Componer con una cuadr\u00edcula | Actividad", 
+    "storyPathLibraryFile": "compose_with_a_grid_activity_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "know_your_mobile", 
+            "dependencyFile": "../1_know_your_mobile/know_your_mobile.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../3_create_layers/create_layers.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "level": "Principiante", 
+            "headline": "Componer con una cuadr\u00edcula | Actividad", 
+            "time": "5-10 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Regresar a la Lecci\u00f3n", 
+            "link": "compose_with_a_grid::intro_card_0", 
+            "id": "link_card_0", 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Ahora que has aprendido a usar la cuadr\u00edcula, es tiempo de practicar", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "rule_of_thirds_icons.png", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Si es posible activa el uso de la cuadr\u00edcula en tu aplicaci\u00f3n de la c\u00e1mara.", 
+            "exampleMediaPath": "rule_of_thirds_icons.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Abajo hay una tarjeta de clip. Selecciona \u201cCapturar\u201d para disparar la c\u00e1mara y tomar la foto.", 
+            "type": "HowToCard", 
+            "id": "howto_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:20", 
+            "goals": [
+                "Llena el cuadro completo y usa las l\u00edneas e intersecciones en tu composici\u00f3n."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "rule_of_thirds"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Siguiente Lecci\u00f3n", 
+            "link": "create_layers::intro_card_0", 
+            "id": "link_card_1", 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Lecci\u00f3n Previa", 
+            "link": "know_your_mobile::intro_card_0", 
+            "id": "link_card_2", 
+            "type": "LinkCard"
+        }
+    ], 
+    "id": "compose_with_a_grid_activity"
+}
