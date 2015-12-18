@@ -386,6 +386,8 @@ for f in os.listdir(yaml_parent_dir):
     strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/%s/%s" % (pack_dir, f)
     do_dir()
 generate_content_index(package, pack_dir)
+generate_content_index(package, pack_dir, 'ar')
+generate_content_index(package, pack_dir, 'es')
 #"""
 
 #"""
@@ -399,6 +401,7 @@ for f in os.listdir(yaml_parent_dir):
     strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/%s/%s" % (pack_dir, f)
     do_dir()
 generate_content_index(package, pack_dir)
+generate_content_index(package, pack_dir, 'es')
 #"""
 
 #"""
@@ -412,6 +415,8 @@ for f in os.listdir(yaml_parent_dir):
     strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/%s/%s" % (pack_dir, f)
     do_dir()
 generate_content_index(package, pack_dir)
+generate_content_index(package, pack_dir, 'ar')
+generate_content_index(package, pack_dir, 'es')
 #"""
 
 
