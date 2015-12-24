@@ -178,110 +178,110 @@ source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.introduction_to_journalism]
-file_filter = intermediates/translated_strings/org.storymaker.app/journalism_1/1_introduction_to_journalism/introduction_to_journalism-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/journalism_1/1_introduction_to_journalism/introduction_to_journalism.json
+file_filter = intermediates/translated_strings/org.storymaker.app/journalism_part_1/1_introduction_to_journalism/introduction_to_journalism-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/journalism_part_1/1_introduction_to_journalism/introduction_to_journalism.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.introduction_to_journalism_library]
-file_filter = intermediates/translated_strings/org.storymaker.app/journalism_1/1_introduction_to_journalism/introduction_to_journalism_library-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/journalism_1/1_introduction_to_journalism/introduction_to_journalism_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/journalism_part_1/1_introduction_to_journalism/introduction_to_journalism_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/journalism_part_1/1_introduction_to_journalism/introduction_to_journalism_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.social_media_basics]
-file_filter = intermediates/translated_strings/org.storymaker.app/journalism_1/2_social_media_basics/social_media_basics-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/journalism_1/2_social_media_basics/social_media_basics.json
+file_filter = intermediates/translated_strings/org.storymaker.app/journalism_part_1/2_social_media_basics/social_media_basics-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/journalism_part_1/2_social_media_basics/social_media_basics.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.social_media_basics_library]
-file_filter = intermediates/translated_strings/org.storymaker.app/journalism_1/2_social_media_basics/social_media_basics_library-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/journalism_1/2_social_media_basics/social_media_basics_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/journalism_part_1/2_social_media_basics/social_media_basics_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/journalism_part_1/2_social_media_basics/social_media_basics_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.reporting_basics]
-file_filter = intermediates/translated_strings/org.storymaker.app/journalism_1/3_reporting_basics/reporting_basics-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/journalism_1/3_reporting_basics/reporting_basics.json
+file_filter = intermediates/translated_strings/org.storymaker.app/journalism_part_1/3_reporting_basics/reporting_basics-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/journalism_part_1/3_reporting_basics/reporting_basics.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.reporting_basics_library]
-file_filter = intermediates/translated_strings/org.storymaker.app/journalism_1/3_reporting_basics/reporting_basics_library-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/journalism_1/3_reporting_basics/reporting_basics_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/journalism_part_1/3_reporting_basics/reporting_basics_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/journalism_part_1/3_reporting_basics/reporting_basics_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.selecting_and_verifying_sources]
-file_filter = intermediates/translated_strings/org.storymaker.app/journalism_1/4_selecting_and_verifying_sources/selecting_and_verifying_sources-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/journalism_1/4_selecting_and_verifying_sources/selecting_and_verifying_sources.json
+file_filter = intermediates/translated_strings/org.storymaker.app/journalism_part_1/4_selecting_and_verifying_sources/selecting_and_verifying_sources-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/journalism_part_1/4_selecting_and_verifying_sources/selecting_and_verifying_sources.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.selecting_and_verifying_sources_library]
-file_filter = intermediates/translated_strings/org.storymaker.app/journalism_1/4_selecting_and_verifying_sources/selecting_and_verifying_sources_library-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/journalism_1/4_selecting_and_verifying_sources/selecting_and_verifying_sources_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/journalism_part_1/4_selecting_and_verifying_sources/selecting_and_verifying_sources_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/journalism_part_1/4_selecting_and_verifying_sources/selecting_and_verifying_sources_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.interview_techniques]
-file_filter = intermediates/translated_strings/org.storymaker.app/journalism_1/5_interview_techniques/interview_techniques-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/journalism_1/5_interview_techniques/interview_techniques.json
+file_filter = intermediates/translated_strings/org.storymaker.app/journalism_part_1/5_interview_techniques/interview_techniques-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/journalism_part_1/5_interview_techniques/interview_techniques.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.interview_techniques_library]
-file_filter = intermediates/translated_strings/org.storymaker.app/journalism_1/5_interview_techniques/interview_techniques_library-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/journalism_1/5_interview_techniques/interview_techniques_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/journalism_part_1/5_interview_techniques/interview_techniques_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/journalism_part_1/5_interview_techniques/interview_techniques_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.evolution_of_a_story]
-file_filter = intermediates/translated_strings/org.storymaker.app/journalism_2/1_evolution_of_a_story/evolution_of_a_story-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/journalism_2/1_evolution_of_a_story/evolution_of_a_story.json
+file_filter = intermediates/translated_strings/org.storymaker.app/journalism_part_2/1_evolution_of_a_story/evolution_of_a_story-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/journalism_part_2/1_evolution_of_a_story/evolution_of_a_story.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.evolution_of_a_story_library]
-file_filter = intermediates/translated_strings/org.storymaker.app/journalism_2/1_evolution_of_a_story/evolution_of_a_story_library-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/journalism_2/1_evolution_of_a_story/evolution_of_a_story_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/journalism_part_2/1_evolution_of_a_story/evolution_of_a_story_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/journalism_part_2/1_evolution_of_a_story/evolution_of_a_story_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.introduction_to_ethics_and_professional_standards]
-file_filter = intermediates/translated_strings/org.storymaker.app/journalism_2/2_introduction_to_ethics_and_professional_standards/introduction_to_ethics_and_professional_standards-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/journalism_2/2_introduction_to_ethics_and_professional_standards/introduction_to_ethics_and_professional_standards.json
+file_filter = intermediates/translated_strings/org.storymaker.app/journalism_part_2/2_introduction_to_ethics_and_professional_standards/introduction_to_ethics_and_professional_standards-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/journalism_part_2/2_introduction_to_ethics_and_professional_standards/introduction_to_ethics_and_professional_standards.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.introduction_to_ethics_and_professional_standards_library]
-file_filter = intermediates/translated_strings/org.storymaker.app/journalism_2/2_introduction_to_ethics_and_professional_standards/introduction_to_ethics_and_professional_standards_library-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/journalism_2/2_introduction_to_ethics_and_professional_standards/introduction_to_ethics_and_professional_standards_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/journalism_part_2/2_introduction_to_ethics_and_professional_standards/introduction_to_ethics_and_professional_standards_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/journalism_part_2/2_introduction_to_ethics_and_professional_standards/introduction_to_ethics_and_professional_standards_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.using_text]
-file_filter = intermediates/translated_strings/org.storymaker.app/journalism_2/3_using_text/using_text-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/journalism_2/3_using_text/using_text.json
+file_filter = intermediates/translated_strings/org.storymaker.app/journalism_part_2/3_using_text/using_text-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/journalism_part_2/3_using_text/using_text.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.using_text_library]
-file_filter = intermediates/translated_strings/org.storymaker.app/journalism_2/3_using_text/using_text_library-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/journalism_2/3_using_text/using_text_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/journalism_part_2/3_using_text/using_text_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/journalism_part_2/3_using_text/using_text_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.media_law]
-file_filter = intermediates/translated_strings/org.storymaker.app/journalism_2/4_media_law/media_law-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/journalism_2/4_media_law/media_law.json
+file_filter = intermediates/translated_strings/org.storymaker.app/journalism_part_2/4_media_law/media_law-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/journalism_part_2/4_media_law/media_law.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.media_law_library]
-file_filter = intermediates/translated_strings/org.storymaker.app/journalism_2/4_media_law/media_law_library-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/journalism_2/4_media_law/media_law_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/journalism_part_2/4_media_law/media_law_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/journalism_part_2/4_media_law/media_law_library.json
 source_lang = en
 type = KEYVALUEJSON
 
