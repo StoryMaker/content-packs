@@ -48,7 +48,7 @@ def set_id(key, card):
 # TODO export directly to the real assets/org.storymaker.app/ folder
 # TODO warn that fields existed in card but not card
 
-def parse_file(in_file_name, json_out_file_name, strings_out_file_name):
+def parse_file(in_file_name, json_out_file_name, strings_out_file_name, json_dir, strings_dir):
     stream = open(in_file_name, 'r')
     doc = yaml.load(stream)
     strings = {}
@@ -206,7 +206,8 @@ def parse_file(in_file_name, json_out_file_name, strings_out_file_name):
 
     try:
         os.makedirs(json_dir)
-    except: pass
+    except: 
+        pass
     
     j = json.dumps(doc, indent=4)
     json_outfile = open(json_out_file_name, 'w')
@@ -224,17 +225,26 @@ def parse_file(in_file_name, json_out_file_name, strings_out_file_name):
 
     try:
         os.makedirs(strings_dir)
-    except: pass
+    except: 
+        pass
+        
     strings_json = json.dumps(strings, indent=2)
     strings_outfile = open(strings_out_file_name, 'w')
     strings_outfile.write(strings_json)
     strings_outfile.close()
 
+# helper than deals with race condition in checking if dir exists
+# from http://stackoverflow.com/a/14364249/41694
+def mkdirs(dir):
+    try: 
+        os.makedirs(path)
+    except OSError:
+        if not os.path.isdir(path):
+            raise
 
 
-def do_dir():
+def do_dir(yaml_dir, json_dir, strings_dir):
     for f in os.listdir(yaml_dir):
-        #print name
         cardcounts = {}
         file_name, file_extension = os.path.splitext(f)
         if file_extension == ".yaml":
@@ -242,7 +252,7 @@ def do_dir():
             in_file = yaml_dir + "/" + f
             json_out_file = "%s/%s.json" % (json_dir, file_name)
             strings_out_file = "%s/%s.json" % (strings_dir, file_name)
-            parse_file(in_file, json_out_file, strings_out_file)
+            parse_file(in_file, json_out_file, strings_out_file, json_dir, strings_dir)
 
 # FIXME global vars are the best!!
 
@@ -345,25 +355,25 @@ cardcounts = {}
 yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/default"
 json_dir = os.getcwd() + "/assets/org.storymaker.app/default"
 strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/default"
-do_dir()
+do_dir(yaml_dir, json_dir, strings_dir)
 
 print "generating content for learning guide 1"
 yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/learning_guide/learning_guide_1"
 json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_1"
 strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/learning_guide/learning_guide_1"
-do_dir()
+do_dir(yaml_dir, json_dir, strings_dir)
 
 print "generating content for learning guide 2"
 yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/learning_guide/learning_guide_2"
 json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_2"
 strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/learning_guide/learning_guide_2"
-do_dir()
+do_dir(yaml_dir, json_dir, strings_dir)
 
 print "generating content for learning guide 3"
 yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/learning_guide/learning_guide_3"
 json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_3"
 strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/learning_guide/learning_guide_3"
-do_dir()
+do_dir(yaml_dir, json_dir, strings_dir)
 """
 
 """
@@ -371,7 +381,7 @@ print "generating content for IJF"
 yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/ijf15/ijf15"
 json_dir = os.getcwd() + "/assets/org.storymaker.app/ijf15/ijf15"
 strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/ijf15"
-do_dir()
+do_dir(yaml_dir, json_dir, strings_dir)
 """
 
 """
@@ -379,7 +389,7 @@ print "generating content for DressGate"
 yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/dressgate"
 json_dir = os.getcwd() + "/assets/org.storymaker.app/dressgate"
 strings_dir = os.getcwd() + "/intermediates/org.storymaker.app/dressgate"
-do_dir()
+do_dir(yaml_dir, json_dir, strings_dir)
 """
 
 """
@@ -391,24 +401,27 @@ for f in os.listdir(yaml_parent_dir):
     print yaml_dir
     json_dir = os.getcwd() + "/assets/org.storymaker.app/%s/%s" % (pack_dir, f)
     strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/%s/%s" % (pack_dir, f)
-    do_dir()
+    do_dir(yaml_dir, json_dir, strings_dir)
 generate_content_index(package, pack_dir)
 generate_content_index(package, pack_dir, 'ar')
 generate_content_index(package, pack_dir, 'es')
+generate_content_index(package, pack_dir, 'fa')
 #"""
 
 """
-print "generating content for mobile_photo_101"
-pack_dir = "mobile_photo_101"
+print "generating content for mobile_photo_basics"
+pack_dir = "mobile_photo_basics"
 yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/" + pack_dir
 for f in os.listdir(yaml_parent_dir):
     yaml_dir = "%s/%s" % (yaml_parent_dir, f)
     print yaml_dir
     json_dir = os.getcwd() + "/assets/org.storymaker.app/%s/%s" % (pack_dir, f)
     strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/%s/%s" % (pack_dir, f)
-    do_dir()
+    do_dir(yaml_dir, json_dir, strings_dir)
 generate_content_index(package, pack_dir)
+generate_content_index(package, pack_dir, 'ar')
 generate_content_index(package, pack_dir, 'es')
+generate_content_index(package, pack_dir, 'fa')
 #"""
 
 """
@@ -420,7 +433,7 @@ for f in os.listdir(yaml_parent_dir):
     print yaml_dir
     json_dir = os.getcwd() + "/assets/org.storymaker.app/%s/%s" % (pack_dir, f)
     strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/%s/%s" % (pack_dir, f)
-    do_dir()
+    do_dir(yaml_dir, json_dir, strings_dir)
 generate_content_index(package, pack_dir)
 generate_content_index(package, pack_dir, 'ar')
 generate_content_index(package, pack_dir, 'es')
@@ -436,11 +449,11 @@ for f in os.listdir(yaml_parent_dir):
     print yaml_dir
     json_dir = os.getcwd() + "/assets/org.storymaker.app/lessons/%s" % f
     strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/lessons/%s" % f
-    do_dir()
+    do_dir(yaml_dir, json_dir, strings_dir)
 #"""
 
 
-#"""
+"""
 print "generating content for journalism_part_1"
 cardcounts = {}
 content_index = []
@@ -450,7 +463,7 @@ for f in os.listdir(yaml_parent_dir):
     print yaml_dir
     json_dir = os.getcwd() + "/assets/org.storymaker.app/journalism_part_1/%s" % f
     strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/journalism_part_1/%s" % f
-    do_dir()
+    do_dir(yaml_dir, json_dir, strings_dir)
 #"""
 
 #########################################
@@ -519,6 +532,27 @@ def prep_localized_pack(content_pack, locale, lang=None):
     content_metadata_file.write(json.dumps(content_metadata, indent=2))
     content_metadata_file.close()
 
-prep_localized_pack('journalism_part_1', 'persian')
-prep_localized_pack('journalism_part_1', 'mena')
-prep_localized_pack('journalism_part_1', 'burundi')
+#prep_localized_pack('journalism_part_1', 'persian')
+#prep_localized_pack('journalism_part_1', 'mena')
+#prep_localized_pack('journalism_part_1', 'burundi')
+
+
+#### generate regular packs
+
+
+def gen_regular_pack(pack_dir):   
+    print("generating content for {0}".format(pack_dir))
+    yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/" + pack_dir
+    for f in os.listdir(yaml_parent_dir):
+        yaml_dir = "%s/%s" % (yaml_parent_dir, f)
+        print yaml_dir
+        json_dir = os.getcwd() + "/assets/org.storymaker.app/%s/%s" % (pack_dir, f)
+        strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/%s/%s" % (pack_dir, f)
+        do_dir(yaml_dir, json_dir, strings_dir)
+    generate_content_index(package, pack_dir)
+    generate_content_index(package, pack_dir, 'ar')
+    generate_content_index(package, pack_dir, 'es')
+    generate_content_index(package, pack_dir, 'fa')
+
+gen_regular_pack("mobile_photo_basics")
+
