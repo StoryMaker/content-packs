@@ -532,9 +532,9 @@ def prep_localized_pack(content_pack, locale, lang=None):
     content_metadata_file.write(json.dumps(content_metadata, indent=2))
     content_metadata_file.close()
 
-#prep_localized_pack('journalism_part_1', 'persian')
-#prep_localized_pack('journalism_part_1', 'mena')
-#prep_localized_pack('journalism_part_1', 'burundi')
+prep_localized_pack('journalism_part_1', 'persian')
+prep_localized_pack('journalism_part_1', 'mena')
+prep_localized_pack('journalism_part_1', 'burundi')
 
 
 #### generate regular packs
@@ -553,6 +553,9 @@ def gen_regular_pack(pack_dir):
     generate_content_index(package, pack_dir, 'ar')
     generate_content_index(package, pack_dir, 'es')
     generate_content_index(package, pack_dir, 'fa')
+    generate_content_index(package, pack_dir, 'fr')
+    generate_content_index(package, pack_dir, 'rw')
+    generate_content_index(package, pack_dir, 'vi')
 
 gen_regular_pack("mobile_photo_basics")
 
