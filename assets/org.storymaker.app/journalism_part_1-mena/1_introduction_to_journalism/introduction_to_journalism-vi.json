@@ -1,0 +1,46 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Gi\u1edbi thi\u1ec7u v\u1ec1 ng\u00e0nh b\u00e1o ch\u00ed", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Y\u00eau c\u1ea7u v\u1ec1 m\u1ed9t n\u1ec1n b\u00e1o ch\u00ed ch\u1ea5t l\u01b0\u1ee3ng ch\u01b0a bao gi\u1edd cao nh\u01b0 hi\u1ec7n nay. \u0110\u1ed9c gi\u1ea3 c\u1ea7n ti\u1ebfp c\u1eadn \u0111\u1ebfn nh\u1eefng th\u00f4ng tin ch\u00ednh x\u00e1c, k\u1ecbp th\u1eddi v\u00e0 li\u00ean quan \u0111\u1ebfn cu\u1ed9c s\u1ed1ng c\u1ee7a h\u1ecd  \nT\u1eeb thi\u00ean tai \u0111\u1ebfn b\u1ea5t \u1ed5n x\u00e3 h\u1ed9i \u0111\u1ebfn nh\u1eefng tin t\u1ee9c v\u1ec1 ngh\u1ec7 thu\u1eadt v\u00e0 v\u0103n h\u00f3a, nh\u1eefng c\u00e1 nh\u00e2n c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng thi\u1ebft b\u1ecb di \u0111\u1ed9ng \u0111\u1ec3 s\u1ea3n xu\u1ea5t v\u00e0 \u0111\u01b0a tin s\u1ed1ng \u0111\u1ed9ng m\u00e0 \u0111\u1ed9c gi\u1ea3 mu\u1ed1n xem. Th\u00e1ch th\u1ee9c cho c\u1ea3 nh\u00e0 b\u00e1o c\u00f4ng d\u00e2n v\u00e0 c\u00e1c h\u00e3ng th\u00f4ng t\u1ea5n hi\u1ec7n h\u1eefu l\u00e0 l\u00e0m vi\u1ec7c c\u00f9ng nhau trong vi\u1ec7c thu th\u1eadp v\u00e0 ph\u00e1t t\u00e1n nh\u1eefng tin t\u1ee9c c\u00f3 t\u00e1c \u0111\u1ed9ng \u0111\u1ebfn cu\u1ed9c s\u1ed1ng c\u1ee7a con ng\u01b0\u1eddi.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "L\u00e0m sao \u0111\u1ec3 nh\u00e0 b\u00e1o c\u00f4ng d\u00e2n thu th\u1eadp v\u00e0 t\u01b0\u1eddng tr\u00ecnh th\u00f4ng tin m\u00e0 c\u00e1c c\u01a1 quan truy\u1ec1n th\u00f4ng c\u00f3 th\u1ec3 d\u00f9ng? V\u00e0 ng\u01b0\u1ee3c l\u1ea1i, l\u00e0m sao \u0111\u1ec3 c\u00e1c c\u01a1 quan th\u00f4ng t\u1ea5n hi\u1ec7n h\u1eefu h\u1ed7 tr\u1ee3 t\u1ed1t h\u01a1n cho nh\u1eefng k\u00fd gi\u1ea3 d\u00e2n b\u00e1o t\u1eadn t\u1ee5y v\u00e0 khai d\u1ee5ng k\u1ebft qu\u1ea3 \u0111\u1ebfn t\u1eeb h\u1ecd?", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Nh\u1eefng nh\u00e0 b\u00e1o c\u00f4ng d\u00e2n gi\u1edd \u0111\u00e2y ph\u1ee5 thu\u1ed9c v\u00e0o c\u00e1c c\u00f4ng c\u1ee5 di \u0111\u1ed9ng, li\u00ean l\u1ea1c tr\u00ean Internet v\u00e0 c\u00e1c m\u1ea1ng x\u00e3 h\u1ed9i nh\u01b0 Twitter, Facebook, v\u00e0 YouTube \u0111\u1ec3 \u0111\u01b0a tin. Nh\u1eefng c\u00f4ng c\u1ee5 kh\u00f4ng \u0111\u1eaft \u0111\u1ecf \u0111\u00f3 c\u00f3 th\u1ec3 s\u1ea3n xu\u1ea5t v\u00e0 ph\u00e1t nh\u1eefng video ch\u1ea5t l\u01b0\u1ee3ng cao (HD), nh\u1eefng h\u00ecnh \u1ea3nh r\u00f5 n\u00e9t v\u00e0 nh\u1eefng b\u0103ng ghi \u00e2m ch\u1ea5t l\u01b0\u1ee3ng cao. V\u00e0i n\u0103m tr\u01b0\u1edbc \u0111\u00e2y, nh\u1eefng c\u00f4ng c\u1ee5 \u0111\u1ec3 s\u1ea3n xu\u1ea5t nh\u1eefng s\u1ea3n ph\u1ea9m nh\u01b0 v\u1eady \u0111\u00e1ng gi\u00e1 h\u00e0ng ch\u1ee5c ngh\u00ecn \u0111\u00f4la.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "B\u00e1o ch\u00ed ng\u00e0y nay kh\u00e1c bi\u1ec7t c\u0103n b\u1ea3n so v\u1edbi b\u00e1o ch\u00ed c\u00e1ch \u0111\u00e2y v\u00e0i n\u0103m. Theo truy\u1ec1n th\u1ed1ng, k\u00fd gi\u1ea3 \u0111\u01b0a tin v\u00e0 \u0111\u1ed9c gi\u1ea3 ti\u00eau h\u00f3a tin \u0111\u00f3. B\u00e1o ch\u00ed ng\u00e0y nay c\u00f3 s\u1ef1 t\u01b0\u01a1ng t\u00e1c h\u01a1n. Kh\u00e1n gi\u1ea3 ng\u00e0y nay c\u00f3 th\u1ec3 h\u01b0\u1edbng b\u1ea3n tin v\u00e0 tham gia v\u00e0o vi\u1ec7c \u0111\u01b0a tin. Nhi\u1ec1u h\u00e3ng th\u00f4ng t\u1ea5n \u0111ang c\u1ea3i t\u1ed5 \u0111\u1ec3 th\u00edch h\u1ee3p v\u1edbi lo\u1ea1i h\u00ecnh b\u00e1o ch\u00ed \"x\u00e3 h\u1ed9i-tr\u01b0\u1edbc nh\u1ea5t\" n\u00e0y.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Nh\u1eefng thay \u0111\u1ed5i \u0111\u00f3 l\u00e0m cho b\u00e1o ch\u00ed tr\u1edf th\u00e0nh d\u00e2n ch\u1ee7 h\u01a1n: Ng\u01b0\u1eddi s\u1ea3n xu\u1ea5t tin v\u00e0 kh\u00e1n gi\u1ea3/th\u00ednh gi\u1ea3/\u0111\u1ed9c gi\u1ea3 g\u1ea7n g\u0169i nhau h\u01a1n. Nh\u00e0 b\u00e1o c\u00f4ng d\u00e2n l\u00e0 nh\u00e2n v\u1eadt quan tr\u1ecdng trong tin t\u1ee9c x\u00e3 h\u1ed9i-tr\u01b0\u1edbc nh\u1ea5t. StoryMaker s\u1ebd ch\u1ec9 cho b\u1ea1n c\u00e1ch s\u1eed d\u1ee5ng nh\u1eefng c\u00f4ng c\u1ee5 v\u00e0 k\u1ef9 n\u0103ng c\u1ee7a m\u00ecnh \u0111\u1ec3 \u0111\u01b0a th\u00f4ng tin m\u1ed9t c\u00e1ch r\u1ed9ng r\u00e3i nh\u1ea5t c\u00f3 th\u1ec3 \u0111\u1ebfn nh\u1eefng ng\u01b0\u1eddi \u0111\u1ecdc v\u1ec1 nh\u1eefng ch\u1ee7 \u0111\u1ec1 quan tr\u1ecdng.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "introduction_to_journalism", 
+    "title": "Gi\u1edbi thi\u1ec7u v\u1ec1 ng\u00e0nh b\u00e1o ch\u00ed"
+}

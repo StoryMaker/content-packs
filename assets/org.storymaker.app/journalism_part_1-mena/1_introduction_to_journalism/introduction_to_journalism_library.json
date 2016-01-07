@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "introduction_to_journalism", 
+            "dependencyFile": "introduction_to_journalism.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Introduction to Journalism", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "introduction_to_journalism"
+        }
+    ], 
+    "currentStoryPathFile": "introduction_to_journalism.json", 
+    "storyPathTemplateFiles": {
+        "introduction_to_journalism": "introduction_to_journalism.json"
+    }, 
+    "id": "introduction_to_journalism"
+}
