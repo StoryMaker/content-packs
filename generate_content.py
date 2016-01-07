@@ -470,6 +470,8 @@ for f in os.listdir(yaml_parent_dir):
 print "prepping lesson asset folders..."
 
 
+content_packs = []
+
 # locale is buruni, mena or persian
 # content_pack is audio, journalism_part_1, etc
 # lang is the two letter lang code
@@ -531,6 +533,8 @@ def prep_localized_pack(content_pack, locale, lang=None):
     content_metadata = { "contentPackThumbnailPath": cover_file } # TODO we might want other file types
     content_metadata_file.write(json.dumps(content_metadata, indent=2))
     content_metadata_file.close()
+    
+    content_packs.append(full_pack_name)
 
 prep_localized_pack('journalism_part_1', 'persian')
 prep_localized_pack('journalism_part_1', 'mena')
@@ -556,6 +560,12 @@ def gen_regular_pack(pack_dir):
     generate_content_index(package, pack_dir, 'fr')
     generate_content_index(package, pack_dir, 'rw')
     generate_content_index(package, pack_dir, 'vi')
+    
+    content_packs.append(pack_dir)
 
 gen_regular_pack("mobile_photo_basics")
 
+# create available index
+
+for s in content_packs:
+    print("adding {0} to available_index".format(s))
