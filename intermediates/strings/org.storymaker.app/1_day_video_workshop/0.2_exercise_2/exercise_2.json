@@ -1,0 +1,18 @@
+{
+  "exercise_2::clip_card_3::goals[0]": "Result clips show the result of your process. Show the result in context.", 
+  "exercise_2::text_card_3::text": "Trim any clip by tapping the clip image.", 
+  "exercise_2::text_card_0::text": "Using no more than three of the clips provided, shoot a process story.", 
+  "exercise_2::text_card_5::text": "By pressing \"Order\" on the next card, you will be able to review your clips, when you are happy with them, press publish.", 
+  "exercise_2::text_card_2::text": "Some examples of process stories you can tell with 3 shots are: making coffee, writing a letter, packing a suitcase, making a sandwich.", 
+  "exercise_2::text_card_1::text": "This story can be brief, your goal is to use three different shots to illustrate an activity with a beginning, middle and end.", 
+  "exercise_2::text_card_4::text": "If you recorded clips in more than three cards, be sure to delete all but 3 clips before you publish.", 
+  "exercise_2::clip_card_4::goals[0]": "Signature clips show a very specific detail, can be the result or primary action. Get close!", 
+  "exercise_2::text_card_7::text": "When you finish uploading, return to class.", 
+  "exercise_2::clip_card_0::goals[0]": "Place clips are good for establishing where your process story happens.", 
+  "exercise_2::intro_card_0::level": "Production", 
+  "exercise_2::intro_card_0::headline": "Shoot a Process Story", 
+  "exercise_2::clip_card_1::goals[0]": "Character clips show us who is affected by or causing the process.", 
+  "exercise_2::clip_card_2::goals[0]": "Action clips show the primary action in your process. Show the whole action.", 
+  "exercise_2::title": "Shoot a Process Story.", 
+  "exercise_2::text_card_6::text": "Don't worry about narration immediately, we'll discuss that later."
+}

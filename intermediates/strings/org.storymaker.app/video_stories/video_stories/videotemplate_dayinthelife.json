@@ -1,0 +1,17 @@
+{
+  "videotemplate_dayinthelife::clip_card_5::goals[0]": "Ask: Can you please go ahead and tell us about what you do?", 
+  "videotemplate_dayinthelife::clip_card_3::goals[0]": "Show your character ready to begin their day.", 
+  "videotemplate_dayinthelife::clip_card_0::goals[0]": "Show us where your character lives.", 
+  "videotemplate_dayinthelife::clip_card_7::goals[0]": "Show what your character does for fun.", 
+  "videotemplate_dayinthelife::title": "Day in the Life Video", 
+  "videotemplate_dayinthelife::clip_card_10::goals[0]": "Show your character at the end of the day", 
+  "videotemplate_dayinthelife::clip_card_2::goals[0]": "Introduce your character.", 
+  "videotemplate_dayinthelife::clip_card_6::goals[0]": "Show us the most important thing about your character\u2019s work.", 
+  "videotemplate_dayinthelife::ms_moreinfo::header": "Next", 
+  "videotemplate_dayinthelife::clip_card_9::goals[0]": "Ask: Can you please tell us about your future?", 
+  "videotemplate_dayinthelife::ms_moreinfo::text": "About this Template", 
+  "videotemplate_dayinthelife::clip_card_4::goals[0]": "Show us what your character does for a living.", 
+  "videotemplate_dayinthelife::clip_card_1::goals[0]": "Show us something notable about your character\u2019s home.", 
+  "videotemplate_dayinthelife::clip_card_8::goals[0]": "Show where your character ends the day.", 
+  "videotemplate_dayinthelife::text_card_0::text": "A day in the life follows one character throughout the story. The story may follow a literal day, or simply showcase an important part of the day. This template assumes you are following a character with a specific type of work, but the clips can be used to document anyone's day or activity. Feel free to use alternate questions if you think they may work better for you."
+}

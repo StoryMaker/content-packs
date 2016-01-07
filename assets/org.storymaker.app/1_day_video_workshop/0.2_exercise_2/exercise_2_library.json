@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "exercise_2", 
+            "dependencyFile": "exercise_2.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Shoot a Process Story.", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "exercise_2"
+        }
+    ], 
+    "currentStoryPathFile": "exercise_2.json", 
+    "storyPathTemplateFiles": {
+        "posed_portraits": "exercise_2.json"
+    }, 
+    "id": "exercise_2"
+}

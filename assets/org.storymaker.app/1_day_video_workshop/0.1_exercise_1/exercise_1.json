@@ -1,0 +1,114 @@
+{
+    "cards": [
+        {
+            "level": "Introduction", 
+            "headline": "Interview your partner.", 
+            "time": "? Minutes", 
+            "exampleMediaPath": "cover.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Each with your own phones, first interview your partner, and then your partner will interview you.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "text": "With your partner, choose one of the following questions you will each ask the other * What is your experience with mobile journalism? * How was your trip to the workshop? * What has been your favorite part of the workshop so far?", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Make sure you are close enough to hear your partner.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "If there is a lot of background noise, find a new location.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.png", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Example of headroom", 
+            "exampleMediaPath": "2.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Be careful to provide proper headspace for your interview.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Remember, ask your subject one question, you can shoot multiple times if needed."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "Trim by tapping the clip image.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
+            "text": "Select the best 30 second answer.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Show your character doing something related to your question."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Show a location important to your character or question."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "If you recorded multiple clips in a single card, delete all but your chosen 3 clips before you publish.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6"
+        }, 
+        {
+            "text": "Don't worry, all clips are saved in your gallery.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7"
+        }, 
+        {
+            "text": "When you finish uploading, return to class.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "exercise_1", 
+    "title": "Interview your partner."
+}
