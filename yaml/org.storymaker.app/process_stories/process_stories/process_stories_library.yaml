@@ -1,5 +1,5 @@
 ---
-    id: process_library
+    id: process_stories
     title: Process Story
     classPackage: scal.io.liger.model
     storyPathTemplateFiles:
@@ -217,29 +217,29 @@
             question: Choose a medium.
             correctRequired: 1
             references:
-                - process_library::quiz_card_topic::choice
+                - process_stories::quiz_card_topic::choice
             choices:
                 # filter answer choices based on chosen format
                 -
                     id: audio
                     text: Audio
                     filters_or:
-                        - process_library::quiz_card_topic::choice::event
-                        - process_library::quiz_card_topic::choice::profile
+                        - process_stories::quiz_card_topic::choice::event
+                        - process_stories::quiz_card_topic::choice::profile
 
                 -
                     id: video
                     text: Video
                     filters_or:
-                        - process_library::quiz_card_topic::choice::event
-                        - process_library::quiz_card_topic::choice::profile
+                        - process_stories::quiz_card_topic::choice::event
+                        - process_stories::quiz_card_topic::choice::profile
 
                 -
                     id: photo
                     text: Photo
                     filters_or:
-                        - process_library::quiz_card_topic::choice::event
-                        - process_library::quiz_card_topic::choice::profile
+                        - process_stories::quiz_card_topic::choice::event
+                        - process_stories::quiz_card_topic::choice::profile
 
         -
             type: HookLoaderHeadlessCard
@@ -247,6 +247,6 @@
             action: LOAD
             references:
                 -
-                    process_library::quiz_card_topic::choice
+                    process_stories::quiz_card_topic::choice
                 -
-                    process_library::quiz_card_medium::choice
+                    process_stories::quiz_card_medium::choice

@@ -1,6 +1,6 @@
 ---
-    id: video_library
-    title: video_library storyPathTemplateFiles
+    id: video_stories
+    title: video_stories storyPathTemplateFiles
     classPackage: scal.io.liger.model
     storyPathTemplateFiles:
         videotemplate_day_in_the_life: videotemplate_day_in_the_life.json
@@ -158,7 +158,7 @@
         -
             id: quiz_card_topic
             type: QuizCard
-            question: Choose the story you want to make:
+            question: Choose the story you want to make.
             correctRequired: 1
             choices:
                 -
@@ -183,7 +183,7 @@
                     id: videotemplate_dayinthelife
                     text: A Day in the Life Story
 
-		    -
+        -
             type: MilestoneCard
             id: ms_moreinfo
             header: Next
@@ -194,11 +194,11 @@
             type: TextCard
             text: 'Making a great video story involves a variety of clips. These templates will guide you to get all the clips you need to tell a variety of stories.'
             references:
-              - video_library::ms_moreinfo::value::true
+              - video_stories::ms_moreinfo::value::true
 
         -
             type: HookLoaderHeadlessCard
             id: hook_loader_card
             action: LOAD
             references:
-                - video_library::quiz_card_topic::choice
+                - video_stories::quiz_card_topic::choice
