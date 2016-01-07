@@ -3,16 +3,16 @@
     "storyPathLibraryFile": "create_layers_library.json", 
     "dependencies": [
         {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
             "dependencyId": "create_layers_activity", 
             "dependencyFile": "../3_create_layers_activity/create_layers_activity.json"
         }, 
         {
             "dependencyId": "capture_peak_action", 
             "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
-        }, 
-        {
-            "dependencyId": "compose_with_a_grid", 
-            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
@@ -26,7 +26,7 @@
             "id": "intro_card_0"
         }, 
         {
-            "text": "Layers help the two dimensional space of a photograph better represent the three-dimensional world. This lesson will teach you the basics steps to create photos with layers.", 
+            "text": "Layers help the two-dimensional space of a photo better represent the three-dimensional world. This lesson will teach you the basic steps to create photos with layers.", 
             "type": "BasicTextCard", 
             "id": "text_card_0"
         }, 
@@ -38,7 +38,7 @@
             "icon": "down"
         }, 
         {
-            "text": "Complex photos typically have three layers. The most basic way use layers is with two distinct layers: a subject layer, and a context layer to provide additional information related to your story.", 
+            "text": "The most basic way to use layers is with two distinct layers: a subject layer and a context layer. The context layer provides additional information related to your subject.", 
             "type": "BasicTextCard", 
             "id": "text_card_1", 
             "references": [
@@ -78,7 +78,7 @@
                     "media_caption": null
                 }
             ], 
-            "header": "Now the context layer is in color.", 
+            "header": "In this photo the context layer is in color.", 
             "references": [
                 "create_layers::milestone_start::value::true"
             ], 
@@ -113,12 +113,73 @@
             "id": "preview_card_2"
         }, 
         {
-            "text": "The photographer reversed the order of subject and context layers in this shot. The image focuses on the child, but demonstrates the context by placing the chess pieces in the foreground. This technique allows the photographer to maximize the interesting visual information in the frame.", 
+            "text": "This image highlights the context of the story \u2014 the game \u2014 by placing it in the foreground and placing the subject in the background.", 
             "type": "BasicTextCard", 
             "id": "text_card_4", 
             "references": [
                 "create_layers::milestone_start::value::true"
             ]
+        }, 
+        {
+            "header": "Next", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ], 
+            "text": "See More Examples", 
+            "type": "ButtonCard", 
+            "id": "milestone_examples_start", 
+            "icon": "down"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_1.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Example 1", 
+            "references": [
+                "create_layers::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_1.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Example 2", 
+            "references": [
+                "create_layers::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Example 3", 
+            "references": [
+                "create_layers::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
         }, 
         {
             "text": "Congratulations, you've learned the basics to creating layers in a photo. Practice your new skill in the activity below.", 
@@ -148,7 +209,7 @@
         }, 
         {
             "text": "Previous Lesson", 
-            "link": "compose_with_a_grid::intro_card_0", 
+            "link": "create_layers::intro_card_0", 
             "id": "link_card_2", 
             "references": [
                 "create_layers::milestone_start::value::true"

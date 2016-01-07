@@ -3,16 +3,20 @@
     "storyPathLibraryFile": "capture_peak_action_activity_library.json", 
     "dependencies": [
         {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../3_create_layers/create_layers.json"
+        }, 
+        {
             "dependencyId": "capture_peak_action", 
             "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
         }, 
         {
             "dependencyId": "shoot_on_an_angle", 
             "dependencyFile": "../5_shoot_on_an_angle/shoot_on_an_angle.json"
-        }, 
-        {
-            "dependencyId": "create_layers", 
-            "dependencyFile": "../3_create_layers/create_layers.json"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
@@ -21,7 +25,7 @@
             "time": "10-15 Minutes", 
             "level": "Introduction |", 
             "headline": "Capture Peak Action | Activity", 
-            "exampleMediaPath": "1.jpg", 
+            "exampleMediaPath": "1.png", 
             "type": "IntroCard", 
             "id": "intro_card_0"
         }, 

@@ -3,12 +3,16 @@
     "storyPathLibraryFile": "capture_peak_action_library.json", 
     "dependencies": [
         {
-            "dependencyId": "capture_peak_action_activity", 
-            "dependencyFile": "../4_capture_peak_action_activity/capture_peak_action_activity.json"
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
         }, 
         {
             "dependencyId": "create_layers", 
             "dependencyFile": "../3_create_layers/create_layers.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action_activity", 
+            "dependencyFile": "../4_capture_peak_action_activity/capture_peak_action_activity.json"
         }, 
         {
             "dependencyId": "shoot_on_an_angle", 
@@ -26,7 +30,7 @@
             "id": "intro_card_0"
         }, 
         {
-            "text": "The best photos appear to come alive because they contain peak action. This lesson will teach you to capture photos with peak action.", 
+            "text": "The best photos come alive because they contain peak action. This lesson will teach you to capture photos with peak action.", 
             "type": "BasicTextCard", 
             "id": "text_card_0"
         }, 
@@ -63,7 +67,7 @@
             "id": "preview_card_0"
         }, 
         {
-            "text": "Good photographs are about action and emotion. The most powerful images capture the moment at a scene when action and emotions are at their most visually expressive.", 
+            "text": "The most powerful images capture the moment in a scene when action and emotions are at their most visually expressive.", 
             "type": "BasicTextCard", 
             "id": "text_card_2", 
             "references": [
@@ -124,7 +128,7 @@
             "medium": "photo", 
             "media": [
                 {
-                    "media": "5.jpg", 
+                    "media": "4.jpg", 
                     "media_caption": null
                 }
             ], 
@@ -132,7 +136,7 @@
             "references": [
                 "capture_peak_action::milestone_start::value::true"
             ], 
-            "exampleMediaPath": "5.jpg", 
+            "exampleMediaPath": "4.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_3"
@@ -149,15 +153,15 @@
             "medium": "photo", 
             "media": [
                 {
-                    "media": "6.jpg", 
+                    "media": "5.jpg", 
                     "media_caption": null
                 }
             ], 
-            "header": "Peak action is here in the the player's frustration.", 
+            "header": "Peak action is here in the player\u2019s frustration.", 
             "references": [
                 "capture_peak_action::milestone_start::value::true"
             ], 
-            "exampleMediaPath": "6.jpg", 
+            "exampleMediaPath": "5.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_4"
@@ -177,6 +181,67 @@
             "references": [
                 "capture_peak_action::milestone_start::value::true"
             ]
+        }, 
+        {
+            "header": "Next", 
+            "references": [
+                "capture_peak_action::milestone_start::value::true"
+            ], 
+            "text": "See More Examples", 
+            "type": "ButtonCard", 
+            "id": "milestone_examples_start", 
+            "icon": "down"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_1.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Example 1", 
+            "references": [
+                "capture_peak_action::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_1.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Example 2", 
+            "references": [
+                "capture_peak_action::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Example 3", 
+            "references": [
+                "capture_peak_action::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_7"
         }, 
         {
             "text": "Congratulations, you've learned the basic steps to capturing photos with peak action. Practice your new skill in the activity below.", 
@@ -206,7 +271,7 @@
         }, 
         {
             "text": "Previous Lesson", 
-            "link": "create_layers::intro_card_0", 
+            "link": "capture_peak_action::intro_card_0", 
             "id": "link_card_2", 
             "references": [
                 "capture_peak_action::milestone_start::value::true"

@@ -3,16 +3,20 @@
     "storyPathLibraryFile": "create_layers_activity_library.json", 
     "dependencies": [
         {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
+        }, 
+        {
             "dependencyId": "create_layers", 
             "dependencyFile": "../3_create_layers/create_layers.json"
         }, 
         {
             "dependencyId": "capture_peak_action", 
             "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
-        }, 
-        {
-            "dependencyId": "compose_with_a_grid", 
-            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
@@ -21,7 +25,7 @@
             "time": "10 Minutes", 
             "level": "Introduction |", 
             "headline": "Create Layers | Activity", 
-            "exampleMediaPath": "1.jpg", 
+            "exampleMediaPath": "1.png", 
             "type": "IntroCard", 
             "id": "intro_card_0"
         }, 

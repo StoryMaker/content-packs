@@ -3,6 +3,10 @@
     "storyPathLibraryFile": "control_light_activity_library.json", 
     "dependencies": [
         {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
             "dependencyId": "control_light", 
             "dependencyFile": "../6_control_light/control_light.json"
         }
@@ -13,7 +17,7 @@
             "level": "Introduction |", 
             "headline": "Control Light | Activity", 
             "time": "10 Minutes", 
-            "exampleMediaPath": "1.jpg", 
+            "exampleMediaPath": "1.png", 
             "type": "IntroCard", 
             "id": "intro_card_0"
         }, 
@@ -39,11 +43,6 @@
             "id": "clip_card_0"
         }, 
         {
-            "medium": "photo", 
-            "type": "ReviewCard", 
-            "id": "review_card_0"
-        }, 
-        {
             "type": "TipCard", 
             "id": "tip_card_0", 
             "tags": [
@@ -51,7 +50,12 @@
             ]
         }, 
         {
-            "text": "Congratulations on completing Mobile Photo 101! Don't forget to share your photos with the StoryMaker community by tagging them #StoryMakerPics", 
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Congratulations on completing Mobile Photo Basics! Don't forget to share your photos with the StoryMaker community by tagging them #StoryMaker", 
             "type": "BasicTextCard", 
             "id": "text_card_1"
         }, 

@@ -3,8 +3,8 @@
     "storyPathLibraryFile": "compose_with_a_grid_library.json", 
     "dependencies": [
         {
-            "dependencyId": "create_layers", 
-            "dependencyFile": "../3_create_layers/create_layers.json"
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
         }, 
         {
             "dependencyId": "know_your_mobile", 
@@ -13,6 +13,10 @@
         {
             "dependencyId": "compose_with_a_grid_activity", 
             "dependencyFile": "../2_compose_with_a_grid_activity/compose_with_a_grid_activity.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../3_create_layers/create_layers.json"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
@@ -26,7 +30,7 @@
             "id": "intro_card_0"
         }, 
         {
-            "text": "Using a grid to improve composition is the most basic concept a photographer needs to understand. This lesson will teach you to look at your photo as a grid.", 
+            "text": "Using a grid to compose photos is the most basic concept a photographer needs to understand. This lesson will teach you to look at your photo as a grid.", 
             "type": "BasicTextCard", 
             "id": "text_card_0"
         }, 
@@ -53,7 +57,7 @@
                     "media_caption": "\u00a9"
                 }
             ], 
-            "header": "Placing the grid on this photo divides one image into nine equal areas.", 
+            "header": "Placing the grid on this photo divides one image into nine equal rectangles.", 
             "references": [
                 "compose_with_a_grid::milestone_start::value::true"
             ], 
@@ -63,7 +67,7 @@
             "id": "preview_card_0"
         }, 
         {
-            "text": "Most smartphones allow you to turn this grid on in your Camera app. Use the grid when practicing these lessons.", 
+            "text": "Most smartphones allow you to display a grid in your camera app. Use the grid when doing the activity.", 
             "type": "BasicTextCard", 
             "id": "text_card_2", 
             "references": [
@@ -88,7 +92,7 @@
             "id": "preview_card_1"
         }, 
         {
-            "text": "This grid is not intended to help you center your photo. Let's look at how the lines of the grid work together to help you compose better photos.", 
+            "text": "The grid is intended to do more than do more than center your photos. Let\u2019s look at how the lines of the grid help us compose better photos.", 
             "type": "BasicTextCard", 
             "id": "text_card_3", 
             "references": [
@@ -103,7 +107,7 @@
                     "media_caption": "\u00a9"
                 }
             ], 
-            "header": "This line shows the bottom third of the frame.", 
+            "header": "This line defines the bottom third of the frame.", 
             "references": [
                 "compose_with_a_grid::milestone_start::value::true"
             ], 
@@ -128,7 +132,7 @@
                     "media_caption": "\u00a9"
                 }
             ], 
-            "header": "This line shows the top third of the frame.", 
+            "header": "This line defines the top third of the frame.", 
             "references": [
                 "compose_with_a_grid::milestone_start::value::true"
             ], 
@@ -138,7 +142,7 @@
             "id": "preview_card_3"
         }, 
         {
-            "text": "If the photo is a portrait, the subject's eyes are usually placed on the top horizontal line when framing with a grid. As you practice this more you may find that sometimes the bottom line works better.", 
+            "text": "If the photo is a portrait, the subject's eyes are usually placed on the top horizontal line. As you practice this more you may find that sometimes the bottom line works better.", 
             "type": "BasicTextCard", 
             "id": "text_card_5", 
             "references": [
@@ -153,7 +157,7 @@
                     "media_caption": "\u00a9"
                 }
             ], 
-            "header": "Note how important elements of the composition are placed in the grid.", 
+            "header": "The grid allows you to arrange complex images in a single frame.", 
             "references": [
                 "compose_with_a_grid::milestone_start::value::true"
             ], 
@@ -171,23 +175,6 @@
             ]
         }, 
         {
-            "medium": "photo", 
-            "media": [
-                {
-                    "media": "7.jpg", 
-                    "media_caption": "\u00a9"
-                }
-            ], 
-            "header": "In this photo main subjects complete entirely within the frame.", 
-            "references": [
-                "compose_with_a_grid::milestone_start::value::true"
-            ], 
-            "exampleMediaPath": "7.jpg", 
-            "clipType": "character", 
-            "type": "ExampleCard", 
-            "id": "preview_card_5"
-        }, 
-        {
             "text": "Clearly define the edges of your frame. Try to have important shapes complete within the frame.", 
             "type": "BasicTextCard", 
             "id": "text_card_7", 
@@ -199,26 +186,104 @@
             "medium": "photo", 
             "media": [
                 {
-                    "media": "8.jpg", 
+                    "media": "7.jpg", 
                     "media_caption": "\u00a9"
                 }
             ], 
-            "header": "The rectangles in color show how visual information is organized by the grid.", 
+            "header": "In this photo the important elements complete within the frame.", 
             "references": [
                 "compose_with_a_grid::milestone_start::value::true"
             ], 
-            "exampleMediaPath": "8.jpg", 
+            "exampleMediaPath": "7.jpg", 
             "clipType": "character", 
             "type": "ExampleCard", 
-            "id": "preview_card_6"
+            "id": "preview_card_5"
         }, 
         {
-            "text": "Fill the entire frame with visual information. Use the grid to organize that information and create more compelling photos.", 
+            "text": "Remember to fill the entire frame with visual information. Use the grid to organize that information and create more compelling photos.", 
             "type": "BasicTextCard", 
             "id": "text_card_8", 
             "references": [
                 "compose_with_a_grid::milestone_start::value::true"
             ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Here the grid organizes the visual information in a compelling way.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "1.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "header": "Next", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "text": "See More Examples", 
+            "type": "ButtonCard", 
+            "id": "milestone_examples_start", 
+            "icon": "down"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_1.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Example 1", 
+            "references": [
+                "compose_with_a_grid::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_1.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_7"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Example 2", 
+            "references": [
+                "compose_with_a_grid::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_8"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Example 3", 
+            "references": [
+                "compose_with_a_grid::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_9"
         }, 
         {
             "text": "Congratulations, you've learned the basic steps to compose photos with a grid. Practice your new skill in the activity below.", 

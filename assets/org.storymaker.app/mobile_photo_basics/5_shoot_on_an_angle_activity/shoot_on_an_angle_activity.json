@@ -3,16 +3,20 @@
     "storyPathLibraryFile": "shoot_on_an_angle_activity_library.json", 
     "dependencies": [
         {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
             "dependencyId": "capture_peak_action", 
             "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
         }, 
         {
-            "dependencyId": "control_light", 
-            "dependencyFile": "../6_control_light/control_light.json"
-        }, 
-        {
             "dependencyId": "shoot_on_an_angle", 
             "dependencyFile": "../5_shoot_on_an_angle/shoot_on_an_angle.json"
+        }, 
+        {
+            "dependencyId": "control_light", 
+            "dependencyFile": "../6_control_light/control_light.json"
         }
     ], 
     "classPackage": "scal.io.liger.model", 
@@ -21,7 +25,7 @@
             "level": "Introduction |", 
             "headline": "Shoot on an Angle | Activity", 
             "time": "10 Minutes", 
-            "exampleMediaPath": "1.jpg", 
+            "exampleMediaPath": "1.png", 
             "type": "IntroCard", 
             "id": "intro_card_0"
         }, 
@@ -40,16 +44,11 @@
             "medium": "photo", 
             "length": "0:20", 
             "goals": [
-                "Try unique angles, not only high and low. Turn the camera at an angle to your subject."
+                "Try unique angles, not only high and low."
             ], 
             "clipType": "action", 
             "type": "ClipCard", 
             "id": "clip_card_0"
-        }, 
-        {
-            "medium": "photo", 
-            "type": "ReviewCard", 
-            "id": "review_card_0"
         }, 
         {
             "type": "TipCard", 
@@ -57,6 +56,11 @@
             "tags": [
                 "general"
             ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
         }, 
         {
             "text": "Next Lesson", 

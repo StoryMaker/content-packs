@@ -3,6 +3,10 @@
     "storyPathLibraryFile": "compose_with_a_grid_activity_library.json", 
     "dependencies": [
         {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
             "dependencyId": "know_your_mobile", 
             "dependencyFile": "../1_know_your_mobile/know_your_mobile.json"
         }, 
@@ -21,7 +25,7 @@
             "time": "5-10 Minutes", 
             "level": "Beginner |", 
             "headline": "Compose with a Grid | Activity", 
-            "exampleMediaPath": "1.jpg", 
+            "exampleMediaPath": "1.png", 
             "type": "IntroCard", 
             "id": "intro_card_0"
         }, 
@@ -69,7 +73,7 @@
             "type": "TipCard", 
             "id": "tip_card_0", 
             "tags": [
-                "rule_of_thirds"
+                "grid"
             ]
         }, 
         {
