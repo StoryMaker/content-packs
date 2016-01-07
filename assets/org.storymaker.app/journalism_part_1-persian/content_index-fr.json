@@ -1,0 +1,32 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-persian/1_introduction_to_journalism/introduction_to_journalism_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-persian/cover.png", 
+    "language": "fr", 
+    "title": "Introduction au Journalisme"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-persian/2_social_media_basics/social_media_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-persian/cover.png", 
+    "language": "fr", 
+    "title": "Les bases de m\u00e9dias sociaux"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-persian/3_reporting_basics/reporting_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-persian/cover.png", 
+    "language": "fr", 
+    "title": "Les bases du reportage"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-persian/4_selecting_and_verifying_sources/selecting_and_verifying_sources_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-persian/cover.png", 
+    "language": "fr", 
+    "title": "La S\u00e9lection et la v\u00e9rification des sources"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-persian/5_interview_techniques/interview_techniques_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-persian/cover.png", 
+    "language": "fr", 
+    "title": "Techniques d'interview"
+  }
+]

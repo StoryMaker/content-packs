@@ -1,0 +1,329 @@
+---
+    id: welcome
+    title: Getting to know StoryMaker
+    cards:
+# Begin
+        -
+            type: HowToCard
+            text: 'Begin by pressing the "I'm Ready" button below.'
+
+        -
+            type: TextCard
+            text: 'StoryMaker 2 is a powerful tool for learning and creating. We''re going to introduce you to the the different sections of the app.'
+
+        -
+            type: MilestoneCard
+            id: ms_begin
+            header: Next
+            text: I'm Ready
+            icon: down
+
+# Drawer
+
+        -
+            type: HowToCard
+            text: 'Swipe horizontally from the left to reveal the drawer'
+            references:
+                - welcome::ms_begin::value::true
+
+        -
+            type: PreviewCard
+            title: 'Navigation Drawer'
+            medium: photo
+            media:
+                -
+                    media: sm_drawer.png
+                    media_caption: ©
+            references:
+                - welcome::ms_begin::value::true
+
+        -
+            type: TextCard
+            text: 'The Drawer allows you to jump to different parts of the app.'
+            references:
+                - welcome::ms_begin::value::true
+
+        -
+            type: TextCard
+            text: 'Now that we know where to access everything we'll go through the list one at a time, beginning with the StoryMaker Community.'
+            references:
+                - welcome::ms_begin::value::true
+
+        -
+            type: MilestoneCard
+            id: ms_drawer
+            header: Next
+            text: Continue
+            icon: down
+            references:
+                - welcome::ms_begin::value::true
+
+# Community
+
+        -
+            type: HowToCard
+            text: 'Tap where it says "SIGNUP / LOGIN" in the top of the drawer to access this.'
+            references:
+                - welcome::ms_drawer::value::true
+
+        -
+            type: PreviewCard
+            title: 'Sign in or Create an account'
+            medium: photo
+            media:
+                -
+                    media: sm_join.png
+                    media_caption: ©
+            references:
+                - welcome::ms_drawer::value::true
+
+        -
+            type: TextCard
+            text: 'Create and/or Sign into your StoryMaker account to be able to share content with the rest of the StoryMaker community.'
+            references:
+                - welcome::ms_drawer::value::true
+
+        -
+            type: TextCard
+            text: 'Note StoryMaker does not host content directly, rather this is a collection of your stories from the platforms you share them to. More on that in the accounts section below.'
+            references:
+                - welcome::ms_drawer::value::true
+
+        -
+            type: MilestoneCard
+            id: ms_community
+            header: Next
+            text: Continue
+            icon: down
+            references:
+                - welcome::ms_drawer::value::true
+
+# Home
+
+        -
+            type: HowToCard
+            text: 'When starting StoryMaker 2 fresh you always begin from the Home screen.'
+            references:
+                - welcome::ms_community::value::true
+
+        -
+            type: PreviewCard
+            title: 'Home Screen'
+            medium: photo
+            media:
+                -
+                    media: sm_home.png
+                    media_caption: ©
+            references:
+                - welcome::ms_community::value::true
+
+        -
+            type: TextCard
+            text: 'Your home screen collects all the stories you''re working on with the lessons, guides, and templates you have downloaded.'
+            references:
+                - welcome::ms_community::value::true
+
+        -
+            type: MilestoneCard
+            id: ms_home
+            header: Next
+            text: Continue
+            icon: down
+            references:
+                - welcome::ms_community::value::true
+
+# Catalog
+
+        -
+            type: HowToCard
+            text: 'The Catalog contains "Packs" you can download to use right inside of StoryMaker.'
+            references:
+                - welcome::ms_home::value::true
+
+        -
+            type: PreviewCard
+            title: 'The StoryMaker Catalog'
+            medium: photo
+            media:
+                -
+                    media: sm_catalog.png
+                    media_caption: ©
+            references:
+                - welcome::ms_home::value::true
+
+        -
+            type: TextCard
+            text: 'Divided into three groups, the StoryMaker catalog allows you to download Guides, Lessons, and Templates to help you learn how to create great stories.'
+            references:
+                - welcome::ms_home::value::true
+
+        -
+            type: TextCard
+            text: 'Guides review important ideas and provide activities to learn with. Lessons go into more detail and provide multimedia examples. Templates give you story structures to build your stories with.'
+            references:
+                - welcome::ms_home::value::true
+
+        -
+            type: MilestoneCard
+            id: ms_catalog
+            header: Next
+            text: Continue
+            icon: down
+            references:
+                - welcome::ms_home::value::true
+
+# Exports
+
+        -
+            type: HowToCard
+            text: 'Exports are made when you publish a story.'
+            references:
+                - welcome::ms_catalog::value::true
+
+        -
+            type: PreviewCard
+            title: 'Exported Photo Essay'
+            medium: photo
+            media:
+                -
+                    media: sm_exports.png
+                    media_caption: ©
+            references:
+                - welcome::ms_catalog::value::true
+
+        -
+            type: TextCard
+            text: 'All the stories you publish are collected here for you to access again.'
+            references:
+                - welcome::ms_catalog::value::true
+
+        -
+            type: MilestoneCard
+            id: ms_exports
+            header: Next
+            text: Continue
+            icon: down
+            references:
+                - welcome::ms_catalog::value::true
+
+# Accounts
+
+        -
+            type: HowToCard
+            text: 'Share your stories on your favorite social networks'
+            references:
+                - welcome::ms_exports::value::true
+
+        -
+            type: PreviewCard
+            title: 'Connected Accounts'
+            medium: photo
+            media:
+                -
+                    media: sm_accounts_yt.png
+                    media_caption: ©
+            references:
+                - welcome::ms_exports::value::true
+
+        -
+            type: TextCard
+            text: 'You can sign into popular social networks and publish your stories directly from StoryMaker.'
+            references:
+                - welcome::ms_exports::value::true
+
+        -
+            type: TextCard
+            text: 'Prefer to publish to your own hosting? Our Private Server option provides safe file transfers for you.'
+            references:
+                - welcome::ms_exports::value::true
+
+        -
+            type: MilestoneCard
+            id: ms_accounts
+            header: Next
+            text: Continue
+            icon: down
+            references:
+                - welcome::ms_exports::value::true
+
+# Settings
+
+        -
+            type: HowToCard
+            text: 'Robust settings allow you to customize your exports as you like.'
+            references:
+                - welcome::ms_accounts::value::true
+
+        -
+            type: PreviewCard
+            title: 'Settings Menu'
+            medium: photo
+            media:
+                -
+                    media: sm_settings.png
+                    media_caption: ©
+            references:
+                - welcome::ms_accounts::value::true
+
+        -
+            type: TextCard
+            text: 'Be sure to see if StoryMaker is translated into your favorite language.'
+            references:
+                - welcome::ms_accounts::value::true
+
+        -
+            type: TextCard
+            text: 'The rest of our settings menu allows you extensive controls over your exports.'
+            references:
+                - welcome::ms_accounts::value::true
+
+        -
+            type: MilestoneCard
+            id: ms_settings
+            header: Next
+            text: Continue
+            icon: down
+            references:
+                - welcome::ms_accounts::value::true
+
+# Feedback
+
+        -
+            type: HowToCard
+            text: 'Our replies are sent directly to this feedback section, so check back if you submit some!'
+            references:
+                - welcome::ms_settings::value::true
+
+        -
+            type: PreviewCard
+            title: 'SECTIONNAME'
+            medium: photo
+            media:
+                -
+                    media: sm_feedback_empty.png
+                    media_caption: ©
+            references:
+                - welcome::ms_settings::value::true
+
+        -
+            type: TextCard
+            text: 'If you have any issues when using StoryMaker 2, please use this feedback form built directly into the app.'
+            references:
+                - welcome::ms_settings::value::true
+
+        -
+            type: MilestoneCard
+            id: ms_feedback
+            header: Next
+            text: Continue
+            icon: down
+            references:
+                - welcome::ms_settings::value::true
+
+# Ending
+
+        -
+            type: TextCard
+            text: 'Congrautlations, you now know about all the important sections of StoryMaker 2, we hope you enjoy using it!'
+            references:
+                - welcome::ms_feedback::value::true

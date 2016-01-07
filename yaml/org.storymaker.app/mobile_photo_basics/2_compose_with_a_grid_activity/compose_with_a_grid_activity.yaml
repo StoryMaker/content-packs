@@ -1,0 +1,77 @@
+---
+    id: compose_with_a_grid_activity
+    title: Compose with a Grid Activity
+    storyPathLibraryFile: compose_with_a_grid_activity_library.json
+    dependencies:
+        -
+            dependencyId: toc
+            dependencyFile: ../0_toc/toc.json
+        -
+            dependencyId: know_your_mobile
+            dependencyFile: ../1_know_your_mobile/know_your_mobile.json
+        -
+            dependencyId: compose_with_a_grid
+            dependencyFile: ../2_compose_with_a_grid/compose_with_a_grid.json
+        -
+            dependencyId: create_layers
+            dependencyFile: ../3_create_layers/create_layers.json
+    cards:
+
+        -
+            type: IntroCard
+            id: intro_card_0
+            exampleMediaPath: 1.png
+            headline: 'Compose with a Grid | Activity'
+            level: 'Beginner |'
+            time: '5-10 Minutes'
+
+# link card allows people to return to the lesson connected to this activity.
+
+        -
+            type: LinkCard
+            text: 'Return to Lesson'
+            link: compose_with_a_grid::intro_card_0
+
+        -
+            type: TextCard
+            text: 'Now that we learned about using the grid, it''s time to practice.'
+
+        -
+            type: PreviewCard
+            title: 'If possible turn on the grid feature in your mobile camera app.'
+            medium: photo
+            media:
+                -
+                    media: rule_of_thirds_icons.png
+                    media_caption: ©
+
+        -
+            type: HowToCard
+            text: 'Below is a clip card. Select "Capture" to launch the camera and take a photo.'
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - 'Fill the entire frame and use the lines and intersections in your composition.'
+            clipType: Action
+            length: 0:20
+
+        -
+            type: TipCard
+            tags:
+                - grid
+
+        -
+            type: ReviewCard
+            medium: photo
+
+        -
+            type: LinkCard
+            text: 'Next Lesson'
+            link: create_layers::intro_card_0
+
+        -
+            type: LinkCard
+            text: 'Previous Lesson'
+            link: know_your_mobile::intro_card_0

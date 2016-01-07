@@ -1,0 +1,23 @@
+{
+    "title": "Gi\u1edbi thi\u1ec7u v\u1ec1 ngh\u1ec1 b\u00e1o", 
+    "storyPathTemplateFiles": {
+        "introduction_to_journalism": "introduction_to_journalism.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "introduction_to_journalism", 
+            "dependencyFile": "introduction_to_journalism.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "introduction_to_journalism"
+        }
+    ], 
+    "currentStoryPathFile": "introduction_to_journalism.json", 
+    "id": "introduction_to_journalism"
+}

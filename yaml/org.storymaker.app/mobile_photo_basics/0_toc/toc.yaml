@@ -1,0 +1,144 @@
+---
+    id: toc
+    title: Table of Contents
+    dependencies:
+        -
+            dependencyId: toc
+            dependencyFile: toc.json
+        -
+            dependencyId: know_your_mobile
+            dependencyFile: ../1_know_your_mobile/know_your_mobile.json
+        -
+            dependencyId: compose_with_a_grid
+            dependencyFile: ../2_compose_with_a_grid/compose_with_a_grid.json
+        -
+            dependencyId: compose_with_a_grid_activity
+            dependencyFile: ../2_compose_with_a_grid_activity/compose_with_a_grid_activity.json
+        -
+            dependencyId: create_layers
+            dependencyFile: ../3_create_layers/create_layers.json
+        -
+            dependencyId: create_layers_activity
+            dependencyFile: ../3_create_layers/create_layers_activity.json
+        -
+            dependencyId: capture_peak_action
+            dependencyFile: ../4_capture_peak_action/capture_peak_action.json
+        -
+            dependencyId: capture_peak_action_activity
+            dependencyFile: ../4_capture_peak_action/capture_peak_action_activity.json
+        -
+            dependencyId: shoot_on_an_angle
+            dependencyFile: ../5_shoot_on_an_angle/shoot_on_an_angle.json
+        -
+            dependencyId: shoot_on_an_angle_activity
+            dependencyFile: ../5_shoot_on_an_angle/shoot_on_an_angle_activity.json
+        -
+            dependencyId: control_light
+            dependencyFile: ../6_control_light/control_light.json
+        -
+            dependencyId: control_light_activity
+            dependencyFile: ../6_control_light/control_light_activity.json
+
+    cards:
+# Know your Mobile
+        -
+            type: IntroCard
+            exampleMediaPath: 1.jpg
+            headline: 'Know Your Mobile'
+            level: 'Introduction |'
+            time: '3-5 Minutes'
+
+        -
+            type: LinkCard
+            text: 'See the Lesson'
+            link: know_your_mobile::intro_card_0
+
+# Compose with a Grid
+        -
+            type: IntroCard
+            exampleMediaPath: 1.jpg
+            headline: 'Compose with a Grid'
+            level: 'Introduction |'
+            time: '3-5 Minutes'
+
+        -
+            type: LinkCard
+            text: 'See the Lesson'
+            link: compose_with_a_grid::intro_card_0
+
+        -
+            type: LinkCard
+            text: 'Do the Activity'
+            link: compose_with_a_grid_activity::intro_card_0
+
+# Create Layers
+        -
+            type: IntroCard
+            exampleMediaPath: 1.jpg
+            headline: 'Create Layers'
+            level: 'Introduction |'
+            time: '3-5 Minutes'
+
+        -
+            type: LinkCard
+            text: 'See the Lesson'
+            link: create_layers::intro_card_0
+
+        -
+            type: LinkCard
+            text: 'Do the Activity'
+            link: create_layers_activity::intro_card_0
+
+# Capture Peak Action
+        -
+            type: IntroCard
+            exampleMediaPath: 1.jpg
+            headline: 'Capture Peak Action'
+            level: 'Introduction |'
+            time: '3-5 Minutes'
+
+        -
+            type: LinkCard
+            text: 'See the Lesson'
+            link: capture_peak_action::intro_card_0
+
+        -
+            type: LinkCard
+            text: 'Do the Activity'
+            link: capture_peak_action_activity::intro_card_0
+
+# Shoot on an Angle
+        -
+            type: IntroCard
+            exampleMediaPath: 1.jpg
+            headline: 'Shoot on an Angle'
+            level: 'Introduction |'
+            time: '3-5 Minutes'
+
+        -
+            type: LinkCard
+            text: 'See the Lesson'
+            link: shoot_on_an_angle::intro_card_0
+
+        -
+            type: LinkCard
+            text: 'Do the Activity'
+            link: shoot_on_an_angle_activity::intro_card_0
+
+# Control Light
+        -
+            type: IntroCard
+            exampleMediaPath: 1.jpg
+            headline: 'Control Light'
+            level: 'Introduction |'
+            time: '3-5 Minutes'
+
+        -
+            type: LinkCard
+            text: 'See the Lesson'
+            link: control_light::intro_card_0
+
+        -
+            type: LinkCard
+            text: 'Do the Activity'
+            link: control_light_activity::intro_card_0

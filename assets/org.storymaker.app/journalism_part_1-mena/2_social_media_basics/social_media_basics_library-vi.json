@@ -1,0 +1,23 @@
+{
+    "title": "Nh\u1eefng \u0111i\u1ec1u c\u01a1 b\u1ea3n c\u1ee7a truy\u1ec1n th\u00f4ng x\u00e3 h\u1ed9i", 
+    "storyPathTemplateFiles": {
+        "social_media_basics": "social_media_basics.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "social_media_basics", 
+            "dependencyFile": "social_media_basics.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "social_media_basics"
+        }
+    ], 
+    "currentStoryPathFile": "social_media_basics.json", 
+    "id": "social_media_basics"
+}
