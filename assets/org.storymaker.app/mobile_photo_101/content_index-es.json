@@ -1,0 +1,68 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_101/1_know_your_mobile/know_your_mobile_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_101/cover.jpg", 
+    "language": "es", 
+    "title": "Conoce tu tel\u00e9fono m\u00f3vil"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_101/2_compose_with_a_grid/compose_with_a_grid_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_101/cover.jpg", 
+    "language": "es", 
+    "title": "Componer con una Cudar\u00edcula"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_101/2_compose_with_a_grid_activity/compose_with_a_grid_activity_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_101/cover.jpg", 
+    "language": "es", 
+    "title": "Componer con una cuadr\u00edcula | Actividad"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_101/3_create_layers/create_layers_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_101/cover.jpg", 
+    "language": "es", 
+    "title": "Crear Capas"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_101/3_create_layers_activity/create_layers_activity_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_101/cover.jpg", 
+    "language": "es", 
+    "title": "Crear Capas Actividad"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_101/4_capture_peak_action/capture_peak_action_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_101/cover.jpg", 
+    "language": "es", 
+    "title": "Capturar Momentos Clave"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_101/4_capture_peak_action_activity/capture_peak_action_activity_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_101/cover.jpg", 
+    "language": "es", 
+    "title": "Capturar Momentos Clave Actividad"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_101/5_shoot_on_an_angle/shoot_on_an_angle_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_101/cover.jpg", 
+    "language": "es", 
+    "title": "Fotograf\u00eda en \u00c1ngulo"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_101/5_shoot_on_an_angle_activity/shoot_on_an_angle_activity_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_101/cover.jpg", 
+    "language": "es", 
+    "title": "Fotograf\u00eda en \u00c1ngulo | Actividad"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_101/6_control_light/control_light_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_101/cover.jpg", 
+    "language": "es", 
+    "title": "Controla la Luz"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_101/6_control_light_activity/control_light_activity_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_101/cover.jpg", 
+    "language": "es", 
+    "title": "Controla la Luz | Actividad"
+  }
+]
