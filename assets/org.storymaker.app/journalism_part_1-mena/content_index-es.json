@@ -1,0 +1,32 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-mena/1_introduction_to_journalism/introduction_to_journalism_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-mena/cover.png", 
+    "language": "es", 
+    "title": "Introducci\u00f3n al Periodismo"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-mena/2_social_media_basics/social_media_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-mena/cover.png", 
+    "language": "es", 
+    "title": "Bases de los Medios Sociales"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-mena/3_reporting_basics/reporting_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-mena/cover.png", 
+    "language": "es", 
+    "title": "Fundamentos del reportaje"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-mena/4_selecting_and_verifying_sources/selecting_and_verifying_sources_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-mena/cover.png", 
+    "language": "es", 
+    "title": "Selecci\u00f3n y verificaci\u00f3n de fuentes"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-mena/5_interview_techniques/interview_techniques_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-mena/cover.png", 
+    "language": "es", 
+    "title": "T\u00e9cnicas para entrevistar"
+  }
+]

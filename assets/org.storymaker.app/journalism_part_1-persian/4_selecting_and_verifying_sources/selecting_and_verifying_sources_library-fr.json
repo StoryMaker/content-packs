@@ -1,0 +1,23 @@
+{
+    "title": "La S\u00e9lection et la v\u00e9rification des sources", 
+    "storyPathTemplateFiles": {
+        "selecting_and_verifying_sources": "selecting_and_verifying_sources.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "selecting_and_verifying_sources", 
+            "dependencyFile": "selecting_and_verifying_sources.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "selecting_and_verifying_sources"
+        }
+    ], 
+    "currentStoryPathFile": "selecting_and_verifying_sources.json", 
+    "id": "selecting_and_verifying_sources"
+}

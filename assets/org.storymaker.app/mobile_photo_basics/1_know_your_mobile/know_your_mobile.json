@@ -1,0 +1,193 @@
+{
+    "cards": [
+        {
+            "text": "See the Table of Contents", 
+            "link": "toc::intro_card_0", 
+            "id": "link_card_0", 
+            "type": "LinkCard"
+        }, 
+        {
+            "level": "Introduction |", 
+            "headline": "Know Your Mobile", 
+            "time": "3-5 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Photographs are extremely powerful. This lesson will teach you the basics of using your mobile camera. It will also introduce the rest of the lessons in this pack.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "header": "Next", 
+            "text": "Start", 
+            "type": "ButtonCard", 
+            "id": "milestone_start", 
+            "icon": "down"
+        }, 
+        {
+            "text": "A mobile camera sees the world differently than your eye. You need to understand the limitations to get great photos. It is essential to learn how your mobile camera works.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Check out your camera menu, especially how to change focus and exposure.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Many camera apps have a feature to set the focus and exposure.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Your eye is quick to focus on the singular thing of interest in your field of view. A digital camera must be told where to focus, especially in low light, and it can be slow to focus.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Touch the screen and your camera app will focus on that point.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "4.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "If your camera has the exposure feature, experiment to see how the lighting changes.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "4.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "If your subject is too dark, touch a lighter point on the screen near the subject to find a better balance between exposure and focus.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Most mobile cameras have built-in digital zoom, but it will often exaggerate pixel size and blurriness. Your pictures will be clearer and of better quality if instead you get closer to your subject.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "5.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "In the photo on the top digital zoom was used. In the photo on the bottom the photographer moved closer to the subject.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "5.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "The advanced features in your mobile's camera will help you do more with your camera. Explore the camera app menu.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "6.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Check out the exposure compensation, flash and HDR features in your camera app.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "6.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Congratulations, you have learned the basics of how to use your camera. You are ready to move on to the remaining five lessons. Each lesson is presented much like this one and will cover a basic skill.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Next Lesson", 
+            "link": "compose_with_a_grid::intro_card_0", 
+            "id": "link_card_1", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }
+    ], 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "know_your_mobile", 
+    "title": "Know Your Mobile"
+}

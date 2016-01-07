@@ -1,0 +1,23 @@
+{
+    "title": "Nh\u1eefng \u0111i\u1ec1u c\u0103n b\u1ea3n c\u1ee7a b\u1ea3n tin ", 
+    "storyPathTemplateFiles": {
+        "reporting_basics": "reporting_basics.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "reporting_basics", 
+            "dependencyFile": "reporting_basics.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "reporting_basics"
+        }
+    ], 
+    "currentStoryPathFile": "reporting_basics.json", 
+    "id": "reporting_basics"
+}

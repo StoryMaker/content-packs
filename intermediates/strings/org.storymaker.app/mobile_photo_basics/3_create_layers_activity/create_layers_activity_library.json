@@ -1,0 +1,7 @@
+{
+  "create_layers_activity::tip_collection::tips[1]::text": "Tip: Subjects in the background must not appear too small or their importance may be lost.", 
+  "create_layers_activity::title": "Create Layers Activity", 
+  "create_layers_activity::tip_collection::tips[3]::text": "Tip: Distracting objects in the background can ruin a well-framed foreground.", 
+  "create_layers_activity::tip_collection::tips[0]::text": "Tip: Ensure foreground objects are not too close unless you want them out of focus.", 
+  "create_layers_activity::tip_collection::tips[2]::text": "Tip: When shooting multiple characters or objects, place one in the background to create a sense of depth."
+}

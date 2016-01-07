@@ -1,0 +1,186 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "What are some basic techniques for getting the most out of an interview?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## In this lesson you will learn:  \n&bull; How to prepare for an interview  \n&bull; How to get the best story out of your sources  \n&bull; Some basic questions to get you started interviewing  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Interviewing well is a learned skill. In the last section you learned about identifying sources and the different kinds of information they are best qualified to provide. In this section you will learn how to approach your subject or source to get the information you need on the record.  \nSome interviews can be prearranged. Some are quick, unplanned and done at the scene. Good reporters often have established contacts \u2014 experts such as informational sources or authoritative voices \u2014 they can call for an interview on short notice in the event of breaking news or a tight deadline.  \nThe type of story you are doing and the circumstances of the interview will determine the techniques you use and your ability to apply the principles introduced here. Recording interviews has special requirements; you need to be sure you have useable recorded material. This will be covered in the audio and video modules.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![types of sources](2.png)  \nThe type of sources you are interviewing and the role they will play in your coverage should determine the kinds of questions you ask. The amount of time you have will also affect how you conduct your interview.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "## Preparing for an interview  \n### Background research  \nDo some research before the interview when possible. You will ask better, more relevant questions. It helps to know a bit about the person you are interviewing.  \n### Prepare some introductory questions  \nIt is always a good idea to have some basic questions prepared. It saves time and keeps the interview focused.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## Example of well-prepared notes for an interview  \n### Intro or warm-up questions  \n**Ask these early to make the subject comfortable; they are easy and impersonal questions.**  \n&bull; What is your full name (and title) as you would like it for the article? (Be sure to confirm the correct spelling of names \u2014 even ones that seem obvious.)  \n&bull; Where did you study?  \n&bull; What are the materials you use and why do you use them?  \n### Main interview questions  \n**This where you collect the most interesting and useful information.**  \n&bull; How do you describe the purpose of your work to others?  \n&bull; What are some of the influences or inspirations for your artwork?  \n&bull; How did the revolution influence the themes and subjects that your artwork addresses?  \n&bull; What role do artists play in your community?  \n### Closing questions  \n**This is often where you ask the most difficult or revealing questions, along with the final question below.**  \n&bull; Your critics say you are little more than a street graffiti artist or simple illustrator. How do you respond to these criticisms?  \n&bull; Is there anything else you would like to add or that you think is important for our audience to know?  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "3.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Example of a beginning of an interview", 
+            "exampleMediaPath": "3.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "## Have a one-sentence explanation of your story for your sources  \nYou need to make it clear to your source what your story is about. This will help your source stay focused and give you relevant answers.   \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "## Conducting an interview  \n### Identify yourself as a journalist  \nIn many situations this will be obvious, but not in all situations. This is especially important online. It is ethically and professionally very important to do this, though there are some exceptions. (For more on this see section 8 on professional standards and ethics).  \nLet the subject know if you or another journalist will be using a camera to record photos or video \u2014 the subject should not be caught surprised or unprepared. In some places, explicit permission is needed to record audio or video. Know the laws where you are reporting. If permission is needed, ask the source first before recording, then ask again after recording so you have a record of it.  \n### Start with basic questions  \nDepending on the amount of time you have, it is important to start with basic, safe questions. Help people get comfortable before you begin asking more emotionally difficult or challenging questions. It may help to give people some information about yourself.  \n### Control the interview  \nSometimes people have expectations for your interview that are different than your own. Politicians frequently try to turn an interview to subjects important to them. Private citizens unfamiliar with the interview process often talk about things irrelevant to the topic. You need to be polite but firm in controlling the interview. Monologues are never as informative as interviews consisting of questions and short, relevant answers.  \n### Do not rush the answer  \nWhile it is important to control the pace of the interview, it is important to let people complete a thought. People will sometimes try to fill an awkward silence by saying more \u2014 sometimes more than they should!  \n### Probe and clarify  \nSometimes sources are not good at answering questions clearly. Other times they are intentionally trying to avoid answering a question. In either case, you can ask your question a different way. Sometimes it helps to restate the answer to the source: \u201cso, you are saying that\u2026\u201d as a way to confirm an answer. With politicians it may help to ask a more general version of a question if they refuse to answer it specifically.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "4.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Example of how to control an interview, probe and clarify", 
+            "exampleMediaPath": "4.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "### Ask follow-up questions \nDon\u2019t be so tied to your prepared questions and note-taking/recording that you forget to ask follow-up questions. Sometimes the most valuable information comes from questions you didn\u2019t plan to ask.  \n### Save sensitive questions for the end  \nAs a reporter you need to be tough. You have to ask the difficult questions and get answers. A good strategy for this is to save the most challenging questions for last. This way you still have material if the subject is angered by your tougher questions.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "5.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Example of asking a sensitive question and ending an interview", 
+            "exampleMediaPath": "5.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "### Ending the interview\nIt is always a good idea to end the interview with two questions:  \n&bull; **\u201cIs there anything else you would like to say?\u201d**  \nThis gives your source the opportunity to give you information important to him/her or to answer questions you did not think to ask.  \n&bull; **\u201cCan I contact you if I have any more questions?\u201d**  \nThis will allow you to follow up in the event you or an editor need to clarify something or if there is a development in the story for which you need a response.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## THINGS TO REMEMBER  \n\n&bull; Be prepared for your interview. Do some research. Have some questions ready.  \n&bull; The most common challenges to a good interview are time and reluctant or difficult sources.  \n&bull; Prioritize your questions and identify the single, most essential bit of information you need from a subject.  \n&bull; Try to make your subject comfortable.  \n&bull; If the source is difficult because s/he is uncomfortable or because there is something s/he does not want to tell you, an interview can sometimes become a negotiation.  \n&bull; As a reporter you have to be tough but fair.  \n&bull; Sometimes sources recognize that a \u201cno comment\u201d response or vague response to a question will make them look worse in the press than a straight answer. You may choose to point this out.  \n&bull; Your story will be more interesting if your interviews include people with opposing points of view.\n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "question": "What are some things you might do if you are interviewing someone reluctant to talk?", 
+            "id": "quiz_card_1", 
+            "choices": [
+                {
+                    "text": "Move to your most essential questions more quickly.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Ask why the subject is reluctant, and see if a solution can be negotiated.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "With a public figure, you might point out that a \u201cno comment\u201d will make him look bad.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "All of the above.", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "question": "True or False: If a subject is reluctant to answer an important question, rather than restate the question differently or try to push the issue by probing, you should drop it.", 
+            "id": "quiz_card_2", 
+            "choices": [
+                {
+                    "text": "True", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "False", 
+                    "id": "answer_2"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "question": "Which of these things should you NEVER do in an interview:", 
+            "id": "quiz_card_3", 
+            "choices": [
+                {
+                    "text": "Let the conversation fall silent for an awkward period of time.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Explain what the story is about.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "At the end of the interview, ask the source if he or she has anything to add.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "None of the above.", 
+                    "id": "answer_4"
+                }
+            ]
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "interview_techniques", 
+    "title": "Interview Techniques"
+}

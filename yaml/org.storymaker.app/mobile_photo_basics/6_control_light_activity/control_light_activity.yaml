@@ -1,0 +1,55 @@
+---
+    id: control_light_activity
+    title: Control Light Activity
+    storyPathLibraryFile: control_light_activity_library.json
+    dependencies:
+        -
+            dependencyId: toc
+            dependencyFile: ../0_toc/toc.json
+        -
+            dependencyId: control_light
+            dependencyFile: ../6_control_light/control_light.json
+    cards:
+
+        -
+            type: IntroCard
+            exampleMediaPath: 1.png
+            headline: 'Control Light | Activity'
+            level: 'Introduction |'
+            time: '10 Minutes'
+
+# link card allows people to return to the lesson connected to this activity.
+
+        -
+            type: LinkCard
+            text: 'Return to Lesson'
+            link: control_light::intro_card_0
+
+        -
+            type: TextCard
+            text: 'Now that you''ve finished the lesson on controlling light, this lesson will help you practice.'
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - 'Practice controlling light by changing your angle or your exposure.'
+            clipType: character
+            length: 0:05
+
+        -
+            type: TipCard
+            tags:
+                - general
+
+        -
+            type: ReviewCard
+            medium: photo
+
+        -
+            type: TextCard
+            text: 'Congratulations on completing Mobile Photo Basics! Don''t forget to share your photos with the StoryMaker community by tagging them #StoryMaker'
+
+        -
+            type: TextCard
+            text: 'You can return home by hitting the back button next to the StoryMaker icon at the top of your screen.'
