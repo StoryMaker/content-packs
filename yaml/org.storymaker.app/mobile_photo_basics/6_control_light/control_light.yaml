@@ -174,7 +174,7 @@
 
         -
             type: PreviewCard
-            title: ''
+            title: 'Example 1'
             medium: photo
             media:
                 -
@@ -184,7 +184,7 @@
                 - control_light::milestone_examples_start::value::true
         -
             type: PreviewCard
-            title: ''
+            title: 'Example 2'
             medium: photo
             media:
                 -
@@ -194,7 +194,7 @@
                 - control_light::milestone_examples_start::value::true
         -
             type: PreviewCard
-            title: ''
+            title: 'Example 3'
             medium: photo
             media:
                 -
