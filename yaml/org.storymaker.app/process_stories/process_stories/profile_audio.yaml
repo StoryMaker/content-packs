@@ -37,7 +37,7 @@
 
         -
             type: TextCard
-            text: 'Focus on the sounds necessary to illustrate the process. You don't need everything, just enough steps to show the progression from beginning to end.'
+            text: "Focus on the sounds necessary to illustrate the process. You don't need everything, just enough steps to show the progression from beginning to end."
 
         -
             type: ClipCard

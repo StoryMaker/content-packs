@@ -1,6 +1,6 @@
 ---
-    id: audio_library
-    title: audio_library storyPathTemplateFiles
+    id: audio_stories
+    title: Make an Audio Story
     classPackage: scal.io.liger.model
     storyPathTemplateFiles:
         audiotemplate_dayinthelife: audiotemplate_dayinthelife.json
@@ -82,7 +82,7 @@
                     text: If it is windy, point your camera away from the wind, or protect your mic.
                 -   tags: [video, audio, during]
                     text: Machines make a lot of noise, turn them off if possible, or change your location if you can.
-\                    text: Every story has a major question. What's the question you've answered at the end of your item?
+                    text: Every story has a major question. What's the question you've answered at the end of your item?
                 -   tags: [journalism, general, audio, during]
                     text: 'A climax is the answer on the question that keeps your listener listening. Don''t give it away too early. '
                 -   tags: [journalism, general, during]
@@ -94,7 +94,7 @@
         -
             id: quiz_card_topic
             type: QuizCard
-            question: Choose the story you want to make:
+            question: Choose the story you want to make.
             correctRequired: 1
             choices:
                 -
@@ -119,7 +119,7 @@
                     id: audiotemplate_dayinthelife
                     text: A Day in the Life Story
 
-		    -
+        -
             type: MilestoneCard
             id: ms_moreinfo
             header: Next
@@ -130,11 +130,11 @@
             type: TextCard
             text: 'Making a great audio story involves a variety of clips. These templates will guide you to get all the clips you need to tell a variety of stories.'
             references:
-              - audio_library::ms_moreinfo::value::true
+              - audio_stories::ms_moreinfo::value::true
 
         -
             type: HookLoaderHeadlessCard
             id: hook_loader_card
             action: LOAD
             references:
-              - audio_library::quiz_card_topic::choice
+              - audio_stories::quiz_card_topic::choice

@@ -3,7 +3,7 @@
     title: What should be done?
     cards:
 
-		    -
+        -
             type: MilestoneCard
             id: ms_moreinfo
             header: Next

@@ -3,7 +3,7 @@
     title: Issue Audio
     cards:
 
-		    -
+        -
             type: MilestoneCard
             id: ms_moreinfo
             header: Next
@@ -138,7 +138,7 @@
             type: ClipCard
             medium: audio
             goals:
-                - "Ask someone affected: How do you want the issue to be solved?
+                - "Ask someone affected: How do you want the issue to be solved?"
             clipType: Character
             length: 0:20
 

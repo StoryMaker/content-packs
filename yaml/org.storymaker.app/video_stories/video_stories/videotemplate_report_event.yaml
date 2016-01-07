@@ -3,14 +3,14 @@
     title: Event Video
     cards:
 
-		    -
+        -
             type: MilestoneCard
             id: ms_moreinfo
             header: Next
             text: About this Template
             icon: down
 
-  	    -
+        -
             type: TextCard
             text: 'This template will help you report on an event in your community. In video, news reports are typically carried by narration. The clips suggested cover the primary shots you will need to tell the story of most events. Feel free to skip shots, or use different shots as needed. Additionally, adapt the suggested questions to suit your needs.'
             references:

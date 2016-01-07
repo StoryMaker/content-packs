@@ -3,14 +3,14 @@
     title: Why is the event important?
     cards:
 
-		    -
+        -
             type: MilestoneCard
             id: ms_moreinfo
             header: Next
             text: About this Template
             icon: down
 
-		    -
+        -
             type: TextCard
             text: 'Discussions are framed around asking many people the same question. This template examines the importance of a single event. Discussions work well for introducing events with a strong cultural or social significance. Feel free to use alternate questions if you think they may work better for you.'
             references:

@@ -3,7 +3,7 @@
     title: Highlights Audio
     cards:
 
-		    -
+        -
             type: MilestoneCard
             id: ms_moreinfo
             header: Next
@@ -12,7 +12,7 @@
 
         -
             type: TextCard
-            text: 'This template will help you capture the best moments in your story. Highlights stories are structured less to illustrate a clear story line and more to show the peak moments or most dramatic aspects of the topic. In audio, highlights stories are typically bracketed by the storyteller's voice.'
+            text: "This template will help you capture the best moments in your story. Highlights stories are structured less to illustrate a clear story line and more to show the peak moments or most dramatic aspects of the topic. In audio, highlights stories are typically bracketed by the storyteller's voice."
             references:
               - audiotemplate_highlights::ms_moreinfo::value::true
 

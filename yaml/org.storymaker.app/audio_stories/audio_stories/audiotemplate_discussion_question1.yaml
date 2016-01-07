@@ -3,7 +3,7 @@
     title: What is your opinion of the person?
     cards:
 
-		    -
+        -
             type: MilestoneCard
             id: ms_moreinfo
             header: Next

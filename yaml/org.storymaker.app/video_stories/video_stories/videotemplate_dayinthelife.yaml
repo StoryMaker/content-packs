@@ -3,7 +3,7 @@
     title: Day in the Life Video
     cards:
 
-		    -
+        -
             type: MilestoneCard
             id: ms_moreinfo
             header: Next

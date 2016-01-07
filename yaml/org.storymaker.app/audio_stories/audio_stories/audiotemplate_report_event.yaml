@@ -3,7 +3,7 @@
     title: Event Video
     cards:
 
-		    -
+        -
             type: MilestoneCard
             id: ms_moreinfo
             header: Next

@@ -3,7 +3,7 @@
     title: Why is the event important?
     cards:
 
-		    -
+        -
             type: MilestoneCard
             id: ms_moreinfo
             header: Next
