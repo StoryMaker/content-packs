@@ -56,7 +56,7 @@ def parse_file(in_file_name, json_out_file_name, strings_out_file_name, json_dir
     cardcounts = {}
     if doc.has_key('cards'): # SPLS can have no cards
         for card in doc['cards']:
-            print "card: %s" % card
+            #print "card: %s" % card
             if card['type'] == 'MarkDownCard': # FIXME this should deal with MarkdownCard capitalization too
                 card['type'] = 'MarkdownCard'
                 set_id("markdown_card", card)
@@ -253,8 +253,6 @@ def do_dir(yaml_dir, json_dir, strings_dir):
             json_out_file = "%s/%s.json" % (json_dir, file_name)
             strings_out_file = "%s/%s.json" % (strings_dir, file_name)
             parse_file(in_file, json_out_file, strings_out_file, json_dir, strings_dir)
-
-# FIXME global vars are the best!!
 
 def generate_content_index_record(library_dir, package, content_pack, library, instance, lang=None):
     rec = {}
@@ -535,15 +533,7 @@ def prep_localized_pack(content_pack, locale, lang=None):
     content_metadata_file.close()
     
     content_packs.append(full_pack_name)
-
-prep_localized_pack('journalism_part_1', 'persian')
-prep_localized_pack('journalism_part_1', 'mena')
-prep_localized_pack('journalism_part_1', 'burundi')
-
-
-#### generate regular packs
-
-
+    
 def gen_regular_pack(pack_dir):   
     print("generating content for {0}".format(pack_dir))
     yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/" + pack_dir
@@ -563,7 +553,28 @@ def gen_regular_pack(pack_dir):
     
     content_packs.append(pack_dir)
 
+######################################
+
+### generate localized packs
+
+
+prep_localized_pack('journalism_part_1', 'persian')
+prep_localized_pack('journalism_part_1', 'mena')
+prep_localized_pack('journalism_part_1', 'burundi')
+
+#### generate regular packs
+
+gen_regular_pack("citizen_journalism_pack")
 gen_regular_pack("mobile_photo_basics")
+gen_regular_pack("1_day_video_workshop")
+gen_regular_pack("default")
+gen_regular_pack("learning_guide")
+gen_regular_pack("welcome")
+gen_regular_pack("audio_stories")
+gen_regular_pack("process_stories")
+gen_regular_pack("video_stories")
+gen_regular_pack("photo_essay_stories")
+gen_regular_pack("news_reports")
 
 # create available index
 
