@@ -113,7 +113,7 @@
 
         -
             type: PreviewCard
-            title: ''
+            title: 'Example 1'
             medium: photo
             media:
                 -
@@ -123,7 +123,7 @@
                 - shoot_on_an_angle::milestone_examples_start::value::true
         -
             type: PreviewCard
-            title: ''
+            title: 'Example 2'
             medium: photo
             media:
                 -
@@ -133,7 +133,7 @@
                 - shoot_on_an_angle::milestone_examples_start::value::true
         -
             type: PreviewCard
-            title: ''
+            title: 'Example 3'
             medium: photo
             media:
                 -
