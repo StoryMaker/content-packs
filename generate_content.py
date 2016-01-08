@@ -575,6 +575,7 @@ gen_regular_pack("process_stories")
 gen_regular_pack("video_stories")
 gen_regular_pack("photo_essay_stories")
 gen_regular_pack("news_reports")
+gen_regular_pack("photo_essay_stories")
 
 # create available index
 
