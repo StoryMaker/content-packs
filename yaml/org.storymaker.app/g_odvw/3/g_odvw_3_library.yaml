@@ -1,0 +1,18 @@
+---
+    id: g_odvw_3_library
+    title: Create a Story with Narration.
+    classPackage: scal.io.liger.model
+
+    currentStoryPathFile: g_odvw_3.json
+    storyPathTemplateFiles:
+        g_odvw_3: g_odvw_3.json
+    dependencies:
+        -
+            dependencyId: g_odvw_3
+            dependencyFile: g_odvw_3.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: g_odvw_3

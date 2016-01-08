@@ -1,0 +1,122 @@
+---
+    id: t_photo_process
+    title: Process
+    cards:
+
+		    -
+            type: MilestoneCard
+            id: ms_moreinfo
+            header: Next
+            text: About this Template
+            icon: down
+
+ 		    -
+            type: TextCard
+            text: 'Process stories depict how something is done or how an event unfolds. Process stories typically use chronology as their organizing principle. The story shows something from start to finish, usually showcasing the most dramatic moments and discarding the less interesting elements of the story. Interview or narration will be used as voice over sequences that illustrate the process, though this is not a requirement. This format is good for event coverage and profiles.'
+            references:
+                - t_photo_process::ms_moreinfo::value::true
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - Show your character getting ready to start the process.
+            clipType: Character
+            length: 0:00
+
+        -
+            type: TipCard
+            tags:
+                - portrait
+                - during
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - Show the very beginning or first step of the process.
+            clipType: Action
+            length: 0:00
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - Photograph where the process is taking place.
+            clipType: Place
+            length: 0:00
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - Photograph the next significant step in the process.
+            clipType: Action
+            length: 0:00
+
+        -
+            type: TextCard
+            text: 'Be sure to get a variety of compositions when illustrating the process. Some wide shots, close-ups and medium shots. Your character does not have to be in every picture.'
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - Photograph the next significant step in the process.
+            clipType: Action
+            length: 0:00
+
+        -
+            type: TipCard
+            tags:
+                - photo essay
+                - during
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - Photograph the next significant step in the process.
+            clipType: Action
+            length: 0:00
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - Shoot a photo that sums up the process.
+            clipType: Signature
+            length: 0:00
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - If the process is done with an audience photograph their reaction.
+            clipType: Character
+            length: 0:00
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - Photograph your character as they complete the process.
+            clipType: Result
+            length: 0:00
+
+        -
+            type: ReviewCard
+            medium: photo
+
+        -
+            type: TipCard
+            tags:
+                - photo
+
+        -
+            type: PublishCard
+            medium: photo
+
+        -
+            type: NextUpCard
+            medium: photo

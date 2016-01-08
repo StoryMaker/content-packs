@@ -1,0 +1,18 @@
+---
+    id: g_odvw_4_library
+    title: What’s the most important thing you learned?
+    classPackage: scal.io.liger.model
+
+    currentStoryPathFile: g_odvw_4.json
+    storyPathTemplateFiles:
+        g_odvw_4: g_odvw_4.json
+    dependencies:
+        -
+            dependencyId: g_odvw_4
+            dependencyFile: g_odvw_4.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: g_odvw_4

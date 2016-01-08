@@ -1,0 +1,167 @@
+---
+    id: t_news_issue_video
+    title: Issue Video Report
+    cards:
+
+		    -
+            type: MilestoneCard
+            id: ms_moreinfo
+            header: Next
+            text: About this Template
+            icon: down
+
+		    -
+            type: TextCard
+            text: 'This template will help you report on a social issue that is important to your community. In video, news reports are typically carried by narration. The clips suggested cover the primary shots you will need to identify and describe the issue. Feel free to skip shots, or use different shots as needed. Additionally, adapt the suggested questions to suit your needs.'
+            references:
+                - t_news_issue_video::ms_moreinfo::value::true
+
+        -
+            type: TipCard
+            tags:
+                - video
+                - before
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show where the issue occurs.
+            clipType: Place
+            length: 0:12
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show something introducing the issue.
+            clipType: Signature
+            length: 0:10
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Introduce the issue.
+            clipType: Signature
+            length: 0:12
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - "Ask: How does the issue impact individuals or the community?"
+            clipType: Character
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show how the issue affects people.
+            clipType: Action
+            length: 0:10
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show something important about the issue.
+            clipType: Signature
+            length: 0:14
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - "Ask an expert source: How can others help solve the issue?"
+            clipType: Character
+            length: 0:25
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show where the expert works.
+            clipType: Place
+            length: 0:10
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show what people are doing about the issue.
+            clipType: Character
+            length: 0:15
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - "Ask an informational source: When did the issue first start?"
+            clipType: Character
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show the character interacting with those affected.
+            clipType: Action
+            length: 0:15
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - "Ask someone affected: How do you want the issue to be solved?"
+            clipType: Character
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - "Ask: What is being done about the issue?"
+            clipType: Character
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show how the character is solving the issue.
+            clipType: Signature
+            length: 0:10
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show the result of what people are doing about the issue.
+            clipType: Result
+            length: 0:10
+
+        -
+            type: TipCard
+            tags:
+                - edit
+                - video
+                - after
+
+        -
+            type: ReviewCard
+            medium: video
+
+        -
+            type: TipCard
+            tags:
+                - narration
+
+        -
+            type: PublishCard
+            medium: video
+
+        -
+            type: NextUpCard
+            medium: video

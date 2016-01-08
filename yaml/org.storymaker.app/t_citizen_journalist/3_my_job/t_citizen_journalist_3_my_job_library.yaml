@@ -1,0 +1,19 @@
+---
+    id: t_citizen_journalist_3_my_job_library
+    title: What's your Job?
+    classPackage: scal.io.liger.model
+
+    currentStoryPathFile: t_citizen_journalist_3_my_job.json
+    storyPathTemplateFiles:
+        t_citizen_journalist_3_my_job: t_citizen_journalist_3_my_job.json
+    dependencies:
+        -
+            dependencyId: t_citizen_journalist_3_my_job
+            dependencyFile: t_citizen_journalist_3_my_job.json
+
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: t_citizen_journalist_3_my_job

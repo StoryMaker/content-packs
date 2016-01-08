@@ -1,0 +1,174 @@
+---
+    id: t_citizen_journalist_1_meet_a_musician
+    title: Meet a Musician!
+    cards:
+
+        -
+            type: IntroCard
+            exampleMediaPath: 1.jpg
+            headline: 'Meet a Musician!'
+            level: 'Beginner |'
+            time: '15-30 Minutes'
+
+        -
+            type: TextCard
+            text: 'Meet a musician! This guide will help you tell the story of your neighborhood musician.'
+
+        -
+            type: TextCard
+            text: 'This guide involves three scenes. You''ll shoot the musician, audience reaction and opinions, and finally interview the musician.'
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Set the scene, show where the musician plays.'
+            clipType: place
+            length: 0:10
+
+        -
+            type: TextCard
+            text: 'Take additional shots if needed. When you have a shot of the place that you feel happy with, continue with your shots below.'
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Record the musician playing, show the whole person in your frame.'
+            clipType: action
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Record the musician''s face and expression.'
+            clipType: result
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'If possible, record the hands playing.'
+            clipType: signature
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Record another angle of the musician playing.'
+            clipType: character
+            length: 0:20
+
+        -
+            type: TextCard
+            text: 'Now focus on recording the audience, their reactions, and opinions.'
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Show the audience responding- clapping or dancing may be good choices.'
+            clipType: action
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Record clapping hands or listening faces.'
+            clipType: signature
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Now record the place, with a focus on the audience, not the musician.'
+            clipType: place
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Ask- What is your opinion of the musician?'
+            clipType: character
+            length: 0:20
+
+        -
+            type: TextCard
+            text: 'If you have time, interview a few more people on the cards that follow. Consider other questions, like, how long has the musician played here? Or Do you have a favorite song this musician plays?'
+
+        -
+            type: MilestoneCard
+            id: milestone_start
+            header: Next
+            text: 'I want to interview more people'
+            icon: down
+            references:
+                - meet_musician::value
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Do you have a favorite song from the musician?'
+            clipType: character
+            length: 0:20
+            references:
+                - meet_musician::milestone_start::value::true
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'What do you want to tell us about the musician?'
+            clipType: character
+            length: 0:20
+            references:
+                - meet_musician::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'Use the duplicate card option in the menu to create additional cards if you want to interview even more people.'
+            references:
+                - meet_musician::milestone_start::value::true
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Shoot another clip showing the place, musician, and audience.'
+            clipType: place
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Record the musician playing one more song.'
+            clipType: action
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Interview the musician- Why this music/place/time of day?'
+            clipType: character
+            length: 0:20
+
+        -
+            type: TextCard
+            text: 'Feel free to ask more questions, or record additional shots of the musician playing and audience response. Consider interesting angles, such as very low, high, or tilting the camera left or right.'
+
+        -
+            type: TextCard
+            text: 'When you have enough clips, you can arrange them below, by pressing the ''Order'' button. You can trim individual clips, by tapping their thumbnail image.'
+
+        -
+            type: ReviewCard
+            medium: video

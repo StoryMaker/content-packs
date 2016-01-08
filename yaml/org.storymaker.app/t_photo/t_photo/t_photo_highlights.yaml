@@ -1,0 +1,124 @@
+---
+    id: t_photo_highlights
+    title: Highlights
+    cards:
+
+		    -
+            type: MilestoneCard
+            id: ms_moreinfo
+            header: Next
+            text: About this Template
+            icon: down
+
+ 		    -
+            type: TextCard
+            text: 'This is a highlights story, it will help you photograph the best moments in your story. Highlights stories are structured less to illustrate a clear story line and more to show the peak moments or most dramatic aspects of the topic.'
+            references:
+                - t_photo_highlights::ms_moreinfo::value::true
+
+        -
+            type: TipCard
+            tags:
+                - photo
+                - before
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - Show the location, try a wide shot of the location of your story.
+            clipType: Place
+            length: 0:00
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - Capture a character essential to your story.
+            clipType: Character
+            length: 0:00
+
+        -
+            type: TipCard
+            tags:
+                - photo
+                - photo essay
+                - during
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - Shoot one picture that sums up what the story is about.
+            clipType: Signature
+            length: 0:00
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - Pay attention to your characters-capture what makes them unique.
+            clipType: Action
+            length: 0:00
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - Look for moments when your characters interact.
+            clipType: Action
+            length: 0:00
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - Something drew you personally to this story, photograph it.
+            clipType: signature
+            length: 0:00
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - Photograph the primary characters in your story.
+            clipType: Character
+            length: 0:00
+
+        -
+            type: TipCard
+            tags:
+                - portraits
+                - during
+
+        -
+            type: ClipCard
+            medium: photo
+            goals:
+                - Look for a climax or dramatic finish, photograph it.
+            clipType: Result
+            length: 0:00
+
+        -
+            type: TipCard
+            tags:
+                - edit
+                - photo
+                - after
+
+        -
+            type: ReviewCard
+            medium: photo
+
+        -
+            type: TipCard
+            tags:
+                - photo
+
+        -
+            type: PublishCard
+            medium: photo
+
+        -
+            type: NextUpCard
+            medium: photo

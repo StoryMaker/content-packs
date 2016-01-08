@@ -1,0 +1,115 @@
+---
+    id: t_news_breaking_video
+    title: Breaking News Video Report
+    cards:
+
+		    -
+            type: MilestoneCard
+            id: ms_moreinfo
+            header: Next
+            text: About this Template
+            icon: down
+
+		    -
+            type: TextCard
+            text: 'A breaking news video report requires a narration that explains what is happening, summarizing the key points, main actors, and any information known so far. The reporter must show what can be seen on the ground where the news happened. Shoot clips that show the basic facts and if possible interview a witness.'
+            references:
+                - t_news_breaking_video::ms_moreinfo::value::true
+
+        -
+            type: TipCard
+            tags:
+                - video
+                - before
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show the location. Capture details that show where you are.
+            clipType: Place
+            length: 0:08
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show the reactions of those affected.
+            clipType: Action
+            length: 0:10
+
+        -
+            type: TipCard
+            tags:
+                - video
+                - during
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Summarize what happened in one shot.
+            clipType: Signature
+            length: 0:15
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show the results of what happened.
+            clipType: Result
+            length: 0:25
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - If possible, interview somewhat affected at the scene.
+            clipType: Character
+            length: 0:15
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Capture something that shows why you think this news is important.
+            clipType: Signature
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show the location, use a new angle to show where you are.
+            clipType: Place
+            length: 0:15
+
+        -
+            type: TipCard
+            tags:
+                - video
+                - during
+
+        -
+            type: TipCard
+            tags:
+                - edit
+                - video
+                - after
+
+        -
+            type: ReviewCard
+            medium: video
+
+        -
+            type: TipCard
+            tags:
+                - narration
+
+        -
+            type: PublishCard
+            medium: video
+
+        -
+            type: NextUpCard
+            medium: video

@@ -1136,3 +1136,349 @@ file_filter = intermediates/translated_strings/org.storymaker.app/default/profil
 source_file = intermediates/strings/org.storymaker.app/default/profile_series_photo_character.json
 source_lang = en
 type = KEYVALUEJSON
+
+[main]
+host = https://www.transifex.com
+
+[storymaker.t_audio_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_audio/t_audio/t_audio_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_audio/t_audio/t_audio_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_audio_day_in_the_life]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_audio/t_audio/t_audio_day_in_the_life-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_audio/t_audio/t_audio_day_in_the_life.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_audio_discussion_question_1]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_audio/t_audio/t_audio_discussion_question_1-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_audio/t_audio/t_audio_discussion_question_1.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_audio_discussion_question_2]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_audio/t_audio/t_audio_discussion_question_2-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_audio/t_audio/t_audio_discussion_question_2.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_audio_discussion_question_3]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_audio/t_audio/t_audio_discussion_question_3-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_audio/t_audio/t_audio_discussion_question_3.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_audio_highlights]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_audio/t_audio/t_audio_highlights-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_audio/t_audio/t_audio_highlights.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_audio_report_event]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_audio/t_audio/t_audio_report_event-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_audio/t_audio/t_audio_report_event.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_audio_report_issue]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_audio/t_audio/t_audio_report_issue-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_audio/t_audio/t_audio_report_issue.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_news_breaking_audio]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_news/t_news/t_news_breaking_audio-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_news/t_news/t_news_breaking_audio.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_news_breaking_video]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_news/t_news/t_news_breaking_video-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_news/t_news/t_news_breaking_video.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_news_event_audio]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_news/t_news/t_news_event_audio-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_news/t_news/t_news_event_audio.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_news_event_video]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_news/t_news/t_news_event_video-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_news/t_news/t_news_event_video.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_news_issue_audio]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_news/t_news/t_news_issue_audio-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_news/t_news/t_news_issue_audio.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_news_issue_video]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_news/t_news/t_news_issue_video-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_news/t_news/t_news_issue_video.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_news_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_news/t_news/t_news_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_news/t_news/t_news_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_news_profile_audio]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_news/t_news/t_news_profile_audio-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_news/t_news/t_news_profile_audio.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_news_profile_video]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_news/t_news/t_news_profile_video-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_news/t_news/t_news_profile_video.json
+source_lang = en
+type = KEYVALUEJSON
+
+
+[storymaker.t_photo_highlights]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_photo/t_photo/t_photo_highlights-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_photo/t_photo/t_photo_highlights.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_photo_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_photo/t_photo/t_photo_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_photo/t_photo/t_photo_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_photo_process]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_photo/t_photo/t_photo_process-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_photo/t_photo/t_photo_process.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_photo_series_action]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_photo/t_photo/t_photo_series_action-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_photo/t_photo/t_photo_series_action.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_photo_series_character]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_photo/t_photo/t_photo_series_character-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_photo/t_photo/t_photo_series_character.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_photo_series_place]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_photo/t_photo/t_photo_series_place-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_photo/t_photo/t_photo_series_place.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_photo_series_signature]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_photo/t_photo/t_photo_series_signature-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_photo/t_photo/t_photo_series_signature.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_process_event_audio]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_process/t_process/t_process_event_audio-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_process/t_process/t_process_event_audio.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_process_event_photo]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_process/t_process/t_process_event_photo-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_process/t_process/t_process_event_photo.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_process_event_video]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_process/t_process/t_process_event_video-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_process/t_process/t_process_event_video.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_process_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_process/t_process/t_process_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_process/t_process/t_process_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_process_profile_audio]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_process/t_process/t_process_profile_audio-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_process/t_process/t_process_profile_audio.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_process_profile_photo]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_process/t_process/t_process_profile_photo-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_process/t_process/t_process_profile_photo.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_process_profile_video]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_process/t_process/t_process_profile_video-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_process/t_process/t_process_profile_video.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_video_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_video/t_video/t_video_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_video/t_video/t_video_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_video_day_in_the_life]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_video/t_video/t_video_day_in_the_life-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_video/t_video/t_video_day_in_the_life.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_video_discussion_question_1]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_video/t_video/t_video_discussion_question_1-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_video/t_video/t_video_discussion_question_1.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_video_discussion_question_2]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_video/t_video/t_video_discussion_question_2-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_video/t_video/t_video_discussion_question_2.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_video_discussion_question_3]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_video/t_video/t_video_discussion_question_3-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_video/t_video/t_video_discussion_question_3.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_video_highlights]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_video/t_video/t_video_highlights-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_video/t_video/t_video_highlights.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_video_report_event]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_video/t_video/t_video_report_event-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_video/t_video/t_video_report_event.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_video_report_issue]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_video/t_video/t_video_report_issue-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_video/t_video/t_video_report_issue.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.g_odvw_0]
+file_filter = intermediates/translated_strings/org.storymaker.app/g_odvw/0/g_odvw_0-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/g_odvw/0/g_odvw_0.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.g_odvw_0_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/g_odvw/0/g_odvw_0_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/g_odvw/0/g_odvw_0_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.g_odvw_1]
+file_filter = intermediates/translated_strings/org.storymaker.app/g_odvw/1/g_odvw_1-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/g_odvw/1/g_odvw_1.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.g_odvw_1_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/g_odvw/1/g_odvw_1_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/g_odvw/1/g_odvw_1_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.g_odvw_2]
+file_filter = intermediates/translated_strings/org.storymaker.app/g_odvw/2/g_odvw_2-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/g_odvw/2/g_odvw_2.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.g_odvw_2_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/g_odvw/2/g_odvw_2_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/g_odvw/2/g_odvw_2_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.g_odvw_3]
+file_filter = intermediates/translated_strings/org.storymaker.app/g_odvw/3/g_odvw_3-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/g_odvw/3/g_odvw_3.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.g_odvw_3_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/g_odvw/3/g_odvw_3-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/g_odvw/3/g_odvw_3_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.g_odvw_4]
+file_filter = intermediates/translated_strings/org.storymaker.app/g_odvw/4/g_odvw_4-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/g_odvw/4/g_odvw_4.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.g_odvw_4_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/g_odvw/4/g_odvw_4_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/g_odvw/4/g_odvw_4_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_citizen_journalist_1_meet_a_musician]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_citizen_journalist/1_meet_a_musician/t_citizen_journalist_1_meet_a_musician-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_citizen_journalist/1_meet_a_musician/t_citizen_journalist_1_meet_a_musician.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_citizen_journalist_1_meet_a_musician_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_citizen_journalist/1_meet_a_musician/t_citizen_journalist_1_meet_a_musician_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_citizen_journalist/1_meet_a_musician/t_citizen_journalist_1_meet_a_musician_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_citizen_journalist_2_traffic_accident]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_citizen_journalist/2_traffic_accident/t_citizen_journalist_2_traffic_accident-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_citizen_journalist/2_traffic_accident/t_citizen_journalist_2_traffic_accident.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_citizen_journalist_2_traffic_accident_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_citizen_journalist/2_traffic_accident/t_citizen_journalist_2_traffic_accident_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_citizen_journalist/2_traffic_accident/t_citizen_journalist_2_traffic_accident_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_citizen_journalist_3_my_job]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_citizen_journalist/2_traffic_accident/t_citizen_journalist_3_my_job-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_citizen_journalist/2_traffic_accident/t_citizen_journalist_3_my_job.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.t_citizen_journalist_3_my_job_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/t_citizen_journalist/2_traffic_accident/t_citizen_journalist_3_my_job_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_citizen_journalist/2_traffic_accident/t_citizen_journalist_3_my_job_library.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.g_welcome]
+file_filter = intermediates/translated_strings/org.storymaker.app/g_welcome/g_welcome-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/g_welcome/g_welcome.json
+source_lang = en
+type = KEYVALUEJSON
+
+[storymaker.g_welcome_library]
+file_filter = intermediates/translated_strings/org.storymaker.app/g_welcome/g_welcome_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/g_welcome/g_welcome_library.json
+source_lang = en
+type = KEYVALUEJSON

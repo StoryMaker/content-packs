@@ -1,0 +1,199 @@
+---
+    id: t_audio_report_issue
+    title: Issue Audio
+    cards:
+
+        -
+            type: MilestoneCard
+            id: ms_moreinfo
+            header: Next
+            text: About this Template
+            icon: down
+
+        -
+            type: TextCard
+            text: 'This template will help you report on a social issue that is important to your community. The clips suggested cover the primary shots you will need to identify and describe the issue. Feel free to skip shots, or use different shots as needed. Additionally, adapt the suggested questions to suit your needs.'
+            references:
+              - t_audio_report_issue::ms_moreinfo::value::true
+
+        -
+            type: TipCard
+            tags:
+                - audio
+                - before
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - Record where the issue occurs.
+            clipType: Place
+            length: 0:12
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - Use your own voice or ask a character to introduce the issue.
+            clipType: Character
+            length: 0:10
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - Record sound introducing the issue.
+            clipType: Signature
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - "Ask: How does the issue impact individuals or the community?"
+            clipType: Character
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - Record sound of the impact of the issue on people.
+            clipType: Result
+            length: 0:10
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - Record sound of something notable about the issue.
+            clipType: Signature
+            length: 0:14
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - "Ask an expert source: How can others help solve the issue?"
+            clipType: Character
+            length: 0:25
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - Record sound of where the expert works.
+            clipType: Place
+            length: 0:10
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - Record sound of people working on the issue.
+            clipType: Action
+            length: 0:15
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - Tell us some interesting facts about the issue or why it started.
+            clipType: Character
+            length: 0:40
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - "Ask an informational source: When did the issue first start?"
+            clipType: Character
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - Record sounds of the most important thing about the issue.
+            clipType: Signature
+            length: 0:12
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - Tell us how characters in the story are working to change the issue.
+            clipType: Character
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - Record sound of someone interacting with those affected.
+            clipType: Action
+            length: 0:15
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - "Ask someone affected: How do you want the issue to be solved?"
+            clipType: Character
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - Record sound of what people are doing about the issue.
+            clipType: Action
+            length: 0:14
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - "Ask: What is being done about the issue?"
+            clipType: Character
+            length: 0:25
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - Record sound of how the character(s) is solving the issue.
+            clipType: Result
+            length: 0:14
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - Tell us yourself what is expected for the issue in the future.
+            clipType: Character
+            length: 0:20
+
+        -
+            type: TipCard
+            tags:
+                - edit
+                - audio
+                - after
+
+        -
+            type: ReviewCard
+            medium: audio
+
+        -
+            type: TipCard
+            tags:
+                - audio
+
+        -
+            type: PublishCard
+            medium: audio
+
+        -
+            type: NextUpCard
+            medium: audio

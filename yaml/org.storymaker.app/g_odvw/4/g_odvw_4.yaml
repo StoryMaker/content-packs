@@ -1,0 +1,64 @@
+---
+    id: g_odvw_4
+    title: What's the most important thing you learned?
+    cards:
+
+        -
+            type: IntroCard
+            exampleMediaPath: cover.png
+            headline: What's the most important thing you learned?
+            level: Conclusion
+            time: "? Minutes"
+
+        -
+            type: TextCard
+            text: "Each with your own phones, first interview your partner, and then your partner will interview you."
+
+        -
+            type: TextCard
+            text: Ask your partner, "What is the most important thing you  learned about making videos?"
+
+        -
+            type: TextCard
+            text: "Make sure you are close enough to hear your partner."
+
+        -
+            type: TextCard
+            text: "If there is a lot of background noise, find a new location."
+
+        -
+            type: PreviewCard
+            title: "Example of headroom"
+            medium: photo
+            media:
+                -
+                    media: 2.png
+                    media_caption:
+
+        -
+            type: TextCard
+            text: "Remember to provide proper headspace for your interview."
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - "Ask: What is the most important thing you learned about making videos?"
+            clipType: Character
+            length: 0:20
+
+        -
+            type: TextCard
+            text: "Trim by tapping the clip image."
+
+        -
+            type: ReviewCard
+            medium: video
+
+        -
+            type: TextCard
+            text: "If you recorded multiple clips, delete all but your chosen clip before you publish."
+
+        -
+            type: TextCard
+            text: "Don't worry, all clips are saved in your gallery."
