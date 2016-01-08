@@ -1,0 +1,183 @@
+---
+    id: t_news_event_video
+    title: Event Video Report
+    cards:
+
+        -
+            type: MilestoneCard
+            id: ms_moreinfo
+            header: Next
+            text: About this Template
+            icon: down
+
+        -
+            type: TextCard
+            text: 'This template will help you report on an event in your community. In video, news reports are typically carried by narration. You can add this at the end. The clips suggested cover the primary shots you will need to tell the story of most events. Feel free to skip shots, or use different shots as needed. Additionally, adapt the suggested questions to suit your needs.'
+            references:
+              - t_news_event_video::ms_moreinfo::value::true
+
+        -
+            type: TipCard
+            tags:
+                - video
+                - before
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show where the event happens.
+            clipType: Place
+            length: 0:12
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show preparation for the event.
+            clipType: Result
+            length: 0:10
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show something notable about the event.
+            clipType: Signature
+            length: 0:12
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Ask a person to introduce the event.
+            clipType: Character
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show what happens at the event.
+            clipType: Action
+            length: 0:10
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show something important to the event.
+            clipType: Signature
+            length: 0:14
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - "Ask someone who is in the event: Why is this event interesting?"
+            clipType: Character
+            length: 0:25
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show a place important to the event.
+            clipType: Place
+            length: 0:10
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Ask an Expert to talk about the event.
+            clipType: Character
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show something happening at the event.
+            clipType: Action
+            length: 0:09
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show people interacting at the event.
+            clipType: Character
+            length: 0:15
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - "Ask: What happens at the event?"
+            clipType: Character
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show the result of people interacting at the event.
+            clipType: Result
+            length: 0:10
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Ask someone attending the event to talk about what they did.
+            clipType: Character
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show something the character talks about at the event.
+            clipType: Signature
+            length: 0:10
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - If it’s a different location, show where the event ends.
+            clipType: Place
+            length: 0:10
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show the end of the event.
+            clipType: Result
+            length: 0:14
+
+        -
+            type: TipCard
+            tags:
+                - edit
+                - video
+                - after
+
+        -
+            type: ReviewCard
+            medium: video
+
+        -
+            type: TipCard
+            tags:
+                - narration
+
+        -
+            type: PublishCard
+            medium: video
+
+        -
+            type: NextUpCard
+            medium: video

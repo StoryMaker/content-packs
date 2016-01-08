@@ -1,0 +1,18 @@
+---
+    id: g_odvw_2_library
+    title: Shoot a Process Story.
+    classPackage: scal.io.liger.model
+
+    currentStoryPathFile: g_odvw_2.json
+    storyPathTemplateFiles:
+        g_odvw_2: g_odvw_2.json
+    dependencies:
+        -
+            dependencyId: g_odvw_2
+            dependencyFile: g_odvw_2.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: g_odvw_2

@@ -1,0 +1,18 @@
+---
+    id: g_odvw_1_library
+    title: Interview your partner.
+    classPackage: scal.io.liger.model
+
+    currentStoryPathFile: g_odvw_1.json
+    storyPathTemplateFiles:
+        g_odvw_1: g_odvw_1.json
+    dependencies:
+        -
+            dependencyId: g_odvw_1
+            dependencyFile: g_odvw_1.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: g_odvw_1

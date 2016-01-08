@@ -1,0 +1,19 @@
+---
+    id: t_citizen_journalist_1_meet_a_musician_library
+    title: Meet a Musician!
+    classPackage: scal.io.liger.model
+
+    currentStoryPathFile: t_citizen_journalist_1_meet_a_musician.json
+    storyPathTemplateFiles:
+        t_citizen_journalist_1_meet_a_musician: t_citizen_journalist_1_meet_a_musician.json
+    dependencies:
+        -
+            dependencyId: t_citizen_journalist_1_meet_a_musician
+            dependencyFile: t_citizen_journalist_1_meet_a_musician.json
+
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: t_citizen_journalist_1_meet_a_musician

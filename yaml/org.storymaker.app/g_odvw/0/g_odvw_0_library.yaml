@@ -1,0 +1,18 @@
+---
+    id: g_odvw_0_library
+    title: What do you hope to learn?
+    classPackage: scal.io.liger.model
+
+    currentStoryPathFile: g_odvw_0.json
+    storyPathTemplateFiles:
+        g_odvw_0: g_odvw_0.json
+    dependencies:
+        -
+            dependencyId: g_odvw_0
+            dependencyFile: g_odvw_0.json
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: g_odvw_0

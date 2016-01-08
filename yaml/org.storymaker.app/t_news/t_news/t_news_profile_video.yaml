@@ -1,0 +1,162 @@
+---
+    id: t_news_profile_video
+    title: Profile Video Report
+    cards:
+
+		    -
+            type: MilestoneCard
+            id: ms_moreinfo
+            header: Next
+            text: About this Template
+            icon: down
+
+        -
+            type: TextCard
+            text: 'This template will help you report on an individual who is important to your community. The clips suggested cover the primary shots you will need to create a well-rounded profile.. Feel free to skip shots, or use different shots as needed. Additionally, adapt the suggested questions to suit your needs.'
+            references:
+              - t_news_profile_video::ms_moreinfo::value::true
+
+        -
+            type: TipCard
+            tags:
+                - video
+                - before
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show us where your character lives.
+            clipType: Place
+            length: 0:14
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - "Ask: Will you please introduce yourself?"
+            clipType: Character
+            length: 0:33
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show us what you find notable about your character.
+            clipType: Signature
+            length: 0:13
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - "Ask: Please tell us a little about what you do for a living?"
+            clipType: Character
+            length: 0:28
+
+        -
+            type: TipCard
+            tags:
+                - video
+                - during
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show your character’s work.
+            clipType: Result
+            length: 0:15
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show us the most important thing about your character’s work.
+            clipType: Signature
+            length: 0:30
+
+        -
+            type: TipCard
+            tags:
+                - video
+                - during
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show us a place important to your character.
+            clipType: Place
+            length: 0:13
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show your character interacting with other people in their life.
+            clipType: Action
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show what your character does for fun.
+            clipType: Action
+            length: 0:12
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show us something important to the character.
+            clipType: Signature
+            length: 0:23
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - If it’s a new place, show where your character ends the story.
+            clipType: Place
+            length: 0:24
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - "Ask: Can you please tell us about your future?"
+            clipType: Character
+            length: 0:40
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - Show your character at the end of the story.
+            clipType: Result
+            length: 0:09
+
+        -
+            type: TipCard
+            tags:
+                - video
+                - after
+
+        -
+            type: ReviewCard
+            medium: video
+
+        -
+            type: TipCard
+            tags:
+                - narration
+
+        -
+            type: PublishCard
+            medium: video
+
+        -
+            type: NextUpCard
+            medium: video
