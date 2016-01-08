@@ -1,0 +1,65 @@
+{
+    "title": "Controla la Luz Actividad", 
+    "storyPathLibraryFile": "control_light_activity_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "control_light", 
+            "dependencyFile": "../6_control_light/control_light.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "level": "Introducci\u00f3n", 
+            "headline": "Controla la Luz | Actividad", 
+            "time": "10 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Regresar a la Lecci\u00f3n", 
+            "link": "control_light::intro_card_0", 
+            "id": "link_card_0", 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Ahora que has terminado la lecci\u00f3n sobre c\u00f3mo controlar la luz, esta lecci\u00f3n te ayudar\u00e1 a practicar.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:05", 
+            "goals": [
+                "Practica controlar la luz al cambiar tu \u00e1ngulo o tu exposici\u00f3n."
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "general"
+            ]
+        }, 
+        {
+            "text": "\u00a1Felicidades por concluir Lo B\u00e1sico en Fotograf\u00eda con Dispositivos M\u00f3viles! No olvides compartir tus fotos con la comunidad de StoryMaker al taguearlas con #StoryMaker", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "You can return home by hitting the back button next to the StoryMaker icon at the top of your screen.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }
+    ], 
+    "id": "control_light_activity"
+}

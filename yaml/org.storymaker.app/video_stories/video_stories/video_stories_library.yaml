@@ -1,0 +1,204 @@
+---
+    id: video_stories
+    title: video_stories storyPathTemplateFiles
+    classPackage: scal.io.liger.model
+    storyPathTemplateFiles:
+        videotemplate_day_in_the_life: videotemplate_day_in_the_life.json
+        videotemplate_discussion_question1: videotemplate_discussion_question1.json
+        videotemplate_discussion_question2: videotemplate_discussion_question2.json
+        videotemplate_discussion_question3: videotemplate_discussion_question3.json
+        videotemplate_highlights: videotemplate_highlights.json
+        videotemplate_report_event: videotemplate_report_event.json
+        videotemplate_report_issue: videotemplate_report_issue.json
+
+    cards:
+        -
+            type: TipCollectionHeadlessCard
+            id: "tip_collection"
+            tips:
+                -   tags: [ethics, journalism, during]
+                    text: Know yourself, be aware of your biases don't let them influence how you portray your story.
+                -   tags: [security, photo, video, journalism, during]
+                    text: When shooting in dangerous situations always have an exit strategy.
+                -   tags: [journalism, interview, character, video, audio]
+                    text: Do some research before the interview when possible. You will ask better, more relevant questions.
+                -   tags: [journalism, interview, character, before]
+                    text: Have a one-sentence explanation of your story for your characters.
+                -   tags: [journalism, interview, character, video, audio, during]
+                    text: Save sensitive questions for the end.
+                -   tags: [journalism, interview, character, video, audio, before]
+                    text: Prioritize your questions and identify the single, most essential bit of information you need.
+                -   tags: [journalism, interview, character, video, audio, during]
+                    text: Get to the most important question quickly in the interview.
+                -   tags: [journalism, interview, character, video, audio, during]
+                    text: In your interview, remember to be tough but fair.
+                -   tags: [journalism, interview, character, video, audio, during]
+                    text: Your story will be more interesting if you interview characters with opposing viewpoints.
+                -   tags: [journalism, interview, character, video, audio, during]
+                    text: End the interview by asking, "Is there anything else you would like to add?"
+                -   tags: [video, during]
+                    text: Well composed shots have space in the direction the subject is facing, or moving.
+                -   tags: [video, during]
+                    text: '"The size of an object in the frame should equal it''s importance at that moment." -Alfred Hitchcock'
+                -   tags: [video, during]
+                    text: Ensure the most important part of your shot fills at least 50% of the frame.
+                -   tags: [video, after]
+                    text: Combine clips of different sizes or types to create a complementary sequence.
+                -   tags: [video, during]
+                    text: Do not stop recording until the action in your shot is complete.
+                -   tags: [video, during]
+                    text: Start the camera rolling before the action begins and don't stop recording until after it ends.
+                -   tags: [video, during]
+                    text: Do not place your subject in the center of the frame, use the rule of thirds.
+                -   tags: [video, photo, journalism, during]
+                    text: '"If your picture''s not good enough, you''re not close enough." -Robert Capa'
+                -   tags: [video, during]
+                    text: Keep recording for at least 15 seconds, if the clip is too long, trim it.
+                -   tags: [video, photo, during]
+                    text: Always update your White Balance setting when you move to a different lighting situation.
+                -   tags: [video, before]
+                    text: To shoot a sequence you need to break down the elements of your story into individual shots.
+                -   tags: [video, photo essay, during]
+                    text: Shoot different size shots to create an effective sequence.
+                -   tags: [audio, video, during]
+                    text: Hit record before you ask a question to record a few seconds of silence before speaking.
+                -   tags: [audio, video, during]
+                    text: Check your audio level using headphones before you start recording.
+                -   tags: [audio, during]
+                    text: Use multiple sources of audio to tell your story.
+                    text: Use your own voice as little as possible, tell the story through the voices of others.
+                -   tags: [journalism, story, before]
+                    text: Think about the audience you want to reach when considering what Topic and Format to use.
+                -   tags: [photo, video, before]
+                    text: Even if time is limited, make a plan, do not shoot everything you see.
+                -   tags: [video, audio, journalism, before]
+                    text: When recording an interview, prepare at least 15 questions.
+                -   tags: [journalism, story, before]
+                    text: Focus on a single primary topic to tell a concise and clear story.
+                -   tags: [video, audio, journalism, during]
+                    text: Record first hand observations and interviews whenever possible.
+                -   tags: [video, audio, journalism, during]
+                    text: Be clear about your topic or goal when requesting an interview.
+                -   tags: [video, audio, journalism, during]
+                    text: Be calm. Relaxing will help your interview subject relax too.
+                -   tags: [video, audio, journalism, during]
+                    text: Always know what you want from the interview.
+                -   tags: [video, audio, journalism, during]
+                    text: Ask only one question at a time.
+                -   tags: [video, audio, journalism, during]
+                    text: Ask hard questions, but remember to be polite. A polite request will go a long way.
+                -   tags: [video, audio, journalism, before]
+                    text: Courtesy can help establish trust and improve your interviews.
+                -   tags: [video, audio, during]
+                    text: Listen for background noise that may harm the quality of your story before you click record.
+                -   tags: [video, photo, during]
+                    text: Make sure your subject is in focus and not distorted by something in the frame.
+                -   tags: [video, during]
+                    text: Decide the best place to record from and hold your frame in place until complete.
+                -   tags: [video, during]
+                    text: Don't hold your breath, set your shot, and breathe. When your shot is steady, begin recording
+                -   tags: [video, during]
+                    text: Don't pan. If you want a new angle, stop recording. Change your frame, and record a new shot.
+                -   tags: [video, during]
+                    text: In a crowd, shoot away from the crowd for better audio, ask your subject to face you.
+                -   tags: [video, during]
+                    text: If it is windy, point your camera away from the wind, or block if with your body or a wall.
+                -   tags: [video, audio, journalism, during]
+                    text: Don't ask 'closed' questions that can be answered in one word such as 'yes' or 'no'.
+                -   tags: [video, audio, journalism, during]
+                    text: 'Keep the conversation moving. Ask: Why? What happened next? What do you mean?'
+                -   tags: [video, audio, journalism, during]
+                    text: If your questions do not provide a satisfactory answer, change your approach.
+                -   tags: [video, audio, journalism, during]
+                    text: Use follow-up questions if you need more information.
+                -   tags: [video, photo essay, during]
+                    text: Remember, without good sound your images only tell half the story.
+                -   tags: [video, audio, during]
+                    text: If it is windy, point your camera away from the wind, or protect your mic.
+                -   tags: [video, during]
+                    text: Crowds and busy streets make a lot of noise. Do not shoot interviews in front of crowds or busy streets.
+                -   tags: [video, audio, during]
+                    text: Machines make a lot of noise, turn them off if possible, or change your location if you can.
+                -   tags: [video, during]
+                    text: Record your subject with the light source directly on the subject.
+                -   tags: [video, during]
+                    text: If the light source is directly behind your subject, the subject will be dark and difficult to see.
+                -   tags: [video, photo, during]
+                    text: If you can feel the light source on the back of your neck on a sunny day, you will have the best lighting in that situation.
+                -   tags: [video, photo, during]
+                    text: Low light can produce poor shots. Shooting outside or in a sunny room can give you great light.
+                -   tags: [video, photo, interview, during]
+                    text: Lights approximately 3 feet away from your character are the most flattering.
+                -   tags: [video, during]
+                    text: Sound is half of the information in a video, consider it for every shot.
+                -   tags: [journalism, general, video, after]
+                    text: Every story has a major question. What's the question you've answered at the end of your item?
+                -   tags: [journalism, general, audio, during]
+                    text: 'A climax is the answer on the question that keeps your listener listening. Don''t give it away too early. '
+                -   tags: [journalism, general, video, during]
+                    text: A climax is the answer on the question that holds the attention of the viewer. Don't give it away too early.
+                -   tags: [journalism, general, during]
+                    text: 'Ask yourself for every clip: does it tell me something new? '
+                -   tags: [journalism, general, during]
+                    text: 'Ask yourself for every clip: does it tell me something new about my major question?'
+                    text: A good series should be made up of five strong images. If you have more good shots, add them in though.
+                -   tags: [narration]
+                    text: Tell us some interesting facts about the history of the issue or why it started.
+                -   tags: [narration]
+                    text: Tell us how the issue is changing in response to the actions of characters in the story.
+                -   tags: [narration]
+                    text: Tell us what is expected for the issue in the future.
+                -   tags: [narration]
+                    text: Tell us some interesting facts about the history of the event or why it happens.
+                -   tags: [narration]
+                    text: Tell us how the event changes as it progresses.
+                -   tags: [narration]
+                    text: Tell us what is expected for the event the next time it happens.
+
+        -
+            id: quiz_card_topic
+            type: QuizCard
+            question: Choose the story you want to make.
+            correctRequired: 1
+            choices:
+                -
+                    id: videotemplate_highlights
+                    text: A Highlights Story
+                -
+                    id: videotemplate_discussion_question1
+                    text: Discussion about an Individual
+                -
+                    id: videotemplate_discussion_question2
+                    text: Discussion about a Social Issue
+                -
+                    id: videotemplate_discussion_question3
+                    text: Discussion about an Event
+                -
+                    id: videotemplate_report_event
+                    text: An Event Story
+                -
+                    id: videotemplate_report_issue
+                    text: An Issue Story
+                -
+                    id: videotemplate_dayinthelife
+                    text: A Day in the Life Story
+
+        -
+            type: MilestoneCard
+            id: ms_moreinfo
+            header: Next
+            text: More Info
+            icon: down
+
+        -
+            type: TextCard
+            text: 'Making a great video story involves a variety of clips. These templates will guide you to get all the clips you need to tell a variety of stories.'
+            references:
+              - video_stories::ms_moreinfo::value::true
+
+        -
+            type: HookLoaderHeadlessCard
+            id: hook_loader_card
+            action: LOAD
+            references:
+                - video_stories::quiz_card_topic::choice

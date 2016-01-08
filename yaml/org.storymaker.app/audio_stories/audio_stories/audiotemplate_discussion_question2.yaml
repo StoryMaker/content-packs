@@ -1,0 +1,115 @@
+---
+    id: audiotemplate_discussion_question2
+    title: What should be done?
+    cards:
+
+        -
+            type: MilestoneCard
+            id: ms_moreinfo
+            header: Next
+            text: About this Template
+            icon: down
+
+        -
+            type: TextCard
+            text: 'Discussions are framed around asking many people the same question. This template investigates what can be done about a specific issue. Discussions work well for investigating issues with a strong cultural or social significance. Feel free to use alternate questions if you think they may work better for you.'
+            references:
+              - audiotemplate_discussion_question2::ms_moreinfo::value::true
+
+        -
+            type: TipCard
+            tags:
+                - audio
+                - before
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - Record something that introduces the issue.
+                - Record a clear sound that represents the issue.
+            clipType: Signature
+            length: 0:12
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - Record sound of where the issue happens.
+            clipType: Place
+            length: 0:09
+
+        -
+            type: TextCard
+            text: 'You may want to substitute the name of the issue you are focused on where you see \“the issue.\”'
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - What do you think should be done about the issue?
+            clipType: Character
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - What do you think should be done about the issue?
+            clipType: Character
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - What do you think should be done about the issue?
+            clipType: Character
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - What do you think should be done about the issue?
+            clipType: Character
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - What do you think should be done about the issue?
+            clipType: Character
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: audio
+            goals:
+                - Record sound from the place you asked your questions.
+            clipType: Place
+            length: 0:09
+
+        -
+            type: TipCard
+            tags:
+              - edit
+              - audio
+              - after
+
+        -
+            type: ReviewCard
+            medium: audio
+
+        -
+            type: EvaluationCard
+            text: Does your story offer good ideas about how to handle the issue?
+
+        -
+            type: PublishCard
+            medium: audio
+
+        -
+            type: NextUpCard
+            medium: audio

@@ -102,8 +102,9 @@ for f in os.listdir(parent_dir):
     json_dir = os.getcwd() + "/assets/org.storymaker.app/lessons/%s" % f
     translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/lessons/%s" % f
     gen_translations()
-"""
+#"""
     
+"""
 print "generating content for beta pack"
 cardcounts = {}
 parent_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/beta/"
@@ -111,6 +112,17 @@ for f in os.listdir(parent_dir):
     json_dir = os.getcwd() + "/assets/org.storymaker.app/beta/%s" % f
     translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/beta/%s" % f
     gen_translations()
+#"""
+    
+"""
+print "generating content for mobile_photo_101 pack"
+cardcounts = {}
+parent_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/mobile_photo_101/"
+for f in os.listdir(parent_dir):
+    json_dir = os.getcwd() + "/assets/org.storymaker.app/mobile_photo_101/%s" % f
+    translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/mobile_photo_101/%s" % f
+    gen_translations()
+#"""
 
 """
 # FIXME make sure there's no translations present or we are going to double translate them, maybe go into a loop
@@ -129,4 +141,24 @@ gen_translations()
 json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_3"
 translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/learning_guide/learning_guide_3"
 gen_translations()
+#"""
+
 """
+print "generating content for lessons"
+cardcounts = {}
+parent_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/lessons/"
+for f in os.listdir(parent_dir):
+    json_dir = os.getcwd() + "/assets/org.storymaker.app/lessons/%s" % f
+    translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/lessons/%s" % f
+    gen_translations()
+#"""
+
+#"""
+print "generating content for journalism_part_1"
+cardcounts = {}
+parent_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/journalism_part_1/"
+for f in os.listdir(parent_dir):
+    json_dir = os.getcwd() + "/assets/org.storymaker.app/journalism_part_1/%s" % f
+    translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/journalism_part_1/%s" % f
+    gen_translations()
+#"""

@@ -1,0 +1,73 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "control_light", 
+            "dependencyFile": "../6_control_light/control_light.json"
+        }, 
+        {
+            "dependencyId": "control_light_activity", 
+            "dependencyFile": "control_light_activity.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Control Light Activity", 
+    "cards": [
+        {
+            "tips": [
+                {
+                    "text": "Tip: Backlight will make your subject dark and difficult to see.", 
+                    "tags": [
+                        "light"
+                    ]
+                }, 
+                {
+                    "text": "Tip: Low light can produce poor shots. Shooting outside or in a sunny room can give you great light.", 
+                    "tags": [
+                        "light"
+                    ]
+                }, 
+                {
+                    "text": "Tip: Lights approximately 3 feet away from your character are the most flattering.", 
+                    "tags": [
+                        "light"
+                    ]
+                }, 
+                {
+                    "text": "Tip: Good photography is all about light. Use available light as best you can.", 
+                    "tags": [
+                        "light"
+                    ]
+                }, 
+                {
+                    "text": "Tip: If your subject is too dark consider moving to a location with more light.", 
+                    "tags": [
+                        "light"
+                    ]
+                }, 
+                {
+                    "text": "Tip: Be careful of bright lights behind your subjects.", 
+                    "tags": [
+                        "light"
+                    ]
+                }
+            ], 
+            "type": "TipCollectionHeadlessCard", 
+            "id": "tip_collection"
+        }, 
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "control_light_activity"
+        }
+    ], 
+    "currentStoryPathFile": "control_light_activity.json", 
+    "storyPathTemplateFiles": {
+        "control_light_activity": "control_light_activity.json"
+    }, 
+    "id": "control_light_activity"
+}

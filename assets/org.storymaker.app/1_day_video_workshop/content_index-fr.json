@@ -1,0 +1,32 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/1_day_video_workshop/0.0_exercise_0/exercise_0_library.json", 
+    "thumbnailPath": "org.storymaker.app/1_day_video_workshop/cover.png", 
+    "language": "fr", 
+    "title": "What do you hope to learn?"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/1_day_video_workshop/0.1_exercise_1/exercise_1_library.json", 
+    "thumbnailPath": "org.storymaker.app/1_day_video_workshop/cover.png", 
+    "language": "fr", 
+    "title": "Interview your partner."
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/1_day_video_workshop/0.2_exercise_2/exercise_2_library.json", 
+    "thumbnailPath": "org.storymaker.app/1_day_video_workshop/cover.png", 
+    "language": "fr", 
+    "title": "Shoot a Process Story."
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/1_day_video_workshop/0.3_exercise_3/exercise_3_library.json", 
+    "thumbnailPath": "org.storymaker.app/1_day_video_workshop/cover.png", 
+    "language": "fr", 
+    "title": "Create a Story with Narration."
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/1_day_video_workshop/0.4_exercise_4/exercise_4_library.json", 
+    "thumbnailPath": "org.storymaker.app/1_day_video_workshop/cover.png", 
+    "language": "fr", 
+    "title": "What\u2019s the most important thing you learned?"
+  }
+]

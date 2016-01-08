@@ -1,0 +1,74 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/0_toc/toc_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "fa", 
+    "title": "Know Your Mobile"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/1_know_your_mobile/know_your_mobile_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "fa", 
+    "title": "Know Your Mobile"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/2_compose_with_a_grid/compose_with_a_grid_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "fa", 
+    "title": "Compose with a Grid"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/2_compose_with_a_grid_activity/compose_with_a_grid_activity_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "fa", 
+    "title": "Compose with a Grid Activity"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/3_create_layers/create_layers_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "fa", 
+    "title": "Create Layers"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/3_create_layers_activity/create_layers_activity_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "fa", 
+    "title": "Create Layers Activity"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/4_capture_peak_action/capture_peak_action_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "fa", 
+    "title": "Capture Peak Action"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/4_capture_peak_action_activity/capture_peak_action_activity_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "fa", 
+    "title": "Capture Peak Action Activity"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/5_shoot_on_an_angle/shoot_on_an_angle_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "fa", 
+    "title": "Shoot on an Angle"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/5_shoot_on_an_angle_activity/shoot_on_an_angle_activity_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "fa", 
+    "title": "Shoot on an Angle Activity"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/6_control_light/control_light_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "fa", 
+    "title": "Control Light"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/6_control_light_activity/control_light_activity_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "fa", 
+    "title": "Control Light Activity"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-persian/1_introduction_to_journalism/introduction_to_journalism_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-persian/cover.png", 
+    "language": "rw", 
+    "title": "Intangamarara muvyo kumenyeshamakuru"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-persian/2_social_media_basics/social_media_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-persian/cover.png", 
+    "language": "rw", 
+    "title": "Urufatiro kuvyerekeye urubuga rw'ukulenyesha amakuru"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-persian/3_reporting_basics/reporting_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-persian/cover.png", 
+    "language": "rw", 
+    "title": "Ibintu vyurufatiro mugutanga inkuru"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-persian/4_selecting_and_verifying_sources/selecting_and_verifying_sources_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-persian/cover.png", 
+    "language": "rw", 
+    "title": "Gutora no Gutohoza Aho Ukura Inkuru"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-persian/5_interview_techniques/interview_techniques_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-persian/cover.png", 
+    "language": "rw", 
+    "title": "Ubuhinga bwo gukora Interview"
+  }
+]

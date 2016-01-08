@@ -1,0 +1,20 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/citizen_journalism_pack/1_meet_a_musician/meet_a_musician_library.json", 
+    "thumbnailPath": "org.storymaker.app/citizen_journalism_pack/cover.jpg", 
+    "language": "rw", 
+    "title": "Meet a Musician!"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/citizen_journalism_pack/2_traffic_accident/traffic_accident_library.json", 
+    "thumbnailPath": "org.storymaker.app/citizen_journalism_pack/cover.jpg", 
+    "language": "rw", 
+    "title": "See a Traffic Accident?"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/citizen_journalism_pack/3_my_job/my_job_library.json", 
+    "thumbnailPath": "org.storymaker.app/citizen_journalism_pack/cover.jpg", 
+    "language": "rw", 
+    "title": "What's your Job?"
+  }
+]

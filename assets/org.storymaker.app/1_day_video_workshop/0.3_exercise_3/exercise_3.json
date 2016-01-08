@@ -1,0 +1,115 @@
+{
+    "cards": [
+        {
+            "level": "Production", 
+            "headline": "Create a Story with Narration", 
+            "time": "? Minutes", 
+            "exampleMediaPath": "cover.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Using one of each of the five clips provided, shoot a story and add a narration.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "text": "Your goal is to use all five shot types and narration to tell a story with a beginning, middle and end.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "Build your story around a character, use the other clips to illustrate the character's story.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Place clips are good for establishing where your story happens."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "Trim any clip by tapping the clip image.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Character clips are good for framing interviews with those affected."
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Action clips show the primary action that carries the story. Record the whole action."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Result clips show the result of your character's journey or primary action."
+            ], 
+            "clipType": "result", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Signature clips show a very specific detail, can be the result or primary action. Get close!"
+            ], 
+            "clipType": "signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "text": "If you recorded additional clips in any of your cards, be sure to delete the extras so each card only has one clip, for a total of five.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
+            "text": "On the next card, you will be able to review your clips, when you are happy with them, press publish.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }, 
+        {
+            "text": "Don't forget your narration.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6"
+        }, 
+        {
+            "text": "Write your narration first. Keep it simple, be specific, and write to your pictures.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "When you finish uploading, return to class.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "exercise_3", 
+    "title": "Create a Story with Narration."
+}
