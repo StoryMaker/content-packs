@@ -1,16 +1,15 @@
- ---
+---
     id: t_photo_series_character
     title: Series - Portraits
     cards:
-
-		    -
+        -
             type: MilestoneCard
             id: ms_moreinfo
             header: Next
             text: About this Template
             icon: down
 
-		    -
+        -
             type: TextCard
             text: 'This is a portrait series template. A series is a set of similar images designed to illustrate a comparative point. Images in a series should be stylistically similar to further illustrate the comparison.'
             references:

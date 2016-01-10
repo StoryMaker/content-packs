@@ -213,7 +213,7 @@
                         - t_news_library::quiz_card_topic::choice::t_news_issue
                         - t_news_library::quiz_card_topic::choice::t_news_profile
 
-		    -
+        -
             type: MilestoneCard
             id: ms_moreinfo
             header: Next

@@ -92,7 +92,7 @@
                     id: t_photo_series_signature
                     text: Objects
 
-		    -
+        -
             type: MilestoneCard
             id: ms_moreinfo
             header: Next

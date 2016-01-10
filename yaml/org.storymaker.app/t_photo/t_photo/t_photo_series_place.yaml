@@ -3,7 +3,7 @@
     title: Series - Place
     cards:
 
-		    -
+        -
             type: MilestoneCard
             id: ms_moreinfo
             header: Next
@@ -16,7 +16,7 @@
             references:
                 - t_photo_series_place::ms_moreinfo::value::true
 
-		    -
+        -
             type: TextCard
             text: Find a pattern the audience can identify with.
 

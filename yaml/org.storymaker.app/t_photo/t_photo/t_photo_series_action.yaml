@@ -3,14 +3,14 @@
     title: Series - Action
     cards:
 
-		    -
+        -
             type: MilestoneCard
             id: ms_moreinfo
             header: Next
             text: About this Template
             icon: down
 
-		    -
+        -
             type: TextCard
             text: 'This is an action series template. A series is a set of similar images designed to illustrate a comparative point. Images in a series should be stylistically similar to further illustrate the comparison.'
             references:
@@ -25,7 +25,7 @@
             type: ClipCard
             medium: photo
             goals:
-			          - Photograph an action important to your story. Frame the entire action.
+                - Photograph an action important to your story. Frame the entire action.
             clipType: Action
             length: 0:00
 

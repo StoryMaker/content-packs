@@ -3,14 +3,14 @@
     title: Process
     cards:
 
-		    -
+        -
             type: MilestoneCard
             id: ms_moreinfo
             header: Next
             text: About this Template
             icon: down
 
- 		    -
+        -
             type: TextCard
             text: 'Process stories depict how something is done or how an event unfolds. Process stories typically use chronology as their organizing principle. The story shows something from start to finish, usually showcasing the most dramatic moments and discarding the less interesting elements of the story. Interview or narration will be used as voice over sequences that illustrate the process, though this is not a requirement. This format is good for event coverage and profiles.'
             references:

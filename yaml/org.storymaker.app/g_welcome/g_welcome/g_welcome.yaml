@@ -5,7 +5,7 @@
 # Begin
         -
             type: HowToCard
-            text: 'Begin by pressing the "I'm Ready" button below.'
+            text: 'Begin by pressing the "I''m Ready" button below.'
 
         -
             type: TextCard
@@ -45,7 +45,7 @@
 
         -
             type: TextCard
-            text: 'Now that we know where to access everything we'll go through the list one at a time, beginning with the StoryMaker Community.'
+            text: 'Now that we know where to access everything we''ll go through the list one at a time, beginning with the StoryMaker Community.'
             references:
                 - welcome::ms_begin::value::true
 
