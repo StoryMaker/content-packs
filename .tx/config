@@ -1460,25 +1460,25 @@ source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.t_citizen_journalist_3_my_job]
-file_filter = intermediates/translated_strings/org.storymaker.app/t_citizen_journalist/2_traffic_accident/t_citizen_journalist_3_my_job-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/t_citizen_journalist/2_traffic_accident/t_citizen_journalist_3_my_job.json
+file_filter = intermediates/translated_strings/org.storymaker.app/t_citizen_journalist/3_my_job/t_citizen_journalist_3_my_job-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_citizen_journalist/3_my_job/t_citizen_journalist_3_my_job.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.t_citizen_journalist_3_my_job_library]
-file_filter = intermediates/translated_strings/org.storymaker.app/t_citizen_journalist/2_traffic_accident/t_citizen_journalist_3_my_job_library-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/t_citizen_journalist/2_traffic_accident/t_citizen_journalist_3_my_job_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/t_citizen_journalist/3_my_job/t_citizen_journalist_3_my_job_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_citizen_journalist/3_my_job/t_citizen_journalist_3_my_job_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.g_welcome]
-file_filter = intermediates/translated_strings/org.storymaker.app/g_welcome/g_welcome-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/g_welcome/g_welcome.json
+file_filter = intermediates/translated_strings/org.storymaker.app/g_welcome/g_welcome/g_welcome-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/g_welcome/g_welcome/g_welcome.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.g_welcome_library]
-file_filter = intermediates/translated_strings/org.storymaker.app/g_welcome/g_welcome_library-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/g_welcome/g_welcome_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/g_welcome/g_welcome/g_welcome_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/g_welcome/g_welcome/g_welcome_library.json
 source_lang = en
 type = KEYVALUEJSON
