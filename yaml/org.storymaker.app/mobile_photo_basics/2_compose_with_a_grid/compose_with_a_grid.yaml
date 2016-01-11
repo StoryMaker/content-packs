@@ -73,7 +73,7 @@
 
         -
             type: TextCard
-            text: 'The grid is intended to do more than do more than center your photos. Let’s look at how the lines of the grid help us compose better photos.'
+            text: 'The grid is intended to do more than center your photos. Let’s look at how the lines of the grid help us compose better photos.'
             references:
                 - compose_with_a_grid::milestone_start::value::true
 
