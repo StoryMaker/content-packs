@@ -1,0 +1,46 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Introducci\u00f3n al periodismo", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "La demanda de periodismo de calidad nunca ha sido m\u00e1s grande. La gente necesita acceso a informaci\u00f3n que sea precisa, \u00e1gil, y relevante para sus vidas. Desde desastres naturales a agitaci\u00f3n civil, pasando por historias sobre arte y cultura, los ciudadanos individuales puede usar las herramientas m\u00f3viles para producir y subir material en tiempo real que las audiencias quieren ver. El reto para los periodistas ciudadanos y las organizaciones de producci\u00f3n de noticias establecidas o asemejadas, es trabajar en conjunto para recopilar y distribuir historias que tengan un impacto en la vida de otras personas.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "\u00bfC\u00f3mo pueden recoger y trabajar la informaci\u00f3n los periodistas ciudadanos para que empresas de distribuci\u00f3n de noticias las puedan usar? Y a la inversa, \u00bfc\u00f3mo pueden apoyar mejor las empresas establecidas de producci\u00f3n de noticias a los periodistas ciudadanos dedicados para aprovechar lo que ellos tienen que ofrecer?", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Los periodistas ciudadanos dependen casi exclusivamente de dispositivos m\u00f3viles, contactos de Internet, y redes sociales como Twitter, Facebook y YouTube, para publicar informaci\u00f3n. Estas herramientas, comparativamente baratas, pueden producir y distribuir video de alta definici\u00f3n (HD), im\u00e1genes de alta resoluci\u00f3n y audio de alta calidad. Hace unos pocos a\u00f1os, el equipo necesario para producir este contenido costaba decenas de miles de d\u00f3lares. ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "El periodismo de hoy es diferente del periodismo de hace unos pocos a\u00f1os de otras formas fundamentales. Tradicionalmente, los periodistas prove\u00edan informaci\u00f3n, y la audiencia la consum\u00eda. El periodismo de hoy es mucho m\u00e1s interactivo. Ahora la audiencia puede presionar sobre la elecci\u00f3n de acontecimientos a los que se da cobertura y contribuir proporcionando informaci\u00f3n. Muchas organizaciones de producci\u00f3n de noticias se est\u00e1n reestructurando para abrazar este nuevo periodismo de \"prioridad para la comunicaci\u00f3n social\".", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Estos cambios han producido un tipo de periodismo m\u00e1s democr\u00e1tico: Los productores de noticias y sus audiencias est\u00e1n m\u00e1s \u00edntimamente relacionados. El periodista ciudadano es un jugador clave en las noticias con enfoque de prioridad para la comunicaci\u00f3n social. StoryMaker le mostrar\u00e1 c\u00f3mo apoyarse en sus herramientas y habilidades \u00fanicas para alcanzar a la mayor audiencia posible con informaci\u00f3n sobre asuntos importantes.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "introduction_to_journalism", 
+    "title": "Introducci\u00f3n al periodismo"
+}

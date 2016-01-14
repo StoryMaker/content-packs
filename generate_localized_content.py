@@ -62,7 +62,7 @@ def parse_file(original_json_file_path, translated_strings_file_path, out_file_p
                         key = key_splits[0]
                         array_index = int(key_splits[1].split(']')[0]) # FIXME skip this step by initially splitting on [ | ] in a regex
                         real_prop_key = splits[3]
-                        print "at %s, replacing '%s' with '%s'" % (k, card[key][array_index][real_prop_key], v)
+                        print u"at {0}, replacing '{1}' with '{2}'".format(k, card[key][array_index][real_prop_key], v)
                         card[key][array_index][real_prop_key] = v
                         # index into an array (or dict?)
                 else:
@@ -78,7 +78,7 @@ def parse_file(original_json_file_path, translated_strings_file_path, out_file_p
     out_file.close()
 
 
-def gen_translations():
+def gen_translations(json_dir, translations_dir):
     for translated_strings_file_name in os.listdir(translations_dir):
         file_name, file_extension = os.path.splitext(translated_strings_file_name)
         print "translations_dir: " + translations_dir
@@ -96,69 +96,74 @@ def gen_translations():
 
 """
 print "generating content for lessons"
-cardcounts = {}
 parent_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/lessons/"
 for f in os.listdir(parent_dir):
     json_dir = os.getcwd() + "/assets/org.storymaker.app/lessons/%s" % f
     translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/lessons/%s" % f
-    gen_translations()
+    gen_translations(json_dir, translations_dir)
 #"""
     
 """
 print "generating content for beta pack"
-cardcounts = {}
 parent_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/beta/"
 for f in os.listdir(parent_dir):
     json_dir = os.getcwd() + "/assets/org.storymaker.app/beta/%s" % f
     translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/beta/%s" % f
-    gen_translations()
+    gen_translations(json_dir, translations_dir)
 #"""
     
 """
-print "generating content for mobile_photo_101 pack"
-cardcounts = {}
+print "generating content for mobile_photo_basics pack"
 parent_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/mobile_photo_101/"
 for f in os.listdir(parent_dir):
     json_dir = os.getcwd() + "/assets/org.storymaker.app/mobile_photo_101/%s" % f
     translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/mobile_photo_101/%s" % f
-    gen_translations()
+    gen_translations(json_dir, translations_dir)
 #"""
 
 """
 # FIXME make sure there's no translations present or we are going to double translate them, maybe go into a loop
 json_dir = os.getcwd() + "/assets/org.storymaker.app/default"
 translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/default"
-gen_translations()
+gen_translations(json_dir, translations_dir)
 
 json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_1"
 translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/learning_guide/learning_guide_1"
-gen_translations()
+gen_translations(json_dir, translations_dir)
 
 json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_2"
 translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/learning_guide/learning_guide_2"
-gen_translations()
+gen_translations(json_dir, translations_dir)
 
 json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_3"
 translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/learning_guide/learning_guide_3"
-gen_translations()
+gen_translations(json_dir, translations_dir)
 #"""
 
 """
 print "generating content for lessons"
-cardcounts = {}
 parent_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/lessons/"
 for f in os.listdir(parent_dir):
     json_dir = os.getcwd() + "/assets/org.storymaker.app/lessons/%s" % f
     translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/lessons/%s" % f
-    gen_translations()
+    gen_translations(json_dir, translations_dir)
 #"""
 
-#"""
+"""
 print "generating content for journalism_part_1"
-cardcounts = {}
 parent_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/journalism_part_1/"
 for f in os.listdir(parent_dir):
     json_dir = os.getcwd() + "/assets/org.storymaker.app/journalism_part_1/%s" % f
     translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/journalism_part_1/%s" % f
-    gen_translations()
+    gen_translations(json_dir, translations_dir)
 #"""
+
+def generate_translated_assets(name):
+    print "generating content for {0} pack".format(name)
+    parent_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/{0}/".format(name)
+    for f in os.listdir(parent_dir):
+        json_dir = os.getcwd() + "/assets/org.storymaker.app/{0}/{1}".format(name, f)
+        translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/{0}/{1}".format(name, f)
+        gen_translations(json_dir, translations_dir)
+
+generate_translated_assets("mobile_photo_basics")

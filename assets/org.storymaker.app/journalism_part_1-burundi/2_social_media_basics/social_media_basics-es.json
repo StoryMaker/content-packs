@@ -1,0 +1,134 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "\u00bfDe qu\u00e9 mejor forma puedo sacar provecho a redes y herramientas de comunicaci\u00f3n social para alcanzar la audiencia m\u00e1s amplia posible con informaci\u00f3n de asuntos importantes?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "![Medios sociales en el mapa](2.png)  \n\n## En esta lecci\u00f3n aprender\u00e1:  \n&bull; Qu\u00e9 buscan los editores en las historias publicadas en medios sociales\n&bull; C\u00f3mo usar los medios sociales como herramienta comunicaci\u00f3n \n&bull; C\u00f3mo decidir qu\u00e9 medio debe usar para su historia\n&bull; Qu\u00e9 pasos puede dar para ayudar a que su historia se d\u00e9 a conocer", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Las plataformas sociales pueden alcanzar una audiencia internacional sin precedentes. Durante los \u00faltimos a\u00f1os, en Oriente Medio y muchos otros lugares, aparecieron muchas historias relevantes en Twitter, Facebook y YouTube antes de llegar a los distribuidores televisivos de noticias como BBC, CNN, o Al Jazeera. La combinaci\u00f3n de una historia viral en l\u00ednea y la cobertura televisiva pueden transformar r\u00e1pidamente un asunto en noticia principal y forzar una respuesta de los gobiernos u otras instituciones de poder.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Medios sociales en el mapa](3.png)  \nLas organizaciones m\u00e1s importantes de producci\u00f3n de noticias rastrean la cobertura en medios sociales. Est\u00e1n buscando historias convincentes que sean verificables y est\u00e9n bien presentadas. Los periodistas ciudadanos que comprenden lo que dichas organizaciones buscan \u2014 y cuales son sus preocupaciones \u2014 pueden construir relaciones duraderas y tener una oportunidad sin parang\u00f3n de lograr que sus historias sean vistas por aquellos que influencian la pol\u00edtica tanto nacional como internacionalmente.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Para la mayor\u00eda de las organizaciones de producci\u00f3n de noticias, la credibilidad y los elevados est\u00e1ndares para la presentaci\u00f3n de informaci\u00f3n son consideraciones clave en la decisi\u00f3n de usar material producido por periodistas ciudadanos. Debajo tiene algunos consejos b\u00e1sicos para afrontar esto. Discutiremos esto y muchas otras cosas en mayor detalle en los siguientes apartados de esta secci\u00f3n y en las dem\u00e1s secciones:", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## Consejos:  \n&bull; Empiece a construirse una trayectoria como periodista en l\u00ednea mediante un perfil en alguna red social. NOTA: La seguridad puede ser un problema. Recuerde: Un pseud\u00f3nimo no es lo mismo que el anonimato. (Vea la secci\u00f3n de seguridad para profundizar en esto)    \n&bull; Inf\u00f3rmese sobre los temas que cubre. Convi\u00e9rtase en un experto. Esto le ayudar\u00e1 a crear mejores contenidos y mantenerse por delante del pelot\u00f3n.  \n&bull; Sea tan neutral como sea posible en el tono de su cobertura, no importa cuan dram\u00e1tico sea el evento o lo apasionado que le haga sentir.  \n&bull; En discusiones con editores, sea transparente sobre sus t\u00e9cnicas de cobertura y sobre cualquier posible conflicto de intereses que puedaa tener.  \n&bull; Atribuya los datos de su informaci\u00f3n a fuentes espec\u00edficas, y cuando sea posible proporcione las se\u00f1as de contacto con sus fuentes, as\u00ed el relato podr\u00e1 ser verificado. (M\u00e1s sobre esto en el apartado de informes de esta secci\u00f3n.)  \n&bull; El uso de texto t\u00e9cnico en forma de subt\u00edtulos, palabras clave, etiquetas, titulares, e historias de apoyo, es esencial incluso para v\u00eddeos, fotos e historias en audio. Los motores de b\u00fasqueda y los editores que los usen no ser\u00e1n capaces de encontrar su historia sin buenos t\u00e9rminos de b\u00fasqueda asociados a la misma. M\u00e1s a\u00fan, una vez los editores encuentren su historia, ese texto les ayudar\u00e1 a comprender y verificar su informe. (M\u00e1s sobre esto en la siguiente secci\u00f3n).  \n&bull; No importa la herramienta, la presentaci\u00f3n debe ser t\u00e9cnicamente profesional. V\u00eddeos movidos o desenfocados con muchos zooms y panor\u00e1micas es un ejemplo de contenido que no es t\u00e9cnicamente profesional. (M\u00e1s sobre esto en la secci\u00f3n de v\u00eddeo).  \n&bull; Trate de comprender qu\u00e9 tipo de historia est\u00e1 elaborando y c\u00f3mo encaja en una cobertura m\u00e1s amplia del asunto. Diferentes tipos de historias se estructuran de maneras \u00fanicas. Por ejemplo, una noticia urgente sobre un bombardeo tomar\u00e1 una forma diferente \u2014 requiere un estilo distinto de presentaci\u00f3n e incluso un tipo de informaci\u00f3n diferente \u2014 que un art\u00edculo sobre el perfil de un luchador rebelde herido y sus sensaciones sobre las elecciones cercanas. Adem\u00e1s, las grandes organizaciones de producci\u00f3n de noticias a menudo combinan varias historias de diferentes tipos para crear un \"empaquetado\". Intente comprender c\u00f3mo encajar\u00e1 su historia en esta cobertura m\u00e1s amplia. (M\u00e1s sobre esto en la secci\u00f3n sobre tipos de historia.)  \n&bull; No exponga lo que no conoce o no puede verificar. Una historia m\u00e1s limitada pero completamente precisa es m\u00e1s valiosa que una de largo alcance basada en conjeturas.  \n&bull; Es importante entrar a formar parte de grupos, juntas y otras discusiones relacionadas con los asuntos o regiones de su cobertura.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![Ejemplo de canal en Twitter](4.jpg)  \nEn un entorno de noticias de prioridad para la comunicaci\u00f3n social, su cobertura puede comenzar con poco m\u00e1s que un SMS o una foto de una noticia urgente. A medida que conozca m\u00e1s, m\u00e1s ahondar\u00e1 su cobertura, y puede que cambie el medio que use; tiene que elegir siempre la mejor herramienta para contar su historia. Para algunas historias o audiencias ser\u00e1 mejor el v\u00eddeo, para otras, el audio, etc.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "No importa el medio, herramienta o audiencia, la cobertura social de una historia siempre est\u00e1 evolucionando. A esto se le llama el ciclo de noticias. Es importante estar al tanto de c\u00f3mo otros periodistas y organizaciones de producci\u00f3n de noticias est\u00e1n usando los medios sociales para cubrir el asunto a trav\u00e9s del ciclo. Si est\u00e1 trabajando como parte de un proyecto de grupo o con una organizaci\u00f3n de producci\u00f3n de noticias m\u00e1s grande, es importante comprender c\u00f3mo encaja su cobertura en la estrategia conjunta de noticias.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Las herramientas y plataformas sociales funcionan muy bien para las noticias urgentes. Aprov\u00e9chese de eso.  \n&bull; Su credibilidad como periodista ciudadano en entornos de prioridad para la comunicaci\u00f3n social es esencial para las organizaciones de producci\u00f3n de noticias.  \n&bull; Su cobertura debe evolucionar seg\u00fan lo hace la historia.  \n&bull; Entienda c\u00f3mo contribuye mejor su cobertura de un asunto a la cobertura en conjunto que hace la organizaci\u00f3n para la que est\u00e1 trabajando.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfCu\u00e1l de las siguientes es importante que realice un periodista ciudadano? (puede haber m\u00e1s de una respuesta correcta).", 
+            "choices": [
+                {
+                    "text": "Construya una presencia en l\u00ednea para si mismo mediante sitios sociales.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "No importa qu\u00e9 herramientas use, su trabajo siempre debe tener un aspecto t\u00e9cnicamente profesional.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Sus proyectos deben estar basados en cosas que sean de inter\u00e9s s\u00f3lo para usted, y su presentaci\u00f3n debe basarse en su propia opini\u00f3n e informaci\u00f3n de segunda mano (sin m\u00e1s intermediarios).", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todo lo anterior.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Verdadero o falso: Dos elementos clave que definen el mejor periodismo ciudadano son que a menudo toma la forma de di\u00e1logo con la audiencia, y el periodista es transparente acerca de los m\u00e9todos de comunicaci\u00f3n, fuentes e influencias.", 
+            "choices": [
+                {
+                    "text": "Verdadero", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falso", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfDe qu\u00e9 trata su historia?", 
+            "choices": [
+                {
+                    "text": "Ninguna o poca investigaci\u00f3n anterior al evento.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Acceda a las figuras o localizaciones clave en la historia.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "La incapacidad de alcanzar una audiencia a trav\u00e9s de grandes distribuidores de noticias nacionales e internacionales.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todo lo anterior.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "social_media_basics", 
+    "title": "Nociones b\u00e1sicas de medios sociales"
+}
