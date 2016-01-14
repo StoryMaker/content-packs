@@ -1,0 +1,396 @@
+{
+    "cards": [
+        {
+            "tips": [
+                {
+                    "text": "Know yourself, be aware of your biases don't let them influence how you portray your story.", 
+                    "tags": [
+                        "ethics", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "When shooting in dangerous situations always have an exit strategy.", 
+                    "tags": [
+                        "security", 
+                        "photo", 
+                        "video", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Do some research before the interview when possible. You will ask better, more relevant questions.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio"
+                    ]
+                }, 
+                {
+                    "text": "Have a one-sentence explanation of your story for your characters.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Save sensitive questions for the end.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Prioritize your questions and identify the single, most essential bit of information you need.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Get to the most important question quickly in the interview.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "In your interview, remember to be tough but fair.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Your story will be more interesting if you interview characters with opposing viewpoints.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Shoot different size shots to create an effective sequence.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Hit record before you ask a question to record a few seconds of silence before speaking.", 
+                    "tags": [
+                        "audio", 
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Check your audio level using headphones before you start recording.", 
+                    "tags": [
+                        "audio", 
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Use your own voice as little as possible, tell the story through the voices of others.", 
+                    "tags": [
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Think about the audience you want to reach when considering what Topic and Format to use.", 
+                    "tags": [
+                        "journalism", 
+                        "story", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Even if time is limited, make a plan, do not shoot everything you see.", 
+                    "tags": [
+                        "photo", 
+                        "video", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "When recording an interview, prepare at least 15 questions.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Focus on a single primary topic to tell a concise and clear story.", 
+                    "tags": [
+                        "journalism", 
+                        "story", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Record first hand observations and interviews whenever possible.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Be clear about your topic or goal when requesting an interview.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Be calm. Relaxing will help your interview subject relax too.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Always know what you want from the interview.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ask only one question at a time.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ask hard questions, but remember to be polite. A polite request will go a long way.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Courtesy can help establish trust and improve your interviews.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Listen for background noise that may harm the quality of your story before you click record.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Don't ask 'closed' questions that can be answered in one word such as 'yes' or 'no'.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Keep the conversation moving. Ask: Why? What happened next? What do you mean?", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "If your questions do not provide a satisfactory answer, change your approach.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Use follow-up questions if you need more information.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Remember, without good sound your images only tell half the story.", 
+                    "tags": [
+                        "video", 
+                        "photo essay", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "If it is windy, point your camera away from the wind, or protect your mic.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Every story has a major question. What's the question you've answered at the end of your item?", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "A climax is the answer on the question that keeps your listener listening. Don't give it away too early. ", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ask yourself for every clip: does it tell me something new? ", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "A good series should be made up of five strong images. If you have more good shots, add them in though.", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "during"
+                    ]
+                }
+            ], 
+            "type": "TipCollectionHeadlessCard", 
+            "id": "tip_collection"
+        }, 
+        {
+            "type": "QuizCard", 
+            "correctRequired": 1, 
+            "question": "Choose the story you want to make.", 
+            "id": "quiz_card_topic", 
+            "choices": [
+                {
+                    "text": "A Highlights Story", 
+                    "id": "t_audio_highlights"
+                }, 
+                {
+                    "text": "Discussion about an Individual", 
+                    "id": "t_audio_discussion_question_1"
+                }, 
+                {
+                    "text": "Discussion about a Social Issue", 
+                    "id": "t_audio_discussion_question_2"
+                }, 
+                {
+                    "text": "Discussion about an Event", 
+                    "id": "t_audio_discussion_question_3"
+                }, 
+                {
+                    "text": "An Event Story", 
+                    "id": "t_audio_report_event"
+                }, 
+                {
+                    "text": "An Issue Story", 
+                    "id": "t_audio_report_issue"
+                }, 
+                {
+                    "text": "A Day in the Life Story", 
+                    "id": "t_audio_day_in_the_life"
+                }
+            ]
+        }, 
+        {
+            "header": "Next", 
+            "text": "More Info", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "icon": "down"
+        }, 
+        {
+            "text": "Making a great audio story involves a variety of clips. These templates will guide you to get all the clips you need to tell a variety of stories.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_audio_library::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "action": "LOAD", 
+            "type": "HookLoaderHeadlessCard", 
+            "references": [
+                "t_audio_library::quiz_card_topic::choice"
+            ], 
+            "id": "hook_loader_card"
+        }
+    ], 
+    "storyPathTemplateFiles": {
+        "t_audio_report_issue": "t_audio_report_issue.json", 
+        "t_audio_discussion_question_1": "t_audio_discussion_question_1.json", 
+        "t_audio_discussion_question_3": "t_audio_discussion_question_3.json", 
+        "t_audio_discussion_question_2": "t_audio_discussion_question_2.json", 
+        "t_audio_day_in_the_life": "t_audio_day_in_the_life.json", 
+        "t_audio_highlights": "t_audio_highlights.json", 
+        "t_audio_report_event": "t_audio_report_event.json"
+    }, 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_audio_library", 
+    "title": "Make an Audio Story"
+}

@@ -1,0 +1,153 @@
+{
+    "cards": [
+        {
+            "header": "Next", 
+            "text": "About this Template", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "icon": "down"
+        }, 
+        {
+            "text": "This is a highlights story, it will help you photograph the best moments in your story. Highlights stories are structured less to illustrate a clear story line and more to show the peak moments or most dramatic aspects of the topic.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_photo_highlights::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "photo", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Show the location, try a wide shot of the location of your story."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Capture a character essential to your story."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "photo", 
+                "photo essay", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Shoot one picture that sums up what the story is about."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Pay attention to your characters-capture what makes them unique."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Look for moments when your characters interact."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Something drew you personally to this story, photograph it."
+            ], 
+            "clipType": "signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Photograph the primary characters in your story."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "portraits", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Look for a climax or dramatic finish, photograph it."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_3", 
+            "tags": [
+                "edit", 
+                "photo", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_4", 
+            "tags": [
+                "photo"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_photo_highlights", 
+    "title": "Highlights"
+}

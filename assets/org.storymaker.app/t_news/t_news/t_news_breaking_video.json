@@ -1,0 +1,142 @@
+{
+    "cards": [
+        {
+            "header": "Next", 
+            "text": "About this Template", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "icon": "down"
+        }, 
+        {
+            "text": "A breaking news video report requires a narration that explains what is happening, summarizing the key points, main actors, and any information known so far. The reporter must show what can be seen on the ground where the news happened. Shoot clips that show the basic facts and if possible interview a witness.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_news_breaking_video::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "video", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:08", 
+            "goals": [
+                "Show the location. Capture details that show where you are."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "Show the reactions of those affected."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "video", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:15", 
+            "goals": [
+                "Summarize what happened in one shot."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "Show the results of what happened."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:15", 
+            "goals": [
+                "If possible, interview somewhat affected at the scene."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "Capture something that shows why you think this news is important."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:15", 
+            "goals": [
+                "Show the location, use a new angle to show where you are."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "video", 
+                "during"
+            ]
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_3", 
+            "tags": [
+                "edit", 
+                "video", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_4", 
+            "tags": [
+                "narration"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_news_breaking_video", 
+    "title": "Breaking News Video Report"
+}
