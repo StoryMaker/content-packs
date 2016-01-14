@@ -1,0 +1,174 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "El mejor reportaje se basa en el hecho en lugar de en la opini\u00f3n, rumor o inter\u00e9s personal. \u00bfC\u00f3mo aplico este concepto en un entorno prioridad para la comunicaci\u00f3n social?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1s:  \n&bull; Conceptos clave para el buen reporte  \n&bull; C\u00f3mo diferenciar entre hechos y opiniones   \n&bull; C\u00f3mo hacer de los hechos la espina dorsal de tu art\u00edculo/informe/reporte ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "En un entorno m\u00f3vil y social, un buen reportaje puede resultar un grand desaf\u00edo. Suele ser dif\u00edcil conocer la identidad o agenda de la gente que publica. Puede que cueste recopilar la informaci\u00f3n precisa, pero unos hechos s\u00f3lidos pueden ayuda en gran medida a informar a la gente sobre un suceso. Los buenos periodistas utilizan el juicio y sentido com\u00fan de alguien en quien conf\u00edan. Tambi\u00e9n tiene en cuenta otras fuentes de informaci\u00f3n con sumo cuidado y son transparentes con la audiencia sobre la procedencia de su informaci\u00f3n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "##Recopilaci\u00f3n de informaci\u00f3n:\nDa igual la herramienta o la historia, un buen informe se empieza contestando a seis preguntas b\u00e1sicas sobre un asunto:\n\n&bull; \u00bfQui\u00e9n?\n&bull; \u00bfQu\u00e9?\n&bull; \u00bfD\u00f3nde?\n&bull; \u00bfCu\u00e1ndo?\n&bull; \u00bfpor qu\u00e9?\n&bull; \u00bfC\u00f3mo?", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Las Cinco W ayudan a que los periodistas recopilen los hechos fundamentales necesarios para construir una historia s\u00f3lida. Debes ser lo m\u00e1s espec\u00edfico/a y preciso/a posible; recuerda conseguir los nombres completos de las personas y lugares y aseg\u00farate de saber c\u00f3mo se deletrean. A la hora de relatar una historia, aseg\u00farate de recopilar la informaci\u00f3n esencial que sea desconocida para que los ciudadanos que no est\u00e9n familiarizados con el suceso la entiendan. \nHacer una b\u00fasqueda de los antecedentes puede ayudar a la hora de empezar a trabajar en la historia. Los buenos periodistas est\u00e1n bien informados sobre los sucesos que cubren.\nCuanto m\u00e1s detallado el reportaje mejor. Una cosa es informar de la presencia de las fuerzas de seguridad en la manifestaci\u00f3n. Resulta m\u00e1s informativo dejar claro que pertenec\u00edan al ministerio de interior, no al ej\u00e9rcito.\nPuede resultar un desaf\u00edo separar los hechos de la opini\u00f3n. Hay que contener los sentimientos que se tenga sobre un suceso y respetar la habilidad de la audiencia para formar su propia opini\u00f3n bas\u00e1ndose en los hechos que presentes.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "###Ejemplos de las cinco preguntas W bien planteadas y respondidas:", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "###\u00bfQu\u00e9 ha ocurrido?\nResuma de forma precisa lo que ha pasado. \u00bfC\u00f3mo ha terminado? \u00bfHa habido da\u00f1os? \u00bfQui\u00e9n ha ganado? \u00bfAlguien ha muerto? Sea espec\u00edfico.\nBien: Votantes en Tr\u00edpoli participaron en las primeras elecciones democr\u00e1ticas de la naci\u00f3n.\nMal: Hoy es un d\u00eda de celebraci\u00f3n ya que nuestra gran naci\u00f3n abre paso hacia una era nueva y m\u00e1s pr\u00f3spera.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "###\u00bfQui\u00e9n estaba involucrado/a?\nExplique qui\u00e9n estaba ah\u00ed. \u00bfCu\u00e1ntas personas? \u00bfDe qu\u00e9 grupos de inter\u00e9s?\nBien: M\u00e1s de 200 dignatarios estaban presentes entre los representantes del partido popular y socialista, el movimiento Solidaridad y el equipo personal del Rey que asisti\u00f3. \nMal: Hab\u00eda mucha gente y pol\u00edticos.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "###\u00bfD\u00f3nde ha ocurrido?\nDiga el pa\u00eds, provincia, ciudad, vecindario, plaza, negocio, edificio, etc. \u2015 sea espec\u00edfico/a. La afiliaci\u00f3n pol\u00edtica, etnia y religi\u00f3n de las personas de la zona puede o no ser importantes. \u00bfEs una zona urbana? \u00bfrural? \u00bfun complejo militar?\nBien: Se celebr\u00f3 el partido en un antiguo campo de f\u00fatbol universitario improvisado a las afueras de Port Said.\nMal: El partido no se celebr\u00f3 en el estadio habitual.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "###\u00bfCu\u00e1ndo ha ocurrido?\nDa la fecha exacta: d\u00eda del mes, mes y a\u00f1o. La hora puede resultar importante en situaci\u00f3n que se siguen desarrollando. Si la estaci\u00f3n es importante o el hecho de que sea en vacaciones o celebraci\u00f3n como el alto al fuego es relevante, incluye esa informaci\u00f3n. \u00bfEra de d\u00eda o de noche?\nBien: En un principio planeado para la tarde del 6 de abril, la actuaci\u00f3n de Aman Halawa se ha retrasado al 14 de abril.\nMal: La actuaci\u00f3n de de mundialmente famosa m\u00fasica estaba planeada para ayer pero se ha retrasado a la semana que viene.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "### \u00ab\u00bfPor qu\u00e9 ha pasado?\u00bb\n\u00bfCu\u00e1l ha sido la causa de lo sucedido? \u00bfCu\u00e1l es el origen? Evite la especulaci\u00f3n. Utilice hechos comprobados. \u00bfHay algo que lo ha activado o ha ido poco a poco? \u00bfestaba planeado? Si es as\u00ed, \u00bfqui\u00e9n lo ha hecho? \u00bfQui\u00e9n ha pagado por ello? \u00bfQui\u00e9n lo ha organizado?\nBien: El puente no pod\u00eda aguantar la presi\u00f3n de las crecientes aguas pluviales y se derrumb\u00f3, dijo el portavoz del Cuerpo de Ingenieros del Ej\u00e9rcito.\nMal: El puente no estaba en buen estado debido a la corrupci\u00f3n del gobierno, as\u00ed que se derrumb\u00f3 durante la tormenta.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "### \u00ab\u00bfC\u00f3mo ha ocurrido?\u00bb\nDescriba la progresi\u00f3n de lo sucedido \u2015la observaci\u00f3n y la opini\u00f3n son dos cosas distintas. \u00bfC\u00f3mo ha transcurrido? \u00bfHa empezado lentamente y se ha desarrollado o ha sido repentino? \u00bfHa habido un punto de inflexi\u00f3n claro?\nBien: La gente comenz\u00f3 a juntarse temprano y ya por la tarde cientos de personas estaban en la plaza, cantando, con letreros y pidiendo la dimisi\u00f3n del ministro de Sanidad tras la muerte de 13 ni\u00f1os  la semana pasada por una vacuna de la gripe contaminada.\nMal: Mucha gente vino y pidi\u00f3 a gritos que el ministro de Sanidad fuera despedido, culp\u00e1ndolo de las muertes de los ni\u00f1os. ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "##Factoides\nPara comunicados cortos, siempre es \u00fatil pensar en t\u00e9rminos de \u00abfactoides\u00bb. Los factoides son la columna vertebral de un reportaje. Los factoides son los chismes de informaci\u00f3n real que puedes utilizar para responder a qui\u00e9n, qu\u00e9, d\u00f3nde, cu\u00e1ndo y por qu\u00e9 con habilidad.\n&bull; Los n\u00fameros y estad\u00edsticas son factoides: \u00bfCu\u00e1ntos? \u00bfA qu\u00e9 hora empez\u00f3?\n&bull; Los detalles de un suceso son factoides. Describe brevemente c\u00f3mo \u2015lo que sea\u2015 funciona. \u00bfD\u00f3nde empez\u00f3? \u00bfCu\u00e1ndo surtir\u00e1 efecto? \u00bfQui\u00e9n est\u00e1 involucrado? \u00bfQui\u00e9n se opone? \u00bfQui\u00e9n est\u00e1 a favor?\n&bull; Las observaciones son factoides. Las descripciones f\u00edsicas se suelen pasar por alto, pero son un tipo de factoide con mucha fuerza. \u00bfC\u00f3mo es la habitaci\u00f3n? \u00bfQu\u00e9 lleva puesto? \u00bfC\u00f3mo es el escenario?\n&bull; Las citas son factoides: las citas dramatizan y personalizan lo relatado. Las citas pueden ser afirmaciones de hechos o opiniones significativas, c\u00f3mo se siente la fuente. Da igual si es una afirmaci\u00f3n de un hecho u opini\u00f3n, lo que cuenta en el periodismo es el HECHO que se ha contado.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "2.mp4", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Historias m\u00e1s largas pueden necesitar m\u00e1s inviestigaci\u00f3n si existe un grupo de fuentes m\u00e1s grande antes y despu\u00e9s de un evento.", 
+            "exampleMediaPath": "2.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "##DEBE RECORDAR\n\n&bull; Tiene que distinguir los hechos de su opini\u00f3n en su reportaje.\n&bull; El acceso y el tiempo son un desaf\u00edo a la hora de hacer un buen reportaje.\n&bull; Los prejuicios personales tambi\u00e9n son un desaf\u00edo para un buen reportaje.\n&bull; Tenga cuidado: No divulgue informaci\u00f3n err\u00f3nea a sus lectores.\n&bull; Todo puede quedar reducido al hablar con otros periodistas y leer la cobertura de la historia de distintas fuentes.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "\u00bfCu\u00e1l de las siguientes opciones son ejemplos de \u00abfactoides\u00bb? (Puede haber m\u00e1s de una respuesta).", 
+            "choices": [
+                {
+                    "text": "N\u00fameros.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Citas.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Opini\u00f3n personal.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "NInguna de las anteriores.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Verdadero o falso: Qui\u00e9n, qu\u00e9, d\u00f3nde, cu\u00e1ndo, c\u00f3mo y por qu\u00e9 son las seis preguntas b\u00e1sicas que deber\u00eda intentar responder cuando haga el reportaje.", 
+            "choices": [
+                {
+                    "text": "Verdadero", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falso", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfCu\u00e1les son los obst\u00e1culos en un buen reportaje?", 
+            "choices": [
+                {
+                    "text": "Acceso.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Tiempo.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Prejuicio personal.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todo lo anterior.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "reporting_basics", 
+    "title": "Fundamentos del reportaje"
+}
