@@ -1,7 +1,7 @@
 [
   {
-    "instanceFilePath": "org.storymaker.app/process_stories/process_stories/process_stories_library.json", 
-    "thumbnailPath": "org.storymaker.app/process_stories/cover.jpg", 
+    "instanceFilePath": "org.storymaker.app/t_process/t_process/t_process_library.json", 
+    "thumbnailPath": "org.storymaker.app/t_process/cover.png", 
     "language": "ar", 
     "title": "Process Story"
   }

@@ -1,8 +1,8 @@
 [
   {
-    "instanceFilePath": "org.storymaker.app/video_stories/video_stories/video_stories_library.json", 
-    "thumbnailPath": "org.storymaker.app/video_stories/cover.jpg", 
+    "instanceFilePath": "org.storymaker.app/t_video/t_video/t_video_library.json", 
+    "thumbnailPath": "org.storymaker.app/t_video/cover.png", 
     "language": "vi", 
-    "title": "video_stories storyPathTemplateFiles"
+    "title": "Make a Video Story"
   }
 ]
