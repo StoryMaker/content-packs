@@ -254,19 +254,20 @@ def do_dir(yaml_dir, json_dir, strings_dir):
             strings_out_file = "%s/%s.json" % (strings_dir, file_name)
             parse_file(in_file, json_out_file, strings_out_file, json_dir, strings_dir)
 
-def generate_content_index_record(library_dir, package, content_pack, library, instance, lang=None):
+def generate_content_index_record(library_dir, package, content_pack, library, file_name, lang=None):
     rec = {}
-    instance_id = instance.split('_library')[0]
+    #id = instance.split('_library')[0]
+    #id = file_name #fixme we shoulf fetch this from the id: field not infer from the filename
 
     # first try to use the translated file, if it doesnt exist, fallback on 'en'
-    file_path = '%s/intermediates/translated_strings/%s/%s/%s/%s-%s.json' % (os.getcwd(), package, content_pack, library, instance, lang)
+    file_path = '%s/intermediates/translated_strings/%s/%s/%s/%s-%s.json' % (os.getcwd(), package, content_pack, library, file_name, lang)
     if not os.path.isfile(file_path):
-        file_path = '%s/%s.json' % (library_dir, instance)
+        file_path = '%s/%s.json' % (library_dir, file_name)
     print "file_path: " + file_path
     f = open(file_path, 'r')
     file_json = json.load(f)
     
-    rec['instanceFilePath'] = "%s/%s/%s/%s.json" % (package, content_pack, library, instance)
+    rec['instanceFilePath'] = "%s/%s/%s/%s.json" % (package, content_pack, library, file_name)
     if lang is None:
         rec['language'] = 'en'
     else:
@@ -297,15 +298,12 @@ def generate_content_index(package, content_pack, lang=None):
         library_dir = "%s/%s" % (content_pack_strings_dir, library)
         if os.path.isdir(library_dir):
             print library_dir
-            #json_dir = os.getcwd() + "/assets/%s/%s/%s" % (package, content_pack, library)
-            #strings_dir = os.getcwd() + "/intermediates/strings/%s/%s/%s" % (package, content_pack, library)
-            
+
             for f in os.listdir(library_dir):
                 #print "    %s" % f
                 cardcounts = {}
                 file_name, file_extension = os.path.splitext(f)
                 if file_extension == ".json" and "_library" in file_name:
-                    #print "      ...is library"
                     rec = generate_content_index_record(library_dir, package, content_pack, library, file_name, lang)
                     print rec
                     content_index.append(rec)
@@ -557,27 +555,30 @@ def gen_regular_pack(pack_dir):
 
 ### generate localized packs
 
+if __name__ == "_main__":
 
-prep_localized_pack('journalism_part_1', 'persian')
-prep_localized_pack('journalism_part_1', 'mena')
-prep_localized_pack('journalism_part_1', 'burundi')
+    prep_localized_pack('journalism_part_1', 'persian')
+    prep_localized_pack('journalism_part_1', 'mena')
+    prep_localized_pack('journalism_part_1', 'burundi')
 
-#### generate regular packs
+    #### generate regular packs
 
-gen_regular_pack("citizen_journalism_pack")
-gen_regular_pack("mobile_photo_basics")
-gen_regular_pack("1_day_video_workshop")
-gen_regular_pack("default")
-gen_regular_pack("learning_guide")
-gen_regular_pack("welcome")
-gen_regular_pack("audio_stories")
-gen_regular_pack("process_stories")
-gen_regular_pack("video_stories")
-gen_regular_pack("photo_essay_stories")
-gen_regular_pack("news_reports")
-gen_regular_pack("photo_essay_stories")
+    gen_regular_pack("mobile_photo_basics")
 
-# create available index
 
-for s in content_packs:
-    print("adding {0} to available_index".format(s))
+    gen_regular_pack("default")
+    gen_regular_pack("learning_guide")
+    gen_regular_pack("t_citizen_journalist")
+    gen_regular_pack("g_odvw")
+    gen_regular_pack("g_welcome")
+    gen_regular_pack("t_audio")
+    gen_regular_pack("t_process")
+
+    gen_regular_pack("t_video")
+    gen_regular_pack("t_photo")
+    gen_regular_pack("t_news")
+
+    # create available index
+
+    for s in content_packs:
+        print("adding {0} to available_index".format(s))
