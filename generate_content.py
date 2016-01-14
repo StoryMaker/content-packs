@@ -271,7 +271,7 @@ def generate_content_index_record(library_dir, package, content_pack, library, i
         rec['language'] = 'en'
     else:
         rec['language'] = lang
-    rec['title'] = file_json['%s::title' % (instance_id)]
+    rec['title'] = next( v for k,v in file_json.items() if k.endswith('::title'))
     covers = glob.glob("assets/%s/%s/%s/cover.*" % (package, content_pack, library))
     print covers
     if len(covers) > 0:
