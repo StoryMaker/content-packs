@@ -1,0 +1,13 @@
+{
+  "t_news_breaking_audio::clip_card_1::goals[0]": "Record the reactions of people affected by the event.", 
+  "t_news_breaking_audio::clip_card_5::goals[0]": "Record something that clearly shows the results of what happened.", 
+  "t_news_breaking_audio::ms_moreinfo::header": "Next", 
+  "t_news_breaking_audio::clip_card_0::goals[0]": "Record sound from the location.", 
+  "t_news_breaking_audio::ms_moreinfo::text": "About this Template", 
+  "t_news_breaking_audio::clip_card_4::goals[0]": "If possible, interview somewhat affected at the scene.", 
+  "t_news_breaking_audio::clip_card_6::goals[0]": "Summarize what is known so far.", 
+  "t_news_breaking_audio::clip_card_3::goals[0]": "Record sound of the response at the scene.", 
+  "t_news_breaking_audio::title": "Breaking News Audio Report", 
+  "t_news_breaking_audio::text_card_0::text": "A breaking news audio report requires a piece of audio that explains what is happening, summarizing the key points, main actors, and any information known so far. The reporter must explain what can be seen on the ground where the news happened. Record sounds that provide the basic facts and if possible interview a witness.", 
+  "t_news_breaking_audio::clip_card_2::goals[0]": "Record a sound that sums up what happened."
+}

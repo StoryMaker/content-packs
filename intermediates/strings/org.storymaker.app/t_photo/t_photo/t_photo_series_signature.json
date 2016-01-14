@@ -1,0 +1,12 @@
+{
+  "t_photo_series_signature::ms_moreinfo::text": "About this Template", 
+  "t_photo_series_signature::clip_card_1::goals[0]": "Replicate the composition of the first photo with another object.", 
+  "t_photo_series_signature::clip_card_2::goals[0]": "Replicate the composition with a different object.", 
+  "t_photo_series_signature::ms_moreinfo::header": "Next", 
+  "t_photo_series_signature::title": "Series - Signature", 
+  "t_photo_series_signature::clip_card_3::goals[0]": "Replicate the composition with a different object.", 
+  "t_photo_series_signature::clip_card_4::goals[0]": "Replicate the composition with a different object.", 
+  "t_photo_series_signature::text_card_1::text": "Find a pattern that viewers can identify with.", 
+  "t_photo_series_signature::text_card_0::text": "This is a signature series template. A series is a set of similar images designed to illustrate a comparative point. Images in a series should be stylistically similar to further illustrate the comparison.", 
+  "t_photo_series_signature::clip_card_0::goals[0]": "Photograph an object that illustrates the issue."
+}

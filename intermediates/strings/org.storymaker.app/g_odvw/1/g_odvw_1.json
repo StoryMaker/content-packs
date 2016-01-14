@@ -1,0 +1,19 @@
+{
+  "g_odvw_1::clip_card_2::goals[0]": "Show a location important to your character or question.", 
+  "g_odvw_1::clip_card_1::goals[0]": "Show your character doing something related to your question.", 
+  "g_odvw_1::markdown_card_0::text": "With your partner, choose one of the following questions you will each ask the other * What is your experience with mobile journalism? * How was your trip to the workshop? * What has been your favorite part of the workshop so far?", 
+  "g_odvw_1::text_card_0::text": "Each with your own phones, first interview your partner, and then your partner will interview you.", 
+  "g_odvw_1::text_card_7::text": "Don't worry, all clips are saved in your gallery.", 
+  "g_odvw_1::text_card_8::text": "When you finish uploading, return to class.", 
+  "g_odvw_1::text_card_3::text": "Be careful to provide proper headspace for your interview.", 
+  "g_odvw_1::text_card_6::text": "If you recorded multiple clips in a single card, delete all but your chosen 3 clips before you publish.", 
+  "g_odvw_1::text_card_1::text": "Make sure you are close enough to hear your partner.", 
+  "g_odvw_1::text_card_4::text": "Trim by tapping the clip image.", 
+  "g_odvw_1::text_card_2::text": "If there is a lot of background noise, find a new location.", 
+  "g_odvw_1::title": "Interview your partner.", 
+  "g_odvw_1::preview_card_0::header": "Example of headroom", 
+  "g_odvw_1::intro_card_0::level": "Introduction", 
+  "g_odvw_1::intro_card_0::headline": "Interview your partner.", 
+  "g_odvw_1::clip_card_0::goals[0]": "Remember, ask your subject one question, you can shoot multiple times if needed.", 
+  "g_odvw_1::text_card_5::text": "Select the best 30 second answer."
+}
