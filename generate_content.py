@@ -22,6 +22,13 @@ import os
 import yaml
 import json
 import glob
+import click
+
+# setup cli
+@click.group()
+def cli():
+    pass
+    
 #stream = open("test.yaml", 'r')
 #stream = open("lesson_test.yaml", 'r')
 
@@ -551,12 +558,25 @@ def gen_regular_pack(pack_dir):
     
     content_packs.append(pack_dir)
 
-######################################
+# create available index
+def create_available_index():
+    for s in content_packs:
+        print("adding {0} to available_index".format(s))
 
-### generate localized packs
+@cli.command()
+@click.argument("name")
+def generate_regular_pack(name):
+    gen_regular_pack(name)
+    
+@cli.command()
+@click.argument("name")
+@click.argument("locale")
+def generate_localized_pack(name, locale):
+    prep_localized_pack(name, locale)
 
-if __name__ == "_main__":
-
+@cli.command()
+def all_content():
+    ### generate localized packs
     prep_localized_pack('journalism_part_1', 'persian')
     prep_localized_pack('journalism_part_1', 'mena')
     prep_localized_pack('journalism_part_1', 'burundi')
@@ -578,7 +598,9 @@ if __name__ == "_main__":
     gen_regular_pack("t_photo")
     gen_regular_pack("t_news")
 
-    # create available index
+    create_available_index()
+    
+cli.add_command(all_content)
 
-    for s in content_packs:
-        print("adding {0} to available_index".format(s))
+if __name__ == "__main__":
+    cli()
