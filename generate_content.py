@@ -279,7 +279,7 @@ def generate_content_index_record(library_dir, package, content_pack, library, f
         rec['language'] = 'en'
     else:
         rec['language'] = lang
-    rec['title'] = next( v for k,v in file_json.items() if k.endswith('::title'))
+    rec['title'] = next(v for k, v in file_json.items() if k.endswith('::title'))
     covers = glob.glob("assets/%s/%s/%s/cover.*" % (package, content_pack, library))
     print covers
     if len(covers) > 0:
@@ -297,7 +297,6 @@ def generate_content_index(package, content_pack, lang=None):
     lang_postfix = ""
     if lang is not None:
         lang_postfix = "-%s" % lang
-    cardcounts = {}
     content_index = []
     content_pack_strings_dir = os.getcwd() + "/intermediates/strings/%s/%s" % (package, content_pack)
     lst = sorted(os.listdir(content_pack_strings_dir))
@@ -307,8 +306,6 @@ def generate_content_index(package, content_pack, lang=None):
             print library_dir
 
             for f in os.listdir(library_dir):
-                #print "    %s" % f
-                cardcounts = {}
                 file_name, file_extension = os.path.splitext(f)
                 if file_extension == ".json" and "_library" in file_name:
                     rec = generate_content_index_record(library_dir, package, content_pack, library, file_name, lang)
@@ -643,55 +640,78 @@ print "prepping lesson asset folders..."
 
 content_packs = []
 
+def gen_regular_pack(pack_name):
+    print("generating content for {0}".format(pack_name))
+    yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/" + pack_name
+    for f in os.listdir(yaml_parent_dir):
+        yaml_dir = "%s/%s" % (yaml_parent_dir, f)
+        print yaml_dir
+        json_dir = os.getcwd() + "/assets/org.storymaker.app/%s/%s" % (pack_name, f)
+        strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/%s/%s" % (pack_name, f)
+        do_dir(yaml_dir, json_dir, strings_dir)
+
+    content_packs.append(pack_name)
+
+def gen_regular_pack_and_content_indexes(pack_name):
+    gen_regular_pack(pack_name)
+    generate_content_indexes(pack_name)
+
+def generate_content_indexes(pack_name):
+    generate_content_index(package, pack_name)
+    generate_content_index(package, pack_name, 'ar')
+    generate_content_index(package, pack_name, 'es')
+    generate_content_index(package, pack_name, 'fa')
+    generate_content_index(package, pack_name, 'fr')
+    generate_content_index(package, pack_name, 'rw')
+    generate_content_index(package, pack_name, 'vi')
+
 # locale is buruni, mena or persian
 # content_pack is audio, journalism_part_1, etc
 # lang is the two letter lang code
-# 
+#
 # this method takes the input assets and copies them to each localized assets clone folder in preparation to be zipped later
 def prep_localized_pack(content_pack, locale, lang=None):
+    # create the json files for the base content pack before we make the localized copies
+    gen_regular_pack(content_pack)
+
     # e.g. journalism_pack_1-burundi
     full_pack_name = "%s-%s" % (content_pack, locale)
-    
+
     # TODO delete the old assets for this pack
     dir_final_assets = "%s/assets/%s/%s/" % (os.getcwd(), package, full_pack_name)
     print "purging any old generated assets for this pack: %s" % dir_final_assets
     shutil.rmtree(dir_final_assets, ignore_errors=True)
-    
-    print "copying assets for index for %s/%s" % (package, dir_final_assets)    
+
+    print "copying assets for index for %s/%s" % (package, content_pack)
     dir_localized_media = "%s/assets/%s/%s-media/%s" % (os.getcwd(), package, content_pack, locale)
+    print("    dir_localized_media: {0}".format(dir_localized_media))
+    print("    dir_final_assets: {0}".format(dir_final_assets))
     shutil.copytree(dir_localized_media, dir_final_assets)
-    
-    # purge the old generated strings clone folder 
+
+    # purge the old generated strings clone folder
     # intermediates/strings/org.storymaker.app/persian
     dir_localized_intermediate_strings = "%s/intermediates/strings/%s/%s" % (os.getcwd(), package, full_pack_name)
     shutil.rmtree(dir_localized_intermediate_strings, ignore_errors=True)
-    
+
     # now copy the translated strings into the localized path
     dir_intermediate_strings = "%s/intermediates/strings/%s/%s" % (os.getcwd(), package, content_pack)
     shutil.copytree(dir_intermediate_strings, dir_localized_intermediate_strings)
-    
+
     # purge the translated_strings clone folder
     dir_localized_intermediate_translated_strings = "%s/intermediates/translated_strings/%s/%s" % (os.getcwd(), package, full_pack_name)
     shutil.rmtree(dir_localized_intermediate_translated_strings, ignore_errors=True)
-    
+
     dir_localized_intermediate_strings = "%s/intermediates/translated_strings/%s/%s" % (os.getcwd(), package, content_pack)
     shutil.copytree(dir_localized_intermediate_strings, dir_localized_intermediate_translated_strings)
+
 
     # TODO copy / merge the json on top of the assets folder
     d1 = "%s/assets/%s/%s/" % (os.getcwd(), package, content_pack)
     # dir_final_assets = d2 = "%s/assets/%s/%s" % (os.getcwd(), package, full_pack_name)
     mergetree(d1, dir_final_assets)
-                    
-    # TODO copy / merge the json on top of the assets folder
-    print "generating content index for %s/%s" % (package, locale)
-    generate_content_index(package, full_pack_name)
-    generate_content_index(package, full_pack_name, 'ar') # FIXME we should move this into a list of supported languages that gets passed in
-    generate_content_index(package, full_pack_name, 'es')
-    generate_content_index(package, full_pack_name, 'fa')
-    generate_content_index(package, full_pack_name, 'fr')
-    generate_content_index(package, full_pack_name, 'rw')
-    generate_content_index(package, full_pack_name, 'vi')
-    
+
+    generate_content_indexes(full_pack_name)
+
     content_metadata_file = open("assets/%s/%s/content_metadata.json" % (package, full_pack_name), 'w')
     cover_file = "%s/%s/cover.jpg" % (package, full_pack_name)
     if not os.path.isfile("assets/%s" % cover_file):
@@ -706,25 +726,6 @@ def prep_localized_pack(content_pack, locale, lang=None):
     content_metadata_file.close()
     
     content_packs.append(full_pack_name)
-    
-def gen_regular_pack(pack_dir):   
-    print("generating content for {0}".format(pack_dir))
-    yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/" + pack_dir
-    for f in os.listdir(yaml_parent_dir):
-        yaml_dir = "%s/%s" % (yaml_parent_dir, f)
-        print yaml_dir
-        json_dir = os.getcwd() + "/assets/org.storymaker.app/%s/%s" % (pack_dir, f)
-        strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/%s/%s" % (pack_dir, f)
-        do_dir(yaml_dir, json_dir, strings_dir)
-    generate_content_index(package, pack_dir)
-    generate_content_index(package, pack_dir, 'ar')
-    generate_content_index(package, pack_dir, 'es')
-    generate_content_index(package, pack_dir, 'fa')
-    generate_content_index(package, pack_dir, 'fr')
-    generate_content_index(package, pack_dir, 'rw')
-    generate_content_index(package, pack_dir, 'vi')
-    
-    content_packs.append(pack_dir)
 
 # create available index
 def create_available_index():
@@ -734,8 +735,8 @@ def create_available_index():
 @cli.command()
 @click.argument("name")
 def generate_regular_pack(name):
-    gen_regular_pack(name)
-    
+    gen_regular_pack_and_content_indexes(name)
+
 @cli.command()
 @click.argument("name")
 @click.argument("locale")
@@ -748,23 +749,35 @@ def all_content():
     prep_localized_pack('journalism_part_1', 'persian')
     prep_localized_pack('journalism_part_1', 'mena')
     prep_localized_pack('journalism_part_1', 'burundi')
+    prep_localized_pack('journalism_part_2', 'persian')
+    prep_localized_pack('journalism_part_2', 'mena')
+    prep_localized_pack('journalism_part_2', 'burundi')
+
+    # TODO check that these aren't dupes of the t_audio et al ones
+    # audio
+    # story
+    # lessons
+    # video_1
+    # video_2
+    # security
+    # photography_1
+    # photography_2
+    # journalism_part_1
+    # journalism_part_2
 
     #### generate regular packs
 
-    gen_regular_pack("mobile_photo_basics")
-
-
-    gen_regular_pack("default")
-    gen_regular_pack("learning_guide")
-    gen_regular_pack("t_citizen_journalist")
-    gen_regular_pack("g_odvw")
-    gen_regular_pack("g_welcome")
-    gen_regular_pack("t_audio")
-    gen_regular_pack("t_process")
-
-    gen_regular_pack("t_video")
-    gen_regular_pack("t_photo")
-    gen_regular_pack("t_news")
+    gen_regular_pack_and_content_indexes("mobile_photo_basics")
+    gen_regular_pack_and_content_indexes("default")
+    gen_regular_pack_and_content_indexes("learning_guide")
+    gen_regular_pack_and_content_indexes("t_citizen_journalist")
+    gen_regular_pack_and_content_indexes("g_odvw")
+    gen_regular_pack_and_content_indexes("g_welcome")
+    gen_regular_pack_and_content_indexes("t_audio")
+    gen_regular_pack_and_content_indexes("t_process")
+    gen_regular_pack_and_content_indexes("t_video")
+    gen_regular_pack_and_content_indexes("t_photo")
+    gen_regular_pack_and_content_indexes("t_news")
 
     generate_translated_assets("mobile_photo_basics")
     #generate_translated_assets("default")
@@ -777,6 +790,18 @@ def all_content():
     generate_translated_assets("t_video")
     generate_translated_assets("t_photo")
     generate_translated_assets("t_news")
+    
+    # TODO check that these aren't dupes of the t_audio et al ones
+    # audio
+    # story
+    # lessons
+    # video_1
+    # video_2
+    # security
+    # photography_1
+    # photography_2
+    # journalism_part_1
+    # journalism_part_2
 
     create_available_index()
     
