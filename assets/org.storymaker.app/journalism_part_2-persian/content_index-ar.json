@@ -1,0 +1,26 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-persian/1_evolution_of_a_story/evolution_of_a_story_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-persian/cover.png", 
+    "language": "ar", 
+    "title": "Evolution of a Story"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-persian/2_introduction_to_ethics_and_professional_standards/introduction_to_ethics_and_professional_standards_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-persian/cover.png", 
+    "language": "ar", 
+    "title": "Introduction to Ethics and Professional Standards"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-persian/3_using_text/using_text_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-persian/cover.png", 
+    "language": "ar", 
+    "title": "Using Text"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-persian/4_media_law/media_law_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-persian/cover.png", 
+    "language": "ar", 
+    "title": "Media Law"
+  }
+]

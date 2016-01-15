@@ -1,0 +1,26 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-mena/1_evolution_of_a_story/evolution_of_a_story_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-mena/cover.png", 
+    "language": "es", 
+    "title": "Evoluci\u00f3n de una historia"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-mena/2_introduction_to_ethics_and_professional_standards/introduction_to_ethics_and_professional_standards_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-mena/cover.png", 
+    "language": "es", 
+    "title": "Introducci\u00f3n a la \u00e9tica y est\u00e1ndares profesionales"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-mena/3_using_text/using_text_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-mena/cover.png", 
+    "language": "es", 
+    "title": "Utilizar texto"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-mena/4_media_law/media_law_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-mena/cover.png", 
+    "language": "es", 
+    "title": "Ley de medios de comunicaci\u00f3n"
+  }
+]
