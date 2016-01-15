@@ -1,0 +1,634 @@
+{
+    "cards": [
+        {
+            "tips": [
+                {
+                    "text": "Kwiga kumenyana ; kwibuka ivyo wiyumvira kubandi kandi ntubireke ngo bigukoresha mukuntu uza gukora inkuru yawe.", 
+                    "tags": [
+                        "ethics", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Iyo muriko mufata amafoto mu bihe biteye ubwoba,rondera imisi yose aho uzibukirira.", 
+                    "tags": [
+                        "security", 
+                        "photo", 
+                        "video", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Rondera ibikenewe kuri uyo muntu imbere yukugirana nawe ikiganiro.muca mubaza ibibazo bikomeye.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio"
+                    ]
+                }, 
+                {
+                    "text": "Kugira insiguro y\u2019ijambo rimwe y\u2019iyo nkuru yawe ku bantu bawe", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Sigaza ibibazo vyankenegwa mu mpera.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Shira imbere ibibazo vyanyu hama toramwa igice c\u2019inkuru ikenewe mukeneye", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Raba ingene ubaza ningoga ikibazo gihambaye mu kiganiro.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Mu kiganiro cawe, ntiwibagire kwatagufyina muga avuge vyo", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Inkuru yawe izoryoha uvugishije abantu badasangiye ivyiyumviro", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Heza ikiganiro ubaza: hari ikintu mushaka kongerako ?", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ivyo wafashe bimeze neza bifise ikibanza mu ntumbero y\u2019ico wariko urakorerako canke birakurikirana", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ubunini bw\u2019ikintu muri kadre butegerezwa kuba bungana n\u2019akamaro bufise muri uwo mwanya-Alfred Hitchcock", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Raba ko igice gihambaye y\u2019ivyo mwafashe bikwije ibice 50% vya kadre.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Shira hamwe ama clips atanganya ubunini canke atandukanye kugira uronke agace gakwiye", 
+                    "tags": [
+                        "video", 
+                        "after"
+                    ]
+                }, 
+                {
+                    "text": "Ntuhagarike gufata gushika igikorwa c\u2019ugufata gihere.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Tangura igikorwa co gufata amasanamu imbere yuko utangura kandi ntuhagarike bidaheze.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ntushire uwo muntu wawe hagati mw\u2019ifoto.koresha uburyo bw\u2019uduce dutatu", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Nimba ifoto yawe itari nziza, ntimwegereye bikwiye \u2013 Robert Capa.", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Bandanya ufata gushika nkamasegonda 15,nimba clip ari nini, yikate", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Imisi yose shiramwo ibara ryera iyo muhinduye urumuri", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Kugira ufate amasanamu murakenera kugabura ibintu bigize inkuru yawe kimwe kimwe ukwaco", 
+                    "tags": [
+                        "video", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Wiyumvira iki kuri ivyo vyabaye ?", 
+                    "tags": [
+                        "video", 
+                        "photo essay", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Tangura gufata imbere yuko ubaza ikibazo kugira ugire amasegonda make yagacerere imbere yukuvuga", 
+                    "tags": [
+                        "audio", 
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Raba neza urugero rwamajwi ukoresheje ama ecouteurs imbere y\u2019ugufata amajwi.", 
+                    "tags": [
+                        "audio", 
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Koresha ijwi ryawe gake gashoboka.vuga iyo nkuru ukoresheje amajwi yabandi", 
+                    "tags": [
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Iyumvire abantu ugomba kubwira inkuru yawe mugihe uzoba uriko uratora ico ukorako canke ngene uyikora", 
+                    "tags": [
+                        "journalism", 
+                        "story", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Naho umwanya ari muke,tegura ngene ukora hama ntufotore ivyo ubona vyose", 
+                    "tags": [
+                        "photo", 
+                        "video", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Iyo uriko urafata amajwi y\u2019ikiganiro, tegura ibibazo bigera kuri 15", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Kwibanda ikintu kimwe nkenegwa kugira utange inkuru yumvikana kadi ngufi.", 
+                    "tags": [
+                        "journalism", 
+                        "story", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Fata ivyubona hamwe n\u2019ibiganiro ubonye ubwambere aho hose bishobotse.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Sigura neza ibijanye n\u2019ivyo uza gukora canke ivyushaka mugusaba ikiganiro", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Guma hamwe. Ugutekana kurafasha uwo ariko araguha ikiganiro gutekana nawe", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Nukumenya ico ushaka gukura mu kiganiro.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Baza ikibazo kimwe  kimwe.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Baza ibibazo bigoye mugabo mwibukeinyifato nziza.ikibazo kibajijwi murupfasoni gishika kure.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ukugenza neza birafasha mukukwizera bikanateza imbere ibiganiro vyawe", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Umviriza urwamo rwoba ruraho rushobora konona akanovera k\u2019inkuru yawe imbere yo gufata.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Urabe neza ko ico kintu cawe giteguye neza , kandi ntubihindure n\u2019ikindi kintu muri kadre.", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Tora ahantu heza kugira ufate hama fata neza kadre gushika bihere", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ntuhagarike guhema kwawe,tegura neza ifoto yawe,hema.igihe ifoto yawe igumye hamwe,tangura gufata", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ntiwinyiganyize.nimba mushaka gukora kukindi.hagarika ugufta .hindura isanamu zawe hama tangura gufta gushasha", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Mu bantu benshi, fata uri kure yabo bantu benshi kugira uronke ijwi ryiza , bwira uwo muntu akurabe mu maso", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Nimba hari umuyaga,shira camera yawe ahadashika umuyaga,canke uwuzibire n\u2019umubiri wawe canke igihome.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ntubaze ibibazo vyugaye bishobora kwishugwa n\u2019ijambo rimwe nka ego canke oya.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Gerageza ugume umuvugisha. Baza :kuberiki ?n\u2019igiki cabaye munyuma?ushatse kuvuga iki?", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Nimba ikibazo cawe kitaronse inyishu ikwiye, hindura ingene ubaza ikibazo.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Koresha ibibazo vy\u2019iyongerako nimba mukeneye inkuru nyinshi", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Mwibuke atamajwi meza yamasanamu yawe avuga igice c\u2019inkuru", 
+                    "tags": [
+                        "video", 
+                        "photo essay", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Nimba hariho umuyaga, shira camera yawe ahatari umuyaga canke ukingire micro yawe", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "abantu benshi hamwe namabarabara yuzuye bagira urwamo rwinshi.ntufatire amajwi y\u2019ibiganiro imbere y\u2019abantu benshi canke mu mabarabara yuzuye", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ibimashine bigira urwamo rwinshi. Bizimye nimba bishoboka canke hindura ikibanza bishobotse.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Fata uwo muntu wawe hamwe n\u2019isoko ry\u2019umuco bitumbereye kuri we.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Nimba isoko ry\u2019umuco riva inyuma y\u2019ico kintu,ico kintu kizoba kitaboneka canke kigoye kubona.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Nimba mushobora kumva isoko ry\u2019umuco inyuma yizosi ryawe ku munsi haka izuba.muzoronka umuco ubereye", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Umuco mukeya utuma ufata amafoto atameze neza.gufata amafoto hanze canke ahantu hashika izuba kugira uronke umuco mwinshi.", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Imico iri ku metero zishika 3 kure y\u2019uwo muntu zirahenda", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "interview", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Mwisanamu,ijwi n\u2019igice c\u2019inkuru,wame uvyibuka iyo uriko urafata amasanamu.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Inkuru iyariyo yose ifise ikibazo gihambaye.n\u2019ikihe kibazo wishuye mu mpera y\u2019inkuru yawe?", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "video", 
+                        "after"
+                    ]
+                }, 
+                {
+                    "text": "Ikintu gihambaye ni inyishu y\u2019iyo ngorane ituma n\u2019uwumviriza aguma yumviriza.ntumuhebere hakiri kare.", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ikintu gikenewe n\u2019inyishu y\u2019ikibazo gikwega abakumviriza. Tubahebere hakiri kare.", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ibaze kuri clip yose :mbega ariko ambwira ikintu gishasha ?", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Urukurikirane rwiza rutegerezwa gukorwa ufatiye kumasanamu atanu akaze.ufise n\u2019izindi ni vyiza kuzongerako", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Tubwire bimwe bimwe bikenewe bijanye n\u2019iyo ngorane canke kuberiki iyo ngorane yatanguye.", 
+                    "tags": [
+                        "narration"
+                    ]
+                }, 
+                {
+                    "text": "Tubwire ingene ingorane igenda ihinduka inyishu kubikogwa vy\u2019abantu biyo nkuru.", 
+                    "tags": [
+                        "narration"
+                    ]
+                }, 
+                {
+                    "text": "Tubwire igitegekanywa kuri iyo ngorane muri kazoza", 
+                    "tags": [
+                        "narration"
+                    ]
+                }, 
+                {
+                    "text": "Tubwire ibintu bihambaye ku nkuru yivyabaye canke kuberiki ivyo bishika", 
+                    "tags": [
+                        "narration"
+                    ]
+                }, 
+                {
+                    "text": "Tubwire ingene ibintu bigenda birahinduka murivyo biriko biraba", 
+                    "tags": [
+                        "narration"
+                    ]
+                }, 
+                {
+                    "text": "Tubwire ngene ibizokurikira bizoba bimeze igihe bizoshika", 
+                    "tags": [
+                        "narration"
+                    ]
+                }
+            ], 
+            "type": "TipCollectionHeadlessCard", 
+            "id": "tip_collection"
+        }, 
+        {
+            "question": "Choose the story you want to make.", 
+            "correctRequired": 1, 
+            "type": "QuizCard", 
+            "id": "quiz_card_topic", 
+            "choices": [
+                {
+                    "text": "A Highlights Story", 
+                    "id": "t_video_highlights"
+                }, 
+                {
+                    "text": "Discussion about an Individual", 
+                    "id": "t_video_discussion_question_1"
+                }, 
+                {
+                    "text": "Discussion about a Social Issue", 
+                    "id": "t_video_discussion_question_2"
+                }, 
+                {
+                    "text": "Discussion about an Event", 
+                    "id": "t_video_discussion_question_3"
+                }, 
+                {
+                    "text": "An Event Story", 
+                    "id": "t_video_report_event"
+                }, 
+                {
+                    "text": "An Issue Story", 
+                    "id": "t_video_report_issue"
+                }, 
+                {
+                    "text": "A Day in the Life Story", 
+                    "id": "t_video_day_in_the_life"
+                }
+            ]
+        }, 
+        {
+            "header": "Igikurikira", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "More Info"
+        }, 
+        {
+            "text": "Making a great video story involves a variety of clips. These templates will guide you to get all the clips you need to tell a variety of stories.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "video_stories::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "action": "LOAD", 
+            "references": [
+                "video_stories::quiz_card_topic::choice"
+            ], 
+            "type": "HookLoaderHeadlessCard", 
+            "id": "hook_loader_card"
+        }
+    ], 
+    "storyPathTemplateFiles": {
+        "t_video_highlights": "t_video_highlights.json", 
+        "t_video_day_in_the_life": "t_video_day_in_the_life.json", 
+        "t_video_discussion_question_2": "t_video_discussion_question_2.json", 
+        "t_video_discussion_question_3": "t_video_discussion_question_3.json", 
+        "t_video_discussion_question_1": "t_video_discussion_question_1.json", 
+        "t_video_report_issue": "t_video_report_issue.json", 
+        "t_video_report_event": "t_video_report_event.json"
+    }, 
+    "classPackage": "scal.io.liger.model", 
+    "id": "video_stories", 
+    "title": "Make a Video Story"
+}

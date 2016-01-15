@@ -1,0 +1,158 @@
+{
+    "cards": [
+        {
+            "header": " Siguiente", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "Acerca de esta plantilla"
+        }, 
+        {
+            "text": "Esta plantilla le ayudar\u00e1 a capturar los mejores momentos en su historia. Los historias de destacados se estructuran menos para ilustrar un hilo narrativo claro y m\u00e1s para mostrar los momentos clave o los aspectos m\u00e1s dr\u00e1maticos del tema. En audio, las historias de destacados normalmente est\u00e1n sustentadas por la voz del narrador de la historia.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_audio_highlights::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "goals": [
+                "Grabe sonido de la comunidad de la que trata su historia."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "audio", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:25", 
+            "goals": [
+                "Presente al/a_los personaje(s) principal(es) de su historia."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "audio", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Grabe audio que aporte a la historia y su importancia."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:15", 
+            "goals": [
+                "Grabe el elemento m\u00e1s importante de la historia."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:20", 
+            "goals": [
+                "Grabe otro ejemplo que ilustre la historia."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "audio", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:13", 
+            "goals": [
+                "Grabe otro elemento importante de la historia."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "text": "Puede que quiera m\u00e1s cortes. En cada corte hay un bot\u00f3n con el aspecto de tres puntos en vertical. Este es el \\\u201cmen\u00fa de desbordamiento\\\u201d. Este bot\u00f3n le permitir\u00e1 editar sus cortes o duplicar la tarjeta.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:20", 
+            "goals": [
+                "Grabe el efecto del asunto. Muestre c\u00f3mo impacta en la comunidad."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "\u00bfSe ha hecho algo acerca del asunto? Grabe el cambio.", 
+                "Si nada ha cambiado, explique eso."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_3", 
+            "tags": [
+                "edit", 
+                "audio", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_4", 
+            "tags": [
+                "audio"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_audio_highlights", 
+    "title": "Destacados de audio"
+}

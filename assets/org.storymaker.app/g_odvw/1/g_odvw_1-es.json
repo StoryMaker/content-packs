@@ -1,0 +1,114 @@
+{
+    "cards": [
+        {
+            "level": "Introducci\u00f3n", 
+            "headline": "Entrevistar a su compa\u00f1ero.", 
+            "time": "? Minutes", 
+            "exampleMediaPath": "cover.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Cada uno con sus propios tel\u00e9fonos, primero entreviste a su compa\u00f1ero, y luego su compa\u00f1ero le entrevistar\u00e1 a usted.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "text": "Con su compa\u00f1ero, elija una de las siguientes preguntas que se formular\u00e1n entre si * \u00bfCu\u00e1l es su experiencia con el periodismo con m\u00f3vil? * \u00bfC\u00f3mo fue su trayectoria hasta el taller? * \u00bfCu\u00e1l ha sido su parte favorita del taller hasta ahora?", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Aseg\u00farese de estar suficientemente cerca para oir a su compa\u00f1ero.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "Si hay mucho ruido de fondo, busque una nueva localizaci\u00f3n.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.png", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Ejemplo de espacio de encabezamiento", 
+            "exampleMediaPath": "2.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Tenga cuidado de proporcionar el espacio de encabezamiento adecuado para su entrevista.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Recuerde, formule una pregunta a su sujeto, puede grabar varias veces si es necesario."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "Recorte pulsando sobre la imagen del corte.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
+            "text": "Seleccione la mejor respuesta de 30 segundos.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Muestre a su personaje haciendo algo relacionado con su asunto."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Muestre una localizaci\u00f3n importante para su personaje o asunto."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Si grab\u00f3 m\u00faltiples cortes en una sola tarjeta, antes de publicar borre todos menos los 3 cortes que escogi\u00f3.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6"
+        }, 
+        {
+            "text": "No se preocupe, todos los cortes se guardan en su galer\u00eda.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7"
+        }, 
+        {
+            "text": "Cuando termine de subir, vuelva a la clase.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "g_odvw_1", 
+    "title": "Entreviste a su compa\u00f1ero."
+}

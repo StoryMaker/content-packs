@@ -1,0 +1,320 @@
+{
+    "title": "Controla la Luz", 
+    "storyPathLibraryFile": "control_light_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "shoot_on_an_angle", 
+            "dependencyFile": "../5_shoot_on_an_angle/shoot_on_an_angle.json"
+        }, 
+        {
+            "dependencyId": "control_light_activity", 
+            "dependencyFile": "../6_control_light_activity/control_light_activity.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "level": "Introducci\u00f3n", 
+            "headline": "Controla la Luz", 
+            "time": "5-10 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "El control de la luz y la exposici\u00f3n apropiada es esencial para las fotograf\u00edas de tel\u00e9fonos m\u00f3viles fuertes. Las c\u00e1maras de los tel\u00e9fonos m\u00f3viles  pueden tomar fotograf\u00edas hermosas pero presentar algunos retos particulares. Esta lecci\u00f3n te ense\u00f1ar\u00e1 a controlar la luz de manera m\u00e1s eficiente.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "header": "Siguiente", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "milestone_start", 
+            "text": "COMIENZA"
+        }, 
+        {
+            "text": "Las c\u00e1maras de los tel\u00e9fonos m\u00f3viles tienen dificultades con luz de alto contraste\u2013\u2013luz de sol brillante y sombras profundas en el mismo encuadre. Tambi\u00e9n tienen dificultades con luz tenue. Aprender a resolver problemas de luz y utilizar la luz creativamente en tus fotos es clave para tomar mejores fotograf\u00edas.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Esta foto est\u00e1 borrosa porque los tel\u00e9fonos m\u00f3viles no pueden congelar los movimientos r\u00e1pidos en un d\u00eda nublado.", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Cuanto m\u00e1s r\u00e1pido se est\u00e9 moviendo su sujeto m\u00e1s probable es que salga borroso. Para obtener una imagen n\u00edtida, fotograf\u00ede a su sujeto cuando est\u00e9 quieto o movi\u00e9ndose lentamente.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Cuando sea posible, elige una locaci\u00f3n y hora del d\u00eda donde haya la m\u00e1xima luz disponible. Puedes elegir tambi\u00e9n tomar tu foto cuando el sujeto est\u00e9 quieto o movi\u00e9ndose lentamente.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Las fotos del mismo sujeto pueden cambiar dram\u00e1ticamente dependiendo de la hora del d\u00eda. Las ma\u00f1anas muy temprano o los atardeceres son los momentos m\u00e1s dram\u00e1ticos para fotografiar.", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Las c\u00e1maras de los tel\u00e9fonos m\u00f3viles tienen exposici\u00f3n de la pantalla t\u00e1ctil. Puedes cambiar los valores de la exposici\u00f3n de tu fotograf\u00eda tocando diferentes puntos en tu pantalla. NOTA: En la aplicaci\u00f3n de tu c\u00e1mara nativa esto tambi\u00e9n cambiar\u00e1 tu enfoque.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "4.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Experimenta tocando diferentes puntos en la pantalla para ver como cambia la exposici\u00f3n.", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "4.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "A veces cambiar el punto de exposici\u00f3n no es suficiente. La retroiluminaci\u00f3n no deseada es un problema com\u00fan. Evite las fuentes de luz brillante o la iluminaci\u00f3n por detr\u00e1s de su sujeto. Cambie su \u00e1ngulo o mueva al sujeto para controlar la retroiluminaci\u00f3n fuerte.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "5.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "En la foto del fondo, el fot\u00f3grafo se movi\u00f3 a la izquierda para remover la luz de fondo.", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "5.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Una vez que hayas controlado la iluminaci\u00f3n b\u00e1sica puedes comenzar a usar la luz para crear fotos fuertes.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "La Iluminaci\u00f3n Rembrandt (Rembrandt Lighting) es una t\u00e9cnica que usa la luz tenue de un lado para mejorar un retrato. Esto puede ser la luz de una ventana, por ejemplo. Esta t\u00e9cnica se llama as\u00ed por un pintor famoso.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "6.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "En la foto de la izquierda, la luz tenue de un lado crea contornos m\u00e1s favorecedores en el rostro del sujeto.\n", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "6.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Puedes hacer otras cosas creativas con la luz. Por ejemplo, para trazar siluetas saca ventaja de las luces de fondo fuertes.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "7.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "En esta foto la exposici\u00f3n est\u00e1 colocada para un fondo mucho m\u00e1s claro, creando una silueta.", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "7.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "Algunas de las configuraciones m\u00e1s avanzadas de la aplicaci\u00f3n de la c\u00e1mara de tu tel\u00e9fono m\u00f3vil resuelven problemas con la luz. La compensaci\u00f3n por exposici\u00f3n, por ejemplo.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_9", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "8.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Explora algunas de las aplicaciones m\u00e1s avanzadas en el men\u00fa de aplicaciones de tu c\u00e1mara.", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "8.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "text": "Vea m\u00e1s ejemplos", 
+            "header": "Siguiente", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_examples_start", 
+            "icon": "down"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_1.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Ejemplo 1", 
+            "references": [
+                "control_light::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_1.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_7"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Ejemplo 2", 
+            "references": [
+                "control_light::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_8"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Ejemplo 3", 
+            "references": [
+                "control_light::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_9"
+        }, 
+        {
+            "text": "Felicidades, ha aprendido los pasos b\u00e1sicos para controlar la luz en la fotograf\u00eda con m\u00f3vil. Practique sus nuevas habilidades en las actividades de debajo.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_10", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Realiza la Actividad", 
+            "link": "control_light_activity::intro_card_0", 
+            "id": "link_card_0", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Lecci\u00f3n Previa", 
+            "link": "shoot_on_an_angle::intro_card_0", 
+            "id": "link_card_1", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }
+    ], 
+    "id": "control_light"
+}

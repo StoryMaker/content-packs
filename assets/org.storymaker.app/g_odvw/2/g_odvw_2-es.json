@@ -1,0 +1,110 @@
+{
+    "cards": [
+        {
+            "level": "Producci\u00f3n", 
+            "headline": "Grabe una historia de proceso", 
+            "time": "? Minutes", 
+            "exampleMediaPath": "cover.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Usando no m\u00e1s de tres de los cortes proporcionados, grabe una historia de proceso.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "text": "Esta historia puede ser breve, su objetivo es usar tres tomas distintas para ilustrar una actividad con un principio, un desarrollo, y un final.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "Algunos ejemplos de historias de proceso que puede contar con 3 tomas son: hacer caf\u00e9, escribir una carta, hacer una maleta, hacer un sandwich.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Los cortes de lugares son buenos para establecer d\u00f3nde sucede su historia de proceso."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "Recorte cualquier clip pulsando sobre la imagen del corte.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Los cortes de personajes nos muestran qui\u00e9n est\u00e1 afectado por, o es causante del proceso."
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Los cortes de acci\u00f3n muestran la acci\u00f3n dominante en su proceso. Muestre la acci\u00f3n al completo."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Los cortes de resultados muestran el resultado de su proceso. Muestran el resultado en contexto."
+            ], 
+            "clipType": "result", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Los cortes de firma muestran un detalle muy espec\u00edfico, pueden ser el resultado o la acci\u00f3n predominante. \u00a1Ac\u00e9rquese!"
+            ], 
+            "clipType": "signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "text": "Si grab\u00f3 los cortes en m\u00e1s de tres tarjetas, antes de publicar aseg\u00farese de borrar todos menos los 3 cortes que escogi\u00f3.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
+            "text": "Al pulsar \"Ordenar\" en la siguiente tarjeta, podr\u00e1 revisar sus cortes, cuando est\u00e9 contento con ellos, pulse publicar.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "No se preocupe inmediatamente por la narraci\u00f3n, discutiremos eso m\u00e1s tarde.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6"
+        }, 
+        {
+            "text": "Cuando termine de subir, vuelva a la clase.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "g_odvw_2", 
+    "title": "Grabar una historia de proceso."
+}

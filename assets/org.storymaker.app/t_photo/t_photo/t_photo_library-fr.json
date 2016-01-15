@@ -1,0 +1,247 @@
+{
+    "cards": [
+        {
+            "tips": [
+                {
+                    "text": "Viser de 8 \u00e0 20 images dans votre \u00e9dition finale. Prendre plus de photos que vous pr\u00e9voyez \u00e0 utiliser.", 
+                    "tags": [
+                        "photo essay", 
+                        "after"
+                    ]
+                }, 
+                {
+                    "text": "Chaque nouvelle image doit contenir une nouvelle information qui avance votre histoire.", 
+                    "tags": [
+                        "photo", 
+                        "photo essay", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "M\u00eame si vous allez utiliser une seule image dans votre histoire, prenez beaucoup d'images pour choisir d'entre elles.", 
+                    "tags": [
+                        "photo", 
+                        "photo essay", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Apprendre \u00e0 se connaitre; \u00eatre conscient de vos pr\u00e9jug\u00e9s ne les laissez pas influencer la fa\u00e7on dont vous d\u00e9peignez votre histoire.", 
+                    "tags": [
+                        "ethics", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Quand vous photographier dans des situations dangereuses, ayez toujours une strat\u00e9gie de sortie.", 
+                    "tags": [
+                        "security", 
+                        "photo", 
+                        "video", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "M\u00eame si le temps est limit\u00e9, faites un plan et ne pas photographier tout ce que vous voyez.", 
+                    "tags": [
+                        "photo", 
+                        "video", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Se concentrer sur un seul sujet primaire pour raconter une histoire claire et concise.", 
+                    "tags": [
+                        "journalism", 
+                        "story", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Demandez-vous pour chaque clip: Est-ce qu'il me dit quelque chose de nouveau?", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Demandez-vous pour chaque clip: Est-ce qu'il me dit quelque chose de nouveau concernant ma question majeure?", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "S'approcher de votre sujet le plus possible.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Rappelez-vous: le spectateur ne saura pas quoi que ce soit au sujet de votre histoire que vous ne les montrez pas sur la photo.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Est-ce que votre image illustre un  contexte?", 
+                    "tags": [
+                        "photo", 
+                        "after"
+                    ]
+                }, 
+                {
+                    "text": "Penser \u00e0 la r\u00e8gle des tiers.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Faites attention aux bordures du cadrage et non pas seulement au centre de l'image.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Tout est \u00e0 propos de l'\u00e9clairage dans la bonne photographie.Utilisez-vous la lumi\u00e8re disponible le mieux que vous pouvez?", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Il suffit de changer l'angle de vue peut faire une bien meilleure photographie.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ne pas prendre seulement une photo. Prendre beaucoup. Expriment.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ne pas oublier de prendre des d\u00e9tails quand c'est possible.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Obtenez une vari\u00e9t\u00e9 d'images - des plans rapproch\u00e9s, des plans moyens et des plans larges.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "De belles images soulignent l'action et les pics dramatiques. Gardez \u00e7a \u00e0 l'esprit au moment du tournage.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Pour une s\u00e9rie, vos images doivent \u00eatre identiques le plus possible.", 
+                    "tags": [
+                        "series", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Prendre vos photos \u00e0 partir d'un angle de vue  int\u00e9ressant peut faire de meilleurs  portraits.", 
+                    "tags": [
+                        "series", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "de bonnes s\u00e9ries doivent \u00eatre cr\u00e9es \u00e0 partir de cinq images fortes. Si vous avez plus, c'est bien de les ajouter.", 
+                    "tags": [
+                        "series", 
+                        "after"
+                    ]
+                }
+            ], 
+            "type": "TipCollectionHeadlessCard", 
+            "id": "tip_collection"
+        }, 
+        {
+            "question": "What kind of story are you making?", 
+            "correctRequired": 1, 
+            "type": "QuizCard", 
+            "id": "quiz_card_topic", 
+            "choices": [
+                {
+                    "text": "An Highlights Story", 
+                    "id": "t_photo_highlights"
+                }, 
+                {
+                    "text": "A Process Story", 
+                    "id": "t_photo_process"
+                }, 
+                {
+                    "text": "Une S\u00e9rie de Portraits", 
+                    "id": "t_photo_series_character"
+                }, 
+                {
+                    "text": "A Series of Places or Buildings", 
+                    "id": "t_photo_series_place"
+                }, 
+                {
+                    "text": "Une S\u00e9rie d'Action ou d'Activit\u00e9s", 
+                    "id": "t_photo_series_action"
+                }, 
+                {
+                    "text": "Objets", 
+                    "id": "t_photo_series_signature"
+                }
+            ]
+        }, 
+        {
+            "header": "Suivant", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "Plus d'information"
+        }, 
+        {
+            "text": "A photo essay is a story told over any number of related photos. These templates will guide you to get all the photos you need to tell a variety of stories.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "video_library::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "action": "LOAD", 
+            "references": [
+                "t_photo_library::quiz_card_topic::choice"
+            ], 
+            "type": "HookLoaderHeadlessCard", 
+            "id": "hook_loader_card"
+        }
+    ], 
+    "storyPathTemplateFiles": {
+        "t_photo_series_action": "t_photo_series_action.json", 
+        "t_photo_series_character": "t_photo_series_character.json", 
+        "t_photo_series_signature": "t_photo_series_signature.json", 
+        "t_photo_process": "t_photo_process.json", 
+        "t_photo_highlights": "t_photo_highlights.json", 
+        "t_photo_series_place": "t_photo_series_place.json"
+    }, 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_photo_library", 
+    "title": "Photo Essay Stories"
+}

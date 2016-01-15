@@ -1,0 +1,242 @@
+{
+    "title": "Fotograf\u00eda en \u00c1ngulo", 
+    "storyPathLibraryFile": "shoot_on_an_angle_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action", 
+            "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
+        }, 
+        {
+            "dependencyId": "shoot_on_an_angle_activity", 
+            "dependencyFile": "../5_shoot_on_an_angle_activity/shoot_on_an_angle_activity.json"
+        }, 
+        {
+            "dependencyId": "control_light", 
+            "dependencyFile": "../6_control_light/control_light.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "level": "Introducci\u00f3n", 
+            "headline": "Fotograf\u00eda en \u00c1ngulo", 
+            "time": "3-5 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "A menudo los fot\u00f3grafos simplemente se colocan frente a su sujeto y toman la foto. Esta lecci\u00f3n demostrar\u00e1 c\u00f3mo cambiar tu \u00e1ngulo para tomar fotos m\u00e1s cautivadoras.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "header": "Siguiente", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "milestone_start", 
+            "text": "COMIENZA"
+        }, 
+        {
+            "text": "Para hacer fotos con m\u00e1s fuerza escoja \u00e1ngulos interesantes desde los que fotografiar a su sujeto.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Fotografiar desde un \u00e1ngulo bajo hace que el sujeto parezca m\u00e1s poderoso.", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Explore una gama de \u00e1ngulos al fotografiar un personaje o lugar. Un \u00e1ngulo alto tiene un efecto muy diferente que un \u00e1ngulo bajo.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Un \u00e1ngulo elevado ligeramente te ayudar\u00e1 a proveer informaci\u00f3n sobre la escena.", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Un \u00e1ngulo inusual pude ayudarle a enfatizar un elemento particula de su historia.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "4.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Esta imagen enfatiza el pedazo de queso, ilustrando la historia m\u00e1s dram\u00e1ticamente.", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "4.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Un \u00e1ngulo muy alto puede ayudar a capturar una escena entera en una sola imagen.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "5.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Los \u00e1ngulos \u00fanicos pueden ayudarte a presentar la historia de una manera interesante y creativa.", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "5.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Vea m\u00e1s ejemplos", 
+            "header": "Siguiente", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_examples_start", 
+            "icon": "down"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_1.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Ejemplo 1", 
+            "references": [
+                "shoot_on_an_angle::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_1.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Ejemplo 2", 
+            "references": [
+                "shoot_on_an_angle::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Ejemplo 3", 
+            "references": [
+                "shoot_on_an_angle::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "text": "Felicidades, has aprendido los pasos b\u00e1sicos para tomar fotos en un \u00e1ngulo. Practica tus nuevas habilidades en la actividad de abajo.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Realiza la Actividad", 
+            "link": "shoot_on_an_angle_activity::intro_card_0", 
+            "id": "link_card_0", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Pr\u00f3xima Lecci\u00f3n", 
+            "link": "control_light::intro_card_0", 
+            "id": "link_card_1", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Lecci\u00f3n Previa", 
+            "link": "capture_peak_action::intro_card_0", 
+            "id": "link_card_2", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }
+    ], 
+    "id": "shoot_on_an_angle"
+}

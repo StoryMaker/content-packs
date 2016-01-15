@@ -1,0 +1,79 @@
+{
+    "title": "Fotograf\u00eda en \u00c1ngulo | Actividad", 
+    "storyPathLibraryFile": "shoot_on_an_angle_activity_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action", 
+            "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
+        }, 
+        {
+            "dependencyId": "shoot_on_an_angle", 
+            "dependencyFile": "../5_shoot_on_an_angle/shoot_on_an_angle.json"
+        }, 
+        {
+            "dependencyId": "control_light", 
+            "dependencyFile": "../6_control_light/control_light.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "level": "Introducci\u00f3n", 
+            "headline": "Fotograf\u00eda en \u00c1ngulo | Actividad", 
+            "time": "10 Minutes", 
+            "exampleMediaPath": "1.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Regresar a la Lecci\u00f3n", 
+            "link": "shoot_on_an_angle::intro_card_0", 
+            "id": "link_card_0", 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Ahora que has terminado la lecci\u00f3n sobre c\u00f3mo fotografiar en \u00e1ngulo, esta lecci\u00f3n te ayudar\u00e1 a practicar. Intenta utilizar una variedad de \u00e1ngulos, con diferentes sujetos.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:20", 
+            "goals": [
+                "Pruebe \u00e1ngulos \u00fanicos, no s\u00f3lo altos y bajos."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "general"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Pr\u00f3xima Lecci\u00f3n", 
+            "link": "control_light::intro_card_0", 
+            "id": "link_card_1", 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Lecci\u00f3n Previa", 
+            "link": "capture_peak_action::intro_card_0", 
+            "id": "link_card_2", 
+            "type": "LinkCard"
+        }
+    ], 
+    "id": "shoot_on_an_angle_activity"
+}

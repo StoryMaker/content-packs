@@ -1,0 +1,206 @@
+{
+    "cards": [
+        {
+            "header": "Suivant", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "A propos de ce mod\u00e8le"
+        }, 
+        {
+            "text": "Ce mod\u00e8le vous aidera \u00e0 rapporter sur une question sociale qui est important pour votre communaut\u00e9 . En vid\u00e9o, les bulletins de nouvelles sont g\u00e9n\u00e9ralement port\u00e9s par la narration . Les clips ont sugg\u00e9r\u00e9 de couvrir les plans primaires dont vous aurez besoin pour identifier et d\u00e9crire le probl\u00e8me . Sentez-vous libre pour passer des coups , ou utiliser diff\u00e9rents plans si n\u00e9cessaire. En outre , d'adapter les questions propos\u00e9es pour r\u00e9pondre \u00e0 vos besoins .", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_news_issue_video::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "video", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:12", 
+            "goals": [
+                "Montrer o\u00f9 s'est produit le probl\u00e8me."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "Montrer quelque chose qui introduit le probl\u00e8me."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:12", 
+            "goals": [
+                "Pr\u00e9senter le probl\u00e8me."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "Poser la question: Comment le probl\u00e8me affecte les individus ou la communaut\u00e9?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "Montrer comment le probl\u00e8me affecte les gens."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:14", 
+            "goals": [
+                "Montrer quelque chose d'important \u00e0 propos le probl\u00e8me."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "Demander \u00e0 un expert: Comment peuvent les autres aider pour r\u00e9soudre ce probl\u00e8me?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "Montrer o\u00f9 travaille l'expert"
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:15", 
+            "goals": [
+                "Montrer que font les gens \u00e0 propos le probl\u00e8me."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "Demander \u00e0 une source d'information: Quand le probl\u00e8me s'est commenc\u00e9 au d\u00e9but?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_9"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:15", 
+            "goals": [
+                "Montrer le personnage en interaction avec ceux qui sont affect\u00e9s"
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_10"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "Demander \u00e0 quelqu'un affect\u00e9: Que voudriez-vous voir se produire concernant le probl\u00e8me?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_11"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Poser la question: Qu'est ce qu'on a fait \u00e0 propos de ce probl\u00e8me?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_12"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "Montrer comment votre personnage r\u00e9sout le probl\u00e8me."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_13"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "Montrer le r\u00e9sultat de ce que les gens sont en train de faire \u00e0 propos du probl\u00e8me."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_14"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "edit", 
+                "video", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "narration"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_news_issue_video", 
+    "title": "Issue Video Report"
+}

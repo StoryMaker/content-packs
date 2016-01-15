@@ -1,0 +1,697 @@
+{
+    "cards": [
+        {
+            "tips": [
+                {
+                    "text": "Apprendre \u00e0 se connaitre; \u00eatre conscient de vos pr\u00e9jug\u00e9s ne les laissez pas influencer la fa\u00e7on dont vous d\u00e9peignez votre histoire.", 
+                    "tags": [
+                        "ethics", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Quand vous photographier dans des situations dangereuses, ayez toujours une strat\u00e9gie de sortie.", 
+                    "tags": [
+                        "security", 
+                        "photo", 
+                        "video", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Faire quelques recherche avant l'interview si possible. Vous allez poser de meilleures questions plus pertinentes.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio"
+                    ]
+                }, 
+                {
+                    "text": "Avoir une explication d'une seule phrase de votre histoire pour vos personnages.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Garder les questions sensibles pour la fin.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Donner la priorit\u00e9 \u00e0 vos questions et identifier la partie d'information essentielle que vous en avez besoin.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Pendant l'interview, amener le plus rapidement la question essentielle.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Dans votre interview, n'oubliez pas d'\u00eatre s\u00e9v\u00e8res mais justes.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Votre histoire sera beaucoup plus int\u00e9ressante si vous interviewez des personnes avec des points de vues opposantes.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Terminer l'interview en demandant, \" y'a t - il une autre chose que vous voulez ajouter?\"", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Les captures bien compos\u00e9es disposent d'un espace dans le sens vers lequel le sujet fait face ou se d\u00e9place.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\"La taille d'un objet dans le cadre doit \u00eatre \u00e9gale \u00e0 son importance \u00e0 cet instant.\" -Alfred Hitchcock", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Assurez vous que l'essentiel des images compose au moins 50% du cadrage.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Combiner des clips de diff\u00e9rentes tailles ou types pour cr\u00e9er une s\u00e9quence compl\u00e9mentaire.", 
+                    "tags": [
+                        "video", 
+                        "after"
+                    ]
+                }, 
+                {
+                    "text": "Ne pas arr\u00eater l'enregistrement jusqu'\u00e0 ce que l'action dans votre prise est termin\u00e9e.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Commencer le tournage avant que l'action commence et ne pas arr\u00eater l'enregistrement jusqu'apr\u00e8s son fin.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ne placez pas votre sujet au centre de l'image, utilisez la r\u00e8gle des tiers.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\"Si votre image est pas assez bon, vous n'\u00eates pas assez pr\u00e8s.\" - Robert Capa", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Enregistrer plus de 15 secondes. Si le clip est trop long, \u00e0 d\u00e9couper.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Toujours mettre \u00e0 jour l'\u00e9quilibre du blanc quand vous changer de situation d'\u00e9clairage.", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Pour filmer une s\u00e9quence, les \u00e9l\u00e9ments de l'histoire doivent \u00eatre d\u00e9coup\u00e9s en plans individuels", 
+                    "tags": [
+                        "video", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Prendre de diff\u00e9rentes tailles de plans pour cr\u00e9er une s\u00e9quence efficace.", 
+                    "tags": [
+                        "video", 
+                        "photo essay", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Le son clair et int\u00e9ressant peut donner une bonne id\u00e9e dans l'esprit de quiconque qui \u00e9coute .", 
+                    "tags": [
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Appuyer sur \"enregistrer\" avant de poser la question afin d'enregistrer quelques secondes de silence avant la prise de parole.", 
+                    "tags": [
+                        "audio", 
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "V\u00e9rifier le niveau d'audio en utilisant les \u00e9couteurs avant de commencer l'enregistrement.", 
+                    "tags": [
+                        "audio", 
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Utiliser des sources multiples d'audio pour raconter votre histoire.", 
+                    "tags": [
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Trouver des sons et des citations qui aident \u00e0 raconter votre histoire.", 
+                    "tags": [
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Utiliser votre propre voix le minimum possible. Raconter votre histoire \u00e0 travers les voix des autres.", 
+                    "tags": [
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Penser \u00e0 l'audience que vous voulez atteindre lors de choisir quel sujet et le format \u00e0 utiliser.", 
+                    "tags": [
+                        "journalism", 
+                        "story", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "M\u00eame si le temps est limit\u00e9, faites un plan et ne pas enregistrer tout ce que vous \u00e9coutez.", 
+                    "tags": [
+                        "audio", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "M\u00eame si le temps est limit\u00e9, faites un plan et ne pas photographier tout ce que vous voyez.", 
+                    "tags": [
+                        "photo", 
+                        "video", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Lors de l'enregistrement d'un interview, pr\u00e9parer au moins 15 questions", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Se concentrer sur un seul sujet primaire pour raconter une histoire claire et concise.", 
+                    "tags": [
+                        "journalism", 
+                        "story", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Enregistrer des observations et des entretiens de premi\u00e8re main chaque fois que possible.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Etre clair \u00e0 propos de votre sujet ou bien votre but lors de demander un interview.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Restez Calme. La D\u00e9tente aidera le sujet de l'interview de se d\u00e9tendre aussi.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "toujours savoir ce que vous voulez tirer de l'interview.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Poser seulement une question \u00e0 la fois.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Posez des questions difficiles, mais rappelez-vous d'\u00eatre poli. Une demande polie ira un long chemin.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "La courtoisie peut aider \u00e0 \u00e9tablir la confiance et am\u00e9liorer vos interviews", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Ecouter le bruit de l'arri\u00e8re plan qui peut endommager la qualit\u00e9 de votre histoire avant de cliquer sur Enregistrer.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Lors de la pr\u00e9paration d'enregistrement, tenez votre appareil d'une mani\u00e8re naturelle et confortable.", 
+                    "tags": [
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Tenez votre appareil proche de votre sujet, juste au dessous de la bouche.", 
+                    "tags": [
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Etre s\u00fbr que votre sujet est mis au point et n'est pas d\u00e9form\u00e9 par quelque chose dans le cadre.", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "D\u00e9cidez le meilleur endroit pour enregistrer et tenez votre cadre en place jusqu'\u00e0 la fin.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ne retenez pas votre souffle, r\u00e9glez votre photo, et  respirez. Lorsque votre photo est stable, commencez l'enregistrement", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ne pas bouger. Si vous voulez un nouvel angle, arr\u00eatez l'enregistrement. Changez votre image, et enregistrer de nouveau .", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Dans une foule, Enregistrer loin de la foule pour une bonne qualit\u00e9 de son, demander \u00e0 votre sujet de vous faire face.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Si il y'a du vent, pointez votre cam\u00e9ra l'abri du vent, ou de le bloquer avec votre corps ou un mur.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ne pas poser des questions 'ferm\u00e9es'qui peuvent \u00eatre r\u00e9pondues par un seul mot comme 'oui' ou 'non'.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Garder la conversation en mouvement. Demander : Pourquoi? Que s'est il pass\u00e9 apr\u00e8s? Que voulez-vous dire?", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "En cas de r\u00e9ponse insatisfaisante \u00e0 votre question, changez votre approche.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Utiliser des questions compl\u00e9mentaires si vous avez besoin de plus d'information.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Souvenez-vous, sans un bon son de vos images ne disent pas la moiti\u00e9 de l'histoire", 
+                    "tags": [
+                        "video", 
+                        "photo essay", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Si il y'a du vent, pointez votre cam\u00e9ra l'abri du vent, ou bien prot\u00e9ger votre microphone.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "les foules et les rues charg\u00e9es font beaucoup de bruit. Ne pas enregistrer les interviews devant des foules ou bien dans des rues charg\u00e9es", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Les machines font beaucoup de bruit, fermez les si possible ou bien changez votre endroit si vous pouvez.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Enregistrez votre sujet avec la source de lumi\u00e8re directement sur lui.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Si la source de lumi\u00e8re est directement derri\u00e8re votre sujet; ce dernier sera sombre et difficile \u00e0 voir. ", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Si vous pouvez sentir la source du lumi\u00e8re \u00e0 l'arri\u00e8re de votre cou dans une journ\u00e9e ensoleill\u00e9e, vous aurez le meilleur \u00e9clairage dans cette situation.", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Une lumi\u00e8re faible produit de faibles prises. Prendre des photos \u00e0 l'ext\u00e9rieur ou bien dans une pi\u00e8ce ensoleill\u00e9e peut vous donner une grande lumi\u00e8re.", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Les lumi\u00e8res d'environ 3 pieds de loin de votre personnage sont les plus flatteuses.", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "interview", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Dans une vid\u00e9o, le son est la moiti\u00e9 de l'information, consid\u00e9rer cela dans chaque prise.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Chaque histoire a une question importante. Quelle est la question que vous avez r\u00e9pondu \u00e0 la fin de votre article?", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "video", 
+                        "after"
+                    ]
+                }, 
+                {
+                    "text": "Un point culminant c'est la r\u00e9ponse de la question qui laisse l'auditeur \u00e9couter. Ne pas le c\u00e9der trop t\u00f4t.", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Un point culminant c'est la r\u00e9ponse de la question qui attire l'attention du spectateur. Ne pas la c\u00e9der trop t\u00f4t.", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Demandez-vous pour chaque clip: Est-ce qu'il me dit quelque chose de nouveau?", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "de bonnes s\u00e9ries doivent \u00eatre cr\u00e9es \u00e0 partir de cinq images fortes. Si vous avez plus, c'est bien de les ajouter.", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Racontez nous quelques faits interessants li\u00e9s au probl\u00e8me dans l'histoire ou, pourquoi il a commenc\u00e9.", 
+                    "tags": [
+                        "narration"
+                    ]
+                }, 
+                {
+                    "text": "Dites-nous comment le probl\u00e8me est en train de changer en r\u00e9ponse aux actions des personnages de l'histoire.", 
+                    "tags": [
+                        "narration"
+                    ]
+                }, 
+                {
+                    "text": "Dites-nous ce qui est pr\u00e9vu pour le probl\u00e8me dans le futur.", 
+                    "tags": [
+                        "narration"
+                    ]
+                }, 
+                {
+                    "text": "Dites-nous quelques faits int\u00e9ressants sur l'histoire de l'\u00e9v\u00e9nement ou pourquoi cela arrive.", 
+                    "tags": [
+                        "narration"
+                    ]
+                }, 
+                {
+                    "text": "Dites-nous comment l'\u00e9v\u00e9nement change en progressant.", 
+                    "tags": [
+                        "narration"
+                    ]
+                }, 
+                {
+                    "text": "Dites-nous ce qui est pr\u00e9vu pour l'\u00e9v\u00e9nement la prochaine fois que \u00e7a arrive.", 
+                    "tags": [
+                        "narration"
+                    ]
+                }
+            ], 
+            "type": "TipCollectionHeadlessCard", 
+            "id": "tip_collection"
+        }, 
+        {
+            "question": "Quelle est votre histoire?", 
+            "correctRequired": 1, 
+            "type": "QuizCard", 
+            "id": "quiz_card_topic", 
+            "choices": [
+                {
+                    "text": "fash infos", 
+                    "id": "t_news_breaking"
+                }, 
+                {
+                    "text": "Un \u00e9v\u00e9nement", 
+                    "id": "t_news_event"
+                }, 
+                {
+                    "text": "A Social Issue", 
+                    "id": "t_news_issue"
+                }, 
+                {
+                    "text": "Une personne", 
+                    "id": "t_news_profile"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Choisissez un m\u00e9dia.", 
+            "choices": [
+                {
+                    "text": "Audio", 
+                    "id": "audio", 
+                    "filters_or": [
+                        "t_news_library::quiz_card_topic::choice::t_news_breaking", 
+                        "t_news_library::quiz_card_topic::choice::t_news_event", 
+                        "t_news_library::quiz_card_topic::choice::t_news_issue", 
+                        "t_news_library::quiz_card_topic::choice::t_news_profile"
+                    ]
+                }, 
+                {
+                    "text": "Vid\u00e9o", 
+                    "id": "video", 
+                    "filters_or": [
+                        "t_news_library::quiz_card_topic::choice::t_breaking_news", 
+                        "t_news_library::quiz_card_topic::choice::t_news_event", 
+                        "t_news_library::quiz_card_topic::choice::t_news_issue", 
+                        "t_news_library::quiz_card_topic::choice::t_news_profile"
+                    ]
+                }
+            ], 
+            "references": [
+                "t_news_library::quiz_card_topic::choice"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_medium"
+        }, 
+        {
+            "header": "Suivant", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "Plus d'information"
+        }, 
+        {
+            "text": "News Reports are driven by the reporter, most often using their own voice. In this kind of story the reporter takes us on a journey through the issue, either talking on camera or with a voice over. In the best narrated stories the reporter does more than just explain the story. The reporter creates drama through how he or she organizes and narrates the material. Reports can be audio or video stories.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_news_library::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "action": "LOAD", 
+            "references": [
+                "t_news_library::quiz_card_topic::choice", 
+                "t_news_library::quiz_card_medium::choice"
+            ], 
+            "type": "HookLoaderHeadlessCard", 
+            "id": "hook_loader_card"
+        }
+    ], 
+    "storyPathTemplateFiles": {
+        "t_news_profile_video": "t_news_profile_video.json", 
+        "t_news_profile_audio": "t_news_profile_audio.json", 
+        "t_news_event_audio": "t_news_event_audio.json", 
+        "t_news_issue_video": "t_news_issue_video.json", 
+        "t_news_breaking_video": "t_news_breaking_video.json", 
+        "t_news_breaking_audio": "t_news_breaking_audio.json", 
+        "t_news_event_video": "t_news_event_video.json", 
+        "t_news_issue_audio": "t_news_issue_audio.json"
+    }, 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_news_library", 
+    "title": "News Report Story"
+}

@@ -1,0 +1,69 @@
+{
+    "title": "Control Light Activity", 
+    "storyPathLibraryFile": "control_light_activity_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "control_light", 
+            "dependencyFile": "../6_control_light/control_light.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "level": "Introduction |", 
+            "headline": "Control Light | Activity", 
+            "time": "10 Minutes", 
+            "exampleMediaPath": "1.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Retour \u00e0 la le\u00e7on", 
+            "link": "control_light::intro_card_0", 
+            "id": "link_card_0", 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Now that you've finished the lesson on controlling light, this lesson will help you practice.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:05", 
+            "goals": [
+                "Practice controlling light by changing your angle or your exposure."
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "general"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Congratulations on completing Mobile Photo Basics! Don't forget to share your photos with the StoryMaker community by tagging them #StoryMaker", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "You can return home by hitting the back button next to the StoryMaker icon at the top of your screen.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }
+    ], 
+    "id": "control_light_activity"
+}

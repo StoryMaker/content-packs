@@ -1,0 +1,69 @@
+{
+    "title": "Crear Capas Actividad", 
+    "storyPathTemplateFiles": {
+        "create_layers_activity": "create_layers_activity.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../3_create_layers/create_layers.json"
+        }, 
+        {
+            "dependencyId": "create_layers_activity", 
+            "dependencyFile": "create_layers_activity.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action", 
+            "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "tips": [
+                {
+                    "text": "Sugerencia: Aseg\u00farese de que los objetos en primer plano no est\u00e9n demasiado cerca, a menos que los quiera fuera de enfoque.", 
+                    "tags": [
+                        "layers"
+                    ]
+                }, 
+                {
+                    "text": "Sugerencia: Los sujetos al fondo no deben quedar demasiado peque\u00f1os o puede perderse su importancia", 
+                    "tags": [
+                        "layers"
+                    ]
+                }, 
+                {
+                    "text": "Sugerencia: Cuando fotograf\u00ede muchos personajes u objetos, sit\u00fae uno en el fondo para crear una sensaci\u00f3n de profundidad.", 
+                    "tags": [
+                        "layers"
+                    ]
+                }, 
+                {
+                    "text": "Sugerencia: Los objetos al fondo que causen distracci\u00f3n pueden arruinar un primer plano bien encuadrado.", 
+                    "tags": [
+                        "layers"
+                    ]
+                }
+            ], 
+            "type": "TipCollectionHeadlessCard", 
+            "id": "tip_collection"
+        }, 
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "create_layers_activity"
+        }
+    ], 
+    "currentStoryPathFile": "create_layers_activity.json", 
+    "id": "create_layers_activity"
+}

@@ -1,0 +1,162 @@
+{
+    "cards": [
+        {
+            "header": "Siguiente", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "Acerca de esta plantilla"
+        }, 
+        {
+            "text": "Los debates se enmarcan en torno a formular a muchas personas la misma pregunta. Esta plantilla investiga lo que se puede hacer acerca de un asunto espec\u00edfico. Los debates funcionan bien para investigar asuntos con una fuerte significancia social o cultural. T\u00f3mese la libertad de usar preguntas alternativas si cree que pueden funcionar mejor para usted.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_video_discussion_question_2::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "video", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "Mu\u00e9strenos algo que sirva de presentaci\u00f3n al asunto."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:08", 
+            "goals": [
+                "Muestre donde se ve afectada la gente por el asunto."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "\u00bfQu\u00e9 cree que se debe hacer acerca del asunto?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "text": "Talk to different people for each clip to give your story a range of voices. You may want to substitute the name of the event you are focused on where you see \\\u201cthe event.\\\u201d", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "\u00bfQu\u00e9 cree que se debe hacer acerca del asunto?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "interview", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "\u00bfQu\u00e9 cree que se debe hacer acerca del asunto?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "text": "Si obtiene una mala respuesta, es inteligente intentarlo otra vez con un nuevo corte de v\u00eddeo.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "\u00bfQu\u00e9 cree que se debe hacer acerca del asunto?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:12", 
+            "goals": [
+                "Muestre un lugar importante para el asunto."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "\u00bfQu\u00e9 cree que se debe hacer acerca del asunto?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:12", 
+            "goals": [
+                "Muestre donde ocurre el asunto."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "edit", 
+                "video", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "\u00bfLe ofrece su historia buenas ideas acerca de c\u00f3mo manejar el asunto?", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_video_discussion_question_2", 
+    "title": "\u00bfQu\u00e9 se debe hacer?"
+}

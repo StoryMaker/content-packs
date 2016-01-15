@@ -1,0 +1,84 @@
+{
+    "cards": [
+        {
+            "level": "Conclusi\u00f3n", 
+            "headline": "\u00bfC\u00faal es la cosa m\u00e1s importante que ha aprendido?", 
+            "time": "? Minutes", 
+            "exampleMediaPath": "cover.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Cada uno con sus propios tel\u00e9fonos, primero entreviste a su compa\u00f1ero, y luego su compa\u00f1ero le entrevistar\u00e1 a usted.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "text": "Pregunte a su compa\u00f1ero, \"\u00bfCu\u00e1l es la cosa m\u00e1s importante que ha aprendido acerca de la elaboraci\u00f3n de v\u00eddeos?", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "Aseg\u00farese de estar suficientemente cerca para oir a su compa\u00f1ero.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "text": "Si hay mucho ruido de fondo, busque una nueva localizaci\u00f3n.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.png", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Ejemplo de espacio de encabezamiento", 
+            "exampleMediaPath": "2.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Recuerde proporcionar el espacio de encabezamiento adecuado para su entrevista.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Pregunta: \u00bfCu\u00e1l es la cosa m\u00e1s importante que ha aprendido acerca de la elaboraci\u00f3n de v\u00eddeos?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "Recorte pulsando sobre la imagen del corte.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Si grab\u00f3 m\u00faltiples cortes, antes de publicar borre todos menos el corte que escogi\u00f3.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6"
+        }, 
+        {
+            "text": "No se preocupe, todos los cortes se guardan en su galer\u00eda.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "g_odvw_4", 
+    "title": "\u00bfC\u00faal es la cosa m\u00e1s importante que ha aprendido?"
+}

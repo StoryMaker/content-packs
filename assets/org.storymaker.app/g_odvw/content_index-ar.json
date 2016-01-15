@@ -3,19 +3,19 @@
     "instanceFilePath": "org.storymaker.app/g_odvw/0/g_odvw_0_library.json", 
     "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
     "language": "ar", 
-    "title": "What do you hope to learn?"
+    "title": "\u0645\u0627\u0630\u0627 \u062a\u0631\u064a\u062f \u0623\u0646 \u062a\u062a\u0639\u0644\u0645 \u0641\u064a\u0645\u0627 \u064a\u062e\u0635 \u0635\u0646\u0627\u0639\u0629 \u0627\u0644\u0641\u064a\u062f\u064a\u0648\u0647\u0627\u062a \u061f"
   }, 
   {
     "instanceFilePath": "org.storymaker.app/g_odvw/1/g_odvw_1_library.json", 
     "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
     "language": "ar", 
-    "title": "Interview your partner."
+    "title": "\u062d\u0627\u0648\u0631 \u0634\u0631\u064a\u0643\u0643"
   }, 
   {
     "instanceFilePath": "org.storymaker.app/g_odvw/2/g_odvw_2_library.json", 
     "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
     "language": "ar", 
-    "title": "Shoot a Process Story."
+    "title": "\u062a\u0635\u0648\u064a\u0631 \u0642\u0635\u0629 \u0639\u0646 \u0633\u064a\u0631 \u0639\u0645\u0644\u064a\u0629."
   }, 
   {
     "instanceFilePath": "org.storymaker.app/g_odvw/3/g_odvw_3_library.json", 
@@ -27,6 +27,6 @@
     "instanceFilePath": "org.storymaker.app/g_odvw/4/g_odvw_4_library.json", 
     "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
     "language": "ar", 
-    "title": "What\u2019s the most important thing you learned?"
+    "title": "\u0645\u0627\u0647\u0648 \u0623\u0647\u0645 \u0634\u064a\u0621 \u062a\u0639\u0644\u0651\u0645\u062a\u0647\u061f"
   }
 ]

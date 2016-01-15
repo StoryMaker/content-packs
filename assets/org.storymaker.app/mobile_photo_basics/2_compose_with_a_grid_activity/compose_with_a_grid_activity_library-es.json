@@ -1,0 +1,67 @@
+{
+    "title": "Componer con una cuadr\u00edcula | Actividad", 
+    "storyPathTemplateFiles": {
+        "compose_with_a_grid_activity": "compose_with_a_grid_activity.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../3_create_layers/create_layers.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "tips": [
+                {
+                    "text": "Tip: Permite que diferentes temas importantes se completen en el interior del encuadre.", 
+                    "tags": [
+                        "grid"
+                    ]
+                }, 
+                {
+                    "text": "Tip: No cortes manos o caras con el borde del encuadre, si es posible.", 
+                    "tags": [
+                        "grid"
+                    ]
+                }, 
+                {
+                    "text": "Tip: Usa todo el encuadre para contar tu historia. No solo el centro.", 
+                    "tags": [
+                        "grid"
+                    ]
+                }, 
+                {
+                    "text": "Tip: El horizonte puede ser colocado en la l\u00ednea de la cuadr\u00edcula horizontal de arriba o abajo.", 
+                    "tags": [
+                        "grid"
+                    ]
+                }, 
+                {
+                    "text": "Tip: No recortes la imagen muy ajustada, acercate, pero captura todo el sujeto.", 
+                    "tags": [
+                        "grid"
+                    ]
+                }
+            ], 
+            "type": "TipCollectionHeadlessCard", 
+            "id": "tip_collection"
+        }, 
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "compose_with_a_grid_activity"
+        }
+    ], 
+    "currentStoryPathFile": "compose_with_a_grid_activity.json", 
+    "id": "compose_with_a_grid_activity"
+}

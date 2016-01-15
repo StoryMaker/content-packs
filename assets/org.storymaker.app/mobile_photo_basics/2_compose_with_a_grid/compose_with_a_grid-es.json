@@ -1,0 +1,325 @@
+{
+    "title": "Componer con una Cudar\u00edcula", 
+    "storyPathLibraryFile": "compose_with_a_grid_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "know_your_mobile", 
+            "dependencyFile": "../1_know_your_mobile/know_your_mobile.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid_activity", 
+            "dependencyFile": "../2_compose_with_a_grid_activity/compose_with_a_grid_activity.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../3_create_layers/create_layers.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "level": "Introducci\u00f3n", 
+            "headline": "Componer con una Cudar\u00edcula", 
+            "time": "3-5 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Usar una cuadr\u00edcula para componer fotos es el concepto m\u00e1s b\u00e1sico que un fot\u00f3grafo necesita comprender. Esta lecci\u00f3n le ense\u00f1ar\u00e1 a mirar a su foto como una cuadr\u00edcula.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "header": "Siguiente", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "milestone_start", 
+            "text": "COMIENZA"
+        }, 
+        {
+            "text": "Piensa en tu foto como si estuviera hecha de nueve rect\u00e1ngulos iguales. Los visuales fuertes utilizan todos los rect\u00e1ngulos de la cuadr\u00edcula para contar una historia.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Situar la cuadr\u00edcula en esta foto divide una im\u00e1gen en nueve rect\u00e1ngulos iguales.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "La mayor\u00eda de smartphones le permiten mostrar una cuadr\u00edcula en la aplicaci\u00f3n de su c\u00e1mara. Use la cuadr\u00edcula cuando realice la actividad.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "No solo coloques a tu sujeto en medio sin pensar en el resto de la cuadr\u00edcula.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Esta cuadr\u00edcula est\u00e1 pensada para hacer algo m\u00e1s que centrar sus fotos. Echemos un vistazo a c\u00f3mo las l\u00edneas de la cuadr\u00edcula nos ayudan a componer mejor las fotos.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "4.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Esta l\u00ednea define el tercio del fondo del encuadre.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "4.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Si la foto es un paisaje, esta l\u00ednea siempre se usa para establecer el horizonte en una cuadr\u00edcula.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "5.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Esta l\u00ednea define el tercio superior del encuadre.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "5.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Si la foto es un retrato, los ojos del sujeto normalmente se sit\u00faan en la l\u00ednea horizontal superior. Cuanto m\u00e1s practique esto puede que encuentre que a veces la l\u00ednea del fondo funciona mejor.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "6.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Esta cuadr\u00edcula le permite organizar im\u00e1genes complejas en un s\u00f3lo encuadre.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "6.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Para usar una cuadr\u00edcula de manera m\u00e1s efectiva, las l\u00edneas verticales y horizontales deber\u00edan trabajar juntas para definir el encuadre.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Claramente define los bordes de tu encuadre. Intenta tener las figuras importantes completas dentro del encuadre.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "7.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "En esta foto los elementos importantes se completan dentro del encuadre.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "7.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "Recuerde rellenar el encuadre por completo con informaci\u00f3n visual. Use la cuadr\u00edcula para organizar esa informaci\u00f3n y crear fotos m\u00e1s convincentes.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Aqu\u00ed la cuadr\u00edcula organiza la informaci\u00f3n visual de una forma convincente.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "1.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "text": "Vea m\u00e1s ejemplos", 
+            "header": "Siguiente", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_examples_start", 
+            "icon": "down"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_1.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Ejemplo 1", 
+            "references": [
+                "compose_with_a_grid::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_1.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_7"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Ejemplo 2", 
+            "references": [
+                "compose_with_a_grid::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_8"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Ejemplo 3", 
+            "references": [
+                "compose_with_a_grid::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_9"
+        }, 
+        {
+            "text": "Felicidades, has aprendido los pasos m\u00e1s b\u00e1sicos para componer fotos con una cuadr\u00edcula. Practica tu nueva habilidad con la actividad de abajo.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_9", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Realiza la Actividad", 
+            "link": "compose_with_a_grid_activity::intro_card_0", 
+            "id": "link_card_0", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Pr\u00f3xima Lecci\u00f3n", 
+            "link": "create_layers::intro_card_0", 
+            "id": "link_card_1", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Lecci\u00f3n Previa", 
+            "link": "know_your_mobile::intro_card_0", 
+            "id": "link_card_2", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }
+    ], 
+    "id": "compose_with_a_grid"
+}

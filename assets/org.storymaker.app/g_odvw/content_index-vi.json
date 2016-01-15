@@ -3,7 +3,7 @@
     "instanceFilePath": "org.storymaker.app/g_odvw/0/g_odvw_0_library.json", 
     "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
     "language": "vi", 
-    "title": "What do you hope to learn?"
+    "title": "\u0110i\u1ec1u g\u00ec b\u1ea1n hi v\u1ecdng \u0111\u1ec3 h\u1ecdc ?"
   }, 
   {
     "instanceFilePath": "org.storymaker.app/g_odvw/1/g_odvw_1_library.json", 
@@ -27,6 +27,6 @@
     "instanceFilePath": "org.storymaker.app/g_odvw/4/g_odvw_4_library.json", 
     "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
     "language": "vi", 
-    "title": "What\u2019s the most important thing you learned?"
+    "title": "\u0110i\u1ec1u g\u00ec quan tr\u1ecdng nh\u1ea5t b\u1ea1n \u0111\u00e3 h\u1ecdc \u0111\u01b0\u1ee3c"
   }
 ]

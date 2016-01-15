@@ -1,0 +1,73 @@
+{
+    "title": "Actividad de control de la luz", 
+    "storyPathTemplateFiles": {
+        "control_light_activity": "control_light_activity.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "control_light", 
+            "dependencyFile": "../6_control_light/control_light.json"
+        }, 
+        {
+            "dependencyId": "control_light_activity", 
+            "dependencyFile": "control_light_activity.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "tips": [
+                {
+                    "text": "Sugerencia: La retroiluminaci\u00f3n oscurecer\u00e1 a su sujeto y dificultar\u00e1 su visi\u00f3n.", 
+                    "tags": [
+                        "light"
+                    ]
+                }, 
+                {
+                    "text": "Sugerencia: La luz baja puede producir tomas pobres. Disparar en exteriores o en una habitaci\u00f3n soleada puede darle mucha luz.", 
+                    "tags": [
+                        "light"
+                    ]
+                }, 
+                {
+                    "text": "Sugerencia: Las luces aproximadamente a 3 pies (~1m) de su personaje son las m\u00e1s favorecedoras.\n", 
+                    "tags": [
+                        "light"
+                    ]
+                }, 
+                {
+                    "text": "Sugerencia: La buena fotograf\u00eda gira en torno a la luz. Use la luz disponible de la mejor forma que pueda.", 
+                    "tags": [
+                        "light"
+                    ]
+                }, 
+                {
+                    "text": "Sugerencia: Si su sujeto es demasiado oscuro considere moverse a una localizaci\u00f3n con m\u00e1s luz.", 
+                    "tags": [
+                        "light"
+                    ]
+                }, 
+                {
+                    "text": "Sugerencia: Tenga cuidado con la luces detr\u00e1s de sus sujetos.", 
+                    "tags": [
+                        "light"
+                    ]
+                }
+            ], 
+            "type": "TipCollectionHeadlessCard", 
+            "id": "tip_collection"
+        }, 
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "control_light_activity"
+        }
+    ], 
+    "currentStoryPathFile": "control_light_activity.json", 
+    "id": "control_light_activity"
+}
