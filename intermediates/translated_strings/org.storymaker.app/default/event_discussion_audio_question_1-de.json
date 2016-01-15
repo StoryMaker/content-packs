@@ -1,0 +1,13 @@
+{
+    "event_discussion_audio_question1::evaluation_card_0::text": "Erklärt deine Geschichte, warum das Ereignis wichtig ist?",
+    "event_discussion_audio_question1::clip_card_5::goals[0]": "Warum ist das Ereignis wichtig?",
+    "event_discussion_audio_question1::clip_card_1::goals[0]": "Nimm Geräusche auf, die deine Diskussion einleiten.",
+    "event_discussion_audio_question1::clip_card_4::goals[0]": "Warum ist das Ereignis wichtig?",
+    "event_discussion_audio_question1::clip_card_7::goals[0]": "Nimm Geräusche über das Ende des Ereignisses auf.",
+    "event_discussion_audio_question1::title": "Diskussion über das Ereignis - Warum",
+    "event_discussion_audio_question1::clip_card_0::goals[0]": "Nimm Geräusche von dem Ort auf, an dem das Ereignis stattfindet.",
+    "event_discussion_audio_question1::clip_card_3::goals[0]": "Warum ist das Ereignis wichtig?",
+    "event_discussion_audio_question1::clip_card_6::goals[0]": "Warum ist das Ereignis wichtig?",
+    "event_discussion_audio_question1::clip_card_0::goals[1]": "Nimm Geräusche von einem Ort auf, der für das Ereignis wichtig ist.",
+    "event_discussion_audio_question1::clip_card_2::goals[0]": "Warum ist das Ereignis wichtig?"
+}

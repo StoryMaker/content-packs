@@ -1,0 +1,17 @@
+{
+    "t_video_day_in_the_life::text_card_0::text": "A day in the life follows one character throughout the story. The story may follow a literal day, or simply showcase an important part of the day. This template assumes you are following a character with a specific type of work, but the clips can be used to document anyone's day or activity. Feel free to use alternate questions if you think they may work better for you.",
+    "t_video_day_in_the_life::clip_card_7::goals[0]": "Покажите, что ваш герой делает ради развлечения.",
+    "t_video_day_in_the_life::clip_card_0::goals[0]": "Покажите нам, где живет ваш герой.",
+    "t_video_day_in_the_life::clip_card_9::goals[0]": "Спросите: Расскажите пожалуйста о вашем будущем.",
+    "t_video_day_in_the_life::clip_card_3::goals[0]": "Покажите, как ваш герой начинает свой день.",
+    "t_video_day_in_the_life::ms_moreinfo::text": "About this Template",
+    "t_video_day_in_the_life::clip_card_1::goals[0]": "Покажите нам то, что вы считаете примечательным в доме вашего героя.",
+    "t_video_day_in_the_life::clip_card_10::goals[0]": "Покажите вашего героя в конце дня.",
+    "t_video_day_in_the_life::clip_card_4::goals[0]": "Покажите, как ваш герой зарабатывает на жизнь.",
+    "t_video_day_in_the_life::title": "Day in the Life Video",
+    "t_video_day_in_the_life::clip_card_5::goals[0]": "Спросите: Расскажите пожалуйста о том, что вы делаете.",
+    "t_video_day_in_the_life::clip_card_6::goals[0]": "Покажите нам самый важный элемент работы вашего героя.",
+    "t_video_day_in_the_life::clip_card_8::goals[0]": "Покажите, где ваш герой находится в конце дня.",
+    "t_video_day_in_the_life::ms_moreinfo::header": "Следующий ",
+    "t_video_day_in_the_life::clip_card_2::goals[0]": "Представьте вашего героя."
+}
