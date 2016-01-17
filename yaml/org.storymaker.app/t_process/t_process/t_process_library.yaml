@@ -160,7 +160,7 @@
                 -   tags: [photo, during]
                     text: Get as close to your subject as possible.
                 -   tags: [photo, during]
-                    text: !!python/str "Remember: the viewer won't know anything about your story\\ that you don\u2019t show them in the photograph."
+                    text: "Remember: the viewer won't know anything about your story that you don't show them in the photograph."
                 -   tags: [photo, after]
                     text: Does your image illustrate context?
                 -   tags: [photo, during]
