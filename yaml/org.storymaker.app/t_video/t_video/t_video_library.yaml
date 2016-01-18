@@ -1,5 +1,5 @@
 ---
-    id: video_stories
+    id: t_video_library
     title: Make a Video Story
     classPackage: scal.io.liger.model
     storyPathTemplateFiles:
@@ -10,7 +10,28 @@
         t_video_highlights: t_video_highlights.json
         t_video_report_event: t_video_report_event.json
         t_video_report_issue: t_video_report_issue.json
-
+    dependencies:
+        -
+        dependencyId: t_video_day_in_the_life
+        dependencyFile: t_video_day_in_the_life.json
+        -
+        dependencyId: t_video_discussion_question_1
+        dependencyFile: t_video_discussion_question_1.json
+        -
+        dependencyId: t_video_discussion_question_2
+        dependencyFile: t_video_discussion_question_2.json
+        -
+        dependencyId: t_video_discussion_question_3
+        dependencyFile: t_video_discussion_question_3.json
+        -
+        dependencyId: t_video_highlights
+        dependencyFile: t_video_highlights.json
+        -
+        dependencyId: t_video_report_event
+        dependencyFile: t_video_report_event.json
+        -
+        dependencyId: t_video_report_issue
+        dependencyFile: t_video_report_issue.json
     cards:
         -
             type: TipCollectionHeadlessCard
@@ -194,11 +215,11 @@
             type: TextCard
             text: 'Making a great video story involves a variety of clips. These templates will guide you to get all the clips you need to tell a variety of stories.'
             references:
-              - video_stories::ms_moreinfo::value::true
+              - t_video_library::ms_moreinfo::value::true
 
         -
             type: HookLoaderHeadlessCard
             id: hook_loader_card
             action: LOAD
             references:
-                - video_stories::quiz_card_topic::choice
+                - t_video_library::quiz_card_topic::choice

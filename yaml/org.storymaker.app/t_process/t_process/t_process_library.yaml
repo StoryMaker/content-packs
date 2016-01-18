@@ -9,7 +9,25 @@
         t_process_profile_audio: t_process_profile_audio.json
         t_process_profile_photo: t_process_profile_photo.json
         t_process_profile_video: t_process_profile_video.json
-
+    dependencies:
+        -
+        dependencyId: t_process_event_audio
+        dependencyFile: t_process_event_audio.json
+        -
+        dependencyId: t_process_event_photo
+        dependencyFile: t_process_event_photo.json
+        -
+        dependencyId: t_process_event_video
+        dependencyFile: t_process_event_video.json
+        -
+        dependencyId: t_process_profile_audio
+        dependencyFile: t_process_profile_audio.json
+        -
+        dependencyId: t_process_profile_photo
+        dependencyFile: t_process_profile_photo.json
+        -
+        dependencyId: t_process_profile_video
+        dependencyFile: t_process_profile_video.json
     cards:
         -
             type: TipCollectionHeadlessCard
