@@ -1,4 +1,50 @@
 {
+    "title": "News Report Story", 
+    "storyPathTemplateFiles": {
+        "t_news_profile_video": "t_news_profile_video.json", 
+        "t_news_profile_audio": "t_news_profile_audio.json", 
+        "t_news_event_audio": "t_news_event_audio.json", 
+        "t_news_issue_video": "t_news_issue_video.json", 
+        "t_news_breaking_video": "t_news_breaking_video.json", 
+        "t_news_breaking_audio": "t_news_breaking_audio.json", 
+        "t_news_event_video": "t_news_event_video.json", 
+        "t_news_issue_audio": "t_news_issue_audio.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "t_news_breaking_audio", 
+            "dependencyFile": "t_news_breaking_audio.json"
+        }, 
+        {
+            "dependencyId": "t_news_breaking_video", 
+            "dependencyFile": "t_news_breaking_video.json"
+        }, 
+        {
+            "dependencyId": "t_news_event_audio", 
+            "dependencyFile": "t_news_event_audio.json"
+        }, 
+        {
+            "dependencyId": "t_news_event_video", 
+            "dependencyFile": "t_news_event_video.json"
+        }, 
+        {
+            "dependencyId": "t_news_issue_audio", 
+            "dependencyFile": "t_news_issue_audio.json"
+        }, 
+        {
+            "dependencyId": "t_news_issue_video", 
+            "dependencyFile": "t_news_issue_video.json"
+        }, 
+        {
+            "dependencyId": "t_news_profile_audio", 
+            "dependencyFile": "t_news_profile_audio.json"
+        }, 
+        {
+            "dependencyId": "t_news_profile_video", 
+            "dependencyFile": "t_news_profile_video.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
     "cards": [
         {
             "tips": [
@@ -643,7 +689,7 @@
                     "text": "Video", 
                     "id": "video", 
                     "filters_or": [
-                        "t_news_library::quiz_card_topic::choice::t_breaking_news", 
+                        "t_news_library::quiz_card_topic::choice::t_news_breaking", 
                         "t_news_library::quiz_card_topic::choice::t_news_event", 
                         "t_news_library::quiz_card_topic::choice::t_news_issue", 
                         "t_news_library::quiz_card_topic::choice::t_news_profile"
@@ -681,17 +727,5 @@
             "id": "hook_loader_card"
         }
     ], 
-    "storyPathTemplateFiles": {
-        "t_news_profile_video": "t_news_profile_video.json", 
-        "t_news_profile_audio": "t_news_profile_audio.json", 
-        "t_news_event_audio": "t_news_event_audio.json", 
-        "t_news_issue_video": "t_news_issue_video.json", 
-        "t_news_breaking_video": "t_news_breaking_video.json", 
-        "t_news_breaking_audio": "t_news_breaking_audio.json", 
-        "t_news_event_video": "t_news_event_video.json", 
-        "t_news_issue_audio": "t_news_issue_audio.json"
-    }, 
-    "classPackage": "scal.io.liger.model", 
-    "id": "t_news_library", 
-    "title": "News Report Story"
+    "id": "t_news_library"
 }

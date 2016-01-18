@@ -1,4 +1,40 @@
 {
+    "title": "Histoire de Processus", 
+    "storyPathTemplateFiles": {
+        "t_process_profile_audio": "t_process_profile_audio.json", 
+        "t_process_event_audio": "t_process_event_audio.json", 
+        "t_process_profile_photo": "t_process_profile_photo.json", 
+        "t_process_profile_video": "t_process_profile_video.json", 
+        "t_process_event_photo": "t_process_event_photo.json", 
+        "t_process_event_video": "t_process_event_video.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "t_process_event_audio", 
+            "dependencyFile": "t_process_event_audio.json"
+        }, 
+        {
+            "dependencyId": "t_process_event_photo", 
+            "dependencyFile": "t_process_event_photo.json"
+        }, 
+        {
+            "dependencyId": "t_process_event_video", 
+            "dependencyFile": "t_process_event_video.json"
+        }, 
+        {
+            "dependencyId": "t_process_profile_audio", 
+            "dependencyFile": "t_process_profile_audio.json"
+        }, 
+        {
+            "dependencyId": "t_process_profile_photo", 
+            "dependencyFile": "t_process_profile_photo.json"
+        }, 
+        {
+            "dependencyId": "t_process_profile_video", 
+            "dependencyFile": "t_process_profile_video.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
     "cards": [
         {
             "tips": [
@@ -592,7 +628,7 @@
                     ]
                 }, 
                 {
-                    "text": "Rappelez-vous: le spectateur ne saura pas quoi que ce soit au sujet de votre histoire que vous ne les montrez pas sur la photo.", 
+                    "text": "Remember: the viewer won't know anything about your story that you don't show them in the photograph.", 
                     "tags": [
                         "photo", 
                         "during"
@@ -783,15 +819,5 @@
             "id": "hook_loader_card"
         }
     ], 
-    "storyPathTemplateFiles": {
-        "t_process_profile_audio": "t_process_profile_audio.json", 
-        "t_process_event_audio": "t_process_event_audio.json", 
-        "t_process_profile_photo": "t_process_profile_photo.json", 
-        "t_process_profile_video": "t_process_profile_video.json", 
-        "t_process_event_photo": "t_process_event_photo.json", 
-        "t_process_event_video": "t_process_event_video.json"
-    }, 
-    "classPackage": "scal.io.liger.model", 
-    "id": "t_process_library", 
-    "title": "Histoire de Processus"
+    "id": "t_process_library"
 }

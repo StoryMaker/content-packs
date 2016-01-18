@@ -1,4 +1,36 @@
 {
+    "dependencies": [
+        {
+            "dependencyId": "t_video_day_in_the_life", 
+            "dependencyFile": "t_video_day_in_the_life.json"
+        }, 
+        {
+            "dependencyId": "t_video_discussion_question_1", 
+            "dependencyFile": "t_video_discussion_question_1.json"
+        }, 
+        {
+            "dependencyId": "t_video_discussion_question_2", 
+            "dependencyFile": "t_video_discussion_question_2.json"
+        }, 
+        {
+            "dependencyId": "t_video_discussion_question_3", 
+            "dependencyFile": "t_video_discussion_question_3.json"
+        }, 
+        {
+            "dependencyId": "t_video_highlights", 
+            "dependencyFile": "t_video_highlights.json"
+        }, 
+        {
+            "dependencyId": "t_video_report_event", 
+            "dependencyFile": "t_video_report_event.json"
+        }, 
+        {
+            "dependencyId": "t_video_report_issue", 
+            "dependencyFile": "t_video_report_issue.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Make a Video Story", 
     "cards": [
         {
             "tips": [
@@ -607,14 +639,14 @@
             "type": "BasicTextCard", 
             "id": "text_card_0", 
             "references": [
-                "video_stories::ms_moreinfo::value::true"
+                "t_video_library::ms_moreinfo::value::true"
             ]
         }, 
         {
             "action": "LOAD", 
             "type": "HookLoaderHeadlessCard", 
             "references": [
-                "video_stories::quiz_card_topic::choice"
+                "t_video_library::quiz_card_topic::choice"
             ], 
             "id": "hook_loader_card"
         }
@@ -628,7 +660,5 @@
         "t_video_discussion_question_3": "t_video_discussion_question_3.json", 
         "t_video_discussion_question_1": "t_video_discussion_question_1.json"
     }, 
-    "classPackage": "scal.io.liger.model", 
-    "id": "video_stories", 
-    "title": "Make a Video Story"
+    "id": "t_video_library"
 }

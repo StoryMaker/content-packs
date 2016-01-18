@@ -1,4 +1,32 @@
 {
+    "dependencies": [
+        {
+            "dependencyId": "t_photo_highlights", 
+            "dependencyFile": "t_photo_highlights.json"
+        }, 
+        {
+            "dependencyId": "t_photo_series_character", 
+            "dependencyFile": "t_photo_series_character.json"
+        }, 
+        {
+            "dependencyId": "t_photo_series_place", 
+            "dependencyFile": "t_photo_series_place.json"
+        }, 
+        {
+            "dependencyId": "t_photo_series_action", 
+            "dependencyFile": "t_photo_series_action.json"
+        }, 
+        {
+            "dependencyId": "t_photo_series_signature", 
+            "dependencyFile": "t_photo_series_signature.json"
+        }, 
+        {
+            "dependencyId": "t_photo_process", 
+            "dependencyFile": "t_photo_process.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Photo Essay Stories", 
     "cards": [
         {
             "tips": [
@@ -83,7 +111,7 @@
                     ]
                 }, 
                 {
-                    "text": "Remember: the viewer won't know anything about your story\\ that you don\u2019t show them in the photograph.", 
+                    "text": "Remember: the viewer won't know anything about your story that you don't show them in the photograph.", 
                     "tags": [
                         "photo", 
                         "during"
@@ -204,7 +232,7 @@
                     "id": "t_photo_series_action"
                 }, 
                 {
-                    "text": "Objects", 
+                    "text": "A Series of Objects", 
                     "id": "t_photo_series_signature"
                 }
             ]
@@ -221,7 +249,7 @@
             "type": "BasicTextCard", 
             "id": "text_card_0", 
             "references": [
-                "video_library::ms_moreinfo::value::true"
+                "t_photo_library::ms_moreinfo::value::true"
             ]
         }, 
         {
@@ -241,7 +269,5 @@
         "t_photo_series_character": "t_photo_series_character.json", 
         "t_photo_series_place": "t_photo_series_place.json"
     }, 
-    "classPackage": "scal.io.liger.model", 
-    "id": "t_photo_library", 
-    "title": "Photo Essay Stories"
+    "id": "t_photo_library"
 }
