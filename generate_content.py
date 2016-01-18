@@ -655,6 +655,7 @@ def gen_regular_pack(pack_name):
 def gen_regular_pack_and_content_indexes(pack_name):
     gen_regular_pack(pack_name)
     generate_content_indexes(pack_name)
+    create_content_metadata(pack_name)
 
 def generate_content_indexes(pack_name):
     generate_content_index(package, pack_name)
@@ -712,20 +713,24 @@ def prep_localized_pack(content_pack, locale, lang=None):
 
     generate_content_indexes(full_pack_name)
 
-    content_metadata_file = open("assets/%s/%s/content_metadata.json" % (package, full_pack_name), 'w')
-    cover_file = "%s/%s/cover.jpg" % (package, full_pack_name)
+    create_content_metadata(full_pack_name)
+
+    content_packs.append(full_pack_name)
+
+def create_content_metadata(pack_id):
+    content_metadata_file = open("assets/%s/%s/content_metadata.json" % (package, pack_id), 'w')
+    cover_file = "%s/%s/cover.jpg" % (package, pack_id)
     if not os.path.isfile("assets/%s" % cover_file):
-        cover_file = "%s/%s/cover.png" % (package, full_pack_name)
+        cover_file = "%s/%s/cover.png" % (package, pack_id)
     elif not os.path.isfile("assets/%s" % cover_file):
-        cover_file = "%s/%s/cover.gif" % (package, full_pack_name)
+        cover_file = "%s/%s/cover.gif" % (package, pack_id)
     elif not os.path.isfile("assets/%s" % cover_file):
-        cover_file = "%s/%s/cover.jpeg" % (package, full_pack_name)
-            
+        cover_file = "%s/%s/cover.jpeg" % (package, pack_id)
+
     content_metadata = { "contentPackThumbnailPath": cover_file } # TODO we might want other file types
     content_metadata_file.write(json.dumps(content_metadata, indent=2))
     content_metadata_file.close()
-    
-    content_packs.append(full_pack_name)
+
 
 # create available index
 def create_available_index():
@@ -746,6 +751,30 @@ def generate_localized_pack(name, locale):
 @cli.command()
 def all_content():
     ### generate localized packs
+    prep_localized_pack('audio', 'persian')
+    prep_localized_pack('audio', 'mena')
+    prep_localized_pack('audio', 'burundi')
+    prep_localized_pack('story', 'persian')
+    prep_localized_pack('story', 'mena')
+    prep_localized_pack('story', 'burundi')
+    #prep_localized_pack('lessons', 'persian')
+    #prep_localized_pack('lessons', 'mena')
+    #prep_localized_pack('lessons', 'burundi')
+    prep_localized_pack('video_1', 'persian')
+    prep_localized_pack('video_1', 'mena')
+    prep_localized_pack('video_1', 'burundi')
+    prep_localized_pack('video_2', 'persian')
+    prep_localized_pack('video_2', 'mena')
+    prep_localized_pack('video_2', 'burundi')
+    prep_localized_pack('security', 'persian')
+    prep_localized_pack('security', 'mena')
+    prep_localized_pack('security', 'burundi')
+    prep_localized_pack('photography_1', 'persian')
+    prep_localized_pack('photography_1', 'mena')
+    prep_localized_pack('photography_1', 'burundi')
+    prep_localized_pack('photography_2', 'persian')
+    prep_localized_pack('photography_2', 'mena')
+    prep_localized_pack('photography_2', 'burundi')
     prep_localized_pack('journalism_part_1', 'persian')
     prep_localized_pack('journalism_part_1', 'mena')
     prep_localized_pack('journalism_part_1', 'burundi')
@@ -753,17 +782,6 @@ def all_content():
     prep_localized_pack('journalism_part_2', 'mena')
     prep_localized_pack('journalism_part_2', 'burundi')
 
-    # TODO check that these aren't dupes of the t_audio et al ones
-    # audio
-    # story
-    # lessons
-    # video_1
-    # video_2
-    # security
-    # photography_1
-    # photography_2
-    # journalism_part_1
-    # journalism_part_2
 
     #### generate regular packs
 
@@ -790,8 +808,8 @@ def all_content():
     generate_translated_assets("t_video")
     generate_translated_assets("t_photo")
     generate_translated_assets("t_news")
-    
-    # TODO check that these aren't dupes of the t_audio et al ones
+
+    # TODO translations for localized packs
     # audio
     # story
     # lessons
