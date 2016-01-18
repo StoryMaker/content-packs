@@ -1,0 +1,23 @@
+{
+    "title": "L\u00e0m sao li\u00ean l\u1ea1c l\u1ea1i g\u00e2y nguy hi\u1ec3m cho t\u00f4i", 
+    "storyPathTemplateFiles": {
+        "how_do_my_communications_put_me_at_risk": "how_do_my_communications_put_me_at_risk.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "how_do_my_communications_put_me_at_risk", 
+            "dependencyFile": "how_do_my_communications_put_me_at_risk.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "how_do_my_communications_put_me_at_risk"
+        }
+    ], 
+    "currentStoryPathFile": "how_do_my_communications_put_me_at_risk.json", 
+    "id": "how_do_my_communications_put_me_at_risk"
+}

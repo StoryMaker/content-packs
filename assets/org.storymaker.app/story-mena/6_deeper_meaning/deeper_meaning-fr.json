@@ -1,0 +1,88 @@
+{
+    "cards": [
+        {
+            "text": "# Les histoires puissantes illustrent souvent une signification plus profonde derri\u00e8re le r\u00e9cit de base. Comment dois-je faire cela dans mes propres histoires?  \n## Dans cette le\u00e7on vous allez apprendre:  \n&bull; Comment les signification profondes am\u00e9liorent - ils votre histoire  \n&bull; comment utiliser les significations profondes dans les histoires de presse  \n&bull; Comment les significations profondes peuvent influencer les autres \u00e9l\u00e9ments de votre histoire", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Histoires puissants fournissent un sens plus profond aux \u00e9v\u00e9nements principaux et les faits dans le r\u00e9cit. Ils parlent \u00e0 l'exp\u00e9rience humaine universelle, les d\u00e9fis fondamentaux auxquels nous sommes confront\u00e9s dans la vie. Et ils le font d'une mani\u00e8re que le public peuvent s'identifier. Il pourrait \u00eatre de l'amour perdu, un dilemme moral, lutte \u00e9conomique, le triomphe vers un r\u00eave, ou confronter la mort. C'est ce qui est le sujet r\u00e9el de\u00a0 l'histoire\u00a0 et\u00a0 c'est ce qui donne un impact \u00e0 l'histoire. Chaque bonne histoire est construite sur quelque chose de plus profond que le point culminant imm\u00e9diate.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Lorsque les membres d'audience reconnaissent le sens profond, ils font un lien personnel ou \u00e9motionnel plus fort \u00e0 l'histoire et sont plus susceptibles de s'en souvenir. Il est important de se concentrer sur le sens profond de votre histoire et demandez-vous comment cela aura un impact sur votre auditoire. Demandez-vous quels sont les grands th\u00e8mes humains que votre histoisse adresse.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "De diff\u00e9rentes communaut\u00e9s interpr\u00e9teront le sens profond diff\u00e9remment. Soyez s\u00fbr de consid\u00e9rer votre auditoire attentivement lorsque l'on pense \u00e0 travers une profonde signification particuli\u00e8re dans l'histoire. Si vous n'\u00eates pas s\u00fbr de ce que le sens profond de votre histoire sera pour l'auditoire, votre histoire peut ne pas avoir l'impact que vous voulez.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Voici quelques exemples de signification plus profonde dans une vari\u00e9t\u00e9 d'histoires:  \n&bull; Dans une guerre, les soldats sont \u00e0 la chasse d'un homme. Ils menacent de br\u00fbler tout le village s'il ne se donne pas. Question centrale: l'homme va abandonner? Climax: Il se donne et sait qu'il va \u00eatre tu\u00e9, mais le village sera sauv\u00e9. Sens plus profond: Certaines personnes mettent leur communaut\u00e9 avant eux-m\u00eames. Un autre sens profond est ici: Parfois, quelques-uns sont sacrifi\u00e9s pour sauver la majorit\u00e9.  \n&bull; Dans une course \u00e0 la pr\u00e9sidence, un politicien envisage la course contre son fr\u00e8re. Question centrale:va-t-il d\u00e9fier son fr\u00e8re? Climax: Oui, il entre dans la course. Sens plus profond: Parfois, l'ambition est plus forte que la loyaut\u00e9.  \n&bull; Dans une \u00e9pid\u00e9mie de rougeole locale. Question centrale: la maladie sera t-elle\u00a0 \u00e9tendue en dehors de la communaut\u00e9? Climax: parents gardent tous les enfants infect\u00e9s dans la communaut\u00e9 \u00e0 la maison jusqu'\u00e0 ce qu'ils soient tous plus contagieux. Sens plus profond: Parfois, nous devons agir ensemble pour r\u00e9soudre les probl\u00e8mes.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "Que le public voit les choix \u00e0 l'apog\u00e9e comme bon ou mauvais, ou comme sage ou fou, n'a pas d'importance; le public reconna\u00eet que n'importe qui pourrait faire ces choix;, il y'a une exp\u00e9rience humaine universelle. Il serait difficile d'\u00eatre en d\u00e9saccord avec ces sentiments - ce est ce qui les rend des significations plus profondes. Les histoires et les programmes sans une signification plus profonde ont peu d'impact sur le public; ils n'ont pas susciter la discussion et ils seront\u00a0 oubli\u00e9s.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "## A NE PAS OUBLIER  \n&bull; Tous les composants de votre histoire devraient travailler ensemble pour transmettre une signification plus profonde.  \n&bull; Les significations plus profondes ne sont pas les m\u00eames que l'injection de vos propres opinions dans une histoire. Ils encadrent une histoire autour d'un th\u00e8me culturel ou social plus large.  \n&bull; Les significations les plus profondes peuvent diff\u00e9rer selon les auditoires de diff\u00e9rentes origines sociales ou culturelles.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Lequel de ce qui suit est un sens plus profond sur le point culminant de cette histoire? Un politicien qui est reconnu coupable de corruption ne parvient pas \u00e0 \u00eatre r\u00e9\u00e9lu.", 
+            "choices": [
+                {
+                    "text": "Une fois que vous perdez votre cr\u00e9dibilit\u00e9, il peut \u00eatre tr\u00e8s difficile de la regagner.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Les politiciens ne s'occupent que d'eux-m\u00eames.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Les innocents sont parfois punis.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Lequel de ce qui suit est un sens plus profond sur le point culminant de cette histoire? Un soldat bless\u00e9 est dit qu'il ne marchera plus jamais. Il est confin\u00e9 \u00e0 un fauteuil roulant et les luttes pendant des mois jusqu'\u00e0 ce qu'il prenne enfin ses premiers pas.", 
+            "choices": [
+                {
+                    "text": "Les m\u00e9decins sont souvent erron\u00e9es.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Dieu a voulu l'aider.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "D\u00e9termination peut apporter des r\u00e9sultats extraordinaires.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "deeper_meaning", 
+    "title": "Signification plus profonde"
+}

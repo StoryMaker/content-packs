@@ -1,0 +1,23 @@
+{
+    "title": "\u0645\u0639\u0646\u0627\u06cc \u0639\u0645\u06cc\u0642\u200c\u062a\u0631", 
+    "storyPathTemplateFiles": {
+        "deeper_meaning": "deeper_meaning.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "deeper_meaning", 
+            "dependencyFile": "deeper_meaning.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "deeper_meaning"
+        }
+    ], 
+    "currentStoryPathFile": "deeper_meaning.json", 
+    "id": "deeper_meaning"
+}

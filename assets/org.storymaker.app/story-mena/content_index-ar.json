@@ -1,0 +1,44 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/story-mena/1_introduction_to_story/introduction_to_story_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-mena/cover.png", 
+    "language": "ar", 
+    "title": "Introduction to Story"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-mena/2_central_question/central_question_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-mena/cover.png", 
+    "language": "ar", 
+    "title": "Central Question"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-mena/3_climax/climax_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-mena/cover.png", 
+    "language": "ar", 
+    "title": "Climax"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-mena/4_resolution/resolution_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-mena/cover.png", 
+    "language": "ar", 
+    "title": "Resolution"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-mena/5_arc/arc_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-mena/cover.png", 
+    "language": "ar", 
+    "title": "Arc"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-mena/6_deeper_meaning/deeper_meaning_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-mena/cover.png", 
+    "language": "ar", 
+    "title": "Deeper Meaning"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-mena/7_symbols/symbols_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-mena/cover.png", 
+    "language": "ar", 
+    "title": "Symbols"
+  }
+]

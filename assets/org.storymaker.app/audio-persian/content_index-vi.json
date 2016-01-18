@@ -1,0 +1,38 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/audio-persian/1_introduction_to_audio/introduction_to_audio_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-persian/cover.png", 
+    "language": "vi", 
+    "title": "Gi\u1edbi thi\u1ec7u ph\u1ea7n \u00c2m Thanh"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-persian/2_audio_basics/audio_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-persian/cover.png", 
+    "language": "vi", 
+    "title": "C\u0103n b\u1ea3n v\u1ec1 Audio"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-persian/3_preparation/preparation_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-persian/cover.png", 
+    "language": "vi", 
+    "title": "Chu\u1ea9n b\u1ecb"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-persian/4_types_of_stories/types_of_stories_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-persian/cover.png", 
+    "language": "vi", 
+    "title": "Nh\u1eefng lo\u1ea1i Ph\u00f3ng S\u1ef1"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-persian/5_storyboarding_recording_plan/storyboarding_recording_plan_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-persian/cover.png", 
+    "language": "vi", 
+    "title": "Vi\u1ebft k\u1ebf ho\u1ea1ch cho m\u1ed9t bu\u1ed5i ghi \u00e2m"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-persian/6_recording_tips_and_techniques/recording_tips_and_techniques_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-persian/cover.png", 
+    "language": "vi", 
+    "title": "M\u1eb9o v\u00e0 k\u1ef9 thu\u1eadt ghi \u00e2m"
+  }
+]

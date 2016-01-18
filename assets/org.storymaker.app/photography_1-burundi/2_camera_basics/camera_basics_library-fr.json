@@ -1,0 +1,23 @@
+{
+    "title": "Les bases de la cam\u00e9ra", 
+    "storyPathTemplateFiles": {
+        "camera_basics": "camera_basics.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "camera_basics", 
+            "dependencyFile": "camera_basics.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "camera_basics"
+        }
+    ], 
+    "currentStoryPathFile": "camera_basics.json", 
+    "id": "camera_basics"
+}

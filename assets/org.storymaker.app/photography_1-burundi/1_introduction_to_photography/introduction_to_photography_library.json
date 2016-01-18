@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "introduction_to_photography", 
+            "dependencyFile": "introduction_to_photography.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Introduction to Photography", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "introduction_to_photography"
+        }
+    ], 
+    "currentStoryPathFile": "introduction_to_photography.json", 
+    "storyPathTemplateFiles": {
+        "introduction_to_photography": "introduction_to_photography.json"
+    }, 
+    "id": "introduction_to_photography"
+}

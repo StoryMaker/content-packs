@@ -1,0 +1,23 @@
+{
+    "title": "\u0639\u06a9\u0627\u0633\u06cc \u0627\u0632 \u0633\u0648\u0698\u0647\u200c\u0647\u0627\u06cc \u062f\u0631 \u062d\u0627\u0644 \u062d\u0631\u06a9\u062a \u0628\u0627 \u0633\u0631\u0639\u062a \u0632\u06cc\u0627\u062f", 
+    "storyPathTemplateFiles": {
+        "photographing_fast_moving_objects": "photographing_fast_moving_objects.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "photographing_fast_moving_objects", 
+            "dependencyFile": "photographing_fast_moving_objects.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "photographing_fast_moving_objects"
+        }
+    ], 
+    "currentStoryPathFile": "photographing_fast_moving_objects.json", 
+    "id": "photographing_fast_moving_objects"
+}

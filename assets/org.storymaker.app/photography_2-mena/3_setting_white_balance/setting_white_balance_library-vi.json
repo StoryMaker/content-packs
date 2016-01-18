@@ -1,0 +1,23 @@
+{
+    "title": "Thi\u1ebft l\u1eadp c\u00e2n b\u1eb1ng tr\u1eafng", 
+    "storyPathTemplateFiles": {
+        "setting_white_balance": "setting_white_balance.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "setting_white_balance", 
+            "dependencyFile": "setting_white_balance.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "setting_white_balance"
+        }
+    ], 
+    "currentStoryPathFile": "setting_white_balance.json", 
+    "id": "setting_white_balance"
+}

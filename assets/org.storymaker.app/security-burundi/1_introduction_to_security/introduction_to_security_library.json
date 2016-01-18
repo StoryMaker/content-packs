@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "introduction_to_security", 
+            "dependencyFile": "introduction_to_security.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Introduction to Security", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "introduction_to_security"
+        }
+    ], 
+    "currentStoryPathFile": "introduction_to_security.json", 
+    "storyPathTemplateFiles": {
+        "introduction_to_security": "introduction_to_security.json"
+    }, 
+    "id": "introduction_to_security"
+}

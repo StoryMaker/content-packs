@@ -1,0 +1,130 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "L\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 t\u00f4i s\u1eed d\u1ee5ng hi\u1ec7u qu\u1ea3 b\u00fat danh?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Trong b\u00e0i n\u00e0y b\u1ea1n s\u1ebd h\u1ecdc:  \n&bull; B\u00fat danh s\u1ebd b\u1ea3o v\u1ec7 danh t\u00ednh c\u1ee7a b\u1ea1n nh\u01b0 th\u1ebf n\u00e0o.  \n&bull; D\u1ea5u \u1ea5n th\u1eddi gian c\u00f3 th\u1ec3 ti\u1ebft l\u1ed9 danh t\u00ednh b\u1ea1n nh\u01b0 th\u1ebf n\u00e0o.  \n&bull; L\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 duy tr\u00ec b\u00fat danh tr\u1ef1c tuy\u1ebfn c\u1ee7a b\u1ea1n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "N\u1ebfu b\u1ea1n v\u00e0 ngu\u1ed3n tin c\u1ee7a b\u1ea1n b\u1ecb \u0111e d\u1ecda, b\u1ea1n c\u1ea7n ph\u1ea3i l\u00e0m c\u00e1c b\u01b0\u1edbc b\u1ed5 sung \u0111\u1ec3 b\u1ea3o v\u1ec7 danh t\u00ednh c\u1ee7a ng\u01b0\u1eddi \u0111ang b\u1ecb \u0111e d\u1ecda. Nh\u00e0 b\u00e1o \u0111ang \u1edf v\u00f9ng nguy hi\u1ec3m v\u00e0 ngu\u1ed3n tin \u0111ang b\u1ecb \u0111e d\u1ecda th\u01b0\u1eddng s\u1eed d\u1ee5ng b\u00fat danh \u0111\u1ec3 b\u1ea3o v\u1ec7 danh t\u00ednh th\u1eadt c\u1ee7a h\u1ecd. Khi b\u1ea1n li\u00ean l\u1ea1c tr\u1ef1c tuy\u1ebfn, b\u1ea1n c\u00f3 th\u1ec3 \u0111\u1ec3 l\u1ea1i nh\u1eefng manh m\u1ed1i v\u1ec1 danh t\u00ednh th\u1ef1c c\u1ee7a m\u00ecnh.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![S\u1ef1 \u1ea9n danh kh\u00f4ng \u0111\u01b0\u1ee3c b\u1ea3o \u0111\u1ea3m ho\u00e0n to\u00e0n](2.png)  \nNh\u1eefng ng\u01b0\u1eddi \u0111ang c\u00f3 (ho\u1eb7c \u0111\u00f3ng g\u00f3p cho) blog ho\u1eb7c m\u1ed9t di\u1ec5n \u0111\u00e0n tr\u00ean Internet c\u1ea7n bi\u1ebft r\u1eb1ng s\u1ef1 \u1ea9n danh c\u1ee7a h\u1ecd kh\u00f4ng \u0111\u01b0\u1ee3c b\u1ea3o \u0111\u1ea3m ho\u00e0n to\u00e0n khi h\u1ecd \u0111\u0103ng nh\u1eadp b\u1eb1ng b\u00fat danh. M\u1ed7i l\u1ea7n \u0111\u0103ng b\u00e0i, \u0111\u1ecba ch\u1ec9 c\u1ee7a IP \u0111\u01b0\u1ee3c ghi l\u1ea1i (http://en.wikipedia.org/wiki/IP_address) \u1edf m\u00e1y t\u00ednh n\u01a1i b\u00e0i \u0111\u01b0\u1ee3c \u0111\u0103ng, v\u00e0 nhi\u1ec1u ISPs (http://en.wikipedia.org/wiki/ISP) ghi l\u1ea1i d\u00f2ng th\u00f4ng tin qua n\u00f3. Do \u0111\u00f3, n\u1ebfu b\u1ea1n \u0111\u0103ng m\u1ed9t tin nh\u1ea1y c\u1ea3m l\u00ean m\u1ea1ng, b\u1ea1n n\u00ean c\u00f3 nh\u1eefng b\u01b0\u1edbc \u0111\u1ec1 ph\u00f2ng \u0111\u1ec3 kh\u00f4ng b\u1ecb t\u00ecm ra. Ch\u00fang t\u00f4i \u0111\u00e3 th\u1ea3o lu\u1eadn vi\u1ec7c d\u1ea5u tung t\u00edch l\u01b0\u1edbt m\u1ea1ng c\u1ee7a b\u1ea1n trong B\u00e0i XX v\u1edbi TOR. N\u1ebfu b\u1ea1n ph\u1ea3i duy tr\u00ec gi\u1ea5u t\u00ean tr\u1ef1c tuy\u1ebfn, h\u00e3y s\u1eed d\u1ee5ng m\u1ea1ng \u1ea9n danh TOR \u0111\u1ec3 truy c\u1eadp v\u00e0o trang web c\u1ee7a b\u1ea1n v\u00e0 \u0111\u0103ng n\u1ed9i dung c\u1ee7a b\u1ea1n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![H\u00e3y \u0111\u1ec1 ph\u00f2ng \u0111\u1ec3 tr\u00e1nh r\u1eafc r\u1ed1i](3.png)  \n## D\u1ea5u \u1ea5n th\u1eddi gian  \nN\u1ebfu b\u1ea1n \u0111\u0103ng b\u00e0i l\u00ean m\u1ea1ng v\u1ec1 nh\u1eefng ho\u1ea1t \u0111\u1ed9ng c\u1ee7a ch\u00ednh ph\u1ee7 trong n\u01b0\u1edbc c\u1ee7a b\u1ea1n m\u00e0 c\u00f3 s\u1eed d\u1ee5ng m\u1ea1ng TOR, nh\u00e0 ch\u1ee9c tr\u00e1ch s\u1ebd kh\u00f4ng th\u1ec3 bi\u1ebft b\u1ea1n \u0111\u00e3 \u0111ang th\u00f4ng tin \u0111\u00f3 l\u00ean m\u1ed9t blog c\u1ee5 th\u1ec3, nh\u01b0ng h\u1ecd c\u00f3 th\u1ec3 bi\u1ebft m\u1ed7i khi b\u1ea1n b\u01b0\u1edbc v\u00e0o qu\u00e1n cafe Internet th\u00ec b\u00e0i m\u1edbi xu\u1ea5t hi\u1ec7n \u1edf trang \u0111\u00f3. \u0110i\u1ec1u n\u00e0y c\u00f3 th\u1ec3 ph\u0103ng ra b\u1ea1n, \u0111\u1eb7c bi\u1ec7t n\u1ebfu ch\u1ee7 qu\u00e1n cafe l\u1ea1i ghi l\u1ea1i t\u00ean c\u1ee7a b\u1ea1n v\u00e0 th\u1eddi gian b\u1ea1n s\u1eed d\u1ee5ng d\u1ecbch v\u1ee5. \u0110\u1ec3 kh\u1eafc ph\u1ee5c \u0111i\u1ec1u n\u00e0y, h\u00e3y nh\u1edd \u0111\u1ed3ng nghi\u1ec7p t\u1eeb n\u01b0\u1edbc kh\u00e1c \u0111\u0103ng b\u00e0i cho b\u1ea1n. S\u1eed d\u1ee5ng d\u1ecbch v\u1ee5 email an to\u00e0n (ho\u1eb7c m\u00e3 h\u00f3a) \u0111\u1ec3 g\u1eedi b\u00e0i cho \u0111\u1ed3ng nghi\u1ec7p c\u1ee7a b\u1ea1n v\u00e0 \u0111\u1ec1 ngh\u1ecb ng\u01b0\u1eddi n\u00e0y ch\u1edd m\u1ed9t th\u1eddi gian r\u1ed3i m\u1edbi \u0111\u0103ng l\u00ean blog c\u1ee7a b\u1ea1n.  \nDanh t\u00ednh c\u1ee7a b\u1ea1n c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c x\u00e1c \u0111\u1ecbnh kh\u00f4ng nh\u1eefng t\u1eeb t\u00ean m\u00e0 b\u1ea1n ch\u1ecdn cho m\u00ecnh v\u00e0 ngu\u1ed3n tin. Danh t\u00ednh c\u1ee7a b\u1ea1n c\u0169ng c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c x\u00e1c \u0111\u1ecbnh b\u1eb1ng nh\u1eefng v\u1ebft t\u00edch m\u00e0 b\u1ea1n \u0111\u1ec3 l\u1ea1i trong qu\u00e1 tr\u00ecnh v\u00e0o m\u1ea1ng.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## NH\u1eeeNG \u0110I\u1ec0U C\u1ea6N GHI NH\u1eda  \n&bull; H\u00e3y ch\u1eafc ch\u1eafn r\u1eb1ng b\u1ea1n \u0111\u00e3 x\u00f3a l\u1ecbch s\u1eed v\u00e0o m\u1ea1ng.  \n&bull; S\u1eed d\u1ee5ng nh\u1eefng c\u1eeda s\u1ed5 \u1ea9n danh trong tr\u00ecnh duy\u1ec7t Chrome ho\u1eb7c \"l\u01b0\u1edbt m\u1ea1ng ri\u00eang t\u01b0\" c\u1ee7a Firefox.  \n&bull; H\u00e3y ch\u1eafc ch\u1eafn l\u00e0 \u0111\u00e3 t\u1eaft cookies.  \n&bull; H\u00e3y nh\u1edd m\u1ed9t \u0111\u1ed3ng nghi\u1ec7p, ng\u01b0\u1eddi kh\u00f4ng b\u1ecb \u0111e d\u1ecda, \u0111\u0103ng c\u00e1c b\u00e0i c\u1ee7a b\u1ea1n.  \n&bull; \u0110\u1ec3 c\u00e1c b\u00e0i b\u00e1o c\u1ee7a b\u1ea1n \u0111\u01b0\u1ee3c \u0111\u0103ng t\u1ef1 \u0111\u1ed9ng sau m\u1ed9t kho\u1ea3ng th\u1eddi gian \u0111\u1ecbnh tr\u01b0\u1edbc.  \n&bull; C\u00e0i \u0111\u1eb7t HTTPS Everywhere v\u00e0o tr\u00ecnh duy\u1ec7t Firefox ho\u1eb7c Chrome.  \n&bull; S\u1eed d\u1ee5ng m\u1ed9t d\u1ecbch v\u1ee5 \u1ea9n danh b\u1ea5t c\u1ee9 khi n\u00e0o b\u1ea1n truy c\u1eadp v\u00e0o Internet.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "T\u1ea1i sao t\u00f4i n\u00ean d\u00f9ng b\u00fat danh?", 
+            "choices": [
+                {
+                    "text": "B\u1edfi v\u00ec n\u00f3 hay h\u01a1n t\u00ean th\u1eadt c\u1ee7a t\u00f4i.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "\u0110\u1ec3 b\u1ea3o v\u1ec7 danh t\u00ednh c\u1ee7a t\u00f4i v\u00e0 ngu\u1ed3n tin c\u1ee7a t\u00f4i.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Flash Gordon.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "B\u1edfi v\u00ec t\u00ean c\u1ee7a t\u00f4i \u0111\u00e3 c\u00f3 tr\u00ean Facebook.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "L\u00e0m sao t\u00f4i ng\u0103n ng\u1eeba kh\u00f4ng \u0111\u1ec3 c\u00e1c v\u1ebft t\u00edch li\u00ean l\u1ea1c ti\u1ebft l\u1ed9 danh t\u00ednh th\u1eadt c\u1ee7a t\u00f4i?", 
+            "choices": [
+                {
+                    "text": "B\u1eb1ng c\u00e1ch lu\u00f4n s\u1eed d\u1ee5ng c\u1eeda s\u1ed5 \u1ea9n danh.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "B\u1eb1ng vi\u1ec7c \u0111\u1ec1 ngh\u1ecb \u0111\u1ed3ng nghi\u1ec7p \u0111\u0103ng b\u00e0i khi t\u00f4i kh\u00f4ng v\u00e0o m\u1ea1ng.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "B\u1eb1ng vi\u1ec7c s\u1eed d\u1ee5ng m\u1ea1ng TOR \u0111\u1ec3 k\u1ebft n\u1ed1i v\u00e0o Internet.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "B\u1eb1ng vi\u1ec7c s\u1eed d\u1ee5ng hai \u0111\u1ecba ch\u1ec9 email.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "N\u1ebfu t\u00f4i s\u1eed d\u1ee5ng b\u00fat danh th\u00ec danh t\u00ednh c\u1ee7a t\u00f4i s\u1ebd l\u00e0", 
+            "choices": [
+                {
+                    "text": "\u0110\u01b0\u1ee3c b\u1ea3o v\u1ec7 ho\u00e0n to\u00e0n.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "L\u00e0 b\u1ea5t c\u1ee9 th\u1ee9 g\u00ec m\u00e0 t\u00f4i n\u00f3i v\u1edbi nhi\u1ec1u ng\u01b0\u1eddi.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "T\u00f4i ch\u1ec9 \u0111\u01b0\u1ee3c b\u1ea3o v\u1ec7 khi t\u00f4i kh\u00f4ng \u0111\u1ec3 l\u1ea1i c\u00e1c v\u1ebft t\u00edch li\u00ean l\u1ea1c c\u00f3 th\u1ec3 cho ng\u01b0\u1eddi kh\u00e1c x\u00e1c \u0111\u1ecbnh danh t\u00ednh v\u00e0 v\u1ecb tr\u00ed c\u1ee7a t\u00f4i.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "\u0110\u01b0\u1ee3c b\u1ea3o v\u1ec7 ch\u1ed1ng l\u1ea1i s\u1ef1 xem x\u00e9t qua loa.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "how_do_i_effectively_use_pseudonyms", 
+    "title": "L\u00e0m sao \u0111\u1ec3 t\u00f4i s\u1eed d\u1ee5ng hi\u1ec7u qu\u1ea3 c\u00e1c b\u00fat danh"
+}

@@ -1,0 +1,125 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Trouver un bon sujet est l'\u00e9l\u00e9ment cl\u00e9 de toute l'histoire audio, mais quelle est la meilleure fa\u00e7on de choisir un sujet et planifier mon histoire?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Dans cette le\u00e7on vous allez apprendre:  \n&bull; A quoi vous devez penser avant de commencer votre histoire.  \n&bull; Comment planifier votre histoire audio.  \n&bull; Comment penser \u00e0 votre public en planifiant votre histoire.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Avant de commencer \u00e0 produire un morceau audio, il y'a quelques questions que vous devez r\u00e9pondre.  \n&bull; Quelle est la mani\u00e8re la plus convaincante pour raconter votre histoire? Est-ce une histoire d'un \u00e9v\u00e9nement, une personne ou une question sp\u00e9cifique? D\u00e9terminez si l'histoire se concentre sur les \u00e9v\u00e9nements r\u00e9cents, l'effet de ce probl\u00e8me sur la soci\u00e9t\u00e9, ou une histoire sur une personne int\u00e9ressante.  \n&bull; Quel est votre angle? Une bonne fa\u00e7on de penser \u00e0 la fa\u00e7on d'aborder un sujet int\u00e9ressant est de penser comment il affecte r\u00e9ellement les gens ordinaires.  \n&bull; Quel public visez-vous? A quoi s'int\u00e9ressent-ils?  \n&bull; Pouvez-vous pr\u00e9senter l'histoire de mani\u00e8re attrayante, claire et int\u00e9ressante? Quels sont les diff\u00e9rentes parties qui composent votre histoire compl\u00e8te?  \n&bull; Quel audio voulez-vous enregistrer? des interviews , des extraits des d\u00e9tails de sons pertinents, des sons qui introduisent l'histoire?  \n&bull; Quel genre de d\u00e9lai aurez-vous besoin pour produire l'histoire?", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "2.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Exemple d'un Interview", 
+            "exampleMediaPath": "2.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Une fois que votre plan est cr\u00e9\u00e9, vous devez prendre les dispositions et les pr\u00e9parations n\u00e9cessaires. fixez le temps d'enregistrement avec vos sources. Planifiez o\u00f9 enregistrer, et s'assurer qu'il y'a un environnement d'enregistrement appropri\u00e9.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "3.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Exemple d'un rapport audio d'une premi\u00e8re personne", 
+            "exampleMediaPath": "3.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "![Plan Audio](4.png)  \nPlanifiez votre segment audio avant de commencer \u00e0 enregistrer. Votre plan doit comprendre:  \n&bull; Une vue d'ensemble de votre segment  \n&bull; Qui doit \u00eatre interview\u00e9  \n&bull; D\u00e9lais de r\u00e9alisation  \n&bull; Dur\u00e9e pr\u00e9vue du programme  \n&bull; Si vous faites une interview, Soyez pr\u00e9par\u00e9. Pour plus, voir la le\u00e7on \"Techniques d'Interview\" dans la section de journalisme.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "N'oubliez pas de vous demander: Pourquoi faites-vous ce programme? Y a-t-il un public sp\u00e9cifique que vous voulez atteindre?  \nLaisser suffisamment de temps pour l'\u00e9dition et la publication. Il est possible que vous devrez changer votre plan en fonction des clips et informations que vous \u00eates en mesure de collecter.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "## A NE PAS OUBLIER  \n&bull; Faites un plan, N'enregistrez pas tout.  \n&bull; Dessinez un plan ou un script pour vous-m\u00eame que vous pouvez utiliser lors des entretiens ou lors de l'enregistrement d'une interview ou d'un rapport.  \n&bull; Contactez les interview\u00e9s potentiels \u00e0 l'avance et leur donner des options pour o\u00f9 et quand vous pouvez rencontrer.  \n&bull; Pensez au public que vous voulez atteindre au moment de d\u00e9cider quel genre d'histoire ou le format \u00e0 enregistrer.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Quel type de segment audio pourriez-vous ne pas produire si vous \u00e9tiez seul dans la jungle?", 
+            "choices": [
+                {
+                    "text": "Un Rapport du premi\u00e8re personne", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Un segment de style documentaire ax\u00e9 sur les sons de la nature", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Un interview", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Si vous voulez interviewer le maire d'une grande ville, comment voulez-vous proc\u00e9der?", 
+            "choices": [
+                {
+                    "text": "Contactez son bureau, pr\u00e9sentez-vous et votre but, et fixer un rendez -vous.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Aller au bureau du maire aujourd'hui\u00a0 et insister pour faire l'entrevue imm\u00e9diatement.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "D\u00e9couvrez o\u00f9 le maire mange le d\u00e9jeuner et sauter hors de derri\u00e8re un arbre quand il / elle quitte le b\u00e2timent.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "preparation", 
+    "title": "Pr\u00e9paration"
+}

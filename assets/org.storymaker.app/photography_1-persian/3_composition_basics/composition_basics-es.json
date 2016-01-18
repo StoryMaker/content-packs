@@ -1,0 +1,167 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "\u00bfCu\u00e1les son algunos de los principios b\u00e1sicos de una buena composici\u00f3n fotogr\u00e1fica?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta sesi\u00f3n aprender\u00e1:  \n&bull; Conceptos clave para foto composici\u00f3n  \n&bull; Qu\u00e9 significa la regla de los tercios en fotograf\u00eda  \n&bull; C\u00f3mo crear disposici\u00f3n en capas en una fotograf\u00eda\n&bull; Qu\u00e9 significa 'trabajar los bordes'  \n&bull; C\u00f3mo capturar el punto \u00e1lgido de la acci\u00f3n  \n&bull; Consejos para tomar fotograf\u00edas con seguridad", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "La fotograf\u00eda toma mucho prestado de la pintura. Las mejores fotos est\u00e1n compuestas de forma que el sujeto de la imagen est\u00e9 bien encuadrado, y el prop\u00f3sito de la foto est\u00e9 claro. Un buen color y una buena relaci\u00f3n entre las formas dominantes en el cuadro \u2014 los elementos de la fotograf\u00eda que primero distinguir\u00e1n sus ojos \u2014 son importantes para una buena composici\u00f3n. Es extremadamente importante cu\u00e1nta luz se usa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Ejemplo de una foto que proporciona contexto y acci\u00f3n.](2.jpg)  \nAl hacer fotograf\u00edas de un evento noticiable, es importante recordar que los miembros de su audiencia no pueden ver la totalidad de la escena que usted s\u00ed puede. No pueden saber lo que usted no les muestre. \n![Ejemplo de una foto que proporciona contexto y acci\u00f3n.](3.jpg)  \nLos buenos fotoperiodistas capturan no s\u00f3lo el drama y la acci\u00f3n de un evento en sus im\u00e1genes, sino que incluyen elementos visuales que proporcionan contexto, como la ubicaci\u00f3n y las causas de que el acontecimiento est\u00e9 siendo fotografiado. El mundo puede parecer muy diferente en una fotograf\u00eda. Esto requiere que piense visualmente, lo que puede ser un desaf\u00edo incluso para los mejores periodistas.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![Regla de los tercios](4.png)  \n## Regla de los tercios\nLa base de una buena composici\u00f3n es la regla de los tercios. La regla de los tercios descompone el cuadro en nueve rect\u00e1ngulos iguales. Muchos smartphones le permitir\u00e1n mostrar la parrilla de la regla de los tercios encima del visor de la c\u00e1mara.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![Un buen uso de la regla de los tercios](5.jpg)  \nLos buenos fot\u00f3grafos componen por las intersecciones de las l\u00edneas en el encuadre, y trabajan para utilizar cada uno de los nueve rect\u00e1ngulos para contar sus historias.  \n![Un buen uso de la regla de los tercios](6.jpg)  \nLos aficionados tienden a situar al sujeto en medio del encuadre e ignorar el resto del espacio en lugar de usarlo para hacer una imagen m\u00e1s convincente.\n![Un buen uso de la regla de los tercios](7.jpg)  \n![Un buen uso de la regla de los tercios](8.jpg)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![Ejemplo de una foto con unos claros primer plano, plano medio, y fondo](9.png)  \n## Disposici\u00f3n en capas  \nOtro principio importante para una buena composici\u00f3n se llama disposici\u00f3n en capas. Crear distintas capas en su encuadre \u2014 primer plano, plano medio, y fondo \u2014 le ayuda a contar historias visuales m\u00e1s complejas con su fotograf\u00eda. Podr\u00eda escoger situar a su sujeto, un granjero cuyos campos est\u00e1n pelados a causa de la sequ\u00eda, encuadrado a la izquierda en primer plano, y su campo vac\u00edo y reseco en el fondo. Esto dar\u00e1 a la imagen una clara capa para el sujeto (primer plano) y otra para el contexto (capa del fondo).", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![Ejemplo de foto utilizando los bordes](10.png)  \n## Trabajar los bordes  \nEn una fotograf\u00eda bien-compuesta, las formas o la informaci\u00f3n importantes se completan a si mismas en el encuadre. Las manos del cocinero no est\u00e1n amputadas de forma grotesca. El transporte de personal que proporciona el contexto a la imagen en el capa de fondo no est\u00e1 partido en dos en el borde del encuadre. Los fot\u00f3grafos llaman a esto trabajar en los bordes. Las formas tales como marcos de puertas o \u00e1rboles u objetos con un color fuerte, se usan para definir el borde del encuadre permiti\u00e9ndoles resolver dentro de ellos.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## Punto \u00e1lgido de la acci\u00f3n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "11.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Entrevista con un fotografo que discute el uso de la composici\u00f3n en los trabajos", 
+            "exampleMediaPath": "11.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Un elemento clave final para una buena fotograf\u00eda es la puntualidad. Las fotograf\u00edas m\u00e1s potentes est\u00e1n tomadas en una fracci\u00f3n de segundo, cuando todos los elementos que la componen se juntan y la acci\u00f3n llega a su momento m\u00e1s dram\u00e1tico. A esto se le llama el momento \u00e1lgido de la acci\u00f3n. Los mejores fot\u00f3grafos tienen una gran anticipaci\u00f3n. A menudo se preparan para sacar partido a los elementos clave de la composici\u00f3n, y luego esperan hasta el momento \u00e1lgido de la acci\u00f3n. \nUn poco de cuidado en la composici\u00f3n y considerar detenidamente la informaci\u00f3n que necesita para trasmitir para contar la historia, le llevar\u00e1 por un largo recorrido haciendo mejores fotograf\u00edas.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "![Advertencia](12.png)  \n## Seguridad  \nRecuerde siempre considerar primero su seguridad, y la de los sujetos de su fotograf\u00eda. Un reportero puede permanecer en los l\u00edmites de una escena potencialmente peligrosa. Un fotografo necesita acercarse para tomar una foto. Un fot\u00f3grafo de noticias est\u00e1 siempre equilibrando la seguridad con la necesidad de capturar im\u00e1genes convincentes.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR \n&bull; Piense visualmente.  \n&bull; Organice los elementos de su imagen para contar una historia convincente e informativa.  \n&bull; Ponga empe\u00f1o en tomar las mejores fotograf\u00edas. La buena fotograf\u00eda lleva tiempo.  \n&bull; Necesita planear y visualizar c\u00f3mo conseguir\u00e1 im\u00e1genes que capturen la esencia de una historia y toque emocionalmente a los espectadores.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "\u00bfQu\u00e9 significa pensar visualmente? (Puede haber m\u00e1s de una respuesta).", 
+            "choices": [
+                {
+                    "text": "Planear su historia desde el principio para un buen contenido visual.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Dedicar tiempo a obtener buenas im\u00e1genes.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Comprender c\u00f3mo contar historias visuales es m\u00e1s que meramente traducir aquello de lo que informar\u00eda o sobre lo que escribir\u00eda.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "NInguna de las anteriores.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Verdadero o falso: Una foto debe estar bien organizada. Una buena manera de hacer esto es tener s\u00f3lo un \u00fanico sujeto posicionado, y poner a su sujeto en medio del cuadro.", 
+            "choices": [
+                {
+                    "text": "Verdadero", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falso", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "\u00bfCu\u00e1l de los siguientes es un principio b\u00e1sico de la fotograf\u00eda para una buena composici\u00f3n? (Puede haber m\u00e1s de una respuesta).", 
+            "choices": [
+                {
+                    "text": "La regla de los tercios", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Trabajar los bordes", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Disposici\u00f3n en capas", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ninguna de la anteriores", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "composition_basics", 
+    "title": "Fundamentos de la composici\u00f3n"
+}

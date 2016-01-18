@@ -1,0 +1,26 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-persian/1_introduction_to_video/introduction_to_video_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-persian/cover.png", 
+    "language": "es", 
+    "title": "Interoducci\u00f3n al V\u00eddeo"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-persian/2_video_basics/video_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-persian/cover.png", 
+    "language": "es", 
+    "title": "Conceptos b\u00e1sicos del v\u00eddeo"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-persian/3_getting_good_sound_and_light/getting_good_sound_and_light_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-persian/3_getting_good_sound_and_light/cover.png", 
+    "language": "es", 
+    "title": "Conseguir un buen sonido y una buena iluminaci\u00f3n"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-persian/4_setting_white_balance_in_video/setting_white_balance_in_video_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-persian/cover.png", 
+    "language": "es", 
+    "title": "Configurar el balance de blancos del video"
+  }
+]

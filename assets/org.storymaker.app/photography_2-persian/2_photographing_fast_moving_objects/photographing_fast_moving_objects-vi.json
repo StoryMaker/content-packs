@@ -1,0 +1,145 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "L\u00e0m sao t\u00f4i c\u00f3 th\u1ec3 ch\u1ee5p h\u00ecnh nh\u1eefng v\u1eadt th\u1ec3 \u0111ang di chuy\u1ec3n nhanh?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Trong b\u00e0i n\u00e0y b\u1ea1n s\u1ebd h\u1ecdc:  \n&bull; T\u1ea1i sao \u0111\u00f4i khi m\u1ee5c ti\u00eau di chuy\u1ec3n nhanh l\u1ea1i xu\u1ea5t hi\u1ec7n m\u1edd.  \n&bull; K\u1ef9 thu\u1eadt \u0111\u1ec3 ch\u1edbp m\u1ed9t h\u00e0nh \u0111\u1ed9ng, \u0111\u1eb7c bi\u1ec7t khi \u00e1nh s\u00e1ng kh\u00f4ng \u0111\u1ee7.  \n&bull; S\u1eed d\u1ee5ng ch\u1ebf \u0111\u1ed9 m\u00e0n tr\u1eadp \u01b0u ti\u00ean.  \n&bull; S\u1eed d\u1ee5ng \u0111\u00e8n ch\u1edbp.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "T\u1eeb c\u1ea7u th\u1ee7 \u0111\u00e1 b\u00f3ng \u0111\u1ebfn xe c\u1ed9 \u0111ang ch\u1ea1y v\u00e0 ng\u01b0\u1eddi tu\u1ea7n h\u00e0nh, ph\u00f3ng vi\u00ean th\u01b0\u1eddng ch\u1ee5p h\u00ecnh c\u00e1c m\u1ee5c ti\u00eau di \u0111\u1ed9ng. Kh\u1ea3 n\u0103ng c\u1ee7a m\u00e1y \u1ea3nh \u0111\u1ec3 ch\u1edbp h\u00e0nh \u0111\u1ed9ng \u0111\u01b0\u1ee3c ki\u1ec3m so\u00e1t b\u1edfi m\u00e0n tr\u1eadp. N\u1ebfu v\u1eadn t\u1ed1c c\u1ee7a m\u00e0n tr\u1eadp qu\u00e1 ch\u1eadm, n\u00f3 kh\u00f4ng th\u1ec3 th\u1ef1c hi\u1ec7n \u0111\u01b0\u1ee3c vi\u1ec7c ch\u1edbp h\u00e0nh \u0111\u1ed9ng c\u1ea7n thi\u1ebft. H\u00ecnh s\u1ebd m\u1edd v\u00ec c\u1ea3m bi\u1ebfn s\u1ebd ghi l\u1ea1i s\u1ef1 chuy\u1ec3n \u0111\u1ed9ng. V\u1eadn t\u1ed1c c\u1ee7a m\u00e0n tr\u1eadp th\u01b0\u1eddng \u0111\u01b0\u1ee3c \u0111o  b\u1eb1ng ph\u1ea7n c\u1ee7a gi\u00e2y. H\u00e0nh \u0111\u1ed9ng c\u00e0ng nhanh v\u1eadn t\u1ed1c c\u1ee7a m\u00e0n tr\u1eadp c\u1ea7n c\u00e0ng l\u1edbn.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![](2.png)  \nM\u1ed9t s\u1ed1 \u0111i\u1ec7n tho\u1ea1i th\u00f4ng minh c\u00f3 nh\u1eefng ch\u1ebf \u0111\u1ed9 ra l\u1ec7nh cho camera thay \u0111\u1ed5i t\u1ed1c \u0111\u1ed9 ch\u1ee5p. Bi\u1ec3u t\u01b0\u1ee3ng cho \u0111i\u1ec1u n\u00e0y th\u01b0\u1eddng l\u00e0 m\u1ed9t ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng \u0111ang ch\u1ea1y. V\u1edbi nh\u1eefng \u0111i\u1ec7n tho\u1ea1i th\u00f4ng minh kh\u00f4ng c\u00f3 ch\u1ee9c n\u0103ng n\u00e0y, c\u00f3 m\u1ed9t s\u1ed1 \u0111i\u1ec1u m\u00e0 b\u1ea1n c\u00f3 th\u1ec3 l\u00e0m \u0111\u1ec3 gi\u00fap cho vi\u1ec7c ch\u1edbp h\u00e0nh \u0111\u1ed9ng. B\u1eaft \u0111\u1ea7u v\u1edbi vi\u1ec7c hi\u1ec3u nh\u1eefng gi\u1edbi h\u1ea1n c\u1ee7a camera v\u00e0 nh\u1eefng s\u1ef1 l\u1ef1a ch\u1ecdn c\u1ee7a b\u1ea1n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "# \u0110i\u1ec1u khi\u1ec3n \u00e1nh s\u00e1ng  \n![](3.jpg)  \nTh\u00e1ch th\u1ee9c th\u01b0\u1eddng xuy\u00ean nh\u1ea5t l\u00e0 khi mu\u1ed1n ch\u1ee5p h\u00ecnh m\u1ed9t m\u1ee5c ti\u00eau di \u0111\u1ed9ng v\u1edbi \u00e1nh s\u00e1ng y\u1ebfu.  \n![](4.jpg)  \n\u00c1nh s\u00e1ng y\u1ebfu kh\u00f4ng l\u00e0m cho camera ti\u1ebfp c\u1eadn \u0111\u00fang c\u00e1ch v\u1edbi h\u00ecnh c\u1ee7a b\u1ea1n v\u00e0 c\u00f3 t\u1ed1c \u0111\u1ed9 c\u1ee7a m\u00e0n tr\u1eadp \u0111\u1ee7 \u0111\u1ec3 ch\u1edbp \u0111\u01b0\u1ee3c h\u00e0nh \u0111\u1ed9ng. B\u1ea1n kh\u00f4ng th\u1ec3 b\u1eaft camera l\u00e0m \u0111\u01b0\u1ee3c \u0111i\u1ec1u kh\u00f4ng th\u1ec3.  \n![](5.jpg)  \nN\u1ebfu b\u1ea1n bi\u1ebft b\u1ea1n c\u1ea7n ch\u1edbp h\u00e0nh \u0111\u1ed9ng, h\u00e3y l\u1eadp k\u1ebf ho\u1ea1ch sao cho b\u1ea1n c\u00f3 \u0111\u1ee7 \u00e1nh s\u00e1ng. \u0110i\u1ec1u n\u00e0y c\u00f3 ngh\u0129a b\u1ea1n ch\u1ecdn th\u1eddi \u0111i\u1ec3m trong ng\u00e0y khi c\u00f3 m\u1eb7t tr\u1eddi. B\u1ea1n c\u0169ng c\u00f3 th\u1ec3 ch\u1ecdn \u0111\u1ecba \u0111i\u1ec3m \u0111\u1ec3 c\u00f3 th\u1ec3 c\u00f3 nhi\u1ec1u \u00e1nh s\u00e1ng nh\u1ea5t c\u00f3 th\u1ec3- g\u1ea7n \u00e1nh s\u00e1ng \u0111\u01b0\u1eddng ph\u1ed1, \u00e1nh s\u00e1ng s\u00e2n kh\u1ea5u ho\u1eb7c \u00e1nh s\u00e1ng t\u1eeb \u00f4t\u00f4.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![](6.png)  \n# \u1ed4n \u0111\u1ecbnh camera  \nCamera rung \u2014 chuy\u1ec3n \u0111\u1ed9ng c\u1ee7a tay b\u1ea1n trong khi gi\u1eef camera, c\u00f3 th\u1ec3 l\u00e0m cho h\u00ecnh b\u1ecb m\u1edd. \u0110i\u1ec1u n\u00e0y \u0111\u00fang kh\u00f4ng ch\u1ec9 khi ch\u1ee5p m\u1ee5c ti\u00eau di \u0111\u1ed9ng. Lu\u00f4n gi\u1eef camera g\u1ea7n ng\u01b0\u1eddi m\u00ecnh. \u0110i\u1ec1u n\u00e0y gi\u00fap cho b\u1ea1n gi\u1eef camera \u1ed5n \u0111\u1ecbnh h\u01a1n l\u00e0 khi b\u1ea1n xo\u00e0i tay. \u0110\u1ec3 khu\u1ef7u tay gi\u1eef m\u00e1y \u1ea3nh tr\u00ean \u0111\u1ea7u g\u1ed1i ho\u1eb7c m\u1ed9t v\u1eadt n\u00e0o \u0111\u00f3 c\u00f3 th\u1ec3 gi\u00fap b\u1ea1n \u1ed5n \u0111\u1ecbnh camera.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![](7.jpg)  \n# H\u00e3y c\u00e2n nh\u1eafc vi\u1ec7c s\u1eed d\u1ee5ng \u0111\u00e8n chi\u1ebfu  \nNhi\u1ec1u thi\u1ebft b\u1ecb di \u0111\u1ed9ng c\u00f3 \u0111\u00e8n chi\u1ebfu b\u00ean trong. S\u1ef1 b\u00f9ng n\u1ed5 c\u1ee7a \u00e1nh s\u00e1ng c\u00f3 th\u1ec3 gi\u00fap b\u1ea1n ch\u1edbp \u0111\u01b0\u1ee3c h\u00e0nh \u0111\u1ed9ng. \u0110a s\u1ed1 \u0111\u00e8n flash c\u1ee7a \u0111i\u1ec7n tho\u1ea1i ch\u1ec9 c\u00f3 hi\u1ec7u l\u1ef1c trong kho\u1ea3ng 3 m\u00e9t.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![](8.jpg)  \n# H\u00e3y t\u1eadn d\u1ee5ng kho\u1ea3nh kh\u1eafc c\u1ee7a m\u00ecnh  \nTrong nhi\u1ec1u tr\u01b0\u1eddng h\u1ee3p m\u1ee5c ti\u00eau c\u1ee7a b\u1ea1n s\u1ebd di chuy\u1ec3n v\u1edbi t\u1ed1c \u0111\u1ed9 thay \u0111\u1ed5i. C\u1ea7u th\u1ee7 \u0111\u00e1 b\u00f3ng di chuy\u1ec3n ch\u1eadm h\u01a1n khi tr\u1eadn \u0111\u1ea5u m\u1edbi b\u1eaft \u0111\u1ea7u. Xe \u00f4t\u00f4 di chuy\u1ec3n ch\u1eadm \u1edf g\u00f3c hay khi g\u1eb7p \u0111\u00e8n \u0111\u1ecf. Ng\u01b0\u1eddi tu\u1ea7n h\u00e0nh d\u1eebng \u0111\u1ec3 h\u00f4 kh\u1ea9u hi\u1ec7u. H\u00e3y ch\u1ecdn nh\u1eefng th\u1eddi \u0111i\u1ec3m khi m\u1ee5c ti\u00eau di chuy\u1ec3n ch\u1eadm h\u01a1n.  \n![](9.jpg)  \nKhi b\u1ea1n k\u1ebft h\u1ee3p \u0111i\u1ec1u \u0111\u00f3 v\u1edbi ch\u1ecdn ch\u1ed7 cho \u00e1nh s\u00e1ng t\u1ed1t, b\u1ea1n c\u00f3 th\u1ec3 l\u1ea5y \u0111\u01b0\u1ee3c h\u00ecnh r\u00f5 n\u00e9t ho\u1eb7c nh\u1eefng m\u1ee5c ti\u00eau kh\u00f3 th\u1eadm ch\u00ed trong \u0111\u00eam- v\u00ed d\u1ee5 ng\u01b0\u1eddi tu\u1ea7n h\u00e0nh h\u00f4 kh\u1ea9u hi\u1ec7u d\u01b0\u1edbi \u00e1nh s\u00e1ng \u0111\u01b0\u1eddng ph\u1ed1.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![](10.png)  \n# Thay \u0111\u1ed5i g\u00f3c ch\u1ee5p c\u1ee7a b\u1ea1n theo ch\u1ebf \u0111\u1ed9 Di chuy\u1ec3n  \nVi\u1ec7c kh\u00f3 kh\u0103n nh\u1ea5t c\u1ee7a m\u00e1y \u1ea3nh l\u00e0 khi m\u1ee5c ti\u00eau chuy\u1ec3n \u0111\u1ed9ng t\u1eeb ph\u1ea3i sang tr\u00e1i ho\u1eb7c t\u1eeb tr\u00e1i sang ph\u1ea3i c\u1ee7a khung. K\u1ef9 thu\u1eadt chung \u0111\u1ec3 x\u1eed l\u00fd t\u00ecnh hu\u1ed1ng n\u00e0y \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 qu\u00e9t (panning). H\u01b0\u1edbng m\u00e1y \u1ea3nh theo m\u1ee5c ti\u00eau khi n\u00f3 chuy\u1ec3n \u0111\u1ed9ng, xoay c\u01a1 th\u1ec3 b\u1ea1n n\u1ebfu c\u1ea7n thi\u1ebft. \u0110i\u1ec1u n\u00e0y s\u1ebd gi\u1ea3m t\u1ed1c \u0111\u1ed9 di chuy\u1ec3n t\u01b0\u01a1ng \u0111\u1ed1i so v\u1edbi m\u00e1y \u1ea3nh. B\u1ea1n c\u0169ng c\u00f3 th\u1ec3 thay \u0111\u1ed5i g\u00f3c ch\u1ee5p sao cho m\u1ee5c ti\u00eau \u0111i v\u00e0o g\u00f3c ch\u1ee5p thay v\u00ec ch\u1ea1y ngang khung h\u00ecnh. \u0110i\u1ec1u n\u00e0y cho ph\u00e9p m\u00e1y \u1ea3nh thu \u0111\u01b0\u1ee3c m\u1ee5c ti\u00eau v\u00e0 ch\u1edbp \u0111\u01b0\u1ee3c h\u00e0nh \u0111\u1ed9ng.  \nM\u1ee5c ti\u00eau c\u1ee7a b\u1ee9c h\u00ecnh n\u00ean lu\u00f4n \u1edf v\u1ecb tr\u00ed ng\u1eafm. R\u00e1ng xoay s\u1edf quanh nh\u1eefng gi\u1edbi h\u1ea1n c\u1ee7a thi\u1ebft b\u1ecb v\u00e0 \u0111i\u1ec1u ki\u1ec7n \u00e1nh s\u00e1ng. C\u1ea7u th\u1ee7 b\u00f3ng \u0111\u00e1, xe c\u1ed9 v\u00e0 nh\u1eefng m\u1ee5c ti\u00eau di \u0111\u1ed9ng kh\u00e1c c\u00f3 th\u1ec3 thay \u0111\u1ed5i v\u1eadn t\u1ed1c c\u1ee7a ch\u00fang. Ch\u00fang c\u00f3 th\u1ec3 di chuy\u1ec3n v\u00e0o v\u00e0 ra kh\u1ecfi ngu\u1ed3n s\u00e1ng l\u1edbn h\u01a1n. T\u1ef1 thu x\u1ebfp v\u1ecb tr\u00ed c\u1ee7a m\u00ecnh sao cho b\u1ea1n c\u00f3 th\u1ec3 t\u1eadn d\u1ee5ng \u0111\u01b0\u1ee3c nh\u1eefng kho\u1ea3nh kh\u1eafc t\u1ed1t \u0111\u1ec3 ch\u1ee5p khi m\u1ee5c ti\u00eau v\u00e0o v\u1ecb tr\u00ed t\u1ed1t nh\u1ea5t v\u00e0 di chuy\u1ec3n v\u1edbi t\u1ed1c \u0111\u1ed9 ch\u1eadm h\u01a1n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## NH\u1eeeNG \u0110I\u1ec0U C\u1ea6N GHI NH\u1eda  \n&bull; H\u00e3y ph\u00e1t hi\u1ec7n khi kh\u00f4ng c\u00f3 \u0111\u1ee7 \u00e1nh s\u00e1ng \u0111\u1ec3 ch\u1edbp h\u00ecnh v\u00e0 \u0111i\u1ec1u ch\u1ec9nh. \u0110\u1eebng ti\u1ebfp t\u1ee5c ch\u1ee5p nh\u1eefng h\u00ecnh m\u1edd v\u00e0 hy v\u1ecdng ch\u00fang s\u1ebd t\u1ed1t.  \n&bull; Khi c\u00f3 th\u1ec3, l\u1eadp k\u1ebf ho\u1ea1ch \u0111\u1ec3 c\u00f3 \u00e1nh s\u00e1ng t\u1ed1t.  \n&bull; N\u1ebfu camera c\u1ee7a b\u1ea1n c\u00f3 ch\u1ee9c n\u0103ng \"Action/H\u00e0nh \u0111\u1ed9ng\" \u0111\u1ec3 ch\u1ee5p m\u1ee5c ti\u00eau di chuy\u1ec3n nhanh, h\u00e3y s\u1eed d\u1ee5ng n\u00f3.  \n&bull; \u1ed4n \u0111\u1ecbnh camera c\u1ee7a b\u1ea1n.  \n&bull; Ch\u1ecdn kho\u1ea3nh kh\u1eafc t\u1ed1t nh\u1ea5t \u0111\u1ec3 ch\u1edbp l\u1ea5y h\u00e0nh \u0111\u1ed9ng, th\u01b0\u1eddng khi m\u1ee5c ti\u00eau c\u1ee7a b\u1ea1n chuy\u1ec3n \u0111\u1ed9ng ch\u1eadm h\u01a1n.  \n&bull; S\u1eed d\u1ee5ng \u0111\u00e8n ch\u1edbp.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "C\u00e1i g\u00ec l\u00e0m cho h\u00ecnh m\u1edd khi ch\u1ee5p h\u00ecnh m\u1ee5c ti\u00eau di \u0111\u1ed9ng nhanh?", 
+            "choices": [
+                {
+                    "text": "Qu\u00e1 kh\u1ed5 v\u00e0 kh\u1ea9u \u0111\u1ed9.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "T\u1ed1c \u0111\u1ed9 m\u00e0n tr\u1eadp ch\u1eadm.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "V\u00f4 t\u00ecnh chuy\u1ec3n \u0111\u1ed5i m\u00e1y \u1ea3nh sang ch\u1ebf \u0111\u1ed9 quay video.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "ISO qu\u00e1 cao.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u0110\u00fang ho\u1eb7c Sai: \u1ea2nh m\u1edd c\u00f3 th\u1ec3 g\u00e2y ra b\u1edfi rung tay. \u0110i\u1ec1u quan tr\u1ecdng l\u00e0 ph\u1ea3i \u1ed5n \u0111\u1ecbnh m\u00e1y \u1ea3nh khi mu\u1ed1n ch\u1edbp \u0111\u01b0\u1ee3c h\u00e0nh \u0111\u1ed9ng.", 
+            "choices": [
+                {
+                    "text": "\u0110\u00fang", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Sai", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "text": "![](11.png)  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "L\u00e0m sao b\u1ea1n c\u00f3 th\u1ec3 c\u1ea3i thi\u1ec7n \u0111\u1ed9 r\u00f5 n\u00e9t c\u1ee7a b\u1ee9c h\u00ecnh tr\u00ean?", 
+            "choices": [
+                {
+                    "text": "Ch\u1edd \u0111\u1ebfn th\u1eddi \u0111i\u1ec3m khi m\u1ee5c ti\u00eau chuy\u1ec3n \u0111\u1ed9ng ch\u1eadm h\u01a1n.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Zoom qua ch\u1ebf \u0111\u1ed9 ch\u1ee5p h\u00ecnh xa.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Ch\u1edd \u0111\u1ebfn th\u1eddi \u0111i\u1ec3m m\u00e0 m\u1ee5c ti\u00eau di chuy\u1ec3n \u0111\u1ebfn ch\u1ed7 c\u00f3 nhi\u1ec1u \u00e1nh s\u00e1ng h\u01a1n.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Y\u00eau c\u1ea7u \u0111\u1ed1i t\u01b0\u1ee3ng chuy\u1ec3n \u0111\u1ed9ng nhanh t\u1ef1 ch\u1ee5p h\u00ecnh c\u1ee7a h\u1ecd.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "photographing_fast_moving_objects", 
+    "title": "Ch\u1ee5p \u1ea3nh nh\u1eefng v\u1eadt th\u1ec3 \u0111ang di chuy\u1ec3n nhanh"
+}

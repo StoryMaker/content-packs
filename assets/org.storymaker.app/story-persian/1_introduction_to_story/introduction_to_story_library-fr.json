@@ -1,0 +1,23 @@
+{
+    "title": "Introduction \u00e0 l'histoire", 
+    "storyPathTemplateFiles": {
+        "introduction_to_story": "introduction_to_story.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "introduction_to_story", 
+            "dependencyFile": "introduction_to_story.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "introduction_to_story"
+        }
+    ], 
+    "currentStoryPathFile": "introduction_to_story.json", 
+    "id": "introduction_to_story"
+}

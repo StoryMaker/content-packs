@@ -1,0 +1,31 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "INTRODUCTION A LA S\u00c9CURIT\u00c9", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Aujourd'hui, les citoyens partout dans le monde sont capables de couvrir des histoires qu'il y'a m\u00eame 20 ans ont test\u00e9 les limites des salles de r\u00e9daction professionnelles. L'augmentation de la connectivit\u00e9 offerte par les smartphones et la baisse des co\u00fbts de donn\u00e9es rendre cela possible.  \nCette m\u00eame connectivit\u00e9 cr\u00e9e grands risques nouveaux pour les citoyens et les journalistes professionnels de m\u00eame. Les m\u00e9thodes standard de la communication en ligne ou par mobile laissent une trace qui est facile pour des individus qualifi\u00e9s pour surveiller.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Les journalistes, les militants et les personnes qui craignent d'\u00eatre \u00e0 risque en raison de leurs actions doivent utiliser des m\u00e9thodes non standard de communication. Ces pistes non seulement vous mettent en danger, mais peuvent mettre en danger vos sources, vos contacts et vos coll\u00e8gues. Vous avez la responsabilit\u00e9 de prot\u00e9ger non seulement vous, mais quiconque menac\u00e9 par vos actions.  \nLes le\u00e7ons qui suivent vont d'abord vous aider \u00e0 \u00e9valuer si vous pouvez \u00eatre menac\u00e9s. Apr\u00e8s avoir termin\u00e9 ces le\u00e7ons, vous serez en mesure d'\u00e9valuer le risque pour vous-m\u00eame et d'autres. La derni\u00e8re section fournira mesures sp\u00e9cifiques que vous pouvez prendre pour vous prot\u00e9ger.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "introduction_to_security", 
+    "title": "Introduction \u00e0 la s\u00e9curit\u00e9"
+}

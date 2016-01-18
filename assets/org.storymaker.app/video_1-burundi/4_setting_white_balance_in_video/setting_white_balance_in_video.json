@@ -1,0 +1,225 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Setting white balance in video", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## In this lesson you will learn:  \n&bull; How white balance affects the color of your video clips.  \n&bull; How you can use the white balance setting on your mobile device.  \n&bull; What you can do to improve the accuracy of the color in your video clips.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "![](2.png)  \n### An example of a subject lit by a tungsten bulb  \nTungsten bulbs have a very warm light temperature, coloring images more yellow. \n![](3.png)  \nDifferent sources of light produce light of different color temperatures. Artificial lighting such as home light bulbs produce light with an orange tint to it. Daylight has a blue tint to it.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![](3.jpg)  \n### Example of a professional colored photo  \nOur eyes adjust to these color shifts, but cameras need to adjust a setting called \u201cwhite balance\u201d so the images will appear the way our eyes see them naturally. \n![](4.png)  \n### Same example using the wrong \"white balance.\"\nThe term white balance refers to shifting the color in the image so that anything white in the frame will appear as a neutral white, with no tint.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![](5.png)\n### A common auto white balance icon\nMost cameras have an automatic white balance. This setting will register the color temperature of the prevailing source of light and make the necessary adjustments.  \n![](6.png)  \n## Sample icons for the common white balance options  \nSome cameras have preset white balance options to cope with different types of lighting such as daylight or indoor or incandescent light.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Remember to to change the white balance option if the lighting conditions change. If you come from outside and begin recording inside without adjusting your white-balance setting, your pictures will be very orange. If you are recording indoors and go outside to shoot without adjusting the white balance, you will end up with very blue pictures.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![](5.png)  \n## AWB (auto white balance)  \nUse this setting for shooting anywhere. The mobile device does its best to guess what the right setting should be, but it can provide poor results if the camera guesses wrong. This is the setting you should use if you\u2019re unsure of which setting is the best choice.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![](7.png)  \n## Daylight  \nUse this setting for shooting outdoors. This setting will give your images a very \u201ccool\u201d or slight blue tint. When shooting indoors, this setting will give your images an orange tint.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![](8.png)  \n## Cloudy  \nUse this setting for shooting outdoors. This setting will give your images a slightly \u201cwarmer\u201d color. While the daylight option is technically the more correct white balance, using the cloudy setting creates a very appealing image. When shooting indoors, this setting will give your images a strong orange tint.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "![](9.png)  \n## Incandescent  \nUse this setting for shooting indoors, where the room is lit with traditional small light bulbs. When shooting outdoors, this setting will give your images a strong blue tint.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "![](10.png)  \n## Fluorescent  \nUse this setting when shooting indoors, where the room is lit with long, tube fluorescent lights. When shooting outdoors, this setting will give your images a blue tint.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## THINGS TO REMEMBER  \n&bull; You can set the white balance by holding a white piece of paper in front of your camera. A white wall or white material can also work.  \n&bull; Using the auto white balance setting, point your camera at the intended subject, and wait 3-5 seconds before you begin recording. This will improve the automatic correction.  \n&bull; Always update your white balance setting when you move to a different lighting situation.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "question": "What color tint does daylight give?", 
+            "id": "quiz_card_1", 
+            "choices": [
+                {
+                    "text": "Orange", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Black", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Red", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Blue", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "question": "What color tint does artificial light give?", 
+            "id": "quiz_card_2", 
+            "choices": [
+                {
+                    "text": "Orange", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Black", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Red", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Blue", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "question": "If I do not know what setting to use, what should I do?", 
+            "id": "quiz_card_3", 
+            "choices": [
+                {
+                    "text": "Ignore it", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Use auto white balance", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Use incandescent", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Use cloudy", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "question": "If you are filming outside with an appropriate white balance, what color will your image become if you move inside without changing the white-balance setting?", 
+            "id": "quiz_card_4", 
+            "choices": [
+                {
+                    "text": "Blue", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Green", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Orange", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Purple", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "11.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Setting white balance in video", 
+            "exampleMediaPath": "11.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "question": "The white-balance setting is wrong in the shot aboe. Which setting should have been used?", 
+            "id": "quiz_card_5", 
+            "choices": [
+                {
+                    "text": "Cloudy", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Daylight", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "It is actually set correctly.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Fluorescent", 
+                    "id": "answer_4"
+                }
+            ]
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "setting_white_balance_in_video", 
+    "title": "Setting White Balance in Video"
+}

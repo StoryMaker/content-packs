@@ -1,0 +1,203 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Nokoresha neza gute ijwi bivanye n'inkuru ndiko ndakora?  ", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Muri iki cigwa uzokwiga:  \n&bull; Ingene ubwoko bw'inkuru bufasha kumenya ingene ukora amajwi kwawe n'ingene uyatanga.  \n&bull; Ingene wigira inama ubwoko bw'amajwi ukeneye munkuru yawe.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Bivanye n'ico iyo nkuru yerekeye n'ingene ushaka kuyigira, wokoresha uburyo bwogukora no gutanga amajwi butandukanye.  \nRimwenarimwe ushobora kwisanga ugeze hagati nahagati y'icabaye canke inkuru, bisaba uburyo bwo gutanga ijwi bwiharije cane kuri aho. Ahandi naho, birashoboka ko ico uburiko urakorerako gisaba ivyabona bitandukanye n'amajwi atandukanye bica bisabwa gukorwa mubundi buryo.  \nMugihe uburyo bwokubikora burenga bumwe, ng'izi ingingo wokurikiza kugira utange neza bivanye n'ubwoko bw'inkuru.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Ivyo gushimikirako/ Inkuru igezweho  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "2.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Akarorero k'inkuru igezweho.  ", 
+            "exampleMediaPath": "2.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Mugutanga inkuru ncamugongo (ibabaje) bisaba ijwi risigura ibiriko biraba, rivuga mumajambo make ibintu nyamukuru, ababikoze, n'iyindi nkuru iyariyo yose imaze kumenyekana. kubera ukwo gutanga inkuru bishobora gutangwa kunkuru ikiriko iraba, rimwe na rimwe hashobora kuba hari ibibibazo biba bitarishugwa biza kwishugwa munkuru zo hanyuma zinoboye. Inkuru ncamugongo yerekana uwuyitanze ari aho vyabereye, agakoresha ijwi ryiwe asigura ibimaze kumenyekana murako kanya nivyoshobora kubonwa kurivyo aho nyene. Rimwe rimwe, inkuru ncamugongo ishobora gutangwa utegereye aho yabereye ukoresheje inkuru wakuye kubandi mugihe bidashoboka kuhishikira. Muga ningirakamaro nimiburiburi kwishura kuri bino bibazo: Inde, Iki, Hehe, Kubera, Ryari na Gute.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "#Ivyabaye  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "3.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Akarorero k'ugutanga icabaye.  ", 
+            "exampleMediaPath": "3.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Aho bitandukaniye n'inkuru zigezweho, ibindi biba vyateguwe igihe cose, bikaba ari navyo bifasha uwuyitanga gutegura ingene aza gutegura inkuru imbere kwayivuga. inkuru itanzwe mukuyivuga itegerezwa kwerekana uwo ivuga, ico ivuga, n'igituma. Nivyiza kandi kugira ama interviews n'abaraho canke ico bayivuzeko  kugira uronke inkuru yiyongerako n'ico bavyiyumvirako. Ibiganiro akenshi biba bifise ababitumiwemwo nk'abashitsi b'iteka, abantu ntahara mukuvuga mubanza mukavugana mugutegura urukurikirane rwa interview. naho wigira inama kudakoresha amajwi wakuye murayo ma interviews, nivyiza kuyakora hama ugafata ayo majwi nk'igikoresho canyuma.  \nNkuko ubwoko bwinshi bw'inkuru ziciye mwifatwa ry'amajwi, urashobora gukoresha ijwi rimwe nk'uwusigura ibiriko biraba n'igituma. uwo muntu ashobora kuba uwo muri studio canke uwundi w'aho hantu atanga inetrviws canke inkuru.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "# Ingorane  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "4.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Akarorero k'inkuru.  ", 
+            "exampleMediaPath": "4.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Aho bitandukaniye n'inkuru ncamugongo, ibindi biba vyateguwe igihe cose, bikaba ari navyo bifasha uwuyitanga gutegura ingene aza gutegura inkuru imbere kwayivuga. inkuru itanzwe mukuyivuga itegerezwa kwerekana uwo ivuga, ico ivuga, n'igituma. Nivyiza kandi kugira ama interviews n'abaraho canke ico bayivuzeko  kugira uronke inkuru yiyongerako n'ico bavyiyumvirako. Ibiganiro akenshi biba bifise ababitumiwemwo nk'abashitsi b'iteka, abantu ntahara mukuvuga mubanza mukavugana mugutegura urukurikirane rwa interview. naho wigira inama kudakoresha amajwi wakuye murayo ma interviews, nivyiza kuyakora hama ugafata ayo majwi nk'igikoresho canyuma.  \nNkuko ubwoko bwinshi bw'inkuru ziciye mwifatwa ry'amajwi, urashobora gukoresha ijwi rimwe nk'uwusigura ibiriko biraba n'igituma. uwo muntu ashobora kuba uwo muri studio canke uwundi w'aho hantu atanga inetrviws canke inkuru.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "5.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Akarorero k'inkuru ukuye henshi.  ", 
+            "exampleMediaPath": "5.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "## IBINTU VYOKWIBUKA  \n&bull; Nivyiza ko humvikana amamajwi arenze rimwe munkuru.  \n&bull; Shiramwo ubwoko butandukanye bwahavuye inkuru.  \n&bull; Numenye neza kwishura inyishu zitomoye kuri uyuhe, hehe, ryari na kuberiki munkuru.  \n&bull; N'utomore, ushimangire kunkuru imwe n'icivuga nyamukuru.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Intumbero nyamukuru k'inkuru ncamugongo ni  ", 
+            "choices": [
+                {
+                    "text": "Gukora raporo iramvuye yo kwumviriza harimwo uburondezi bukwiye na interviews nyinshi.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Kwerekana umushitsi w'iteka ariko aravuga mw'ihwaniro rihambaye.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Mukuvuga muncamake inkuru irhari ifatiye kubiriko biraba ubu; icavuyemwo ntikaramenyekana bikwiye kandi hazokenerwa amaraporo araba ingene vyagenze.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ntanimwe muri izo nyishu.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Akamaro ko gufata amajwi kucabaye ni  ", 
+            "choices": [
+                {
+                    "text": "Urashobora gutegura imbere, kugira uburondezi ukanategura ingene ukora ama interviews ajanye n'icabaye.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Ntamwanya ufise wokugira uburondezi, vuga gusa ico uzi.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Ntibishoboka gukora interview aho bibereye.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ibiri hejuru vyose.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Mukuvuga ivyabaye bishobora gukorwa m'ubuhe bwoko bwo gutanga inkuru mumajwi:  ", 
+            "choices": [
+                {
+                    "text": "Ingorane  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Umusi mukuru  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Profile  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ivyo bituze  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "types_of_stories", 
+    "title": "Ubwoko bw'inkuru  "
+}

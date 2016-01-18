@@ -1,0 +1,23 @@
+{
+    "title": "C\u00e1c trang web n\u1ed9i dung", 
+    "storyPathTemplateFiles": {
+        "content_sites": "content_sites.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "content_sites", 
+            "dependencyFile": "content_sites.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "content_sites"
+        }
+    ], 
+    "currentStoryPathFile": "content_sites.json", 
+    "id": "content_sites"
+}

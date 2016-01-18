@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "recording_tips_and_techniques", 
+            "dependencyFile": "recording_tips_and_techniques.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Recording Tips and Techniques", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "recording_tips_and_techniques"
+        }
+    ], 
+    "currentStoryPathFile": "recording_tips_and_techniques.json", 
+    "storyPathTemplateFiles": {
+        "recording_tips_and_techniques": "recording_tips_and_techniques.json"
+    }, 
+    "id": "recording_tips_and_techniques"
+}

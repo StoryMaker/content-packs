@@ -1,0 +1,197 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Nh\u1eefng l\u1ee3i th\u1ebf n\u00e0o c\u1ee7a c\u00e1c trang n\u1ed9i dung video hi\u1ec7n c\u00f3?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Trong b\u00e0i n\u00e0y b\u1ea1n s\u1ebd h\u1ecdc:  \n&bull; Hi\u1ec3u v\u1ec1 s\u1ef1 kh\u00e1c nhau gi\u1eefa trang th\u01b0\u01a1ng m\u1ea1i v\u00e0 trang kh\u00f4ng th\u01b0\u01a1ng m\u1ea1i.  \n&bull; L\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 ch\u1ecdn trang n\u00e0o t\u1ed1t nh\u1ea5t cho video c\u1ee7a b\u1ea1n.  \n&bull; S\u1ef1 ph\u00e2n bi\u1ec7t gi\u1eefa v\u00e0i trang \u0111\u0103ng t\u1ea3i video c\u1ee5 th\u1ec3.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "![](2.png)  \nC\u00e1c n\u1ec1n t\u1ea3ng ph\u00e2n ph\u1ed1i thay \u0111\u1ed5i b\u1ea3n ch\u1ea5t,th\u00f4ng s\u1ed1 k\u1ef9 thu\u1eadt v\u00e0 y\u00eau c\u1ea7u. \u0110i\u1ec1u quan tr\u1ecdng l\u00e0 b\u1ea1n bi\u1ebft \u0111\u01b0\u1ee3c nh\u1eefng l\u1ef1a ch\u1ecdn c\u1ee7a m\u00ecnh khi b\u1ea1n quy\u1ebft \u0111\u1ecbnh n\u01a1i n\u00e0o m\u00e0 b\u1ea1n s\u1ebd \u0111\u0103ng t\u1ea3i video c\u1ee7a m\u00ecnh \u0111\u1ec3 c\u00f3 t\u00e1c \u0111\u1ed9ng l\u1edbn nh\u1ea5t.  \nM\u1ed9t s\u1ed1 trang b\u1eaft \u0111\u1ea7u v\u00e0 s\u1ed1 kh\u00e1c th\u00ec bi\u1ebfn m\u1ea5t, do \u0111\u00f3 th\u00f4ng tin n\u00e0y ch\u1ec9 l\u00e0 h\u01b0\u1edbng d\u1eabn cho b\u1ea1n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "C\u00f3 h\u00e0ng tr\u0103m trang web th\u01b0\u01a1ng m\u1ea1i cho ph\u00e9p b\u1ea1n \u0111\u0103ng t\u1ea3i video c\u1ee7a b\u1ea1n. M\u1ed9t trong nh\u1eefng b\u1ea5t l\u1ee3i l\u1edbn nh\u1ea5t \u1edf nh\u1eefng trang th\u01b0\u01a1ng m\u1ea1i \u0111\u00f3 l\u00e0 c\u00e1c qu\u1ea3ng c\u00e1o \u0111\u1ee9ng g\u1ea7n v\u1edbi video c\u1ee7a b\u1ea1n. Nhi\u1ec1u trong s\u1ed1 nh\u1eefng trang \u0111\u00f3 ho\u1ea1t \u0111\u1ed9ng nh\u01b0 l\u00e0 nh\u1eefng m\u1ea1ng l\u01b0\u1edbi x\u00e3 h\u1ed9i tr\u1ef1c tuy\u1ebfn.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![](3.png)  \nC\u00f3 r\u1ea5t nhi\u1ec1u nh\u1eefng n\u01a1i chia s\u1ebb video kh\u00f4ng l\u1ee3i nhu\u1eadn t\u1eadp trung v\u00e0o c\u00f4ng l\u00fd, m\u00f4i tr\u01b0\u1eddng ho\u1eb7c nh\u00e2n quy\u1ec1n.  \nH\u00e3y ch\u00fa \u00fd v\u00e0o nh\u1eefng v\u1ea5n \u0111\u1ec1 an ninh kh\u00f4ng ch\u1ec9 cho b\u1ea3n th\u00e2n m\u00e0 cho t\u1ea5t c\u1ea3 nh\u1eefng ng\u01b0\u1eddi trong video khi b\u1ea1n \u0111\u0103ng t\u1ea3i. M\u1ed9t khi b\u1ea1n \u0111\u0103ng t\u1ea3i m\u1ed9t file, b\u1ea1n kh\u00f4ng bao gi\u1edd c\u00f3 th\u1ec3 b\u1ea3o \u0111\u1ea3m r\u1eb1ng c\u00f3 th\u1ec3 xo\u00e1 n\u00f3. N\u1ebfu n\u1ed9i dung c\u1ee7a b\u1ea1n mang t\u00ednh r\u1ee7i ro, t\u1ed1t nh\u1ea5t l\u00e0 h\u00e3y ch\u1edd cho \u0111\u1ebfn th\u1eddi \u0111i\u1ec3m an to\u00e0n h\u01a1n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "# Nh\u1eefng trang web th\u01b0\u01a1ng m\u1ea1i", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![](4.png)  \n### YouTube  \nYouTube l\u00e0 m\u1ed9t trang chia s\u1ebb video l\u1edbn nh\u1ea5t tr\u00ean th\u1ebf gi\u1edbi. \u0110\u00f3 l\u00e0 m\u1ed9t \u0111\u01b0\u1eddng tuy\u1ec7t v\u1eddi \u0111\u1ec3 \u0111\u1ebfn \u0111\u01b0\u1ee3c v\u1edbi nhi\u1ec1u kh\u00e1n gi\u1ea3. H\u00e3y \u0111\u1ea3m b\u1ea3o b\u1ea1n c\u00f3 m\u1ed9t chi\u1ebfn d\u1ecbch c\u1ea3m x\u00fac \u0111\u1ec3 h\u01b0\u1edbng m\u1ecdi ng\u01b0\u1eddi xem video c\u1ee7a b\u1ea1n. C\u00f3 r\u1ea5t nhi\u1ec1u video tr\u00ean YouTube, v\u00e0 c\u00f3 th\u1ec3 kh\u00f3 h\u01a1n \u0111\u1ec3 \u0111\u1ebfn v\u1edbi kh\u00e1n gi\u1ea3. Th\u00eam n\u1eefa, c\u00f3 kh\u00f3 kh\u0103n trong li\u00ean k\u1ebft m\u1ecdi ng\u01b0\u1eddi quay l\u1ea1i v\u1edbi trang c\u1ee7a b\u1ea1n, v\u00e0 YouTube s\u1eed d\u1ee5ng \u0110i\u1ec1u kho\u1ea3n s\u1eed d\u1ee5ng \u0111\u1ec3 xo\u00e1 nh\u1eefng video tuy\u00ean truy\u1ec1n. M\u1ed9t s\u1ed1 qu\u1ed1c gia ch\u1eb7n YouTube.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![](5.png)  \n### Vimeo  \nVimeo c\u00f3 giao di\u1ec7n ng\u01b0\u1eddi d\u00f9ng b\u00f3ng b\u1ea9y v\u00e0 \u0111\u0103ng t\u1ea3i video ph\u1ea9m ch\u1ea5t cao h\u01a1n. Tuy nhi\u00ean, r\u1ea5t kh\u00f3 \u0111\u1ec3 c\u00f3 th\u1ec3 chuy\u1ec3n t\u1ea3i video v\u00e0 \u0111\u0103ng t\u1ea3i \u1edf website kh\u00e1c.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![](6.png)  \n### Facebook  \nN\u1ebfu b\u1ea1n \u0111ang th\u1ef1c hi\u1ec7n m\u1ed9t chi\u1ebfn d\u1ecbch s\u1eed d\u1ee5ng Facebook, chia s\u1ebb video \u1edf trang n\u00e0y r\u1ea5t hi\u1ec7u qu\u1ea3. Tuy nhi\u00ean, video m\u00e0 b\u1ea1n chia s\u1ebb, th\u01b0\u1eddng \u0111\u01b0\u1ee3c ph\u00e1t t\u00e1n gi\u1edbi h\u1ea1n \u1edf nh\u00f3m ho\u1eb7c chi\u1ebfn d\u1ecbch m\u00e0 b\u1ea1n li\u00ean k\u1ebft tr\u00ean Facebook.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "![](7.png)  \n### LiveLeak  \nnLiveLeak l\u00e0 m\u1ed9t trang web \u0111\u00f4i khi g\u00e2y tranh c\u00e3i, n\u00f3 nh\u1ea5n m\u1ea1nh s\u1ef1 ki\u1ec7n th\u1eddi s\u1ef1, ch\u00ednh tr\u1ecb, v\u00e0 c\u1ea3nh quay d\u1ef1a tr\u00ean th\u1ef1c t\u1ebf nh\u01b0 nh\u1eefng c\u1ea3nh chi\u1ebfn tranh t\u1eeb c\u00e1c n\u01a1i tr\u00ean th\u1ebf gi\u1edbi.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "# Nh\u1eefng trang kh\u00f4ng th\u01b0\u01a1ng m\u1ea1i", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "![](8.png)  \n### The Internet Archive  \nArchive.org ch\u1ee9a h\u00e0ng ngh\u00ecn phim k\u1ef9 thu\u1eadt s\u1ed1, t\u1eeb nh\u1eefng phim c\u1ed5 \u0111i\u1ec3n \u0111\u1ea7y \u0111\u1ee7 cho t\u1edbi nh\u1eefng tin t\u1ee9c b\u1eb1ng video do ng\u01b0\u1eddi s\u1eed d\u1ee5ng \u0111\u0103ng t\u1ea3i. T\u1ea5t c\u1ea3 nh\u1eefng phim \u0111\u00f3 s\u1eb5n s\u00e0ng \u0111\u1ec3 \u0111\u01b0\u1ee3c t\u1ea3i v\u1ec1, th\u01b0\u1eddng \u1edf \u0111\u1ed9 ph\u00e2n gi\u1ea3i r\u1ea5t cao, v\u00e0 kh\u00f4ng c\u1ea7n b\u1ea3n quy\u1ec1n, do \u0111\u00f3 n\u00f3 l\u00e0 n\u01a1i tuy\u1ec7t v\u1eddi \u0111\u1ec3 t\u00ecm c\u1ea3nh \u0111\u1ec3 s\u1eed d\u1ee5ng trong s\u1ea3n xu\u1ea5t.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "![](9.png)  \n### EngageMedia  \nEngageMedia l\u00e0 m\u1ed9t t\u1eadp th\u1ec3 phi l\u1ee3i nhu\u1eadn cung c\u1ea5p c\u00f4ng c\u1ee5 b\u00e1o ch\u00ed cho nh\u1eefng ng\u01b0\u1eddi ho\u1ea1t \u0111\u1ed9ng, v\u1eadn \u0111\u1ed9ng, c\u1ed9ng \u0111\u1ed3ng v\u00e0 nh\u00e0 b\u00e1o c\u00f4ng d\u00e2n. B\u1ea1n c\u00f3 th\u1ec3 \u0111\u0103ng t\u1ea3i nh\u1eefng video v\u1ec1 nh\u1eefng v\u1ea5n \u0111\u1ec1 thu\u1ed9c c\u00f4ng l\u00fd v\u00e0 m\u00f4i tr\u01b0\u1eddng. N\u00f3 t\u1eadp trung v\u00e0o khu v\u1ef1c ch\u00e2u \u00c1- Th\u00e1i B\u00ecnh D\u01b0\u01a1ng, nh\u01b0ng video t\u1eeb khu v\u1ef1c kh\u00e1c c\u0169ng \u0111\u01b0\u1ee3c ch\u00e0o \u0111\u00f3n. EngageMedia h\u01b0\u1edbng t\u1edbi vi\u1ec7c l\u01b0u tr\u1eef nh\u1eefng video \u0111\u1ed9c l\u1eadp s\u1eed d\u1ee5ng b\u1ea3n quy\u1ec1n n\u1ed9i dung m\u1edf v\u00e0 t\u1ea1o ra m\u1ea1ng l\u01b0\u1edbi c\u1ee7a nh\u1eefng ng\u01b0\u1eddi s\u1ea3n xu\u1ea5t video, nh\u00e0 gi\u00e1o d\u1ee5c, v\u00e0 c\u00e1c t\u1ed5 ch\u1ee9c s\u00e0ng l\u1ecdc. \u0110a s\u1ed1 v\u1eadt li\u1ec7u \u1edf d\u1ea1ng ti\u1ebfng Anh, v\u00e0 m\u1ed9t s\u1ed1 l\u00e0 c\u00e1c ng\u00f4n ng\u1eef ch\u00e2u \u00c1.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "![](10.png)  \n### Nh\u1eefng trang web c\u00f3 l\u1ee3i kh\u00e1c  \n&bull; uStream / LiveStream \u2014 l\u00e0 m\u1ed9t d\u1ecbch v\u1ee5 tr\u1ef1c tuy\u1ebfn  \n&bull; Transmission cc \u2014 m\u1ed9t m\u1ea1ng l\u01b0\u1edbi qu\u1ed1c t\u1ebf v\u1ec1 c\u00e1c d\u1ef1 \u00e1n video tr\u1ef1c tuy\u1ebfn c\u1ee7a c\u00f4ng l\u00fd x\u00e3 h\u1ed9i  \n&bull; Clearer Channel \u2014 m\u1ed9t d\u1ef1 \u00e1n video tr\u1ef1c tuy\u1ebfn khuy\u1ebfn kh\u00edch ng\u01b0\u1eddi xem t\u1ea3i v\u00e0 truy\u1ec1n b\u00e1 video \u0111\u1ec3 thay \u0111\u1ed5i x\u00e3 h\u1ed9i  \n&bull; IMC Video \u2014 B\u00e1o ch\u00ed qu\u1ed1c t\u1ebf \u0111\u1ed9c l\u1eadp  \n&bull; dotSUB \u2014 m\u1ed9t trang web cho ph\u00e9p ng\u01b0\u1eddi xem d\u1ecbch video c\u1ee7a m\u00ecnh theo m\u1ed9t ng\u00f4n ng\u1eef kh\u00e1c c\u00f3 s\u1eed d\u1ee5ng ph\u1ee5 \u0111\u1ec1  \n&bull; Amara \u2014 m\u1ed9t trang cho ph\u00e9p ng\u01b0\u1eddi s\u1eed d\u1ee5ng l\u00e0m ph\u1ee5 \u0111\u1ec1 cho nh\u1eefng video tr\u1ef1c tuy\u1ebfn t\u1eeb nhi\u1ec1u n\u01a1i", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "YouTube c\u00f3 nh\u1eefng v\u1ea5n \u0111\u1ec1 n\u00e0o? (C\u00f3 th\u1ec3 c\u00f3 h\u01a1n m\u1ed9t c\u00e2u tr\u1ea3 l\u1eddi.)", 
+            "choices": [
+                {
+                    "text": "R\u1ea5t kh\u00f3 \u0111\u1ec3 k\u00e9o m\u1ecdi ng\u01b0\u1eddi v\u1ec1 trang c\u1ee7a b\u1ea1n.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "N\u00f3 s\u1ebd s\u1eed d\u1ee5ng \u0110i\u1ec1u kho\u1ea3n s\u1eed d\u1ee5ng d\u1ecbch v\u1ee5 \u0111\u1ec3 xo\u00e1 video.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "\u1ede m\u1ed9t s\u1ed1 n\u01a1i YouTube b\u1ecb ch\u1eb7n.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Kh\u00f4ng ph\u1ea3i nh\u1eefng \u0111i\u1ec1u tr\u00ean.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Videos tr\u00ean Facebook:", 
+            "choices": [
+                {
+                    "text": "Kh\u00f4ng ai xem c\u1ea3.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Ch\u1ec9 cho gia \u0111\u00ecnh b\u1ea1n xem.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Gi\u1edbi h\u1ea1n \u1edf nh\u00f3m ho\u1eb7c chi\u1ebfn d\u1ecbch m\u00e0 b\u1ea1n li\u00ean k\u1ebft tr\u00ean Facebook.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "S\u1ebd \u0111\u01b0\u1ee3c \u01b0a chu\u1ed9ng r\u1ea5t nhi\u1ec1u.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Trang n\u00e0o cho ph\u00e9p t\u1ea3i t\u1ef1 do, th\u01b0\u1eddng \u1edf \u0111\u1ed9 ph\u00e2n gi\u1ea3i r\u1ea5t cao, v\u00e0 kh\u00f4ng c\u1ea7n b\u1ea3n quy\u1ec1n?", 
+            "choices": [
+                {
+                    "text": "Facebook", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Vimeo", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "YouTube", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Archive.org", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "Nh\u1eefng trang n\u00e0o cho ph\u00e9p b\u1ea1n d\u1ecbch video c\u1ee7a b\u1ea1n qua nhi\u1ec1u ng\u00f4n ng\u1eef kh\u00e1c nhau d\u00f9ng ph\u1ee5 \u0111\u1ec1?", 
+            "choices": [
+                {
+                    "text": "DotSUB", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Amara", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Vimeo", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Transmission CC", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "content_sites", 
+    "title": "C\u00e1c trang web ch\u1ee9a n\u1ed9i dung video"
+}

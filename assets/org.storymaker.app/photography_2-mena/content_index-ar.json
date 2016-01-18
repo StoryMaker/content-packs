@@ -1,0 +1,32 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/photography_2-mena/1_the_photo_essay/the_photo_essay_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-mena/cover.png", 
+    "language": "ar", 
+    "title": "The Photo Essay"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_2-mena/2_photographing_fast_moving_objects/photographing_fast_moving_objects_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-mena/cover.png", 
+    "language": "ar", 
+    "title": "Photographing Fast Moving Objects"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_2-mena/3_setting_white_balance/setting_white_balance_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-mena/cover.png", 
+    "language": "ar", 
+    "title": "Setting White Balance"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_2-mena/4_photographing_different_stories/photographing_different_stories_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-mena/cover.png", 
+    "language": "ar", 
+    "title": "Photographing Different Stories"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_2-mena/5_photographing_difficult_uncomfortable_situations/photographing_difficult_uncomfortable_situations_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-mena/cover.png", 
+    "language": "ar", 
+    "title": "Photographing Difficult Uncomfortable Situations"
+  }
+]

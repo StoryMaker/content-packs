@@ -1,0 +1,23 @@
+{
+    "title": "Notions de base pour l'audio", 
+    "storyPathTemplateFiles": {
+        "audio_basics": "audio_basics.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "audio_basics", 
+            "dependencyFile": "audio_basics.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "audio_basics"
+        }
+    ], 
+    "currentStoryPathFile": "audio_basics.json", 
+    "id": "audio_basics"
+}

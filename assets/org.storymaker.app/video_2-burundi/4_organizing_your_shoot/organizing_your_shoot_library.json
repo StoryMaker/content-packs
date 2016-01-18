@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "organizing_your_shoot", 
+            "dependencyFile": "organizing_your_shoot.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Organizing Your Shoot", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "organizing_your_shoot"
+        }
+    ], 
+    "currentStoryPathFile": "organizing_your_shoot.json", 
+    "storyPathTemplateFiles": {
+        "organizing_your_shoot": "organizing_your_shoot.json"
+    }, 
+    "id": "organizing_your_shoot"
+}
