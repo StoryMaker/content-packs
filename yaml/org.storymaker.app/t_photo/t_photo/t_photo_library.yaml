@@ -11,23 +11,23 @@
         t_photo_process: t_photo_process.json
     dependencies:
         -
-        dependencyId: t_photo_highlights
-        dependencyFile: t_photo_highlights.json
+            dependencyId: t_photo_highlights
+            dependencyFile: t_photo_highlights.json
         -
-        dependencyId: t_photo_series_character
-        dependencyFile: t_photo_series_character.json
+            dependencyId: t_photo_series_character
+            dependencyFile: t_photo_series_character.json
         -
-        dependencyId: t_photo_series_place
-        dependencyFile: t_photo_series_place.json
+            dependencyId: t_photo_series_place
+            dependencyFile: t_photo_series_place.json
         -
-        dependencyId: t_photo_series_action
-        dependencyFile: t_photo_series_action.json
+            dependencyId: t_photo_series_action
+            dependencyFile: t_photo_series_action.json
         -
-        dependencyId: t_photo_series_signature
-        dependencyFile: t_photo_series_signature.json
+            dependencyId: t_photo_series_signature
+            dependencyFile: t_photo_series_signature.json
         -
-        dependencyId: t_photo_process
-        dependencyFile: t_photo_process.json
+            dependencyId: t_photo_process
+            dependencyFile: t_photo_process.json
 
     cards:
         -

@@ -13,29 +13,29 @@
         t_news_profile_video: t_news_profile_video.json
     dependencies:
         -
-        dependencyId: t_news_breaking_audio
-        dependencyFile: t_news_breaking_audio.json
+            dependencyId: t_news_breaking_audio
+            dependencyFile: t_news_breaking_audio.json
         -
-        dependencyId: t_news_breaking_video
-        dependencyFile: t_news_breaking_video.json
+            dependencyId: t_news_breaking_video
+            dependencyFile: t_news_breaking_video.json
         -
-        dependencyId: t_news_event_audio
-        dependencyFile: t_news_event_audio.json
+            dependencyId: t_news_event_audio
+            dependencyFile: t_news_event_audio.json
         -
-        dependencyId: t_news_event_video
-        dependencyFile: t_news_event_video.json
+            dependencyId: t_news_event_video
+            dependencyFile: t_news_event_video.json
         -
-        dependencyId: t_news_issue_audio
-        dependencyFile: t_news_issue_audio.json
+            dependencyId: t_news_issue_audio
+            dependencyFile: t_news_issue_audio.json
         -
-        dependencyId: t_news_issue_video
-        dependencyFile: t_news_issue_video.json
+            dependencyId: t_news_issue_video
+            dependencyFile: t_news_issue_video.json
         -
-        dependencyId: dependencyId: t_news_profile_audio
-        dependencyFile: t_news_profile_audio.json
+            dependencyId: t_news_profile_audio
+            dependencyFile: t_news_profile_audio.json
         -
-        dependencyId: t_news_profile_video
-        dependencyFile: t_news_profile_video.json
+            dependencyId: t_news_profile_video
+            dependencyFile: t_news_profile_video.json
     cards:
         -
             type: TipCollectionHeadlessCard
