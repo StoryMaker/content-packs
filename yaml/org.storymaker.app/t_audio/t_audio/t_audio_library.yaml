@@ -10,7 +10,28 @@
         t_audio_highlights: t_audio_highlights.json
         t_audio_report_event: t_audio_report_event.json
         t_audio_report_issue: t_audio_report_issue.json
-
+    dependencies:
+        -
+          dependencyId: t_audio_day_in_the_life
+          dependencyFile: t_audio_day_in_the_life.json
+        -
+          dependencyId: t_audio_discussion_question_1
+          dependencyFile: t_audio_discussion_question_1.json
+        -
+          dependencyId: t_audio_discussion_question_2
+          dependencyFile: t_audio_discussion_question_2.json
+        -
+          dependencyId: t_audio_discussion_question_3
+          dependencyFile: t_audio_discussion_question_3.json
+        -
+          dependencyId: t_audio_highlights
+          dependencyFile: t_audio_highlights.json
+        -
+          dependencyId: t_audio_report_event
+          dependencyFile: t_audio_report_event.json
+        -
+          dependencyId: t_audio_report_issue
+          dependencyFile: t_audio_report_issue.json
     cards:
         -
             type: TipCollectionHeadlessCard

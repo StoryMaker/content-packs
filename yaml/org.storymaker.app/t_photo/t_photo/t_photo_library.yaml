@@ -9,6 +9,25 @@
         t_photo_series_action: t_photo_series_action.json
         t_photo_series_signature: t_photo_series_signature.json
         t_photo_process: t_photo_process.json
+    dependencies:
+        -
+        dependencyId: t_photo_highlights
+        dependencyFile: t_photo_highlights.json
+        -
+        dependencyId: t_photo_series_character
+        dependencyFile: t_photo_series_character.json
+        -
+        dependencyId: t_photo_series_place
+        dependencyFile: t_photo_series_place.json
+        -
+        dependencyId: t_photo_series_action
+        dependencyFile: t_photo_series_action.json
+        -
+        dependencyId: t_photo_series_signature
+        dependencyFile: t_photo_series_signature.json
+        -
+        dependencyId: t_photo_process
+        dependencyFile: t_photo_process.json
 
     cards:
         -
@@ -90,7 +109,7 @@
 
                 -
                     id: t_photo_series_signature
-                    text: Objects
+                    text: A Series of Objects
 
         -
             type: MilestoneCard
@@ -103,7 +122,7 @@
             type: TextCard
             text: 'A photo essay is a story told over any number of related photos. These templates will guide you to get all the photos you need to tell a variety of stories.'
             references:
-              - video_library::ms_moreinfo::value::true
+              - t_photo_library::ms_moreinfo::value::true
 
         -
             type: HookLoaderHeadlessCard
