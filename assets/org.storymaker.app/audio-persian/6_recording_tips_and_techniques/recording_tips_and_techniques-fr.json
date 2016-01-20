@@ -1,0 +1,175 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "J'ai mon portable et je suis pr\u00eat \u00e0 enregistrer. Qu'est ce que je peux faire pour m'assurer que l'enregistrement sera bien fait?  ", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Dans cette le\u00e7on vous allez apprendre:  \n&bull; Les techniques pour \u00e9viter les probl\u00e8mes communs en enregistrant l'audio avec un portable  \n&bull; Comment identifier les causes potentielles d'une mauvaise qualit\u00e9 de son  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "L'enregistrement audio est facile, mais il y'a de nombreuses fa\u00e7ons de ruiner l'enregistrement de sorte qu'il soit inutilisable. Pour s'assurer que cela n' arrive pas, pratiquez ces \u00e9tapes simples lorsque vous enregistrez une entrevue, un son d'appui , ou enregistrer votre voix en racontant une histoire . Suivre ces \u00e9tapes peut emp\u00eacher un probl\u00e8me audio avant qu'elle ne survienne. Une fois que votre audio est mal enregistr\u00e9e il est extr\u00eamement difficile pour le sauvegarder.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Manier le bruit et la poign\u00e9e](2.png)  \n## Manier le bruit et la poign\u00e9e  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "3.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Exemple de manipulation de bruit  ", 
+            "exampleMediaPath": "3.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Lors de la pr\u00e9paration pour enregistrer, maintenez votre appareil d'une mani\u00e8re qui est confortable et naturelle. Tenez l'appareil sans appliquer beaucoup de pression, d'une mani\u00e8re que vous pouvez tenir pour une p\u00e9riode de temps prolong\u00e9e. Sinon, vous pouvez entendre \"bruits de manipulation\" dans votre audio, cela se produit lorsque vous d\u00e9placez le micro pendant l'enregistrement, et votre main ou quelque chose d'autre se frotte \u00e0 travers le microphone.  \n![Reposez votre coude](1.png)  \nSi vous devez tenir l'appareil d'enregistrement \u00e0 la personne tout au long de l'entrevue, reposez votre coude sur une surface solide. Il est pr\u00e9f\u00e9rable de s'asseoir, reposez votre coude sur la table et d'\u00e9tendre le bras vers la source audio.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![Tenir le micro un peu sous la bouche](4.png)  \nTenez le micro un peu sous la bouche de la personne interrog\u00e9e de sorte que le flux d'air sortant de sa bouche ne cr\u00e9era pas de sifflement ou des claquements dans l'enregistrement.  \nS' il y'a une table entre vous et la personne que vous interviewez, vous pouvez r\u00e9gler l'enregistreur sur une table, mais prendre soin qu'aucune personne touche ou bien frappe la table, car cela peut causer du bruit de contact.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![Exemple d'un support de micro](5.png)  \nIl existe plusieurs types de supports qui correspondent les enregistreurs ou les t\u00e9l\u00e9phones portables pour les maintenir en place pendant l'entrevue. Vous pouvez faire vos propres supports en utilisant des mat\u00e9riaux que vous avez. Tout ce que vous pouvez utiliser pour reposer l'enregistreur pour le maintenir\u00a0 au niveau du visage avec votre source audio.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "## Bruits et audio de fond  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "6.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Exemple d'un son du climatiseur  ", 
+            "exampleMediaPath": "6.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "La d\u00e9tection des sons de climatisation et d'autres sons de machines qui peuvent ruiner votre enregistrement audio doivent \u00eatre effectu\u00e9s avant de commencer l'enregistrement. Lorsque vous arrivez \u00e0 l'endroit, v\u00e9rifiez tous les sons, m\u00eame ceux qui semblent inoffensifs. Demandez si les machines provoquant du bruit peuvent \u00eatre d\u00e9sactiv\u00e9s, ou sugg\u00e9rer un changement de lieu pour le bien de la qualit\u00e9 audio. La plupart des gens vont comprendre et faire confiance \u00e0 votre expertise sur le sujet.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## A NE PAS OUBLIER  \n&bull; Il faut toujours consid\u00e9rer combien de temps vous devrez tenir votre enregistreur stable avant de commencer une interview. Pour des entrevues plus longues, trouver un moyen confortable \u00e0 rester assis ou debout qui vous emp\u00eache de changer votre poign\u00e9e.  \n&bull; Exploitez les surfaces, en particulier quelque chose qui peut \u00eatre utilis\u00e9 comme un support, pour installer l'enregistreur \u00e0 une distance acceptable de la source audio.  \n&bull; Regarder et \u00e9couter les bruits de fond qui peut nuire \u00e0 la qualit\u00e9 de votre enregistrement quand vous arrivez d'abord \u00e0 une situation d'entrevue ou de l'enregistrement.  \n&bill; Gardez vos fichiers audio sauvegard\u00e9s et correctement \u00e9tiquet\u00e9s.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "C'est quoi manier le bruit?  ", 
+            "choices": [
+                {
+                    "text": "La musique d'un compositeur c\u00e9l\u00e8bre.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Le bruit de font interrompant d'un climatiseur.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Des sons disruptives caus\u00e9s par votre propre main lorsque vous modifiez votre poign\u00e9e ou d\u00e9placez tout en maintenant un enregistreur.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Manier le bruit, i.e. fermer les machines bruyantes.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Lequel des \u00e9l\u00e9ments suivants peut \u00eatre utilis\u00e9 pour \u00e9viter les bruits de manipulation et de garder votre bras ou enregistreur stable pendant un enregistrement?  ", 
+            "choices": [
+                {
+                    "text": "Table.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Pied de Micro.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Un mur.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Tout ce qui pr\u00e9c\u00e8de.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Quand faut-il traiter le probl\u00e8me des sons de climatisation ou d'autres machines?  ", 
+            "choices": [
+                {
+                    "text": "Quand vous arrivez \u00e0 l'endroit, et avant de commencer l'enregistrement.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Au milieu de l'interview.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Pendant le processus d'\u00e9dition.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Fermer toutes les machines 24 heures avant votre interview.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "recording_tips_and_techniques", 
+    "title": "Conseils et techniques d'enregistrement  "
+}

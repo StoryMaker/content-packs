@@ -1,0 +1,175 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Mfise iterefone ngendanwa kandi nditeguye gufatwa amajwi. Mbega nicahe kintu nokora kugira amajwi aze gusohoka yumvikana neza?  ", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Muriki cirwa muraza kwiga:  \n&bull; Ubuhinga mwokoresha mukwirinda ingorane zikunda gushika iy'umuntu ariko arafata amajwi akoresheje igikoresho ngendanwa nk'iterefone.  \n&bull; Ingene umuntu yomenya ingorane zose zishobora gushika zivuye kugufata amajwi nabi.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Gufata amajwi biroroshe, ariko hariho ubundi buryo bwinshi ushobora gusanga wononye amajwi yawe kuburyo ataba agisubira gukoreshwa. Kugira umenye neza ko ibi bidashika, subiramwo uru rukurikirane rw'ibintu mugihe uriko urafata amajwi, koresha izi ntambuko zitandukanye mugihe woba uriko urafata amajwi ya interview, canke mugihe wifata amajwi uriko uratangaza inkuru. Gukurikiza izi ntambuko zitandukanye bishobora kurinda ingorane zose kujwi uba wafashe imbere yuko bishika. Iyo ijwi ryawe umaze kurifata nabi, biragoye cane kuribika.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Kwirinda urwamo ruterwa nayandi majwi nuburyo bayafata](2.png)  \n## Kwirinda urwamo ruterwa nayandi majwi hamwe nuburyo bayafata  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "3.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Akarorero kingene umuntu yirinda urwamo ruterwa n'jwi.  ", 
+            "exampleMediaPath": "3.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Mugihe co kwitegurira gufata amajwi, fata igiko resho cawe co gufata amajwi mu buryo busanzwe kandi bworoshe. Ntushiremwo ingumvu mugufata ico gikoresho co gufata amajwi, gifate kuburyo wumva ko wokigumana mugihe cumwanya utari muto. Ataruko ushobora kwumva ''urwamo rwa'yandi majwi''  mw'iryo jwi wafashe, ibi bishika iyo uhindukije micro yawe uriko urafata amajwi, hamwe nuko ukuboko kwawe canke ikindi kintu gifashe iruhande ya micro.  \n![Guhagarika inkokora yawe](1.png)  \nNimba ugomba kuguma ufashe icuma cawe gifata amajwi imbere y'umuntu mumwanya wose iyo interview iza kumara, hagarika inkokora yawe mukibanza kimeze neza. Nivyiza kwicara, uhagarike inkokora yawe kumeza hama wagurire amaboko yawe uja aho ijwi ririko rirazanana.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![Gufatira Micro musi gato y'Umunwa](4.png)  \nFatira micro musi gato y'umunwa yuwo uriko uragirisha interview kugira ibintu vy'umuyaga w'impwemu wova mukanwa hiwe ntivyihindure murundi rwamo rwokonona ifata ry'amajwi.  \nNimba hariho imeza hagati yawe nuwo uriko uragirisha interview, ushobora guhagarika ico cuma gifata amajwi kumeza, ariko ukirinda gukora kukintu nakimwe kurico, gukubita buhorobuhoro canke kunyiganza imeza, kuko bishobora gutera urwamo.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![Akarorero kaho ufatira Micro](5.png)  \nHar'uburyo butandukanye bwaho ufatira micro bujanye nutwuma two gufata amajwi bafatira mu minwe canke ama terefone agezweho, ufatira neza hamwe mugihe ca interview. Urashobora nawe gutora uburyo bwawe bijanye n'ibikoresho ufise. Urashobora gukoresha ikintu icarico cose ushobora gushirako icuma cawe gifata amajwi bigafasha ko kiguma gitumbereye ku rugero rumwe hamwe nahariko hava iryo jwi.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "Amajwi avuga bukebuke nayandi bitwa mugifaransa son d'arriere-plan.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "6.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Akarorero kamajwi arekurwa navyavyuma bikanyisha amazu bita air-conditionne mururimi rw'igifaransa  ", 
+            "exampleMediaPath": "6.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Kumviriza urwamo ruva kuri vyavyuma bikanyisha amazu canke ayandi mamashine bishobora kwonona igikorwa cawe co gufata amajwi, bigomba gukorwa imbere yuko utangura gufata amajwi. Ushitse aho hantu igikorwa cawe kibera, raba ko atarundi rwamo rwoshobora kuba ruhari, naho woba wibazako ataco rwokonona. Baza yuko ama mashine yose afise urwamo boyazimya, canke utange iciyumviro yuko mwohindura ikibanza mugiriramwo ico gikorwa kugira amajwi ufata aze kuza ameze neza. Abantu rero benshi bazogutahura bongere bizere ubuhinga ufise murivyo.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## IBINTU VYO KWIBUKA  \n&bull; Wme witwararika kumenya ikiringo c'umwanya uzoba ufise imbere yawe icuma co gufata amajwi imbere yuko utangura kugirisha interview. Kuma interview amara umwanya munini, rondera uburyo bworoshe bwo kwicara canke guhagarara vyoshobora kugufasha kwirinda guhindura uburyo ufashe ico cuma.  \n&bull; Koresha ibibanza vyaho hantu uri, cane cane ikintu ushobora gukoresha muguhagarara neza, ushobora no guhagarikako icuma cawe gifata amajwi kumwanya mwiza nahava ijwi uriko urafata.  \n&bull; Raba kndi wongere wumvirize amajwi yose yandi ashobora kwonona amajwi yawe burigihe ubwambere ushitse aho uza kugirira iyo interview.  \n&bull; Wame ufise ahandi hantu ubika amajwi yose wafashe kandi murukurikirane rumeze neze.   ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Mbega bisigur'iki kwirinda urwamo ruterwa nayandi majwi?  ", 
+            "choices": [
+                {
+                    "text": "Umuziki w'umwanditsi rurangiranwa w'indirimbo.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Ijwi riza guciramwo ayandi rivuye nko kuvyuma bikanyisha amazu bita climatiseur.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Amajwi aciramwo ayandi bivuye k'ukuboko kwawe ugomba kuguhindura canke kwikakaza mugihe uriko urafata amajwi ukoresheje akamashine gafata amajwi.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Kwirinda urwamo ruterwa nayandi majwi, i.e kuzimya ama mashine avuga cane.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Mbega nicahe murivyo bikurikira vyokoreshwa mukwirinda urwamo ruterwa nayandi majwi hamwe nokugumiza hamwe ukuboko canke imashine ifata amajwi mugihe woba uriko urayafata?  ", 
+            "choices": [
+                {
+                    "text": "Imeza.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Icuma micro ihagararako.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Uruhome.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ibiri hejuru vyose.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Mbega niryari wibuka ikibazo c'amajwi aterwa nacacuma gikanyisha amazu bita air-conditionne canke izindi mashine?  ", 
+            "choices": [
+                {
+                    "text": "Iyo ushitse mukibanza cabitegekanirijwe, imbere yuko utangura gufata amajwi.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Hagati na hagati mu gihe umuntu ariko aratanga umubonano bita entretien mururimi rw'igifaransa.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Aha ni mugihe muriko muragira ikosora.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Zimya ama mashine yose amasha 24 imbere yokugira umubonano n'umuntu wo kumufata amajwi.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "recording_tips_and_techniques", 
+    "title": "Uburyo bworoshe n'Ubuhinga bwo gufata amajwi.  "
+}

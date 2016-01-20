@@ -1,0 +1,169 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2014"
+                }
+            ], 
+            "header": "\u00bfC\u00f3mo desarrolla y elabora la idea de identificar individuos de inter\u00e9s para que trabajen como fuentes para sus historias?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "![Componentes de una historia](2.png)  \n## En esta lecci\u00f3n aprender\u00e1:  \n&bull; Qu\u00e9 es la fuente de una noticia  \n&bull; C\u00f3mo identificar buenas fuentes para su historia  \n&bull; C\u00f3mo distintas fuentes juegan diferentes roles en su historia  \n&bull; Reglas para el uso de fuentes an\u00f3nimas y en segundo plano.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Una buena historia es solo tan buena como lo son sus personajes. Los periodistas llaman a estos personajes \"fuentes\". La informaci\u00f3n de tus fuentes es la fuerza conductora en la mayor\u00eda de historias. Las fuentes que participan como personajes en tu historia son fuentes \"on the record\". Alguna fuentes pueden darte informaci\u00f3n s\u00f3lo del trasfondo. Esta info. la puedes usar para investigar tu historia y confirmarla a su vez a trav\u00e9s de fuentes \"on the record\".\nAdem\u00e1s de las fuentes que identificas en la escena de una historia de noticias, los buenos periodistas desarrollan fuentes y contactos a los que pueden llegar/consultar repetidamente.     ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## Tipos de fuentes \nLa fuente m\u00e1s com\u00fan es una persona a la que entrevista que es un personaje en una historia espec\u00edfica. Las fuentes se clasifican en c\u00ednco categor\u00edas generales:  \n&bull; Fuentes reactivas \n&bull; Fuentes informativas \n&bull; Fuentes de voces expertas o autoridades en la materia \n&bull; Documentos \n&bull; Sitios de redes sociales  \nLas buenas historias de noticias tienen al menos dos de las cinco, a veces todas las cinco.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "### Fuentes reactivas \n![Fuentes reactivas](3.png) \nPersonas presentes en la escena e inmediatamente implicadas o afectadas por el asunto, como:  \n&bull; V\u00edctimas de un bombardeo.  \n&bull; Personas que est\u00e1n comprando menos (o dejando de hacerlo) como resultado de la carest\u00eda econ\u00f3mica.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "### Fuentes informativas  \n![Informational sources](4.png)  \nGente, a menudo oficiales, que pueden darte hechos concretos sobre un acontecimiento espec\u00edfico, como:  \n&bull; Un oficial del ej\u00e9rcito o el portavoz de un hospital en un caso de un incendio.  \n&bull; El portavoz de una ONG hablando de la elecci\u00f3n o de la nueva regulaci\u00f3n financiera.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "### Fuente de voz experta o autoridad en la materia  \n![Fuente de voz experta o autoridad en la materia](5.png)  \nPersonas que pueden proporcionarle una visi\u00f3n amplia de cuadro-completo del asunto del que trata su historia, como:  \n&bull; Estudiantes, investigadores, consultores.  \n&bull; Alguien de M\u00e9dicos sin Fronteras o un experto m\u00e9dico internacional, para una historia acerca de la carencia de suministros m\u00e9dicos en un hospital local, especialmente si esto es parte de una tendencia en el pa\u00eds.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "### Documentos \n![Documentos](6.png)  \nLos documentos a menudo son excelentes fuentes. Los documentos f\u00edsicos se pueden encontrar en oficinas gubernamentales, bibliotecas, informes de ONGs, etc. Un enorme tesoro documental est\u00e1 ahora mismo disponible en l\u00ednea. La informaci\u00f3n de documentaci\u00f3n puede constituir una voz experta o de autoridad en la materia si desvela la postura de una organizaci\u00f3n en un asunto importante. Los documentos tambi\u00e9n pueden funcionar como fuente en segundo plano.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "### Sitios de redes sociales  \n![Sitios de redes sociales](7.png)  \nLas personas y lo que publican en sitios sociales como Facebook o YouTube son fuentes. Existen grupos en torno a cualquier tema concebible. Este es un buen lugar para hacer investigaci\u00f3n de trasfondo y realizar entrevistas. Es importante que se identifique a si mismo como periodista cuando use sitios sociales como herramientas de comunicaci\u00f3n. Tambi\u00e9n es importante ser transparente acerca de sus fuentes con editores y organizaciones de producci\u00f3n de noticias.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## Consejos para encontrar y usar fuentes  \nPreg\u00fantese a si mismo siempre si tiene las mejores fuentes posibles para su historia \u2014 \u00bfson estas las m\u00e1s cualificadas? Tambi\u00e9n debe preguntarse si tiene una buena variedad de fuentes \u2014 \u00bfest\u00e1n representadas todas las partes del asunto? Cuanto m\u00e1s controvertido sea el asunto, m\u00e1s dif\u00edcil es encontrar buenas fuentes.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "### Las fuentes nunca deben ser ficticias", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "### Transparencia es clave\nTus fuentes deber\u00edan ser clara y completamente identificadas. ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "### Respete los acuerdos de s\u00f3lo-segundo-plano con sus fuentes \nLas fuentes pueden escoger darle informaci\u00f3n s\u00f3lo desde un segundo plano. Eso significa que no puede identificarles o citarles en su reportaje. Las fuentes en segundo plano pueden ser una excelente manera de aprender acerca de un tema. Por ejemplo, una fuente en segundo plano en un ministerio importante del gobierno puede pasarle historias antes de que sucedan y darle informaci\u00f3n importante para que la use en su reportaje. Es importante respetar siempre el acuerdo de \u201cs\u00f3lo-segundo-plano\u201d con una fuente. Cuando rompa estos acuerdos con las fuentes, probablemente no continuar\u00e1n proporcion\u00e1ndole informaci\u00f3n valiosa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "### Atribuci\u00f3n  \nEn cualquier parte en que use las palabras o ideas de otros, tanto de forma impresa como de viva voz, atrib\u00fayalas a la fuente. Atribuya la informaci\u00f3n tomada de las organizaciones de producci\u00f3n de noticias, y proporcione un enlace cuando lo haga. Esto le dar\u00e1 a los lectores informaci\u00f3n adicional y de valor. No use una copia exacta de las publicaciones en prensa sin atribuci\u00f3n. Esfu\u00e9rcese en ir m\u00e1s all\u00e1 de la publicaci\u00f3n que toma como fuente confiando en otras fuentes. No use material de sitios webs de dudosa reputaci\u00f3n, o de sitios enciclop\u00e9dicos como la Wikipedia, sin confirmar la informaci\u00f3n con la fuente original. Sus espectadores, lectores, u oyentes deben poder identificar inmediatamente la fuente de cualquier informaci\u00f3n proporcionada. La informaci\u00f3n tomada directamente, o parafraseada, de otras fuentes de noticias no es una excepci\u00f3n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "text": "### Identifique cu\u00e1ndo garantizar anonimato a una fuente  \nAlgunas fuentes exigir\u00e1n anonimato cuando no lo necesitan. Tenga cuidado acerca de ocultar la identidad de tales fuentes; esto mina su credibilidad como reportero y afecta negativamente la credibilidad de su historia. Garantizar el anonimato a una fuente s\u00f3lo debe usarse como \u00faltimo recurso.  \nSituaciones en las que podr\u00eda garantizar el anonimato a una fuente incluyen cuando la vida o trabajo de \u00e9l/ella estar\u00edan en peligro si se le identifica como fuente. En estos raros casos, trabaje con su fuente para determinar qu\u00e9 informaci\u00f3n puede usar en su historia para identificar el rol de su fuente en ella sin identificarla. Por ejemplo, \u201cuna oficial del departamento de exteriores del gobierno que habla a condici\u00f3n de mantener el anonimato porque no est\u00e1 autorizada a hablar con la prensa\u201d, or \u201cun miembro de la comunidad cuya vida ha sido amenazada y que est\u00e1 ocult\u00e1ndose actualmente\u201d.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n\n&bull; Su historia s\u00f3lo ser\u00e1 tan buena como lo sean sus fuentes y personajes.  \n&bull; Es importante tener una varidad de fuentes para su historia..  \n&bull; Hay distintos tipos de fuentes. \u00daselas adecuadamente.  \n&bull; No todas las fuentes son personajes en su historia. Algunas de las mejores fuentes proporcionan s\u00f3lo la informaci\u00f3n de trasfondo.  \n&bull; Sea transparente acerca de sus fuentes y atribuya el material tomado de otras publicaciones.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_14"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Si quiere saber cu\u00e1ntas personas fueron heridas en un terremoto, \u00bfa cu\u00e1les de los siguientes tipos fuentes podr\u00eda preguntar?", 
+            "choices": [
+                {
+                    "text": "Una fuente reactiva.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Una fuente de autoridad en la materia.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Una fuente informativa.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "NInguna de las anteriores.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Verdadero o Falso: Una fuente en segundo plano es alguien que acepta hablar con usted de forma privada, lo que significa que su nombre no aparecer\u00e1 en la historia. Para ser sincero, es aceptable publicar el nombre.", 
+            "choices": [
+                {
+                    "text": "Verdadero", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falso", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Adem\u00e1s de hablar con la gente, investigar y obtener documentos son partes importantes del buen periodismo. \u00bfCu\u00e1les son las fuentes buenas para este tipo de periodismo?", 
+            "choices": [
+                {
+                    "text": "Suscripciones (feeds) RSS.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Estudios producidos por organizaciones sin \u00e1nimo de lucro o gubernamentales", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Sitios sociales, especialmente aquellos que producen estad\u00edsticas acerca de lectores y espectadores.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todo lo anterior.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "selecting_and_verifying_sources", 
+    "title": "Selecci\u00f3n y verificaci\u00f3n de fuentes"
+}

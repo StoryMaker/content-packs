@@ -122,61 +122,6 @@ source_file = intermediates/strings/org.storymaker.app/mobile_photo_basics/6_con
 source_lang = en
 type = KEYVALUEJSON
 
-[storymaker.0_0_exercise_0]
-file_filter = intermediates/translated_strings/org.storymaker.app/beta/0.0_exercise_0/exercise_0-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/beta/0.0_exercise_0/exercise_0.json
-source_lang = en
-type = KEYVALUEJSON
-[storymaker.0_0_exercise_0_library]
-file_filter = intermediates/translated_strings/org.storymaker.app/beta/0.0_exercise_0/exercise_0_library-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/beta/0.0_exercise_0/exercise_0_library.json
-source_lang = en
-type = KEYVALUEJSON
-
-[storymaker.0_1_exercise_1]
-file_filter = intermediates/translated_strings/org.storymaker.app/beta/0.1_exercise_1/exercise_1-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/beta/0.1_exercise_1/exercise_1.json
-source_lang = en
-type = KEYVALUEJSON
-[storymaker.0_1_exercise_1_library]
-file_filter = intermediates/translated_strings/org.storymaker.app/beta/0.1_exercise_1/exercise_1_library-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/beta/0.1_exercise_1/exercise_1_library.json
-source_lang = en
-type = KEYVALUEJSON
-
-[storymaker.0_2_exercise_2]
-file_filter = intermediates/translated_strings/org.storymaker.app/beta/0.2_exercise_2/exercise_2-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/beta/0.2_exercise_2/exercise_2.json
-source_lang = en
-type = KEYVALUEJSON
-[storymaker.0_2_exercise_2_library]
-file_filter = intermediates/translated_strings/org.storymaker.app/beta/0.2_exercise_2/exercise_2_library-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/beta/0.2_exercise_2/exercise_2_library.json
-source_lang = en
-type = KEYVALUEJSON
-
-[storymaker.0_3_exercise_3]
-file_filter = intermediates/translated_strings/org.storymaker.app/beta/0.3_exercise_3/exercise_3-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/beta/0.3_exercise_3/exercise_3.json
-source_lang = en
-type = KEYVALUEJSON
-[storymaker.0_3_exercise_3_library]
-file_filter = intermediates/translated_strings/org.storymaker.app/beta/0.3_exercise_3/exercise_3_library-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/beta/0.3_exercise_3/exercise_3_library.json
-source_lang = en
-type = KEYVALUEJSON
-
-[storymaker.0_4_exercise_4]
-file_filter = intermediates/translated_strings/org.storymaker.app/beta/0.4_exercise_4/exercise_4-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/beta/0.4_exercise_4/exercise_4.json
-source_lang = en
-type = KEYVALUEJSON
-[storymaker.0_4_exercise_4_library]
-file_filter = intermediates/translated_strings/org.storymaker.app/beta/0.4_exercise_4/exercise_4_library-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/beta/0.4_exercise_4/exercise_4_library.json
-source_lang = en
-type = KEYVALUEJSON
-
 [storymaker.introduction_to_journalism]
 file_filter = intermediates/translated_strings/org.storymaker.app/journalism_part_1/1_introduction_to_journalism/introduction_to_journalism-<lang>.json
 source_file = intermediates/strings/org.storymaker.app/journalism_part_1/1_introduction_to_journalism/introduction_to_journalism.json
@@ -1460,25 +1405,25 @@ source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.t_citizen_journalist_3_my_job]
-file_filter = intermediates/translated_strings/org.storymaker.app/t_citizen_journalist/2_traffic_accident/t_citizen_journalist_3_my_job-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/t_citizen_journalist/2_traffic_accident/t_citizen_journalist_3_my_job.json
+file_filter = intermediates/translated_strings/org.storymaker.app/t_citizen_journalist/3_my_job/t_citizen_journalist_3_my_job-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_citizen_journalist/3_my_job/t_citizen_journalist_3_my_job.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.t_citizen_journalist_3_my_job_library]
-file_filter = intermediates/translated_strings/org.storymaker.app/t_citizen_journalist/2_traffic_accident/t_citizen_journalist_3_my_job_library-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/t_citizen_journalist/2_traffic_accident/t_citizen_journalist_3_my_job_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/t_citizen_journalist/3_my_job/t_citizen_journalist_3_my_job_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/t_citizen_journalist/3_my_job/t_citizen_journalist_3_my_job_library.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.g_welcome]
-file_filter = intermediates/translated_strings/org.storymaker.app/g_welcome/g_welcome-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/g_welcome/g_welcome.json
+file_filter = intermediates/translated_strings/org.storymaker.app/g_welcome/g_welcome/g_welcome-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/g_welcome/g_welcome/g_welcome.json
 source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.g_welcome_library]
-file_filter = intermediates/translated_strings/org.storymaker.app/g_welcome/g_welcome_library-<lang>.json
-source_file = intermediates/strings/org.storymaker.app/g_welcome/g_welcome_library.json
+file_filter = intermediates/translated_strings/org.storymaker.app/g_welcome/g_welcome/g_welcome_library-<lang>.json
+source_file = intermediates/strings/org.storymaker.app/g_welcome/g_welcome/g_welcome_library.json
 source_lang = en
 type = KEYVALUEJSON

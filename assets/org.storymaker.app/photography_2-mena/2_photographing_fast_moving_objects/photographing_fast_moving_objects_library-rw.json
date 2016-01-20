@@ -1,0 +1,23 @@
+{
+    "title": "Gufotora ibintu bigenda binyaruka", 
+    "storyPathTemplateFiles": {
+        "photographing_fast_moving_objects": "photographing_fast_moving_objects.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "photographing_fast_moving_objects", 
+            "dependencyFile": "photographing_fast_moving_objects.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "photographing_fast_moving_objects"
+        }
+    ], 
+    "currentStoryPathFile": "photographing_fast_moving_objects.json", 
+    "id": "photographing_fast_moving_objects"
+}

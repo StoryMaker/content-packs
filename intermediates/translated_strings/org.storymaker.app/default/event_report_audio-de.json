@@ -1,0 +1,23 @@
+{
+    "event_report_audio::clip_card_2::goals[0]": "Nimm Geräusche von etwas auf, was das Event einleitet.",
+    "event_report_audio::clip_card_18::goals[0]": "Nimm Geräusche vom Ende des Events auf.",
+    "event_report_audio::clip_card_10::goals[0]": "Frage jemanden, warum das Event interessant ist.",
+    "event_report_audio::clip_card_7::goals[0]": "Nimm Geräusche von einem Ort auf, der für das Ereignis wichtig ist.",
+    "event_report_audio::clip_card_9::goals[0]": "Erzähle uns ein paar interessante Fakten über die Geschichte des Events, oder warum es stattfindet.",
+    "event_report_audio::clip_card_3::goals[0]": "Frage jemanden, der Teil des Events ist: Was passiert auf dem Event?",
+    "event_report_audio::clip_card_11::goals[0]": "Nimm ein weiteres Geräusch einer Sache auf, die wichtig für das Event ist.",
+    "event_report_audio::clip_card_13::goals[0]": "Erzähle uns, wie sich das Event, während es stattgefunden hat, verändert hat.",
+    "event_report_audio::clip_card_17::goals[0]": "Erzähle uns, was beim nächsten stattfinden des Events erwartet wird.",
+    "event_report_audio::title": "Bericht über das Event",
+    "event_report_audio::clip_card_16::goals[0]": "Nimm Geräusche eines Ergebnisses einer Interaktion von mehreren Personen auf dem Event auf.",
+    "event_report_audio::evaluation_card_0::text": "--------",
+    "event_report_audio::clip_card_4::goals[0]": "Nimm Geräusche von den Ereignissen auf dem Event auf.",
+    "event_report_audio::clip_card_12::goals[0]": "Nimm Geräusche über das Ende des Ereignisses auf.",
+    "event_report_audio::clip_card_15::goals[0]": "Frage jemanden, der am Event teilgenomen hat, was er/sie auf dem Event gemacht hat.",
+    "event_report_audio::clip_card_0::goals[0]": "Schreibe auf, wo das Event stattfindet.",
+    "event_report_audio::clip_card_5::goals[0]": "Schreibe etwas Interessantes über das Event auf.",
+    "event_report_audio::clip_card_14::goals[0]": "Nimm ein weiteres Geräusch eines Ereignisses auf dem Event auf.",
+    "event_report_audio::clip_card_6::goals[0]": "Rede mit einem Experten über das Event.",
+    "event_report_audio::clip_card_1::goals[0]": "Nimm Geräusche von der Vorbereitung des Events auf.",
+    "event_report_audio::clip_card_8::goals[0]": "Nimm Geräusche von miteinander agierenden Personen auf dem Event auf."
+}

@@ -1,0 +1,163 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Framing your shot", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## In this lesson you will learn:  \n&bull; An easy technique for emphasizing the most important element in any video clip.  \n&bull; How to frame your character\u2019s head properly in the frame.  \n&bull; How to frame your character to look in the right direction to appear natural.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "When new journalists start starts shooting video, they often become frustrated when clips they record do not reflect the experiences they had shooting them. The problem they face is understanding cameras see the world very differently than a human. By learning some basic rules, you can learn to record events in ways that allow an audience to focus on the specific elements you want them to.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![](2.png)  \n### Hitchcock's rule  \n\"The size of an object in the frame should equal it's importance in the story at that moment.\"\n\u2014 Alfred Hitchcock  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "One of the most common problems for new shooters is their most important element are lost in the frame. By ensuring that your most important object fills the majority of the frame (as in 50 percent or more) your audience will see exactly what you want them to in your shot.  \nLets look at an example. Review this shot and consider what you think the story will be about.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "3.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Using the frame", 
+            "exampleMediaPath": "3.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "You can see that you're probably going to see a story about a market, but maybe it's the woman shopping. Overall, it's a good shot, but there are a few elements competing for your attention.  \nNow review this shot, and consider what the story is about.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "4.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Using the frame", 
+            "exampleMediaPath": "4.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "The apple fills over 50 percent of the entire frame, so the audience is focused on that. As the story progresses to discuss apples, the audience understands this a story about apples. That makes this shot successful. You can now move onto another shot, and highlight the next important element in your story.  \nHitchcock\u2019s rule provides a great foundation to start making better video stories. Nose space and head space are two other important rules that will help you arrange your frame to support your story.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "### Nose space  \n![](5.png)  \nWell composed shots have space in the direction the subject is facing or moving.  \n![](6.png)  \nIn this medium shot, the subject is on the right rule of thirds line. He is facing the left hand side of the frame. You can see the direction he is facing is where the remaining two thirds of the frame are.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "If he were facing the opposite direction, you could either ask him to shift the direction he is facing and follow the same example, or adjust your frame, so it would look like this:  \n![](7.png)  \nThe shot is framed on the right now that he is facing the opposite direction.  \nFollowing this guideline will ensure your subject has appropriate room in front of them. You may also hear this rule referred to as \u201clooking space\u201d or \u201clead room.\"  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "### Head space  \n![](8.png)  \nHead space is the distance between the top of a subject\u2019s head and the top of the frame. It is a guideline to make sure your subject\u2019s head does not appear to high or too low in the frame.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "![](9.png)  \n![](10.png)  \nThese three different shots all have very different head space. But in all of them the focal point of the subject rests on the top line. Headspace is a balance of the rule of thirds and the top of the frame.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "### Rule of Thirds  \n![](11.png)  \nCutting your frame into thirds vertically and horizontally, the grid creates four points of interest. These four points are the ideal place for the important elements of your story when you are arranging them in your frame.  \nBy using these points, you break the frame up into thirds. The frame is then separated with one third of space to one side, and two thirds to the other. This uneven distribution helps move the eye across the frame, as well as around it.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "## THINGS TO REMEMBER  \n&bull; If you do not allow for nose space, your subject may appear to be speaking to someone else.  \n&bull; When your subject appears cramped in the frame the audience will be distracted.  \n&bull; If you do not allow for proper head space, your subject\u2019s head will be cut off, or their head will sit very low in the frame. Both of these are distracting to an audience.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "question": "What is nose room?", 
+            "id": "quiz_card_1", 
+            "choices": [
+                {
+                    "text": "Putting the subject\u2019s nose at the bottom of the frame.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "The space between the subject's nose and the camera lens.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Allowing for space in the frame in the direction the subject is facing or moving.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "How much room should be between you and the camera.", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "question": "What is head space?", 
+            "id": "quiz_card_2", 
+            "choices": [
+                {
+                    "text": "The distance between a subject\u2019s arms and the side of the frame.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "The space between your head and the camera.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "The space where you put the subject's head.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "The distance between the top of a subject\u2019s head and the top of the frame.", 
+                    "id": "answer_4"
+                }
+            ]
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "framing_your_shot", 
+    "title": "Framing Your Shot"
+}

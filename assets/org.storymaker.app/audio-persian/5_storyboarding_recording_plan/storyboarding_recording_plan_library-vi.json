@@ -1,0 +1,23 @@
+{
+    "title": "Vi\u1ebft k\u1ebf ho\u1ea1ch cho m\u1ed9t bu\u1ed5i ghi \u00e2m", 
+    "storyPathTemplateFiles": {
+        "storyboarding_recording_plan": "storyboarding_recording_plan.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "storyboarding_recording_plan", 
+            "dependencyFile": "storyboarding_recording_plan.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "storyboarding_recording_plan"
+        }
+    ], 
+    "currentStoryPathFile": "storyboarding_recording_plan.json", 
+    "id": "storyboarding_recording_plan"
+}

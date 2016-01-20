@@ -1,0 +1,274 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Ubwo bwoko n\u2019ubuhe?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Muri iki cigwa muraja kumenya ingene batera inkuru ifise amasanamu atandukanye.  \nAmasanamu ya mbere umuntu akenera kugira atere inkuru.  \nIngene STORY MAKER ikoresha ayo masanamu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "![Akarorero k\u2019isanamu yagutse](2.png)  \nIsanamu nziza itanga inkuru yumvikana.Isanamu yose ifashwe yama iri nico itemera.Isanamu yagutse yama ariyo ifasha mu gutunganya inkuru neza.Izo sanamu zifatirwa kure.Uko gufatirwa kure bituma n\u2019ibindi biri mu micungararo yicukeneye navyo nyene bifasha mu kumenya inkuru neza.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![](3.png)  \n  \n![](4.png)  \n![](5.png)  \n![](6.png)  \n![](7.png)  \n![](8.png)  \nUko ufata isanamu kwose navyo bifise insiguro kandi n\u2019inyishu ku bibazo mu nkuru yawe.Ufatiye ku burorero buzwi, igice kimwe kimwe ku kindi bifatanye bitanga inkuru ikwiye.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "## Isanamu yagutse", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "9.mp4", 
+                    "media_caption": "Examples of a wide shot."
+                }
+            ], 
+            "header": "Isanamu zagutse", 
+            "exampleMediaPath": "9.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Izo sanamu zerekana aho ibintu biriko birabera zikoreshwa nkarimwe mu nkuru.Mukoresheje amasanamu yagutse mukerekana ubudasa buboneka cane bw\u2019imwe n\u2019iyindi mu gihe mugiye murazitondeka neza.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "## Isanamu muri rusangi", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "10.mp4", 
+                    "media_caption": "Examples of a Long shot."
+                }
+            ], 
+            "header": "Isanamu rusangi", 
+            "exampleMediaPath": "10.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Amasanamu afashwe muri rusangi yerekana ingene abantu bariko barakora nivyo bariko barakora.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## Isanamu iri hagati na hagati", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "11.mp4", 
+                    "media_caption": "Examples of a Medium shot."
+                }
+            ], 
+            "header": "Isanamu iri hagati na hagati", 
+            "exampleMediaPath": "11.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Isanamu yo hagati na hagati ifasha mu gufata umuntu umwe canke babiri ariko ntibarenga.Izo sanamu zifasha kwerekana ingene ibihimba vy\u2019umubiri w\u2019umuntu biriko birakora.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## Isanamu yegeranye", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "12.mp4", 
+                    "media_caption": "Examples of a Close up shot."
+                }
+            ], 
+            "header": "Isanamu zegeranye", 
+            "exampleMediaPath": "12.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Isanamu nini nayo iba itumbereye umuntu, n\u2019ibigumbagumba vyiwe.Shingira ku maso yiwe gusa hama werekane ibigumbagumba vyiwe.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "## Isanamu idomako neza", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "12.mp4", 
+                    "media_caption": "Examples of a Detail shot."
+                }
+            ], 
+            "header": "Isanamu idomako neza", 
+            "exampleMediaPath": "12.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "Haraho amasanamu aba ari nico yerekana neza cinyegeje mu masanamu menshi kandi cakamaro.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "text": "Amasanamu ya STORY MAKER afise ivyo yisangije.Agabuye ku buryo akoreshwa mu nkuru.Isanamu yerekana ikintu; umuntu n\u2019ico avuga wenyene", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "text": "## Ntimwibagire  \n&bull; Murabona ireresi ikozwe n\u2019amafaranga menshi ariko ukabona isanamu ijugumira.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_14"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Ntegerezwa kumenya ko isanamu zanje zatotse?", 
+            "choices": [
+                {
+                    "text": "Hindura kenshi ugufata amasanamu", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Ibintu bisa ku masanamu amwe.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Isanamu nziza zose zafashwe neza zama zifise umumaro mu nkuru.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Tanga ico ugomba gushikako kw\u2019isanamu imwimwe yose.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Nshika kuki kw\u2019isanamu imwimwe yose nafashe?", 
+            "choices": [
+                {
+                    "text": "0", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "1", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "4", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "12", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Akamaro k\u2019isanamu iramvuye?", 
+            "choices": [
+                {
+                    "text": "Hama uno muntu.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Ha agaciro abantu, ivyo bariko barakora naho bariko barabikorera.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Erekana iforoma y\u2019umutwe w\u2019uwo muntu. Tanga inkuru ziryoshe mukoresheje telefone ngendanwa.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Vuga igihugu ibintu biriko biberamwo.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Wofata isanamu gute kugira abantu bayitamarire?", 
+            "choices": [
+                {
+                    "text": "Isanamu ndende", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Hagati na hagati", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Kwegeranya", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Idonido", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "videos_different_shots", 
+    "title": "Ubwoko butandukanye bw\u2019amasanamu"
+}

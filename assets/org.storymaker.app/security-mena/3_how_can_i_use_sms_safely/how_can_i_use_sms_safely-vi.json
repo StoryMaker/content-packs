@@ -1,0 +1,147 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "L\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 t\u00f4i g\u1eedi v\u00e0 nh\u1eadn tin nh\u1eafn SMS an to\u00e0n?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Trong b\u00e0i n\u00e0y b\u1ea1n s\u1ebd h\u1ecdc:  \n&bull; Nh\u1eefng hi\u1ec3m nguy trong  vi\u1ec7c li\u00ean l\u1ea1c b\u1eb1ng SMS \n&bull; Tin nh\u1eafn SMS b\u1ecb theo d\u00f5i nh\u01b0 th\u1ebf n\u00e0o \n&bull; M\u1ed9t s\u1ed1 k\u1ef9 thu\u1eadt \u0111\u1ec3 s\u1eed d\u1ee5ng khi b\u1ea1n nghi ng\u1edd r\u1eb1ng tin nh\u1eafn c\u1ee7a b\u1ea1n c\u00f3 th\u1ec3 b\u1ecb theo d\u00f5i", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "![M\u1ed9t tin nh\u1eafn c\u00f3 th\u1ec3 b\u1ecb ch\u1eb7n nh\u01b0 th\u1ebf n\u00e0o](2.png)  \n### M\u1ed9t tin nh\u1eafn c\u00f3 th\u1ec3 b\u1ecb ch\u1eb7n l\u1ea5y nh\u01b0 th\u1ebf n\u00e0o  \nSMS l\u00e0 m\u1ed9t h\u00ecnh th\u1ee9c ph\u1ed5 bi\u1ebfn \u0111\u1ec3 nh\u1eafn tin, nh\u01b0ng n\u00f3 kh\u00f4ng \"an to\u00e0n.\" Tin nh\u1eafn SMS \u0111\u01b0\u1ee3c l\u01b0u l\u1ea1i b\u1edfi c\u00f4ng ty \u0111i\u1ec7n tho\u1ea1i  v\u00e0 c\u00f3 th\u1ec3 b\u1ecb ch\u1eb7n l\u1ea5y b\u1edfi nh\u1eefng ai kh\u1ea3 n\u0103ng ti\u1ebfp c\u1eadn tr\u1ea1m ph\u1ee7 s\u00f3ng truy\u1ec1n tin nh\u1eafn. Tin nh\u1eafn SMS c\u1ee7a b\u1ea1n c\u00f3 th\u1ec3 b\u1ecb truy c\u1eadp t\u1eeb \u0111i\u1ec7n tho\u1ea1i c\u1ee7a b\u1ea1n, ho\u1eb7c t\u1eeb b\u1ea5t c\u1ee9 \u0111i\u1ec7n tho\u1ea1i n\u00e0o c\u00f3 th\u1ec3 truy c\u1eadp d\u1eef li\u1ec7u c\u1ee7a h\u00e3ng \u0111i\u1ec7n tho\u1ea1i ho\u1eb7c d\u1eef li\u1ec7u l\u01b0u gi\u1eef \u1edf tr\u1ea1m ph\u1ee7 s\u00f3ng truy\u1ec1n tin.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![L\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 tr\u00e1nh b\u1ecb ch\u1eb7n l\u1ea5y tin nh\u1eafn](3.png)  \n### L\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 tr\u00e1nh b\u1ecb ch\u1eb7n l\u1ea5y tin nh\u1eafn  \nTin nh\u1eafn SMS c\u00f3 th\u1ec3 truy t\u00ecm v\u00e0 l\u1eadp ch\u1ec9 s\u1ed1 \u0111\u01b0\u1ee3c. Tin nh\u1eafn kh\u00f4ng m\u00e3 h\u00f3a r\u1ea5t d\u1ec5 b\u1ecb theo d\u00f5i. N\u1ebfu b\u1ea1n v\u00e0 ngu\u1ed3n tin b\u1ecb \u0111e d\u1ecda, b\u1ea1n ch\u1ec9 n\u00ean g\u1eedi tin nh\u1eafn SMS \u0111\u00e3 \u0111\u01b0\u1ee3c m\u00e3 h\u00f3a; h\u1ea1n ch\u1ebf g\u1eedi v\u00e0 ch\u1ec9 g\u1eedi gi\u1eefa nh\u1eefng \u0111i\u1ec7n tho\u1ea1i \u1ea9n danh.  \n\u0110\u1ec3 g\u1eedi tin nh\u1eafn SMS \u0111\u00e3 m\u00e3 h\u00f3a, b\u1ea1n ph\u1ea3i s\u1eed d\u1ee5ng m\u1ed9t \u1ee9ng d\u1ee5ng \u0111\u1eb7c bi\u1ec7t. C\u1ea3 b\u1ea1n v\u00e0 ngu\u1ed3n tin s\u1eed d\u1ee5ng c\u00f9ng m\u1ed9t \u1ee9ng d\u1ee5ng. G\u1eedi cho ngu\u1ed3n tin m\u1ed9t tin nh\u1eafn v\u1edbi \u1ee9ng d\u1ee5ng c\u1ee7a b\u1ea1n \u0111\u1ec3 kh\u1edfi \u0111\u1ed9ng trao \u0111\u1ed5i ch\u00eca kh\u00f3a. Sau khi \u0111\u00e3 trao \u0111\u1ed5i kh\u00f3a, b\u1ea1n c\u00f3 th\u1ec3 li\u00ean l\u1ea1c v\u1edbi ngu\u1ed3n tin b\u1eb1ng nh\u1eefng tin nh\u1eafn \u0111\u00e3 m\u00e3 h\u00f3a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "## GHI NH\u1eda: B\u1ea1n ph\u1ea3i s\u1eed d\u1ee5ng \u1ee9ng d\u1ee5ng m\u00e3 h\u00f3a v\u0103n b\u1ea3n \u0111\u1ec3 g\u1eedi tin nh\u1eafn \u0111\u00e3 m\u00e3 h\u00f3a. \u1ee8ng d\u1ee5ng nh\u1eafn tin b\u00ecnh th\u01b0\u1eddng s\u1ebd kh\u00f4ng g\u1eedi c\u00e1c tin \u0111\u00e3 m\u00e3 h\u00f3a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![Gi\u1eef an to\u00e0n](4.png)  \nTr\u01b0\u1edbc khi li\u00ean l\u1ea1c v\u1edbi ngu\u1ed3n tin b\u1eb1ng SMS, x\u00e1c \u0111\u1ecbnh li\u1ec7u h\u1ecd c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng \u1ee9ng d\u1ee5ng m\u00e3 h\u00f3a \u0111\u01b0\u1ee3c kh\u00f4ng. H\u00e3y cho h\u1ecd bi\u1ebft r\u1eb1ng tin nh\u1eafn SMS c\u1ee7a h\u1ecd c\u00f3 th\u1ec3 b\u1ecb \u0111\u1ecdc b\u1edfi nh\u00e0 ch\u1ee9c tr\u00e1ch v\u00e0 nguy hi\u1ec3m cho h\u1ecd n\u1ebfu h\u1ecd kh\u00f4ng s\u1eed d\u1ee5ng \u0111i\u1ec7n tho\u1ea1i \u1ea9n danh.  \n\u0110\u1eebng truy\u1ec1n t\u1ea3i th\u00f4ng tin nh\u1ea1y c\u1ea3m b\u1eb1ng tin nh\u1eafn SMS ch\u01b0a \u0111\u01b0\u1ee3c m\u00e3 h\u00f3a tr\u1eeb phi b\u1ea1n mu\u1ed1n nh\u00e0 ch\u1ee9c tr\u00e1ch \u0111\u1ecdc \u0111\u01b0\u1ee3c n\u1ed9i dung. T\u1ea5t c\u1ea3 c\u00e1c tin nh\u1eafn SMS c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c ghi l\u1ea1i b\u1edfi h\u00e3ng \u0111i\u1ec7n tho\u1ea1i v\u00e0 c\u00f3 th\u1ec3 b\u1ecb \u0111\u1ecdc b\u1edfi nh\u00e0 c\u1ea7m quy\u1ec1n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![D\u00f9ng k\u00fd t\u1ef1 l\u00e0m m\u1eadt m\u00e3](5.png)  \nM\u1ed9t ph\u01b0\u01a1ng ph\u00e1p \u0111\u01a1n gi\u1ea3n \u0111\u1ec3 tr\u00e1nh b\u1ecb m\u1ea5t an ninh l\u00e0 t\u1ea1o ra h\u1ec7 th\u1ed1ng li\u00ean l\u1ea1c m\u00e3 v\u1edbi nh\u1eefng \u0111\u1ed3ng nghi\u1ec7p tin t\u01b0\u1edfng. X\u00e2y d\u1ef1ng m\u1ed9t lo\u1ea1t c\u00e1c m\u00e3 cho c\u00e1c th\u00f4ng tin c\u01a1 b\u1ea3n. V\u00ed d\u1ee5, \u201cX\u201d c\u00f3 th\u1ec3 c\u00f3 ngh\u0129a b\u1ea1n \u0111ang b\u1ecb nguy hi\u1ec3m, v\u00e0 \u201cZ\u201d c\u00f3 th\u1ec3 l\u00e0 b\u1ea1n \u0111ang an to\u00e0n. \u201cC\u00e2y\u201d c\u00f3 th\u1ec3 l\u00e0 b\u1ea1n mu\u1ed1n g\u1eb7p nhau. \u201cPh\u01b0\u1edbng\u201d c\u00f3 th\u1ec3 l\u00e0 qu\u00e1n cafe n\u01a1i b\u1ea1n c\u00f3 th\u1ec3 g\u1eb7p.  \n\u0110i\u1ec1u \u0111\u00f3 ph\u1ee5 thu\u1ed9c v\u00e0o b\u1ea1n trong vi\u1ec7c t\u1ea1o ra m\u1ed9t h\u1ec7 th\u1ed1ng ti\u1ec7n l\u1ee3i v\u00e0 d\u1ec5 nh\u1edb cho b\u1ea1n v\u00e0 ngu\u1ed3n tin.  \nC\u00f3 nh\u1eefng gi\u1ea3i ph\u00e1p ph\u1ea7n m\u1ec1m t\u1eeb m\u1ed9t ph\u00eda th\u1ee9 ba, nh\u01b0ng ch\u00fang kh\u00f4ng d\u1ec5 ki\u1ec3m so\u00e1t nh\u01b0 nh\u1eefng m\u00e3 do c\u00e1 nh\u00e2n l\u1eadp ra cho tin nh\u1eafn SMS.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![X\u00f3a Tin Nh\u1eafn \u0110\u00e3 \u0110\u1ecdc](6.png)  \n## X\u00f3a c\u00e1c tin nh\u1eafn \u0111\u00e3 \u0111\u1ecdc \nB\u1ea1n n\u00ean lu\u00f4n x\u00f3a tin nh\u1eafn SMS \u1edf m\u1ee5c G\u1eedi \u0111i. Kh\u00f4ng c\u00f3 g\u00ec t\u1ed3i t\u1ec7 h\u01a1n b\u1eb1ng vi\u1ec7c t\u1ea1o ra c\u00e1c l\u01b0u tr\u1eef th\u00f4ng tin \u0111\u1ec3 ch\u1edd nh\u00e0 ch\u1ee9c tr\u00e1ch \u0111\u1ecdc.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "StoryMaker khuy\u1ebfn ngh\u1ecb d\u00f9ng \u1ee9ng d\u1ee5ng m\u00e3 h\u00f3a v\u0103n b\u1ea3n Open Whisper System\u2019s, [TextSecure](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en).", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## NH\u1eeeNG \u0110I\u1ec0U C\u1ea6N GHI NH\u1eda  \n&bull; T\u1ea5t c\u1ea3 tin nh\u1eafn SMS \u0111\u01b0\u1ee3c ghi l\u1ea1i b\u1edfi h\u00e3ng \u0111i\u1ec7n tho\u1ea1i v\u00e0 c\u00f3 th\u1ec3 b\u1ecb \u0111\u1ecdc b\u1edfi nh\u00e0 ch\u1ee9c tr\u00e1ch.  \n&bull; N\u1ebfu b\u1ea1n v\u00e0 ngu\u1ed3n tin c\u1ee7a b\u1ea1n \u0111ang g\u1eb7p \u0111e d\u1ecda v\u00e0 ph\u1ea3i li\u00ean l\u1ea1c b\u1eb1ng SMS th\u00ec c\u1ea3 hai n\u00ean trao \u0111\u1ed5i tin nh\u1eafn \u0111\u00e3 \u0111\u01b0\u1ee3c m\u00e3 h\u00f3a trong m\u1ecdi th\u1eddi \u0111i\u1ec3m.  \n&bull; Cho d\u00f9 b\u1ea1n c\u00f3 th\u1ec3 truy c\u1eadp v\u00e0o \u1ee9ng d\u1ee5ng m\u00e3 h\u00f3a SMS hay kh\u00f4ng th\u00ec b\u1ea1n lu\u00f4n ph\u1ea3i li\u00ean l\u1ea1c v\u1edbi \u0111i\u1ec7n tho\u1ea1i \u1ea9n danh \u0111\u1ec3 danh t\u00ednh c\u1ee7a b\u1ea1n kh\u00f4ng b\u1ecb ph\u00e1t hi\u1ec7n b\u1edfi b\u1ea5t c\u1ee9 l\u00ed do g\u00ec, v\u00ed d\u1ee5 nh\u01b0 h\u00f3a \u0111\u01a1n ph\u00ed d\u1ecbch v\u1ee5 hay th\u00f4ng tin \u0111\u0103ng k\u00fd cho \u0111i\u1ec7n tho\u1ea1i.  \n&bull; H\u00e3y \u0111\u1ea3m b\u1ea3o s\u1eed d\u1ee5ng m\u00e3 n\u1ebfu b\u1ea1n v\u00e0 ngu\u1ed3n tin c\u1ee7a b\u1ea1n kh\u00f4ng c\u00f3 \u1ee9ng d\u1ee5ng m\u00e3 h\u00f3a SMS v\u00e0 SMS l\u00e0 ph\u01b0\u01a1ng ti\u1ec7n li\u00ean l\u1ea1c duy nh\u1ea5t v\u1edbi ngu\u1ed3n tin.  \n&bull; Kh\u00f4ng bao gi\u1edd l\u01b0u gi\u1eef tin SMS trong \u0111i\u1ec7n tho\u1ea1i c\u1ee7a b\u1ea1n. Tin nh\u1eafn SMS c\u1ee7a b\u1ea1n v\u1eabn c\u00f3 th\u1ec3 b\u1ecb \u0111\u1ecdc b\u1edfi nh\u00e0 ch\u1ee9c tr\u00e1ch n\u1ebfu h\u1ecd xem l\u1ea1i d\u1eef li\u1ec7u c\u1ee7a nh\u00e0 cung c\u1ea5p d\u1ecbch v\u1ee5.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "L\u00e0m sao t\u00f4i c\u00f3 th\u1ec3 ng\u0103n ch\u1eb7n vi\u1ec7c tin nh\u1eafn SMS c\u1ee7a t\u00f4i b\u1ecb \u0111\u1ecdc tr\u1ed9m?", 
+            "choices": [
+                {
+                    "text": "X\u00f3a t\u1ea5t c\u1ea3 tin nh\u1eafn SMS trong \u0111i\u1ec7n tho\u1ea1i c\u1ee7a t\u00f4i.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "B\u1ea3o \u0111\u1ea3m ng\u01b0\u1eddi nh\u1eadn x\u00f3a ngay tin nh\u1eafn SMS sau khi \u0111\u1ecdc.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "D\u00f9ng \u1ee9ng d\u1ee5ng tin nh\u1eafn c\u00f3 m\u00e3 h\u00f3a.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "S\u1eed d\u1ee5ng \u0111i\u1ec7n tho\u1ea1i \u1ea9n danh.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "L\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 t\u00f4i c\u00f3 th\u1ec3 li\u00ean l\u1ea1c b\u1eb1ng tin nh\u1eafn SMS m\u1ed9t c\u00e1ch \u1ea9n danh?", 
+            "choices": [
+                {
+                    "text": "S\u1eed d\u1ee5ng \u1ee9ng d\u1ee5ng m\u00e3 h\u00f3a SMS.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "S\u1eed d\u1ee5ng \u0111i\u1ec7n tho\u1ea1i \u1ea9n danh.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "X\u00f3a t\u1ea5t c\u1ea3 tin nh\u1eafn SMS trong \u0111i\u1ec7n tho\u1ea1i c\u1ee7a t\u00f4i.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "H\u00e3y \u0111\u1ea3m b\u1ea3o r\u1eb1ng ng\u01b0\u1eddi nh\u1eadn x\u00f3a ngay tin nh\u1eafn SMS sau khi \u0111\u1ecdc.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "L\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 t\u00f4i b\u1ea3o v\u1ec7 \u0111\u01b0\u1ee3c th\u00f4ng tin m\u00e0 t\u00f4i g\u1eedi qua SMS n\u1ebfu t\u00f4i kh\u00f4ng th\u1ec3 m\u00e3 h\u00f3a \u0111\u01b0\u1ee3c tin nh\u1eafn?", 
+            "choices": [
+                {
+                    "text": "S\u1eed d\u1ee5ng \u0111i\u1ec7n tho\u1ea1i \u1ea9n danh.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "X\u00f3a t\u1ea5t c\u1ea3 tin nh\u1eafn SMS trong \u0111i\u1ec7n tho\u1ea1i c\u1ee7a t\u00f4i.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "H\u00e3y b\u1ea3o \u0111\u1ea3m ng\u01b0\u1eddi nh\u1eadn x\u00f3a ngay tin nh\u1eafn SMS sau khi \u0111\u1ecdc.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "S\u1eed d\u1ee5ng m\u00e3 \u0111\u00e3 quy \u01b0\u1edbc tr\u01b0\u1edbc v\u1edbi ng\u01b0\u1eddi nh\u1eadn tin nh\u1eafn.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "how_can_i_use_sms_safely", 
+    "title": "L\u00e0m sao t\u00f4i c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng SMS m\u1ed9t c\u00e1ch an to\u00e0n"
+}

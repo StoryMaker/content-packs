@@ -1,0 +1,26 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-burundi/1_introduction_to_video/introduction_to_video_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-burundi/cover.png", 
+    "language": "vi", 
+    "title": "Gi\u1edbi thi\u1ec7u v\u1ec1 Video"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-burundi/2_video_basics/video_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-burundi/cover.png", 
+    "language": "vi", 
+    "title": "Nh\u1eefng c\u01a1 b\u1ea3n v\u1ec1 video"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-burundi/3_getting_good_sound_and_light/getting_good_sound_and_light_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-burundi/cover.png", 
+    "language": "vi", 
+    "title": "Thu \u00e2m thanh v\u00e0 \u00e1nh s\u00e1ng t\u1ed1t h\u01a1n"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-burundi/4_setting_white_balance_in_video/setting_white_balance_in_video_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-burundi/cover.png", 
+    "language": "vi", 
+    "title": "Thi\u1ebft l\u1eadp c\u00e2n b\u1eb1ng tr\u1eafng trong video"
+  }
+]

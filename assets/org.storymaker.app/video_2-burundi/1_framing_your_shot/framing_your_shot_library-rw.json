@@ -1,0 +1,23 @@
+{
+    "title": "Guha inkikuro y'igicapo (cadrage) ifoto yawe.", 
+    "storyPathTemplateFiles": {
+        "framing_your_shot": "framing_your_shot.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "framing_your_shot", 
+            "dependencyFile": "framing_your_shot.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "framing_your_shot"
+        }
+    ], 
+    "currentStoryPathFile": "framing_your_shot.json", 
+    "id": "framing_your_shot"
+}

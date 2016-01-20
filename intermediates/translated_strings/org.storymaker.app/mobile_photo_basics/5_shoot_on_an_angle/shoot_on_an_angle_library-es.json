@@ -1,26 +1,3 @@
 {
-    "shoot_on_an_angle::title": "Fotografía en Ángulo",
-    "shoot_on_an_angle::tip_collection::tips[10]::text": "Tip: Captura un gran momento, pero asegurate que se relacione claramente con tu historia.",
-    "shoot_on_an_angle::tip_collection::tips[4]::text": "Tip: No recortes la imagen muy ajustada, acercate, pero captura todo el sujeto.",
-    "shoot_on_an_angle::tip_collection::tips[22]::text": "Tip: the viewer won't know anything about your story that you don't show them in the photograph.",
-    "shoot_on_an_angle::tip_collection::tips[16]::text": "Tip: Even if time is limited, make a plan, do not shoot everything you see.",
-    "shoot_on_an_angle::tip_collection::tips[19]::text": "Tip: Images on a mobile will be small. Compose with that in mind.",
-    "shoot_on_an_angle::tip_collection::tips[17]::text": "Tip: Get as close to your subject as possible.",
-    "shoot_on_an_angle::tip_collection::tips[9]::text": "Tip: Elige tu momento con cuidad. Evita los objetos que causen distracción o personas moviendose a través de tu encuadre.",
-    "shoot_on_an_angle::tip_collection::tips[18]::text": "Tip: Are there any distracting objects between you and subject in your frame?",
-    "shoot_on_an_angle::tip_collection::tips[8]::text": "Tip: Los objetos del fondo que causan distracción pueden arruinar un primer plano bien encuadrado.",
-    "shoot_on_an_angle::tip_collection::tips[2]::text": "Tip: Usa todo el encuadre para contar tu historia. No solo el centro.",
-    "shoot_on_an_angle::tip_collection::tips[5]::text": "Tip: Asegurate que los objetos del primer plano no estén muy cerca, a menos que quieras que estén fuera de foco.",
-    "shoot_on_an_angle::tip_collection::tips[11]::text": "Tip: Las acciones repetitivas proveen la oportunidad para capturar el momento desde diferentes ángulos.",
-    "shoot_on_an_angle::tip_collection::tips[1]::text": "Tip: No cortes manos o caras con el borde del encuadre, si es posible.",
-    "shoot_on_an_angle::tip_collection::tips[0]::text": "Tip: Permite que diferentes temas importantes se completen en el interior del encuadre.",
-    "shoot_on_an_angle::tip_collection::tips[20]::text": "Tip: Can you change your angle to include more context?",
-    "shoot_on_an_angle::tip_collection::tips[7]::text": "Tip: Cuando fotografíes muchos sujetos u objetos, coloca uno en el fondo para crear una sensación de profundidad.",
-    "shoot_on_an_angle::tip_collection::tips[6]::text": "Tip: Los sujetos del fondo no deben ser muy pequeños o puede perderse su importancia",
-    "shoot_on_an_angle::tip_collection::tips[21]::text": "Tip: La buena fotografía tiene todo que ver con la luz. Usa las luces disponibles lo mejor que puedas.",
-    "shoot_on_an_angle::tip_collection::tips[13]::text": "Tip:  Piensa acerca del tiempo y a ubicación cuando trates de capturar los momentos clave.",
-    "shoot_on_an_angle::tip_collection::tips[12]::text": "Tip: Intenta oprimir el botón del obsturador, justo antes del momento intencionado, para darle a la cámara tiempo para reaccionar.",
-    "shoot_on_an_angle::tip_collection::tips[3]::text": "Tip: El horizonte puede ser colocado en la línea de la cuadrícula horizontal de arriba o abajo.",
-    "shoot_on_an_angle::tip_collection::tips[14]::text": "Tip: Even if you will only use one image in your story, shoot a variety of images to choose from.",
-    "shoot_on_an_angle::tip_collection::tips[15]::text": "Tip: \"If your picture's not good enough, you're not close enough.\" - Robert Capa"
+    "shoot_on_an_angle::title": "Fotografía en Ángulo"
 }

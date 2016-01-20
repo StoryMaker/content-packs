@@ -1,0 +1,227 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "How do I write a basic caption to accompany a photograph?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## In this lesson you will learn:  \n&bull; How to write a basic caption for a photograph.  \n&bull; How to write tags and keywords for a photograph.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "## Example Photo with a good caption, keywords, and tags.  \n![Example photo.](2.jpg)  \n### Caption: 4 December, 2014 \u2014 Bujumbura \u2014 Student sitting at a computer in the central library of Lake Tanganyika University, the most well-known university of Burundi. Doing meaninful research was always near-impossible in this underfunded university, but internet access is helping to change that.\n### Keywords: Lake Tanganyika University, Internet access, Library, Research, Poverty, Higher Education, Burundi, Bujumbura  \n### Tags: Girl, Computer, Books, Library, Chair, Table, Bujumbura, Africa, School, University  \nEvery photograph needs a caption and keywords/tags. A good caption provides the audience basic information and context to understand a photograph and its relevance to the news: where the photo was taken, when it was taken, and a very brief description of what\u2019s in the photo. Search engines and search fields on sites like Flickr can\u2019t recognize images. They can only recognize text associated with the image. Keywords and tags, along with the caption, help viewers find images through search engines.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## Example Photo with a bad caption\n![Example photo.](3.jpg)  \n### Bad Caption: Woman sitting in her tailor shop behind a beautiful sewing machine.    \n### Good Caption: 4 December, 2014 \u2013 Bujumbura \u2013 A tailor for over 25 years, Since the influx of Chinese apparel, they have had to find a new and wealthier market segment to cater to. \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Captions should be clear, accurate and complete in the information they provide about the photograph.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## Captions in Photo Essays  \nThe captions for a photo essay should not repeat the same information over and over. Write captions as short, progressive explanations of the individual image in the context of the entire slideshow. In some cases you may present them as title cards that present short factoids. Factoids are additional information or statistics that help provide context.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![Example photo.](4.jpg)  \n### Good Caption: 5 December, 2014 \u2013 Bujumbura \u2013 The trimestrial East-Africa Market at the Palais des Arts et de la Culture in Bujumbura. With Burundese manufacturing still recovering from the war, consumers are eager to buy imported goods from East-Africa.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![Example photo.](5.jpg)  \n### Good Caption: 5 December, 2014 \u2013 Bujumbura \u2013 The trimestrial East-Africa Market at the Palais des Arts et de la Culture in Bujumbura. With Burundese manufacturing still recovering from the war, consumers are eager to buy imported goods from East-Africa.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![Example photo.](6.jpg)  \n### Good Caption: 5 December, 2014 \u2013 Bujumbura \u2013 The trimestrial East-Africa Market at the Palais des Arts et de la Culture in Bujumbura. With Burundese manufacturing still recovering from the war, consumers are eager to buy imported goods from East-Africa.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## Writing captions  \nA caption should be one or two sentences. In most photo captions the first sentence identifies the people and location of the photograph and date when it was taken. The second sentence should provide contextual information to help the audience understand what they are looking at.  \n  \nThe first sentence should:  \n&bull; Be written in the present tense.  \n&bull; Be written as a complete sentence.  \n&bull; Describe what is in the picture.  \n&bull; Say exactly when it was taken.  \n&bull; Say exactly where it was taken.  \n  \nA second or sometimes third sentence:  \n&bull; Typically can be written in the past tense if that makes more sense.  \n&bull; Should be written as a complete sentence.  \n&bull; Should provide context to allow the audience to better understand the significance of the image.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "### Example:  \nA child severely burned by a car bomb on June 9, 2010, receives care at the Indira Gandhi Institute of Child Medicine in Kabul, Afghanistan. Doctors are struggling with limited medicines to treat the growing number of child victims whose injuries are often compounded by other medical problems, such as poor nutrition, that diminish a child\u2019s ability to heal. (John Smock/SIPA Press).  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "![Example photo.](7.jpg)  \n### Good Caption: 5 December 2014 \u2013 Bujumbura \u2013 Street kids try to survive in the streets of Burundi: stopping oncoming traffic so that drivers can exit a parking lot, hoping for a small fee (around 500 Bfu or 0.30 $) in return.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "![Example photo.](8.jpg)  \n### Good Caption: 5 December 2014 \u2013 Bujumbura \u2013 Street kids try to survive in the streets of Burundi: stopping oncoming traffic so that drivers can exit a parking lot, hoping for a small fee (around 500 Bfu or 0.30 $) in return.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "![Example photo.](9.jpg)  \n### Good Caption: 5 December 2014 \u2013 Bujumbura \u2013 Street kids try to survive in the streets of Burundi: stopping oncoming traffic so that drivers can exit a parking lot, hoping for a small fee (around 500 Bfu or 0.30 $) in return.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "text": "The exact format for captions can vary, but a basic photo caption should:\n&bull; Clearly identify the people and location in the photo. Professional titles and the formal name of the location should be included. In large groups, identifications of only notable people may be required. At public events where individuals in the frame are not significant no I.D. may be required.  \n&bull; Include the date the photograph was taken. If an archive photograph or photograph taken prior to the event is used, the caption should make it clear that it is a \u201cfile photo.\u201d  \n&bull; Provide some context or background for the audience members so they can understand the news value of the photograph.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "text": "## Keywords and tags  \n![Tags: Car Rental, Economy, Bujumbura, Burundi, NGOs, War, Crisis](10.jpg)  \n### Tags: Car Rental, Economy, Bujumbura, Burundi, NGOs, War, Crisis \nKeywords and tags help search engines find images and work to identify photos in the archive. Typically there will be a field for keywords or tags along with the caption field.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_14"
+        }, 
+        {
+            "text": "## Tips for writing keywords and tags:\n&bull; Include specific geographic information.\n&bull; Avoid abbreviations.  \n&bull; Keyword with the kind of photo it is (portrait, demonstration, economy).  \n&bull; Consider word choice: Would someone use another word more naturally to do a search?  \n&bull; Think about related words to your topic that might help direct people to your photo.  \n&bull; Use common words that reflect specific subjects. For example, with computer security: hacking, hackers, security, firewall, attack, network, flaw.  \n&bull; The order of the keywords/tags is important; the first couple of words are valued more heavily.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_15"
+        }, 
+        {
+            "text": "# Tip Examples \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_16"
+        }, 
+        {
+            "text": "![Tags: Photo, Man, ID-card, Burundi, Fingerprint, Voter Registration](11.jpg)  \n### Tags: Photo, Man, ID-card, Burundi, Fingerprint, Voter Registration\n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_17"
+        }, 
+        {
+            "text": "![Tags: Journalists, Boss, Conference, Meeting, Africa, Phone, Paper](12.jpg)  \n### Tags: Journalists, Boss, Conference, Meeting, Africa, Phone, Paper  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_18"
+        }, 
+        {
+            "text": "![Tags: Woman, Headscarf, Ruin](13.jpg)  \n### Tags: Woman, Headscarf, Ruin  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_19"
+        }, 
+        {
+            "text": "## THINGS TO REMEMBER  \n&bull; Basic caption and keywords should always be included.  \n&bull; Make sure names of people and places are correctly identified and spelled.  \n&bull; Be accurate.  \n&bull; Photojournalism is journalism.  \n&bull; If a photo is manipulated digitally beyond simple sizing and color control, it should be labeled as a \u201cphoto illustration\u201d in the caption or in the photo credit. If unusual photo techniques are used, such as high dynamic range (HDR) effects, it should be noted in the caption.  \n&bull; Do not editorialize or make assumptions about what someone in a picture is thinking or feeling, for example: \u201can unhappy voter\u201d or \u201ca fortunate survivor.\u201d  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_20"
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "question": "The first sentence of a photo caption should include", 
+            "id": "quiz_card_1", 
+            "choices": [
+                {
+                    "text": "A brief description of the scene in the image, the date, the locations, and the names of any important people or landmarks.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "A history of the event photographed.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "The photographer\u2019s interpretation of what people in the image are feeling.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "All of the above.", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "question": "True or False: Keywords and tags not only helps people find your images online, they help you and news organizations find images more easily in your photo archive.", 
+            "id": "quiz_card_2", 
+            "choices": [
+                {
+                    "text": "True", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "False", 
+                    "id": "answer_2"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "question": "A good caption has which of the following characteristics (it can be more than one).", 
+            "id": "quiz_card_3", 
+            "choices": [
+                {
+                    "text": "The location and date the image was shot is clear.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Significant people portrayed are identified by full name and title.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "There are no misspelling or grammatical errors.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "All of the above.", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "text": "![](15.jpg)  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_21"
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "question": "What is the best caption for the image above?", 
+            "id": "quiz_card_4", 
+            "choices": [
+                {
+                    "text": "2 December \u2013 Bujumbura \u2013 Famous Burundese rapper Thomas Nzeyimana (aka Mkonbozi) at the Afro Music Studio in the Buyenzi neighborhood in Bujumbura, Burundi.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Musician at his studio full of expensive equipment.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Incredibly talented Burundese rapper talks about why music matters.", 
+                    "id": "answer_3"
+                }
+            ]
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "captions_and_keywords", 
+    "title": "Captions and Keywords"
+}

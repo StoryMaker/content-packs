@@ -1,0 +1,151 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "S\u1eafp x\u1ebfp vi\u1ec7c quay phim", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Trong b\u00e0i n\u00e0y b\u1ea1n s\u1ebd h\u1ecdc:  \n&bull; L\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 ghi h\u00ecnh m\u1ed9t c\u00e1ch hi\u1ec7u qu\u1ea3.\n&bull; L\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 t\u1ea1o ra danh s\u00e1ch c\u1ea3nh quay", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "R\u1ea5t h\u00e3n h\u1eefu m\u1ed9t video \u0111\u01b0\u1ee3c bi\u00ean t\u1eadp theo \u0111\u00fang tr\u00ecnh t\u1ef1 m\u00e0 n\u00f3 \u0111\u01b0\u1ee3c quay. \u0110\u1ec3 s\u1eed d\u1ee5ng h\u1eefu hi\u1ec7u th\u1eddi gian c\u1ee7a b\u1ea1n v\u00e0 gi\u1eef cho b\u1ea1n l\u00e0m vi\u1ec7c m\u1ed9t c\u00e1ch c\u00f3 t\u1ed5 ch\u1ee9c, b\u1ea1n c\u1ea7n x\u00e2y d\u1ef1ng k\u1ebf ho\u1ea1ch r\u00f5 r\u00e0ng tr\u01b0\u1edbc khi b\u1eaft \u0111\u1ea7u quay. M\u1ed9t danh s\u00e1ch c\u00e1c h\u00ecnh \u1ea3nh m\u00e0 b\u1ea1n c\u1ea7n \u0111\u1ec3 x\u00e2y d\u1ef1ng c\u00e2u chuy\u1ec7n l\u00e0 ph\u01b0\u01a1ng c\u00e1ch t\u1ed1t nh\u1ea5t \u0111\u1ec3 s\u1eafp x\u1ebfp k\u1ebf ho\u1ea1ch \u0111\u00f3.  \n![](2.png)  \nCoi danh s\u00e1ch nh\u1eefng h\u00ecnh \u1ea3nh nh\u01b0 danh s\u00e1ch \u0111\u1ed3 c\u1ea7n mua khi b\u1ea1n \u0111i si\u00eau th\u1ecb.  \nS\u1ebd r\u1ea5t c\u00f3 \u00edch khi b\u1ea1n vi\u1ebft ra c\u00e2u chuy\u1ec7n c\u1ee7a b\u1ea1n d\u01b0\u1edbi d\u1ea1ng v\u0103n b\u1ea3n. H\u00ecnh dung t\u1ea5t c\u1ea3 nh\u1eefng \u0111\u1ed1i t\u01b0\u1ee3ng kh\u00e1c nhau, h\u00e0nh \u0111\u1ed9ng n\u00e0o s\u1ebd di\u1ec5n ra, v\u00e0 b\u1ea5t c\u1ee9 y\u1ebfu t\u1ed1 n\u00e0o kh\u00e1c m\u00e0 b\u1ea1n ngh\u0129 l\u00e0 quan tr\u1ecdng \u0111\u1ec3 ghi l\u1ea1i cho m\u1ed9t b\u1ea3n tin ho\u00e0n ch\u1ec9nh. Vi\u1ec7c quan tr\u1ecdng l\u00e0 ph\u1ea3i c\u1ee5 th\u1ec3 nh\u1ea5t c\u00f3 th\u1ec3.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## Vi\u1ebft ra gi\u1ea5y  \nM\u1ed9t khi b\u1ea1n c\u00f3 t\u1ea5t c\u1ea3 c\u00e1c y\u1ebfu t\u1ed1 c\u1ee7a c\u00e2u chuy\u1ec7n, b\u1ea1n c\u00f3 th\u1ec3 b\u1eaft \u0111\u1ea7u h\u00ecnh dung nh\u1eefng c\u1ea3nh quay kh\u00e1c nhau m\u00e0 b\u1ea1n c\u1ea7n ph\u1ea3i ghi. \u0110\u00e2y l\u00e0 th\u1eddi \u0111i\u1ec3m t\u1ed1t \u0111\u1ec3 b\u1ea1n xem l\u1ea1i n\u0103m c\u1ea3nh quay c\u01a1 b\u1ea3n. C\u00e2n nh\u1eafc s\u1eed d\u1ee5ng c\u00e1i n\u00e0o v\u00e0 l\u00e0m sao b\u1ea1n c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng ch\u00fang \u0111\u1ec3 b\u1ed1 c\u1ee5c cho c\u00e1c y\u1ebfu t\u1ed1 c\u1ee7a c\u00e2u chuy\u1ec7n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "### Danh s\u00e1ch h\u00ecnh \u1ea3nh  \n![](3.png)  \nV\u1edbi m\u1ed9t m\u1ea9u gi\u1ea5y, b\u1ea1n t\u1ea1o ra ba c\u1ed9t. C\u1ed9t th\u1ee9 nh\u1ea5t n\u00ean l\u00e0 \"lo\u1ea1i quay phim\", c\u1ed9t th\u1ee9 2 n\u00ean l\u00e0 \"mi\u00eau t\u1ea3\" v\u00e0 loai th\u1ee9 3 s\u1ebd l\u00e0 \"y\u1ebfu t\u1ed1 c\u1ee7a b\u1ea3n tin\".  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "### \u0110i\u1ec1n c\u00e1c chi ti\u1ebft  \n![](4.png)  \n\u0110i\u1ec1n t\u1ea5t c\u1ea3 nh\u1eefng h\u00ecnh \u1ea3nh m\u00e0 b\u1ea1n ngh\u0129 l\u00e0 b\u1ea1n c\u1ea7n. N\u00ean c\u1ee5 th\u1ec3, v\u00e0 \u0111\u1eebng l\u01b0\u1ee1ng l\u1ef1 \u0111\u1ec3 vi\u1ebft ra nhi\u1ec1u h\u00ecnh \u1ea3nh. N\u00f3 s\u1ebd l\u00e0 h\u01b0\u1edbng d\u1eabn gi\u00fap cho b\u1ea1n t\u1eadp trung khi b\u1ea1n ghi h\u00ecnh.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "M\u1ed7i l\u1ea7n quay, b\u1ea1n h\u00e3y li\u1ec7t k\u00ea nh\u1eefng lo\u1ea1i quay \u0111\u1eb7c bi\u1ec7t m\u00e0 b\u1ea1n ngh\u0129 l\u00e0 s\u1ebd t\u1ed1t nh\u1ea5t. M\u00f4 t\u1ea3 cho th\u1eadt r\u00f5, v\u00e0 quy\u1ebft \u0111\u1ecbnh nh\u1eefng y\u1ebfu t\u1ed1 n\u00e0o c\u1ee7a b\u1ea3n tin c\u1ea7n c\u00f3 trong khung. C\u00f3 g\u1eafng c\u1ee5 th\u1ec3 v\u1edbi t\u1ea5t c\u1ea3 th\u00f4ng tin \u0111\u00f3. Khi b\u1ea1n quay h\u00ecnh, b\u1ea1n s\u1ebd b\u1ecb ph\u00e2n t\u00e2m b\u1edfi ho\u1ea1t \u0111\u1ed9ng kh\u00e1c. C\u1ea7n l\u00ean k\u1ebf ho\u1ea1ch r\u00f5 r\u00e0ng tr\u01b0\u1edbc khi b\u1eaft \u0111\u1ea7u.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "Vi\u1ebft ra t\u1ea5t c\u1ea3 nh\u1eefng th\u00f4ng tin \u0111\u00f3 v\u1edbi gi\u1ea3 \u0111\u1ecbnh l\u00e0 b\u1ea1n kh\u00f4ng ph\u1ea3i l\u00e0 ng\u01b0\u1eddi quay.  N\u1ebfu ai kh\u00e1c ngo\u00e0i b\u1ea1n c\u00f3 th\u1ec3 hi\u1ec3u \u0111\u01b0\u1ee3c nh\u1eefng c\u1ea3nh quay b\u1ea1n mu\u1ed1n, th\u00ec b\u1ea1n bi\u1ebft l\u00e0 m\u00ecnh c\u00f3 m\u1ed9t danh s\u00e1ch t\u1ed1t.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "StoryMaker \u01b0\u1edbc l\u01b0\u1ee3ng m\u1ee5c ti\u00eau t\u1ea1o ra danh s\u00e1ch c\u1ea3nh quay b\u1eb1ng c\u00e1ch cung c\u1ea5p c\u00e1c clip \u0111\u1ec1 ngh\u1ecb d\u1ef1a v\u00e0o nh\u1eefng g\u00ec b\u1ea1n l\u1ef1a ch\u1ecdn trong trang \u201c\u0111i\u1ec3m l\u00f4i cu\u1ed1n v\u00e0o chuy\u1ec7n\u201d. Nh\u1eefng clip \u0111\u1ec1 ngh\u1ecb \u0111\u00f3 \u0111\u01b0\u1ee3c x\u00e1c \u0111\u1ecbnh d\u1ef1a tr\u00ean nh\u1eefng ch\u1ee7 \u0111\u1ec1  v\u00e0 \u0111\u1ecbnh d\u1ea1ng chung d\u00f9ng trong c\u00e1c b\u1ea3n tin video.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "StoryMaker ch\u1ec9 c\u00f3 th\u1ec3 cung c\u1ea5p nh\u1eefng clip \u0111\u1ec1 xu\u1ea5t v\u00e0 nh\u1eefng y\u1ebfu t\u1ed1 c\u1ee7a b\u1ea3n tin. B\u1ea1n c\u00e2n nh\u1eafc vi\u1ec7c t\u1ea1o ra danh s\u00e1ch c\u1ee7a ri\u00eang m\u00ecnh \u1edf s\u1ed5 tay ho\u1eb7c ghi ch\u00fa \u1edf \u1ee9ng d\u1ee5ng \u0111i\u1ec7n tho\u1ea1i \u0111\u1ec3 b\u1ea3o \u0111\u1ea3m r\u1eb1ng b\u1ea1n s\u1ebd c\u00e2n nh\u1eafc t\u1ea5t c\u1ea3 nh\u1eefng l\u1ef1a ch\u1ecdn cho m\u1ed9t b\u1ea3n tin \u0111\u1eb7c bi\u1ec7t c\u1ee7a m\u00ecnh.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "Khi b\u1ea1n c\u00f3 nhi\u1ec1u d\u1ecbp th\u1ef1c t\u1eadp quay phim c\u00e1c b\u1ea3n tin, vi\u1ec7c x\u00e2y d\u1ef1ng danh s\u00e1ch c\u1ea3nh quay s\u1ebd tr\u1edf n\u00ean d\u1ec5 d\u00e0ng h\u01a1n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## NH\u1eeeNG \u0110I\u1ec0U C\u1ea6N GHI NH\u1eda  \n&bull; Danh s\u00e1ch c\u1ea3nh quay nh\u01b0 s\u1ed5 tay c\u1ee7a ng\u01b0\u1eddi ngh\u1ec7 s\u1ef9, b\u1ea1n ghi gi\u1eef c\u00e1c \u00fd t\u01b0\u1edfng trong \u0111\u00f3, nh\u01b0ng khi \u0111\u1ebfn l\u00fac quay th\u00ec ch\u00fang th\u01b0\u1eddng thay \u0111\u1ed5i.  \n&bull; \u0110\u1eebng qu\u00e1 ch\u00fa tr\u1ecdng \u0111\u1ec3 bi\u1ebfn vi\u1ec7c mi\u00eau t\u1ea3 ho\u00e0n h\u1ea3o.  \n&bull; Nhi\u1ec1u \u00fd t\u01b0\u1edfng th\u01b0\u1eddng t\u1ed1t h\u01a1n l\u00e0 \u00edt \u00fd t\u01b0\u1edfng, b\u1ea1n c\u00f3 th\u1ec3 kh\u00f4ng quay \u0111\u01b0\u1ee3c h\u1ebft c\u00e1c c\u1ea3nh trong danh s\u00e1ch.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "Danh s\u00e1ch c\u1ea3nh quay c\u00f3 nh\u1eefng g\u00ec?", 
+            "choices": [
+                {
+                    "text": "Th\u1eddi ti\u1ebft", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Lo\u1ea1i c\u1ea3nh quay", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "M\u00f4 T\u1ea3", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Nh\u1eefng y\u1ebfu t\u1ed1 c\u1ee7a b\u1ea3n tin", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2", 
+                "answer_3", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Khi so\u1ea1n danh s\u00e1ch c\u1ea3nh quay t\u00f4i n\u00ean?", 
+            "choices": [
+                {
+                    "text": "C\u00e0ng c\u1ee5 th\u1ec3 c\u00e0ng t\u1ed1t.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "C\u00e0ng m\u01a1 h\u1ed3 c\u00e0ng t\u1ed1t.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "L\u00fang t\u00fang.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Kh\u00f4ng r\u00f5 r\u00e0ng.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u0110\u00fang ho\u1eb7c Sai: C\u00f3 \u00edch kh\u00f4ng khi b\u1ea1n vi\u1ebft ra b\u1ea3n tin d\u01b0\u1edbi d\u1ea1ng v\u0103n b\u1ea3n?", 
+            "choices": [
+                {
+                    "text": "\u0110\u00fang", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Sai", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "organizing_your_shoot", 
+    "title": "S\u1eafp x\u1ebfp vi\u1ec7c quay phim"
+}

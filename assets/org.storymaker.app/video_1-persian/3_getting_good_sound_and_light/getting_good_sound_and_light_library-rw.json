@@ -1,0 +1,23 @@
+{
+    "title": "Kuronka amajwi hamwe n'umuco vyiza.", 
+    "storyPathTemplateFiles": {
+        "getting_good_sound_and_light": "getting_good_sound_and_light.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "getting_good_sound_and_light", 
+            "dependencyFile": "getting_good_sound_and_light.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "getting_good_sound_and_light"
+        }
+    ], 
+    "currentStoryPathFile": "getting_good_sound_and_light.json", 
+    "id": "getting_good_sound_and_light"
+}

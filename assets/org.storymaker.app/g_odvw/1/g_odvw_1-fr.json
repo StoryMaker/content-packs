@@ -1,0 +1,114 @@
+{
+    "cards": [
+        {
+            "level": "Introduction", 
+            "headline": "Interrogez votre partenaire.", 
+            "time": "? Minutes", 
+            "exampleMediaPath": "cover.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Premi\u00e8rement, chacun avec votre t\u00e9l\u00e9phone, interviewez votre partenaire, puis votre partenaire vous interviewera. ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "text": "Avec votre partenaire, choisissez une des questions suivantes que vous allez vous poser : * Quel est votre exp\u00e9rience dans le domaine du journalisme portable ? * Comment s'est pass\u00e9 votre visite de l'atelier ? * Quel partie de l'atelier pr\u00e9f\u00e9rez-vous ?", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Assurez vous que vous \u00eates assez proche pour entendre votre partenaire. ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "Si il y a beaucoup de bruit de fond, trouvez un autre endroit.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.png", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Exemple de plafond", 
+            "exampleMediaPath": "2.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Faites attention \u00e0 laisser assez d'espace pour votre entre-vue.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Posez une question \u00e0 votre sujet, vous pouvez faire plusieurs prises si n\u00e9cessaire."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "Couper en tapotant l'image du clip", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
+            "text": "Choisissez la meilleure r\u00e9ponse de 30 secondes.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Montrez votre personnage faire une action correspondante \u00e0 votre question."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Montrez un lieu important \u00e0 votre personnage ou \u00e0 votre question."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Si vous avez enregistr\u00e9 plusieurs clips sur une seule carte, supprimez les tous sauf les 3 que vous avez choisi avant de publier.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6"
+        }, 
+        {
+            "text": "Ne vous en faites pas, tout les clips sont sauvegard\u00e9s dans votre galerie.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7"
+        }, 
+        {
+            "text": "Une fois la mise en ligne termin\u00e9e, retournez en classe.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "g_odvw_1", 
+    "title": "Interrogez votre partenaire."
+}

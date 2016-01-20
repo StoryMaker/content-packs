@@ -1,0 +1,23 @@
+{
+    "title": "Thu \u00e2m thanh v\u00e0 \u00e1nh s\u00e1ng t\u1ed1t h\u01a1n", 
+    "storyPathTemplateFiles": {
+        "getting_good_sound_and_light": "getting_good_sound_and_light.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "getting_good_sound_and_light", 
+            "dependencyFile": "getting_good_sound_and_light.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "getting_good_sound_and_light"
+        }
+    ], 
+    "currentStoryPathFile": "getting_good_sound_and_light.json", 
+    "id": "getting_good_sound_and_light"
+}

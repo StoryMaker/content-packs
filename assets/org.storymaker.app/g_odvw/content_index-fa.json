@@ -1,31 +1,31 @@
 [
   {
-    "instanceFilePath": "org.storymaker.app/1_day_video_workshop/0.0_exercise_0/exercise_0_library.json", 
-    "thumbnailPath": "org.storymaker.app/1_day_video_workshop/cover.png", 
+    "instanceFilePath": "org.storymaker.app/g_odvw/0/g_odvw_0_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
     "language": "fa", 
-    "title": "What do you hope to learn?"
+    "title": "\u0639\u0644\u0627\u0642\u0647 \u062f\u0627\u0631\u06cc\u062f \u06a9\u0647 \u0686\u0647 \u0686\u06cc\u0632\u06cc \u0628\u06cc\u0627\u0645\u0648\u0632\u06cc\u062f\u061f"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/1_day_video_workshop/0.1_exercise_1/exercise_1_library.json", 
-    "thumbnailPath": "org.storymaker.app/1_day_video_workshop/cover.png", 
+    "instanceFilePath": "org.storymaker.app/g_odvw/1/g_odvw_1_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
     "language": "fa", 
-    "title": "Interview your partner."
+    "title": "\u0628\u0627 \u0634\u0631\u06cc\u06a9 \u062e\u0648\u062f \u0645\u0635\u0627\u062d\u0628\u0647 \u06a9\u0646\u06cc\u062f."
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/1_day_video_workshop/0.2_exercise_2/exercise_2_library.json", 
-    "thumbnailPath": "org.storymaker.app/1_day_video_workshop/cover.png", 
+    "instanceFilePath": "org.storymaker.app/g_odvw/2/g_odvw_2_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
     "language": "fa", 
     "title": "Shoot a Process Story."
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/1_day_video_workshop/0.3_exercise_3/exercise_3_library.json", 
-    "thumbnailPath": "org.storymaker.app/1_day_video_workshop/cover.png", 
+    "instanceFilePath": "org.storymaker.app/g_odvw/3/g_odvw_3_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
     "language": "fa", 
     "title": "Create a Story with Narration."
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/1_day_video_workshop/0.4_exercise_4/exercise_4_library.json", 
-    "thumbnailPath": "org.storymaker.app/1_day_video_workshop/cover.png", 
+    "instanceFilePath": "org.storymaker.app/g_odvw/4/g_odvw_4_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
     "language": "fa", 
     "title": "What\u2019s the most important thing you learned?"
   }

@@ -1,0 +1,140 @@
+{
+    "cards": [
+        {
+            "text": "# \u00bfC\u00f3mo estructuro mi historia para incluir una cuesti\u00f3n central, un cl\u00edmax, y una resoluci\u00f3n?  \n## En esta lecci\u00f3n aprender\u00e1:  \n&bull; C\u00f3mo combinar una cuesti\u00f3n central, un cl\u00edmax, y una resoluci\u00f3n en su historia. \n&bull; C\u00f3mo aplicar las curvas de tensi\u00f3n (pir\u00e1mides de Freytag) de historias a las narraciones de las noticias.\n&bull; C\u00f3mo crear una curva de tensi\u00f3n sin una resoluci\u00f3n clara.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "En las lecciones precedentes, aprendi\u00f3 acerca de los componentes estructurales b\u00e1sicos de la historia: cuesti\u00f3n central, cl\u00edmax, y resoluci\u00f3n. Necesita organizar estos elementos en su historia para un impacto m\u00e1ximo. Esto se hace con una estructura llamada curva de tensi\u00f3n de su historia (pir\u00e1mide de Freytag), o a veces llamado arco de tensi\u00f3n o curva narrativa. Para historias m\u00e1s cortas y comunicados, la curva ser\u00e1 simple: organizada cronol\u00f3gicamente, por ejemplo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Una historia potente discurre desde la introducci\u00f3n a una cuesti\u00f3n central, hacia un cl\u00edmax donde la cuesti\u00f3n central es respondida, y luego hacia una resoluci\u00f3n donde la consecuencia o efecto se revela. Las mejores historias mantienen la audiencia pregunt\u00e1ndose \"\u00bfQu\u00e9 viene ahora?\" mientras progresa desde un componente hacia el siguiente. Cada componente de la historia debe presentarse en un orden que incremente la tensi\u00f3n. Estos componentes, o pasos, forman una curva (pir\u00e1mide de Freytag).", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![Arc](1.png)  \nThis is the classic curve of tension in a powerful story. Stories that follow a path of a gradual rise in tension from a central question to a climax that answers the central question is answered, and arriving at the resolution, provide a satisfying experience for the audience.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Este concepto viene de la escritura de historias de ficci\u00f3n, pero funciona bien para noticias y periodismo. Si se propone producir historias period\u00edsticas, debe basarse en hechos y en los materiales que pueda obtener, pero todav\u00eda puede contar historias intrigantes aplicando este concepto. El deseo de crear una estructura de historia convincente no debe influenciar su relato. La historia debe realzar, y estar al servicio de su periodismo. Su periodismo no debe estar al servicio de la historia.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "La curva de tensi\u00f3n para algunas historias podr\u00eda no alcanzar el cl\u00edmax final y la resoluci\u00f3n antes de su fecha de entrega. Puede que necesite identificar un cl\u00edmax a corto plazo, limitado. En algunos casos, el hecho de que no haya una resoluci\u00f3n inmediata puede por si mismo constituir cierto tipo de cl\u00edmax. Por ejemplo: si a pesar de repetidos accidentes de coche, las autoridades locales no hacen nada para hacer la intersecci\u00f3n m\u00e1s segura.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "Si est\u00e1 trabajando en una historia que no se resolver\u00e1 hasta despu\u00e9s de su fecha de entrega, puede optar por tener una fuente que especule sobre un desenlace probable, o hablar sobre el futuro en su narraci\u00f3n. Aseg\u00farese de resolver la cuesti\u00f3n central en su conclusi\u00f3n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR \n&bull; Las historias se construyen como curvas (pir\u00e1mides de Freytag) para ayudar a crear tensi\u00f3n y mantener a la audiencia interesada.\n&bull; Su curva de tensi\u00f3n puede comenzar con material introductorio, antes de que la audiencia conozca la cuesti\u00f3n central.\n&bull; No todas las historias tendr\u00e1n una resoluci\u00f3n final a tiempo para su fecha de entrega.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Verdadero o falso: Tendr\u00e9 una historia fuerte mientras tenga los componentes de la historia: cuesti\u00f3n central y cl\u00edmax.", 
+            "choices": [
+                {
+                    "text": "Verdadero", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falso", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfEn qu\u00e9 orden debo estructurar los componentes de una curva de tensi\u00f3n para una historia s\u00f3lida?", 
+            "choices": [
+                {
+                    "text": "Mientras incluya todos los componentes, mi historia estar\u00e1 bien.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "El cl\u00edmax debe venir primero; el resto de componentes no importa.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "La historia comienza presentando la cuesti\u00f3n central, se mueve hacia el cl\u00edmax, y termina con la resoluci\u00f3n.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "La historia comienza presentando el cl\u00edmax, se desplaza hacia la cuesti\u00f3n central, y finaliza con la resoluci\u00f3n.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Verdadero o falso: Puedo utilizar material introductorio para comenzar el curva tensi\u00f3n (pir\u00e1mide de Freytag) de una historia especificando la cuesti\u00f3n central.", 
+            "choices": [
+                {
+                    "text": "Verdadero", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falso", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "\u00bfC\u00f3mo puedo producir una historia con una curva de tensi\u00f3n si no hay resoluci\u00f3n para mi historia en el momento de la publicaci\u00f3n? (Puede haber m\u00e1s de una respuesta).", 
+            "choices": [
+                {
+                    "text": "Est\u00e1 bien hacerse esta suposici\u00f3n en tanto cuanto haya una resoluci\u00f3n.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "No necesito preocuparme por ello.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Puedo utilizar un cl\u00edmax a corto plazo encuadr\u00e1ndolo a lo largo de la historia en desarrollo.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Puedo invitar a una fuente a especular acerca del desenlace probable.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "arc", 
+    "title": "Curva de tensi\u00f3n"
+}

@@ -1,0 +1,387 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "How do I create a sequence in video?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## In this lesson you will learn:  \n&bull; How to construct multiple video clips to create a sequence.  \n&bull; How to use different techniques for creating action sequences.  \n&bull; How sequences improve context and increase the impact of your story.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "A series of shots assembled together is a sequence. When made up of shots that support each other, an individual sequence can tell a complete story. StoryMaker focuses on using  multiple shots to make a complete sequence.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## Basic Shot Sequencing  \nTo shoot for a sequence you need to break down each story element into individual parts. It may be a small number of parts, or it may be many. You need to know all the parts before you can put the sequence together correctly.  \nReview this example. The filmmaker wants to make a story about a popular fruit stand. They want to make a sequence that shows someone buying fruit.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "2.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "We will need to see a person who will be buying the fruit.", 
+            "exampleMediaPath": "2.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "3.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "We will need to see the fruit.", 
+            "exampleMediaPath": "3.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "4.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "We will need to see the person paying for the fruit.", 
+            "exampleMediaPath": "4.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "5.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "As a sequence of three shots in that order it tells a simple, but complete story.", 
+            "exampleMediaPath": "5.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Knowing your story gives you the freedom to record your shots in any order. In the end, you will assemble them to tell your story.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "These shots are the beginning, middle, and end of your story. There is a person, there is a piece of fruit, the person paid for the fruit. It is a very simple story, but it works. You can now add an interview with the seller or buyer of the fruit. You might also include a wide shot to define the location.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "No matter how complex your story gets, remember to shoot in three parts: beginning, middle, and end. Each of these may have multiple shots, with different elements in the frame. As a whole, your shots must add up to a sequence that includes all three parts. In some stories you may have a five-shot scene(or more) for each section of the story.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "6.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Working Your Way In", 
+            "exampleMediaPath": "6.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "A popular technique to use when you might not know the story you are telling is to start with shots that are farther away, working your way into a scene shot by shot. When you assemble your shots in chronological order, they will create a natural progression. By using the five basic shots: Wide, Long, Medium, Close, and Detail, you will be able to create a complete sequence with a natural flow.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## Shot/Reverse Shot Sequences  \n![Shot/Reverse Shot Sequences](7.png)  \nIf you want to show an action occurring from different angles at the same time, you must film them separately. This is known as a shot/reverse shot sequence.  \nTo create a shot/reverse shot sequence, record two shots with both in mind. Consider this example where a filmmaker shoots a basic shot/reverse shot of someone typing on their keyboard.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "8.mp4", 
+                    "media_caption": "The first shot is the character\u2019s face in a medium shot while typing on the keyboard."
+                }
+            ], 
+            "header": "Shot of Character", 
+            "exampleMediaPath": "8.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "9.mp4", 
+                    "media_caption": "The second shot, the reverse shot in this sequence, should be a shot of whatever the character is doing in the first shot. In this case, typing on the keyboard."
+                }
+            ], 
+            "header": "Reverse Shot", 
+            "exampleMediaPath": "9.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "10.mp4", 
+                    "media_caption": "When you cut these two shots together, it will appear as if the subject is typing on their keyboard. While we used a medium shot in the first shot, it could also be a close-up. This is a matter of style on your part, but the other shots in your video will help you make that decision. That is it. You have enough shots to construct a shot / reverse shot."
+                }
+            ], 
+            "header": "Shot / Reverse Shot Together", 
+            "exampleMediaPath": "10.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_8"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "11.mp4", 
+                    "media_caption": "This technique also works to show what a subject may be looking at. Either an object, or potentially another person. For example, if you want to show someone on their phone, film their face while they use their phone and then film the phone they are using."
+                }
+            ], 
+            "header": "Alternative Example", 
+            "exampleMediaPath": "11.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_9"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "12.mp4", 
+                    "media_caption": "You are not limited to using only two shots. Adding more shots allows you to show how the process of the action changes over time. If a task is becoming more difficult, you might show a second shot of the subject appearing interested while writing an email, and end with a look of satisfaction when they send the email."
+                }
+            ], 
+            "header": "Building Action", 
+            "exampleMediaPath": "12.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_10"
+        }, 
+        {
+            "text": "## Interview Sequences  \nInterviews are created with character clips. Use medium shots or close-up shots. Follow StoryMaker\u2019s suggested guidelines in the camera preview if you\u2019re uncertain. Anything farther or closer will make it difficult to hear the interview, or for the audience to relate to the subject.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "13.mp4", 
+                    "media_caption": "Example of changing composition after a question"
+                }
+            ], 
+            "header": "Changing Shot Size", 
+            "exampleMediaPath": "13.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_11"
+        }, 
+        {
+            "text": "Choose a frame and hold it. Once you have decided which side of the frame the subject will be on, hold it there. Hold it until the subject has finished answering a question. Only change the composition of the frame in between questions.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "14.mp4", 
+                    "media_caption": "How to set up good head space in your shot"
+                }
+            ], 
+            "header": "Head Space", 
+            "exampleMediaPath": "14.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_12"
+        }, 
+        {
+            "text": "Keep good head space. If you are unsure please see the Framing Your Shot lesson.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "15.mp4", 
+                    "media_caption": "Example of not panning away, but adding a shot in later"
+                }
+            ], 
+            "header": "Holding the Frame", 
+            "exampleMediaPath": "15.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_13"
+        }, 
+        {
+            "text": "Do not pan or move the camera if your subject points at something or is discussing something outside of the frame. After your subject finishes answering the question on camera, record a shot of the action he or she was pointing at.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "## THINGS TO REMEMBER  \n&bull; Shot/reverse shot sequences help create the appearance of continuous action in your video.  \n&bull; Shot/reverse shot sequences  are popular to use in interviews when showing the interviewer as well as the person being interviewed.  \n&bull; Shot/reverse shot sequences are a good technique to use for getting good b roll.  \n&bull; Successful sequences answer the six important questions we have previously discussed. (Who, what, where, when, why, and how.)  \n&bull; Creating an effective sequence means shooting different sized shots, each containing complementary parts of the story.  \n&bull; When you bring several sequences together, you make a more complex story.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "question": "What makes up a shot list?", 
+            "id": "quiz_card_1", 
+            "choices": [
+                {
+                    "text": "Weather.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Shot type.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Description.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Story elements.", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "question": "What is the smallest number of shots you need to create a shot/reverse shot?", 
+            "id": "quiz_card_2", 
+            "choices": [
+                {
+                    "text": "10 shots.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "3 shots.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "6 shots.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "2 shots.", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "question": "True or False: Shot/reverse shot sequences can only show what a subject is looking at.", 
+            "id": "quiz_card_3", 
+            "choices": [
+                {
+                    "text": "True, they can only show what the subject is looking at.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "False, they can also show what the subject is doing.", 
+                    "id": "answer_2"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "question": "What types of shots work best in a shot/reverse shot?", 
+            "id": "quiz_card_4", 
+            "choices": [
+                {
+                    "text": "Long shot.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Medium shot.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Establishing shot.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Detail shot.", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "question": "True or False: Adding more shots allows you to show how the process of the action being performed changes over time.", 
+            "id": "quiz_card_5", 
+            "choices": [
+                {
+                    "text": "True, each shot can show a different step in the process.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "False, adding shots only confuses the audience.", 
+                    "id": "answer_2"
+                }
+            ]
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "sequences", 
+    "title": "Sequences"
+}

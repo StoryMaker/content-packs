@@ -1,0 +1,23 @@
+{
+    "title": "L\u00e0m sao \u0111\u1ec3 t\u00f4i s\u1eed d\u1ee5ng hi\u1ec7u qu\u1ea3 c\u00e1c b\u00fat danh", 
+    "storyPathTemplateFiles": {
+        "introduction_to_journalism": "how_do_i_effectively_use_pseudonyms.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "how_do_i_effectively_use_pseudonyms", 
+            "dependencyFile": "how_do_i_effectively_use_pseudonyms.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "how_do_i_effectively_use_pseudonyms"
+        }
+    ], 
+    "currentStoryPathFile": "how_do_i_effectively_use_pseudonyms.json", 
+    "id": "how_do_i_effectively_use_pseudonyms"
+}

@@ -1,0 +1,23 @@
+{
+    "title": "M\u1eb9o v\u00e0 k\u1ef9 thu\u1eadt ghi \u00e2m", 
+    "storyPathTemplateFiles": {
+        "recording_tips_and_techniques": "recording_tips_and_techniques.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "recording_tips_and_techniques", 
+            "dependencyFile": "recording_tips_and_techniques.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "recording_tips_and_techniques"
+        }
+    ], 
+    "currentStoryPathFile": "recording_tips_and_techniques.json", 
+    "id": "recording_tips_and_techniques"
+}

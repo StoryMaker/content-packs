@@ -1,0 +1,175 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "I have my mobile phone and I am ready to record. What can I do to make sure the recording comes out well?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## In this lesson you will learn:  \n&bull; Techniques to avoid common problems recording audio with a mobile device  \n&bull; How to identify potential causes of poor audio\n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Recording audio is easy, but there are many ways to ruin the recording so that it is unusable. To ensure this does not happen, practice these simple steps while you are recording an interview, supporting audio, or recording yourself narrating a story. Following these steps may prevent an audio problem before it happens. Once your audio is recorded badly, it is extremely difficult to save it.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Handling noise and grip](2.png)  \n## Handling noise and grip  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "3.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Example of handling noise", 
+            "exampleMediaPath": "3.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "When preparing to record, hold your device in a way that is comfortable and natural. Hold the device without applying much pressure, in a manner that you can hold for an extended period of time. Otherwise, you may hear \u201chandling noise\u201d in your audio, this happens when you move the mic while recording, and your hand or something else rubs across the microphone.  \n![Resting your elbow](1.png)  \nIf you must hold the recording device up to the person throughout the interview, rest your elbow on a solid surface. It is best to sit down, rest your elbow on the table and extend your arm toward the audio source.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![Holding the Mic a bit under the mouth](4.png)  \nHold the microphone a bit under the mouth of the interviewee so that the airstream coming out of his or her mouth will not create hissing or popping sounds in the recording.  \nIf there is a table between you and the person you are interviewing, you can set the recorder on a table, but take care no one touches, taps, or bangs the table, as this may cause contact noise.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![Example of mic stands](5.png)  \nThere are several types of stands that fit handheld recorders or smart phones to hold them in place during the interview. You can make your own using materials you have. Anything you can rest the recorder on that keeps it at face level with your audio source will do.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "## Hums and background noise  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "6.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Example of air-conditioning sound", 
+            "exampleMediaPath": "6.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Detecting air conditioning sounds and other machine sounds that can ruin your audio recording should be done before you begin recording. When you arrive at the location, take notice of any and all sounds, even those that seem harmless. Ask if machines causing noise can be turned off, or suggest a change of location for the sake of the audio quality. Most people will understand and trust your expertise on the subject.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## THINGS TO REMEMBER  \n&bull; Always consider how long you will have to hold your recorder steady before you begin an interview. For longer interviews, find a comfortable way to sit or stand that prevents you from having to change your grip.  \n&bull; Make use of surfaces, especially something that can be used as a stand, to rest the recorder on at an acceptable distance from the audio source.  \n&bull; Look and listen for background sounds that can harm the quality of your recording when you first arrive at an interview or recording location.  \n&bull; Keep your audio files backed up and correctly labeled.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "question": "What is handling noise?", 
+            "id": "quiz_card_1", 
+            "choices": [
+                {
+                    "text": "The music of a famous composer.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "The interrupting background sound of an air conditioner.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Disruptive sounds caused by your own hand when you change your grip or move while holding a recorder.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Handling noise, i.e. turning off noisy machines.", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "question": "Which of the following can be used to prevent handling noise and keep your arm or recorder stable during a recording?", 
+            "id": "quiz_card_2", 
+            "choices": [
+                {
+                    "text": "Table.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Mic stand.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "A wall.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "All of the above.", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "question": "When should you address the problem of air-conditioning sounds or other machines?", 
+            "id": "quiz_card_3", 
+            "choices": [
+                {
+                    "text": "When you arrive at a location, before you start recording.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "In the middle of the interview.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "During the editing process.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Turn off all machines 24 hours before your interview.", 
+                    "id": "answer_4"
+                }
+            ]
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "recording_tips_and_techniques", 
+    "title": "Recording Tips and Techniques"
+}

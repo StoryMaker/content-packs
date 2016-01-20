@@ -1,0 +1,23 @@
+{
+    "title": "Sc\u00e9nariser un plan d'enregistrement", 
+    "storyPathTemplateFiles": {
+        "storyboarding_recording_plan": "storyboarding_recording_plan.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "storyboarding_recording_plan", 
+            "dependencyFile": "storyboarding_recording_plan.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "storyboarding_recording_plan"
+        }
+    ], 
+    "currentStoryPathFile": "storyboarding_recording_plan.json", 
+    "id": "storyboarding_recording_plan"
+}

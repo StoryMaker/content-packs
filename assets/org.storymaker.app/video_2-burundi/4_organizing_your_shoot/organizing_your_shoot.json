@@ -1,0 +1,151 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Organizing your shoot", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## In this lesson you will learn:  \n&bull; How to shoot your video efficiently.\n&bull; How to create a shot list.\n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Only rarely is video edited together in the same order in which it was recorded. To effectively use time and keep yourself organized, have a clear plan before you begin recording your story. A list of all the shots you need in order to assemble your story is a great way to organize this plan.  \n![](2.png)  \nThink of the shot list functioning the same as a grocery list when you go to the market.  \nIt is quite helpful to write out your story in plain text. Imagine all of the the different subjects, what actions will occur, and any other elements you think are important to record to completely show your story. It is important to be as specific as possible.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## Write it out  \nOnce you have all your story elements, you can start imagining what different shots you need to record. This is a good time to review the five basic shots. Consider what each of them do well, and how you can use them to frame the different story elements.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "### Shot list  \n![](3.png)  \nWith a piece of paper, create a three-column list. The first column should be \u201cshot type,\u201d the second should be \u201cdescription,\u201d and the third should be \u201cstory elements.\u201d  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "### Fill In the details  \n![](4.png)  \nFill in all the shots you think you need. Be specific, and do not hesitate to write down a lot of shots. This is a guide to help you focus when you are recording.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "For every shot, list the specific shot type you think will work best. Fill in as much description as you can, and decide what story elements you need in that frame. Be as specific as possible with all of this information. When you are recording, you will be distracted by other activity. Plan as much as possible before you start.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "Write all of this information as if you are not the person filming it. If someone besides you can understand the shots you want, you know you have a good shot list.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "StoryMaker approximates the goal of creating a shot list by providing suggested clips based on choices you make on the story hook screen. These suggested clips are defined based on common topics and formats used in video stories.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "StoryMaker can only provide suggested clips and story elements. Consider creating your own list on a notepad or in a note-taking mobile app to ensure you consider all possible options for your unique story.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "As you have more and more practice shooting stories, shot lists will become easier to develop.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## THINGS TO REMEMBER  \n&bull; Shot lists are like an artist\u2019s notebook; you keep your ideas in them, but when you are shooting they often change.  \n&bull; Do not get stuck on making your descriptions perfect.  \n&bull; More ideas are often better than fewer ideas for a shot list; you might not be able to get all of the shots on your list.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "correctRequired": 3, 
+            "correctAnswers": [
+                "answer_2", 
+                "answer_3", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "question": "What makes up a shot list?", 
+            "id": "quiz_card_1", 
+            "choices": [
+                {
+                    "text": "Weather", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Shot Type", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Description", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Story Elements", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "question": "When writing a shot list I should be?", 
+            "id": "quiz_card_2", 
+            "choices": [
+                {
+                    "text": "As specific as possible.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "As vague as possible.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Confused.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Unclear.", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "question": "True or False: it is helpful to write your story out in plain text?", 
+            "id": "quiz_card_3", 
+            "choices": [
+                {
+                    "text": "True", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "False", 
+                    "id": "answer_2"
+                }
+            ]
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "organizing_your_shoot", 
+    "title": "Organizing Your Shoot"
+}

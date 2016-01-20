@@ -1,0 +1,32 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/photography_2-persian/1_the_photo_essay/the_photo_essay_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-persian/cover.png", 
+    "language": "fr", 
+    "title": "Le reportage photo"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_2-persian/2_photographing_fast_moving_objects/photographing_fast_moving_objects_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-persian/cover.png", 
+    "language": "fr", 
+    "title": "Photographier des objets en mouvement rapide"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_2-persian/3_setting_white_balance/setting_white_balance_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-persian/cover.png", 
+    "language": "fr", 
+    "title": "R\u00e9glage de la balance du blanc"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_2-persian/4_photographing_different_stories/photographing_different_stories_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-persian/cover.png", 
+    "language": "fr", 
+    "title": "Photographier des diff\u00e9rentes histoires"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_2-persian/5_photographing_difficult_uncomfortable_situations/photographing_difficult_uncomfortable_situations_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-persian/cover.png", 
+    "language": "fr", 
+    "title": "Photographier des situations inconfortables difficiles"
+  }
+]

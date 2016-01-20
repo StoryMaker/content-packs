@@ -1,0 +1,11 @@
+{
+  "t_photo_series_action::clip_card_4::goals[0]": "Replicate the composition with another character.", 
+  "t_photo_series_action::clip_card_3::goals[0]": "Replicate the composition with another character.", 
+  "t_photo_series_action::title": "Series - Action", 
+  "t_photo_series_action::clip_card_0::goals[0]": "Photograph an action important to your story. Frame the entire action.", 
+  "t_photo_series_action::text_card_0::text": "This is an action series template. A series is a set of similar images designed to illustrate a comparative point. Images in a series should be stylistically similar to further illustrate the comparison.", 
+  "t_photo_series_action::ms_moreinfo::text": "About this Template", 
+  "t_photo_series_action::clip_card_1::goals[0]": "Replicate the composition of the first photo with another character.", 
+  "t_photo_series_action::ms_moreinfo::header": "Next", 
+  "t_photo_series_action::clip_card_2::goals[0]": "Replicate the composition with another character."
+}

@@ -1,0 +1,23 @@
+{
+    "title": "Qu'esp\u00e9rez vous apprendre?", 
+    "storyPathTemplateFiles": {
+        "g_odvw_0": "g_odvw_0.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "g_odvw_0", 
+            "dependencyFile": "g_odvw_0.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "g_odvw_0"
+        }
+    ], 
+    "currentStoryPathFile": "g_odvw_0.json", 
+    "id": "g_odvw_0_library"
+}

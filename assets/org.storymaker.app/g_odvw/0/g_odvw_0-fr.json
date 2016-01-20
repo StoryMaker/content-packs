@@ -1,0 +1,79 @@
+{
+    "cards": [
+        {
+            "level": "Introduction", 
+            "headline": "Qu'esp\u00e9rez vous apprendre?", 
+            "time": "? Minutes", 
+            "exampleMediaPath": "cover.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Premi\u00e8rement, chacun avec votre t\u00e9l\u00e9phone, interviewez votre partenaire, puis votre partenaire vous interviewera. ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "text": "Demandez a votre partenanire, \"Qu'esp\u00e9rez vous apprendre \u00e0 propos de la cr\u00e9ation de vid\u00e9o?\"", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "Assurez vous que vous \u00eates assez proche pour entendre votre partenaire. ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "text": "Si il y a beaucoup de bruit de fond, trouvez un autre endroit.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.png", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Exemple de plafond", 
+            "exampleMediaPath": "2.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Question: Qu'esp\u00e9rez vous apprendre \u00e0 propos de la cr\u00e9ation de vid\u00e9o?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "Couper en tapotant l'image du clip", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Si vous avez enregistr\u00e9 plusieurs clips, supprimez les tous sauf celui que vous avez choisi avant de publier.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }, 
+        {
+            "text": "Ne vous en faites pas, tout les clips sont sauvegard\u00e9s dans votre galerie.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "g_odvw_0", 
+    "title": "Qu'esp\u00e9rez vous apprendre?"
+}

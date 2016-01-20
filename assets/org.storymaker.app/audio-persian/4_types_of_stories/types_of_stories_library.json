@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "types_of_stories", 
+            "dependencyFile": "types_of_stories.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Types of Stories", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "types_of_stories"
+        }
+    ], 
+    "currentStoryPathFile": "types_of_stories.json", 
+    "storyPathTemplateFiles": {
+        "types_of_stories": "types_of_stories.json"
+    }, 
+    "id": "types_of_stories"
+}

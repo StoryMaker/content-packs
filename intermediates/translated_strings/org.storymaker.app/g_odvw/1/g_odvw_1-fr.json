@@ -1,0 +1,19 @@
+{
+    "g_odvw_1::clip_card_2::goals[0]": "Montrez un lieu important à votre personnage ou à votre question.",
+    "g_odvw_1::clip_card_1::goals[0]": "Montrez votre personnage faire une action correspondante à votre question.",
+    "g_odvw_1::markdown_card_0::text": "Avec votre partenaire, choisissez une des questions suivantes que vous allez vous poser : * Quel est votre expérience dans le domaine du journalisme portable ? * Comment s'est passé votre visite de l'atelier ? * Quel partie de l'atelier préférez-vous ?",
+    "g_odvw_1::text_card_0::text": "Premièrement, chacun avec votre téléphone, interviewez votre partenaire, puis votre partenaire vous interviewera. ",
+    "g_odvw_1::text_card_7::text": "Ne vous en faites pas, tout les clips sont sauvegardés dans votre galerie.",
+    "g_odvw_1::text_card_8::text": "Une fois la mise en ligne terminée, retournez en classe.",
+    "g_odvw_1::text_card_3::text": "Faites attention à laisser assez d'espace pour votre entre-vue.",
+    "g_odvw_1::text_card_6::text": "Si vous avez enregistré plusieurs clips sur une seule carte, supprimez les tous sauf les 3 que vous avez choisi avant de publier.",
+    "g_odvw_1::text_card_1::text": "Assurez vous que vous êtes assez proche pour entendre votre partenaire. ",
+    "g_odvw_1::text_card_4::text": "Couper en tapotant l'image du clip",
+    "g_odvw_1::text_card_2::text": "Si il y a beaucoup de bruit de fond, trouvez un autre endroit.",
+    "g_odvw_1::title": "Interrogez votre partenaire.",
+    "g_odvw_1::preview_card_0::header": "Exemple de plafond",
+    "g_odvw_1::intro_card_0::level": "Introduction",
+    "g_odvw_1::intro_card_0::headline": "Interrogez votre partenaire.",
+    "g_odvw_1::clip_card_0::goals[0]": "Posez une question à votre sujet, vous pouvez faire plusieurs prises si nécessaire.",
+    "g_odvw_1::text_card_5::text": "Choisissez la meilleure réponse de 30 secondes."
+}

@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "camera_basics", 
+            "dependencyFile": "camera_basics.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Camera Basics", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "camera_basics"
+        }
+    ], 
+    "currentStoryPathFile": "camera_basics.json", 
+    "storyPathTemplateFiles": {
+        "camera_basics": "camera_basics.json"
+    }, 
+    "id": "camera_basics"
+}

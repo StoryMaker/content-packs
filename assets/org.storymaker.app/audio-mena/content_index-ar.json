@@ -1,0 +1,38 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/audio-mena/1_introduction_to_audio/introduction_to_audio_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-mena/cover.png", 
+    "language": "ar", 
+    "title": "Introduction to Audio"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-mena/2_audio_basics/audio_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-mena/cover.png", 
+    "language": "ar", 
+    "title": "Audio Basics"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-mena/3_preparation/preparation_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-mena/cover.png", 
+    "language": "ar", 
+    "title": "Preparation"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-mena/4_types_of_stories/types_of_stories_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-mena/cover.png", 
+    "language": "ar", 
+    "title": "Types of Stories"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-mena/5_storyboarding_recording_plan/storyboarding_recording_plan_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-mena/cover.png", 
+    "language": "ar", 
+    "title": "Storyboarding Recording Plan"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-mena/6_recording_tips_and_techniques/recording_tips_and_techniques_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-mena/cover.png", 
+    "language": "ar", 
+    "title": "Recording Tips and Techniques"
+  }
+]

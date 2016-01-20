@@ -1,0 +1,23 @@
+{
+    "title": "Photographier des situations inconfortables difficiles", 
+    "storyPathTemplateFiles": {
+        "photographing_difficult_uncomfortable_situations": "photographing_difficult_uncomfortable_situations.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "photographing_difficult_uncomfortable_situations", 
+            "dependencyFile": "photographing_difficult_uncomfortable_situations.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "photographing_difficult_uncomfortable_situations"
+        }
+    ], 
+    "currentStoryPathFile": "photographing_difficult_uncomfortable_situations.json", 
+    "id": "photographing_difficult_uncomfortable_situations"
+}

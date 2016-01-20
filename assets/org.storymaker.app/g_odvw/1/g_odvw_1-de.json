@@ -1,0 +1,114 @@
+{
+    "cards": [
+        {
+            "level": "Einleitung", 
+            "headline": "Befrage deinen Partner.", 
+            "time": "? Minutes", 
+            "exampleMediaPath": "cover.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Jeder mit seinem eigenen Telefon, interviewe zuerst deinen Partner, und dann wird dein Partner dich interviewen.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "text": "W\u00e4hle mit deinem Partner eine der folgenden Fragen, die ihr euch gegenseitig stellt * Was ist deine Erfahrung mit Mobil-Journalismus? * Wie war dein Ausflug zum Workshop? * Was war dein Lieblingsteil des Workshops bis jetzt?", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Stelle sicher, dass du nah genug an deinem Partner bist, um ihn zu h\u00f6ren.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "Wenn die Hintergrundger\u00e4usche zu laut sind, solltest du einen anderen Ort finden.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.png", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Beispiel f\u00fcr Freiraum", 
+            "exampleMediaPath": "2.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Sei aufmerksam einen angemessenen Freiraum f\u00fcr dein Interview bereitzustellen.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Erinnere dich, frage deine Zielperson eine Frage, du kannst diese mehrmals hintereinander stellen falls ben\u00f6tigt."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "Schneide das Bild durch Antippen des Bildausschnitts zu.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
+            "text": "W\u00e4hlen die beste 30-Sekunden-Antwort aus.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Zeige, dass dein Charakter etwas mit deiner Frage verbundenes unternimmt."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Zeige einen Ort, der wichtig ist f\u00fcr deinen Charakter oder deine Frage."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Wenn du mehrere Clips in einer einzelnen Karte aufgenommen hast, l\u00f6sche alle bis auf deine drei ausgew\u00e4hlten Clips vor der Ver\u00f6ffentlichung.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6"
+        }, 
+        {
+            "text": "Keine Sorge, alle Clips werden in deiner Gallerie gespeichert.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7"
+        }, 
+        {
+            "text": "Wenn du mit dem Hochladen fertig bist, kehre zum Kurs zur\u00fcck.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "g_odvw_1", 
+    "title": "Befrage deinen Partner."
+}

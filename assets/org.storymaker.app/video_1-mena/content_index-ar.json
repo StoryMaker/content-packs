@@ -1,0 +1,26 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-mena/1_introduction_to_video/introduction_to_video_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-mena/cover.png", 
+    "language": "ar", 
+    "title": "Introduction to Video"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-mena/2_video_basics/video_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-mena/cover.png", 
+    "language": "ar", 
+    "title": "Video Basics"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-mena/3_getting_good_sound_and_light/getting_good_sound_and_light_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-mena/cover.png", 
+    "language": "ar", 
+    "title": "Getting Good Sound and Light"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-mena/4_setting_white_balance_in_video/setting_white_balance_in_video_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-mena/cover.png", 
+    "language": "ar", 
+    "title": "Setting White Balance in Video"
+  }
+]

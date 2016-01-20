@@ -1,0 +1,227 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "L\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 t\u00f4i vi\u1ebft m\u1ed9t ch\u00fa th\u00edch c\u01a1 b\u1ea3n cho m\u1ed9t b\u1ee9c \u1ea3nh?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Trong b\u00e0i h\u1ecdc hay b\u1ea1n s\u1ebd h\u1ecdc:  \n&bull; L\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 vi\u1ebft m\u1ed9t ch\u00fa th\u00edch c\u01a1 b\u1ea3n cho m\u1ed9t b\u1ee9c h\u00ecnh.  \n&bull; L\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 vi\u1ebft th\u1ebb v\u00e0 t\u1eeb kho\u00e1 cho m\u1ed9t b\u1ee9c h\u00ecnh.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "## V\u00ed d\u1ee5 h\u00ecnh v\u1edbi ch\u00fa th\u00edch, t\u1eeb kh\u00f3a v\u00e0 th\u1ebb t\u00ean t\u1ed1t.  \n![H\u00ecnh v\u00ed d\u1ee5.](2.jpg)  \n### Ch\u00fa th\u00edch: 4 th\u00e1ng M\u01b0\u1eddi Hai, 2014 \u2014 Bujumbura \u2014 Sinh vi\u00ean ng\u1ed3i tr\u01b0\u1edbc m\u00e1y vi t\u00ednh trong th\u01b0 vi\u1ec7n ch\u00ednh c\u1ee7a \u0110\u1ea1i H\u1ecdc Lake Tanganyika, tr\u01b0\u1eddng n\u1ed5i ti\u1ebfng nh\u1ea5t c\u1ee7a Burundi. Th\u1ef1c hi\u1ec7n nh\u1eefng cu\u1ed9c nghi\u00ean c\u1ee9u c\u00f3 gi\u00e1 tr\u1ecb r\u1ea5t l\u00e0 kh\u00f3 kh\u0103n trong tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc thi\u1ebfu t\u00e0i tr\u1ee3 n\u00e0y, nh\u01b0ng c\u00f3 ti\u1ebfp c\u1eadn internet gi\u00fap thay \u0111\u1ed5i \u0111i\u1ec1u n\u00e0y.\n### T\u1eeb kh\u00f3a: Lake Tanganyika University, Truy c\u1eadp Internet, Th\u01b0 vi\u1ec7n, Nghi\u00ean c\u1ee9u, Ngh\u00e8o \u0111\u00f3i, \u0110\u1ea1i h\u1ecdc,  Burundi, Bujumbura  \n### Th\u1ebb: Con g\u00e1i, M\u00e1y vi t\u00ednh, S\u00e1ch, Th\u01b0 vi\u1ec7n, Gh\u1ebf, B\u00e0n, Bujumbura, Phi ch\u00e2u, Tr\u01b0\u1eddng, \u0110\u1ea1i h\u1ecdc  \nM\u1ed7i b\u1ee9c \u1ea3nh c\u1ea7n c\u00f3 ch\u00fa th\u00edch v\u00e0 t\u1eeb kh\u00f3a/th\u1ebb. L\u1eddi ch\u00fa th\u00edch hay s\u1ebd cho \u0111\u1ed9c gi\u1ea3 th\u00f4ng tin c\u0103n b\u1ea3n v\u00e0 b\u1ed1i c\u1ea3nh \u0111\u1ec3 hi\u1ec3u b\u1ee9c \u1ea3nh v\u00e0 th\u00edch \u0111\u00e1ng v\u1edbi s\u1ef1 vi\u1ec7c x\u1ea3y ra: n\u01a1i ch\u1ee5p, ch\u1ee5p khi n\u00e0o, v\u00e0 m\u1ed9t mi\u00eau t\u1ea3 ng\u1eafn trong h\u00ecnh c\u00f3 g\u00ec. C\u00e1c c\u00f4ng c\u1ee5 t\u00ecm ki\u1ebfm v\u00e0 khung t\u00ecm ki\u1ebfm trong trang web nh\u01b0 Flickr kh\u00f4ng hi\u1ec3u g\u00ec v\u1ec1 h\u00ecnh \u1ea3nh. Ch\u00fang ch\u1ec9 c\u00f3 th\u1ec3 nh\u1eadn d\u1ea1ng v\u0103n b\u1ea3n li\u00ean quan \u0111\u1ebfn b\u1ee9c h\u00ecnh. T\u1eeb kh\u00f3a v\u00e0 th\u1ebb, c\u00f9ng v\u1edbi ch\u00fa th\u00edch, gi\u00fap ng\u01b0\u1eddi xem t\u00ecm ra h\u00ecnh \u1ea3nh qua c\u00e1c c\u00f4ng c\u1ee5 t\u00ecm ki\u1ebfm.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## H\u00ecnh v\u00ed d\u1ee5 v\u1edbi ch\u00fa th\u00edch d\u1edf\n![H\u00ecnh v\u00ed d\u1ee5.](3.jpg)  \n### Ch\u00fa th\u00edch d\u1edf: Ng\u01b0\u1eddi \u0111\u00e0n b\u00e0 ng\u1ed3i \u0111\u00e0ng sau m\u1ed9t c\u00e1i m\u00e1y may \u0111\u1eb9p trong ti\u1ec7m may .\n### Ch\u00fa th\u00edch hay: 4 Th\u00e1ng M\u01b0\u1eddi Hai, 2014 \u2013 Bujumbura \u2013 M\u1ed9t ng\u01b0\u1eddi th\u1ee3 may h\u01a1n 25 n\u0103m, t\u1eeb khi c\u00f3 h\u00e0ng may m\u1eb7c Trung Qu\u1ed1c tr\u00e0n ng\u1eadp, h\u1ecd ph\u1ea3i t\u00ecm th\u1ecb tr\u01b0\u1eddng m\u1edbi c\u1ee7a ng\u01b0\u1eddi gi\u00e0u c\u00f3 \u0111\u1ec3 ph\u1ee5c v\u1ee5.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Ch\u00fa th\u00edch n\u00ean r\u00f5 r\u00e0ng, ch\u00ednh x\u00e1c v\u00e0 ho\u00e0n ch\u1ec9nh v\u1ec1 th\u00f4ng tin m\u00e0 n\u00f3 cung c\u1ea5p cho b\u1ee9c h\u00ecnh.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## Ch\u00fa th\u00edch cho m\u1ed9t B\u1ea3n Tin B\u1eb1ng H\u00ecnh\nCh\u00fa th\u00edch trong m\u1ed9t b\u1ea3n tin b\u1eb1ng h\u00ecnh kh\u00f4ng n\u00ean nh\u1eafc l\u1ea1i c\u00f9ng th\u00f4ng tin t\u1eeb \u1ea3nh n\u00e0y sang \u1ea3nh kh\u00e1c. Vi\u1ebft ch\u00fa th\u00edch ng\u1eafn, gi\u1edbi thi\u1ec7u tu\u1ea7n t\u1ef1 v\u1ec1 t\u1eebng b\u1ee9c h\u00ecnh trong b\u1ed1i c\u1ea3nh c\u1ee7a to\u00e0n b\u1ed9 \u1ea3nh. Trong m\u1ed9t s\u1ed1 tr\u01b0\u1eddng h\u1ee3p, b\u1ea1n c\u00f3 th\u1ec3 tr\u00ecnh b\u00e0y ch\u00fang nh\u01b0 l\u00e0 factoid, hay m\u1ea3nh d\u1eef ki\u1ec7n, t\u1ee9c l\u00e0 nh\u1eefng th\u00f4ng tin b\u1ed5 sung ho\u1eb7c th\u1ed1ng k\u00ea m\u00e0 c\u00f3 th\u1ec3 gi\u00fap cho ng\u01b0\u1eddi xem hi\u1ec3u b\u1ed1i c\u1ea3nh c\u1ee7a c\u00e1c h\u00ecnh \u1ea3nh.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![H\u00ecnh v\u00ed d\u1ee5.](4.jpg)  \n### Ch\u00fa th\u00edch t\u1ed1t: 5 Th\u00e1ng M\u01b0\u1eddi Hai, 2014 \u2013 Bujumbura \u2013 Ch\u1ee3 \u0110\u00f4ng-Phi nh\u00f3m h\u1ecdp m\u1ed7i ba th\u00e1ng t\u1ea1i Palais des Arts et de la Culture \u1edf Bujumbura. V\u00ec ng\u00e0nh s\u1ea3n xu\u1ea5t c\u1ee7a Burundi v\u1eabn ch\u01b0a ph\u1ee5c h\u1ed3i l\u1ea1i sau chi\u1ebfn tranh, ng\u01b0\u1eddi ti\u00eau th\u1ee5 h\u00e1o h\u1ee9c mua h\u00e0ng nh\u1eadp t\u1eeb \u0110\u00f4ng-Phi.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![H\u00ecnh v\u00ed d\u1ee5.](5.jpg)  \n### Ch\u00fa th\u00edch t\u1ed1t: 5 Th\u00e1ng M\u01b0\u1eddi Hai, 2014 \u2013 Bujumbura \u2013 Ch\u1ee3 \u0110\u00f4ng-Phi nh\u00f3m h\u1ecdp m\u1ed7i ba th\u00e1ng t\u1ea1i Palais des Arts et de la Culture \u1edf Bujumbura. V\u00ec ng\u00e0nh s\u1ea3n xu\u1ea5t c\u1ee7a Burundi v\u1eabn ch\u01b0a ph\u1ee5c h\u1ed3i l\u1ea1i sau chi\u1ebfn tranh, ng\u01b0\u1eddi ti\u00eau th\u1ee5 h\u00e1o h\u1ee9c mua h\u00e0ng nh\u1eadp t\u1eeb \u0110\u00f4ng-Phi.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![H\u00ecnh v\u00ed d\u1ee5.](6.jpg)  \n### Ch\u00fa th\u00edch t\u1ed1t: 5 Th\u00e1ng M\u01b0\u1eddi Hai, 2014 \u2013 Bujumbura \u2013 Ch\u1ee3 \u0110\u00f4ng-Phi nh\u00f3m h\u1ecdp m\u1ed7i ba th\u00e1ng t\u1ea1i Palais des Arts et de la Culture \u1edf Bujumbura. V\u00ec ng\u00e0nh s\u1ea3n xu\u1ea5t c\u1ee7a Burundi v\u1eabn ch\u01b0a ph\u1ee5c h\u1ed3i l\u1ea1i sau chi\u1ebfn tranh, ng\u01b0\u1eddi ti\u00eau th\u1ee5 h\u00e1o h\u1ee9c mua h\u00e0ng nh\u1eadp t\u1eeb \u0110\u00f4ng-Phi.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## Vi\u1ebft ghi ch\u00fa  \nL\u1eddi ghi ch\u00fa n\u00ean l\u00e0 m\u1ed9t hay hai c\u00e2u. Trong ghi ch\u00fa c\u1ee7a \u0111a s\u1ed1 c\u00e1c b\u1ee9c h\u00ecnh, c\u00e2u \u0111\u1ea7u ti\u00ean x\u00e1c \u0111\u1ecbnh ng\u01b0\u1eddi v\u00e0 \u0111\u1ecba danh c\u1ee7a b\u1ee9c h\u00ecnh c\u0169ng nh\u01b0 ng\u00e0y ch\u1ee5p. C\u00e2u th\u1ee9 hai n\u00ean cung c\u1ea5p th\u00f4ng tin v\u1ec1 b\u1ed1i c\u1ea3nh \u0111\u1ec3 gi\u00fap cho ng\u01b0\u1eddi xem hi\u1ec3u v\u1ec1 b\u1ee9c h\u00ecnh.  \n  \nC\u00e2u \u0111\u1ea7u n\u00ean:  \n&bull; Vi\u1ebft ch\u00fa th\u00edch \u1edf th\u1eddi hi\u1ec7n t\u1ea1i.  \n&bull; Ch\u00fa th\u00edch \u0111\u01b0\u1ee3c vi\u1ebft b\u1eb1ng c\u00e2u ho\u00e0n ch\u1ec9nh.  \n&bull; Mi\u00eau t\u1ea3 c\u00e1i g\u00ec trong b\u1ee9c h\u00ecnh.  \n&bull; Cho bi\u1ebft ch\u00ednh x\u00e1c khi n\u00e0o b\u1ee9c \u1ea3nh \u0111\u01b0\u1ee3c ch\u1ee5p.  \n&bull; Cho bi\u1ebft ch\u00ednh x\u00e1c b\u1ee9c \u1ea3nh \u0111\u01b0\u1ee3c ch\u1ee5p \u1edf \u0111\u00e2u.  \n  \nC\u00e2u th\u1ee9 hai ho\u1eb7c nhi\u1ec1u khi c\u00e2u th\u1ee9 ba:  \n&bull; C\u00f3 th\u1ec3 vi\u1ebft \u1edf th\u1eddi qu\u00e1 kh\u1ee9 n\u1ebfu \u0111i\u1ec1u \u0111\u00f3 l\u00e0m \u00fd ngh\u0129a h\u01a1n.  \n&bull; N\u00ean \u0111\u01b0\u1ee3c vi\u1ebft d\u01b0\u1edbi d\u1ea1ng c\u00e2u ho\u00e0n ch\u1ec9nh.  \n&bull; N\u00ean cung c\u1ea5p b\u1ed1i c\u1ea3nh \u0111\u1ec3 cho ph\u00e9p ng\u01b0\u1eddi xem hi\u1ec3u v\u1ec1 vai tr\u00f2 c\u1ee7a b\u1ee9c h\u00ecnh.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "### V\u00ed d\u1ee5:  \nM\u1ed9t \u0111\u1ee9a tr\u1ebb b\u1ecb b\u1ecfng nghi\u00eam tr\u1ecdng b\u1edfi v\u1ee5 \u0111\u00e1nh bom xe ng\u00e0y 9/6/2010, ti\u1ebfp nh\u1eadn ch\u0103m s\u00f3c t\u1ea1i B\u1ec7nh vi\u1ec7n nhi Indira Gandhi \u1edf Kabul, Afghanistan. C\u00e1c b\u00e1c s\u1ef9 ph\u1ea3i v\u1eadt l\u1ed9n v\u1edbi thi\u1ebfu th\u1ed1n y t\u1ebf \u0111\u1ec3 \u0111i\u1ec1u tr\u1ecb cho s\u1ed1 l\u01b0\u1ee3ng n\u1ea1n nh\u00e2n tr\u1ebb em ng\u00e0y c\u00e0ng t\u0103ng m\u00e0 v\u1ebft th\u01b0\u01a1ng b\u1ecb ph\u1ee9c t\u1ea1p b\u1edfi nh\u1eefng v\u1ea5n \u0111\u1ec1 y t\u1ebf kh\u00e1c, nh\u01b0 thi\u1ebfu dinh d\u01b0\u1ee1ng l\u00e0m tr\u00ec tr\u1ec7 kh\u1ea3 n\u0103ng ph\u1ee5c h\u1ed3i. (John Smock/SIPA Press).", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "![H\u00ecnh v\u00ed d\u1ee5.](7.jpg)  \n### Ch\u00fa th\u00edch t\u1ed1t: 5 Th\u00e1ng M\u01b0\u1eddi Hai 2014 \u2013 Bujumbura \u2013 Tr\u1ebb b\u1ee5i \u0111\u1eddi t\u00ecm k\u1ebf m\u01b0u sinh tr\u00ean \u0111\u01b0\u1eddng ph\u1ed1 Burundi: ch\u1eadn giao th\u00f4ng l\u1ea1i \u0111\u1ec3 xe c\u00f3 th\u1ec3 r\u1eddi b\u00e3i \u0111\u1eadu, hy v\u1ecdng \u0111\u01b0\u1ee3c cho ch\u00fat \u0111\u1ec9nh ti\u1ec1n (kho\u1ea3ng 500 Bfu t\u1ee9c 0.30 \u0111\u00f4 la).", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "![H\u00ecnh v\u00ed d\u1ee5.](8.jpg)  \n### Ch\u00fa th\u00edch t\u1ed1t: 5 Th\u00e1ng M\u01b0\u1eddi Hai 2014 \u2013 Bujumbura \u2013 Tr\u1ebb b\u1ee5i \u0111\u1eddi t\u00ecm k\u1ebf m\u01b0u sinh tr\u00ean \u0111\u01b0\u1eddng ph\u1ed1 Burundi: ch\u1eadn giao th\u00f4ng l\u1ea1i \u0111\u1ec3 xe c\u00f3 th\u1ec3 r\u1eddi b\u00e3i \u0111\u1eadu, hy v\u1ecdng \u0111\u01b0\u1ee3c cho ch\u00fat \u0111\u1ec9nh ti\u1ec1n (kho\u1ea3ng 500 Bfu t\u1ee9c 0.30 \u0111\u00f4 la).", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "![H\u00ecnh v\u00ed d\u1ee5.](9.jpg)  \n### Ch\u00fa th\u00edch t\u1ed1t: 5 Th\u00e1ng M\u01b0\u1eddi Hai 2014 \u2013 Bujumbura \u2013 Tr\u1ebb b\u1ee5i \u0111\u1eddi t\u00ecm k\u1ebf m\u01b0u sinh tr\u00ean \u0111\u01b0\u1eddng ph\u1ed1 Burundi: ch\u1eadn giao th\u00f4ng l\u1ea1i \u0111\u1ec3 xe c\u00f3 th\u1ec3 r\u1eddi b\u00e3i \u0111\u1eadu, hy v\u1ecdng \u0111\u01b0\u1ee3c cho ch\u00fat \u0111\u1ec9nh ti\u1ec1n (kho\u1ea3ng 500 Bfu t\u1ee9c 0.30 \u0111\u00f4 la).", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "text": "D\u1ea1ng ch\u00fa th\u00edch c\u00f3 th\u1ec3 thay \u0111\u1ed5i, nh\u01b0ng m\u1ed9t ch\u00fa th\u00edch c\u01a1 b\u1ea3n n\u00ean:\n&bull; X\u00e1c \u0111\u1ecbnh r\u00f5 r\u00e0ng m\u1ecdi ng\u01b0\u1eddi v\u00e0 \u0111\u1ecba danh trong h\u00ecnh. Ch\u1ee9c danh chuy\u00ean m\u00f4n v\u00e0 t\u00ean ch\u00ednh th\u1ee9c c\u1ee7a \u0111\u1ecba danh n\u00ean \u0111\u01b0\u1ee3c vi\u1ebft. Trong m\u1ed9t nh\u00f3m l\u1edbn, cho ph\u00e9p x\u00e1c \u0111\u1ecbnh t\u00ean c\u1ee7a nh\u1eefng nh\u00e2n v\u1eadt n\u1ed5i ti\u1ebfng. Trong nh\u1eefng s\u1ef1 ki\u1ec7n c\u00f4ng ch\u00fang, n\u01a1i c\u00f3 nhi\u1ec1u c\u00e1 nh\u00e2n kh\u00f4ng c\u00f3 \u1ea3nh h\u01b0\u1edfng \u0111\u1eb7c bi\u1ec7t th\u00ec vi\u1ec7c n\u00eau danh kh\u00f4ng b\u1eaft bu\u1ed9c.  \n&bull; N\u00ean th\u00eam th\u00f4ng tin v\u1ec1 ng\u00e0y ch\u1ee5p b\u1ee9c h\u00ecnh. N\u1ebfu s\u1eed d\u1ee5ng \u1ea3nh l\u01b0u tr\u1eef ho\u1eb7c b\u1ee9c h\u00ecnh ch\u1ee5p tr\u01b0\u1edbc ng\u00e0y x\u1ea3y ra s\u1ef1 ki\u1ec7n, ch\u00fa th\u00edch n\u00ean ghi r\u00f5 r\u00e0ng \u0111\u00e2y l\u00e0 \"file photo\" (h\u00ecnh ch\u1ec9 \u0111\u1ec3 minh h\u1ecda)\n&bull; Cung c\u1ea5p th\u00eam b\u1ed1i c\u1ea3nh ho\u1eb7c th\u00f4ng tin n\u1ec1n \u0111\u1ec3 ng\u01b0\u1eddi xem c\u00f3 th\u1ec3 hi\u1ec3u gi\u00e1 tr\u1ecb tin t\u1ee9c c\u1ee7a b\u1ee9c h\u00ecnh.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "text": "## T\u1eeb kh\u00f3a v\u00e0 th\u1ebb\n![Th\u1ebb: Xe m\u01b0\u1edbn, Kinh t\u1ebf, Bujumbura, Burundi, NGOs, Chi\u1ebfn tranh, Kh\u1ee7ng ho\u1ea3ng](10.jpg)  \n### Th\u1ebb: Xe m\u01b0\u1edbn, Kinh t\u1ebf, Bujumbura, Burundi, NGOs, Chi\u1ebfn tranh, Kh\u1ee7ng ho\u1ea3ng\nT\u1eeb kh\u00f3a v\u00e0 th\u1ebb gi\u00fap c\u00f4ng c\u1ee5 t\u00ecm ki\u1ebfm t\u00ecm ra \u1ea3nh v\u00e0 x\u00e1c \u0111\u1ecbnh h\u00ecnh trong kho l\u01b0u tr\u1eef.\nTh\u00f4ng th\u01b0\u1eddng c\u00f3 \u00f4 ri\u00eang cho t\u1eeb kh\u00f3a ho\u1eb7c th\u1ebb song song v\u1edbi \u00f4 ch\u00fa th\u00edch.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_14"
+        }, 
+        {
+            "text": "## M\u1eb9o \u0111\u1ec3 vi\u1ebft t\u1eeb kho\u00e1 v\u00e0 th\u1ebb:\n&bull; Bao g\u1ed3m th\u00f4ng tin c\u1ee5 th\u1ec3 v\u1ec1 \u0111\u1ecba l\u00fd.\n&bull; Tr\u00e1nh vi\u1ebft t\u1eaft.  \n&bull; T\u1eeb kho\u00e1 v\u1edbi nh\u1eefng d\u1ea1ng \u1ea3nh (ch\u00e2n dung, bi\u1ec3u t\u00ecnh, kinh t\u1ebf).  \n&bull; H\u00e3y xem x\u00e9t l\u1ef1a ch\u1ecdn t\u1eeb: M\u1ed9t ng\u01b0\u1eddi c\u00f3 s\u1eed d\u1ee5ng t\u1eeb kh\u00e1c v\u1edbi t\u1eeb th\u00f4ng th\u01b0\u1eddng \u0111\u1ec3 t\u00ecm?  \n&bull; Ngh\u0129 v\u1ec1 nh\u1eefng t\u1eeb li\u00ean quan \u0111\u1ebfn ch\u1ee7 \u0111\u1ec1 m\u00e0 gi\u00fap cho m\u1ecdi ng\u01b0\u1eddi t\u00ecm \u0111\u1ebfn b\u1ee9c h\u00ecnh c\u1ee7a b\u1ea1n.  \n&bull; S\u1eed d\u1ee5ng nh\u1eefng t\u1eeb th\u00f4ng th\u01b0\u1eddng \u0111\u1ec3 ch\u1ec9 v\u1ec1 m\u1ed9t \u0111\u1ed1i t\u01b0\u1ee3ng c\u1ee5 th\u1ec3. V\u00ed d\u1ee5, v\u1edbi an ninh m\u00e1y t\u00ednh: hacking, hackers, an ninh, t\u01b0\u1eddng l\u1eeda, t\u1ea5n c\u00f4ng, m\u1ea1ng l\u01b0\u1edbi, l\u1ed7i.  \n&bull; Th\u1ee9 t\u1ef1 c\u1ee7a c\u00e1c t\u1eeb kho\u00e1/th\u1ebb quan tr\u1ecdng, nh\u1eefng t\u1eeb \u0111\u1ea7u ti\u00ean c\u00f3 gi\u00e1 tr\u1ecb nh\u1ea5t.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_15"
+        }, 
+        {
+            "text": "# V\u00ed d\u1ee5 m\u1eb9o", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_16"
+        }, 
+        {
+            "text": "![Th\u1ebb t\u00ean: H\u00ecnh, \u0110\u00e0n \u00f4ng, Th\u1ebb ID, Burundi, D\u1ea5u l\u0103n tay, \u0110\u0103ng k\u00fd b\u1ecf phi\u1ebfu](11.jpg)  \n### Th\u1ebb t\u00ean: H\u00ecnh, \u0110\u00e0n \u00f4ng, Th\u1ebb ID, Burundi, D\u1ea5u l\u0103n tay, \u0110\u0103ng k\u00fd b\u1ecf phi\u1ebfu", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_17"
+        }, 
+        {
+            "text": "![Th\u1ebb: K\u00fd gi\u1ea3, X\u1ebfp, H\u1ed9i ngh\u1ecb, H\u1ecdp m\u1eb7t, Phi ch\u00e2u, \u0110i\u1ec7n tho\u1ea1i, Gi\u1ea5y](12.jpg)  \n### Th\u1ebb: K\u00fd gi\u1ea3, X\u1ebfp, H\u1ed9i ngh\u1ecb, H\u1ecdp m\u1eb7t, Phi ch\u00e2u, \u0110i\u1ec7n tho\u1ea1i, Gi\u1ea5y", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_18"
+        }, 
+        {
+            "text": "![Th\u1ebb: Ph\u1ee5 n\u1eef, Kh\u0103n tr\u00f9m \u0111\u1ea7u, T\u00e0n t\u00edch](13.jpg)  \n### Th\u1ebb: Ph\u1ee5 n\u1eef, Kh\u0103n tr\u00f9m \u0111\u1ea7u, T\u00e0n t\u00edch", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_19"
+        }, 
+        {
+            "text": "## NH\u1eeeNG \u0110I\u1ec0U C\u1ea6N GHI NH\u1eda  \n&bull; Ch\u00fa th\u00edch c\u01a1 b\u1ea3n v\u00e0 t\u1eeb kho\u00e1 n\u00ean lu\u00f4n \u0111\u01b0\u1ee3c g\u1eafn v\u00e0o.  \n&bull; H\u00e3y \u0111\u1ea3m b\u1ea3o r\u1eb1ng t\u00ean h\u1ecd c\u1ee7a ng\u01b0\u1eddi v\u00e0 \u0111\u1ecba danh \u0111\u01b0\u1ee3c vi\u1ebft \u0111\u00fang.  \n&bull; H\u00e3y ch\u00ednh x\u00e1c.  \n&bull; B\u00e1o ch\u00ed nhi\u1ebfp \u1ea3nh c\u0169ng l\u00e0 b\u00e1o ch\u00ed.  \n&bull; N\u1ebfu m\u1ed9t b\u1ee9c h\u00ecnh b\u1ecb l\u00e0m bi\u1ebfn d\u1ea1ng ngo\u00e0i vi\u1ec7c thay \u0111\u1ed5i k\u00edch th\u01b0\u1edbc v\u00e0 m\u00e0u s\u1eafc, n\u00f3 n\u00ean \u0111\u01b0\u1ee3c \u0111\u1ec1 l\u00e0 \"\u1ea3nh minh ho\u1ea1\" khi ch\u00fa th\u00edch. N\u1ebfu s\u1eed d\u1ee5ng nh\u1eefng k\u1ef9 thu\u1eadt ch\u1ee5p kh\u00f4ng b\u00ecnh th\u01b0\u1eddng, nh\u01b0 s\u1eed d\u1ee5ng k\u1ef9 x\u1ea3o HDR,c\u0169ng n\u00ean nh\u1eafc \u0111\u1ebfn \u1edf ph\u1ea7n ch\u00fa th\u00edch.  \n&bull; Kh\u00f4ng t\u1ef1 l\u00e0m bi\u00ean t\u1eadp ho\u1eb7c t\u1ef1 gi\u1ea3 \u0111\u1ecbnh r\u1eb1ng ng\u01b0\u1eddi trong h\u00ecnh ngh\u0129 hay c\u00f3 c\u1ea3m gi\u00e1c g\u00ec, v\u00ed d\u1ee5: \u201cm\u1ed9t ng\u01b0\u1eddi \u0111i b\u1ecf phi\u1ebfu kh\u00f4ng vui v\u1ebb\u201d hay \u201cm\u1ed9t ng\u01b0\u1eddi may m\u1eafn s\u1ed1ng s\u00f3t.\u201d", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_20"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "C\u00e2u \u0111\u1ea7u ti\u00ean c\u1ee7a ch\u00fa th\u00edch m\u1ed9t b\u1ee9c h\u00ecnh n\u00ean bao g\u1ed3m", 
+            "choices": [
+                {
+                    "text": "M\u1ed9t mi\u00eau t\u1ea3 ng\u1eafn v\u1ec1 hi\u1ec7n tr\u01b0\u1eddng c\u1ee7a b\u1ee9c hinh, ng\u00e0y th\u00e1ng, \u0111\u1ecba \u0111i\u1ec3m, v\u00e0 t\u00ean c\u1ee7a nh\u1eefng ng\u01b0\u1eddi hay m\u1ed1c ngo\u1eb7c quan tr\u1ecdng.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "L\u1ecbch s\u1eed c\u1ee7a s\u1ef1 ki\u1ec7n \u0111\u01b0\u1ee3c ch\u1ee5p.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "L\u1eddi di\u1ec5n gi\u1ea3i c\u1ee7a nhi\u1ebfp \u1ea3nh gia v\u1ec1 c\u1ea3m x\u00fac c\u1ee7a ng\u01b0\u1eddi trong h\u00ecnh.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "T\u1ea5t c\u1ea3 nh\u1eefng \u0111i\u1ec1u tr\u00ean.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u0110\u00fang ho\u1eb7c Sai: T\u1eeb kho\u00e1 v\u00e0 th\u1ebb kh\u00f4ng nh\u1eefng gi\u00fap m\u1ecdi ng\u01b0\u1eddi t\u00ecm th\u1ea5y b\u1ee9c h\u00ecnh c\u1ee7a b\u1ea1n tr\u00ean m\u1ea1ng, ch\u00fang c\u00f2n gi\u00fap b\u1ea1n v\u00e0 h\u00e3ng tin t\u00ecm th\u1ea5y b\u1ee9c h\u00ecnh d\u1ec5 d\u00e0ng h\u01a1n trong \u1ea3nh t\u01b0 li\u1ec7u c\u1ee7a b\u1ea1n.", 
+            "choices": [
+                {
+                    "text": "\u0110\u00fang", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Sai", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "M\u1ed9t ch\u00fa th\u00edch hay c\u00f3 nh\u1eefng \u0111\u1eb7c \u0111i\u1ec3m n\u00e0o trong s\u1ed1 c\u00e1c \u0111\u1eb7c \u0111i\u1ec3m sau \u0111\u00e2y (c\u00f3 th\u1ec3 c\u00f3 h\u01a1n m\u1ed9t l\u1ef1a ch\u1ecdn).", 
+            "choices": [
+                {
+                    "text": "\u0110\u1ecba danh v\u00e0 th\u1eddi gian c\u1ee7a b\u1ee9c h\u00ecnh n\u00ean r\u00f5 r\u00e0ng.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Nh\u1eefng ng\u01b0\u1eddi quan tr\u1ecdng th\u00ec \u0111\u01b0\u1ee3c x\u00e1c \u0111\u1ecbnh b\u1eb1ng t\u00ean \u0111\u1ea7y \u0111\u1ee7 v\u00e0 ch\u1ee9c danh.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Kh\u00f4ng c\u00f3 l\u1ed7i ch\u00ednh t\u1ea3 ho\u1eb7c ng\u1eef ph\u00e1p.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "T\u1ea5t c\u1ea3 nh\u1eefng \u0111i\u1ec1u tr\u00ean.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "text": "![](15.jpg)  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_21"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Ch\u00fa th\u00edch n\u00e0o t\u1ed1t nh\u1ea5t cho b\u1ee9c h\u00ecnh tr\u00ean?", 
+            "choices": [
+                {
+                    "text": "2 Th\u00e1ng M\u01b0\u1eddi Hai \u2013 Bujumbura \u2013 rapper n\u1ed5i ti\u1ebfng c\u1ee7a Burundi Thomas Nzeyimana (aka Mkonbozi) t\u1ea1i Afro Music Studio trong khu x\u00f3m Buyenzi, Bujumbura, Burundi.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Ng\u01b0\u1eddi nh\u1ea1c s\u0129 trong ph\u00f2ng studio c\u1ee7a \u00f4ng v\u1edbi \u0111\u1ea7y d\u1ee5ng c\u1ee5 \u0111\u1eaft ti\u1ec1n.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Ng\u01b0\u1eddi rapper Burundi nhi\u1ec1u t\u00e0i n\u0103ng chia s\u1ebb t\u1ea1i sao \u00e2m nh\u1ea1c quan tr\u1ecdng.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "captions_and_keywords", 
+    "title": "Ch\u00fa th\u00edch v\u00e0 t\u1eeb kho\u00e1"
+}

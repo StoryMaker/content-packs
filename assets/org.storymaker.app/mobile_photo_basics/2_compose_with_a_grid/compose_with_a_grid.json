@@ -92,7 +92,7 @@
             "id": "preview_card_1"
         }, 
         {
-            "text": "The grid is intended to do more than do more than center your photos. Let\u2019s look at how the lines of the grid help us compose better photos.", 
+            "text": "The grid is intended to do more than center your photos. Let\u2019s look at how the lines of the grid help us compose better photos.", 
             "type": "BasicTextCard", 
             "id": "text_card_3", 
             "references": [

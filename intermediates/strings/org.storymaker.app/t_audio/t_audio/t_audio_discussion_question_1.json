@@ -1,0 +1,15 @@
+{
+  "t_audio_discussion_question_1::clip_card_2::goals[0]": "Ask: What is your opinion of the individual?", 
+  "t_audio_discussion_question_1::ms_moreinfo::text": "About this Template", 
+  "t_audio_discussion_question_1::clip_card_7::goals[0]": "Record sound of the place where you asked about the individual.", 
+  "t_audio_discussion_question_1::title": "What is your opinion of the person?", 
+  "t_audio_discussion_question_1::clip_card_3::goals[0]": "Ask: What is your opinion of the individual?", 
+  "t_audio_discussion_question_1::clip_card_4::goals[0]": "Ask: What is your opinion of the individual?", 
+  "t_audio_discussion_question_1::text_card_0::text": "Discussions are framed around asking many people the same question. This template asks many people to give their opinion of a specific individual. Discussions work well for gathering opinions about a character with a strong cultural or social significance. Feel free to use alternate questions if you think they may work better for you.", 
+  "t_audio_discussion_question_1::clip_card_0::goals[0]": "Record sound of a place important to your character.", 
+  "t_audio_discussion_question_1::text_card_1::text": "You may want to substitute the name of the individual you are focused on where you see \\\u201cthe individual.\\\u201d", 
+  "t_audio_discussion_question_1::clip_card_5::goals[0]": "Ask: What is your opinion of the individual?", 
+  "t_audio_discussion_question_1::clip_card_1::goals[0]": "Record sound that introduces your discussion.", 
+  "t_audio_discussion_question_1::ms_moreinfo::header": "Next", 
+  "t_audio_discussion_question_1::clip_card_6::goals[0]": "Ask: What is your opinion of the individual?"
+}

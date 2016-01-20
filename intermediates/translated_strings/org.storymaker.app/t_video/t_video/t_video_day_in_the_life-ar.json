@@ -1,0 +1,17 @@
+{
+    "t_video_day_in_the_life::text_card_0::text": "A day in the life follows one character throughout the story. The story may follow a literal day, or simply showcase an important part of the day. This template assumes you are following a character with a specific type of work, but the clips can be used to document anyone's day or activity. Feel free to use alternate questions if you think they may work better for you.",
+    "t_video_day_in_the_life::clip_card_7::goals[0]": "إظهار ما يفعل شخصيتك للتسلية.",
+    "t_video_day_in_the_life::clip_card_0::goals[0]": "بين لنا أين تعيش شخصيتك.",
+    "t_video_day_in_the_life::clip_card_9::goals[0]": "نسأل: رجاءا، هل يمكنك إخبارنا عن مستقبلك؟",
+    "t_video_day_in_the_life::clip_card_3::goals[0]": "إظهار شخصيتك تستعد لبداية اليوم.",
+    "t_video_day_in_the_life::ms_moreinfo::text": "About this Template",
+    "t_video_day_in_the_life::clip_card_1::goals[0]": "إظهار ما وجدته بارزا في منزل شخصيتك.",
+    "t_video_day_in_the_life::clip_card_10::goals[0]": "اظهار شخصيتك في نهاية اليوم",
+    "t_video_day_in_the_life::clip_card_4::goals[0]": "بين لنا ما تمتهنه شخصيتك في الحياة.",
+    "t_video_day_in_the_life::title": "Day in the Life Video",
+    "t_video_day_in_the_life::clip_card_5::goals[0]": "نسأل: رجاءا ، هل يمكنك المضي قدما وتخبرنا عن ما تفعله؟",
+    "t_video_day_in_the_life::clip_card_6::goals[0]": "بين لنا الشيء الأكثر أهمية حول عمل شخصيتك.",
+    "t_video_day_in_the_life::clip_card_8::goals[0]": "اظهار أين تنهي شخصيتك اليوم.",
+    "t_video_day_in_the_life::ms_moreinfo::header": "التالي",
+    "t_video_day_in_the_life::clip_card_2::goals[0]": "تقديم الشخصية"
+}

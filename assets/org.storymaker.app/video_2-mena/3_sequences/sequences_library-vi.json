@@ -1,0 +1,23 @@
+{
+    "title": "C\u00e1c tr\u00ecnh t\u1ef1", 
+    "storyPathTemplateFiles": {
+        "sequences": "sequences.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "sequences", 
+            "dependencyFile": "sequences.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "sequences"
+        }
+    ], 
+    "currentStoryPathFile": "sequences.json", 
+    "id": "sequences"
+}

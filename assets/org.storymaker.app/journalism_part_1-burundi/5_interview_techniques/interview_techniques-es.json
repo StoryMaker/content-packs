@@ -1,0 +1,186 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "\u00bfCu\u00e1les son algunas t\u00e9cnicas b\u00e1sicas para obtener lo m\u00e1ximo de una entrevista?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; C\u00f3mo prepararse para una entrevista  \n&bull; C\u00f3mo obtener la mejor historia de sus fuentes  \n&bull; Algunas preguntas b\u00e1sicas para comenzar una entrevista", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Entrevistar bien es una destreza que se aprende. En la \u00faltima secci\u00f3n aprendi\u00f3 acerca de la identificaci\u00f3n de fuentes y los diferentes tipos de informaci\u00f3n que est\u00e1n cualificadas para aportar. En esta secci\u00f3n aprender\u00e1 c\u00f3mo aproximarse a su sujeto o fuente para obtener la informaci\u00f3n de su fuente de forma abierta.\nAlgunas entrevistas pueden estar preestablecidas. Algunas son r\u00e1pidas, no planeadas y hechas en el escenario de acontecimientos. Los buenos reporteros a menudo han establecido previamente contactos \u2014 expertos tales como fuentes directas de informaci\u00f3n o voces de autoridad en una materia \u2014 y pueden llamar para realizar una entrevista poco tiempo despu\u00e9s en caso de noticias urgentes o de un plazo de entrega muy justo.\nEl tipo de historia en la que est\u00e1 trabajando y las circunstancias de la entrevista determinar\u00e1n las t\u00e9cnicas que usar\u00e1 y su capacidad de aplicar los principios expuestos aqu\u00ed. Grabar entrevistas tiene requerimientos especiales; necesita estar seguro de que tiene suficiente material grabado utilizable. Esto ser\u00e1 tratado en los m\u00f3dulos de audio y v\u00eddeo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![tipos de fuentes](2.png)  \nLos tipos de fuentes que est\u00e1 entrevistando y el rol que jugar\u00e1n en su cobertura debe determinar los tipos de preguntas que realice. El intervalo de tiempo del que disponga tambi\u00e9n afectar\u00e1 a como conduce su entrevista.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "## Prepararse para una entrevista \n### Investigaci\u00f3n del trasfondo  \nHaga algo de investigaci\u00f3n antes de la entrevista cuando sea posible. As\u00ed realizar\u00e1 preguntas mejores y m\u00e1s relevantes. Ayuda conocer un poco acerca de la persona que est\u00e1 entrevistando.  \n### Prepare algunas preguntas de introducci\u00f3n  \nSiempre es una buena idea tener algunas cuestiones b\u00e1sicas preparadas. Ahorra tiempo y mantiene la entrevista centrada.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## Ejemplo de notas bien preparadas para una entrevista  \n### Introducci\u00f3n o preguntas de calentamiento  \n**Haga estas preguntas pronto para hacer que el sujeto se sienta c\u00f3modo; son preguntas f\u00e1ciles e impersonales.**  \n&bull; \u00bfCu\u00e1l es su nombre completo (y t\u00edtulo) tal como desea que se le cite en el art\u00edculo? (Aseg\u00farese de confirmar la graf\u00eda correcta de los nombres \u2014 incluso de aquellos que parezcan obvios).  \n&bull; \u00bfD\u00f3nde estudi\u00f3?  \n&bull; \u00bfCu\u00e1les son los materiales que usa y por qu\u00e9 los usa?  \n### Preguntas principales de la entrevista  \n**Aqu\u00ed es donde recopila la informaci\u00f3n m\u00e1s interesante y \u00fatil.**  \n&bull; \u00bfC\u00f3mo describe el prop\u00f3sito de su trabajo a los dem\u00e1s?  \n&bull; \u00bfCu\u00e1les son algunas de las influencias o inspiraciones de su trabajo art\u00edstico?  \n&bull; \u00bfC\u00f3mo influy\u00f3 la revoluci\u00f3n en las cuestiones y los sujetos que aborda su trabajo art\u00edstico?  \n&bull; \u00bfQu\u00e9 papel juegan los artistas en su comunidad?  \n### Preguntas de cierre  \n**Aqu\u00ed es donde formula las preguntas m\u00e1s dif\u00edciles o reveladoras, junto con la pregunta final de abajo.**  \n&bull; Sus cr\u00edticos dicen que usted es m\u00e1s que un artista callejero del graffiti o que un simple ilustrador. \u00bfC\u00f3mo responde a estas cr\u00edticas?  \n&bull; \u00bfHay algo m\u00e1s que le gustar\u00eda a\u00f1adir o que cree que es importante que conozca nuestra audiencia?", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "3.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo del inicio de una entrevista", 
+            "exampleMediaPath": "3.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "## Tenga preparada una explicaci\u00f3n de su historia en una frase para su fuentes  \nTiene que dejar claro a su fuente de qu\u00e9 trata su historia. Esto ayudar\u00e1 a que su fuente se centre en darle las respuestas relevantes.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "## Conducir una entrevista  \n### Identif\u00edquese a si mismo como periodista  \nEn muchas situaciones esto ser\u00e1 obvio, pero no en todas. Esto es especialmente importante en l\u00ednea. Es muy importante \u00e9tica y profesionalmente hacer esto, aunque hay algunas excepciones. (Para m\u00e1s sobre esto vea la secci\u00f3n 8 sobre est\u00e1ndares profesionales y \u00e9tica).  \nPermita que el sujeto sepa si usted u otro periodista estar\u00e1 usando una c\u00e1mara para grabar fotos o v\u00eddeo \u2014 el sujeto no debe ser cogido por sorpresa o sin preparar. En algunos lugares, se necesita permiso expl\u00edcito para grabar audio o v\u00eddeo. Conozca las leyes del lugar del que est\u00e1 informando. Si es necesario el permiso, pregunte a la fuente primero antes de grabar, y luego preg\u00fantele de nuevo al finalizar la grabaci\u00f3n para tener esto registrado.\n### Comenzar con preguntas b\u00e1sicas  \nDependiendo del tiempo de que disponga, es importante comenzar con preguntas b\u00e1sicas y seguras. Ayuda a que la persona se sienta c\u00f3moda antes de que comience a realizar preguntas emocionalmente m\u00e1s dif\u00edciles o desafiantes. Puede ayudar que le d\u00e9 a la persona algo de informaci\u00f3n sobre usted mismo.  \n### Controlar la entrevista  \nA veces la persona tiene expectativas para su entrevista que son diferentes de las suyas. Los pol\u00edticos con frecuencia tratan de desviar una entrevista hacia personajes importantes para ellos. Los ciudadanos particulares no familiarizados con el proceso de la entrevista a menudo hablan sobre cosas irrelevantes para el tema. Tiene que ser educado pero firme para controlar la entrevista. Los mon\u00f3logos nunca son tan informativos como entrevistas que consistan en preguntas y respuestas cortas y relevantes.  \n### No apremie la respuesta  \nAunque es importante controlar el ritmo de la entrevista, es importante permitir a la gente que complete una idea. La gente a veces trata de rellenar un silencio inc\u00f3modo diciendo m\u00e1s \u2014 \u00a1a veces m\u00e1s de lo que deber\u00edan!  \n### Probar y clarificar  \nA veces las fuentes no son buenas respondiendo preguntas con claridad. Otras veces est\u00e1n tratando intencionadamente evitar una pregunta. En cualquiera de los casos, puede plantear su pregunta de una forma distinta. A veces ayuda recalcar la respuesta a la fuente: \"as\u00ed que, est\u00e1 diciendo que...\" como forma de confirmaci\u00f3n de una respuesta. Con los pol\u00edticos puede ayudar formular una versi\u00f3n m\u00e1s general de la pregunta si rechazan responderla espec\u00edficamente.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "4.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo de c\u00f3mo controlar una entrevista, probar y clarificar", 
+            "exampleMediaPath": "4.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "### Haga preguntas de continuidad\nNo se ate demasiado a las preguntas que hab\u00eda preparado ni a tomar notas o grabar, de forma que se le olvide hacer preguntas para dar continuidad al relato. Algunas veces la informaci\u00f3n m\u00e1s valiosa viene de preguntas que no plane\u00f3 realizar.  \n### Guarde las preguntas sensibles para el final  \nComo reportero necesita ser duro. Tienes que hacer las preguntas dif\u00edciles y obtener respuestas. Una buena estrategia para esto es guardar las preguntas desafiantes para el final. De esta forma a\u00fan tendr\u00e1 material si el sujeto se enfada con sus preguntas m\u00e1s duras.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "5.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo de formulaci\u00f3n de una pregunta sensible y finalizaci\u00f3n de una entrevista", 
+            "exampleMediaPath": "5.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "### Finalizar la entrevista\nSiempre es una buena idea acabar la entrevista con dos preguntas: \n&bull; **\u201c\u00bfHay algo m\u00e1s que le gustar\u00eda a\u00f1adir?\u201d**  \nEsto da a su fuente la oportunidad de darle informaci\u00f3n importante para \u00e9l/ella o responder a cuestiones que no pens\u00f3 preguntar.   \n&bull; **\u201c\u00bfPuedo contactar con usted si tengo m\u00e1s preguntas?\u201d**  \nEsto le permitir\u00e1 retomar la entrevista en caso de que usted o un editor necesite clarificar algo, o si hay un desarrollo en la historia para la cual necesita una respuesta.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n\n&bull; Est\u00e9 preparado para su entrevista. Haga algo de investigaci\u00f3n. Tenga algunas preguntas listas.  \n&bull; Los retos m\u00e1s comunes para una buena entrevista son el tiempo y la reticencia o dificultad de las fuentes.  \n&bull; Priorice sus preguntas e identifique la m\u00e1s esencial y \u00fanica pieza de informaci\u00f3n que necesita de un sujeto.  \n&bull; Intente hacer que su sujeto se sienta c\u00f3modo.  \n&bull; Si la fuente es dif\u00edcil porque no est\u00e1 c\u00f3moda o porque hay algo que no quiere contarle, una entrevista puede a veces convertirse en una negociaci\u00f3n.  \n&bull; Como reportero tiene que ser duro pero justo.  \n&bull; A veces las fuentes se percatan de que una respuesta \"sin comentarios\" o una respuesta vaga a la pregunta les har\u00e1 quedar peor en la prensa que una respuesta directa. Puede escoger se\u00f1alar esto al entrevistado.  \n&bull; Su historia ser\u00e1 m\u00e1s interesante si sus entrevistas incluyen personas con puntos de vista opuestos.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfCu\u00e1les son algunas de las cosas que har\u00eda si estuviera entrevistando a alguien reticente a hablar?", 
+            "choices": [
+                {
+                    "text": "Mu\u00e9vase hacia sus preguntas m\u00e1s esenciales m\u00e1s r\u00e1pido.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Preguntar por qu\u00e9 el sujeto es reticente, y ver si se puede negociar una soluci\u00f3n.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Con una figura p\u00fablica, podr\u00eda se\u00f1alarle que un \"sin comentarios\" le dar\u00eda mala imagen.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todo lo anterior.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Verdadero o Falso: Si un sujeto es reticente a responder a una pregunta importante, en lugar de recalcar la pregunta de modo diferente, o intentar forzar el tema a base de probar, deber\u00eda descartarlo.", 
+            "choices": [
+                {
+                    "text": "Verdadero", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falso", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Cu\u00e1les de las siguientes cosas NUNCA deben hacerse en una entrevista:", 
+            "choices": [
+                {
+                    "text": "Deje que la conversaci\u00f3n enmudezca durante un inc\u00f3modo intervalo de tiempo.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Explique de qu\u00e9 trata su historia.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Al final de la entrevista, preguntar a la fuente si tiene algo que a\u00f1adir.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "NInguna de las anteriores.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "interview_techniques", 
+    "title": "T\u00e9cnicas para entrevistar"
+}
