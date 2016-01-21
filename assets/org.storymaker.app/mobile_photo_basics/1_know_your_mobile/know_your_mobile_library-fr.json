@@ -1,0 +1,31 @@
+{
+    "title": "Connaisez Votre Mobile", 
+    "storyPathTemplateFiles": {
+        "know_your_mobile": "know_your_mobile.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "know_your_mobile", 
+            "dependencyFile": "know_your_mobile.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "know_your_mobile"
+        }
+    ], 
+    "currentStoryPathFile": "know_your_mobile.json", 
+    "id": "know_your_mobile"
+}
