@@ -22,7 +22,7 @@
             "type": "HowToCard", 
             "id": "howto_card_1", 
             "references": [
-                "welcome::ms_begin::value::true"
+                "g_welcome::ms_begin::value::true"
             ]
         }, 
         {
@@ -35,7 +35,7 @@
             ], 
             "header": "Navigation Drawer", 
             "references": [
-                "welcome::ms_begin::value::true"
+                "g_welcome::ms_begin::value::true"
             ], 
             "exampleMediaPath": "sm_drawer.png", 
             "clipType": "character", 
@@ -47,7 +47,7 @@
             "type": "BasicTextCard", 
             "id": "text_card_1", 
             "references": [
-                "welcome::ms_begin::value::true"
+                "g_welcome::ms_begin::value::true"
             ]
         }, 
         {
@@ -55,13 +55,13 @@
             "type": "BasicTextCard", 
             "id": "text_card_2", 
             "references": [
-                "welcome::ms_begin::value::true"
+                "g_welcome::ms_begin::value::true"
             ]
         }, 
         {
             "header": "Next", 
             "references": [
-                "welcome::ms_begin::value::true"
+                "g_welcome::ms_begin::value::true"
             ], 
             "text": "Continue", 
             "type": "ButtonCard", 
@@ -73,7 +73,7 @@
             "type": "HowToCard", 
             "id": "howto_card_2", 
             "references": [
-                "welcome::ms_drawer::value::true"
+                "g_welcome::ms_drawer::value::true"
             ]
         }, 
         {
@@ -86,7 +86,7 @@
             ], 
             "header": "Sign in or Create an account", 
             "references": [
-                "welcome::ms_drawer::value::true"
+                "g_welcome::ms_drawer::value::true"
             ], 
             "exampleMediaPath": "sm_join.png", 
             "clipType": "character", 
@@ -98,7 +98,7 @@
             "type": "BasicTextCard", 
             "id": "text_card_3", 
             "references": [
-                "welcome::ms_drawer::value::true"
+                "g_welcome::ms_drawer::value::true"
             ]
         }, 
         {
@@ -106,13 +106,13 @@
             "type": "BasicTextCard", 
             "id": "text_card_4", 
             "references": [
-                "welcome::ms_drawer::value::true"
+                "g_welcome::ms_drawer::value::true"
             ]
         }, 
         {
             "header": "Next", 
             "references": [
-                "welcome::ms_drawer::value::true"
+                "g_welcome::ms_drawer::value::true"
             ], 
             "text": "Continue", 
             "type": "ButtonCard", 
@@ -124,7 +124,7 @@
             "type": "HowToCard", 
             "id": "howto_card_3", 
             "references": [
-                "welcome::ms_community::value::true"
+                "g_welcome::ms_community::value::true"
             ]
         }, 
         {
@@ -137,7 +137,7 @@
             ], 
             "header": "Home Screen", 
             "references": [
-                "welcome::ms_community::value::true"
+                "g_welcome::ms_community::value::true"
             ], 
             "exampleMediaPath": "sm_home.png", 
             "clipType": "character", 
@@ -149,13 +149,13 @@
             "type": "BasicTextCard", 
             "id": "text_card_5", 
             "references": [
-                "welcome::ms_community::value::true"
+                "g_welcome::ms_community::value::true"
             ]
         }, 
         {
             "header": "Next", 
             "references": [
-                "welcome::ms_community::value::true"
+                "g_welcome::ms_community::value::true"
             ], 
             "text": "Continue", 
             "type": "ButtonCard", 
@@ -167,7 +167,7 @@
             "type": "HowToCard", 
             "id": "howto_card_4", 
             "references": [
-                "welcome::ms_home::value::true"
+                "g_welcome::ms_home::value::true"
             ]
         }, 
         {
@@ -180,7 +180,7 @@
             ], 
             "header": "The StoryMaker Catalog", 
             "references": [
-                "welcome::ms_home::value::true"
+                "g_welcome::ms_home::value::true"
             ], 
             "exampleMediaPath": "sm_catalog.png", 
             "clipType": "character", 
@@ -192,7 +192,7 @@
             "type": "BasicTextCard", 
             "id": "text_card_6", 
             "references": [
-                "welcome::ms_home::value::true"
+                "g_welcome::ms_home::value::true"
             ]
         }, 
         {
@@ -200,13 +200,13 @@
             "type": "BasicTextCard", 
             "id": "text_card_7", 
             "references": [
-                "welcome::ms_home::value::true"
+                "g_welcome::ms_home::value::true"
             ]
         }, 
         {
             "header": "Next", 
             "references": [
-                "welcome::ms_home::value::true"
+                "g_welcome::ms_home::value::true"
             ], 
             "text": "Continue", 
             "type": "ButtonCard", 
@@ -218,7 +218,7 @@
             "type": "HowToCard", 
             "id": "howto_card_5", 
             "references": [
-                "welcome::ms_catalog::value::true"
+                "g_welcome::ms_catalog::value::true"
             ]
         }, 
         {
@@ -231,7 +231,7 @@
             ], 
             "header": "Exported Photo Essay", 
             "references": [
-                "welcome::ms_catalog::value::true"
+                "g_welcome::ms_catalog::value::true"
             ], 
             "exampleMediaPath": "sm_exports.png", 
             "clipType": "character", 
@@ -243,13 +243,13 @@
             "type": "BasicTextCard", 
             "id": "text_card_8", 
             "references": [
-                "welcome::ms_catalog::value::true"
+                "g_welcome::ms_catalog::value::true"
             ]
         }, 
         {
             "header": "Next", 
             "references": [
-                "welcome::ms_catalog::value::true"
+                "g_welcome::ms_catalog::value::true"
             ], 
             "text": "Continue", 
             "type": "ButtonCard", 
@@ -261,7 +261,7 @@
             "type": "HowToCard", 
             "id": "howto_card_6", 
             "references": [
-                "welcome::ms_exports::value::true"
+                "g_welcome::ms_exports::value::true"
             ]
         }, 
         {
@@ -274,7 +274,7 @@
             ], 
             "header": "Connected Accounts", 
             "references": [
-                "welcome::ms_exports::value::true"
+                "g_welcome::ms_exports::value::true"
             ], 
             "exampleMediaPath": "sm_accounts_yt.png", 
             "clipType": "character", 
@@ -286,7 +286,7 @@
             "type": "BasicTextCard", 
             "id": "text_card_9", 
             "references": [
-                "welcome::ms_exports::value::true"
+                "g_welcome::ms_exports::value::true"
             ]
         }, 
         {
@@ -294,13 +294,13 @@
             "type": "BasicTextCard", 
             "id": "text_card_10", 
             "references": [
-                "welcome::ms_exports::value::true"
+                "g_welcome::ms_exports::value::true"
             ]
         }, 
         {
             "header": "Next", 
             "references": [
-                "welcome::ms_exports::value::true"
+                "g_welcome::ms_exports::value::true"
             ], 
             "text": "Continue", 
             "type": "ButtonCard", 
@@ -312,7 +312,7 @@
             "type": "HowToCard", 
             "id": "howto_card_7", 
             "references": [
-                "welcome::ms_accounts::value::true"
+                "g_welcome::ms_accounts::value::true"
             ]
         }, 
         {
@@ -325,7 +325,7 @@
             ], 
             "header": "Settings Menu", 
             "references": [
-                "welcome::ms_accounts::value::true"
+                "g_welcome::ms_accounts::value::true"
             ], 
             "exampleMediaPath": "sm_settings.png", 
             "clipType": "character", 
@@ -337,7 +337,7 @@
             "type": "BasicTextCard", 
             "id": "text_card_11", 
             "references": [
-                "welcome::ms_accounts::value::true"
+                "g_welcome::ms_accounts::value::true"
             ]
         }, 
         {
@@ -345,13 +345,13 @@
             "type": "BasicTextCard", 
             "id": "text_card_12", 
             "references": [
-                "welcome::ms_accounts::value::true"
+                "g_welcome::ms_accounts::value::true"
             ]
         }, 
         {
             "header": "Next", 
             "references": [
-                "welcome::ms_accounts::value::true"
+                "g_welcome::ms_accounts::value::true"
             ], 
             "text": "Continue", 
             "type": "ButtonCard", 
@@ -363,7 +363,7 @@
             "type": "HowToCard", 
             "id": "howto_card_8", 
             "references": [
-                "welcome::ms_settings::value::true"
+                "g_welcome::ms_settings::value::true"
             ]
         }, 
         {
@@ -376,7 +376,7 @@
             ], 
             "header": "Feedback Form", 
             "references": [
-                "welcome::ms_settings::value::true"
+                "g_welcome::ms_settings::value::true"
             ], 
             "exampleMediaPath": "sm_feedback_empty.png", 
             "clipType": "character", 
@@ -388,13 +388,13 @@
             "type": "BasicTextCard", 
             "id": "text_card_13", 
             "references": [
-                "welcome::ms_settings::value::true"
+                "g_welcome::ms_settings::value::true"
             ]
         }, 
         {
             "header": "Next", 
             "references": [
-                "welcome::ms_settings::value::true"
+                "g_welcome::ms_settings::value::true"
             ], 
             "text": "Continue", 
             "type": "ButtonCard", 
@@ -406,7 +406,7 @@
             "type": "BasicTextCard", 
             "id": "text_card_14", 
             "references": [
-                "welcome::ms_feedback::value::true"
+                "g_welcome::ms_feedback::value::true"
             ]
         }
     ], 
