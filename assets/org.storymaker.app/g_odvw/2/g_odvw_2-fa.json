@@ -1,0 +1,110 @@
+{
+    "cards": [
+        {
+            "level": "Production", 
+            "headline": "Shoot a Process Story", 
+            "time": "? Minutes", 
+            "exampleMediaPath": "cover.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Using no more than three of the clips provided, shoot a process story.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "text": "This story can be brief, your goal is to use three different shots to illustrate an activity with a beginning, middle and end.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "Some examples of process stories you can tell with 3 shots are: making coffee, writing a letter, packing a suitcase, making a sandwich.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Place clips are good for establishing where your process story happens."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "Trim any clip by tapping the clip image.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Character clips show us who is affected by or causing the process."
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Action clips show the primary action in your process. Show the whole action."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Result clips show the result of your process. Show the result in context."
+            ], 
+            "clipType": "result", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Signature clips show a very specific detail, can be the result or primary action. Get close!"
+            ], 
+            "clipType": "signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "text": "If you recorded clips in more than three cards, be sure to delete all but 3 clips before you publish.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
+            "text": "By pressing \"Order\" on the next card, you will be able to review your clips, when you are happy with them, press publish.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Don't worry about narration immediately, we'll discuss that later.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6"
+        }, 
+        {
+            "text": "When you finish uploading, return to class.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "g_odvw_2", 
+    "title": "Shoot a Process Story."
+}

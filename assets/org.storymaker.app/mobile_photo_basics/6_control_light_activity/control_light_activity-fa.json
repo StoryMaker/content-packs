@@ -1,5 +1,5 @@
 {
-    "title": "Control Light Activity", 
+    "title": "\u062a\u0645\u0631\u06cc\u0646 \u06a9\u0646\u062a\u0631\u0644 \u0646\u0648\u0631", 
     "storyPathLibraryFile": "control_light_activity_library.json", 
     "dependencies": [
         {
@@ -14,21 +14,21 @@
     "classPackage": "scal.io.liger.model", 
     "cards": [
         {
-            "level": "Introduction |", 
-            "headline": "Control Light | Activity", 
+            "level": "\u0645\u0642\u062f\u0645\u0647 \u06f1", 
+            "headline": "\u062a\u0645\u0631\u06cc\u0646 \u06a9\u0646\u062a\u0631\u0644 \u0646\u0648\u0631 \u06f1", 
             "time": "10 Minutes", 
             "exampleMediaPath": "1.png", 
             "type": "IntroCard", 
             "id": "intro_card_0"
         }, 
         {
-            "text": "Return to Lesson", 
+            "text": "\u0628\u0627\u0632\u06af\u0634\u062a \u0628\u0647 \u062f\u0631\u0633", 
             "link": "control_light::intro_card_0", 
             "id": "link_card_0", 
             "type": "LinkCard"
         }, 
         {
-            "text": "Now that you've finished the lesson on controlling light, this lesson will help you practice.", 
+            "text": "\u062d\u0627\u0644\u0627 \u06a9\u0647 \u06a9\u0646\u062a\u0631\u0644 \u0646\u0648\u0631 \u0631\u0627 \u06cc\u0627\u062f \u06af\u0631\u0641\u062a\u0647\u200c\u0627\u06cc\u062f\u060c \u0627\u06cc\u0646 \u062f\u0631\u0633 \u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u062f \u0628\u0647 \u062a\u0645\u0631\u06cc\u0646 \u0628\u06cc\u0634\u062a\u0631 \u0634\u0645\u0627 \u06a9\u0645\u06a9 \u06a9\u0646\u062f.", 
             "type": "BasicTextCard", 
             "id": "text_card_0"
         }, 
@@ -36,7 +36,7 @@
             "medium": "photo", 
             "length": "0:05", 
             "goals": [
-                "Practice controlling light by changing your angle or your exposure."
+                "\u06a9\u0646\u062a\u0631\u0644 \u0646\u0648\u0631 \u0631\u0627 \u0628\u0627 \u062a\u063a\u06cc\u06cc\u0631 \u0632\u0627\u0648\u06cc\u0647 \u062e\u0648\u062f \u06cc\u0627 \u062c\u0627\u06cc \u062e\u0648\u062f \u062a\u0645\u0631\u06cc\u0646 \u06a9\u0646\u06cc\u062f."
             ], 
             "clipType": "character", 
             "type": "ClipCard", 
@@ -55,12 +55,12 @@
             "id": "review_card_0"
         }, 
         {
-            "text": "Congratulations on completing Mobile Photo Basics! Don't forget to share your photos with the StoryMaker community by tagging them #StoryMaker", 
+            "text": "\u0634\u0645\u0627 \u062f\u0631\u0633\u200c\u0647\u0627\u06cc \u0627\u0628\u062a\u062f\u0627\u06cc\u06cc \u0639\u06a9\u0627\u0633\u06cc \u0631\u0627 \u06cc\u0627\u062f \u06af\u0631\u0641\u062a\u06cc\u062f\u060c \u062a\u0628\u0631\u06cc\u06a9 \u0645\u06cc\u200c\u06af\u0648\u06cc\u06cc\u0645! \u06cc\u0627\u062f\u062a\u0627\u0646 \u0646\u0631\u0648\u062f \u06a9\u0647 \u0639\u06a9\u0633\u200c\u0647\u0627\u06cc\u062a\u0627\u0646 \u0631\u0627 \u062f\u0631 \u0627\u0633\u062a\u0648\u0631\u06cc \u0645\u06cc\u06a9\u0631 \u0628\u0647 \u0627\u0634\u062a\u0631\u0627\u06a9 \u0628\u06af\u0630\u0627\u0631\u06cc\u062f \u0648 \u0628\u0647 \u0622\u0646\u0647\u0627 \u062a\u06af \u0627\u0633\u062a\u0648\u0631\u06cc \u0645\u06cc\u06a9\u0631 \u0628\u0632\u0646\u06cc\u062f.", 
             "type": "BasicTextCard", 
             "id": "text_card_1"
         }, 
         {
-            "text": "You can return home by hitting the back button next to the StoryMaker icon at the top of your screen.", 
+            "text": "\u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u06cc\u062f \u0628\u0627 \u0641\u0634\u0627\u0631 \u062f\u0627\u062f\u0646 \u062f\u06a9\u0645\u0647 \u0628\u0627\u0632\u06af\u0634\u062a \u06a9\u0647 \u0646\u0632\u062f\u06cc\u06a9 \u0622\u06cc\u06a9\u0648\u0646 \u0627\u0633\u062a\u0648\u0631\u06cc \u0645\u06cc\u06a9\u0631 \u0642\u0631\u0627\u0631 \u062f\u0627\u0631\u062f\u060c \u0628\u0647 \u062e\u0627\u0646\u0647 \u0628\u0631\u06af\u0631\u062f\u06cc\u062f.", 
             "type": "BasicTextCard", 
             "id": "text_card_2"
         }

@@ -1,0 +1,23 @@
+{
+    "title": "Shoot a Process Story.", 
+    "storyPathTemplateFiles": {
+        "g_odvw_2": "g_odvw_2.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "g_odvw_2", 
+            "dependencyFile": "g_odvw_2.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "g_odvw_2"
+        }
+    ], 
+    "currentStoryPathFile": "g_odvw_2.json", 
+    "id": "g_odvw_2_library"
+}
