@@ -9,14 +9,14 @@
     "event_interview_audio::clip_card_11::goals[0]": "صدای مردمی را که در حال واکنش نشان دادن به رویداد هستند، ضبط کنید.",
     "event_interview_audio::clip_card_4::goals[0]": "صداهای پیش از وقوع رویداد و آماده سازی محیط را ضبط کنید.",
     "event_interview_audio::clip_card_1::goals[0]": "رویداد خبری را معرفی کنید.",
-    "event_interview_audio::clip_card_8::goals[0]": "صداهایی را که در خصوص مکان وقوع رویداد مهم هستند، ضبط کنید.",
+    "event_interview_audio::clip_card_8::goals[0]": "صداهایی را که در خصوص مکان وقوع رویداد مهم هستند، ضبط کنید. ",
     "event_interview_audio::clip_card_14::goals[0]": "صداهایی را که نشان می‌دهند رویداد تمام شده، ضبط کنید.",
     "event_interview_audio::evaluation_card_0::text": "........................",
     "event_interview_audio::clip_card_15::goals[0]": "صدای اتفاقات دیگری را که در حال روی‌دادن هستند، ضبط کنید.",
     "event_interview_audio::clip_card_0::goals[0]": "صداهایی را که معرف رویداد هستند ضبط کنید.",
     "event_interview_audio::title": "مصاحبه در یک رویداد",
     "event_interview_audio::clip_card_3::goals[0]": "سوال کنید: هدف رویداد خبری چیست؟",
-    "event_interview_audio::clip_card_16::goals[0]": "در آینده چه اتفاقی در زمینه این رویداد خواهد افتاد؟",
+    "event_interview_audio::clip_card_16::goals[0]": " در آینده چه اتفاقی در زمینه این رویداد خواهد افتاد؟",
     "event_interview_audio::clip_card_7::goals[0]": "صدای یک اتفاق قابل توجه مربوط به رویداد را ضبط کنید.",
     "event_interview_audio::clip_card_12::goals[0]": "صداهای مربوط به نتیجه واکنش های مردم در آن رویداد را ضبط کنید."
 }

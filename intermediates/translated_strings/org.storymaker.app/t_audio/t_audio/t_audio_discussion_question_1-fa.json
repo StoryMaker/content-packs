@@ -1,0 +1,15 @@
+{
+    "t_audio_discussion_question_1::clip_card_2::goals[0]": "بپرسید: نظر شما درباره این فرد چیست؟",
+    "t_audio_discussion_question_1::ms_moreinfo::text": "درباره این قالب",
+    "t_audio_discussion_question_1::clip_card_7::goals[0]": "صدای مکانی را که در آن درباره فرد موردنظرتان سوال کردید، ضبط کنید.",
+    "t_audio_discussion_question_1::title": "نظر شما در مورد این فرد چیست؟",
+    "t_audio_discussion_question_1::clip_card_3::goals[0]": "بپرسید: نظر شما درباره این فرد چیست؟",
+    "t_audio_discussion_question_1::clip_card_4::goals[0]": "بپرسید: نظر شما درباره این فرد چیست؟ ",
+    "t_audio_discussion_question_1::text_card_0::text": "بحث، با پرسیدن یک سوال واحد از تعداد زیادی از افراد شکل می‌گیرد. در این قالب از افراد مختلف درباره یک شخص واحد سوال پرسیده می‌شود. این نوع بحث برای جمع کردن عقاید آدم‌ها درباره یک شخصیت مهم فرهنگی یا اجتماعی قالب مناسبی است. هر سوالی که فکر می‌کنید مناسب‌تر است، بپرسید.",
+    "t_audio_discussion_question_1::clip_card_0::goals[0]": "صدای مکانی را که برای شخصیت مورد نظرتان مهم است، ضبط کنید.",
+    "t_audio_discussion_question_1::text_card_1::text": "ممکن است بخواهید به جای نام فرد مورد نظر بر مکانی که او را ملاقات می‌کنید، تاکید کنید.",
+    "t_audio_discussion_question_1::clip_card_5::goals[0]": "بپرسید: نظر شما درباره این فرد چیست؟ ",
+    "t_audio_discussion_question_1::clip_card_1::goals[0]": "صداهایی ضبط کنید که نشانگر بحث مورد نظر شما باشند.",
+    "t_audio_discussion_question_1::ms_moreinfo::header": "بعدی",
+    "t_audio_discussion_question_1::clip_card_6::goals[0]": "بپرسید: نظر شما درباره این فرد چیست؟ "
+}

@@ -5,7 +5,7 @@
     "event_report_video::clip_card_8::goals[0]": "از کارشناسی درخواست کنید تا در مورد رویداد  صحبت کند.",
     "event_report_video::clip_card_15::goals[0]": "در صورتی که پایان رویداد در مکانی متفاوت اتفاق می‌افتد، آن را نشان دهید.",
     "event_report_video::clip_card_2::goals[0]": "یک نکته برجسته در مورد رویداد نشان دهید .",
-    "event_report_video::title": "گزارش رویداد",
+    "event_report_video::title": "گزارش رویداد ",
     "event_report_video::clip_card_10::goals[0]": "مردمی را که در حال تعامل در محل وقوع رویداد هستند نشان دهید.",
     "event_report_video::clip_card_14::goals[0]": "چیزی را که شخصیت در محل رویداد درباره‌اش صحبت می‌کند نشان بدهید.",
     "event_report_video::clip_card_5::goals[0]": "یک نکته مهم در مورد رویداد نشان دهید .",
@@ -17,5 +17,5 @@
     "event_report_video::clip_card_12::goals[0]": "نتیجه تعامل مردم در رویداد را نشان دهید.",
     "event_report_video::clip_card_7::goals[0]": "مکانی را که در آن رویداد خبری رخ داده، نشان دهید.",
     "event_report_video::clip_card_0::goals[0]": "مکان وقوع رویداد خبری را نشان دهید.",
-    "event_report_video::clip_card_9::goals[0]": "نشان دهید.که دارد اتفاقی می‌افتد."
+    "event_report_video::clip_card_9::goals[0]": " نشان دهید.که دارد اتفاقی می‌افتد."
 }
