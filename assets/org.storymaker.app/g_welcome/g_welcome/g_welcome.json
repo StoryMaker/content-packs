@@ -6,7 +6,7 @@
             "id": "howto_card_0"
         }, 
         {
-            "text": "StoryMaker 2 is a powerful tool for learning and creating. We're going to introduce you to the the different sections of the app.", 
+            "text": "StoryMaker 2 is a powerful tool for learning and creating. We're going to introduce you to the different sections of the app.", 
             "type": "BasicTextCard", 
             "id": "text_card_0"
         }, 
@@ -402,7 +402,7 @@
             "icon": "down"
         }, 
         {
-            "text": "Congrautlations, you now know about all the important sections of StoryMaker 2, we hope you enjoy using it!", 
+            "text": "Congratulations, you now know about all the important sections of StoryMaker 2, we hope you enjoy using it!", 
             "type": "BasicTextCard", 
             "id": "text_card_14", 
             "references": [

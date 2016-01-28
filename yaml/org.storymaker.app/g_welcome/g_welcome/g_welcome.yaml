@@ -324,6 +324,6 @@
 
         -
             type: TextCard
-            text: 'Congrautlations, you now know about all the important sections of StoryMaker 2, we hope you enjoy using it!'
+            text: 'Congratulations, you now know about all the important sections of StoryMaker 2, we hope you enjoy using it!'
             references:
                 - g_welcome::ms_feedback::value::true
