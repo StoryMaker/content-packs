@@ -9,7 +9,7 @@
 
         -
             type: TextCard
-            text: 'StoryMaker 2 is a powerful tool for learning and creating. We''re going to introduce you to the the different sections of the app.'
+            text: 'StoryMaker 2 is a powerful tool for learning and creating. We''re going to introduce you to the different sections of the app.'
 
         -
             type: MilestoneCard
