@@ -1,0 +1,12 @@
+{
+    "compose_with_a_grid_activity::link_card_0::text": "Вернуться к уроку",
+    "compose_with_a_grid_activity::howto_card_0::text": "Внизу расположена карта клипов. Выберите \"Снять\", чтобы запустить камеру и сделать фото.",
+    "compose_with_a_grid_activity::preview_card_0::header": "Если возможно, включите функцию сетки на вашем приложении для съемки.",
+    "compose_with_a_grid_activity::text_card_0::text": "Теперь, когда мы научились пользоваться сеткой, пришло время для практики.",
+    "compose_with_a_grid_activity::link_card_1::text": "Следующий урок",
+    "compose_with_a_grid_activity::intro_card_0::level": "Начинающий |",
+    "compose_with_a_grid_activity::intro_card_0::headline": "Наложение сетки | Задание",
+    "compose_with_a_grid_activity::link_card_2::text": "Предыдущий урок",
+    "compose_with_a_grid_activity::title": "Задание на наложение сетки",
+    "compose_with_a_grid_activity::clip_card_0::goals[0]": "Заполняйте весь кадр, используйте линии и пересечения в своей композиции. "
+}

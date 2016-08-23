@@ -1,5 +1,5 @@
 {
-    "event_interview_video::clip_card_12::goals[0]": "Покажите что-то, что происходит на мероприятии.",
+    "event_interview_video::clip_card_12::goals[0]": "Покажите что-то, что происходит во время события.",
     "event_interview_video::clip_card_5::goals[0]": "Покажите место, являющееся важным для данного события.",
     "event_interview_video::clip_card_8::goals[0]": "Спросите: Чем вы занимаетесь во время этого события?",
     "event_interview_video::evaluation_card_0::text": "--------",
@@ -7,8 +7,8 @@
     "event_interview_video::clip_card_11::goals[0]": "Покажите результат взаимодействия между людьми.",
     "event_interview_video::clip_card_2::goals[0]": "Покажите что-то важное в начале события.",
     "event_interview_video::clip_card_0::goals[0]": "Покажите где происходит событие.",
-    "event_interview_video::clip_card_9::goals[0]": "Покажите самое важное занятие вашего героя во время события.",
-    "event_interview_video::title": "Event Interview",
+    "event_interview_video::clip_card_9::goals[0]": "Покажите самое важное, что делает ваш герой во время события.",
+    "event_interview_video::title": "Интервью События",
     "event_interview_video::clip_card_7::goals[0]": "Покажите взаимодействующих людей во время события.",
     "event_interview_video::clip_card_3::goals[0]": "Покажите подготовку к событию.",
     "event_interview_video::clip_card_1::goals[0]": "Представьте событие.",

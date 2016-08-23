@@ -3,7 +3,7 @@
     "event_report_video::clip_card_13::goals[0]": "Попросите участника события рассказать о том, что он делал во время события.",
     "event_report_video::clip_card_6::goals[0]": "Спросите участника события: Чем интересно это событие?",
     "event_report_video::clip_card_8::goals[0]": "Попросите эксперта рассказать о событии.",
-    "event_report_video::clip_card_15::goals[0]": "Если это другие место, покажите, где заканчивается событие.",
+    "event_report_video::clip_card_15::goals[0]": "Если это разне место, покажите, где заканчивается событие.",
     "event_report_video::clip_card_2::goals[0]": "Покажите что-то запоминающееся об этом событии.",
     "event_report_video::title": "Репортаж о событии",
     "event_report_video::clip_card_10::goals[0]": "Покажите взаимодействующих людей во время события.",
@@ -17,5 +17,5 @@
     "event_report_video::clip_card_12::goals[0]": "Покажите результат взаимодействия между людьми.",
     "event_report_video::clip_card_7::goals[0]": "Покажите место, являющееся важным для данного события.",
     "event_report_video::clip_card_0::goals[0]": "Покажите где происходит событие.",
-    "event_report_video::clip_card_9::goals[0]": "Покажите что-то, что происходит на мероприятии."
+    "event_report_video::clip_card_9::goals[0]": "Покажите что-то, что происходит во время события."
 }

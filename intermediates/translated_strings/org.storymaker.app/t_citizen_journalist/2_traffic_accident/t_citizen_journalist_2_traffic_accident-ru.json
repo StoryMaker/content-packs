@@ -1,0 +1,15 @@
+{
+    "t_citizen_journalist_2_traffic_accident::clip_card_5::goals[0]": "Спросите - Ответили ли службы экстренного реагирования?",
+    "t_citizen_journalist_2_traffic_accident::clip_card_2::goals[0]": "Покажите подробности происшествия: выбитое стекло, выломанная дверь и т.д. ",
+    "t_citizen_journalist_2_traffic_accident::intro_card_0::headline": "Видите ДПТ? Сообщите об этом!",
+    "t_citizen_journalist_2_traffic_accident::clip_card_1::goals[0]": "Покажите, что происходит вокруг происшествия.",
+    "t_citizen_journalist_2_traffic_accident::text_card_0::text": "Возьмите интервью у тех, кто находится поблизости. Убедитесь в том, что вы и люди вокруг вас находятся в безопасности, прежде, чем вы перейдете к данному разделу.",
+    "t_citizen_journalist_2_traffic_accident::clip_card_3::goals[0]": "Покажите чью-то реакцию на происшествие.",
+    "t_citizen_journalist_2_traffic_accident::text_card_1::text": "Сделайте копии тех карт, что вы видите выше, и возьмите интервью у стольких людей, у скольких потребуется. Попробуйте найти свидетеля или поговорить с кем-то из экстренных служб.",
+    "t_citizen_journalist_2_traffic_accident::text_card_2::text": "Сделайте больше кадров, чем нужно. Когда вы закончите, поместите ваши клипы под кнопкой расположения по порядку и нажмите \"Опубликовать\" для начала загрузки.",
+    "t_citizen_journalist_2_traffic_accident::title": "Видите аварию на дороге?",
+    "t_citizen_journalist_2_traffic_accident::clip_card_4::goals[0]": "Вопрос: Как вы видите аварию? Как это случилось?",
+    "t_citizen_journalist_2_traffic_accident::intro_card_0::level": "Начинающий |",
+    "t_citizen_journalist_2_traffic_accident::clip_card_0::goals[0]": "Покажите место, где произошло происшествие.",
+    "t_citizen_journalist_2_traffic_accident::clip_card_2::goals[1]": "Покажите подробности происшествия: выбитое стекло, выломанная дверь, некоторые последствия происшествия."
+}

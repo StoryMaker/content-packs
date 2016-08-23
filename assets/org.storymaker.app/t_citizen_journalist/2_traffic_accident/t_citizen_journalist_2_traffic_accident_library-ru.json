@@ -1,0 +1,23 @@
+{
+    "title": "\u0412\u0438\u0434\u0438\u0442\u0435 \u0441\u043b\u0443\u0447\u0430\u0439 \u043d\u0430 \u0434\u043e\u0440\u043e\u0433\u0435?", 
+    "storyPathTemplateFiles": {
+        "t_citizen_journalist_2_traffic_accident": "t_citizen_journalist_2_traffic_accident.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "t_citizen_journalist_2_traffic_accident", 
+            "dependencyFile": "t_citizen_journalist_2_traffic_accident.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "t_citizen_journalist_2_traffic_accident"
+        }
+    ], 
+    "currentStoryPathFile": "t_citizen_journalist_2_traffic_accident.json", 
+    "id": "t_citizen_journalist_2_traffic_accident_library"
+}

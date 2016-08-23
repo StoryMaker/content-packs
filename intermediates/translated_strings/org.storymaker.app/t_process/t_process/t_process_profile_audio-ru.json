@@ -1,0 +1,14 @@
+{
+    "t_process_profile_audio::clip_card_0::goals[0]": "Запишите вашего героя, готовящегося начать движение.",
+    "t_process_profile_audio::clip_card_3::goals[0]": "Запишите вашего героя на следующем важном этапе процесса.",
+    "t_process_profile_audio::clip_card_7::goals[0]": "Завершите сюжет, расскажите нам, как все закончилось.",
+    "t_process_profile_audio::text_card_1::text": "Запиши другие звуки, например, ваш герой что-то объясняет, звуки, которые показывают изменения или особые шаги в процессе.",
+    "t_process_profile_audio::clip_card_7::goals[1]": "Запишите, как ваш герой заканчивает действие.",
+    "t_process_profile_audio::clip_card_2::goals[0]": "Запиши звуки места, где происходит процесс.",
+    "t_process_profile_audio::clip_card_5::goals[0]": "Если там есть аудитория, запиши их реакцию.",
+    "t_process_profile_audio::text_card_0::text": "Сфокусируйтесь на звуках, которые необходимы для иллюстрации процесса. Вам не нужно всё, а только несколько шагов для того, чтобы показать ход событий от начала до конца.",
+    "t_process_profile_audio::title": "Герой в движении",
+    "t_process_profile_audio::clip_card_4::goals[0]": "Запиши звуки, которые рассказывают аудитории, что происходит.",
+    "t_process_profile_audio::clip_card_1::goals[0]": "Запишите самое начало или первый шаг процесса.",
+    "t_process_profile_audio::clip_card_6::goals[0]": "Запиши, как твой герой завершает действие."
+}

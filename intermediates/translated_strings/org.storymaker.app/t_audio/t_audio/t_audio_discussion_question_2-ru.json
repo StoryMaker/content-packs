@@ -1,0 +1,17 @@
+{
+    "t_audio_discussion_question_2::clip_card_7::goals[0]": "Запишите звуки происходящего на том месте, где вы задавали свои вопросы.",
+    "t_audio_discussion_question_2::clip_card_2::goals[0]": "Что, на ваш взгляд, нужно предпринять для того, чтобы решить проблему?",
+    "t_audio_discussion_question_2::evaluation_card_0::text": "Предлагает ли ваш сюжет пути решения проблемы?",
+    "t_audio_discussion_question_2::clip_card_6::goals[0]": "Что, на ваш взгляд, нужно предпринять для того, чтобы решить проблему?",
+    "t_audio_discussion_question_2::title": "Что должно быть сделано?",
+    "t_audio_discussion_question_2::clip_card_1::goals[0]": "Запишите окружающие звуки места, где происходит событие.",
+    "t_audio_discussion_question_2::clip_card_5::goals[0]": "Что, на ваш взгляд, нужно предпринять для того, чтобы решить проблему?",
+    "t_audio_discussion_question_2::clip_card_0::goals[1]": "Запишите чёткий звук, который отображает проблему.",
+    "t_audio_discussion_question_2::clip_card_0::goals[0]": "Запишите что-то, что представит проблему.",
+    "t_audio_discussion_question_2::text_card_1::text": "Вы можете подставить в поле \"проблема\" название своей проблемы.",
+    "t_audio_discussion_question_2::clip_card_4::goals[0]": "Что, на ваш взгляд, нужно предпринять для того, чтобы решить проблему?",
+    "t_audio_discussion_question_2::ms_moreinfo::text": "Об этом шаблоне",
+    "t_audio_discussion_question_2::text_card_0::text": "Обсуждения строятся вокруг того, чтобы задавать один и тот же вопрос большому количеству людей.  Этот шаблон собирает сведения о том, что должно быть сделано, чтобы решить проблему. Обсуждения хорошо помогают при исследовании проблем культурного или социального значения. Вы можете задавать другие вопросы, если думаете, что они могут сработать лучше.",
+    "t_audio_discussion_question_2::clip_card_3::goals[0]": "Что, на ваш взгляд, нужно предпринять для того, чтобы решить проблему?",
+    "t_audio_discussion_question_2::ms_moreinfo::header": "Следующий "
+}

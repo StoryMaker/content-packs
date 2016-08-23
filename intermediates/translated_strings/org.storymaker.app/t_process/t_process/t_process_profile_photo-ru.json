@@ -1,0 +1,13 @@
+{
+    "t_process_profile_photo::text_card_0::text": "Сделайте разнообразные кадры и композиции, иллюстрирующие процесс: панорамные снимки, крупный план, кадры, снятые средним планом. Ваш герой не должен быть на каждой фотографии.",
+    "t_process_profile_photo::clip_card_2::goals[0]": "Покажите, где происходит действие.",
+    "t_process_profile_photo::clip_card_1::goals[0]": "Покажите самое начало или первый шаг процесса.",
+    "t_process_profile_photo::clip_card_8::goals[0]": "Запечатлите ваших героев, когда они завершают процесс.",
+    "t_process_profile_photo::clip_card_5::goals[0]": "Сфотографируйте следующий важный шаг в процессе.",
+    "t_process_profile_photo::clip_card_0::goals[0]": "Покажите героя сюжета в процессе подготовки.",
+    "t_process_profile_photo::clip_card_7::goals[0]": "Если там были зрители, покажи их реакцию.",
+    "t_process_profile_photo::title": "Герой в движении",
+    "t_process_profile_photo::clip_card_4::goals[0]": "Сфотографируйте следующий важный шаг в процессе.",
+    "t_process_profile_photo::clip_card_6::goals[0]": "Сделайте фотографию, которая отображает весь процесс.",
+    "t_process_profile_photo::clip_card_3::goals[0]": "Сфотографируйте следующий важный шаг в процессе."
+}
