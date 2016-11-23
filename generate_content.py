@@ -663,8 +663,10 @@ def generate_content_indexes(pack_name):
     generate_content_index(package, pack_name, 'es')
     generate_content_index(package, pack_name, 'fa')
     generate_content_index(package, pack_name, 'fr')
-    generate_content_index(package, pack_name, 'rw')
+    generate_content_index(package, pack_name, 'ru')
     generate_content_index(package, pack_name, 'vi')
+    generate_content_index(package, pack_name, 'om')
+    generate_content_index(package, pack_name, 'am')
 
 # locale is buruni, mena or persian
 # content_pack is audio, journalism_part_1, etc
