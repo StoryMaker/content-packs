@@ -1,11 +1,13 @@
 [main]
 host = https://www.transifex.com
+lang_map = am_ET: am
 
 [storymaker.mobile_photo_basics_know_your_mobile]
 file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_basics/1_know_your_mobile/know_your_mobile-<lang>.json
 source_file = intermediates/strings/org.storymaker.app/mobile_photo_basics/1_know_your_mobile/know_your_mobile.json
-source_lang = en
+source_lang = en 
 type = KEYVALUEJSON
+
 [storymaker.mobile_photo_basics_know_your_mobile_library]
 file_filter = intermediates/translated_strings/org.storymaker.app/mobile_photo_basics/1_know_your_mobile/know_your_mobile_library-<lang>.json
 source_file = intermediates/strings/org.storymaker.app/mobile_photo_basics/1_know_your_mobile/know_your_mobile_library.json
