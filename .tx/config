@@ -1365,7 +1365,7 @@ source_lang = en
 type = KEYVALUEJSON
 
 [storymaker.g_odvw_3_library]
-file_filter = intermediates/translated_strings/org.storymaker.app/g_odvw/3/g_odvw_3-<lang>.json
+file_filter = intermediates/translated_strings/org.storymaker.app/g_odvw/3/g_odvw_3_library-<lang>.json
 source_file = intermediates/strings/org.storymaker.app/g_odvw/3/g_odvw_3_library.json
 source_lang = en
 type = KEYVALUEJSON
