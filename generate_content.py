@@ -663,6 +663,7 @@ def generate_content_indexes(pack_name):
     generate_content_index(package, pack_name, 'es')
     generate_content_index(package, pack_name, 'fa')
     generate_content_index(package, pack_name, 'fr')
+    generate_content_index(package, pack_name, 'rw')
     generate_content_index(package, pack_name, 'ru')
     generate_content_index(package, pack_name, 'vi')
     generate_content_index(package, pack_name, 'om')
@@ -798,6 +799,7 @@ def all_content():
     gen_regular_pack_and_content_indexes("t_video")
     gen_regular_pack_and_content_indexes("t_photo")
     gen_regular_pack_and_content_indexes("t_news")
+    gen_regular_pack_and_content_indexes("t_ukraine_school_cj")
 
     generate_translated_assets("mobile_photo_basics")
     #generate_translated_assets("default")
@@ -810,6 +812,18 @@ def all_content():
     generate_translated_assets("t_video")
     generate_translated_assets("t_photo")
     generate_translated_assets("t_news")
+    generate_translated_assets("t_ukraine_school_cj")
+
+    generate_translated_assets("audio")
+    generate_translated_assets("story")
+#    generate_translated_assets("lessons")
+    generate_translated_assets("video_1")
+    generate_translated_assets("video_2")
+    generate_translated_assets("security")
+    generate_translated_assets("photography_1")
+    generate_translated_assets("photography_2")
+    generate_translated_assets("journalism_part_1")
+    generate_translated_assets("journalism_part_2")
 
     # TODO translations for localized packs
     # audio
