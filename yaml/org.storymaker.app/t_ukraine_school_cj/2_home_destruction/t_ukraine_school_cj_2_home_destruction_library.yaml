@@ -1,0 +1,19 @@
+---
+    id: t_ukraine_school_cj_2_home_destruction_library
+    title: Разрушенные города
+    classPackage: scal.io.liger.model
+
+    currentStoryPathFile: t_ukraine_school_cj_2_home_destruction.json
+    storyPathTemplateFiles:
+        t_ukraine_school_cj_2_home_destruction: t_ukraine_school_cj_2_home_destruction.json
+    dependencies:
+        -
+            dependencyId: t_ukraine_school_cj_2_home_destruction
+            dependencyFile: t_ukraine_school_cj_2_home_destruction.json
+
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: t_ukraine_school_cj_2_home_destruction
