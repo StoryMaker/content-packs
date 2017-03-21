@@ -1,0 +1,79 @@
+{
+    "title": "\u062a\u0645\u0627\u0631\u064a\u0646 \u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0645\u0646 \u0632\u0627\u0648\u064a\u0629", 
+    "storyPathLibraryFile": "shoot_on_an_angle_activity_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action", 
+            "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
+        }, 
+        {
+            "dependencyId": "shoot_on_an_angle", 
+            "dependencyFile": "../5_shoot_on_an_angle/shoot_on_an_angle.json"
+        }, 
+        {
+            "dependencyId": "control_light", 
+            "dependencyFile": "../6_control_light/control_light.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "level": "\u0645\u0642\u062f\u0645\u0629", 
+            "headline": "\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0645\u0646 \u0632\u0627\u0648\u064a\u0629 | \u062a\u0645\u0631\u064a\u0646", 
+            "time": "10 Minutes", 
+            "exampleMediaPath": "1.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "\u0627\u0644\u0631\u062c\u0648\u0639 \u0644\u0644\u062f\u0631\u0633", 
+            "link": "shoot_on_an_angle::intro_card_0", 
+            "id": "link_card_0", 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "\u0627\u0644\u0623\u0646 \u0648 \u0642\u062f \u0623\u0646\u0647\u064a\u062a \u0627\u0644\u062f\u0631\u0633 \u0627\u0644\u062e\u0627\u0635 \u0628\u0627\u0644\u062a\u0642\u0627\u0637 \u0627\u0644\u0635\u0648\u0631 \u0645\u0646 \u0627\u0644\u0632\u0648\u0627\u064a\u0627\u060c \u0647\u0630\u0627 \u0627\u0644\u062f\u0631\u0633 \u0633\u064a\u0633\u0627\u0639\u062f\u0643 \u0639\u0644\u0649 \u062a\u0637\u0628\u064a\u0642 \u0645\u0627 \u062a\u0639\u0644\u0645\u062a\u0647. \u062d\u0627\u0648\u0644 \u0645\u0639 \u0639\u062f\u0651\u0629 \u0632\u0648\u0627\u064a\u0627\u060c \u0628\u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u0634\u062e\u0635\u064a\u0627\u062a \u0645\u062e\u062a\u0644\u0641\u0629.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:20", 
+            "goals": [
+                "\u062d\u0627\u0648\u0644 \u0645\u0639 \u0632\u0627\u0648\u064a\u0629 \u0648\u0627\u062d\u062f\u0629\u060c \u0644\u064a\u0633 \u0641\u0642\u0637 \u0627\u0644\u0623\u0639\u0644\u0649 \u0648 \u0627\u0644\u0623\u0633\u0641\u0644."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "general"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "\u0627\u0644\u062f\u0631\u0633 \u0627\u0644\u062a\u0627\u0644\u064a", 
+            "link": "control_light::intro_card_0", 
+            "id": "link_card_1", 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "\u0627\u0644\u062f\u0631\u0633 \u0627\u0644\u0633\u0627\u0628\u0642", 
+            "link": "capture_peak_action::intro_card_0", 
+            "id": "link_card_2", 
+            "type": "LinkCard"
+        }
+    ], 
+    "id": "shoot_on_an_angle_activity"
+}

@@ -1,0 +1,23 @@
+{
+    "title": "\u0412\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0432 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c", 
+    "storyPathTemplateFiles": {
+        "introduction_to_security": "introduction_to_security.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "introduction_to_security", 
+            "dependencyFile": "introduction_to_security.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "introduction_to_security"
+        }
+    ], 
+    "currentStoryPathFile": "introduction_to_security.json", 
+    "id": "introduction_to_security"
+}

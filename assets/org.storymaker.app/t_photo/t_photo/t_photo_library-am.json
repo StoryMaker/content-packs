@@ -1,0 +1,273 @@
+{
+    "title": "\u12e8\u134e\u1276 \u133d\u1201\u134d \u1273\u122a\u12ae\u127d ", 
+    "storyPathTemplateFiles": {
+        "t_photo_series_action": "t_photo_series_action.json", 
+        "t_photo_series_character": "t_photo_series_character.json", 
+        "t_photo_series_signature": "t_photo_series_signature.json", 
+        "t_photo_process": "t_photo_process.json", 
+        "t_photo_highlights": "t_photo_highlights.json", 
+        "t_photo_series_place": "t_photo_series_place.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "t_photo_highlights", 
+            "dependencyFile": "t_photo_highlights.json"
+        }, 
+        {
+            "dependencyId": "t_photo_series_character", 
+            "dependencyFile": "t_photo_series_character.json"
+        }, 
+        {
+            "dependencyId": "t_photo_series_place", 
+            "dependencyFile": "t_photo_series_place.json"
+        }, 
+        {
+            "dependencyId": "t_photo_series_action", 
+            "dependencyFile": "t_photo_series_action.json"
+        }, 
+        {
+            "dependencyId": "t_photo_series_signature", 
+            "dependencyFile": "t_photo_series_signature.json"
+        }, 
+        {
+            "dependencyId": "t_photo_process", 
+            "dependencyFile": "t_photo_process.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "tips": [
+                {
+                    "text": "\u1208\u1218\u1328\u1228\u123b\u12cd \u12e8\u12a4\u12f2\u1272\u1295\u130d \u12cd\u1324\u1275 \u12a88  \u12a5\u1235\u12a8 20 \u121d\u1235\u120e\u127d \u12a5\u1295\u12f2\u1296\u122d\u12ce\u1275 \u12eb\u120d\u1219\u1362 \u1208\u1218\u1320\u1240\u121d \u12ab\u1230\u1261\u1275 \u1260\u120b\u12ed \u121d\u1235\u120e\u127d\u1295 \u12ed\u1245\u1228\u1339\u1362 ", 
+                    "tags": [
+                        "photo essay", 
+                        "after"
+                    ]
+                }, 
+                {
+                    "text": "\u12a5\u12eb\u1295\u12f3\u1295\u12f1 \u121d\u1235\u120d \u1273\u122a\u12a9\u1295 \u12c8\u12f0\u134a\u1275 \u12e8\u121a\u12eb\u1235\u12ac\u12f5 \u12a0\u12f2\u1235 \u1218\u1228\u1303 \u1260\u12cd\u1235\u1321 \u12e8\u12eb\u12d8 \u1218\u1206\u1295 \u12a0\u1208\u1260\u1275\u1362 ", 
+                    "tags": [
+                        "photo", 
+                        "photo essay", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1260\u121a\u1270\u122d\u12a9\u1275 \u1273\u122a\u12ad \u12cd\u1235\u1325 \u12e8\u121a\u1320\u1240\u1219\u1275 \u12a0\u1295\u12f5 \u134e\u1276\u130d\u122b\u134d \u1265\u127b \u1262\u1206\u1295 \u12a5\u1295\u12b3\u1295 \u12a0\u121b\u122b\u132d \u12a5\u1295\u12f2\u1296\u122d\u12ce\u1275 \u12e8\u1270\u1208\u12eb\u12e9 \u134e\u1276\u130d\u122b\u134e\u127d\u1295 \u12eb\u1295\u1231\u1362 ", 
+                    "tags": [
+                        "photo", 
+                        "photo essay", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u122b\u1235\u12ce\u1295 \u12ed\u12c8\u1241\u1364 \u12e8\u1270\u1233\u1233\u1271 \u12a0\u1218\u1208\u12ab\u12a8\u1276\u127d\u12ce\u1295 \u12eb\u1235\u1270\u12cd\u1209 \u12a5\u1295\u12f2\u1201\u121d \u1273\u122a\u12ad\u12ce\u1295 \u1260\u121a\u12eb\u1240\u122d\u1261\u1260\u1275 \u1218\u1295\u1308\u12f5 \u120b\u12ed \u1270\u133d\u12a5\u1296 \u12a5\u1295\u12f3\u12eb\u12f0\u122d\u1309\u1265\u12ce\u1275 \u12ed\u1320\u1295\u1240\u1241\u1362 ", 
+                    "tags": [
+                        "ethics", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u12a0\u12f0\u1308\u129b \u1260\u1206\u1291 \u1201\u1294\u1273\u12ce\u127d \u12cd\u1235\u1325 \u1240\u1228\u133b \u1260\u121a\u12eb\u12ab\u1205\u12f1\u1260\u1275 \u12c8\u1245\u1275 \u1201\u120d\u130d\u12dc\u121d \u12e8\u121b\u121d\u1208\u132b \u12a5\u1235\u1275\u122b\u1274\u12f2 \u12ed\u1291\u122d\u12ce\u1275\u1362 ", 
+                    "tags": [
+                        "security", 
+                        "photo", 
+                        "video", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u121d\u1295\u121d \u12a5\u1295\u12b3\u1295 \u130a\u12dc\u12cd \u12cd\u1235\u1295 \u1262\u1206\u1295\u121d \u12a5\u1245\u12f5 \u12eb\u12cd\u1321\u1362 \u12e8\u121a\u12eb\u12e9\u1275\u1295 \u1290\u1308\u122d \u1201\u1209 \u12a0\u12ed\u1245\u1228\u1339\u1362", 
+                    "tags": [
+                        "photo", 
+                        "video", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "\u12a0\u132d\u122d \u12a5\u1293 \u130d\u120d\u133d \u1273\u122a\u12ad \u1208\u1218\u1270\u1228\u12ad \u1260\u12a0\u1295\u12f5 \u12cb\u1293 \u122d\u12a5\u1230 \u1309\u12f3\u12ed \u120b\u12ed \u12eb\u1270\u12a9\u1229\u1362 ", 
+                    "tags": [
+                        "journalism", 
+                        "story", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "\u1235\u1208 \u12a5\u12eb\u1295\u12f3\u1295\u12f1 \u12ad\u120a\u1355 \u122b\u1235\u12ce\u1295 \u12a5\u1295\u12f2\u1205 \u1265\u1208\u12cd \u12ed\u1320\u12ed\u1241\u1361- \u12e8\u121a\u1290\u130d\u1228\u129d \u12a0\u12f2\u1235 \u1290\u1308\u122d \u12a0\u1208?", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u12a5\u12eb\u1295\u12f3\u1295\u12f1\u1295 \u12ad\u120a\u1355 \u1260\u1270\u1218\u1208\u12a8\u1270 \u122b\u1235\u12ce\u1295 \u12a5\u1295\u12f2\u1205 \u1265\u1208\u12cd \u12ed\u1320\u12ed\u1241\u1361- \u1235\u1208 \u12cb\u1293 \u1325\u12eb\u1244\u12ec \u12e8\u121a\u1290\u130d\u1228\u129d \u12a0\u12f2\u1235 \u1290\u1308\u122d \u12a0\u1208? ", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1260\u1270\u127b\u1208 \u1218\u1320\u1295 \u12c8\u12f0\u121a\u12eb\u1290\u1231\u1275 \u1230\u12cd \u1240\u1228\u1265 \u12ed\u1260\u1209\u1362 .", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u12eb\u1235\u1273\u12cd\u1231\u1366 \u1270\u1218\u120d\u12ab\u1279 \u1235\u1208 \u121a\u1270\u122d\u12a9\u1275 \u1273\u122a\u12ad \u1260\u134e\u1276\u130d\u122b\u134d \u12eb\u120b\u1233\u12e9\u1275\u1295 \u1290\u1308\u122d \u120a\u12eb\u12cd\u1245 \u12a0\u12ed\u127d\u120d\u121d\u1362  ", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u12eb\u1290\u1231\u1275 \u121d\u1235\u120d \u12e8\u1309\u12f3\u12e9\u1295 \u12a0\u130d\u1263\u1265 \u12e8\u121b\u1235\u1228\u12f3\u1275 \u12a0\u1245\u121d \u12a0\u1208\u12cd? ", 
+                    "tags": [
+                        "photo", 
+                        "after"
+                    ]
+                }, 
+                {
+                    "text": "\u12e8\u1226\u1235\u1275\u12ee\u123d \u1205\u130d\u1295 \u12eb\u1235\u1261\u1362", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1208\u121d\u1235\u120d\u12ce \u12e8\u1218\u1200\u120d \u12ad\u134d\u120d \u1265\u127b \u1233\u12ed\u1206\u1295 \u1208\u1320\u122d\u12de\u1279\u121d \u1275\u12a9\u1228\u1275 \u12ed\u1235\u1321\u1362 ", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1325\u1229 \u134e\u1276\u130d\u122b\u134d \u12e8\u121b\u1295\u1233\u1275 \u12cb\u1293\u12cd \u121a\u1235\u1325\u122d \u12e8\u1265\u122d\u1203\u1295 \u12a0\u1320\u1243\u1240\u121d \u1290\u12cd\u1362 \u1260\u12c8\u1245\u1271 \u12eb\u1208\u12cd\u1295 \u1265\u122d\u1203\u1295 \u1260\u1270\u127b\u1208\u12ce\u1275 \u1218\u1320\u1295 \u1260\u12a0\u130d\u1263\u1261 \u12a5\u12e8\u1270\u1320\u1240\u1219 \u1290\u12cd?", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u12e8\u12a5\u12ed\u1273\u12cd\u1295 \u12a0\u1245\u1323\u132b \u1218\u1240\u12e8\u122d \u1265\u127b \u1260\u122b\u1231 \u1260\u1323\u121d \u12e8\u1270\u123b\u1208 \u134e\u1276\u130d\u122b\u134d \u120a\u12eb\u12c8\u1323 \u12ed\u127d\u120b\u120d\u1362 ", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u12a0\u1295\u12f5 \u134e\u1276\u130d\u122b\u134d \u1265\u127b \u12a0\u12eb\u1295\u1231\u1362 \u1265\u12d9 \u12eb\u1295\u1231\u1362 \u12e8\u1270\u1208\u12eb\u12e9 \u1290\u1308\u122e\u127d\u1295 \u12ed\u121e\u12ad\u1229\u1362 ", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1263\u1308\u1299\u1275 \u12a0\u130b\u1323\u121a \u1201\u1209 \u120d\u12e9 \u12c8\u12ed\u121d \u12e8\u134a\u122d\u121b \u121d\u1235\u120e\u127d\u1295 \u121b\u1295\u1233\u1275\u12ce\u1295 \u12a0\u12ed\u122d\u1231\u1362 ", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u12a8\u1245\u122d\u1260\u1275\u1363 \u12a8\u1218\u12ab\u12a8\u1208\u129b \u122d\u1240\u1275 \u12a5\u1293 \u12a8\u122d\u1240\u1275 \u12e8\u1270\u1208\u12eb\u12e9 \u121d\u1235\u120e\u127d\u1295 \u12eb\u1295\u1231\u1362 ", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1325\u1229 \u134e\u1276\u130d\u122b\u134e\u127d \u12cb\u1293 \u121a\u1235\u1325\u122b\u1278\u12cd \u12e8\u1270\u130d\u1263\u122d \u133d\u1295\u134d \u12a5\u1293 \u12f5\u122b\u121b \u1290\u12cd\u1362 \u134e\u1276\u12cd\u1295 \u12e8\u121a\u12eb\u1290\u1231\u1260\u1275\u1295 \u1245\u133d\u1260\u1275 \u1260\u121a\u1218\u122d\u1321\u1260\u1275 \u130a\u12dc \u12eb\u1295\u1295 \u12eb\u1235\u1273\u12cd\u1231\u1362 ", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1270\u12a8\u1273\u1273\u12ed \u1225\u122b \u1208\u1218\u1225\u122b\u1275 \u121d\u1235\u120e\u127d\u12ce \u1260\u1270\u127b\u1208 \u1218\u1320\u1295 \u1270\u1218\u1233\u1233\u12ed \u1260\u1206\u1290 \u1218\u120d\u12a9 \u1218\u1240\u1293\u1260\u122d \u12a0\u1208\u1263\u1278\u12cd\u1362 ", 
+                    "tags": [
+                        "series", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "\u1218\u1233\u132d \u12a8\u1206\u1290 \u12e8\u12a5\u12ed\u1273 \u12a0\u1245\u1323\u132b \u134e\u1276\u12ce\u1295 \u121b\u1295\u1233\u1275 \u134e\u1276\u130d\u122b\u134d\u12ce\u1295 \u12e8\u1270\u123b\u1208 \u1356\u122d\u1275\u122c\u1275 \u12eb\u12f0\u122d\u1308\u12cb\u120d\u1362 ", 
+                    "tags": [
+                        "series", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u12a0\u1295\u12f5 \u1325\u1229 \u1270\u12a8\u1273\u1273\u12ed \u12a8\u12a0\u121d\u1235\u1275 \u1320\u1295\u12ab\u122b \u121d\u1235\u120e\u127d \u1218\u1220\u122b\u1275 \u12a0\u1208\u1260\u1275\u1362 \u1270\u1328\u121b\u122a \u1325\u1229 \u121d\u1235\u120e\u127d \u12ab\u1209\u12ce\u1275 \u130d\u1295 \u12ad\u120a\u1351 \u12cd\u1235\u1325 \u12eb\u1235\u1308\u1267\u1278\u12cd\u1362 ", 
+                    "tags": [
+                        "series", 
+                        "after"
+                    ]
+                }
+            ], 
+            "type": "TipCollectionHeadlessCard", 
+            "id": "tip_collection"
+        }, 
+        {
+            "question": "\u12e8\u121a\u1230\u1229\u1275 \u1273\u122a\u12ad \u121d\u1295 \u12a0\u12ed\u1290\u1275 \u1290\u12cd? ", 
+            "correctRequired": 1, 
+            "type": "QuizCard", 
+            "id": "quiz_card_topic", 
+            "choices": [
+                {
+                    "text": "\u12e8\u12cb\u1293 \u12cb\u1293 \u1290\u1325\u1266\u127d \u1273\u122a\u12ad ", 
+                    "id": "t_photo_highlights"
+                }, 
+                {
+                    "text": "\u12e8\u1202\u12f0\u1275 \u1273\u122a\u12ad ", 
+                    "id": "t_photo_process"
+                }, 
+                {
+                    "text": "\u1270\u12a8\u1273\u1273\u12ed \u1356\u122d\u1275\u122c\u1276\u127d ", 
+                    "id": "t_photo_series_character"
+                }, 
+                {
+                    "text": "\u1270\u12a8\u1273\u1273\u12ed \u1235\u134d\u122b\u12ce\u127d \u12c8\u12ed\u121d \u1205\u1295\u133b\u12ce\u127d ", 
+                    "id": "t_photo_series_place"
+                }, 
+                {
+                    "text": "\u1270\u12a8\u1273\u1273\u12ed \u12f5\u122d\u130a\u1275 \u12c8\u12ed\u121d \u12a5\u1295\u1245\u1235\u1243\u1234 ", 
+                    "id": "t_photo_series_action"
+                }, 
+                {
+                    "text": "\u1270\u12a8\u1273\u1273\u12ed \u1290\u1308\u122e\u127d ", 
+                    "id": "t_photo_series_signature"
+                }
+            ]
+        }, 
+        {
+            "header": "\u1240\u1325\u120d", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "\u1270\u1328\u121b\u122a \u1218\u1228\u1303 "
+        }, 
+        {
+            "text": "\u12e8\u134e\u1276 \u12f5\u122d\u1230\u1275 \u121b\u1295\u129b\u12cd\u121d \u1241\u1325\u122d \u1263\u1208\u12cd \u130d\u1295\u1299\u1290\u1275 \u12eb\u120b\u1278\u12cd \u134e\u1276\u12ce\u127d \u12e8\u121a\u1290\u1308\u122d \u1273\u122a\u12ad \u1290\u12cd\u1362 \u12a5\u1290\u12da\u1205 \u12a0\u1265\u1290\u1276\u127d \u12e8\u1270\u1208\u12eb\u12e9 \u1273\u122a\u12ae\u127d\u1295 \u1208\u1218\u1235\u122b\u1275 \u12e8\u121d\u12eb\u1235\u1348\u120d\u1309\u12ce\u1275\u1295 \u134e\u1276\u12ce\u127d \u1260\u1219\u1209 \u1208\u121b\u130d\u1298\u1275 \u12e8\u121a\u12eb\u1235\u127d\u120d\u12ce\u1275\u1295 \u1218\u1218\u122a\u12eb \u12ed\u1230\u1321\u12ce\u1273\u120d\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_photo_library::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "action": "LOAD", 
+            "references": [
+                "t_photo_library::quiz_card_topic::choice"
+            ], 
+            "type": "HookLoaderHeadlessCard", 
+            "id": "hook_loader_card"
+        }
+    ], 
+    "id": "t_photo_library"
+}

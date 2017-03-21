@@ -1,0 +1,32 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-persian/1_introduction_to_journalism/introduction_to_journalism_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-persian/cover.png", 
+    "language": "om", 
+    "title": "Seensa Gaazexeessummaa"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-persian/2_social_media_basics/social_media_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-persian/cover.png", 
+    "language": "om", 
+    "title": "Bu'uura Miidiyaa Hawaasaa"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-persian/3_reporting_basics/reporting_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-persian/cover.png", 
+    "language": "om", 
+    "title": "Bu'uura Gabaasaa"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-persian/4_selecting_and_verifying_sources/selecting_and_verifying_sources_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-persian/cover.png", 
+    "language": "om", 
+    "title": "Maddoota Filachuu fi Adda Baasuu"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-persian/5_interview_techniques/interview_techniques_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-persian/cover.png", 
+    "language": "om", 
+    "title": "Maloota Gaafannoo"
+  }
+]

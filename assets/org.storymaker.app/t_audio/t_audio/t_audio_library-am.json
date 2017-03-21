@@ -1,0 +1,426 @@
+{
+    "title": "\u12e8\u12f5\u121d\u133d \u1273\u122a\u12ad \u1235\u122b", 
+    "storyPathTemplateFiles": {
+        "t_audio_discussion_question_1": "t_audio_discussion_question_1.json", 
+        "t_audio_discussion_question_3": "t_audio_discussion_question_3.json", 
+        "t_audio_discussion_question_2": "t_audio_discussion_question_2.json", 
+        "t_audio_day_in_the_life": "t_audio_day_in_the_life.json", 
+        "t_audio_highlights": "t_audio_highlights.json", 
+        "t_audio_report_event": "t_audio_report_event.json", 
+        "t_audio_report_issue": "t_audio_report_issue.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "t_audio_day_in_the_life", 
+            "dependencyFile": "t_audio_day_in_the_life.json"
+        }, 
+        {
+            "dependencyId": "t_audio_discussion_question_1", 
+            "dependencyFile": "t_audio_discussion_question_1.json"
+        }, 
+        {
+            "dependencyId": "t_audio_discussion_question_2", 
+            "dependencyFile": "t_audio_discussion_question_2.json"
+        }, 
+        {
+            "dependencyId": "t_audio_discussion_question_3", 
+            "dependencyFile": "t_audio_discussion_question_3.json"
+        }, 
+        {
+            "dependencyId": "t_audio_highlights", 
+            "dependencyFile": "t_audio_highlights.json"
+        }, 
+        {
+            "dependencyId": "t_audio_report_event", 
+            "dependencyFile": "t_audio_report_event.json"
+        }, 
+        {
+            "dependencyId": "t_audio_report_issue", 
+            "dependencyFile": "t_audio_report_issue.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "tips": [
+                {
+                    "text": "\u122b\u1235\u12ce\u1295 \u12ed\u12c8\u1241\u1364 \u12e8\u1270\u1233\u1233\u1271 \u12a0\u1218\u1208\u12ab\u12a8\u1276\u127d\u12ce\u1295 \u12eb\u1235\u1270\u12cd\u1209 \u12a5\u1295\u12f2\u1201\u121d \u1273\u122a\u12ad\u12ce\u1295 \u1260\u121a\u12eb\u1240\u122d\u1261\u1260\u1275 \u1218\u1295\u1308\u12f5 \u120b\u12ed \u1270\u133d\u12a5\u1296 \u12a5\u1295\u12f3\u12eb\u12f0\u122d\u1309\u1265\u12ce\u1275 \u12ed\u1320\u1295\u1240\u1241\u1362 ", 
+                    "tags": [
+                        "ethics", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u12a0\u12f0\u1308\u129b \u1260\u1206\u1291 \u1201\u1294\u1273\u12ce\u127d \u12cd\u1235\u1325 \u1240\u1228\u133b \u1260\u121a\u12eb\u12ab\u1202\u12f1\u1260\u1275 \u12c8\u1245\u1275 \u1201\u120d\u130a\u12dc\u121d \u12e8\u121b\u121d\u1208\u132b \u12a5\u1235\u1275\u122b\u1274\u12f2 \u12ed\u1291\u122d\u12ce\u1275\u1362 ", 
+                    "tags": [
+                        "security", 
+                        "photo", 
+                        "video", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u12e8\u121a\u127b\u120d \u12a8\u1206\u1290 \u1243\u1208 \u121d\u120d\u120d\u1235\u12ce\u1295 \u12a8\u121b\u12f5\u1228\u130d\u12ce \u1260\u134a\u1275 \u12e8\u1270\u12c8\u1230\u1290 \u1325\u1293\u1275 \u12eb\u12f5\u122d\u1309\u1362 \u12ed\u1205\u121d \u12e8\u1270\u123b\u1209 \u12a5\u1293 \u12ed\u1260\u120d\u1325 \u12a0\u1235\u1348\u120b\u130a \u12e8\u1206\u1291 \u1325\u12eb\u1244\u12ce\u127d\u1295 \u12a5\u1295\u12f2\u1320\u12ed\u1241 \u12eb\u130d\u12dd\u12ce\u1273\u120d\u1362 ", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio"
+                    ]
+                }, 
+                {
+                    "text": "\u1260\u121a\u133d\u1349\u1275 \u1273\u122a\u12ad \u12cd\u1235\u1325 \u120b\u1209\u1275 \u1308\u1338 \u1263\u1205\u122a\u12eb\u1275 \u1273\u122a\u12ad\u12ce\u1295 \u12e8\u121a\u1308\u120d\u133d \u12a0\u1295\u12f5 \u12d3\u1228\u134d\u1270 \u1290\u1308\u122d \u12ed\u1291\u122d\u12ce\u1275\u1362 ", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "\u1325\u1295\u1243\u1244 \u12e8\u121a\u1320\u12ed\u1241 \u1325\u12eb\u1244\u12ce\u127d\u1295 \u1260\u1235\u1270\u1218\u1328\u1228\u123b \u12ed\u1320\u12ed\u1241\u1362 ", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1325\u12eb\u1244\u12ce\u127d\u12ce\u1295 \u1260\u12a0\u1235\u1348\u120b\u130a\u1290\u1273\u1278\u12cd \u1218\u1220\u1228\u1275 \u1260\u1245\u12f0\u121d \u1270\u12a8\u1270\u120d \u12eb\u1235\u1240\u121d\u1327\u1278\u12cd \u12a5\u1295\u12f2\u1201\u121d \u12a8\u12e8\u1275\u129b\u12cd\u121d \u1260\u120b\u12ed \u12e8\u121a\u1348\u120d\u1309\u1275\u1295 \u12a0\u1295\u12f5 \u1260\u1323\u121d \u1320\u1243\u121a \u1218\u1228\u1303 \u1208\u12ed\u1270\u12cd \u12eb\u1235\u1240\u121d\u1321\u1362 ", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "\u1260\u1243\u1208 \u1218\u1320\u12ed\u1245 \u12c8\u1245\u1275 \u12a5\u1305\u130d \u12a0\u1235\u1348\u120b\u130a \u12c8\u12f0 \u1206\u1290\u12cd \u1325\u12eb\u1244 \u1260\u1276\u120e \u12ed\u1202\u12f1\u1362 ", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1243\u1208 \u1218\u1320\u12ed\u1245 \u1260\u121a\u12eb\u12f0\u122d\u1309\u1260\u1275 \u130a\u12dc \u1320\u1295\u12ab\u122b \u1290\u1308\u122d \u130d\u1295 \u121a\u12db\u1293\u12ca \u12ed\u1201\u1291\u1362", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1270\u1243\u122b\u1292 \u12a0\u1218\u1208\u12ab\u12a8\u1275 \u12eb\u120b\u1278\u12cd \u130d\u1208 \u1230\u1266\u127d\u1295 \u1243\u1208 \u1218\u1320\u12ed\u1245 \u1262\u12eb\u12f0\u122d\u1309 \u1273\u122a\u12ad\u12ce\u1295 \u12ed\u1260\u120d\u1325 \u1218\u1233\u132d \u12eb\u12f0\u122d\u1308\u12cb\u120d\u1362 ", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u12cd\u1320\u1273\u121b \u12e8\u1206\u1290 \u1245\u12f0\u121d \u1270\u12a8\u1270\u120d \u1208\u1218\u134d\u1320\u122d \u12e8\u1270\u1208\u12eb\u12e8 \u1218\u1320\u1295 \u12eb\u120b\u1278\u12cd \u121d\u1235\u120e\u127d\u1295 \u12eb\u1295\u1231\u1362 ", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1325\u12eb\u1244 \u1218\u1320\u12e8\u1245 \u12a8\u1218\u1300\u1218\u122d\u12ce \u1260\u134a\u1275 \u201c\u1245\u1228\u133d\u201d \u12c8\u12ed\u121d \u201c\u122a\u12a8\u122d\u12f5\u201d \u12e8\u121a\u1208\u12cd\u1295 \u12a0\u12dd\u122b\u122d \u12ed\u132b\u1291 \u12a5\u1293 \u1325\u1242\u1275 \u12e8\u1338\u1325\u1273 \u1230\u12a8\u1295\u12f6\u127d\u1295  \u1218\u1293\u1308\u122d \u12a8\u1218\u1300\u1218\u122d\u12ce \u1260\u134a\u1275 \u12ed\u1245\u12f1\u1362", 
+                    "tags": [
+                        "audio", 
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1218\u1245\u12f3\u1275 \u12a8\u1218\u1300\u1218\u122d\u12ce \u1260\u134a\u1275 \u121b\u12f3\u1218\u132b \u1260\u1218\u1320\u1240\u121d \u12e8\u12f5\u121d\u1339\u1295 \u1218\u1320\u1295 \u12eb\u1228\u130b\u130d\u1321\u1362 ", 
+                    "tags": [
+                        "audio", 
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1260\u1270\u127b\u1208 \u1218\u1320\u1295 \u12e8\u122b\u1235\u12ce\u1295 \u12f5\u121d\u133d \u1260\u1275\u1295\u1239 \u1265\u127b \u1208\u1218\u1320\u1240\u121d \u12a5\u1293 \u1260\u120c\u120e\u127d \u1230\u12ce\u127d \u12f5\u121d\u133d \u12a0\u121b\u12ab\u129d\u1290\u1275 \u1273\u122a\u12a9\u1295 \u1208\u1218\u1270\u1228\u12ad \u12ed\u121e\u12ad\u1229\u1362 ", 
+                    "tags": [
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u121d\u1295 \u12a0\u12ed\u1290\u1275 \u122d\u12a5\u1230 \u1309\u12f3\u12ed \u12a5\u1293 \u12e8\u1355\u122e\u130d\u122b\u121d \u1245\u122d\u133d \u12a5\u1295\u12f0\u121a\u1320\u1240\u1219 \u1208\u1218\u12c8\u1235\u1295 \u1260\u121a\u12eb\u1235\u1261\u1260\u1275 \u130a\u12dc \u1235\u1208 \u1273\u12f3\u121a\u12ce \u12eb\u1235\u1261\u1362", 
+                    "tags": [
+                        "journalism", 
+                        "story", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "\u121d\u1295\u121d \u12a5\u1295\u12b3\u1295 \u130a\u12dc\u12cd \u12cd\u1235\u1295 \u1262\u1206\u1295\u121d \u12a5\u1245\u12f5 \u12eb\u12cd\u1321\u1362 \u12e8\u121a\u12eb\u12e9\u1275\u1295 \u1290\u1308\u122d \u1201\u1209 \u12a0\u12ed\u1245\u1228\u1339\u1362", 
+                    "tags": [
+                        "photo", 
+                        "video", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "\u1243\u1208 \u121d\u120d\u120d\u1235 \u1232\u1240\u122d\u1339 \u1262\u12eb\u1295\u1235 15 \u1325\u12eb\u1244\u12ce\u127d\u1295 \u12eb\u12d8\u130b\u1301\u1362 ", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "\u12a0\u132d\u122d \u12a5\u1293 \u130d\u120d\u133d \u1273\u122a\u12ad \u1208\u1218\u1270\u1228\u12ad \u12a0\u1295\u12f5 \u12cb\u1293 \u122d\u12a5\u1230 \u1309\u12f3\u12ed \u120b\u12ed \u12eb\u1270\u12a9\u1229\u1362 ", 
+                    "tags": [
+                        "journalism", 
+                        "story", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "\u1260\u1270\u127b\u1208 \u1218\u1320\u1295 \u122b\u1235\u12ce \u1260\u1240\u1325\u1273 \u12e8\u1270\u1218\u1208\u12a8\u1271\u1275\u1295 \u12a5\u1293 \u12eb\u12f0\u1228\u1309\u1275\u1295 \u1243\u1208 \u121d\u120d\u120d\u1235 \u12ed\u1245\u12f1\u1362", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1208\u1243\u1208 \u1218\u1320\u12ed\u1245 \u1230\u12cd\u1295 \u1260\u121a\u130b\u1265\u12d9\u1260\u1275 \u12c8\u1245\u1275 \u122d\u12a5\u1235\u12ce\u1295 \u12c8\u12ed\u121d \u12a0\u120b\u121b\u12ce\u1295 \u130d\u120d\u133d \u12eb\u12f5\u122d\u1309\u1362 ", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u12ed\u1228\u130b\u1309\u1362 \u12e8\u12a5\u122d\u1235\u12ce \u1218\u1228\u130b\u130b\u1275 \u1243\u1208 \u1218\u1320\u12ed\u1245 \u12e8\u121a\u12f0\u1228\u130d\u1208\u1275\u1295\u121d \u130d\u1208\u1230\u1265 \u12a5\u1295\u12f2\u1228\u130b\u130b \u12eb\u12f0\u122d\u1308\u12cb\u120d\u1362 ", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1201\u120d\u130a\u12dc\u121d \u12a8\u1243\u1208 \u121d\u120d\u120d\u1231 \u121d\u1295 \u12a5\u1295\u12f0\u121a\u1348\u120d\u1309 \u12ed\u12c8\u1241\u1362 ", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1260\u12a0\u1295\u12f5 \u130a\u12dc \u12a0\u1295\u12f5 \u1325\u12eb\u1244 \u1265\u127b \u12ed\u1320\u12ed\u1241\u1362 ", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u12a8\u1263\u12f5 \u1325\u12eb\u1244\u12ce\u127d\u1295 \u12ed\u1320\u12ed\u1241 \u1290\u1308\u122d \u130d\u1295 \u1275\u1211\u1275 \u1218\u1206\u1295\u1295 \u12a0\u12ed\u122d\u1231\u1362 \u1260\u1275\u1205\u1275\u1293 \u12e8\u121a\u1320\u12e8\u1245 \u1325\u12eb\u1244 \u12e8\u121a\u12eb\u1235\u1308\u1298\u12cd \u1325\u1245\u121d \u1240\u120b\u120d \u12a0\u12ed\u12f0\u1208\u121d\u1362", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1275\u1205\u1275\u1293 \u1218\u1270\u121b\u1218\u1295\u1295 \u1208\u1218\u134d\u1320\u122d \u12a5\u1293 \u1243\u1208 \u1218\u1320\u12ed\u1245\u12ce\u1275\u1295 \u1208\u121b\u123b\u123b\u120d \u12ed\u1228\u12f3\u12ce\u1273\u120d\u1362 ", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "\u1245\u12f3 \u12e8\u121a\u1208\u12cd\u1295 \u12a0\u12dd\u122b\u122d \u1320\u1245 \u12a8\u121b\u12f5\u1228\u130d\u12ce \u1260\u134a\u1275 \u12e8\u1273\u122a\u12ad\u12ce\u1295 \u1325\u122b\u1275 \u120a\u1240\u1295\u1235 \u12e8\u121a\u127d\u120d \u12eb\u1300\u122d\u1263 \u132b\u132b\u1273 \u12a5\u1295\u12f3\u1208 \u12eb\u12f5\u121d\u1321\u1362 ", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u12a5\u1295\u12f0 '\u12a0\u12ce' \u12c8\u12ed\u121d '\u12a0\u12ed\u12f0\u1208\u121d' \u1260\u121a\u120d \u12a0\u132d\u122d \u1218\u120d\u1235 \u120a\u1218\u1208\u1231 \u12e8\u121a\u127d\u1209 '\u12dd\u130d' \u1325\u12eb\u1244\u12ce\u127d\u1295 \u12a0\u12ed\u1320\u12ed\u1241\u1362 ", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u12cd\u12ed\u12ed\u1271\u1295 \u12eb\u1235\u1240\u1325\u1209\u1275\u1362 \u1208\u121d\u1295? \u1240\u1325\u120e\u1235 \u121d\u1295 \u1206\u1290? \u121d\u1295 \u121b\u1208\u1275\u12ce \u1290\u12cd? \u12e8\u1218\u1233\u1230\u1209\u1275\u1295 \u1325\u12eb\u1244\u12ce\u127d \u12ed\u1320\u12ed\u1241\u1362", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1325\u12eb\u1244\u12ce\u127d\u12ce \u12a0\u122d\u12aa \u1218\u120d\u1235\u1295 \u12e8\u121b\u12ed\u1230\u1321 \u12a8\u1206\u1290 \u12a0\u1240\u122b\u1228\u1265\u12ce\u1295 \u12ed\u1240\u12ed\u1229\u1362", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1270\u1328\u121b\u122a \u1218\u1228\u1303 \u12e8\u121a\u12eb\u1235\u1348\u120d\u130d\u12ce\u1275 \u12a8\u1206\u1290 \u1270\u12a8\u1273\u12ed \u1325\u12eb\u1244\u12ce\u127d\u1295 \u12ed\u1320\u12ed\u1241\u1362 ", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1325\u1229 \u12f5\u121d\u133d \u12a8\u120c\u120b\u1278\u12cd \u12e8\u1240\u1228\u133f\u1278\u12cd \u121d\u1235\u120e\u127d \u12e8\u121a\u1270\u122d\u12a9\u1275 \u12a8\u134a\u120d \u1273\u122a\u12a9\u1295 \u1265\u127b \u1218\u1206\u1291\u1295 \u12eb\u1235\u1273\u12cd\u1231\u1362 ", 
+                    "tags": [
+                        "video", 
+                        "photo essay", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1290\u134b\u123b\u121b \u12a8\u1206\u1290 \u12ab\u121c\u122b\u12ce\u1295 \u12a8\u1295\u134b\u1231 \u12eb\u122d\u1241 \u12c8\u12ed\u121d \u12f5\u121d\u133d \u121b\u1309\u12eb\u12cd\u1295 \u12ed\u1238\u134d\u1291\u1275\u1362", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u12a5\u12eb\u1295\u12f3\u1295\u12f1 \u1273\u122a\u12ad \u12a0\u1295\u12f5 \u12cb\u1293 \u1325\u12eb\u1244 \u12a0\u1208\u12cd\u1362 \u12e8\u1273\u122a\u12ad\u12ce \u1218\u1328\u1228\u123b \u120b\u12ed \u12a5\u122d\u1235\u12ce \u12e8\u1218\u1208\u1231\u1275 \u1325\u12eb\u1244 \u121d\u1295\u12f5\u1295 \u1290\u12cd?", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1321\u12d8\u1275 \u121b\u1208\u1275 \u12a0\u12f5\u121b\u132e\u127d\u12ce \u1208\u1325\u12eb\u1244\u12cd \u1218\u120d\u1235 \u1208\u121b\u130d\u1298\u1275 \u1232\u1209 \u121b\u12f5\u1218\u1323\u1328\u12cd\u1295 \u12a5\u1295\u12f2\u1240\u1325\u1209 \u12e8\u121a\u12eb\u12f0\u130d \u1218\u120d\u1235 \u1290\u12cd\u1362 \u1260\u1240\u120b\u1209 \u1276\u120e \u1218\u120d\u1231\u1295 \u12a0\u12ed\u1235\u1321\u1362 ", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u1235\u1208 \u12a5\u12eb\u1295\u12f3\u1295\u12f1 \u12ad\u120a\u1355 \u122b\u1235\u12ce\u1295 \u12a5\u1295\u12f2\u1205 \u1265\u1208\u12cd \u12ed\u1320\u12ed\u1241\u1361- \u12e8\u121a\u1290\u130d\u1228\u129d \u12a0\u12f2\u1235 \u1290\u1308\u122d \u12a0\u1208?", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u12a0\u1295\u12f5 \u1325\u1229 \u1270\u12a8\u1273\u1273\u12ed \u12a0\u132d\u122d \u12ad\u120a\u1355 \u12a8\u12a0\u121d\u1235\u1275 \u1320\u1295\u12ab\u122b \u121d\u1235\u120e\u127d \u1218\u1220\u122b\u1275 \u12a0\u1208\u1260\u1275\u1362 \u1270\u1328\u121b\u122a \u1325\u1229 \u121d\u1235\u120e\u127d \u12ab\u1209\u12ce\u1275 \u130d\u1295 \u12ad\u120a\u1351 \u12cd\u1235\u1325 \u12eb\u1235\u1308\u1267\u1278\u12cd\u1362 ", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "during"
+                    ]
+                }
+            ], 
+            "type": "TipCollectionHeadlessCard", 
+            "id": "tip_collection"
+        }, 
+        {
+            "question": "\u1208\u1218\u1235\u122b\u1275 \u12e8\u121a\u1348\u120d\u1309\u1275\u1295 \u1273\u122a\u12ad \u12ed\u121d\u1228\u1321\u1362 ", 
+            "correctRequired": 1, 
+            "type": "QuizCard", 
+            "id": "quiz_card_topic", 
+            "choices": [
+                {
+                    "text": "\u12e8\u12cb\u1293 \u12cb\u1293 \u1290\u1325\u1266\u127d \u1273\u122a\u12ad ", 
+                    "id": "t_audio_highlights"
+                }, 
+                {
+                    "text": "\u1235\u1208 \u130d\u1208\u1230\u1265 \u12e8\u121a\u12f0\u1228\u130d \u12cd\u12ed\u12ed\u1275 ", 
+                    "id": "t_audio_discussion_question_1"
+                }, 
+                {
+                    "text": "\u1235\u1208 \u121b\u1205\u1260\u122b\u12ca \u1309\u12f3\u12ed \u12e8\u121a\u12f0\u1228\u130d \u12cd\u12ed\u12ed\u1275 ", 
+                    "id": "t_audio_discussion_question_2"
+                }, 
+                {
+                    "text": "\u1235\u1208 \u12ad\u1235\u1270\u1275 \u12e8\u121a\u12f0\u1228\u130d \u12cd\u12ed\u12ed\u1275 ", 
+                    "id": "t_audio_discussion_question_3"
+                }, 
+                {
+                    "text": "\u12e8\u12ad\u1235\u1270\u1275 \u1273\u122a\u12ad ", 
+                    "id": "t_audio_report_event"
+                }, 
+                {
+                    "text": "\u12e8\u122d\u12a5\u1230 \u1309\u12f3\u12ed \u1273\u122a\u12ad ", 
+                    "id": "t_audio_report_issue"
+                }, 
+                {
+                    "text": "\u12e8\u1240\u1295 \u12cd\u120e \u1273\u122a\u12ad ", 
+                    "id": "t_audio_day_in_the_life"
+                }
+            ]
+        }, 
+        {
+            "header": "\u1240\u1325\u120d", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "\u1270\u1328\u121b\u122a \u1218\u1228\u1303 "
+        }, 
+        {
+            "text": "\u130d\u1229\u121d \u12e8\u12f5\u121d\u133d \u1273\u122a\u12ad\u1295 \u1218\u1235\u122b\u1275 \u12e8\u1270\u1208\u12eb\u12e9 \u12ad\u120a\u1356\u127d\u1295 \u12eb\u12ab\u1275\u1273\u120d\u1362 \u12a5\u1290\u12da\u1205 \u12a0\u1265\u1290\u1276\u127d \u12e8\u1270\u1208\u12eb\u12e9 \u1273\u122a\u12ae\u127d\u1295 \u1208\u1218\u1235\u122b\u1275 \u12e8\u121d\u12eb\u1235\u1348\u120d\u1309\u12ce\u1275\u1295 \u12ad\u120a\u1356\u127d \u1260\u1219\u1209 \u121b\u130d\u1298\u1275 \u12e8\u121a\u12eb\u1235\u127d\u120d\u12ce\u1275\u1295 \u1218\u1218\u122a\u12eb \u12ed\u1230\u1321\u12ce\u1273\u120d\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_audio_library::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "action": "LOAD", 
+            "references": [
+                "t_audio_library::quiz_card_topic::choice"
+            ], 
+            "type": "HookLoaderHeadlessCard", 
+            "id": "hook_loader_card"
+        }
+    ], 
+    "id": "t_audio_library"
+}

@@ -1,0 +1,79 @@
+{
+    "title": "Baqqaana Gochaa Uumi", 
+    "storyPathLibraryFile": "create_layers_activity_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../3_create_layers/create_layers.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action", 
+            "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "level": "Seensa |", 
+            "headline": "Baqqaana Uumi | Gocha", 
+            "time": "10 Minutes", 
+            "exampleMediaPath": "1.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Gara Kutichaatti Deebi'i", 
+            "link": "create_layers::intro_card_0", 
+            "id": "link_card_0", 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Amma erga barumsa suuraa keessatti baqqaana uumuu xumurtee, hojiin kun shaakalaaf si gargaara. Suuraa baqqaanota garagaraa lamaan kaasuudhaan jalqabi, tokko kan qaamicha qulqullinaan mul'isu kan hafe kan ibsasaa dhiyeessu.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:20", 
+            "goals": [
+                "Fakkiiwwan hafan irraa qaamakee baqqaana adda ta'e keessa kaa'i."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "layers"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Kutaa Itti Aanu", 
+            "link": "capture_peak_action::intro_card_0", 
+            "id": "link_card_1", 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Kutaa Duraanii", 
+            "link": "compose_with_a_grid::intro_card_0", 
+            "id": "link_card_2", 
+            "type": "LinkCard"
+        }
+    ], 
+    "id": "create_layers_activity"
+}

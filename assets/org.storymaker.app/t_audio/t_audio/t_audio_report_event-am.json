@@ -1,0 +1,246 @@
+{
+    "cards": [
+        {
+            "header": "\u1240\u1325\u120d", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "\u12ed\u1205\u1295 \u12a0\u1265\u1290\u1275 \u1260\u1270\u1218\u1208\u12a8\u1270"
+        }, 
+        {
+            "text": "\u12ed\u1205 \u12a0\u1265\u1290\u1275 \u1260\u121b\u1205\u1260\u1228\u1230\u1265\u12ce \u12cd\u1235\u1325 \u12e8\u121a\u12a8\u1230\u1275\u1295 \u12ad\u1235\u1270\u1275 \u1208\u1218\u12d8\u1308\u1265 \u12ed\u1228\u12f3\u12ce\u1273\u120d\u1362 \u12e8\u1270\u1230\u1321\u1275 \u12ad\u120a\u1356\u127d \u12e8\u1265\u12d9 \u12ad\u1235\u1270\u1276\u127d\u1295 \u1273\u122a\u12ad \u1208\u1218\u1295\u1308\u122d \u12e8\u121a\u12eb\u1235\u1348\u120d\u1309\u12ce\u1275\u1295 \u12cb\u1293 \u1240\u1228\u133b\u12ce\u127d \u12ed\u1238\u134d\u1293\u1209\u1362 \u12a5\u1295\u12f0 \u12a0\u1235\u1348\u120b\u130a\u1290\u1271 \u1240\u1228\u133b\u12ce\u127d\u1295 \u1218\u12dd\u1208\u120d \u12c8\u12ed\u121d \u120c\u120e\u127d \u1240\u1228\u133b\u12ce\u127d\u1295 \u1218\u1320\u1240\u121d \u12ed\u127d\u120b\u1209\u1362 \u1260\u1270\u1328\u121b\u122a\u121d \u12e8\u1270\u1230\u1321\u1275\u1295 \u1325\u12eb\u1244\u12ce\u127d \u1208\u12a5\u122d\u1235\u12ce \u1260\u121a\u12eb\u1235\u1348\u120d\u130d\u12ce\u1275 \u1218\u120d\u12a9 \u121b\u1235\u1270\u12ab\u12a8\u120d \u12ed\u127d\u120b\u1209\u1362 ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_audio_report_event::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "audio", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "goals": [
+                "\u12ad\u1235\u1270\u1271 \u12e8\u121a\u12ab\u1204\u12f5\u1260\u1275\u1295 \u1266\u1273 \u12ed\u1245\u1228\u1339\u1362 "
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "\u1208\u12ad\u1235\u1270\u1271 \u12dd\u130d\u1305\u1275 \u1232\u12f0\u1228\u130d \u12e8\u121a\u12eb\u1230\u121b \u12f5\u121d\u133d \u12ed\u1245\u1228\u1339\u1362"
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:20", 
+            "goals": [
+                "\u12ad\u1235\u1270\u1271\u1295 \u12e8\u121a\u12eb\u1235\u1270\u12cb\u12cd\u1245 \u12e8\u1206\u1290 \u12f5\u121d\u133d \u12ed\u1245\u1228\u1339\u1362"
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "\u12e8\u12ad\u1235\u1270\u1271 \u12a0\u12ab\u120d \u12e8\u1206\u1290\u1295 \u12a0\u1295\u12f5 \u1230\u12cd \u201c\u12ad\u1235\u1270\u1271 \u120b\u12ed \u121d\u1295 \u1270\u1348\u1320\u1228?\u201d \u1265\u1208\u12cd \u12ed\u1320\u12ed\u1241\u1362"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "\u12ad\u1235\u1270\u1271 \u120b\u12ed \u121d\u1295 \u12a5\u1295\u12f0\u121a\u12ab\u1204\u12f5 \u12e8\u121a\u12eb\u1230\u121b \u12f5\u121d\u133d \u12ed\u1245\u1228\u1339\u1362"
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:14", 
+            "goals": [
+                "\u1235\u1208 \u12ad\u1235\u1270\u1271 \u1218\u1233\u132d \u12e8\u1206\u1290 \u1290\u1308\u122d \u12ed\u1245\u1228\u1339\u1362"
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:25", 
+            "goals": [
+                "\u12a0\u1295\u12f5 \u1263\u1208\u121e\u12eb \u1235\u1208 \u12ad\u1235\u1270\u1271 \u12a0\u1235\u1270\u12eb\u12e8\u1275 \u12a5\u1295\u12f2\u1230\u1325 \u12ed\u1320\u12ed\u1241\u1362 "
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "\u1208\u12ad\u1235\u1270\u1271 \u12a0\u1235\u1348\u120b\u130a \u12e8\u1206\u1290 \u1235\u134b\u122b\u1295 \u12e8\u121a\u12eb\u1233\u12cd\u1245 \u12f5\u121d\u133d \u12ed\u1245\u1228\u1339\u1362"
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:15", 
+            "goals": [
+                "\u1260\u12ad\u1235\u1270\u1271 \u120b\u12ed \u1230\u12ce\u127d \u12a5\u122d\u1235 \u1260\u122d\u1235 \u1232\u1290\u130b\u1308\u1229 \u12e8\u121a\u12eb\u1230\u121b \u12f5\u121d\u133d \u12ed\u1245\u1228\u1339\u1362"
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:40", 
+            "goals": [
+                "\u1235\u1208 \u12ad\u1235\u1270\u1271 \u1325\u1242\u1275 \u12e8\u121a\u1235\u1261 \u12a5\u12cd\u1290\u1273\u12ce\u127d\u1295 \u12c8\u12ed\u121d \u1208\u121d\u1295 \u12a5\u1295\u12f0\u1270\u12a8\u1230\u1270 \u12ed\u1295\u1308\u1229\u1295\u1362"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_9"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "\u12a5\u1295\u12f2\u1205 \u1265\u1208\u12cd \u12ed\u1320\u12ed\u1241\u1366 \u12ad\u1235\u1270\u1271\u1295 \u1218\u1233\u132d \u12e8\u121a\u12eb\u12f0\u122d\u1308\u12cd \u121d\u1295\u12f5\u1295 \u1290\u12cd?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_10"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "goals": [
+                "\u1208\u12ad\u1235\u1270\u1271 \u12a0\u1235\u1348\u120b\u130a \u12e8\u1206\u1290 \u1290\u1308\u122d \u12e8\u121a\u12eb\u1230\u121b \u120c\u120b \u12f5\u121d\u133d \u12ed\u1245\u1228\u1339\u1362"
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_11"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "\u12ad\u1235\u1270\u1271 \u12a5\u1295\u12f4\u1275 \u12a5\u1295\u12f0\u121a\u1320\u1293\u1240\u1245 \u12e8\u121a\u12eb\u1233\u12cd\u1245 \u12f5\u121d\u133d \u12ed\u1245\u1228\u1339\u1362 "
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_12"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:20", 
+            "goals": [
+                "\u12ad\u1235\u1270\u1271 \u1260\u1240\u1320\u1208 \u1241\u1325\u122d \u12a5\u1295\u12f4\u1275 \u12a5\u12e8\u1270\u1240\u12e8\u1228 \u12a5\u1295\u12f0\u121a\u1204\u12f5 \u12ed\u1295\u1308\u1229\u1362 "
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_13"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "\u1260\u12ad\u1235\u1270\u1271 \u120b\u12ed \u120c\u120b \u12e8\u1270\u12ab\u1204\u12f0 \u12eb\u1208 \u1290\u1308\u122d \u12a5\u1295\u12f3\u1208 \u12e8\u121a\u12eb\u1230\u121b \u12f5\u121d\u133d \u12ed\u1245\u1228\u1339\u1362"
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_14"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:25", 
+            "goals": [
+                "\u1260\u12ad\u1235\u1270\u1271 \u120b\u12ed \u12e8\u1270\u1308\u1298\u1295 \u12a0\u1295\u12f5 \u1230\u12cd \u1235\u120b\u12f0\u1228\u1308\u12cd \u1290\u1308\u122d \u12a5\u1295\u12f2\u12eb\u12c8\u122b \u12ed\u1320\u12ed\u1241\u1362"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_15"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:14", 
+            "goals": [
+                "\u1260\u12ad\u1235\u1270\u1271 \u120b\u12ed \u1230\u12ce\u127d \u12a5\u122d\u1235 \u1260\u122d\u1235 \u1260\u1218\u1290\u130b\u1308\u122b\u1278\u12cd \u12e8\u1270\u1348\u1320\u1228\u12cd\u1295 \u12cd\u1324\u1275 \u12e8\u121a\u12eb\u1230\u121b \u12f5\u121d\u133d \u12ed\u1245\u1228\u1339\u1362"
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_16"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:20", 
+            "goals": [
+                "\u12ad\u1235\u1270\u1271 \u1208\u12c8\u12f0\u134a\u1271 \u12f0\u130d\u121e \u1260\u121a\u12a8\u1230\u1275\u1260\u1275 \u12c8\u1245\u1275 \u121d\u1295 \u12ed\u1348\u1320\u122b\u120d \u1270\u1265\u120e \u12a5\u1295\u12f0\u121a\u1320\u1260\u1245 \u12ed\u1295\u1308\u1229\u1295\u1362 "
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_17"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:08", 
+            "goals": [
+                "\u12e8\u12ad\u1235\u1270\u1271\u1295 \u1218\u1320\u1293\u1240\u1245 \u12e8\u121a\u12eb\u1233\u12cd\u1245 \u12f5\u121d\u133d \u12ed\u1245\u1228\u1339\u1362"
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_18"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "edit", 
+                "audio", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "audio"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_audio_report_event", 
+    "title": "\u12e8\u12ad\u1235\u1270\u1275 \u126a\u12f2\u12ee "
+}

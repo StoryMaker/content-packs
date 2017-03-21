@@ -1,0 +1,23 @@
+{
+    "title": "\u12e8\u1240\u1208\u121d \u121a\u12db\u1295\u1295 \u121b\u12d8\u130b\u1300\u1275", 
+    "storyPathTemplateFiles": {
+        "setting_white_balance": "setting_white_balance.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "setting_white_balance", 
+            "dependencyFile": "setting_white_balance.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "setting_white_balance"
+        }
+    ], 
+    "currentStoryPathFile": "setting_white_balance.json", 
+    "id": "setting_white_balance"
+}

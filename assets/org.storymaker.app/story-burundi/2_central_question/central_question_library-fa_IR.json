@@ -1,0 +1,23 @@
+{
+    "title": "\u0633\u0648\u0627\u0644 \u0627\u0635\u0644\u06cc", 
+    "storyPathTemplateFiles": {
+        "central_question": "central_question.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "central_question", 
+            "dependencyFile": "central_question.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "central_question"
+        }
+    ], 
+    "currentStoryPathFile": "central_question.json", 
+    "id": "central_question"
+}

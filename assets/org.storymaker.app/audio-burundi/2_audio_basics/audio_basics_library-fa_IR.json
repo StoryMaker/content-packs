@@ -1,0 +1,23 @@
+{
+    "title": "\u0627\u0635\u0648\u0644  \u06af\u0632\u0627\u0631\u0634 \u0635\u0648\u062a\u06cc", 
+    "storyPathTemplateFiles": {
+        "audio_basics": "audio_basics.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "audio_basics", 
+            "dependencyFile": "audio_basics.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "audio_basics"
+        }
+    ], 
+    "currentStoryPathFile": "audio_basics.json", 
+    "id": "audio_basics"
+}

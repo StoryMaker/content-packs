@@ -1,0 +1,273 @@
+{
+    "title": "Historias de ensayo fotogr\u00e1fico", 
+    "storyPathTemplateFiles": {
+        "t_photo_series_action": "t_photo_series_action.json", 
+        "t_photo_series_character": "t_photo_series_character.json", 
+        "t_photo_series_signature": "t_photo_series_signature.json", 
+        "t_photo_process": "t_photo_process.json", 
+        "t_photo_highlights": "t_photo_highlights.json", 
+        "t_photo_series_place": "t_photo_series_place.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "t_photo_highlights", 
+            "dependencyFile": "t_photo_highlights.json"
+        }, 
+        {
+            "dependencyId": "t_photo_series_character", 
+            "dependencyFile": "t_photo_series_character.json"
+        }, 
+        {
+            "dependencyId": "t_photo_series_place", 
+            "dependencyFile": "t_photo_series_place.json"
+        }, 
+        {
+            "dependencyId": "t_photo_series_action", 
+            "dependencyFile": "t_photo_series_action.json"
+        }, 
+        {
+            "dependencyId": "t_photo_series_signature", 
+            "dependencyFile": "t_photo_series_signature.json"
+        }, 
+        {
+            "dependencyId": "t_photo_process", 
+            "dependencyFile": "t_photo_process.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "tips": [
+                {
+                    "text": "Plant\u00e9ese entre 8 y 20 im\u00e1genes en su edici\u00f3n final. Tome m\u00e1s im\u00e1genes de las que planee usar.", 
+                    "tags": [
+                        "photo essay", 
+                        "after"
+                    ]
+                }, 
+                {
+                    "text": "Cada nueva imagen debe contener informaci\u00f3n nueva que haga avanzar su historia.", 
+                    "tags": [
+                        "photo", 
+                        "photo essay", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Incluso si s\u00f3lo utiliza una imagen en su historia, tome una gama de im\u00e1genes entre las que escoger.", 
+                    "tags": [
+                        "photo", 
+                        "photo essay", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Con\u00f3zcase a si mismo, est\u00e9 atento a sus sesgos, no permita que influencien c\u00f3mo retrata su historia.", 
+                    "tags": [
+                        "ethics", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Al grabar en situaciones peligrosas tenga siempre una estrategia de salida.", 
+                    "tags": [
+                        "security", 
+                        "photo", 
+                        "video", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Incluso si el tiempo es limitado, haga un plan, no grabe todo lo que ve.", 
+                    "tags": [
+                        "photo", 
+                        "video", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "C\u00e9ntrese en un \u00fanico tema dominante para contar una historia concisa y clara.", 
+                    "tags": [
+                        "journalism", 
+                        "story", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Preg\u00fantese a si mismo por cada corte: \u00bfme cuenta algo nuevo?", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Preg\u00fantese para cada corte de v\u00eddeo: \u00bfme cuenta algo nuevo sobre mi principal pregunta?", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ac\u00e9rquese tanto a su sujeto como sea posible.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Recuerde: El espectador no sabr\u00e1 nada acerca de su historia que usted no le muestre en la fotograf\u00eda.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u00bfIlustra su imagen el contexto?", 
+                    "tags": [
+                        "photo", 
+                        "after"
+                    ]
+                }, 
+                {
+                    "text": "Piense en la regla-de-los-tercios.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Preste atenci\u00f3n a los bordes de su encuadre, no s\u00f3lo al centro.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Alrededor de una buena fotograf\u00eda todo gira en torno a la luz. \u00bfEst\u00e1 usando la luz disponible de la mejor forma que puede?", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Simplemente cambiando el \u00e1ngulo de visi\u00f3n puede realizar una fotograf\u00eda mucho mejor.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "No se limite a tomar s\u00f3lo una fotograf\u00eda. Tome muchas. Experimente.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "No olvide obtener tomas de firma cuando sea posible.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Obtenga una variedad de im\u00e1genes -- planos cortos, planos medios y planos abiertos.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Las buenas fotograf\u00edas son sobre acci\u00f3n y drama en su punto \u00e1lgido. Elija sus momentos con eso en mente.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Para una serie, sus im\u00e1genes deben usar una composici\u00f3n tan id\u00e9ntica como sea posible.", 
+                    "tags": [
+                        "series", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Realizar su toma desde un \u00e1ngulo de visi\u00f3n sugerente puede mejorar mucho el retrato.", 
+                    "tags": [
+                        "series", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Una buena serie debe componerse de cinco im\u00e1genes con fuerza. Sin embargo, si tiene m\u00e1s tomas buenas, a\u00f1\u00e1dalas.", 
+                    "tags": [
+                        "series", 
+                        "after"
+                    ]
+                }
+            ], 
+            "type": "TipCollectionHeadlessCard", 
+            "id": "tip_collection"
+        }, 
+        {
+            "question": "\u00bfQu\u00e9 clase de historia est\u00e1 realizando?", 
+            "correctRequired": 1, 
+            "type": "QuizCard", 
+            "id": "quiz_card_topic", 
+            "choices": [
+                {
+                    "text": "Una historia de destacados", 
+                    "id": "t_photo_highlights"
+                }, 
+                {
+                    "text": "Una historia de proceso", 
+                    "id": "t_photo_process"
+                }, 
+                {
+                    "text": "Una serie de retratos", 
+                    "id": "t_photo_series_character"
+                }, 
+                {
+                    "text": "Una serie de lugares o construcciones", 
+                    "id": "t_photo_series_place"
+                }, 
+                {
+                    "text": "Una serie de acciones o actividades", 
+                    "id": "t_photo_series_action"
+                }, 
+                {
+                    "text": "Una serie de objetos", 
+                    "id": "t_photo_series_signature"
+                }
+            ]
+        }, 
+        {
+            "header": "Siguiente", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "M\u00e1s informaci\u00f3n"
+        }, 
+        {
+            "text": "Un foto ensayo es una historia contada a trav\u00e9s de un n\u00famero indeterminado de fotos relacionadas. Estas plantillas le guiar\u00e1n para obtener todas las fotos que necesita para contar una variedad de historias.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_photo_library::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "action": "LOAD", 
+            "references": [
+                "t_photo_library::quiz_card_topic::choice"
+            ], 
+            "type": "HookLoaderHeadlessCard", 
+            "id": "hook_loader_card"
+        }
+    ], 
+    "id": "t_photo_library"
+}

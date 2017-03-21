@@ -1,0 +1,38 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/audio-burundi/1_introduction_to_audio/introduction_to_audio_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-burundi/cover.png", 
+    "language": "ru", 
+    "title": "\u0410\u0443\u0434\u0438\u043e. \u0412\u0432\u0435\u0434\u0435\u043d\u0438\u0435"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-burundi/2_audio_basics/audio_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-burundi/cover.png", 
+    "language": "ru", 
+    "title": "\u041e\u0441\u043d\u043e\u0432\u044b \u0430\u0443\u0434\u0438\u043e"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-burundi/3_preparation/preparation_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-burundi/cover.png", 
+    "language": "ru", 
+    "title": "\u041f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0430"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-burundi/4_types_of_stories/types_of_stories_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-burundi/cover.png", 
+    "language": "ru", 
+    "title": "\u0422\u0438\u043f\u044b \u0441\u044e\u0436\u0435\u0442\u043e\u0432"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-burundi/5_storyboarding_recording_plan/storyboarding_recording_plan_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-burundi/cover.png", 
+    "language": "ru", 
+    "title": "\u0420\u0430\u0441\u043a\u0430\u0434\u0440\u043e\u0432\u043a\u0430 \u043f\u043b\u0430\u043d\u0430 \u0437\u0430\u043f\u0438\u0441\u0438"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-burundi/6_recording_tips_and_techniques/recording_tips_and_techniques_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-burundi/cover.png", 
+    "language": "ru", 
+    "title": "\u0417\u0430\u043f\u0438\u0441\u044c: \u0441\u043e\u0432\u0435\u0442\u044b \u0438 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 "
+  }
+]

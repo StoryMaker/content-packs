@@ -1,0 +1,23 @@
+{
+    "title": "Introducci\u00f3n al Audio", 
+    "storyPathTemplateFiles": {
+        "introduction_to_audio": "introduction_to_audio.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "introduction_to_audio", 
+            "dependencyFile": "introduction_to_audio.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "introduction_to_audio"
+        }
+    ], 
+    "currentStoryPathFile": "introduction_to_audio.json", 
+    "id": "introduction_to_audio"
+}

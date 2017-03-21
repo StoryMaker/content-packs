@@ -1,0 +1,152 @@
+{
+    "cards": [
+        {
+            "header": "Siguiente", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "Acerca de esta plantilla"
+        }, 
+        {
+            "text": "Esta plantilla le ayudar\u00e1 a capturar los mejores momentos en su historia. Las historias de destacados est\u00e1n estructuradas menos para ilustrar una clara l\u00ednea narrativa y m\u00e1s para mostrar los momentos cumbre o los aspectos m\u00e1s dram\u00e1ticos del tema. En v\u00eddeo, las historias de destacados habitualmente se transmiten por la narraci\u00f3n.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_video_highlights::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:08", 
+            "goals": [
+                "Muestre una localizaci\u00f3n o la comunidad de la que trata la historia."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "video", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "Muestre a los principales personajes de su historia."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "video", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:15", 
+            "goals": [
+                "Muestre algo que resuma la importancia de la historia."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "Muestre a los personajes inmersos en una actividad relevante para la historia."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:15", 
+            "goals": [
+                "Pida a un personaje relevante que hable sobre la historia."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "video", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "Muestre al personaje inmerso en una actividad relevante para la historia."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:15", 
+            "goals": [
+                "Pida a otro personaje relevante que hable sobre la historia."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Muestre algo que resuma o concluya la historia."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_3", 
+            "tags": [
+                "edit", 
+                "video", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_4", 
+            "tags": [
+                "narration"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_video_highlights", 
+    "title": "V\u00eddeo de destacados"
+}

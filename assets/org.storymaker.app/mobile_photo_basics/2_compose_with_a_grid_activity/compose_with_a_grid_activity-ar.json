@@ -1,0 +1,98 @@
+{
+    "title": "\u062a\u0645\u0631\u064a\u0646 \u0627\u0644\u062a\u0631\u0643\u064a\u0628 \u0628\u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u0627\u0644\u0625\u0637\u0627\u0631", 
+    "storyPathLibraryFile": "compose_with_a_grid_activity_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "know_your_mobile", 
+            "dependencyFile": "../1_know_your_mobile/know_your_mobile.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../3_create_layers/create_layers.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "level": "\u0645\u0628\u062a\u062f\u0626 |", 
+            "headline": "\u0627\u0644\u062a\u0631\u0643\u064a\u0628 \u0628\u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u0627\u0644\u0625\u0637\u0627\u0631 | \u062a\u0645\u0631\u064a\u0646", 
+            "time": "5-10 Minutes", 
+            "exampleMediaPath": "1.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "\u0627\u0644\u0631\u062c\u0648\u0639 \u0644\u0644\u062f\u0631\u0633", 
+            "link": "compose_with_a_grid::intro_card_0", 
+            "id": "link_card_0", 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "\u0627\u0644\u0622\u0646 \u0648 \u0642\u062f \u062a\u0639\u0644\u0651\u0645\u062a \u0645\u0627 \u064a\u062e\u0635 \u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u0627\u0644\u0625\u0637\u0627\u0631\u060c \u062d\u0627\u0646 \u0648\u0642\u062a \u0627\u0644\u062a\u0637\u0628\u064a\u0642.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "rule_of_thirds_icons.png", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u0625\u0630\u0627 \u0623\u0645\u0643\u0646\u060c \u0634\u063a\u0644 \u0627\u0644\u0625\u0637\u0627\u0631 \u0641\u064a \u0643\u0627\u0645\u064a\u0631\u0627 \u0627\u0644\u062c\u0647\u0627\u0632.", 
+            "exampleMediaPath": "rule_of_thirds_icons.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "\u0623\u062f\u0646\u0627\u0647 \u064a\u0648\u062c\u062f \u0628\u0637\u0627\u0642\u0629 \u0635\u0648\u0631\u0629. \u0627\u062e\u062a\u0631 \"\u0627\u0644\u062a\u0642\u0637\" \u0644\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0643\u0627\u0645\u064a\u0631\u0627 \u0648 \u0627\u0644\u062a\u0642\u0627\u0637 \u0635\u0648\u0631\u0629", 
+            "type": "HowToCard", 
+            "id": "howto_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:20", 
+            "goals": [
+                "\u0625\u0645\u0644\u0623 \u0643\u0627\u0645\u0644 \u0627\u0644\u0625\u0637\u0627\u0631 \u0648 \u0627\u0633\u062a\u0639\u0645\u0644 \u0627\u0644\u062e\u0637\u0648\u0637 \u0648 \u0646\u0642\u0627\u0637 \u0627\u0644\u0625\u0644\u062a\u0642\u0627\u0621 \u0641\u064a \u062a\u0631\u0643\u064a\u0628\u0643 \u0644\u0644\u0635\u0648\u0631\u0629."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "grid"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "\u0627\u0644\u062f\u0631\u0633 \u0627\u0644\u062a\u0627\u0644\u064a", 
+            "link": "create_layers::intro_card_0", 
+            "id": "link_card_1", 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "\u0627\u0644\u062f\u0631\u0633 \u0627\u0644\u0633\u0627\u0628\u0642", 
+            "link": "know_your_mobile::intro_card_0", 
+            "id": "link_card_2", 
+            "type": "LinkCard"
+        }
+    ], 
+    "id": "compose_with_a_grid_activity"
+}

@@ -1,0 +1,23 @@
+{
+    "title": "\u12e8\u1245\u1295\u1265\u122d \u1218\u1220\u1228\u1273\u12ca \u1290\u1325\u1266\u127d", 
+    "storyPathTemplateFiles": {
+        "composition_basics": "composition_basics.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "composition_basics", 
+            "dependencyFile": "composition_basics.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "composition_basics"
+        }
+    ], 
+    "currentStoryPathFile": "composition_basics.json", 
+    "id": "composition_basics"
+}

@@ -1,0 +1,23 @@
+{
+    "title": "\u12e8\u12ed\u12d8\u1275 \u12f5\u1228-\u1308\u133e\u127d ", 
+    "storyPathTemplateFiles": {
+        "content_sites": "content_sites.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "content_sites", 
+            "dependencyFile": "content_sites.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "content_sites"
+        }
+    ], 
+    "currentStoryPathFile": "content_sites.json", 
+    "id": "content_sites"
+}

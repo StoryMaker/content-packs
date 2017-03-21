@@ -1,0 +1,23 @@
+{
+    "title": "\u041f\u0440\u0438\u0435\u043c\u044b \u0438\u043d\u0442\u0435\u0440\u0432\u044c\u044e\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f", 
+    "storyPathTemplateFiles": {
+        "interview_techniques": "interview_techniques.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "interview_techniques", 
+            "dependencyFile": "interview_techniques.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "interview_techniques"
+        }
+    ], 
+    "currentStoryPathFile": "interview_techniques.json", 
+    "id": "interview_techniques"
+}

@@ -1,0 +1,105 @@
+{
+    "cards": [
+        {
+            "text": "# \u00bfC\u00f3mo me aseguro de que mi historia tiene una clara resoluci\u00f3n?\n## En esta lecci\u00f3n aprender\u00e1:  \n&bull; El prop\u00f3sito de una resoluci\u00f3n en su historia.\n&bull; C\u00f3mo la resoluci\u00f3n contin\u00faa desde el cl\u00edmax.  \n&bull; C\u00f3mo usar la resoluci\u00f3n para crear historias de noticias.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Las historias necesitan una estructura clara. Necesitan un comienzo, un desarrallo, y un final. Necesitan una cuesti\u00f3n central, una curva, y un cl\u00edmax. Tambi\u00e9n necesitan resoluci\u00f3n. La resoluci\u00f3n de una buena historia viene tras el cl\u00edmax. La resoluci\u00f3n es donde la audiencia descubre la consecuencia o efecto del cl\u00edmax. El cl\u00edmax normalmente implica una decisi\u00f3n o evento significativo. La resoluci\u00f3n es donde la audiencia conoce el resultado de esa decisi\u00f3n o evento.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Necesita estructurar su reportaje y su historia para proporcionar una resoluci\u00f3n. Tiene que mostrar el impacto o los resultados del cl\u00edmax. Esto podr\u00edan ser los resultados de una nueva pol\u00edtica que establece un impuesto m\u00e1s alto sobre el petr\u00f3leo. Podr\u00eda ser el resultado de recortes en la financiaci\u00f3n de las escuelas. Podr\u00eda ser el impacto de una nueva l\u00ednea de autob\u00fas que alcanza una comunidad anteriormente sin servicios.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Algunas veces necesitar\u00e1 aclarar que no hay resoluci\u00f3n \u2014 nada est\u00e1 cambiando como resultado de la historia y el cl\u00edmax. Por ejemplo, podr\u00eda hacer una historia acerca de un hospital pobremente gestionado en el que los administradores y las autoridades locales prometan que las cosas cambiar\u00e1n. Su cl\u00edmax es esa promesa o alguna ilustraci\u00f3n dram\u00e1tica del problema. Su resoluci\u00f3n podr\u00eda mostrar eso, de hecho, nada ha cambiado.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Los siguientes ejemplos se basan en la discusi\u00f3n de la Lecci\u00f3n 6.2 Cl\u00edmax.\n&bull; Cl\u00edmax: El pol\u00edtico es encontrado culpable de corrupci\u00f3n. Resoluci\u00f3n: \u00c9l se suicida.  \n&bull; Cl\u00edmax: S\u00f3lo 10 casas permanecieron en pie tras el hurac\u00e1n. Resoluci\u00f3n: Todos abandonan el pueblo, y se convierte en una localidad fantasma.  \n&bull; Cl\u00edmax: Los resultados de la prueba de ADN muestran que una celebridad no es el padre del hijo de una mujer. Resoluci\u00f3n: \u00c9l la demanda por difamaci\u00f3n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; La resoluci\u00f3n explica la consecuencia o el efecto del cl\u00edmax de su historia.  \n&bull; La resoluci\u00f3n debe cohesionar su historia, completando la curva que comienza con una pregunta central y contin\u00faa hacia el cl\u00edmax.  \n&bull; En un entorno de noticias su resoluci\u00f3n puede funcionar, no al final de la historia, sino para presentar el siguiente paso de su cobertura, por tanto exponiendo su siguiente cuesti\u00f3n central.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "En estas historias acerca del brote de sarampi\u00f3n en una comunidad, \u00bfcu\u00e1l de estas resoluciones da la continuidad apropiada a su cl\u00edmax? (podr\u00eda haber m\u00e1s de una respuesta).", 
+            "choices": [
+                {
+                    "text": "Cl\u00edmax: El cincuenta por ciento de los padres trajeron a sus hijos para que se vacunen contra el sarampi\u00f3n. Resoluci\u00f3n: La amenaza de que el sarampi\u00f3n se extienda a\u00fan contin\u00faa.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Cl\u00edmax: Todos los ni\u00f1os infectados en la comunidad se confinan en las casas hasta que dejen de ser infecciosos. Resoluci\u00f3n: La epidemia no se extiende, y los padres de la ciudad se convierten en heroes nacionales.", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "En estas historias acerca de una manifestaci\u00f3n en la plaza principal de la ciudad, \u00bfcu\u00e1l de estas resoluciones da continuidad apropiadamente a su cl\u00edmax? (puede haber m\u00e1s de una respuesta).", 
+            "choices": [
+                {
+                    "text": "Cl\u00edmax: Todos excepto un manifestante fueron liberados. Resoluci\u00f3n: Las manifestaciones continuan.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Cl\u00edmax. La presidenta rechaza dimitir. Resoluci\u00f3n: Ella es la segunda mujer presidenta del pa\u00eds.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Cl\u00edmax: La polic\u00eda se une a los manifestantes. Resoluci\u00f3n: Al ejercito se le ordena reemplazar a la polic\u00eda para defender el edificio del Parlamento.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "En estas historias acerca de un jugador de f\u00fatbol herido, \u00bfcu\u00e1l de estas resoluciones da la continuidad apropiada a su cl\u00edmax? (puede haber m\u00e1s de una respuesta).", 
+            "choices": [
+                {
+                    "text": "Cl\u00edmax: \u00c9l logra entrar en la selecci\u00f3n para el Mundial pero no juega ni un solo partido. Resoluci\u00f3n: Su equipo es descalificado del Mundial.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Cl\u00edmax: \u00c9l se retira de la pr\u00e1ctica del f\u00fatbol. Resoluci\u00f3n: Su esposa le abandona.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Cl\u00edmax: El otro club le compra por la mitad de la tarifa original. Resoluci\u00f3n: \u00c9l pierde sus contratos publicitarios.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "resolution", 
+    "title": "Resoluci\u00f3n"
+}

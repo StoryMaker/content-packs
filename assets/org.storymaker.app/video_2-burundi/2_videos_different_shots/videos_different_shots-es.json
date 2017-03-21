@@ -1,0 +1,274 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "\u00bfCu\u00e1les son los distintos tipos de planos en v\u00eddeo?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; C\u00f3mo contar historias en v\u00eddeo usando diferentes tama\u00f1os de plano.\n&bull; Qu\u00e9 son los cortes principales necesarios para contar una gran historia en v\u00eddeo.\n&bull; C\u00f3mo maneja StoryMaker diferentes tipos de planos.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "![Ejemplo de plano amplio que proporciona una noci\u00f3n clara de la localizaci\u00f3n](2.png)  \nUn plano exitoso es m\u00e1s que un plano bien-compuesto. Un buen plano proporciona informaci\u00f3n espec\u00edfica que hace avanzar la historia. Cada tipo de plano tiene objetivos espec\u00edficos que conseguir a los que se adapta mejor. Puede que sea capaz de exponer su localizaci\u00f3n con otros tipos de plano, pero el plano amplio (general) es la opci\u00f3n m\u00e1s f\u00e1cil de hacerlo con \u00e9xito. Por ejemplo, en los planos amplios filmados muy lejos de un sujeto, esta distancia a menudo proporciona una imagen clara del \u00e1rea alrededor del sujeto, que es la raz\u00f3n por la que es efectivo para describir la localizaci\u00f3n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![](3.png)  \nCada tipo de plano tiene un objetivo que tambi\u00e9n responde a una cuesti\u00f3n espec\u00edfica acerca de la historia.  \n![](4.png)  \n![](5.png)  \n![](6.png)  \n![](7.png)  \n![](8.png)  \nAl grabar una gama completa de tipos de planos, se puede permitir centrarse en una parte distinta de la historia con cada plano, y como en grupo le contar\u00e1n una historia completa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "## Plano amplio", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "9.mp4", 
+                    "media_caption": "Examples of a wide shot."
+                }
+            ], 
+            "header": "Planos amplios", 
+            "exampleMediaPath": "9.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Los planos amplios muestran la localizaci\u00f3n o escena donde la historia tiene lugar. Los planos amplios t\u00edpicamente se usan una vez en una escena, normalmente al principio. \nSi usa planos amplios varias veces, deber\u00eda estar mostrando un cambio dr\u00e1stico para la localizaci\u00f3n. Por ejemplo, de una plaza vac\u00eda de una ciudad a una plaza llena, es un uso exitoso de los dos planos con localizaci\u00f3n. Adicionalmente puede usar nuevos planos amplios para indicar un cambio de localizaci\u00f3n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "## Plano largo", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "10.mp4", 
+                    "media_caption": "Examples of a Long shot."
+                }
+            ], 
+            "header": "Planos largos", 
+            "exampleMediaPath": "10.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Los planos largos muestran c\u00f3mo interact\u00faan los personajes con la localizaci\u00f3n. Muestran al personaje involucrado en la acci\u00f3n, o en el resultado de la acci\u00f3n. \nEl mejor uso de los planos largos es destacar las acciones del personaje, y pueden ser efectivos para incluir m\u00faltiples personajes.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## Plano medio", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "11.mp4", 
+                    "media_caption": "Examples of a Medium shot."
+                }
+            ], 
+            "header": "Planos medios", 
+            "exampleMediaPath": "11.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Los planos medios ayudan a la audiencia a centrarse por completo en uno o dos personajes, y pueden no proporcionar una noci\u00f3n del la localizaci\u00f3n. \nLos planos medios son buenos para mostrar el lenguaje corporal del personaje. Un espacio de cabecera apropiado y una fuerte l\u00ednea de los ojos son importantes para usar planos medios de forma efectiva.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## Plano corto", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "12.mp4", 
+                    "media_caption": "Examples of a Close up shot."
+                }
+            ], 
+            "header": "Planos cortos", 
+            "exampleMediaPath": "12.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Los planos cortos fuerzan a la audiencia a centrarse enteramente en un \u00fanico personaje y enfatizar la emoci\u00f3n de este. \nNo se preocupe acerca de incorporar el entorno en los planos cortos. Preste especial atenci\u00f3n a los ojos de su sujeto, y conc\u00e9ntrese en capturar la emoci\u00f3n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "## Plano detalle", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "13.mp4", 
+                    "media_caption": "Examples of a Detail shot."
+                }
+            ], 
+            "header": "Planos detalle", 
+            "exampleMediaPath": "13.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "Los planos detalle exponen un detalle de inter\u00e9s, a menudo centr\u00e1ndose por completo en una acci\u00f3n o un objeto importante. \nEncuadre planos detalle para los detalles espec\u00edficos que quiera; deje fuera todo lo dem\u00e1s. Las manos de un sujeto normalmente son un buenas para comenzar, especialmente cuando realizan una acci\u00f3n. El mejor uso de los planos detalle es destacar detalles que se pierden en planos m\u00e1s amplios.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "text": "## Planos y cortes de StoryMaker  \nStoryMaker toma el concepto est\u00e1ndar tipos de planos de v\u00eddeo, y los trata de forma ligeramente diferente. StoryMaker divide los planos en base a c\u00f3mo se usan en la historia, y algunos cortes pueden usar m\u00faltiples tipos de plano. Estos tipos de corte son:  \nLugar: Un corte de lugar est\u00e1 encuadrado un plano largo, amplio o detalle, e intenta establecer d\u00f3nde ocurre la historia. \nPersonaje: Un corte de personaje est\u00e1 encuadrado como un plano corto o medio. Puede ser una respuesta espec\u00edfica de un personaje a una pregunta, o un personaje diciendo algo sobre si mismo, etc.  \nAcci\u00f3n: Un corte de acci\u00f3n est\u00e1 encuadrado como un plano largo, medio o detalle. Debe ser claro en representar una acci\u00f3n siendo realizada.\nResultado: Un corte de resultado es similar a uno de acci\u00f3n, pero m\u00e1s cercano, para representar los resultados. Este debe encuadrarse como un plano detalle o medio.  \nFirma: Un corte de firma lo m\u00e1s habitual es que se encuandre como un plano detalle. Los cortes de firma pretenden enfatizar un punto clave de su historia.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; A veces ver\u00e1 una pel\u00edcula de gran presupuesto que tiene un trabajo de c\u00e1mara tembloroso, y a veces ver\u00e1 un documental con un trabajo de c\u00e1mara complejo e intrincado.  \n&bull; Las reglas de la narraci\u00f3n visual se aplican a cualquier g\u00e9nero, al margen de d\u00f3nde se proyecte o cu\u00e1nta gente sea necesaria para producirla.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_14"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfC\u00f3mo ayudo a asegurar que mis planos sean exitosos?", 
+            "choices": [
+                {
+                    "text": "Mueva mucho el plano alrededor.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Hacer que todos los planos parezcan el mismo.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Cualquier plano que tenga buen aspecto es exitoso.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Dele una un objetivo a su plano.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfCu\u00e1ntos objetivos deber\u00eda intentar lograr con un plano?", 
+            "choices": [
+                {
+                    "text": "0", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "1", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "4", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "12", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfCu\u00e1l es el objetivo de una plano largo?", 
+            "choices": [
+                {
+                    "text": "Destacan los zapatos chulos de los personajes", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Muestra a los personajes de la historia interactuando con la localizaci\u00f3n.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Retratan el corte de pelo del personaje.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Muestran el pa\u00eds del que proviene el sujeto", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfEn qu\u00e9 plano debe prestar una especial atenci\u00f3n a los ojos de su sujeto?", 
+            "choices": [
+                {
+                    "text": "Plano largo", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Plano medio", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Plano corto", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Plano detalle", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "videos_different_shots", 
+    "title": "Distintos planos de v\u00eddeo"
+}

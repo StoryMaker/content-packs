@@ -1,0 +1,32 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-mena/1_introduction_to_journalism/introduction_to_journalism_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-mena/cover.png", 
+    "language": "am", 
+    "title": "\u130b\u12dc\u1320\u129d\u1290\u1275\u1361- \u1218\u130d\u1262\u12eb"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-mena/2_social_media_basics/social_media_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-mena/cover.png", 
+    "language": "am", 
+    "title": "\u12e8\u121b\u1205\u1260\u122b\u12ca \u121a\u12f2\u12eb \u1218\u1220\u1228\u1273\u12ca \u1290\u1325\u1266\u127d"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-mena/3_reporting_basics/reporting_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-mena/cover.png", 
+    "language": "am", 
+    "title": "\u12e8\u12d8\u1308\u1263 \u1218\u1220\u1228\u1273\u12ca \u1290\u1325\u1266\u127d"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-mena/4_selecting_and_verifying_sources/selecting_and_verifying_sources_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-mena/cover.png", 
+    "language": "am", 
+    "title": "\u121d\u1295\u132e\u127d\u1295 \u1218\u121d\u1228\u1325 \u12a5\u1293 \u121b\u1228\u130b\u1308\u1325 "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-mena/5_interview_techniques/interview_techniques_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-mena/cover.png", 
+    "language": "am", 
+    "title": "\u12e8\u1243\u1208 \u1218\u1320\u12ed\u1245 \u1274\u12ad\u1292\u12ae\u127d "
+  }
+]

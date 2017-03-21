@@ -1,0 +1,23 @@
+{
+    "title": "Maxxansa Booda", 
+    "storyPathTemplateFiles": {
+        "post_production": "post_production.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "post_production", 
+            "dependencyFile": "post_production.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "post_production"
+        }
+    ], 
+    "currentStoryPathFile": "post_production.json", 
+    "id": "post_production"
+}

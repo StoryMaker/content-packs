@@ -1,0 +1,20 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/learning_guide/learning_guide_1/learning_guide_1_library.json", 
+    "thumbnailPath": "org.storymaker.app/learning_guide/cover.jpg", 
+    "language": "om", 
+    "title": "Qabiyyeewwan Bu'uuraa Seenaa Baradhu"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/learning_guide/learning_guide_2/learning_guide_2_library.json", 
+    "thumbnailPath": "org.storymaker.app/learning_guide/cover.jpg", 
+    "language": "om", 
+    "title": "Seenaakeetti Gadi Fageenya Dabalataa Dabali"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/learning_guide/learning_guide_3/learning_guide_3_library.json", 
+    "thumbnailPath": "org.storymaker.app/learning_guide/cover.jpg", 
+    "language": "om", 
+    "title": "Seenaa Gaaffii Ijoon Himi"
+  }
+]

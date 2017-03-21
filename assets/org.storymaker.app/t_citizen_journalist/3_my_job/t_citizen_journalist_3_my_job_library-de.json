@@ -1,0 +1,23 @@
+{
+    "title": "Welchen Beruf arbeiten Sie ?", 
+    "storyPathTemplateFiles": {
+        "t_citizen_journalist_3_my_job": "t_citizen_journalist_3_my_job.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "t_citizen_journalist_3_my_job", 
+            "dependencyFile": "t_citizen_journalist_3_my_job.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "t_citizen_journalist_3_my_job"
+        }
+    ], 
+    "currentStoryPathFile": "t_citizen_journalist_3_my_job.json", 
+    "id": "t_citizen_journalist_3_my_job_library"
+}

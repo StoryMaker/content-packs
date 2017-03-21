@@ -1,0 +1,242 @@
+{
+    "title": "\u12a8\u1270\u1208\u12e8 \u12a0\u1295\u130d\u120d \u12a0\u1295\u1233", 
+    "storyPathLibraryFile": "shoot_on_an_angle_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action", 
+            "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
+        }, 
+        {
+            "dependencyId": "shoot_on_an_angle_activity", 
+            "dependencyFile": "../5_shoot_on_an_angle_activity/shoot_on_an_angle_activity.json"
+        }, 
+        {
+            "dependencyId": "control_light", 
+            "dependencyFile": "../6_control_light/control_light.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "level": "\u1218\u130d\u1262\u12eb |", 
+            "headline": "\u12a8\u1270\u1208\u12e8 \u12a0\u1295\u130d\u120d \u12a0\u1295\u1233", 
+            "time": "3-5 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "\u12a0\u1265\u12db\u129b\u12cd\u1295 \u130a\u12dc \u134e\u1276\u130d\u122b\u134d \u12a0\u1295\u123a\u12ce\u127d \u134e\u1276 \u12a8\u121a\u12eb\u1290\u1231\u1275 \u1230\u12cd \u134a\u1275 \u1246\u1218\u12cd \u1265\u127b \u134e\u1276 \u121b\u1295\u1233\u1275 \u12ed\u1300\u121d\u122b\u1209\u1362 \u12ed\u1205 \u12ad\u134d\u1208 \u1275\u121d\u1205\u122d\u1275 \u1240\u120d\u1265\u1295 \u12e8\u121a\u1308\u12d9 \u134e\u1276\u12ce\u127d\u1295 \u1208\u121b\u1295\u1233\u1275 \u12a0\u1295\u130d\u120d\u12ce\u1295 \u12a5\u1295\u12f4\u1275 \u1218\u1240\u12eb\u12e8\u122d \u12a5\u1295\u12f3\u1208\u1265\u12ce\u1275 \u12eb\u1233\u12ed\u12ce\u1273\u120d\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "header": "\u1240\u1325\u120d", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "milestone_start", 
+            "text": "\u1300\u121d\u122d "
+        }, 
+        {
+            "text": "\u1320\u1295\u12ab\u122b \u134e\u1276\u130d\u122b\u134e\u127d\u1295 \u1208\u121b\u1295\u1233\u1275 \u134e\u1276 \u1270\u1290\u123a\u12cd\u1295 \u1218\u1233\u132d \u12a8\u1206\u1291 \u12a0\u1295\u130d\u120e\u127d\u1295 \u12eb\u1295\u1231\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u12a8\u12dd\u1245\u1270\u129b \u12a0\u1295\u130d\u120d \u121b\u1295\u1233\u1275 \u134e\u1276 \u12e8\u121a\u1290\u1233\u12cd\u1295 \u1230\u12cd \u12ed\u1260\u120d\u1325 \u1283\u12eb\u120d \u120a\u12eb\u1235\u1218\u1235\u1208\u12cd \u12ed\u127d\u120b\u120d\u1362", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "\u12a0\u1295\u12f5\u1295 \u1308\u1338 \u1263\u1205\u122a \u12c8\u12ed\u121d \u1266\u1273 \u134e\u1276 \u1260\u121a\u12eb\u1290\u1221\u1260\u1275 \u12c8\u1245\u1275 \u12e8\u1270\u1208\u12eb\u12e9 \u12a0\u1295\u130d\u120e\u127d\u1295 \u12ed\u121e\u12ad\u1229\u1362 \u12a8\u134d \u12eb\u1208 \u12a0\u1295\u130d\u120d \u12e8\u121a\u1230\u1320\u12cd \u12cd\u1324\u1275 \u12dd\u1245 \u12eb\u1208 \u12a0\u1295\u130d\u120d \u12a8\u121a\u1230\u1320\u12cd \u1260\u1323\u121d \u12e8\u1270\u1208\u12e8 \u1290\u12cd\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u1260\u1325\u1242\u1271 \u12a8\u134d \u12eb\u1208 \u12a0\u1295\u130d\u120d \u1235\u1208 \u1275\u12a5\u12ed\u1295\u1271 \u1218\u1228\u1303 \u1208\u1218\u1235\u1320\u1275 \u120a\u1228\u12f3 \u12ed\u127d\u120b\u120d\u1362", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "\u134e\u1276\u1295 \u12ab\u120d\u1270\u1208\u1218\u12f0 \u12a0\u1295\u130d\u120d \u121b\u1295\u1233\u1275 \u12e8\u1273\u122a\u12ad\u12ce\u1295 \u12a0\u1295\u12f5 \u12e8\u1270\u1208\u12e8 \u12ed\u12d8\u1275 \u12a0\u1309\u120d\u1276 \u1208\u121b\u1233\u12e8\u1275 \u12ed\u1228\u12f3\u120d\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "4.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u12ed\u1205 \u121d\u1235\u120d \u12e8\u127c\u12dd \u1320\u1320\u122d \u120b\u12ed \u1260\u121b\u1270\u12ae\u122d \u1273\u122a\u12a9\u1295 \u12f5\u122b\u121b\u12ca \u1260\u1206\u1290 \u1218\u1295\u1308\u12f5 \u12ed\u1308\u120d\u133b\u120d\u1362", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "4.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "\u1260\u1323\u121d \u12a8\u134d \u12eb\u1208 \u12a0\u1295\u130d\u120d \u1219\u1209 \u1275\u12a5\u12ed\u1295\u1271\u1295 \u1260\u12a0\u1295\u12f5 \u121d\u1235\u120d \u1208\u1218\u1233\u1233\u12e8\u1275 \u12ed\u122b\u12f3\u120d\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "5.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u1208\u12e8\u1275 \u12ab\u1209 \u12a0\u1295\u130d\u120e\u127d \u121b\u1295\u1233\u1275 \u1273\u122a\u12ad\u12ce\u1295 \u1260\u121a\u1235\u1265 \u12a5\u1293 \u1348\u1320\u122b \u1260\u1273\u12a8\u1208\u1260\u1275 \u1218\u1295\u1308\u12f5 \u1208\u121b\u1245\u1228\u1265 \u120a\u1228\u12f3\u12ce\u1275 \u12ed\u127d\u120b\u120d\u1362", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "5.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "\u1270\u1328\u121b\u122a \u121d\u1233\u120c\u12ce\u127d \u12ed\u1218\u120d\u12a8\u1271", 
+            "header": "\u1240\u1325\u120d", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_examples_start", 
+            "icon": "down"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_1.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u121d\u1233\u120c 1", 
+            "references": [
+                "shoot_on_an_angle::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_1.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u121d\u1233\u120c 2", 
+            "references": [
+                "shoot_on_an_angle::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u121d\u1233\u120c 3 ", 
+            "references": [
+                "shoot_on_an_angle::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "text": "\u12a5\u1295\u12b3\u1295 \u12f0\u1235 \u12a0\u1208\u12ce\u1275! \u134e\u1276\u130d\u122b\u134d\u1295 \u12a8\u1270\u1208\u12e8 \u12a0\u1295\u130d\u120d \u1208\u121b\u1295\u1233\u1275 \u1218\u12a8\u1270\u120d \u12eb\u1209\u1265\u12ce\u1275\u1295 \u1218\u1220\u1228\u1273\u12ca \u12a5\u122d\u121d\u1303\u12ce\u127d \u1270\u121d\u1228\u12cb\u120d\u1362 \u12a0\u12f2\u1236\u1279\u1295 \u12ad\u1205\u120e\u1276\u127d\u12ce\u1295 \u12a8\u12da\u1205 \u1260\u1273\u127d \u1260\u1270\u1230\u1321 \u1218\u120d\u1218\u1303\u12ce\u127d \u12eb\u12f3\u1265\u1229\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "\u1218\u120d\u1218\u1303\u12cd\u1295 \u1235\u122b", 
+            "link": "shoot_on_an_angle_activity::intro_card_0", 
+            "id": "link_card_0", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "\u1240\u1323\u12ed \u1275\u121d\u1205\u122d\u1275", 
+            "link": "control_light::intro_card_0", 
+            "id": "link_card_1", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "\u12e8\u1240\u12f0\u1218 \u1275\u121d\u1205\u122d\u1275 ", 
+            "link": "capture_peak_action::intro_card_0", 
+            "id": "link_card_2", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }
+    ], 
+    "id": "shoot_on_an_angle"
+}

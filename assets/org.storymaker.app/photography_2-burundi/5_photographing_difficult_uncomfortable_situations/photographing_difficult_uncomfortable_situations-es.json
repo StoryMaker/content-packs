@@ -1,0 +1,211 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "\u00bfQu\u00e9 hacer si alguien es reticente a ser fotografiado o las circunstancias son emocionalmente dif\u00edciles para el sujeto o para usted mismo?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; C\u00f3mo fotografiar temas dif\u00edciles o sensibles.  \n&bull; C\u00f3mo reconocer cu\u00e1ndo su cobertura hace que la gente se incomode o pueda ponerle en riesgo.  \n&bull; C\u00f3mo reconocer su propio sesgo en su cobertura fotogr\u00e1fica.  \n&bull; C\u00f3mo trabajar con seguridad como fot\u00f3grafo.  \n&bull; C\u00f3mo decidir la mejor manera de representar un tema dif\u00edcil en una fotograf\u00eda..", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "A la gente no le gusta que le tomen fotos. Cuanto m\u00e1s dif\u00edcil es la circunstancia de la historia, m\u00e1s dif\u00edcil es conseguir una fotograf\u00eda. Nuestros propios sesgos e inversi\u00f3n emocional en una historia pueden dificultar hacer buenas elecciones acerca de la toma de fotograf\u00edas.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Si vive en la comunidad en la que est\u00e1 realizando la cobertura, hay algunos desaf\u00edos singulares como:  \n&bull; \u00bfDebe tomar fotograf\u00edas de la gente si ellos no quieren?  \n&bull; \u00bfDebe publicar im\u00e1genes muy expl\u00edcitas de violencia y muerte?  \n&bull; \u00bfDebe ayudar a alguien que est\u00e1 herido o fotografiarle?  \nCualquier fotoperiodista debe hacer estas elecciones por si mismo dentro de los l\u00edmites profesionales y \u00e9ticos que permite la deontolog\u00eda del periodismo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "## Haga que la gente se sienta c\u00f3moda   \nEn situaciones de noticias urgentes, los periodistas normalmente est\u00e1n trabajando fren\u00e9ticamente y tienen poco tiempo para construir un entendimiento. Pero, cuando realiza tomas para historias sobre eventos, asuntos o perfiles, tiene que realizar un acercamiento previo. Explicar c\u00f3mo se usar\u00e1 la foto. Contar a la gente un poco acerca de usted. Hablarles manteniendo una conversaci\u00f3n. Todas estas cosas pueden ayudarle a conseguir una foto de personas que son rehacias a ser fotografiadas. Puede que encuentre que usar un smartphone hace que la gente est\u00e9 m\u00e1s c\u00f3moda, mientras que otros puede que le tomen menos en serio.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## Minimizar el da\u00f1o hacia usted mismo y hacia otros", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "3.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Entrevista con un fot\u00f3grafo experimentado en retrartar a aquellos afectados por la tragedia o el sufrimiento. ", 
+            "exampleMediaPath": "3.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "4.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Entrevista con un fot\u00f3grafo experimentado en retratar a aquellos afectados por la tragedia o el sufrimiento. ", 
+            "exampleMediaPath": "4.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Siempre debe ser sensible al impacto que la publicaci\u00f3n de im\u00e1genes tendr\u00e1 sobre las personas retratadas. Sea sensible cuando retrate a aquellos afectados por la tragedia o el sufrimiento, especialmente los ni\u00f1os y la gente sin experiencia con los medios de comunicaci\u00f3n. Los particulares tiene un mayor derecho a la privacidad que los oficiales p\u00fablicos y otros que buscan poder, influencia, o atenci\u00f3n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "## Realice tomas para tener opciones  \nIncluso si s\u00f3lo una imagen va a ser presentada acompa\u00f1ando una historia o art\u00edculo, querr\u00e1 una gama de im\u00e1genes entre las que elegir. En el caso del material de un asunto dif\u00edcil, las im\u00e1genes tienen que contar la historia de forma que representen fielmente la historia. No deben ser gratuitas. Al publicar im\u00e1genes expl\u00edcitas, los fot\u00f3grafos tienen que considerar a la audiencia, la importancia de la historia, y el impacto que las im\u00e1genes tendr\u00e1n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## Gestionar su propio sesgo", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "5.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Entrevista con un fot\u00f3grafo que detect\u00f3 su propio sesgo durante la realizaci\u00f3n de un encargo.", 
+            "exampleMediaPath": "5.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Con\u00f3zcase a si mismo. Est\u00e9 atento a sus propios sesgos y no permita que influencien c\u00f3mo retrata una situaci\u00f3n o asunto. Los buenos periodistas buscan capturar los elementos humanos universales de las historias. La humanidad no se define por fronteras nacionales, tribales, pol\u00edticas, o provinciales.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## Su propia seguridad", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "6.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Entrevista con un fot\u00f3grafo acerca de la realizaci\u00f3n de tomas en situaciones inseguras.", 
+            "exampleMediaPath": "6.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Algunas situaciones son dif\u00edciles de fotografiar porque son inseguras. No merece la pena resultar herido por ninguna fotograf\u00eda. Cuando realice tomas en situaciones peligrosas, tenga siempre preparada una salida estrat\u00e9gica. Sea consciente de que soldados y fuerzas de seguridad puede que no deseen ser fotografiados. Sea inteligente acerca de los riesgos.  \nLa salud mental tambi\u00e9n es parte de la seguridad.  \nS\u00f3lo usted puede decidir en relaci\u00f3n a sus limitaciones. S\u00f3lo usted puede decidir si debe bajar su c\u00e1mara y ayudar, y cu\u00e1ndo. Tomar\u00e1 decisiones mucho mejores si piensa en clave de sus propios valores antes de encontrarse a si mismo en una situaci\u00f3n de gran-presi\u00f3n que requiera tomar una decisi\u00f3n al instante.\nUsar un smartphone puede animarle a tomar mayores riesgos, al creerse menos notorio que los c\u00e1maras que portan grandes instrumentos. Tenga cuidado, no subestime su nivel de riesgo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR \n&bull; Explique su historia a sus sujetos.  \n&bull; Trabaje para hacer que las gente est\u00e9 m\u00e1s c\u00f3moda con el proceso.  \n&bull; Sea especialmente sensible en torno a la tragedia.  \n&bull; Sea equilibrado en su cobertura, no importa cu\u00e1les sean sus propios sentimientos.\n&bull; Su propia seguridad va primero.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfQu\u00e9 tipo de cosas puede hacer para lograr que los sujetos que son rehacios a ser fotografiados est\u00e9n m\u00e1s c\u00f3modos con la idea?", 
+            "choices": [
+                {
+                    "text": "Explicarles c\u00f3mo se van a usar las fotos.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Se\u00f1alar que es una oportunidad para ellos para expresarse sobre un asunto que podr\u00eda resultarles importante.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Negocie un poco acerca de c\u00f3mo se realizar\u00e1 la foto y c\u00f3mo se usar\u00e1 en su caso.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todo lo anterior.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Verdadero o Falso: Est\u00e1 bien tener una agenda basada en sus propios puntos de vista pol\u00edticos o personales al decidir c\u00f3mo cubrir un evento.", 
+            "choices": [
+                {
+                    "text": "Verdadero", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falso", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "Cu\u00e1l de las siguientes es importante tener en cuenta al realizar tomas en circunstancias dif\u00edciles (puede ser m\u00e1s de una).", 
+            "choices": [
+                {
+                    "text": "Un fot\u00f3grafo tiene que ser sensible a los derechos de los ciudadanos particulares al hacer su fotograf\u00eda.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Debe ser consciente de su propia seguridad personal.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "No tomar fotograf\u00edas que sean expl\u00edcitas y puedan molestar a alguien.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todo lo anterior.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "photographing_difficult_uncomfortable_situations", 
+    "title": "Fotografiar situaciones dif\u00edciles e inc\u00f3modas"
+}

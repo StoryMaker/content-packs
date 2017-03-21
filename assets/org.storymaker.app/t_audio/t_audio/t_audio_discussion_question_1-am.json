@@ -1,0 +1,134 @@
+{
+    "cards": [
+        {
+            "header": "\u1240\u1325\u120d", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "\u12ed\u1205\u1295 \u12a0\u1265\u1290\u1275 \u1260\u1270\u1218\u1208\u12a8\u1270"
+        }, 
+        {
+            "text": "\u12cd\u12ed\u12ed\u1276\u127d \u12e8\u121a\u12eb\u1320\u1290\u1325\u1291\u1275 \u1265\u12d9 \u1230\u12ce\u127d\u1295 \u1270\u1218\u1233\u1233\u12ed \u1325\u12eb\u1244\u12ce\u127d\u1295 \u1260\u1218\u1320\u12e8\u1245 \u12d9\u122a\u12eb \u1290\u12cd\u1362 \u12ed\u1205 \u12a0\u1265\u1290\u1275 \u1260\u122d\u12ab\u1273 \u1230\u12ce\u127d\u1295 \u1235\u1208 \u12a0\u1295\u12f5 \u130d\u1208\u1230\u1265 \u121d\u1295 \u12a0\u12ed\u1290\u1275 \u12a0\u1235\u1270\u12eb\u12e8\u1275 \u12a5\u1295\u12f3\u120b\u1278\u12cd \u12ed\u1320\u12ed\u1243\u120d\u1362 \u12cd\u12ed\u12ed\u1276\u127d \u1260\u12ed\u1260\u120d\u1325 \u12e8\u121a\u12eb\u1308\u1208\u130d\u1209\u1275 \u1275\u120d\u1245 \u1263\u1205\u120b\u12ca \u12a5\u1293 \u121b\u1205\u1260\u122b\u12ca \u1266\u1273 \u1235\u120b\u120b\u1278\u12cd \u1308\u1338 \u1263\u1205\u122a\u12ce\u127d \u12a0\u1235\u1270\u12eb\u12e8\u1276\u127d\u1295 \u1208\u1218\u1265\u1230\u1265 \u1290\u12cd\u1362 \u1208\u12a5\u122d\u1235\u12ce \u1260\u1270\u123b\u1208 \u12ed\u1235\u122b\u1209 \u1265\u1208\u12cd \u12ab\u1230\u1261 \u12a0\u121b\u122b\u132d \u1325\u12eb\u1244\u12ce\u127d\u1295 \u12a8\u1218\u1320\u1240\u121d \u12c8\u12f0 \u128b\u120b \u12a0\u12ed\u1260\u1209\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_audio_discussion_question_1::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "audio", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "\u1208\u1308\u1338 \u1263\u1205\u122a\u12ce \u12a0\u1235\u1348\u120b\u130a \u12e8\u1206\u1290 \u1235\u134d\u122b \u12f5\u121d\u133d \u12ed\u1245\u1228\u1339\u1362 "
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:07", 
+            "goals": [
+                "\u12c8\u12ed\u12ed\u1275\u12ce\u1295 \u12e8\u121a\u12eb\u1235\u1270\u12cb\u12cd\u1245 \u12f5\u121d\u133d \u12ed\u1245\u1228\u1339\u1362 "
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "text": " \\\u201c\u130d\u1208\u1230\u1261\\\u201d \u12e8\u121a\u120d \u133d\u1201\u134d \u1260\u121a\u12eb\u12e9\u1260\u1275 \u12c8\u1245\u1275 \u1260\u121a\u12eb\u1270\u12a9\u1229\u1260\u1275 \u130d\u1208\u1230\u1265 \u1235\u121d \u1218\u1270\u12ab\u1275 \u120a\u1296\u122d\u1265\u12ce\u1275 \u12ed\u127d\u120b\u120d\u1362 ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "\u12a5\u1295\u12f2\u1205 \u1265\u1208\u12cd \u12ed\u1320\u12ed\u1241\u1366 \u1235\u1208 \u130d\u1208\u1230\u1261 \u12eb\u1208\u12ce\u1275 \u12a0\u1235\u1270\u12eb\u12e8\u1275 \u121d\u1295\u12f5\u1295 \u1290\u12cd?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "\u12a5\u1295\u12f2\u1205 \u1265\u1208\u12cd \u12ed\u1320\u12ed\u1241\u1366 \u1235\u1208 \u130d\u1208\u1230\u1261 \u12eb\u1208\u12ce\u1275 \u12a0\u1235\u1270\u12eb\u12e8\u1275 \u121d\u1295\u12f5\u1295 \u1290\u12cd?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "\u12a5\u1295\u12f2\u1205 \u1265\u1208\u12cd \u12ed\u1320\u12ed\u1241\u1366 \u1235\u1208 \u130d\u1208\u1230\u1261 \u12eb\u1208\u12ce\u1275 \u12a0\u1235\u1270\u12eb\u12e8\u1275 \u121d\u1295\u12f5\u1295 \u1290\u12cd?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "\u12a5\u1295\u12f2\u1205 \u1265\u1208\u12cd \u12ed\u1320\u12ed\u1241\u1366 \u1235\u1208 \u130d\u1208\u1230\u1261 \u12eb\u1208\u12ce\u1275 \u12a0\u1235\u1270\u12eb\u12e8\u1275 \u121d\u1295\u12f5\u1295 \u1290\u12cd?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "\u12a5\u1295\u12f2\u1205 \u1265\u1208\u12cd \u12ed\u1320\u12ed\u1241\u1366 \u1235\u1208 \u130d\u1208\u1230\u1261 \u12eb\u1208\u12ce\u1275 \u12a0\u1235\u1270\u12eb\u12e8\u1275 \u121d\u1295\u12f5\u1295 \u1290\u12cd?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:09", 
+            "goals": [
+                "\u1235\u1208 \u130d\u1208\u1230\u1261 \u12e8\u1320\u12e8\u1241\u1260\u1275\u1295 \u1235\u134b\u122b \u12f5\u121d\u133d \u12ed\u1245\u1228\u1339\u1362"
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "edit", 
+                "audio", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_audio_discussion_question_1", 
+    "title": "\u1235\u1208 \u130d\u1208\u1230\u1261 \u12eb\u1208\u12ce\u1275 \u12a0\u1235\u1270\u12eb\u12e8\u1275 \u121d\u1295\u12f5\u1295 \u1290\u12cd? "
+}

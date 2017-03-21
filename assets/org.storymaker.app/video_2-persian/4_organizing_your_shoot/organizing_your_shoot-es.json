@@ -1,0 +1,151 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Organizar su sesi\u00f3n", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; C\u00f3mo grabar su v\u00eddeo eficientemente.\n&bull; C\u00f3mo crear una lista de tomas.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "S\u00f3lo raramente el v\u00eddeo se edita junto en el mismo orden en que fue grabado. Para usar el tiempo con efectividad y mantenerse organizado, tenga un plan claro antes de comenzar a grabar su historia. Una lista de todas las tomas que necesita en orden para ensamblar su historia es una gran forma de organizar este plan.  \n![](2.png)  \nPiense en la lista de tomas funcionando del mismo modo que la lista de la compra cuando va al mercado.  \nEs bastante \u00fatil anotar su historia en texto sencillo. Imagine todo los diferentes sujetos, las acciones que ocurrir\u00e1n, y cualquier otro elemento que piense que es importante grabar para mostrar su historia por completo. Es importante ser tan espec\u00edfico como sea posible.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## Anotarlo  \nUna vez tenga todos los elementos de su historia, puede comenzar imaginando las distintas tomas que necesita grabar. Este es un buen momento para revisar las cinco tomas b\u00e1sicas. Considere lo que cada una de ellas hace bien, y c\u00f3mo puede usarlas para englobar los diferentes elementos de la historia.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "### Lista de tomas  \n![](3.png)  \nEn un pedazo de papel, cree una lista de tres-columnas. La primera debe ser el \u201ctipo de toma\u201d, la segunda debe ser la \u201cdescripci\u00f3n\u201d, y la tercera debe ser los \u201celementos de la historia\u201d.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "### Rellenar los detalles  \n![](4.png)  \nRellene todas las tomas que crea que necesita. Sea espec\u00edfico, y no dude en anotar un mont\u00f3n de tomas. Esto es una gu\u00eda para ayudarle a centrarse cuando est\u00e9 grabando.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "Para cada toma, haga una lista del tipo de toma espec\u00edfico que cree que funcionar\u00e1 mejor. Rellene tanta descripci\u00f3n como pueda, y decida qu\u00e9 elementos de la historia necesita en cada encuadre. Sea tan espec\u00edfico como sea posible con toda esta informaci\u00f3n. Cuando est\u00e9 grabando, ser\u00e1 distra\u00eddo por otras actividades; planee tanto como sea posile antes de comenzar.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "Escriba toda esta informaci\u00f3n como si no fuera la persona que va a filmar. Si alguno adem\u00e1s de usted puede comprender las tomas que quiere, sabr\u00e1 que tiene una buena lista de ellas.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "StoryMaker facilita el objetivo de crear una lista de tomas al proporcionar cortes sugeridos en base a elecciones que realice en la pantalla de ganchos de la historia. Estos cortes sugeridos est\u00e1n definidos en base a temas comunes y formatos usados en historias de v\u00eddeo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "StoryMaker s\u00f3lo puede proporcionar cortes y elementos sugeridos de la historia. Considere crear su propia lista en un bloc de notas o una aplicaci\u00f3n m\u00f3vil de notas para asegurarse de valorar todas las opciones posibles para su historia \u00fanica.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "Seg\u00fan tenga m\u00e1s y m\u00e1s pr\u00e1ctica grabando historias, las listas de tomas llegar\u00e1n a ser m\u00e1s f\u00e1ciles de desarrollar.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Las listas de tomas son como el libro de notas de un artista; guarde sus ideas en ellas, pero cuando est\u00e9 disparando a menudo las cambiar\u00e1.  \n&bull; No se atasque en hacer que sus descripciones sean perfectas.  \n&bull; M\u00e1s ideas que menos a menudo es mejor para una lista de tomas; puede que no logre realizar todas las tomas de su lista.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "\u00bfQu\u00e9 constituye una lista de tomas?", 
+            "choices": [
+                {
+                    "text": "Meteorolog\u00eda", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Tipo de toma", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Descripci\u00f3n", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Elementos de la historia", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2", 
+                "answer_3", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfCu\u00e1ndo debo escribir una lista de tomas?", 
+            "choices": [
+                {
+                    "text": "Tan espec\u00edfico como sea posible", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Tan impreciso como sea posible.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Confuso.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ambiguo.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Verdadero o Falso: \u00bfes \u00fatil anotar su historia en texto sencillo?", 
+            "choices": [
+                {
+                    "text": "Verdadero", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falso", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "organizing_your_shoot", 
+    "title": "Organizar su sesi\u00f3n"
+}

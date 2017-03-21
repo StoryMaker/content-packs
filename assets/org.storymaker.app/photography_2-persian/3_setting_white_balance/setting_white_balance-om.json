@@ -1,0 +1,177 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Suuraakoo tokko tokkotti haalluu keellootu itti baayyate. Tokko tokko baayyee cuquliisaa'oodha. Rakkoonsaa maalidhaa, maal gochuun qabas?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Kutaa kana keessatti kan barattan:  \n&bull; Madaalli adii maal akka t'e.  \n&bull; Akka itti haalluu madaala adiitiin sirreessan.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Ijikee, sammuukee waliin walta'uudhaan, hubannaa haalluurratti qabdu sirreessuurratti hojii gaarii hojjetu. Haalluu madda ifaa baayyee keelloo ta'erra kan dhufu akka diimaatti, haalluu ml'ataa akka bifa burtukaan goochuudhaan hubachuu dandeessa. Ibsaan ifee jiru haalluu cuquluusa magariisa'aa yoo ta'eyyuu haalluu gogaa nama waraabduu ni hubatta.  \nKaameeraan dijitaalaa kan hin godhu. Teempireechera haalluu madda ifaa garagaraatiif sirreessuuf mijachuu qaba. Mijeessuun haalluu adiin wal bira qabamee madaalama. Kanaaf madaala adii jedhame.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![](2.png)  \n### Fakkeenya nama ifi ampuulii tangisten itti ifee  \nAmpuuliin tangisten teempireechera ifaa hoo'aa qabu, kan fakkichaaf haalluu keelloo kennan. \n![](3.png)  \n### Fakkeenya nama guyyaa duumessaa'aatti manaa ala jiruu\nIfa guyyaa duumessaan haguugame, guyyaan duumessaa teempireechera ifaa qabbanaa'aa qabu, kan fakkichaaf haalluu cuquliisa kennan. \n![](4.jpg)  \nMadda ifaa biroo \u2014 ifa aduu, ifa filooresentii, gaaddidduu \u2014 hunduu gidduutti kufu. CTeempireecherri haalluu hamma ifaa argatuun wal hin ilaallatu..", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Fayyadamni  haalluu gaariin barbaachisaadha. Suuricha suuraa dandeettii addaatiin ka'e fakkeessa. Bilbilli ammayyaa baayyeen sirreeffama duraa madaala adii garagaraa dhiyeessu.  \n![](5.png)  \n## Fakkeenya mallattoo filannoo madaala adii baratamaa  \nBilbillikee akka ati ofiikeen madaala sirreessitu yoo siif eyyame, sirreessi. Bilbillike qabduu yookan baafata madaala adii qabaachuu danda'uu. mallattoolee madda ifaa shan yookaan ja'aa siif dhiyeessa. Haala ati keessatti kaasaa jirtu caalmaatti kan ibsu filadhu.  \nBilbillikee dursitee madaala adii akka ati sirreessitu yoo siif hin eyyamu ta'e, Fayyadamoota qopheessuun boodaa fayyadamuudhaan haalluu sirreessuu dandeessa (kanarratti dabalataaf, kutaa kaasuun boodaa ilaali). Teempireecherri haallu sirrii miti yoo ta'e,maxxansuun dura sirreessuun BAAYYEE BARBAACHISAADHA.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![](6.png)  \n## AWB (madaala adii ofiinii)  \nBakka hundatti sirreffama kana fayyadami. Bilbilli hamma dandaa'ameef sirreeffama sirriii tilmaamuu yaala, garuu yoo kaameeraan sirriitti tilmaamuu dadhabe bu'aa gadhee dhiyeessa. Sirreeffama filattutti amanuu yoo dadhabde sirreeffama kana filachuu qabda.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![](7.png)  \n## Ifa guyyaa  \nYeroo manaa alatti kaastu sirreeffama kana fayyadmi. Sirreeffami kun fakkiikeef \"qabbanaa'aa\" yookaan haalluu xiqqoo cuquliisaa'aa kenna. Yeroo mana keessatti fayyadamtu, sirreeffami kun haalluu xiqqoo burtukaana'aa kenna.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![](8.png)  \n## Duumessaa'aa  \nSirreeffama kana manaa alatti fayyadami. Sirreeffami kun fakkii keetiif haalluu \"hoo'aa\" kenna. Kara teekinikaatiin madaala adiitiin filannoon ifa guyyaa sirriidha, sirreeffama duumessaa'aa fayyadamuun fakkiikee hawwataa godha. Yeroo mana keessatti kaastu, sirreeffami kun fakkiikeetiif haalluu burtukaanii cimaa godhata.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![](9.png)  \n## Ifa xiqqoo  \nYeroo mana keessa jirtu sirreeffama kana fayyadami, bakka kutaan ibsaa baratameen ifee jirutti. Yeroo manaa alatti ta'u, sirreeffami kun fakkiikee cuquliisessa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "![](10.png)  \n## Filooresentii  \nYeroo mana keessa jirtu sirreeffama kana fayyadami, bakka kutaan ibsaa ujummoo fakkaateen ifee jirutti. Yeroo manaa alatti ta'u, sirreeffami kun fakkiikee cuquliisessa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## WAANTOTA YAADATAMUU QABAN  \n&bull; Bu'aa gaarii argachuuf madaala ifaa hoogganuu qabda.  \n&bull; madda ifaa tokkorraa gara ifa biraatti yeroo waraabaa deemtu madaala ifaa sirreessaa deemi.  \n&bull; Sirreeffama madaala adii ati sirreessuun gaarii ta'a, garuu kan ofiin of sirreessus rakkoo hin qabu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Kamtu caalmaatti madaala ifaa ibsuu danda'a?", 
+            "choices": [
+                {
+                    "text": "Hamma ifaa seenserii tuqu.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Teempireechera haalluu ifaa seensera tuqu, baayyee hoo'aa (bifa keelloo) irraa gara qabbanaa'aa (cuquliisa).", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "haalluu barreeffama goodaayyaa.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Deebii hin qabu.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Dhugaa yookaan Soba: Yeroo siif mijatetti madaala ifaa kaameeraarraa yookaan erga kaastee yeroo hunda sirreessuu qabda.", 
+            "choices": [
+                {
+                    "text": "Dhugaa", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Soba", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "Akkamitti madaala ifaa kaameeraa bilbila ammayyaarraa yookaan kaameeraa ilaallatanii kaasanrraa hoogganuu dandeessa? (Tokkoo ol ta'uu danda'a)", 
+            "choices": [
+                {
+                    "text": "Haala haalluu ifaa keessatti kaasaa jirturratti akka siif mijatetti ofiikeetiin madaala ifaa sirreessi.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Akka gaazexeessitoota suur-sagaleetti waraqaa adii fayyadamtee mijeessuun yaada gaariidha.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Kaasuun booda mul'ina ifaa sirreessi.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Hunduu deebiidha.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "text": "![](11.jpg)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Fakkii olitti jirurratti akkamitti madaala ifaa sirreessita?", 
+            "choices": [
+                {
+                    "text": "Yeroo kaastutti sirreeffama madaala ifaakee 'filooresentiitti' jijjiiri.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Mul'ina ifaa sirreessi.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Haalluu keelloo itti dabaluudhaan teempireechera ifaa erga kaastee booda sirreessi.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Hunduu deebiidha.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "setting_white_balance", 
+    "title": "Madaala Adii Sirreessuu"
+}

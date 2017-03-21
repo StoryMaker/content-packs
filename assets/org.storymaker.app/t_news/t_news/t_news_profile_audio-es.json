@@ -1,0 +1,231 @@
+{
+    "cards": [
+        {
+            "header": "Siguiente", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "Acerca de esta plantilla"
+        }, 
+        {
+            "text": "Esta plantilla le ayudar\u00e1 a informar sobre un individuo que sea importante para su comunidad. Los clips sugeridos cubren los cortes de audio principales que necesitar\u00e1 para crear un perfil bien definido. T\u00f3mese la libertad de omitir cortes, o usar distintos cortes seg\u00fan necesite. Adicionalmente, adapte las preguntas sugeridas para ajustarse a sus necesidades.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_news_profile_audio::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "audio", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:14", 
+            "goals": [
+                "Grabe sonido de un lugar importante para su personaje."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:24", 
+            "goals": [
+                "Utilice su propia voz o pida a su personaje que se presente a si mismo."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Grabe audio de algo notable acerca de su personaje."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Grabe sonido de algo que haga su personaje que sea significativo."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "audio", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:15", 
+            "goals": [
+                "Grabe audio de su personaje completando la acci\u00f3n."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "Cu\u00e9ntenos por qu\u00e9 es interesante su personaje."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:40", 
+            "goals": [
+                "Pregunte: \u00bfPuede por favor contarnos un poco acerca de lo que hace?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "audio", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:40", 
+            "goals": [
+                "Grabe sonido de la parte m\u00e1s importante de la historia de su personaje."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:20", 
+            "goals": [
+                "Grabe sonido de su personaje interactuando con la gente."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "goals": [
+                "Grabe sonido de c\u00f3mo la gente responde al personaje."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_9"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:17", 
+            "goals": [
+                "Grabe sonido de lo que el personaje hace para divertirse."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_10"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:24", 
+            "goals": [
+                "Grabe sonido de algo importante para el personaje."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_11"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:40", 
+            "goals": [
+                "Pregunte: \u00bfPuede por favor hablarnos acerca de su futuro?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_12"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "Cu\u00e9ntenos lo siguiente que cree que le ocurrir\u00e1 a su personaje."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_13"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:14", 
+            "goals": [
+                "Grabe sonido del lugar donde su personaje finaliza la historia."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_14"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:08", 
+            "goals": [
+                "Grabe audio de su personaje al final de la historia."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_15"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_3", 
+            "tags": [
+                "audio", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_4", 
+            "tags": [
+                "audio"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_news_profile_audio", 
+    "title": "Informe de audio de un perfil"
+}

@@ -1,0 +1,23 @@
+{
+    "title": "\u12ab\u121c\u122b\u1295 \u12e8\u121a\u1218\u1208\u12a8\u1271 \u1218\u1230\u1228\u1273\u12ca \u1290\u1325\u1266\u127d ", 
+    "storyPathTemplateFiles": {
+        "camera_basics": "camera_basics.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "camera_basics", 
+            "dependencyFile": "camera_basics.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "camera_basics"
+        }
+    ], 
+    "currentStoryPathFile": "camera_basics.json", 
+    "id": "camera_basics"
+}

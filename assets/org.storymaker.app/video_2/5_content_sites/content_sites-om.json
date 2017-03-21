@@ -1,0 +1,197 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Faayidaan iddoola qabiyyee garagaraa jiran maal fa'i?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Kutaa kana keessatti kan ati barattu:  \n&bull; Garaagarummaa hujeeffannoo nagadaa fi kan nagadaa kan hin ta'ini.  \n&bull; Suur-sagaleekeetiif hujeeffannoo gaariin isa kam akka ta'e akka itti baran.  \n&bull; Addaddummaa hujeeffannoowwan suur-sagalee keessummeesan yartuu adda ba'an gidduu jiru.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "![](2.png)  \nHujeeffannoon raabsaa uumamaan, qabiyyee fi waan barbaadaniin. Yeroo bakka sur-sagaleekee keessu murteessitu filannoo kee bu'aa guddaa argachuuf yaadaan qabi.  \nIddoolli haaraan badaniiru kan turan keessaas kan guutummaa guutuutti badaniiru, kanaaf odeeffannoon kun karaa agarsiistuu qofadha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Iddola nagadaa suur-sagaleekee karaarrati maxxansuuf eyyaman dhibbaan lakkaa'amantu jira. Miidhaan hujeeffannoo iddolota nagadaa baayyee suur-sagaleekee biratti maxxanfamu. Iddoolota kana keessaa baayyeen akka cimdaa hawaasaa karaarraatti hojjetu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![](3.png)  \nBakka itti suur-sagalee haqa hawaasaa, naannoo, yookaan rakkoo mirga namoomaa irratti xiyyeeffate namaaf hiran kan bu'aarraa bilisa ta'e baayyeetu jira.  \nYeroo maxxansitu, waa'ee nageenyaa yaadaan qabi, kankee qofa utuu hin taane kan qaama suur-sagalicharra jiruus. Si'a tokko ol-keessee jennaan, akka balleesitu tasumaa beekuu hin dandeessu. Yoo qabiyyeenkee rakkoo keessa si buusuu danda'a ta'e, hamma yeroon inni itti si hin miine ga'utti eeguun gaarii ta'a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "# Iddoola nagadaa", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![](4.png)  \n### YouTube  \nYouTube - iddoola guddicha addunyaa kan ittiin suur-sagalee waliif hiran. Karaa nama baayyee bira ittiin ga'an isa gaariidha. Namni akka ilaaluuf beeksisa addaa qopheeffachuu hin irraanfatin. YouTube irra suur-sagalee baayyeetu jira, bakka biraatti nama biraan ga'uurra cimuu danda'a. Dabalataan, namoota iddola keerratti deebisuunis cimuu danda'a, fi  walii galtee fayyadamaa fayyadamuudhaanis beeksisakee irraa balleessa. Biyyoota tokko tokko keessatti cufameera.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![](5.png)  \n### Vimeo  \nVimeo'n walquunnama fayyadamaa salphaa kan qabuu fi qulqullina guddaadhaan suur-sagalee dabarsuuf hojii gaarii hojjeta. Hata'u malee,rakkoo suur-sagaleekee iddoola biraarratti geessuu fi barbaaduu qaba.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![](6.png)  \n### Facebook  \nYoo Facebook'iidhaan sagantaa addaa geggeessaa jiraatte, suur-sagalee iddolicharratti siruun baayyee gaarii ta'a. Suur-sagaleen ati Facbook'ii fayyadamuun maxxansitu, haa ta'u malee, mul'innisaa gareekeetti daanga'aa ta'a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "![](7.png)  \n### LiveLeak  \nLiveLeak yeroo tokko tokko iddoola waldhabaa haala yeroo, siyaasa, fi waan dhugaa ta'ee qabatame kan akka iddoo lolaa addunyaarraa bakka garagaraatii argamerratti xiyyeeffaya.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "# Iddoola nagadaa kan hin ta'in", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "![](8.png)  \n### Haddaarsaa Interneetii  \nArchive.org fiilmii dijitaalaa kumaan lakkaa'aman kan fiilmii guutuu ta'erraa kaasee oduu suur-sagaleedhaan darburraa dhimma hundumaa kan ilaallatu fayyadamtooti archive.org kan ol-kaa'an qabatee jira. Fiilmoti kun hundinoo nama itti fayyadamuu barbaadeef buusuun eyyamamaa ta'ee yeroo baayyee qulqullina guddaadhaan kan taa'uu fi sababa eyyama tola fayyadamuu qabuuf waantota garagaraa keessatti fayyadamuuf bakka gaariidha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "![](9.png)  \n### EngageMedia  \nEngageMedia'n walitti qabama dhaabbata bu'aa malee meeshaalee miidiyaa dura dhaabbattootaaf, qaama siyaasa geeggeessuuf, hawaasaaf, fi gaazexeessitoota lammiitiif dhiyeessyuudha. Rakkoo naannoo fi haqa hawaasaarratti suur-sagalee ol-kaa'uu fi kan jiru ilaaluu dandeessa. Xiyyeeffannoon isaanii naannoo paasifikii-eeshiyaarratti, garuu suur-sagaleen naannoo biraa ni simatama. EngageMedia'n haddaarsa karaarraa suur-sagalee of danda'aa eyyama qabiyyee banaatti fayyadamuudhaanii fi cimdaa kallattii warra suu-sagalee hojjetan, barsiisotaa fi dhaabbata gulaalu itti oomishamu qopheessuurratti xiyyeeffate. Qabiyyeen jiran baayyinaan afaan ingiliffaatiini, yartuunimmoo afaanota eeshiyaatiini.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "![](10.png)  \n### Iddoolota barbaachisoo kan biroo  \n&bull; uStream / LiveStream \u2014 tajaajila karaarra yaasuu  \n&bull; Transmission cc \u2014 pirojektii suur-sagalee karaarra cimdaa haqa-hawaasa dunyaalessaa \n&bull; Clearer Channel \u2014 pirojektii suur-sagalee karaarra kan hawaasa ilaalan akka buusanii fi namoota biraaf dabarsan jajjabeesu  \n&bull; IMC Video \u2014 miidiyaa dhuunfaa dunyaalessaa  \n&bull; dotSUB \u2014 iddoola fayyadamtootaaf carraa afaan garagaraatti suur-sagalee jalatti barreessuudhaan hiikuu namaaf kennudha.  \n&bull; Amara \u2014 iddoola fayyadamtootaaf carraa afaan garagaraatti suur-sagalee karaarraa bakka addaddaatti waraabame jalatti barreessuudhaan hiikuu namaaf kennudha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "Rakkoon You Tube'iin qabu kam fa'ii? (Deebii tokkoo ol qabaachuu danda'a.)", 
+            "choices": [
+                {
+                    "text": "Namoota iddola keetti deebisuun cimuu dabnda'a", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Waliigaltee fayyadamaa fayyadamuun suur-sagaleekee balleessa", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Bakka tokko tokkotti You Tube'iin cufamaadha", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Deebii hin qabu.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Suur-sagaleewwan Facebook irraa:", 
+            "choices": [
+                {
+                    "text": "Eenyuunuu hin ilaalamne", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Maatiikee qofatti agarsiifame", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Iddoolaarratti argama garee waliin walitti qabamteetiin daanga'ee jira.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Baayyee jaalatamuuf deemuu", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Iddoola kamtu qabiyyeessaa, yeroo baayyee qulqullina guddaadhaanii fi eyyama tolaatiin, tola akka buufattu eeyyama?", 
+            "choices": [
+                {
+                    "text": "Facebook", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Vimeo", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "YouTube", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Archive.org", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "Iddoola yookaan iddoolota kamfaatu suur-sagaleekee afaan garagaraatti jalatti barreessuudhaan siif jijjiiraa?", 
+            "choices": [
+                {
+                    "text": "DotSUB", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Amara", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Vimeo", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Dabarsa CC", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "content_sites", 
+    "title": "Iddoola Qabiyyee"
+}

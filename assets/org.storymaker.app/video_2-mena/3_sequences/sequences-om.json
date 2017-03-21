@@ -1,0 +1,387 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Suur-sagalee keessatti akkamittan dura duuba uuma?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Kutaa kana keessatti kan barattan:  \n&bull; Duraa duuba uumuuf muraa suur-sagalee baayyee akka itti qopheeffatan.  \n&bull; Duraa duuba hojii uumuuf akka itti maloota garagaraatti fayyadaman.  \n&bull; Akka itti duraa duubi hiikaa seenaakee fi bu'aasaa fooyyessu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Waraabbiiiwwn garagaraa walitti dhufan Duraa duuba jedhamu. waraabbiiwwan wal deggeranirraa yeroo walitti dhufan, tokkoon tokkoon duraa duubaa seenaa guutuu himu. StoryMaker'iin duraaduuba guutuu uumuuf waraabbiiwwan baayyeerratti xiyyeeffata.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## Bu'uura Duraa Duuba Waraabbii  \nDuraa duubaan waraabuuf qabiyyee seenaakee kutaalee of danda'anitti caccabsuu qabda. Kutaalee yartuu yookaan baayyee ta'uu danda'a. Duraa duubicha kaa'uudhaaf kutaalee hunda beekuu qabda.  \nFakkeenya kana irra deebiin ilaali. Qopheessaan fiilmii tokko seenaa bakka kuduraa fi muduraa waraabuu barbaade. Duraa duuba nama bitatu agarsiisu waraabuu barbaade.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "2.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Nama muduraa bitatu arguu qabna.", 
+            "exampleMediaPath": "2.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "3.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Muduricha arguu qabna.", 
+            "exampleMediaPath": "3.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "4.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Namichi muduraadhaaf yeroo inni kaffalu arguu qabna.", 
+            "exampleMediaPath": "4.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "5.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Akka duraa duuba waraabbii sadiitti duraa duubaan taa'ee seenaa salphaa, garuu guutuu hima.", 
+            "exampleMediaPath": "5.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Seenaakee beekun bilisummaa duraa duuba barbaaddeen waraabuu siif kenna. Xumurarratti, seenaakee himuuf walitti fidda. ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Waraabbiiwwan kun jalqaba, gidduu fi xumura seenaakeeti. Namni bitu jira, muduraan jira, namni gurguru jira. seenaa baayyee salphaadha, garuu ni hojjeta. Nama bituu fi nama gurguruu wajjin gaaffiif deebii geggeessitee itti dabaluu dandeessa. Bakkasaas bal'istee waraabuudhaan itti dabaluu dandeessa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "Seenaankee hammam wal xaxaa ta'uyyuu, haala sadiin akka waraabuu qabdu yaadadhu: jalqaba, gidduu fi xumura. Tokkoon tokkoonsaa waraabbii garagaraa qabaachuu danda'u, goodaayyaa keessatti qabiyyeewwan addaddaa wajjin. Akka waliigalaatti, waraabbiinkee duraa duuba haala sadan hundatti dabalamuu qaba. Seenaa tokko tokko keessatti waraabbii bakka shanii(yookaan kan caalu) tokkoon tokkoon kutaalee seenaatiif qabaachuu danda'a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "6.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Seenuuf Mijeeffachuu", 
+            "exampleMediaPath": "6.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "Malli baratamaan yeroo seenaa himuuf jettu hin beekne fayyadamamu waraabbiiwwan fageenyarra jiranirraa ka'uu, bakkaa bakkatti waraabbachaa deemuudhaan itti adeemuudha. Yeroo tarreeffama yerootiin tarreessitu, adeemsa uumamaaa uuma deemu. Waraabbiiwwan bu'uuraa shanan fayyadamuudhaan: Bal'aa, Dheeraa, Giddugalaa, Dhiyoo fi Gadi fagoo, duraa duuba guutuu adeemsa uumamaa qabu uumta.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## Duraa Duuba Waraabbii/Waraabbii Duubattii  \n![Duraa Duuba Waraabbii/Waraabbii Duubattii](7.png)  \nSochii kofa garagaraatti yeroo tokkotti ta'u waraabuu yoo barbaadde, adda addatti waraabuu qabda. Kun waraabbii/waraabbii duubattii jedhamee beekama.  \nDuraa duuba waraabbii/waraaabbii duubattii uumuuf, lamaanuu yaadatti qabachuudhaan waraabbii lama waraabi. Fakkeenya qopheessaan fiilmii waraabbii/waraabbii duubattii bu'uuraa nama kiiboordiidhaan barreessaa jiru waraabu kana ilaali.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "8.mp4", 
+                    "media_caption": "The first shot is the character\u2019s face in a medium shot while typing on the keyboard."
+                }
+            ], 
+            "header": "Waraabbii Taatee", 
+            "exampleMediaPath": "8.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "9.mp4", 
+                    "media_caption": "The second shot, the reverse shot in this sequence, should be a shot of whatever the character is doing in the first shot. In this case, typing on the keyboard."
+                }
+            ], 
+            "header": "Waraabbii Duubattii", 
+            "exampleMediaPath": "9.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "10.mp4", 
+                    "media_caption": "When you cut these two shots together, it will appear as if the subject is typing on their keyboard. While we used a medium shot in the first shot, it could also be a close-up. This is a matter of style on your part, but the other shots in your video will help you make that decision. That is it. You have enough shots to construct a shot / reverse shot."
+                }
+            ], 
+            "header": "Waraabbii/Waraabbii Duubattii Walfaana", 
+            "exampleMediaPath": "10.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_8"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "11.mp4", 
+                    "media_caption": "This technique also works to show what a subject may be looking at. Either an object, or potentially another person. For example, if you want to show someone on their phone, film their face while they use their phone and then film the phone they are using."
+                }
+            ], 
+            "header": "Fakkeenya Filannoo", 
+            "exampleMediaPath": "11.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_9"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "12.mp4", 
+                    "media_caption": "You are not limited to using only two shots. Adding more shots allows you to show how the process of the action changes over time. If a task is becoming more difficult, you might show a second shot of the subject appearing interested while writing an email, and end with a look of satisfaction when they send the email."
+                }
+            ], 
+            "header": "Hojii Ijaaruu", 
+            "exampleMediaPath": "12.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_10"
+        }, 
+        {
+            "text": "## Duraa Duuba Gaafannoo  \nGaafannoo muraalee namootaatiin qophaa'a. Waraabbii giddu galeessaa yookaan waraabbii dhiyoo fayyadami. Yoo si rakkise qajeeltoowwan StoryMaker ibsa kaameeraarratti qopheesse fayyadami. Waant baayyee fagaate yookaan baayyee dhiyaate gaafannoof rakkisaa ta'a, yookaan qaama si hordofu dhimmicha walitti fiduun ni rakkkisa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "13.mp4", 
+                    "media_caption": "Example of changing composition after a question"
+                }
+            ], 
+            "header": "Hammamtaa Waraabbii Jijjiiruu", 
+            "exampleMediaPath": "13.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_11"
+        }, 
+        {
+            "text": "Goodaayyaa filachuudhaan qabadhu. Erga godaayyaarraa gara kamitti qaamni waraabamu akka argamu murteessitee booda, achumatti qabi. Hamma inni deebisee xumurutti achumatti qabi. Gaaffilee gidduutti qofa haala goodaayyaakee jijjiiri.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "14.mp4", 
+                    "media_caption": "How to set up good head space in your shot"
+                }
+            ], 
+            "header": "Bakka Mataa", 
+            "exampleMediaPath": "14.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_12"
+        }, 
+        {
+            "text": "Bakka mataa gaarii ta'e eegi. Yoo hin hubabbe ta'e kutaa Waraabbiikee goodaayyessuu ilaali.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "15.mp4", 
+                    "media_caption": "Example of not panning away, but adding a shot in later"
+                }
+            ], 
+            "header": "Godaayyaa Qabuu", 
+            "exampleMediaPath": "15.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_13"
+        }, 
+        {
+            "text": "Yoo namni waraabamu yoo dhimma goodaayyaa alaarratti dubbachaa jiraate yookaan harkasaa baasee quba waan ta'etti qabe kaameeraakee duukaa hin naannessin yookaan keessa galchuu hin yaalin. Erga gaaffiikee deebisee raawwatee booda gocha isaa yookaan ishee waraabi. ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "## WAANTOTA YAADATAMUU QABAN \n&bull; Duraa duubi waraabbii/waraabbii duubattii suur sagaleekee keessatti hojiin wallitti fuffiinsa qabu akka mul'atu gochuuf gargaara.  \n&bull; Duraa duubi waraabbii/waraabbii duubattii  yeroo qaama gaafatuttis qaama gaafatamuttis agarsiisaanitti gaafannoo keessatti fayyadamuun baratamaadha.  \n&bull; Duraa duubi waraabbii/waraabbii duubattii mala gaarii fayyadamanii b roll gaarii argataniidha.  \n&bull; Duraa duubi bu'a qabeessi gaaffilee barbaachisaa ja'an kanaan dura irratti dubbanne deebisu. (Eenyu, maal, eessa, yoom, maaliif, fi akkamitti.)  \n&bull; Duraa duuba bu'aa buusu qopheessuu jechuun waraabbii hammamtaa garagaraa qabu waraabuudha, tokkoon tokkoonsaa kan qabiyyee guutuu mataasaa seenicha keessatti qabu.  \n&bull; Duraa duuba garagara yeroo walitti fiddu, seenaa baayyee walxaxaa qopheessita.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Maalfaatu tarreeffama waraabbii ta'a?", 
+            "choices": [
+                {
+                    "text": "Haala qilleensaa.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Gosa waraabbii.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Ibsa", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Qabiyyeewwan seenaa.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Baayyinni waraabbii xiqqoon waraabbii/waraabbii duubaa uumuuf si barbaachisu kami?", 
+            "choices": [
+                {
+                    "text": "waraabbiiwwan 10.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Waraabbiiwwan 3.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Waraabbiiwwan 6.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "waraabbota 2", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Dhugaa yookaan Soba: Duraa duubi wwaraabbii/waraabbii duubattii waan namichi ilaalaa jiru qofa agarsiisu.", 
+            "choices": [
+                {
+                    "text": "Dhugaa, waan namichi ilaalaa jiru qofa agarsiisu.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Soba, waan inni hojjechaa jirus agarsiisuu danda'u.", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Waraabbii akkamiitu akka gaariitti waraabbii/waraabbii duubattii wajjin siif hojjeta?", 
+            "choices": [
+                {
+                    "text": "Waraabbii dheeraa.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Waraabbii giddugalaa.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Waraabbii jalqabsiisa.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Waraabbii gadifagoo.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Dhugaa yookaan Soba: Waraabbii baayyee dabaluun akka ati adeemsi sochii ta'aa jiruu yeroo keessa itti jijjiiramu agarsiistu godha.", 
+            "choices": [
+                {
+                    "text": "Dhugaa, tokkoon tokkoon waraabbii tarkaanfilee garagaraa adeemsicha keessaa agarsiisuu danda'u.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Soba, waraabbii dabaluun qaama hordofu burjaajessa.", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_5"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "sequences", 
+    "title": "Duraa duuba"
+}

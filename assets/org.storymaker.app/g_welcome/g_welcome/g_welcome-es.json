@@ -1,0 +1,416 @@
+{
+    "cards": [
+        {
+            "text": "Comience pulsando el bot\u00f3n \"Estoy listo\" debajo.", 
+            "type": "HowToCard", 
+            "id": "howto_card_0"
+        }, 
+        {
+            "text": "StoryMaker 2 es una potente herramienta para aprender y crear. Vamos a introducirle a las distintas secciones de la aplicaci\u00f3n.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "header": "Siguiente", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_begin", 
+            "text": "Estoy listo"
+        }, 
+        {
+            "text": "Barrer horizontalmente desde la izquierda para revelar el panel deslizante.", 
+            "type": "HowToCard", 
+            "id": "howto_card_1", 
+            "references": [
+                "g_welcome::ms_begin::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "sm_drawer.png", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Panel deslizante de navegaci\u00f3n", 
+            "references": [
+                "g_welcome::ms_begin::value::true"
+            ], 
+            "exampleMediaPath": "sm_drawer.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "El panel deslizante le permite saltar a distintas partes de la aplicaci\u00f3n.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "g_welcome::ms_begin::value::true"
+            ]
+        }, 
+        {
+            "text": "Ahora que sabemos d\u00f3nde acceder a todo, recorreremos la lista punto por punto, comenzando con la comunidad de StoryMaker.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "g_welcome::ms_begin::value::true"
+            ]
+        }, 
+        {
+            "text": "Continuar", 
+            "header": "Siguiente", 
+            "references": [
+                "g_welcome::ms_begin::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "ms_drawer", 
+            "icon": "down"
+        }, 
+        {
+            "text": "Pulse donde dice \"REGISTRARSE / INICIAR SESI\u00d3N\" en la parte superior del panel deslizante para acceder a esto.", 
+            "type": "HowToCard", 
+            "id": "howto_card_2", 
+            "references": [
+                "g_welcome::ms_drawer::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "sm_join.png", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Inicie sesi\u00f3n o cree una cuenta", 
+            "references": [
+                "g_welcome::ms_drawer::value::true"
+            ], 
+            "exampleMediaPath": "sm_join.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Cree y/o inicie sesi\u00f3n en su cuenta de StoryMaker para poder compartir contenido con el resto de la comunidad de StoryMaker.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "g_welcome::ms_drawer::value::true"
+            ]
+        }, 
+        {
+            "text": "Observe que StoryMaker no aloja ning\u00fan contenido directamente, m\u00e1s bien esto es una recopilaci\u00f3n de sus historias desde las plataformas en las que las comparte. M\u00e1s sobre eso en la secci\u00f3n de cuentas de debajo.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "g_welcome::ms_drawer::value::true"
+            ]
+        }, 
+        {
+            "text": "Continuar", 
+            "header": "Siguiente", 
+            "references": [
+                "g_welcome::ms_drawer::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "ms_community", 
+            "icon": "down"
+        }, 
+        {
+            "text": "Cuando inicie StoryMaker 2 por primera vez comenzar\u00e1 en la pantalla Principal.", 
+            "type": "HowToCard", 
+            "id": "howto_card_3", 
+            "references": [
+                "g_welcome::ms_community::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "sm_home.png", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Pantalla principal", 
+            "references": [
+                "g_welcome::ms_community::value::true"
+            ], 
+            "exampleMediaPath": "sm_home.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Su pantalla principal recopila todas las historias en las que est\u00e1 trabajando, con las lecciones, gu\u00edas, y plantillas que ha descargado.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "g_welcome::ms_community::value::true"
+            ]
+        }, 
+        {
+            "text": "Continuar", 
+            "header": "Siguiente", 
+            "references": [
+                "g_welcome::ms_community::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "ms_home", 
+            "icon": "down"
+        }, 
+        {
+            "text": "El cat\u00e1logo contiene \"Paquetes\" que puede descargar para usar dentro del propio StoryMaker.", 
+            "type": "HowToCard", 
+            "id": "howto_card_4", 
+            "references": [
+                "g_welcome::ms_home::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "sm_catalog.png", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "El cat\u00e1logo de StoryMaker", 
+            "references": [
+                "g_welcome::ms_home::value::true"
+            ], 
+            "exampleMediaPath": "sm_catalog.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Dividido en tres grupos, el cat\u00e1logo de StoryMaker le permite descargar Gu\u00edas, Lecciones, y Plantillas para ayudarle a aprender c\u00f3mo crear grandes historias.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6", 
+            "references": [
+                "g_welcome::ms_home::value::true"
+            ]
+        }, 
+        {
+            "text": "Las Gu\u00edas revisan ideas importantes y proporcionan actividades con las que aprender. Las Lecciones entran en m\u00e1s detalle y proporcionan ejemplos multimedia. Las Plantillas le proporcionan estructuras de historias con las que construir sus historias.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7", 
+            "references": [
+                "g_welcome::ms_home::value::true"
+            ]
+        }, 
+        {
+            "text": "Continuar", 
+            "header": "Siguiente", 
+            "references": [
+                "g_welcome::ms_home::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "ms_catalog", 
+            "icon": "down"
+        }, 
+        {
+            "text": "Las exportaciones se realizan cuando publica una historia.", 
+            "type": "HowToCard", 
+            "id": "howto_card_5", 
+            "references": [
+                "g_welcome::ms_catalog::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "sm_exports.png", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Ensayo fotogr\u00e1fico exportado", 
+            "references": [
+                "g_welcome::ms_catalog::value::true"
+            ], 
+            "exampleMediaPath": "sm_exports.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Todas las historias que publica est\u00e1n recopiladas aqu\u00ed para poder acceder a ellas de nuevo.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8", 
+            "references": [
+                "g_welcome::ms_catalog::value::true"
+            ]
+        }, 
+        {
+            "text": "Continuar", 
+            "header": "Siguiente", 
+            "references": [
+                "g_welcome::ms_catalog::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "ms_exports", 
+            "icon": "down"
+        }, 
+        {
+            "text": "Comparta sus historias en sus redes sociales favoritas", 
+            "type": "HowToCard", 
+            "id": "howto_card_6", 
+            "references": [
+                "g_welcome::ms_exports::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "sm_accounts_yt.png", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Cuentas conectadas", 
+            "references": [
+                "g_welcome::ms_exports::value::true"
+            ], 
+            "exampleMediaPath": "sm_accounts_yt.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "Puede iniciar sesi\u00f3n en redes sociales populares y publicar sus historias directamente desde StoryMaker.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_9", 
+            "references": [
+                "g_welcome::ms_exports::value::true"
+            ]
+        }, 
+        {
+            "text": "\u00bfPrefiere publicar en su propio alojamiento? Nuestra opci\u00f3n de Servidor Privado le proporciona a usted transferencias seguras de ficheros.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_10", 
+            "references": [
+                "g_welcome::ms_exports::value::true"
+            ]
+        }, 
+        {
+            "text": "Continuar", 
+            "header": "Siguiente", 
+            "references": [
+                "g_welcome::ms_exports::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "ms_accounts", 
+            "icon": "down"
+        }, 
+        {
+            "text": "Las configuraciones robustas le permiten personalizar sus exportaciones a su gusto.", 
+            "type": "HowToCard", 
+            "id": "howto_card_7", 
+            "references": [
+                "g_welcome::ms_accounts::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "sm_settings.png", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Men\u00fa de configuraci\u00f3n", 
+            "references": [
+                "g_welcome::ms_accounts::value::true"
+            ], 
+            "exampleMediaPath": "sm_settings.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "text": "Aseg\u00farese de ver si StoryMaker est\u00e1 traducido a su idioma favorito.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_11", 
+            "references": [
+                "g_welcome::ms_accounts::value::true"
+            ]
+        }, 
+        {
+            "text": "El resto de nuestro men\u00fa de configuraci\u00f3n le permite controles extensivos sobre sus exportaciones.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_12", 
+            "references": [
+                "g_welcome::ms_accounts::value::true"
+            ]
+        }, 
+        {
+            "text": "Continuar", 
+            "header": "Siguiente", 
+            "references": [
+                "g_welcome::ms_accounts::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "ms_settings", 
+            "icon": "down"
+        }, 
+        {
+            "text": "Nuestros comentarios se env\u00edan directamente a esta secci\u00f3n de comentarios, \u00a1as\u00ed que vuelva a comprobar si envi\u00f3 alguno!", 
+            "type": "HowToCard", 
+            "id": "howto_card_8", 
+            "references": [
+                "g_welcome::ms_settings::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "sm_feedback_empty.png", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Formulario de comentarios", 
+            "references": [
+                "g_welcome::ms_settings::value::true"
+            ], 
+            "exampleMediaPath": "sm_feedback_empty.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_7"
+        }, 
+        {
+            "text": "Si tiene cualquier problema cuando use StoryMaker 2, por favor, use este formulario de comentarios integrado directamente en la aplicaci\u00f3n.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_13", 
+            "references": [
+                "g_welcome::ms_settings::value::true"
+            ]
+        }, 
+        {
+            "text": "Continuar", 
+            "header": "Siguiente", 
+            "references": [
+                "g_welcome::ms_settings::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "ms_feedback", 
+            "icon": "down"
+        }, 
+        {
+            "text": "Felicidades, ahora conoce las secciones importantes de StoryMaker 2, \u00a1esperamos que disfrute us\u00e1ndolo!", 
+            "type": "BasicTextCard", 
+            "id": "text_card_14", 
+            "references": [
+                "g_welcome::ms_feedback::value::true"
+            ]
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "g_welcome", 
+    "title": "Bienvenido a StoryMaker 2"
+}

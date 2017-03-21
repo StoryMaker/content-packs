@@ -1,0 +1,274 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Gosi Waraabbii Suur-sagalee garagaraa maal fa'i?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Kutaa kana keessatti kan barattan:  \n&bull; Waraabbii suur-sagalee hammamtaa garagaraa qabu fayyadamuun akka itti seenaa himan.\n&bull; Muraan dursaa seenaa gaarii himuuf fayyadamni maal fa'i?.\n&bull; Akka itti StoryMaker'iin waraabbii garagaraa qabatu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "![Fakkeenya waraabbii bal'aa bakka qulqullinaan dhiyeessu](2.png)  \nWaraabbiin fiixa ba'aan kan sirriitti qindaa'e caala. Waraabbii gaariin odeeffannoo addaa kan seenicha deemsisu dhiyeessa. Gosi waraabbii kamiyyuu galma adda ta'e isaaf mijatuuf qaba. Bakka jirtu ibsuuf gosa waraabbii kan biraadhaan fayyadamuu dandeessa, garuu waraabbii bal'aan isa salphaa fi kan fiixa ba'umsa qabuudha. Fakkeenyaaf, Waraabbii bai'aan qaama ka'urraa fagaatanii waraabuudhaani. Fageenyi kun naannoo qaamni waraabamu jiru mul'isuudhaan dhiyeessa, kanaaf bakka mul'isuuf gaarii ta'e.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![](3.png)  \nWaraabbiin kamiyyuu galma gaaffii waa'ee seenichaa adda ta'e deebisu qaba.  \n![](4.png)  \n![](5.png)  \n![](6.png)  \n![](7.png)  \n![](8.png)  \nTuuta gosa waraabbii guutuu waraabuudhaan, tokkoon tokkoon waraabbiitiin kutaalee seenaa garagaraarratti akka xiyyeeffattu gochuu dandeessa, akka gareetti guutummaa seenaakee himu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "## Waraabbii Bal'aa", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "9.mp4", 
+                    "media_caption": "Examples of a wide shot."
+                }
+            ], 
+            "header": "Waraabbii bal'inaa", 
+            "exampleMediaPath": "9.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Waraabbii bal'aan bakka seenichaa agarsiisa. Waraabbiin ba'aan yeroo baayyee si'a tokko fayyadamamu, baayinaan jalqabarratti.  \nYoo waraabbii bal'aa baayinaan fayyadamte, jijjiirama bakkaa agarsiisuuf ta'uu qaba. Fakkeenyaaf, magaalaa onaa irraa magaalaa guutuu agarsiisuuf fayyadamuu dandeessa. Dabalataan waraabbii bal'aa haaraa jijjiirama bakkaa mul'isuuf fayyadamuu dandeessa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "## Waraabbii Dheeraa", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "10.mp4", 
+                    "media_caption": "Examples of a Long shot."
+                }
+            ], 
+            "header": "Waraabbii Dheeraa", 
+            "exampleMediaPath": "10.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Waraabbii dheeraan akka qaamni waraabamu itti naannoosaa wajjin wal quunnamu agarsiisa. Qaama gocharra jiru yookaan bu'aa gochichaa agarsiisu. \nWaraabbii dheeraan gocha qaama waraabamuu mul'isuuf karaa gaariidha, qaamolee garagaraa yoo dabalate bu'a qabeessa ta'uu danda'a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## Waraabbii Giddugaleessaa", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "11.mp4", 
+                    "media_caption": "Examples of a Medium shot."
+                }
+            ], 
+            "header": "Waraabbii Giddugaleessaa", 
+            "exampleMediaPath": "11.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Waraabbiin giddu galeessaa akka hordoftooti qaamota tokko yookaan lama irratti xiyyeeffatan godhee, hubannoo bakkasaa dhiyeessuu dhiisuu danda'u.  \nWaraabbiin giddu galeessaasochii qaama namaa agarsiisuurratti gaariidha. Waraabbii kana sirriitti fayyadamuuf bakka mataa sirrii fi karaa ijaa cimaan barbaachisaadha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## Waraabbii Dhiyeenyaa", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "12.mp4", 
+                    "media_caption": "Examples of a Close up shot."
+                }
+            ], 
+            "header": "Waraabbii Dhiyeenyaa", 
+            "exampleMediaPath": "12.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Waraabbiin dhiyeenyaa hordoftooti akka qaama tokko irratti xiyyeeffatan kan dirqisiisuu, fi miira qaama waraabamu kan mul'isuudha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "## Waraabbii Gadi Fagoo", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "13.mp4", 
+                    "media_caption": "Examples of a Detail shot."
+                }
+            ], 
+            "header": "Waraabbii Gadi Fagoo", 
+            "exampleMediaPath": "13.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "waraabbii gadi fagoon gadi fageenya hawwataa kan ibsu, yeroo baayyee gocha yookaan qaama barbaachisaa irratti xiyyeeffata.  \nWaraabbii gadi fagoon waraabbii bal'aa keessatti gafi fageenya dhokatan mul'isuuf akka gaariitti fayyadu. Waraabbii gadi fagoo gadi fageenya addaa barbaaddeef godaayyessi; kan hafan biraa hambisi. Harki nama waraabamuu bakka gaarii ittiin jalqabaniidha keessumaa yeroo gocharra jiru. Waraabbiin kun gafi fageenya dhokatan mul'isuuf akka gaariitti fayyadu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "text": "## Muraa fi Waraabbii StoryMaker  \nStoryMaker'iin yaada gosa waraabbii baratamaa fudhatee, addaddatti ilaala. StoryMaker'iin akka isaan itti seenaa keessatti fayyadamamaniin qooda, muraan tokko tokko immoo gosa garagaraa fayyadamuu danda'a.Gosi muraa kunis:  \nBakka:  Muraan bakkaa akka waraabbii dheeraa, bal'aa, gadi fagootti kan goodaayyeffamanii fi bakka seenichaa kan ibsudha.  \nQaama waraabamu: Muraan qaama waraabamuu akka waraabbii dhiyeenyaa yookaan giddu galeessaatti godaayyeffama.Deebii namni gaaffii gaafatameef kennu yookaan waan namichi waa'eesaa dubbatuudha.  \nGocha: Muraan gochaa akka waraabbii dheeraa, giddugaleessaa yookaan gadi fagootti godaayyeffama, gocha godhamaa jiru sirriitti agarsiisuu qaba.  \nBu'aa: Muraan bu'aa kan gochaa wajjin wal fakkaata, garuu dhiyeenya kan qabu, bu'aa agarsiisuuf. Kun akka waraabbii gadi fagootti yookaan giddu galeessaatti godaayyeffamuu qaba.  \nMallattoo: Mallattoon yeroo baayyee akka waraabbii gadi fagootti godaayyeffama. Muraan mallattoo qabii ijoof ilfaatina kennuufi.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "text": "## WAANTOTA YAADATAMUU QABAN  \n&bull; Yeroo tokko tokko fiilmii baajeti guddaan itti ba'e kan kaameeraa sosocho'een hojjetame ilaalta, yeroo tokko tokkommoo dookumentarii qabiyyeensaa wal xaxaa ta'e kaameeraa cimaadhaan hojjetame ilaalta.  \n&bull; Seerri seenaa mul'isanii himuu bakka hundatti hojjeta, iddoo itti qophaa'ee yookaan baayyina namaa dhiyeessuu keessatti hirmaataniin utuu hin daanga'in.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_14"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Akkamittan waraabbiinkoo fiixa ba'umsa akka qabaatu mirkaneeffachuuf gargaara?", 
+            "choices": [
+                {
+                    "text": "Waraabbii baayyee nanaannessuu.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Waraabbii hunda akka wal fakkaatan godhi.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Waraabbiin gaarii fakkaatu fiixaan ba'umsa.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Waraabbii keetiif galma kenniif", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Waraabbii tokko keessatti waan meeqan galmaan ga'uuf yaala?", 
+            "choices": [
+                {
+                    "text": "0", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "1", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "4", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "12", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Galmi waraabbii dheeraa maali?", 
+            "choices": [
+                {
+                    "text": "Kophee bareedaa qaama waraabamuu mul'isa.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Qaama ka'uu fi akka isaan naannichaa wajjin walquunnaman agarsiisa.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Akka qaamni waraabamu itti rifeensa murate agarsiisa.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Biyya qaamni waraabamu irraa dhufe agarsiisa.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Waraabbii kamtu ija namichaarratti xiyyeeffannoo dhiyeenyaa barbaadaa?", 
+            "choices": [
+                {
+                    "text": "Dheeraa", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Giddu gala", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Dhiyeenyaa", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Gadi fagoo ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "videos_different_shots", 
+    "title": "Gosa Waraabbii Suur-sagalee"
+}

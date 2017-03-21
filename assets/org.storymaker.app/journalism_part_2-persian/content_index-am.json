@@ -1,0 +1,26 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-persian/1_evolution_of_a_story/evolution_of_a_story_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-persian/cover.png", 
+    "language": "am", 
+    "title": "\u12e8\u12d8\u1308\u1263 \u1273\u122a\u12ad \u12a0\u12dd\u130b\u121a \u1208\u12cd\u1325"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-persian/2_introduction_to_ethics_and_professional_standards/introduction_to_ethics_and_professional_standards_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-persian/cover.png", 
+    "language": "am", 
+    "title": "\u1225\u1290-\u121d\u130d\u1263\u122d \u12a5\u1293 \u12e8\u121e\u12eb \u12f0\u1295\u1266\u127d\u1361- \u1218\u130d\u1262\u12eb"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-persian/3_using_text/using_text_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-persian/cover.png", 
+    "language": "am", 
+    "title": "\u133d\u1201\u134d\u1295 \u1218\u1320\u1240\u121d "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-persian/4_media_law/media_law_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-persian/cover.png", 
+    "language": "am", 
+    "title": "\u12e8\u121a\u12f2\u12eb \u1205\u130d "
+  }
+]

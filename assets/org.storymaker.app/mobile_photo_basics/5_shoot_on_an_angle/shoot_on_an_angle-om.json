@@ -1,0 +1,242 @@
+{
+    "title": "Kofarraan kaasi", 
+    "storyPathLibraryFile": "shoot_on_an_angle_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action", 
+            "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
+        }, 
+        {
+            "dependencyId": "shoot_on_an_angle_activity", 
+            "dependencyFile": "../5_shoot_on_an_angle_activity/shoot_on_an_angle_activity.json"
+        }, 
+        {
+            "dependencyId": "control_light", 
+            "dependencyFile": "../6_control_light/control_light.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "level": "Seensa |", 
+            "headline": "Kofarraan kaasi", 
+            "time": "3-5 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Yeroo baayyee suura kaastoti salphaadhumatti qaamicha fiildura dhaabbachuudhaan suuraa kaasu. Kutaan kun akka itti kofa jijjiiruudhaan suuraa caalmaatti hawwataa ta'e kaasan barsiisa.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "header": "Itti aanee", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "milestone_start", 
+            "text": "Jalqabi"
+        }, 
+        {
+            "text": "Suuraa humna qabu qopheessuuf kofa hawwataa bakka irraa qaamicha kaastu filadhu.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Kofa gadi bu'aarraan kaasuun qaamichi sirriitti akka mul'atuu gochuu danda'a.", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Yeroo suuraa qaamaa yookaan bakkaa kaastutti kofa garagaraa ilaali. Kofi ol ka'aan kofa gadi bu'aarraa garagarummaa baayyee guddaa qaba.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Kofi xiqqoo ol ka'aan odeeffannoo waa'ee bakkichaa dhiyeessuuf gargaara.", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Kofi hin baratamne qabiyyee seenichaa adda ta'erratti akka xiyyeeffattuuf gargaara.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "4.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Fakkichi isa cheesii ittiin taphatan tokkoof xiyyeeffannoo kennee seenicha haala baayyee hawwataadhaan ibsa.", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "4.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Kofi baayyee ol ka'aan fakkii tokkoon bakkicha guutuu qabachuuf gargaara. ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "5.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Kofi adda ta'e seenicha karaa hawwataa fi kalaqaa'a dhiyeessuuf gargaara.", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "5.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Fakkeenyota Dabalataa Ilaali", 
+            "header": "Itti aanee", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_examples_start", 
+            "icon": "down"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_1.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Fakkeenya 1", 
+            "references": [
+                "shoot_on_an_angle::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_1.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Fakkeenya 2", 
+            "references": [
+                "shoot_on_an_angle::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Fakkeenya 3", 
+            "references": [
+                "shoot_on_an_angle::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "text": "Baga Gammadde, tarkaanfilee bu'uuraa suuraa kofarraan kaasuu baratteetta. Gochaawwan gaditti jiraniin dandeettii haaraa argatte kana shaakali.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Hojicha hojjedhu", 
+            "link": "shoot_on_an_angle_activity::intro_card_0", 
+            "id": "link_card_0", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Kutaa Itti Aanu", 
+            "link": "control_light::intro_card_0", 
+            "id": "link_card_1", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Kutaa Duraanii", 
+            "link": "capture_peak_action::intro_card_0", 
+            "id": "link_card_2", 
+            "references": [
+                "shoot_on_an_angle::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }
+    ], 
+    "id": "shoot_on_an_angle"
+}

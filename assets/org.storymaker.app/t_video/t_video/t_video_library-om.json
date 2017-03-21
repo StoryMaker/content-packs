@@ -1,0 +1,664 @@
+{
+    "title": "Seenaa Suur-sagalee Qopheessi", 
+    "storyPathTemplateFiles": {
+        "t_video_highlights": "t_video_highlights.json", 
+        "t_video_day_in_the_life": "t_video_day_in_the_life.json", 
+        "t_video_discussion_question_2": "t_video_discussion_question_2.json", 
+        "t_video_discussion_question_3": "t_video_discussion_question_3.json", 
+        "t_video_discussion_question_1": "t_video_discussion_question_1.json", 
+        "t_video_report_issue": "t_video_report_issue.json", 
+        "t_video_report_event": "t_video_report_event.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "t_video_day_in_the_life", 
+            "dependencyFile": "t_video_day_in_the_life.json"
+        }, 
+        {
+            "dependencyId": "t_video_discussion_question_1", 
+            "dependencyFile": "t_video_discussion_question_1.json"
+        }, 
+        {
+            "dependencyId": "t_video_discussion_question_2", 
+            "dependencyFile": "t_video_discussion_question_2.json"
+        }, 
+        {
+            "dependencyId": "t_video_discussion_question_3", 
+            "dependencyFile": "t_video_discussion_question_3.json"
+        }, 
+        {
+            "dependencyId": "t_video_highlights", 
+            "dependencyFile": "t_video_highlights.json"
+        }, 
+        {
+            "dependencyId": "t_video_report_event", 
+            "dependencyFile": "t_video_report_event.json"
+        }, 
+        {
+            "dependencyId": "t_video_report_issue", 
+            "dependencyFile": "t_video_report_issue.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "tips": [
+                {
+                    "text": "Ofiikee beeki, ilaalchi dogoggoraakee akka seenaakeerratti dhiibbaa hin fidne eeggadhu.", 
+                    "tags": [
+                        "ethics", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Yeroo haala sodaachisaa keessatti waraabdutti mala ba'umsaa yeroo hunda qabaadhu.", 
+                    "tags": [
+                        "security", 
+                        "photo", 
+                        "video", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Yeroo danda'ametti gaaffiif deebiin dura qorannoo tokko tokko geggeessi. Gaaffii caaluu fi baayyee barbaachisaa ta'e gaafadhu.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio"
+                    ]
+                }, 
+                {
+                    "text": "Qaamichaaf ibsa seenaake hima tokkoon qabaadhu.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Gaaffilee eeggannoo barbaadan xumuraaf kaa'adhu.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Gaaffiiwwankeef caalmaa kennuudhaan tokko kan odeeffannoo barbaachisaa kan ati barbaaddu adda baasi.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Saffisaan gara gaaffii barbaachisaa gaaffiif deebii dhaqi.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Gaafannookee keessatti, abshaala garuu gaarii ta'uu yaadadhu.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Yoo gaafannoo namoota qabxii ilaalchaa garagaraa qabanii itti dabalte seenaankee baayyee gaarii ta'a.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\"Waanti biraan ati dabaluu jaallattu jiraa?\" jettee gaafachuudhaan gaafannocha xumuri.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Waraabbiin seeraan qophaa'e bakka qaamichi irra garagalee jiru yookaan irra deemuuf hambisa.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\"Hammamtaan qaama gooddayyaa keessaa hamma barbaachisummaasaa yeroo sanattiitiin gituu qaba.\" -Alfred Hitchcock", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Waanti baayyee barbaachisaan waraabbiikee yoo xiqqaate 50% goodaayyaakee qabachuusaa mirkaneeffadhu.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Duraa duuba wal faallessan uumuuf muraalee hammamtaa yookaan gosa garagaraa qaban walitti fidi.", 
+                    "tags": [
+                        "video", 
+                        "after"
+                    ]
+                }, 
+                {
+                    "text": "Hamma gochi waraabbiikee keessaa xumurutti waraabuu hin dhiisin.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Gochichi jalqabuusaan dura waraabuu jalqabi, hamma gochichi xumuramuusaa mirkaneeffattuttis waraabuu hin dhiisin.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Qaamicha gidduu goodaayyaa hin kaa'in, seera sadaffaa fayyadami.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\"Yoo suuraankee hamma barbaadame gaarii miti ta'e, atis hamma barbaadame hin dhiyaanne.\" -Robert Capa", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Yoo xiqqaate sekoondii 15iif waraabaa turi, yoo murichi baayyee dheeraa ta'e, kuti.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Yeroo haala ifaa birootti deemtutti yeroo hunda sirreeffama madaala adiikee sirreeffadhu.", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Duraa duuba waraabbachuuf qabiyyeewwan seenaakee waraabbiiwwan garagaraatti caccabsuu qabda.", 
+                    "tags": [
+                        "video", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Duraa duuba gaarii uumuuf waraabbii hammamtaa garagaraa qaban waraabi.", 
+                    "tags": [
+                        "video", 
+                        "photo essay", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Gaaffii gaafachuukeen dura utuu dubbachuu hin jalqabin sekoondota yartuuf callisa waraabi.", 
+                    "tags": [
+                        "audio", 
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Waraabuu jalqabuukeen dura dhageessistuu gurraa fayyadamuudhaan sadarkaa sagalee ilaali.", 
+                    "tags": [
+                        "audio", 
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Hamma dandeesse sagaleekee xinneessii fayyadami, seenaakee karaa sagalee namootaa himi.", 
+                    "tags": [
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Yeroo mataduree fi dhangii fayyadamtu filattutti waa'ee hordoftoota bira ga'uu barbaadduu yaadi.", 
+                    "tags": [
+                        "journalism", 
+                        "story", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Yeroon daanga'aa yoo ta'eyyuu, karoora qopheeffadhu, waan argite hunda hin waraabin.", 
+                    "tags": [
+                        "photo", 
+                        "video", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Yeroo gaafannoo waraabdutti, yoo xiqqaate gaaffilee 15 qopheeffadhu.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Seenaa gaarii fi qulqullina qabu himuuf mataduree hangafaa tokkorratti xiyyeeffadhu.", 
+                    "tags": [
+                        "journalism", 
+                        "story", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Yeroo danda'ametti jalqabarratti waan argitee fi gaaffiif deebii waraabi.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Yeroo gaafannoo geggeessuuf gaafattutti waa'ee matadureekee yookaan galmakee ifa godhi.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Tasgabbaa'i, Tasgabbaa'uunkee akka namni wajjin gaaffiif deebii geggeessitu tasgabbaa'uuf gargaara.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Yeroo hunda gaaffif deebiirraa waan barbaaddu beeki.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Si'a tokkotti gaaffii tokko qofa gaafadhu.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Gaagffii cimaa gaafadhu, garuu kabajaan ta'uu akka qabu yaadadhu. Gaaffiin kabajaan gaafatamu bakka fagoo ga'uu danda'a.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Hojii gaariin amantaa uumuu fi gaaffiif deebiikee fooyyessuuf gargaaruu danda'a.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Waraabduurratti cuqaasuukeen dura sagalee duubaa jeequudhaan qulqullina seenaakee miidhuu danda'u dhaggeeffadhu.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Qaamichi akka xiyyeeffannoo argatu akka waantota goodaayya keessa jiraniin xiyyeeffannoo hin dhabne mirkaneeffadhu.", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Bakka gaarii irraa waraabdu mirkaneeffachuudhaan goodaayyaakee hamma xumuraatti achitti qabi.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Hafuurakee hin qabatin, waraabbiikee waraabuuf qopheessiitii hafuura baafadhu. Yeroo qophooftetti waraabuu jalqabi.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Hin sochoosin. Kofa haaraa yoo barbaadde, waraabbiikee dhaabi. Goodaayyaa jijjiiruudhaan waraabbii haaraa waraabi.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Bakka namni baayyeen jirutti, sagalee gaariidhaaf namoota baayyee sanarraa garagalii waraabi, akka inni dubbatu sitti garagalu gaafadhu.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Yoo qilleensa'aa jiraate, kaameeraakee qilleensarraa achi qabi yookaan ofiikeetii yookaan girgiddaadhaan irraa dhowwi.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Gaaffilee 'cufaa' ta'an kan deebii tokko qofa qaban kan akka 'eeyyee' yookaan 'lakki' jedhu hin gaafatin.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Itti fufiinsa haasichaa eegi. Gaafadhu: Maaliif? Itti aanee maaltu ta'e? Maal jechuu keeti?", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Gaaffiinkee deebii barbaachisaa argamsiisuu yoo dadhabe, karaa gaaffiikee jijjiiri.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Odeeffannoo baayyee yoo barbaadde gaaffii hordoffii qabu fayyadami.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Yaadadhu, sagalee malee fakkiinkee walakkaa seenichaa qofa hima.", 
+                    "tags": [
+                        "video", 
+                        "photo essay", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Yoo qilleensa'aa jiraate, kaameeraakee qilleensarraa achi qabi, yookaan maayikiikee eegi.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Namootni baayyee fi karaan konkolaataan guute jeequmsa sagalee baayyee uumu. Bakka namootni baayyeen jiranii fi karaa konkolaataa akkasiitti gaafannoo hin waraabin.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Maashiniin jeequmsa baayyee uumu, yoo danda'ame cufiin, yookaan yoo dandeesse bakka jijjiiri.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Madda ifaa kallattiidhaan qaamicharra kaa'uudhaan qaamicha waraabi.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Maddi ifaa yoo kallattidhaan qaamicha booda ta'e, qaamichi dukkanaa'ee arguuf nama rakkisa.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Guyyaa yeroo adiin ba'ee jirutti maddi ifaa duuba mormakee irratti yoo sitti dhaga'ame, haalicha keessatti ifa baayyee gaarii argatta.", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ifi gadi bu'aan wataabbii gadhee uuma. Manaa alatti yookaan kutaa ifa aduu argatutti waraabuun ifa gaarii siif kennuu danda'a.", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ifi tilmaamaan qaamicharraa fageenya meetira 1 irra jiru baayyee gaariidha.", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "interview", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Sagaleen suur-sagalee keessatti walakkaa odeeffannooti, waraabbii kamiifuu yaada keessa galchi.", 
+                    "tags": [
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Seenaan hundi gaaffii ijoo qaba. Xumurasaa irratti gaaffiin ati deebiste maali?", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "video", 
+                        "after"
+                    ]
+                }, 
+                {
+                    "text": "Dubbiin ijoo deebii gaaffii kan nama dhaggeeffatu akka dhaggeeffatu godhuudha. Daftee deebistee hin xumurin.", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Dubbii Ijoon deebii gaaffii xiyyeeffannoo warra ilaalanii qabatuudha. Saffisaan hin kenniniif.", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Muraa hundaaf of gaafadhu: waan haaraa natti himu qabaa?", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Walitti fufiinsi gaariin suuraalee gaggaarii shan irraa qophaa'uu qaba. Fakkii gaggaarii baayyee yoo qabaatte, itti dabali.", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Haqoota hawwatoo ta'an tokko tokko waa'ee seenaa dhimmichaa yookaan maaliif akka jalqaberratti nutti himi.", 
+                    "tags": [
+                        "narration"
+                    ]
+                }, 
+                {
+                    "text": "Gocha qaama seenichaarratti hundaa'uudhaan akka rakkochi itti jijjiiramaa jiru nutti himi.", 
+                    "tags": [
+                        "narration"
+                    ]
+                }, 
+                {
+                    "text": "Gara fuulduraatti dhimmichaaf maal akka eegamu nutti himi.", 
+                    "tags": [
+                        "narration"
+                    ]
+                }, 
+                {
+                    "text": "Waa'ee seenaa taatechaa yookaan maalii akka ta'u irratti haqaawwan hawwatoo tokko tokko nutti himi.", 
+                    "tags": [
+                        "narration"
+                    ]
+                }, 
+                {
+                    "text": "Akka taatichi yeroo guddachaa deemutti itti jijjiiramu nutti himi.", 
+                    "tags": [
+                        "narration"
+                    ]
+                }, 
+                {
+                    "text": "Yeroo deebi'ee dhufutti taaticharraa maal akka eegamu nutti himi.", 
+                    "tags": [
+                        "narration"
+                    ]
+                }
+            ], 
+            "type": "TipCollectionHeadlessCard", 
+            "id": "tip_collection"
+        }, 
+        {
+            "question": "Seenaa qopheessuu barbaaddu filadhu.", 
+            "correctRequired": 1, 
+            "type": "QuizCard", 
+            "id": "quiz_card_topic", 
+            "choices": [
+                {
+                    "text": "Seenaa Mul'isaa", 
+                    "id": "t_video_highlights"
+                }, 
+                {
+                    "text": "Maree waa'ee Nama tokkoo", 
+                    "id": "t_video_discussion_question_1"
+                }, 
+                {
+                    "text": "Maree waa'ee dhimma Hawaasaa", 
+                    "id": "t_video_discussion_question_2"
+                }, 
+                {
+                    "text": "Maree waa'ee Taatee", 
+                    "id": "t_video_discussion_question_3"
+                }, 
+                {
+                    "text": "Seenaa Taatee", 
+                    "id": "t_video_report_event"
+                }, 
+                {
+                    "text": "Seenaa Rakkoo", 
+                    "id": "t_video_report_issue"
+                }, 
+                {
+                    "text": "Seenaa Guyyaa Jireenya keessaa", 
+                    "id": "t_video_day_in_the_life"
+                }
+            ]
+        }, 
+        {
+            "header": "Itti aanee", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "Odeeffannoo Dabalataa"
+        }, 
+        {
+            "text": "Seenaa suur-sagalee gaarii qopheessuun muraalee garagaraa haammata. Qajoojiin kun seenaawwan garagaraa himuuf muraalee barbaaddu argachuuf si qajeelcha.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_video_library::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "action": "LOAD", 
+            "references": [
+                "t_video_library::quiz_card_topic::choice"
+            ], 
+            "type": "HookLoaderHeadlessCard", 
+            "id": "hook_loader_card"
+        }
+    ], 
+    "id": "t_video_library"
+}

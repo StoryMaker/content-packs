@@ -1,0 +1,210 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "seeronni bu'uuraa suuraawwan akka tuutaatti wajjin hojjechuu danda'an ittiin kaasan maal fa'i?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Kutaa kana keessatti kan barattan:  \n&bull; Akka itti suuraa baayyeedhaan seenaa akka gaariitti humamuu danda'u adda baasan \n&bull; Karaa itti seenaa suuraa baayyeen himame qindeessan  \n&bull; Akka itti bifa seenessuutiin barruu suuraa qindeessan  \n&bull; Akka itti walitti fufa suuraa qindeessan", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Seenaa baayyeen suuraa tokko of keessaa qaba. Suuraan sun taatecha goodaayyaa tokko keessatti cuunfuu qaba.  \n![Poolisooti magaalaa Niwu Yoork konkolaataa karaa baaburaa naannoo giddu gala Kolombusitt gaafa Jimaata Onkolooleesa 7,2008tii sakatta'an. Sababa beeksisa kaleessa dhimma shororkeessummaa sodaachisaan naannoo bakka baaburaa sanatti ta'a jedhamerraan kan ka'e eegumsi seensaa fi ba'umsi magaalichatti dabaleera. (AP Photo/John Smock)](2.jpg)  \n### Poolisooti magaalaa Niwu Yoork konkolaataa karaa baaburaa naannoo giddu gala Kolombusitt gaafa Jimaata Onkolooleesa 7,2008tii sakatta'an. Sababa beeksisa kaleessa dhimma shororkeessummaa sodaachisaan naannoo bakka baaburaa sanatti ta'a jedhamerraan kan ka'e eegumsi seensaa fi ba'umsi magaalichatti dabaleera. (AP Photo/John Smock)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Barruun suuraa kan suuraa garagaraa of keessatti qabate ofoma isatiin iyyuu meeshaa ittiin seenaa cimaa himan ta'uu danda'a. Agarsiisi islaayidii qabiyyee kararraa beekamoo fi namoota baayyinn isaanii guddaa ta'een ilaalamu. \nHagayya 22, 2012 nana barumsaa DISC NGO jeshamu Kaayiroo, Gibts keessatti naannoo barattoota 20 tu barumsa gabaa miidiyaa barata. Manni barumsichaa leenjii miidiyaa fi barumsa misooma moosaajii garagaraa kenna. (John Smock/Small World News)  \n![](3.jpg)  \n![](4.jpg)  \n![](5.jpg)  \n![](6.jpg)  \n![](7.jpg)  \n![](8.jpg)  \n![](9.jpg)  \n![](10.jpg)  \nBarruun suuraa kan suuraa garagaraa of keessatti qabate ofoma isatiin iyyuu meeshaa ittiin seenaa cimaa himan ta'uu danda'a, yookaan qabiyyee seenaa biroo wajjin. Agarsiisi islaayidii qabiyyee kararraa beekamoo fi namoota baayyinnisaanii guddaa ta'een ilaalamu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "## Fakkeenya barruu suuraa gaarii  \nMana barumsaa dhiira qofaa Eagle Academy for Young Men jedhutti Queens, New York City, gaafa  Bitootessa 12, 2006 barattoota barachaa jiran. Manni barumsichaa  mana barumsaa uummata magaalichaa manneen barnootaa xixiqqoo baayyinaan jiran kan harcaatii hir'isuuf barattoota baayyinni isaanii xiqqoo ta'e fisagantaa barnootaa baayyee xiyyeeffannoo qabutti fayyadamuun hojjetaa jiran keessaa isa tokko. (John Smock/Gates Foundation)  \n![](11.jpg)  \n![](12.jpg)  \n![](13.jpg)  \n![](14.jpg)  \n![](15.jpg)  \n![](16.jpg)  \n![](17.jpg)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## Fakkeenya barruu suuraa gadhee  \nDaldaaltoti naannoo Giizaa Gibts keessaa baatii Onkoloolessaa sababa hojiin hin jirreef callisanii taa'u. Baayyinni daawwattoota guyyaatti dhufanii warraqsarra kan ka'e tilmaamaan 5,000tti herregamu.  \n![](18.jpg)  \n![](19.jpg)  \n![](20.jpg)  \n![](21.jpg) \n![](22.jpg)  \n![](23.jpg)  \n![](24.jpg)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "Barruun suuraa hundi ergaa qulqullu fi qindaa'aa qabaachuu qaba. Barruun suuraa karaa lamaan qindaa'uu danda'a: akka seenessuu yookaan akka walitti fufaatti. Gulaala xumuraarratti galmakee suuraa 5-8tii godhi. Suuraawwan gaarii hamma kana argachuuf baayyistee kaasuutu sirraa barbaadama.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "## Seenessuu seenaa  \nUjummoowwan dheerinaan meetira 10 ta'an Baku-Tblisi-Ceyan diriirsa ujummoo boba'aatiif Rippuubilikii Ji'oorjiyaa keessatti oomishamee bakka itti diriirfamutti fee'amee deeme. \n![](25.jpg)  \n![](26.jpg)  \n![](27.jpg)  \n![](28.jpg)  \n![](29.jpg)  \n![](30.jpg)  \nYeroo seenessa senaatiif karoorfattu golboo seenessuu uumuu qabda \u2014 qaama ka'u, gocha, bu'aa, bakkaa fi mallattoo. Gaaffii ijoo, dubbii ijoo fi yaada murtee yaadi. mudataa fi mudachiisaa yaadi. Akkuma seenaan barreeffamaa seenaa himutti agarsiisi islaayidiis himuu qaba.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "Ciminni suuraa inni guddaan dandeettii muuxannoo namaa walii galaa mul'inatti ibsuudha. Seenaan seeneffamu inni gaariin naannoo qaamolee fi qaamolee warri ilaalan adda baafataniitti ijaaramu. Hordoftooti kan wajjin walitti hidhan nama yookaan waan ta'e barbaadu yookaan xiyyeeffannoosaanii fudhatee seenicha keessa kan isaan seensisu \u2014 kin qabduu seenaakeeti. Maala akka ta'e adda baafadhu innis seenaankee xiyyeeffannoo hawwataa qabachuu danda'u akka mirkaneessuuf gargaara.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "Karaan waalta'aan ittiin seenessuu seenaa qindeessan baayyeetu jira. Barruchi maal akka ta'erratti yaada sirrii qabaadhu isa booda suuraa yaadicha ibsu kaasi. Suuraan haaraan hundi odeeffannoo seenaakee tarkaanfachiisu qabaachuu qabu. Gosi seenaa gaditti tarreeffaman si gargaaru. Yeroo tokko tokko suura kaastoti filannoo dhiyaatan wal faana fayyadamuu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## Suuraa Seensaa  \nYeroo ummati Ji'oorjiyaa aangoon pirezidaantii duraanii Eduard Shevardnadze irraa aangoon seeraan mootummaa haaraatti kennamuu ayyaaneffatan gaafa Fulbaana 23, 2003 Tbilisi, Ji'oorjiyaa.  \n![](31.jpg)  \n![](32.jpg)  \n![](33.jpg)  \n![](34.jpg)  \n![](35.jpg)  \n![](36.jpg)  \n![](37.jpg)  \nSeenaan suuraa hundi seenaa seensaati; Yeroo hunda qabiyyee baayyee barbaachisaa mul'isu barbaaddachuu qabda. Garuu seenaan tokko tokko duraa duuba seenaa fi yeroo fiixee  yookaan waan ajaa'ibaa mul'isuuf sirriitti hin qindaa'an.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## Process  \nFlaatbush, Niwu Yoork, keessatti gaafa Fulbaana. 22, 2011 Joorji Taaner akkuma waggoottan 30f hojjechaa ture  hojii suphaa uffataa fi wayyaa hodhuu hojjeta  .  \n![](38.jpg)  \n![](39.jpg)  \n![](40.jpg)  \n![](41.jpg)  \n![](42.jpg)  \n![](43.jpg)  \nAdeemsi barruu suuraa kan agarsiisu waanti tokko akka itti jalqabaa hamma dhumaatti ta'uudha, fakkeenyyaaf, akka meeshaan tokko itti uumamu , hojii filannoo, yookaan haala nama hidhamee mana murtiitti waan ta'e hordofuun galmeessuu dandeessa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "## Tarreeffama yeroo  \nMohammed Assul galgala faluka Laga Naayil Cairo, Egypt keessa jiru gaafa Onkoloolessa. 24, 2012 irra oofuun dabarsa jira. Erga warraaqsa waggaa darbeetii daldalli gadi bu'aadha, jedhe. (John Smock/Small World News)  \n![](44.jpg)  \n![](45.jpg)  \n![](46.jpg)  \n![](47.jpg)  \n![](48.jpg)  \n![](49.jpg)  \n![](50.jpg)  \nKallattiin yookaan al-kallattiin,yeroon seenaakee akka qindeessu gochuu danda'a. Karaan beekamaan ittiin seenaa suuraa haala yerootiin qindeessan akka  \u201cguyyaa jireenyasaa keessaa\u201d tiini.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "# Agarsiisa dalgee \nDhaabbataaleen oduu foormulaa wal xaxaa suuraalee barruu suuraaf yookaan agarsiisa suuraaf barbaachisan qopheessaniiru. Foormulaan kun suuraan akka tokko hin taanee eeguu fi qindoomina mirkaneessuu qophaa'e. Agarsiisi islaayidii  \u201ckeessaa\u201d fi \u201callatti\u201d deema. Yeroo hordoftooti seenicha hordofanitti, xiqqaarraa gara guddaattiii fi duubatti, irra deddeebi'uudhaan deema. Haalli kun nama ilaalu gammachiisuudhaan suuraa itti aanu cuqaasuudhaan akka inni ilaalu godha.  \nFoormulaan suuraalee gosa addaddaa kan agarsiisa islaayidii gaarii uumu kunooti. Suuraa qoodiinsa hundaa kan agarsiisa islaayidiikeef qindoomina qulqulluu kennan kaasuukee mirkaneeffadhu; suuraan garagaraa seenaa hawwataa uumu. (Hubadhu: foormulaan kun seenaa qabxiilee irratti yeroo hunda hin hojjetu, kan yeroo baayyee walitti qabaa suuraa gaggaarii dhimma tokkoo ta'an):", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "text": "![](51.jpg)  \n# Suuraa mallatto  \nSuuraa dhimma jiruu cuunfuu fi qabiyyee seenaa barbaachisoo ta'an ibsuudha. Suuraa tokko qofa yoo fayyadamte, suurichi kana ta'a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "text": "![](52.jpg)  \n# Bakkaa kaasuu\nBakka seenaakeetii qopheeffachuuf kofa bal'aadhaan kaasi. Yeroo seenaa suuraa qopheessitu, namoota karaa fuuteenii deemaa jirta. Kana fayyadmuudhaan bakka dhaqaa jiran akka hubannoo argataniif, suuraa bakkichi maal akka fakkaatu agarsiisuudhaan seenicha bakkicharratti hundaa'uun akka hubatan godhu kaasi.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_14"
+        }, 
+        {
+            "text": "![](53.jpg)  \n# Dhiyeessanii kaasuu  \nIbsa gadi fageenya qabiyyee addaa seenaakee. Dhiyeessanii kaasuun, yeroo tokko tokko gadi fageenyaan kaasuu jedhama, waan baayyee qaama ilaalutti hin himan garuu seenicha mul'isuurratti ga'ee guddaa qabu.  \nYEROO HUNDA suuraa baayyee dhiyeessii kaasi.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_15"
+        }, 
+        {
+            "text": "![](54.jpg)  \n# Qaama ka'u  \nQabxii seenichaaf barbaachisu irratti hundaa'uun dhiphisanii kaasuu yookaan naannoo jiruu wajjin kaasuu ta'uu danda'a. Barruun Suuraa qaama ka'urratti hundaa'ee qophaa'a. Suuraa gaarii kan qaama ka'u sana ibsuu danda'u qabaachuu qabda. Yeroo hunda suuraa addaddaa kaasi, tokko tokko kallattiin, jechuun namooti amala uumamaatiin yeroo jiran, kaan immoo kan suuraaf qophaa'an.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_16"
+        }, 
+        {
+            "text": "![](55.jpg)  \n# Gocha  \nGocharra utuu jiranii garicha keessaa nama kaasturratti xiyyeeffadhu. Suuraan qaama kaastuu namoota biroo wajjin kan wal quunnamuu yoo ta'e qaamichaaf namummaa kennuuf gargaara.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_17"
+        }, 
+        {
+            "text": "![](56.jpg)  \n# Bu'aa  \nSuuraan seenaa xumuruuf fayyadamamu, isa  \u201cXumurameera\u201d jedhu. Kun fakkii abbaa suuqii suuqiisaa cufuu, fakkii guyyaa filannootti utuu taajjabdooti manatti galaa jiranii aduu seenaa jiru, yookaan suuraa mucaa hospitaala keessatti baqaqsanii hodhuu booda rafaa jiruu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_18"
+        }, 
+        {
+            "text": "Fakkiileen jalqabaa agarsiisa islaayidiirraa hammi ta'an keessumaa barbaachisoo fi walitti qaba kanaa gaditti kan jiraniiti:  \n&bull; Bakka: Baayyinaan fakkii kofa bal'aadhaan kaafamee bakkicha hubachiisu, bakka seenichi itti ta'u.  \n&bull; Qaama ka'u: Seenaan suuraa saffisaan lubbuu horachuu qaba. Deemsa karaa deemtu irratti hiriyaa sii wajjin deemu gootee beeksisuu qabda.  \n&bull; Mallatto: Agarsiistuu seenicha hawwataa fi mul'inatti cuunfee dhiyeessuudha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_19"
+        }, 
+        {
+            "text": "## Walitti fufaa  \nAgarsiisa Muraal kufaatii General Muaammar Gaadaafii fi hawwii uumaataa balaa warraaqsa boodaa girgiddaa Tiriippoolii, Liibiyaa gaafa Waxabajjii 8, 2012 uwwise qopheesse.  \n![](57.jpg)  \n![](58.jpg)  \n![](59.jpg)  \n![](60.jpg)  \n![](61.jpg)  \n![](62.jpg)  \n![](63.jpg)  \n![](64.jpg)  \nWalitti fufaan tuuta suuraa wa fakkaattaa qabxii wal dorgomsiisaa ibsuudha: fakkeenyaaf walitti fufaa suuraa namootaa. Fakkiin walitti fufaa keessaa akkaataa wal fakkaataadhaan sirriitti wal dorgomsiisuuf taa'uu danda'u. Walitti fufaan ofii isaatiin karaa gaarii ittiin yaada ibsan yookaan qabiyyee suur-sagalee, sagalee, yookaan seenaa barreeffama qofaatiif seensa ta'uu danda'a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_20"
+        }, 
+        {
+            "text": "Akka warra kaanii fakkiikee walitti fufiinsaan kaa'uu hin qabdu. Yeroo tokko tokko hin danda'amu. Garuu kan ati yaadatti qabachuu qabdu tokko tokko kunooti:  \n&bull; Kofa mul'achuu:Yeroo danda'ametti, kofa mul'achuu kan walitti fufiinsaaf ta'u eeguu yaali, fakkeenyaaf, yoo suuraan tokko sadarkaa ijaatiin fudhatame, hundasaa sadarkaa ijaatiin fudhadhu.  \n&bull; Fageenya : Qaama kaastuu fi leensiikee gidduu bakka jirurratti hundaa'uun qindeessi. Kun walitti fufinsa mirkaneessa.  \n&bull; Goodaayyessuu: Suuraan hundi karaa wal fakkaataadhaan goodaayya'uu qaba. Fageenyi wal qixa yoo ta'e, qaamolee gurguddoodhaaf irraa fagaachuu qabda (Yookaan namoota mataa guddaa qban)) fi qaamolee xixiqqoodhaaf itti dhuyaachuu qabda.  \n&bull; Ququllina haalluu fi fakkichaa: Yoo danda'ame, fakkiiwwan tokko tokkoof filaashii hin fayyadamin. Walitti fufiinsa ISO fi madaala adiis eegi.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_21"
+        }, 
+        {
+            "text": "## WAANTOTA YAADATAMUU QABAN  \n&bull; Suuraa baayyee kaasi  \n&bull; Addaddumaan ijoodha.  \n&bull; Fakkiiwwan seenaa guutuu mul'isan irratti yaadi.  \n&bull; Dursa uwwisakeef karoorfadhu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_22"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Barruun suuraa gaariin fakkiiwwan walitti qabaman caalu. Qindoomina seenaa barbaadu. Fiannoowwan gaditti jiran keessaa kamtu qindoomina seenaaf dhiyeessuu danda'a (tokkoo ol ta'uu danda'a)?", 
+            "choices": [
+                {
+                    "text": "Seenichi yeroodhaan qindaa'uu danda'a.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Seenichi adeemsa akka waanti tokko itti ta'e akka agarsiisutti qindaa'uu danda'a.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Seenaan akka mul'isa qabiyyee kan qabiyyee barbaachisoo ta'an mul'isuutti qindaa'uu danda'a.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Hundii deebiidha.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Dhugaa yookaan Soba: Seenaan seenessuu gosa garagaraa barbaada. Walitti fufaan karaa biraatiin yoo fakkiidhaa gara gakkiitti gosa tokkoon qindaa'e caalmaatti hojjeta.", 
+            "choices": [
+                {
+                    "text": "Dhugaa", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Soba", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "Seenaa gaariin amala kanaa gadii qaba (tokkoo ol ta'uu danda'a).", 
+            "choices": [
+                {
+                    "text": "Pirojektiin xumuraa fakkiiwwan 8tii fi 20 gidduu ta'a.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Yoo seenaa seenessuu ta'e, addaddummaa mul'atutu jiraata.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Seenaawwan waa'ee dhimma bal'aa yeroo hunda seenaawwan xiyyeeffannoo argatan ni caalu.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Hundii deebiidha.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "the_photo_essay", 
+    "title": "Barruu Suuraa"
+}

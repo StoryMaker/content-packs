@@ -1,0 +1,31 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "INTRODUCCI\u00d3N AL AUDIO", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "A la gente le encanta contar historias a otros. Algunas veces estas historias se transmiten de generaci\u00f3n en generaci\u00f3n. La difusi\u00f3n de historias oralmente es algo m\u00e1s viejo que la radio.\nHoy el audio es una de las m\u00e1s dominantes formas de comunicaci\u00f3n en el planeta, y las herramientas y m\u00e9todos para crear audio son m\u00e1s accesibles que nunca antes. El programa de Audio proporciona las lecciones esenciales que necesita para crear buen audio.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Le sugerimos firmemente que complete el programa de Seguridad y Periodismo antes de comenzar. Esas lecciones est\u00e1n referenciadas en la secci\u00f3n Audio, pero se merecen su atenci\u00f3n dedicada. Sin ellas, es probable que se ponga a si mismo y a otros en riesgo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "introduction_to_audio", 
+    "title": "Introducci\u00f3n al audio"
+}

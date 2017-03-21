@@ -1,0 +1,35 @@
+{
+    "title": "\u1218\u1235\u1218\u122e\u127d\u1295 \u1260\u1218\u1320\u1240\u121d \u12a0\u1240\u1293\u1265\u122d", 
+    "storyPathTemplateFiles": {
+        "compose_with_a_grid": "compose_with_a_grid.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "compose_with_a_grid.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid_activity", 
+            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid_activity.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../3_create_layers/create_layers.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "compose_with_a_grid"
+        }
+    ], 
+    "currentStoryPathFile": "compose_with_a_grid.json", 
+    "id": "compose_with_a_grid"
+}

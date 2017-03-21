@@ -1,0 +1,79 @@
+{
+    "cards": [
+        {
+            "level": "Seensa", 
+            "headline": "Maal barachuuf abdii qabda?", 
+            "time": "? Minutes", 
+            "exampleMediaPath": "cover.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Tokkoon tokkoon keessan bilbila keessaniin, gaaffiif deebii hiriyaa keessanii wajjin geggeessaa, isa booda gaaffiif deebii innimmoo sii wajjin geggeessa.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "text": "\"Waa'ee suur-sagalee qopheessuurraatti maal barachuuf abdatta?\" jedhii hiriyaakee gaafadhu.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "Akka hiriyaakee dhageessutti itti dhiyaachuukee mirkaneeffadhu.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "text": " Sagaleen dudduubaa jeequ baayyeen yoo jiraate, bakka haaraa barbaadi.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.png", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Fakkeenya bakka mataa", 
+            "exampleMediaPath": "2.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Gaafadhu: Waa'ee suur-sagalee qopheessuurraatti maal barachuuf abdatta?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "Fakkii murichaa tuquudhaan kuti.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Yoo muraalee baayyee waraabde, maxxansuu keen dura muraa filatte qofa hambisuudhaan kan hafan haqi.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }, 
+        {
+            "text": "Hin yaadda'in, muraan hundi kuusaa faayaa keessa taa'a.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "g_odvw_0", 
+    "title": "Maal barachuuf abdii qabda?"
+}

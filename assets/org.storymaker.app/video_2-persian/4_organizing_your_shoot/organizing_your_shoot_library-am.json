@@ -1,0 +1,23 @@
+{
+    "title": "\u1240\u1228\u133b\u12ce\u1295 \u121b\u12f0\u122b\u1300\u1275", 
+    "storyPathTemplateFiles": {
+        "organizing_your_shoot": "organizing_your_shoot.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "organizing_your_shoot", 
+            "dependencyFile": "organizing_your_shoot.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "organizing_your_shoot"
+        }
+    ], 
+    "currentStoryPathFile": "organizing_your_shoot.json", 
+    "id": "organizing_your_shoot"
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/security-mena/1_introduction_to_security/introduction_to_security_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-mena/cover.png", 
+    "language": "ru", 
+    "title": "\u0412\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0432 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-mena/2_how_do_my_communications_put_me_at_risk/how_do_my_communications_put_me_at_risk_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-mena/cover.png", 
+    "language": "ru", 
+    "title": "\u041a\u0430\u043a \u043c\u043e\u0435 \u043e\u0431\u0449\u0435\u043d\u0438\u0435 \u043c\u043e\u0436\u0435\u0442 \u043f\u043e\u0434\u0432\u0435\u0440\u0433\u043d\u0443\u0442\u044c \u043c\u0435\u043d\u044f \u0440\u0438\u0441\u043a\u0443?"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-mena/3_how_can_i_use_sms_safely/how_can_i_use_sms_safely_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-mena/cover.png", 
+    "language": "ru", 
+    "title": "\u041a\u0430\u043a \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0421\u041c\u0421?"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-mena/4_how_can_i_use_a_browser_safely/how_can_i_use_a_browser_safely_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-mena/cover.png", 
+    "language": "ru", 
+    "title": "\u041a\u0430\u043a \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0431\u0440\u0430\u0443\u0437\u0435\u0440?"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-mena/5_how_can_i_send_email_safely/how_can_i_send_email_safely_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-mena/cover.png", 
+    "language": "ru", 
+    "title": "\u041a\u0430\u043a \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c Email?"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-mena/6_what_makes_a_password_strong/what_makes_a_password_strong_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-mena/cover.png", 
+    "language": "ru", 
+    "title": "\u0427\u0442\u043e \u0434\u0435\u043b\u0430\u0435\u0442 \u043f\u0430\u0440\u043e\u043b\u044c \u043d\u0430\u0434\u0435\u0436\u043d\u044b\u043c"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-mena/7_how_do_i_effectively_use_pseudonyms/how_do_i_effectively_use_pseudonyms_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-mena/cover.png", 
+    "language": "ru", 
+    "title": "\u041a\u0430\u043a \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u044b"
+  }
+]

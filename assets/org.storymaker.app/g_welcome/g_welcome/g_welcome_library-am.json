@@ -1,0 +1,36 @@
+{
+    "publishProfile": {
+        "publishSiteKeys": [
+            "storymaker"
+        ], 
+        "uploadSiteKeys": [
+            "s3"
+        ], 
+        "titlePrefix": "StoryMaker | ", 
+        "tags": [
+            "StoryMaker"
+        ], 
+        "descriptionPostfix": " Created with StoryMaker 2."
+    }, 
+    "title": "\u12c8\u12f0 StoryMaker 2 \u12a5\u1295\u12b3\u1295 \u12f0\u1205\u1293 \u1218\u1321", 
+    "storyPathTemplateFiles": {
+        "g_welcome": "g_welcome.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "g_welcome", 
+            "dependencyFile": "g_welcome.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "g_welcome"
+        }
+    ], 
+    "currentStoryPathFile": "g_welcome.json", 
+    "id": "g_welcome_library"
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/audio-mena/1_introduction_to_audio/introduction_to_audio_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-mena/cover.png", 
+    "language": "om", 
+    "title": "Seensa Sagalee"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-mena/2_audio_basics/audio_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-mena/cover.png", 
+    "language": "om", 
+    "title": "Bu'uura Sagalee"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-mena/3_preparation/preparation_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-mena/cover.png", 
+    "language": "om", 
+    "title": "Qophee"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-mena/4_types_of_stories/types_of_stories_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-mena/cover.png", 
+    "language": "om", 
+    "title": "Gosaawwan Seenaa"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-mena/5_storyboarding_recording_plan/storyboarding_recording_plan_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-mena/cover.png", 
+    "language": "om", 
+    "title": "Karoora Waraabbii Galmeeffachuu"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-mena/6_recording_tips_and_techniques/recording_tips_and_techniques_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-mena/cover.png", 
+    "language": "om", 
+    "title": "Qaccee fi Mala Waraabbii"
+  }
+]

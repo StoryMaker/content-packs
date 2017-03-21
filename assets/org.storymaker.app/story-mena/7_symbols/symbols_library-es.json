@@ -1,0 +1,23 @@
+{
+    "title": "S\u00edmbolos", 
+    "storyPathTemplateFiles": {
+        "symbols": "symbols.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "symbols", 
+            "dependencyFile": "symbols.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "symbols"
+        }
+    ], 
+    "currentStoryPathFile": "symbols.json", 
+    "id": "symbols"
+}

@@ -1,0 +1,320 @@
+{
+    "title": "Ifa tu'adhu", 
+    "storyPathLibraryFile": "control_light_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "shoot_on_an_angle", 
+            "dependencyFile": "../5_shoot_on_an_angle/shoot_on_an_angle.json"
+        }, 
+        {
+            "dependencyId": "control_light_activity", 
+            "dependencyFile": "../6_control_light_activity/control_light_activity.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "level": "Seensa |", 
+            "headline": "Ifa tu'adhu", 
+            "time": "5-10 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Ifi tu'atame fi mul'inni ifaa seeraan tu'atame suuraa moobaayilii bareedaadhaaf baayyee barbaachisaadha. Kaameeraan moobaayilii suuraa bareedaa kaasa garuu rakkoo addaddaa uuma. Kutaan kun akka itti ifa seeraan tu'atan si barsiisa.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "header": "Itti Aanee", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "milestone_start", 
+            "text": "Eegala"
+        }, 
+        {
+            "text": "Kaameeraan moobaayilii addaaddoo ifaa guddaadhaan rakkata- ifa aduu fi gaaddidduu guddaa goodaayyaadhuma tokko keessatti. Ifa xiqqaadhaanis ni rakkatu. Rakkoo ifaa furuu baruu fi yeroo suuraa kaastu ifatti malaan fayyadamuun suuraa bareedaa kaasuuf nama fayyada.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": " Sababa hurriin jiruuf sochii jarjaraa qabachuu hin dandeenye, kanaaf suuraan kun seeraan hin mul'atu.", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Yeroo namni ati kaastu jarjaree deemu suuraan ati kaaastu seeraan mul'achuu dhiisuu danda'a. Fakkii sirriitti mul'atu argachuuf, namni ati kaastu, suuta yeroo deemuu fi yeroo inni dhaabatu kaasi.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Yeroo danda'ametti, bakkaa fi yeroo ifa ga'aa itti argattan filadhaa. Yeroo namni ati kaastu suuta jedhee deemuu fi yeroo inni dhaabatu filachuu dandeessa.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Guyyaa keessaa yeroo suuraan ka'erratti hundaa'uun suuraan nama tokkoo garaagarummaa guddaa qaba.  Yeroo suuraa bareedaan itti ka'amu ganama suubii fi galgala yeroo aduun lixxuudha.", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Kaameeraan moobaayilii mul'ina ifaa ofii isaa argii tuqamurraa qaba. Mul'ina ifa suuraa keetii jijjiiruuf argiirraa bakka garagaraa tuquu dandeessu. Yaadadhu: Fayyadamni kaameeraa mataasaa xiyyeeffannoo jijjiiruufis ni fayyada. ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "4.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Argiirraa tuqaalee garagaraa tuquudhaan mul'innisaa akkanni jijjiiramu yaali ilaali", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "4.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Yeroo tokko tokko, mul'ina ifaa qofa jijjiiruun ga'aa miti. Ifa dudduubaa hin barbaachisne kennuunis rakkoo barameedha. Nama kaastu dudduuba ifi guddaan akka hin jiraanne eeggadhu. Kofa irra jirtu jijjiiruudhaan yookaan qaama suuraa kaastu bakka jiruu jijjiiruudhaan ifa guddaa dudduuba jiru tu'ata.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "5.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "suuraa kaditti jirurratti, inni suuraa kaasu ifa dudduuba jiru hambisuuf gara bitaatti siqee.", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "5.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Ifa jiru tu'achuu erga dandeessee booda ifatti fayyadamuudhaan suuraa gaggaarii kaasuu dandeessa.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Tu,annaa  Ifaa Rembrandt, mala ittiin ifa salphaa moggaarraan kennuudhaan dhaabbii ittiin bareechaniidha. Kunimmoo ifa karaa foddaa argamu ta'uu danda'a, fakkeenyaaf. Malli kun maqaa namicha suuraa kaasuun beekamaa ta'e tokkoon moggaafame.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "6.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "suuraa gara bitaa jirurratti, ifi salphaan gartokkoon ifaa jiru fuula namicha ka'aa jiruurratti bareedina addaa kenna.", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "6.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Ifa sirreessuudhaan waan haaraa uumuu dandeessa. Fakkeenyaaf, waan dukkanaa'aa duubasaa ifaa ta'e uumuun duubee baayyee ifu barbaada.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "7.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "suuraa kana keessatti mul'innisaa duubee baayyee ifutti maammileeffamee, waanta dukkanaa'an duubi isaa ifu uuma. ", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "7.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": " Fayyadama kaameeraa keerraa amalli olaanaan tokko tokko rakkoo ifaa furuuf ni gargaaru. Fakkeenyaaf, Mul'ina ifaa sirreessuu.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_9", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "8.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Baafata fayyadama kaameeraa keerraa amala olaanaa jiran keessa seenii ilaali.", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "8.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "text": "Fakkeenyota Dabalataa Ilaali", 
+            "header": "Itti Aanee", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_examples_start", 
+            "icon": "down"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_1.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Fakkeenya 1", 
+            "references": [
+                "control_light::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_1.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_7"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Fakkeenya 2", 
+            "references": [
+                "control_light::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_8"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Fakkeenya 3", 
+            "references": [
+                "control_light::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_9"
+        }, 
+        {
+            "text": "Baga Gammadde, tarkaanfilee bu'uuraa ifa kaameeraa moobaayiliirraa ittiin tu'atan barteettaa. Hojii kanaa gaditti jiru hojjechuudhaan dandeettii kaaraa horatte kana shaakali.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_10", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Hojicha Hojjedhu", 
+            "link": "control_light_activity::intro_card_0", 
+            "id": "link_card_0", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Barumsa Darbe", 
+            "link": "shoot_on_an_angle::intro_card_0", 
+            "id": "link_card_1", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }
+    ], 
+    "id": "control_light"
+}

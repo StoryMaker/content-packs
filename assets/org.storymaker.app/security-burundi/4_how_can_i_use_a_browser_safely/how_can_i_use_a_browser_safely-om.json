@@ -1,0 +1,184 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Akkamittan nageenyaan iyyaafannoo fayyadama?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Kutaa kana keessatti:  \n&bull; Akka kennaan Tajaajila Interneetti (ISP) itti hojjetu\n&bull; Akka waanti ati sakatta'uu jaallattu itti qaama biraan hoogganamu", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Yoo namni ta'e bilbilakee dhoksee dhaggeeffachuu barbaade, Inni/Isheen bilbilakee qaamaan argachuu yookaan dhaabbata fayyadama bilbilaa namaaf kennurraa argachuu qaba. Interneetiirratti sarara interneetii ati fayyadamtuun yookaan dhaabbata fayyadama interneetii kennu (ISP) amansiisuu qabu. Hojiin ati kompiyuutarakee fayyadamuudhaan interneetiirratti hojjettu mala hordoffiitiin galmaa'uu yookaan tu'atamu ni danda'a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "# Akkamitti hoogganamte", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![Akka ISP'n itti hojjetu](2.png)  \n### Akka ISP'n itti hojjetu  \nBilbila namaa fi sarara interneett xalaffun dandeettii adda ta'ee fi iccitiidhaan hojjechuu gaafachuunsaa hin oolu; ISP amansiisuutu salphata. Biyyooti baayyeen ISP tokko qofa qabu, innis yeroo baayyee mootummaadhaan tu'atama.  \nBiyyooti hundi seensa karra interneetii qabu. Karri kun fayyadama interneetii biyya tokko seenuu fi ba'u hooganuuf banamuu yookaan cufamuu danda'a. Sochiin interneetii hundi karra biyyattii keessa darba, karra interneetii qabachuun sochii interneetii biyyattii keessatti ta'u hunda qabachuudha jedhee namni tilmaamuu danda'a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![Kuukiin akkamitti kompiyuutararra ol kaa'ama](3.png)  \n### Kuukiin akkamitti kompiyuutararratti ol kaa'ama\nHojiin ati interneetiirratti hojjette ideoola saaphaphuu itti fayyadamtee fi meeshaa itti fayyadamterratti ol taa'a. Iddoolli saaphaphuu baayyeen ijaarsa kukii sirraa barbaadu. Kuukiin faayilii odeeffannoo fayyadamaa barbaade qabatuudha. Fakieenyaaf, Iddolli tokko tokko yeroo ati ilaaltu biyyakee qabatee biyyakeetiif kan ta'u siif dhiyeessa. Odeeffannoo biraan eessarraa eessatti akka darbitee ideoola kana akkamitti akka geesse ta'a, daataa odeeffannoo waa'eekee kompiyuutara keerrraa.  \nJi'a tokkoof interneetii sakatta'uu kee booda, kuukiiwwan dhibbaan lakkaa'aman kompiyuutara keerra jiraachuu danda'u. Isa ilaaluun fedhakee fi kan ati itti hirkatte mul'isa. Kuukiin kompiyuutara keerraa iddoolicha ilaaluukeef ragaa ta'a.  \nKompiyuutara keerraa kukii haquun ni danda'ama. Iyyaafata interneetii keerraa yookaanofiin kompiyuutararra barbaaddee haquu dandeessa. Iyyaafatikee akka inni kuukii hin fudhanne gochuus ni dandeessa. Kun iddoolli saphaphuu baayyeen akka hin banamne yeroo godhu, garuu rakkoo kuukiin fidu gutuutti hanbisa", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "# Seenaa sakatta'iinsaa  \nIyyafatikee durtiidhaan seenaa ol kaa'a. Dhimma eeggannoo barbaadu sakatta'aa jirta yoo ta'e,kuuftaalessa seenaa cufuu fi seenaa haquu qabda.  \nIyyaafata Chrom irraa qabiyyee dabalataa \"incognito tab\" yookaan iyyaafata Firefox irraa \"private browsing\" kan jedhan fayyadami.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![HTTP fi HTTPS akka itti hojjetan](4.png)  \n### HTTP fi HTTPS akka itti hojjetan  \nseenaa haquun tarkaanfii karaa eeggannoo qabuun iddoola sakataa'aniidha. Iddoolarraa  saaphaphuu garri caalaan karaa HTTP hin icciteessamneen fayyadamamu. HTTP dhoksaan dhageefatamu  fi qaamni ta'e gidduu galee fuula ati sakatta'aa jirtu akka inni jijjiiru gochuuf saaxilamaadha.  \nHTTPS'iin nageenyisaa eegamaa sababa ta'eef HTTP irra kan filatamuudha. HTTPS'iin fuulicha icciteessuudhaan waan sadii mirkaneessuu yaala: 1) qaamni sadaffaan fuulicha akka hin argine gochuu, 2) fuulichi qaama sadaffaadhaan akka hin jijjiiramnee, fi 3) fuulichi kaadimaa saaphaphuu bakka teessoorra jirurratti akka ergamu adda baasuu.  \nHaa ta'u malee, kaadimaan saaphaphuu dursa kan HTTPS fudhatu ta'ee sirrachuu qaba. Yoo odeeffannoo eeggannoo barbaadu iddoola ta'erratti erguuf karoorfatte, akka inni HTTPS'ii fayyadamu adda baafadhu. Yoo iddolichi HTTPS hin fudhatu ta'e, odeeffannoo eeggannoo barbaadu karaa kana hin ergin.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![Fayyadama HTTPS irratti qabxiilee tokko tokko](5.png)  \n### Fayyadama HTTPS irratti qabxiilee tokko tokko  \nFuula HTTPS'ii irra jiraachuu kee baruuf mul'istuu sadan ilali: 1) teessoon iddoolaa kan ittiin jalqabu, https://, 2) Mallattoon furtuu koornerii iyyaafatakeetii yookaan fuuldura bakka teessoo iddoolaarra jira, and 3) Bakki iddoo teessoo iddoolaa haalleffamuu.  \nYoo akeekkachiisa dhimma sertifikeetiitiif argatte yookaan fakkii furtuu banaa youu argite, nageenyi iddoola keetii kamiyyuu cabuu akka danda'u tilmaamuu qabda. Utuu odeeffannoo eegumsa barbaadu iddoolicharratti hin maxxansin webmaasterii iddoolichaa quunnamuudhaan akka inni sirreessu godhi.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "![Cimdaa Dhoksaa](6.png)  \n### Cimdaa Dhoksaa\nCimdana dhoksaa iddolaawwan ISP yookaan mootummaadhaan cufaman ittiin banachuuf fayyada. HTTPS qofa fayyadamuudhaan sadarkaa nageenya iccitii dhuunfaa fi eenyummaa dhokataadhaan fayydamuu hin arganne akka argattu godha.  \nXalayaa of keessaa xalayaalee garagaraa of keessatti qabatanii jiran hiriyaakeef ergite jedhii yaadi, tokkoon tokkoon xalayichaarratti teessoo garagaraa barreessuudhaan. Xalayichi teessoosaarra bifa dhokataa ta'een naanna'a. Warra xalayicha fudhatan keessaa eenyuyyuu bakka inni ka'ee fi bakka inni ga'u hin beekan, garuu bakka inni irraa biraa ga'ee fi itti aanee bakka inni ga'u qofa beeka.\nCimdaan TOR sirna akkasiiti. Gaaffii sakatta'iinsaake fi argama karaarrakee akka dhokatu godha. Qaamni ISP yookaan karra biyyaa irraa si hordofuu maal akka sakattaa'aa jirtuu, fi iddoolli ati ilaaltu gaaffiinkee eessaa akka dhufu hin baran.  \nBilbila andirooyidii irratti TOR'ii fayyadamuun jalqabameera. Orbot fi Orweb fayyadamoota lamaan of dhoksanii iddoola sakatta'uuf wajjin hojjetaniidha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## WAANTOTA YAADATAMUU QABAN  \n&bull; Yeroo danda'ame kamittuu HTTPS fayyadami.  \n&bull; Sakatta'iinsikee qaama biraadhaan hordofamaa jir jettee yoo yaadde, cimdaa dhoksaa fayyadami, kan akk TOR.  \n&bull; Kukii cufi.  \n&bull; Seenaa sakatta'iinsa keetii cufi.  \n&bull; Sakatta'iinsikee yoomiyyuu dhibbaa dhibba nageenyisaa eegamuu hin danda'u; yoo odeeffannichi lubbuukeerratti miidhaa miidhaa fida ta'e, karaa iyyaafannoo hin ergin.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "Akkamitti sakatta'uun rakkoo keesa na galcha?", 
+            "choices": [
+                {
+                    "text": "Durtiidhaan, ISPn koo galmee sakatta'iinsakootii hunda qabaachuu danda'a.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Interneetiin bakka nama sodaachisuudha.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Durtiidhaan iyyaafati seenaa qabatee ta'a.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Seenaan sakatta'iinsakootii mootummaadhaan ilaalamuu danda'a.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "Karaa nageenya qabuun sakatta'uuf tarkaanfilee akkamiin fudhqchuu qaba?", 
+            "choices": [
+                {
+                    "text": "\"History\" kuftaleessuu cufi.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "\"history\" kee haqi", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Iyyaafata Chrom irraa \"incognito tab\"/iyyaafata Firefox irraa private browsing kan jedhan fayyadami.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Yeroon sakatta'iinsa xumuru kompiyuutaran cufa.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "Cimdaan Dhokannaa maaliif fayyada?", 
+            "choices": [
+                {
+                    "text": "Karaankoo qaama biraatiin akka inni hin hoogganamne eeggachuu.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Ideoola saphaphuu cufame ilaaluu.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Iddoolli saphaphuu amala sakatta'iinsaa kee akka hin hordofeef.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Hojii badii keessatti hirmaachuu.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Akkamitti iyyaafati kee karaa HTTPS walindhii akka ta'ee barta?", 
+            "choices": [
+                {
+                    "text": "Teessoo saaphaphuu barreessuukoo dura HTTPS kan jedhun barreessa.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Fakkiin furtuu koornerii iyyaafataarra yookaan bakka teessoorra teessio iddoola saphaphuu biratti argama.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Wallindhiinsaa yeroo hunda karaa HTTPS'iiti.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Hunduu deebiidha.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "how_can_i_use_a_browser_safely", 
+    "title": "Akkamittan Nageenyaan Iyyaafanno Fayyadama"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-persian/1_evolution_of_a_story/evolution_of_a_story_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-persian/cover.png", 
+    "language": "om", 
+    "title": "Jijjiirama Seenaa"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-persian/2_introduction_to_ethics_and_professional_standards/introduction_to_ethics_and_professional_standards_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-persian/cover.png", 
+    "language": "om", 
+    "title": "Seensa Naamusaa fi Sadarkaa Hojii "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-persian/3_using_text/using_text_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-persian/cover.png", 
+    "language": "om", 
+    "title": "Barreeffama Fayyadamuu"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-persian/4_media_law/media_law_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-persian/cover.png", 
+    "language": "om", 
+    "title": "Seera Miidiyaa"
+  }
+]

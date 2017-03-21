@@ -1,0 +1,103 @@
+{
+    "cards": [
+        {
+            "header": "Itti aanee", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "Waa'ee Qajoojii kanaa"
+        }, 
+        {
+            "text": "Kun qajojii walitti fufiinsa gachaati. Walitti fufiinsi tuuta fakkiiwwan wal fakkaatanii kan qabxii wal dorgomsiisaa ibsaniitii. Fakkiiwwan walitti fufiinsa keessaa caalmaatt wal dorgomsiisuuf haala qophiitiin wal fakkachu qabu.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_photo_series_action::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "series"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Gocha seenaakeef barbaachisaa ta'e suuraa kaasi. Gocha jiru hunda goodaayyaa keessa galchi."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Akkaataa qopheessa suuraa jalqabaa nama biraadhaan irra deebi'i."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Qopheessaa  qaama biraadhaan irra deebi'i."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "series"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Qophicha qaama biraadhaan irra deebi'i."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Qophicha qaama biraadhaan irra deebi'i."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "series"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_photo_series_action", 
+    "title": "Walitti Fufiinsa - Gocha"
+}

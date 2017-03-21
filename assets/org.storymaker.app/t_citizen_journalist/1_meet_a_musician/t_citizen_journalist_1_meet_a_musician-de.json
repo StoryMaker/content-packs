@@ -1,0 +1,219 @@
+{
+    "cards": [
+        {
+            "level": "Anfaenger !", 
+            "headline": "Treffe ein Musiker! ", 
+            "time": "15-30 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Treffe ein Musiker! Diese anleitung hilft Ihnen eine Geschichte ueber Ihren Nachbar, der Musiker ist zu erzaehlen. ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "text": "Diese Anleitung besteht aus drei Szenen. Du wirst eine Aufnahme des Musiker machen, wie das Publikum darauf reagiert und Ihre aeuserungen, und letztendlich interviewst du den Musiker.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "Bereite die Szene vor, zeige dem Musiker wo er spielen soll."
+            ], 
+            "clipType": "place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "Mach mehrere Schnappschuesse je nach bedarf. Wenn du das richtige Bild gefunden hast, fahre fort mit den unteren Bildern.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Nehmen Sie den spielenden Musiker auf, zeige den ganz Koerper im Bild ."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Mache eine Aufnahme vom Musiker ueber seine Gesichtszuege "
+            ], 
+            "clipType": "result", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Wenn moeglich, nehme  Sie die Haende waehrend dem Spielen auf."
+            ], 
+            "clipType": "signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Machen Sie  eine weitere aufnahme von einem anderen Winkel waehrend der Musiker spielt."
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "text": "Waehrend Sie jetzt Aufnehmen focusieren Sie die Reaktionen und die Meinungen des Publikums. ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Zeige wie das Publikum darauf reagiert - Klatschen oder Tanzen waere da eine gute Wahl."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Nehme klatschende Haende oder zuhoerende Gesichter auf."
+            ], 
+            "clipType": "signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Machen Sie  jetzt eine Aufnahme vom Platz mit fokus auf das Publikum, nicht den Musiker."
+            ], 
+            "clipType": "place", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Frage-Wie ist deine Meinung ueber den Musiker ?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "text": "Wenn Sie noch etwas Zeit uebrig haben, fahren Sie fort und fuehren Sie weitere interviews mit den Leuten die auf den Karten zu finden sind. Ueberlegen und finden Sie andere Fragen, wie zum Beispeil, Wie lange hat der Musiker hier gespielt? Oder hast du ein spezieles lieblingslied das dir von ihm gefaellt ?", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
+            "text": "Ich moechte mehr Leute Interviewen", 
+            "header": "Weiter", 
+            "references": [
+                "meet_musician::value"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_start", 
+            "icon": "down"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "references": [
+                "meet_musician::milestone_start::value::true"
+            ], 
+            "goals": [
+                "Hast du ein bestimmtes lieblings Lied vom Musiker ?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_9"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "references": [
+                "meet_musician::milestone_start::value::true"
+            ], 
+            "goals": [
+                "Was moechtest Sie uns ueber den Musiker erzaehlen ?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_10"
+        }, 
+        {
+            "text": "Benutze die Kopiere Karte im  Menue um weitere Karten zu erstellen falls du weitere Leute interviewen willst.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "meet_musician::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Mache eine weitere Aufnahme von der Szene, dem Musiker, und dem Publium."
+            ], 
+            "clipType": "place", 
+            "type": "ClipCard", 
+            "id": "clip_card_11"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Machen Sie eine zweite  Aufnahme von einem weiteren Song vom Musiker."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_12"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Interview des Musiker- Warum gerade diese Musik /Platz/Zeit am Tag?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_13"
+        }, 
+        {
+            "text": "Sie koennen jederzeit mich Fragen, wenn sie mehrere Aufnahmen vom spielenden Musiker und die Reaktionen des Publikums brauchen. Ueberlege und finde weitere andere interressante Winkel einige von unten oder oben, oder halte die Kamera etwas schraeg mehr nach links oder nach rechts.  ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6"
+        }, 
+        {
+            "text": "Wenn du genug Film Material hast, kannst du sie unterhalb ordnen, klick einfach auf die  \"Ordnen\" Taste. Du kannst die einzelnen Clips vom Film Material kuerzen, beim anklicken der Fotos.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_citizen_journalist_1_meet_a_musician", 
+    "title": "Treffe ein Musiker! "
+}

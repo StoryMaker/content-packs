@@ -1,0 +1,96 @@
+{
+    "cards": [
+        {
+            "level": "Anfaenger !", 
+            "headline": "Haben Sie ein Verkehrs Unfall gesehen ?  Bitte Melden !", 
+            "time": "10-15 minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Zeige mir die Unfallstelle."
+            ], 
+            "clipType": "place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Zeigen Sie was gerade um den Unfallplatz herum passiert."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Zeigen Sie einen Ausschnitt vom Unfall zum beispiel, zerbrochenes Glass , ausgerissenen Tuere usw.", 
+                "Zeige eine detalierte Nahaufnahme des Unfalls, zerbrochenes Glass, ausgerissene Tuere usw. "
+            ], 
+            "clipType": "signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Sehen Sie,  da meldet sich jemand wegen dem Unfall."
+            ], 
+            "clipType": "result", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "text": "Als naechstes suchen Sie ein Interview mit Personen die sich in der Umgebung der Unfalllstelle aufhalten. Seien Sie aber sicher dass die Personen und  Sie an einer sicher Stelle sind befinden, bevor Sie mit dem abschnitt Ihrer Geschichte beginnen.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Frage- Wie soll ich den Unfall gesehen haben ?  Wie is es passiert ? "
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Frage- Hat sich der zustaendige Notdienst bei Ihnen gemeldet ?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "text": "Kopiere die oberen Karten und Interview so viele du benoetigst. Versuche ein Gespraech mit den Augenzeugen und die vom Notdienst .", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "Machen Sie mehrere aufnahmen je nach bedarf und benoetigung, sortieren Sie ihre Clips unterhalb der Sortier Taste, danach klicken Sie auf hochladen und veroeffentlichen. ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_citizen_journalist_2_traffic_accident", 
+    "title": "Haben Sie den Verkehrs Unfall gesehen ?"
+}

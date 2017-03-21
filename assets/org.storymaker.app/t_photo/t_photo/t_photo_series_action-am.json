@@ -1,0 +1,103 @@
+{
+    "cards": [
+        {
+            "header": "\u12ed\u1240\u1325\u1209 ", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "\u1235\u1208\u12da\u1205 \u1309\u12f3\u12ed \u12a0\u1265\u1290\u1275"
+        }, 
+        {
+            "text": "\u12ed\u1205 \u12e8\u12f5\u122d\u130a\u1275 \u1270\u12a8\u1273\u1273\u12ed \u12a0\u1265\u1290\u1275 \u1290\u12cd\u1362 \u1270\u12a8\u1273\u1273\u12ed \u121b\u1208\u1275 \u12a0\u1295\u12f5 \u12a0\u1295\u133b\u122b\u12ca \u1290\u1325\u1265\u1295 \u1208\u121b\u1235\u1228\u12f3\u1275 \u12e8\u121a\u1240\u122d\u1261 \u1270\u1218\u1233\u1233\u12ed \u121d\u1235\u120e\u127d \u1235\u1265\u1235\u1265 \u121b\u1208\u1275 \u1290\u12cd\u1362 \u1260\u1270\u12a8\u1273\u1273\u12ed \u12cd\u1235\u1325 \u12e8\u121a\u1240\u122d\u1261 \u121d\u1235\u120e\u127d \u1295\u133d\u133d\u1229\u1295 \u12ed\u1260\u120d\u1325 \u1208\u121b\u1235\u1228\u12f3\u1275 \u1260\u12d8\u12ed\u1264\u12a0\u1278\u12cd \u1270\u1218\u1233\u1233\u12ed \u1218\u1206\u1295 \u12a0\u1208\u1263\u1278\u12cd\u1362  ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_photo_series_action::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "series"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u1208\u1273\u122a\u12ad\u12ce \u12a0\u1235\u1348\u120b\u130a \u12e8\u1206\u1290 \u1270\u130d\u1263\u122d\u1295 \u134e\u1276\u130d\u122b\u134d \u12eb\u1295\u1231\u1362 \u1219\u1209\u12cd\u1295 \u1270\u130d\u1263\u122d \u1260\u134d\u122c\u1219 \u12cd\u1235\u1325 \u12eb\u1235\u1308\u1261\u1362 "
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u12e8\u1218\u1300\u1218\u122a\u12eb\u12cd\u1295 \u134e\u1276 \u1245\u1295\u1265\u122d \u1260\u120c\u120b \u1308\u1338 \u1263\u1205\u122a \u12ed\u12f5\u1308\u1219\u1362"
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u12e8\u1218\u1300\u1218\u122a\u12eb\u12cd\u1295 \u134e\u1276 \u1245\u1295\u1265\u122d \u1260\u120c\u120b \u1308\u1338 \u1263\u1205\u122a \u12ed\u12f5\u1308\u1219\u1362  "
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "series"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u1245\u1295\u1265\u1229\u1295 \u1260\u120c\u120b \u1308\u1338 \u1263\u1205\u122a \u12ed\u12f5\u1308\u1219\u1362 "
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u1245\u1295\u1265\u1229\u1295 \u1260\u120c\u120b \u1308\u1338 \u1263\u1205\u122a \u12ed\u12f5\u1308\u1219\u1362 "
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "series"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_photo_series_action", 
+    "title": "\u1270\u12a8\u1273\u1273\u12ed - \u12f5\u122d\u130a\u1275 "
+}

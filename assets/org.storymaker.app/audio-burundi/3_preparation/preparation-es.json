@@ -1,0 +1,125 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Encontrar un buen tema es la parte clave de cualquier historia de audio, pero \u00bfcu\u00e1l es la mejor manera de escoger un tema y planificar mi historia?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:\n&bull; Sobre qu\u00e9 deber\u00eda pensar antes de comenzar su historia.\n&bull; C\u00f3mo planificar su historia de audio.\n&bull; C\u00f3mo pensar en su audiencia al planificar su historia.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Antes de comenzar a producir la pieza de audio, hay unas pocas preguntas que debe responder.  \n&bull; \u00bfCu\u00e1l es la forma m\u00e1s convincente de contar su historia? \u00bfEs una historia acerca un evento, persona o asunto espec\u00edfico? Determine si la historia se centra en eventos recientes, el impacto del asunto en la sociedad, o si es una historia acerca de una persona interesante.  \n&bull; \u00bfCu\u00e1l es su \u00e1ngulo? Una buena forma de pensar acerca de como aproximarse a un asunto despertando el inter\u00e9s sobre este, es pensar en c\u00f3mo afecta realmente a la gente corriente.  \n&bull; \u00bfA qu\u00e9 audiencia se est\u00e1 dirigiendo? \u00bfEn qu\u00e9 est\u00e1 interesada esta?  \n&bull; \u00bfPuede presentar la historia de una manera atrayente, clara e interesante? \u00bfDe qu\u00e9 distintas partes consta su historia?  \n&bull; \u00bfQu\u00e9 audio quiere grabar? \u00bfEntrevistas, cortes de sonidos relevantes que simbolicen la historia, sonidos para la presentaci\u00f3n de la historia?  \n&bull; \u00bfDe qu\u00e9 intervalo de tiempo precisar\u00e1 para producir la historia?", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "2.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo de una entrevista", 
+            "exampleMediaPath": "2.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Una vez que haya trazado su plan, tiene que elaborar la organizaci\u00f3n y preparaci\u00f3n necesarias. Acuerde los tiempos de grabaci\u00f3n con sus fuentes. Planifique donde grabar, y aseg\u00farese de que hay un entorno de grabaci\u00f3n adecuado.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "3.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo de un reportaje de audio en primera persona", 
+            "exampleMediaPath": "3.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "![Plan de audio](4.png)  \nPlanifique su segmento de audio antes de comenzar a grabar. Su plan debe incluir:    \n&bull; Un resumen de su segmento  \n&bull; Qui\u00e9n debe ser entrevistado  \n&bull; Periodo de tiempo para terminarlo  \n&bull; Duraci\u00f3n prevista del programa  \n&bull; Si est\u00e1 haciendo una entrevista, prep\u00e1rese. Para profundizar, vea la lecci\u00f3n \"T\u00e9cnicas de entrevistado\" en la secci\u00f3n de Periodismo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "No olvide preguntarse a si mismo: \u00bfPor qu\u00e9 estoy haciendo este programa? \u00bfHay una audiencia espec\u00edfica que quiero alcanzar?\nDeje suficiente tiempo para la edici\u00f3n y publicaci\u00f3n. Es posible que tenga que cambiar su plan en base a qu\u00e9 cortes e informaci\u00f3n es capaz de recopilar.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Elabore un plan, no grabe simplemente cualquier cosa.  \n&bull; Trace un esquema o un gui\u00f3n para si mismo que pueda usar durante las entrevistas o al grabar una entrevista o reportaje.  \n&bull; Contacte con potenciales entrevistados por adelantado y deles opciones para elegir donde y cuando pueden encontrarse.  \n&bull; Piense en lo que la audiencia quiere alcanzar cuando decida la clase de historia o formato a grabar.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfQu\u00e9 tipo de segmento de audio NO podr\u00eda producir si estuviera solo en la jungla?", 
+            "choices": [
+                {
+                    "text": "Un reportaje de audio en primera persona", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Un segmento estilo documental centrado en los sonidos de la naturaleza", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Una entrevista", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Si quisiera entrevistar al Alcalde de una ciudad importante, \u00bfc\u00f3mo proceder\u00eda?", 
+            "choices": [
+                {
+                    "text": "Contacte con la oficina de \u00e9l/ella, pres\u00e9ntese a si mismo y su propuesta, y concierte una cita.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Vaya hoy a la oficina del Alcalde e insista en realizar la entrevista inmediatamente.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Descubra d\u00f3nde come el Alcalde y ab\u00f3rdele saliendo de detr\u00e1s de un \u00e1rbol cuando abandone el edificio.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "preparation", 
+    "title": "Preparaci\u00f3n"
+}

@@ -1,0 +1,219 @@
+{
+    "cards": [
+        {
+            "level": "Principiante |", 
+            "headline": "\u00a1Tenga un encuentro con un m\u00fasico!", 
+            "time": "15-30 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "\u00a1Tenga un encuentro con un m\u00fasico! Esta gu\u00eda le ayudar\u00e1 a contar la historia del m\u00fasico de su barrio.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "text": "Esta gu\u00eda implica tres escenas. Grabar\u00e1 al m\u00fasico, la reacci\u00f3n y opiniones de la audiencia, y finalmente entrevistar\u00e1 al m\u00fasico.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "Prepare la escena, muestre d\u00f3nde toca el m\u00fasico."
+            ], 
+            "clipType": "place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "Realice tomas adicionales si es necesario. Cuando tenga una toma del lugar con el que est\u00e9 contento, contin\u00fae con sus tomas de debajo.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Grabe al m\u00fasico tocando, muestre a la persona entera en su encuadre."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Grabe la cara y la expresi\u00f3n del m\u00fasico."
+            ], 
+            "clipType": "result", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Si es posible, grabe las manos tocando."
+            ], 
+            "clipType": "signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Grabe otro \u00e1ngulo del m\u00fasico tocando."
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "text": "Ahora c\u00e9ntrese en grabar a la audiencia, sus reacciones y opiniones.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Muestre a la audiencia respondiendo - tocando palmas o bailando puede que sean buenas opciones."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Grabe manos tocando palmas o caras escuchando"
+            ], 
+            "clipType": "signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Ahora grabe el lugar, centr\u00e1ndose en la audiencia, no en el m\u00fasico."
+            ], 
+            "clipType": "place", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Pregunte - \u00bfCu\u00e1l es su opini\u00f3n del m\u00fasico?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "text": "Si tiene tiempo, entreviste a unas pocas personas m\u00e1s en las cartas de previsualizaci\u00f3n que siguen. Considere otras preguntas, como, \u00bfdurante cu\u00e1nto tiempo ha tocado aqu\u00ed el m\u00fasico?, o \u00bftiene alguna canci\u00f3n favorita que toque este m\u00fasico?", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
+            "text": "Quiero entrevistar a m\u00e1s gente", 
+            "header": "Siguiente", 
+            "references": [
+                "meet_musician::value"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_start", 
+            "icon": "down"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "references": [
+                "meet_musician::milestone_start::value::true"
+            ], 
+            "goals": [
+                "\u00bfTiene alguna canci\u00f3n favorita del m\u00fasico?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_9"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "references": [
+                "meet_musician::milestone_start::value::true"
+            ], 
+            "goals": [
+                "\u00bfQu\u00e9 quiere contarnos aceca del m\u00fasico?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_10"
+        }, 
+        {
+            "text": "Use la opci\u00f3n duplicar carta de previsualizaci\u00f3n en el men\u00fa para crear cartas adicionales si quiere entrevistar todav\u00eda a m\u00e1s gente.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "meet_musician::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Grabe otro corte mostrando la ubicaci\u00f3n, al m\u00fasico, y la audiencia."
+            ], 
+            "clipType": "place", 
+            "type": "ClipCard", 
+            "id": "clip_card_11"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Grabe al m\u00fasico tocando una canci\u00f3n m\u00e1s."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_12"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Entreviste al m\u00fasico - \u00bfPor qu\u00e9 esta m\u00fasica/lugar/hora-del-d\u00eda?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_13"
+        }, 
+        {
+            "text": "T\u00f3mese la libertad de formular m\u00e1s preguntas, o grabe tomas adicionales del m\u00fasico tocando y la respuesta de la audiencia. Considere \u00e1ngulos interesantes, tales como muy bajo, alto, o ladear la c\u00e1mara a izquierda o derecha.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6"
+        }, 
+        {
+            "text": "Cuando tenga suficientes cortes, puede organizarlos debajo pulsando el bot\u00f3n 'Ordenar'. Puede recortar clips individuales pulsando su imagen miniatura.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_citizen_journalist_1_meet_a_musician", 
+    "title": "\u00a1Tenga un encuentro con un m\u00fasico!"
+}

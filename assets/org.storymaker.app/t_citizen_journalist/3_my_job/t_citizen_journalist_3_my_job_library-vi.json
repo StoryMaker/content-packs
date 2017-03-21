@@ -1,0 +1,23 @@
+{
+    "title": "C\u00f4ng vi\u1ec7c c\u1ee7a b\u1ea1n l\u00e0 g\u00ec?", 
+    "storyPathTemplateFiles": {
+        "t_citizen_journalist_3_my_job": "t_citizen_journalist_3_my_job.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "t_citizen_journalist_3_my_job", 
+            "dependencyFile": "t_citizen_journalist_3_my_job.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "t_citizen_journalist_3_my_job"
+        }
+    ], 
+    "currentStoryPathFile": "t_citizen_journalist_3_my_job.json", 
+    "id": "t_citizen_journalist_3_my_job_library"
+}

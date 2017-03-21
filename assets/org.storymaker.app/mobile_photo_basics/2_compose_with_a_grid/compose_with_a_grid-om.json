@@ -1,0 +1,325 @@
+{
+    "title": "Tarsaatti fayyadamuudhaan Fakkii kaasuu", 
+    "storyPathLibraryFile": "compose_with_a_grid_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "know_your_mobile", 
+            "dependencyFile": "../1_know_your_mobile/know_your_mobile.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid_activity", 
+            "dependencyFile": "../2_compose_with_a_grid_activity/compose_with_a_grid_activity.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../3_create_layers/create_layers.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "level": "Seensa |", 
+            "headline": "Tarsaadhaan Kaasuu", 
+            "time": "3-5 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Tarsaatti fayyadamuudhaan suuraa kaasuun hojii nama suuraa kaasuu keessaa isa bu'uuraa inni hubachuu qabuudha. Kutaan kun akka itti suuraakee tarsaadhaan ilaaltu si barsiisa.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "header": "Itti Aanee", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "milestone_start", 
+            "text": "Jaqabi"
+        }, 
+        {
+            "text": "suuraankee akka waan rog-arfee sagal irraa hojjetamuutti yaadi. Bakki cimaan sirriitti ilaalamanii seenaakee himan rog-aarfoota salganuuti.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Tarsaa suuraarra kaa'uun fakkicha rog-arfee wal qixxee sagalitti qooda.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Bilbilli teekinooloojii yeroo ammaa baayyeen tarsaa fayyadama kaameeraasaarratti ni fida. yeroo suuraa kaastu, tarsaa fayyadami.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Qaama kaasuu barbaadde gidduu kaa'uudhaan bakka haferraa dhimma dhabuu hin qabdu.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Tarsaan suuraakee gidduu kaa'uurra darbee akka fayyaduufi. Mee akka itti  sarara tarsaatti fayyadamuun suuraa bareedaa kaasuu akka dandeenyu haa ilaallu.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "4.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Toorri kun tarree sadaffaa isa jalaa goodayyaa uuma.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "4.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Suurichi dalgeessa yoo ta'e, sararichi surdaalee tarsaa keessatti uumuuf fayyada.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "5.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Toorri kun tarree sadaffaa isa irraa goodayyaa uuma.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "5.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Yoo suuraan dhaabbiidhaan ta'e, Iji nama ka'aa jiruu sarara is gara oliirra ta'a. Caalmaatti yeroo shaakalaa deemtu yeroo tokko tokko sararri inni gadii akka gaariitti akka hojjetu adda baafatta.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "6.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Tarsaan fakkii walxaxaa goodaayya tokko keessa akka galchinu godha.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "6.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Tarsaa sirriitti fayyadamuuf, sarjaa fi surdalli waliin hojjetanii goodaayyaa uumuu qabu.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Qarree goodayyaa keetii sirriitti adda baasi. Waantota barbaadaman goodayyaakee keessa galchuu yaali.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "7.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "suuraa kanarratti, wantooti barbaachisan goodaayyaa tokko keessatti qabamanii jiru.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "7.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "Odeeffannoo barbaachisuun goodayyaa keessa akka guutuu qabu yaadadhu. Tarsaatti fayyadamuudhaan odeeffannookee qindeeffadhuutii suuraa dinqisiifamu kaasi.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Asitti tarsaan odeeffannoo suuraa karaa dinqisiifatamuun qindeesse.", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "1.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "text": "Fakkeenyota Dabalataa Ilaali", 
+            "header": "Itti Aanee", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_examples_start", 
+            "icon": "down"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_1.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Fakkeenya 1", 
+            "references": [
+                "compose_with_a_grid::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_1.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_7"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Fakkeenya 2", 
+            "references": [
+                "compose_with_a_grid::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_8"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Fakkeenya 3", 
+            "references": [
+                "compose_with_a_grid::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_9"
+        }, 
+        {
+            "text": "Baga Gammadde, tarkaanfilee bu'uuraa tarsaadhaan suuraa kaasan barteetta. Gochaawwan kanaa gaditti jiraniin dandeettii haaraa argatte kana shaakali.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_9", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Hojicha Hojjedhu", 
+            "link": "compose_with_a_grid_activity::intro_card_0", 
+            "id": "link_card_0", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Barumsa Itti Aanu", 
+            "link": "create_layers::intro_card_0", 
+            "id": "link_card_1", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Barumsa Darbe", 
+            "link": "know_your_mobile::intro_card_0", 
+            "id": "link_card_2", 
+            "references": [
+                "compose_with_a_grid::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }
+    ], 
+    "id": "compose_with_a_grid"
+}

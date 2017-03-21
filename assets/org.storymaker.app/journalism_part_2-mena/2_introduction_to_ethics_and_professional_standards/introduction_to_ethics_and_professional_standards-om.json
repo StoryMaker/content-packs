@@ -1,0 +1,178 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Akkamittan dandeettii hojii fi amala gaarii hojiitiin seenaakoo himuu bara?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Kutaa kana keessatti kan barattan:  \n&bull; Akka itti seenaankee naamusaa akka qabaatu gootu  \n&bull; Akka itti seenaa yaada utuu hin taane kan haqarratti hundaa'e himan  \n&bull; Akka itti seenaa wal madaalaa fi abbummaa qabu qaama hodofutti himan", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "2.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Akkamittan dandeettii hojii fi amala gaarii hojiitiin seenaakoo himuu bara?", 
+            "exampleMediaPath": "2.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Dhaabbati oduu baayyeen tuuta ajaja hojii fi naamusaa, dambii naamusaa kan jedhamu hojjetootasaaniif maxxansu. Yeroo tokko tokko dhaabbati gaazexeessitootaa yookaan dhaabbati hojjetootaas akkas godhu. namni dhuunfaan , gaazexeessaan bilbilaa deggersa dhaabbataa qabaachuu dhiisuu danda'u, garuu ammayyuu sadarkaa hojii fi naamusaa ol ka'aa qabaachuu qabda. Haqi dhibuun yookaan mata dureen tokko hammam si dhiphisuyyuu yaadikee seenicha ta'uu hin qabu. Haqa jiru gabaasii qaamni hordofu ofiisaaniitii yaada mataasaa haa kennatan. Kanarraa kan ka'e gaazexeessaa gaarii taata.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "# Sadarkaalee hojii fi namusa 10 gaazexeessitootaaf", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "## Haqarratti kan hundaa'e  \nGaazexeessummaa gaariin haqa adda ba'uu danda'an kan karaa gabaasa gaarii irratti hundaa'e, kan jette jettee, yaada, tilmaama hin taane irratti hin hundaa'in. Hammam waa'een seenichaa sitti dhagaa'amuyyuu, haqi akka ofiisaatiin dubbatuu fi dandeettii qaama si hordofuu kan inni ittiin seenicha ofiisaatii xumuru amani.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## Lammiif kan dhaabbate  \nAkka gazexeessaatti ati eegaa uummataati malee, dubbi himaa fedhii siyaasaa yookaan fedhii daldalaa miti. Uwwisikee siyaasarraa bilisa kan ta'ee fi waa'ee rakkoo jireenya namootaaf barbaachisu ta'uu qaba. Dhiyeessiin odeeffannoo gabaasa keetii ifaa fi akka salphaatti kan dubbifamu ta'uu qaba.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "## Madaala'aa  \nGaazexeessaa bayyee gaariin dhimmicha gama hundaan kan ibsu argachuuf barbaada, kan ilaalchasaa mul'isu qofa kan hin taane. Ilaslchota gama garagaraatiin jiran argachuuf gaazexeessaan madda gaarii wajjin gaaffiif deebii geggeessuu qaba. Yeroo hunda carraan qeeqarratti deebii kennuu fi badii baderratti deebii kennuu kennamuufii qaba. Kunimmoo namoota yookaan ilaalchota ati cimsitee mormitu ta'uu danda'u. Hundisaa qabxiilee gaazexeessummaa gaariiti.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "## Al-loogii  \nAadaankee gabaasa waa'ee saba biraa akka hin jeeqneef, waa'ee aadaakeerratti of amansiisi. Sabaan, amantaadhaan, gosaan, saalaan, umuriidhaan, fedhii quunnamtii saalaan, hojiidhaan, dandeettii humnaa yookaan sammuutiin, bifaan yookaan sadarkaa hawaasaatiin wal caalchisuurraa eeggadhu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## Sirrii  \nHamma siif dandaa'ametti haqi jiruuf bal'inni seenaakee sirrii ta'uunsaanii mirkaneeffatamuu qaba. Tasa odeeffannoo lafaa kaatee hin uumin. Tasa haqa jiru dabsuudhaan seenaake fi yaadakee akka deggeran hin godhin. Odeeffannoo barbaachisaa ta'e sababa seenaakee hin deggerreef tasa keessaa hin hambisin. Jecha namaa hin baayisin yookaan yaadasaatiin ala hin fayyadamin.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## Barbaachisaa  \nGaazexeessummaan qaama hordofutti kan dhiyaatuu ta'uu qaba. Seenaankee qaama hordofuuf babaachisaa miti yoo ta'e, hordoftootakee dhabuu dandeessa. Walii galatti barbaachisaan seenaan mata dureechaa beekumsa dabalataa fi maree dhimma hawaasaa barbaachisaa ta'ee fi yoo danda'ame qajeelfama mootummaa jijjiiruu kan danda'u ta'uu fi ta'uu dhiisuusaatiini.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## Yerootti  \nGabaasnkee  yeroodhaan ta'uu qaba. Gabaasni yeroosaa eeggate qaama hordofuuf bu'aa guddaa kan qabanii fi qajeelfama kan jijjiirsisuu danda'aniidha. Oduu dafanii dabarsuun barbaachisaadha. Oduun yeroosaatti hin darbine oduu miti.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## Bilisa  \nGaazexeessitooti paartii siyaasaa, dhimmaa, garee ta'ee wajjin walitti hidhamuu hin qabu. Dhimma  ta'erratti sababa dhaabbata ta'een yookaan nama ta'een siif kaffalameef yookaan kennaan siif kennameef  \u2014 yookaan gabaasuu hin qabdu \u2014 tasa gabaasuu hin qabdu. Yeroo hunda kaka'umsa maddakeetii qaqqabiinsakeerratti hin irraanfatin. Wal diddaa fedhiirraa of eegi, kan jiru yookaan yaadatti irraa of eegi. Dhaabbata gara garaatti miseensa ta'uu yookaan taateewwan garagaraa amanamummaakee hir'isuu danda'an irraa of eeggadhu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "## Ifaa  \nGaazexeessitooti karaa ittiin gabaasan, maddaa fi fedhii seenichaan wal qabaturratti ifa ta'uu qabu. Waldiddaa fedhii dhowwuun hin danda'amne ibsi. Odeeffannoo dhaabbata oduu biraarraa maddasaa utuu hin ibsin tasa hin fudhatin. Dogoggora keessaa yookaan hanqina mudate galchi. Odeeffannoo argachuudhaaf waadaa seente ibsi. Yoo yeroo karaa sirriin odeeffannoo uummataaf barbaachisu argachuu dadhabde malee karaa dhokataadhaan odeeffannoo fudhachuurraa of eegi. Seenaakeerratti haasawaa uummataa jajjabeessi.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "## Miidhaa hir'isa  \nMiidhaa gabaasikee qaamota haammataman irratti fiduu danda'urratti yeroo hunda eeggannoo guddaa gochuu qabda. Yeroo gaaffiif deebiif nama barbaaddu yookaan gaaffiif deebiitti fayyadamtu yookaan qaama rakkoon mudate qabiyyee mul'isurratti fayyadamtu eeggannoo godhi, keessumaa ijoollee fi namoota muuxannoo miidiyaa hin qabne. Namoonni dhuunfaa hooggantoota mootummaa fi namoota aangoo,beekamtii fi dhiibbaa uumuu fedhan caalaatti mirga iccitii dhuunfaa qabu. Fedhii uummataa irra tarkaanfachuu qofatu iccitii dhuunfaa namaa keessa seenuukee adda baasa. Namoota badiidhaan yookaan yakkaan himatamani garuu itti hin murtoofne karaa miidiyaa itti murtaa'uu hin qabu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "text": "## WAANTOTA YAADATAMUU QABAN  \n&bul;  Yoo haqi gabaasikee hin eyyamu ta'e fedhii yaada mataakee itti dabaluu irraa of eegi.  \n&bull; Hammam yoo itti walii hin galtu ta'eyyuu, dhimmicha gama hundaan ibsi.  \n&bull; Odeeffannoo hawaasakeetiif baayyee barbaachisu dhiyeessuu yaali.  \n&bull; Hamma siif danda'ametti gabaasakee keessatti bilisa ta'i.  \n&bull; Waa'ee maddakee fi waa'ee walitti dhufeenya inni seenichaa wajjin qabuurratti ifa ta'i.  \n&bull; Karaa gabaasakeetii namoota rakkoo keessa hin galchin.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Kan kanaa gaditti jiran keessaa kamtu gaazexeessummaa naamusa qabeessa?", 
+            "choices": [
+                {
+                    "text": "Deggeruudhaan gabaasakee keessatti paartii siyaasaa mormaa kan sirriitti isa amma jiru caalu, ifatti mootummaa malaammalaa", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Waan ta'u akka gaazexeessaatti qabachuuf dhaqxee hiriira nagaarratti miseensa dhaabbata siyaasaa fakkaachuu", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Dhimma si hawwatu garuu kan qaama hordofuuf bu'aa kan hin buufne gabaasuu.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Deebii hin qabu.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Dhugaa yookaan Soba: Yoo naannoon hojiikee baayyee rakkisaa fi wal xaxaa ta'ee sadarkaa hojii eeggachuuf rakkisaa ta'e, dambii naamusaa fayyadamuu dhiisuun homaa miti.", 
+            "choices": [
+                {
+                    "text": "Dhugaa", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Soba", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Gaazexeessitooti yeroo tokko tokko beekamoo yookaan ogeessota beekumsa qabaatanii yaada cimaa kennan ta'uu danda'u. Aangoon akkasii naamusa hojiisaanii akka booressan gochuu danda'a. Kana hanbisuuf, kan gaazexeessitooti beekamoo ta'an gochuu qaban", 
+            "choices": [
+                {
+                    "text": "Waa'ee walitti dhufeenya hojiisaaniif ifa ta'u.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Walitti dhufeenya baayyee cimaa qaama siyaasaa olaanaa fi hooggantoota daldalaa wajjin akka qabdu kan mul'isu hir'isuu barbaadi.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Kutannoon isaanii fedhii uummataa gabaasuurratti malee kan beektotaarratti akka hin taane cimsachuu.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Hunduu deebiidha.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "introduction_to_ethics_and_professional_standards", 
+    "title": "Seensa Naamusaa fi Sadarkaa Hojii"
+}

@@ -1,0 +1,31 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "SEENSA SAGALE", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Namooti seenaa walitti himuu jaallatu. Yeroo tokko tokko yeroo keessa dhalootaa dhalootatti dabarfamaa adeemu. . Seenaa afaaniin tamsaasuun umuriinsaa baayyee kan reediyoo caala. Yeroo kana sagaleen karaa komminikeeshenii caalmaatti pilaaneeticharra jiruu fi meeshaalee fi karaan ittiin sagalee uuman yoomiyyuu caalaa akka salphaatti argama. Barumsi sagalee kutaalee barbaachisoo ittiin sagalee gaarii qopheessitu dhiyeessa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Kutaa Nageenyaa fi Gaazexeessummaa kutaa kana uttuu hin jalqabin akka xumurtan cimsinee isin beeksisna. Isaan as keessatti tuqamaniiru garuu yaadikee akka hin tamsaane barbaachisa. Isaan malee, ofiikees nama biraas rakkoo keessa buusuu dandeessa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "introduction_to_audio", 
+    "title": "Seensa Sagalee"
+}

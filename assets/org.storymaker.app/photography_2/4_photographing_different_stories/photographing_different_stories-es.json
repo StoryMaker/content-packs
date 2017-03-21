@@ -1,0 +1,134 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "En eventos que van desde conferencias de presna, a manifestaciones, pasando por elecciones, \u00bfc\u00f3mo s\u00e9 que clase de im\u00e1genes debo buscar?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; C\u00f3mo identificar diferentes tipos de foto relatos.  \n&bull; C\u00f3mo fotografiar la historia de un asunto.  \n&bull; Como fotografiar un perfil.  \n&bull; C\u00f3mo fotografiar la historia un evento.  \n&bull; C\u00f3mo fotografiar noticias urgentes.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "El foto-periodismo puede ce\u00f1irse a f\u00f3rmulas. Los editores y los espectadores esperan ver determinados tipos de im\u00e1genes de eventos concretos. Los buenos foto-periodistas conocen la f\u00f3rmula y pueden producirla. Los grandes foto-periodistas conocen la f\u00f3rmula y pueden recrearse sobre ella. La f\u00f3rmula puede ser \u00fatil para periodistas nuevos en la fotograf\u00eda o para realizar m\u00faltiples tareas en un evento con tiempo limitado para dedicar a la fotograf\u00eda.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "# Historias de eventos  \n![](2.jpg)  \nDesde elecciones, a juicios, hasta c\u00f3nclaves pol\u00edticos, las historias de eventos son el grueso de lo que hacen los fot\u00f3grafos.\n![](3.jpg)  \nLas buenas foto-coberturas hacen m\u00e1s que documentar un evento de noticias, capturan la energ\u00eda e importancia del evento. Preg\u00fantese a si mismo qu\u00e9 elemento visual del evento simboliza mejor el conjunto de la historia; esa es probablemente su fotograf\u00eda. Por ejemplo:  \n&bull; En una elecci\u00f3n, la imagen de un ciudadano depositando su papeleta por primera vez.  \n&bull; Una imagen del candidato presidencial estrechando la manos con un jefe militar.  \n&bull; En un c\u00f3nclave pol\u00edtico, una imagen de un manifestante exaltado con otros de fondo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "# Eventos de noticias urgentes \n![](4.jpg)  \nLos eventos de noticias urgentes son un tipo especial de historia. Las noticias urgentes incluyen eventos no planeados de inter\u00e9s o importancia social. Esto a menudo se refleja en las im\u00e1genes que vemos.  \n![](5.jpg)  \nLa historia de una noticia de urgente puede ser un bombardeo, un desastre natural, o el anuncio no planeado de la carrera de un candidato pol\u00edtico por la elecci\u00f3n. El fot\u00f3grafo debe intentar ilustrar la clave dram\u00e1tica y los elementos narrativos del evento. Piense en el primer plano (sujeto) y en el fondo (contexto). A menudo la cobertura es posterior a que el evento haya sucedido. Fotografiar las reacciones \u2014 c\u00f3mo est\u00e1 respondiendo la gente al evento o sus consecuencias \u2014 puede resultar en im\u00e1genes muy potentes. Gente limpiando tras un terremoto, celebrando una victoria a continuaci\u00f3n de una batalla, etc.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "# Historias de asuntos\n![](6.jpg)  \nLas historias y fotograf\u00edas de asuntos no est\u00e1n atadas a un evento espec\u00edfico. Una historia de un asunto puede ser acerca de una tendencia \u2014 como un corte de agua \u2014 o sobre algo despreocupado e inusual \u2014 como una divertida tendencia de moda.\n![](7.jpg)  \nLas historias de asuntos es donde se espera que los fot\u00f3grafos sean creativos en su aproximaci\u00f3n a lo que fotograf\u00edan. Preg\u00fantese a si mismo qu\u00e9 es lo que mejor ilustrar\u00e1 el tema a un nivel emocional. Piense acerca del contexto en sus im\u00e1genes y piense en las emociones humanas. \u00bfQu\u00e9 elementos y qu\u00e9 momento cuentan la historia de una forma interesante?", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "# Historias de perfiles\n![](8.jpg)  \nLos fot\u00f3grafos a menudo realizan retratos para ilustrar la historia del perfil de la persona retratada, o porque la persona figura con fuerza en una historia m\u00e1s amplia. Los retratos se clasifican en dos categor\u00edas: posados e informales. Los retratos posados se realizan con el sujeto mirando hacia la c\u00e1mara o justo junto a la c\u00e1mara.\n![](9.jpg)  \nLos buenos retratos posados se benefician de la buena iluminaci\u00f3n y capturan la expresi\u00f3n del sujeto de una forma reveladora y relacionada con la historia. Los retratos informales normalmente muestran al sujeto en una acci\u00f3n que explica por qu\u00e9 est\u00e1 en las noticias. Muchos fot\u00f3grafos realizar\u00e1n ambos tipos de fotos cuando se les encargue un retrato. Es una buena idea incluir algunos elementos de contexto en la imagen, que proporcionen un detalle en la fotograf\u00eda acerca de por qu\u00e9 el sujeto es importante o interesante.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "# Fotos preparadas\n![](10.jpg)  \nEstas directrices est\u00e1n dise\u00f1adas para facilitar la realizaci\u00f3n de fotograf\u00edas. No son para inhibirle. Es importante que observe que en algunos casos los fot\u00f3grafos tienen permitido preparar una foto. Esto NUNCA se permite con noticias urgentes o noticias generales.  \n![](11.jpg)  \nOcasionalmente con los encargos de asuntos y m\u00e1s frecuentemente con los retratos, un fot\u00f3grafo puede preparar la fotograf\u00eda \u2014 pida al sujeto que se mueva hacia una luz mejor, que introduzca elementos de contexto, o que vuelva a hacer alguna cosa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Identificar qu\u00e9 clase de historia est\u00e1 intentando contar puede hacer la toma m\u00e1s f\u00e1cil.  \n&bull; Las historias acerca de noticias serias tienden a ce\u00f1irse m\u00e1s a una f\u00f3rmula que las foto-noticias acerca de tendencias despreocupadas.  \n&bull; Las fotos para historias de noticias de eventos o asuntos nunca se deben preparar o manipular. Las im\u00e1genes para perfiles a veces pueden prepararse.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Al fotografiar una conferencia de prensa podr\u00eda probar y realizar, \u00bfcu\u00e1l de de los siguientes tomas?", 
+            "choices": [
+                {
+                    "text": "Tomas animadas de la cabeza de cada uno de los participantes en lugar de una toma general.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Planos totalmente frontales en lugar de perfiles derecho o izquierdo.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Una fotograf\u00eda de grupo durante la \u2018sesi\u00f3n de fotos\u2019.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todo lo anterior.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Verdadero o Falso: Est\u00e1 bien preparar fotograf\u00edas en eventos generales de noticias.", 
+            "choices": [
+                {
+                    "text": "Verdadero", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falso", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Cu\u00e1les de las siguientes son caracter\u00edsticas de un buen retrato de noticias (puede ser m\u00e1s de una).", 
+            "choices": [
+                {
+                    "text": "El sujeto est\u00e1 como una estatua y mirando a la c\u00e1mara", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "No hay nada en movimiento o pistas en la imagen para contextualizarla o explicar por qu\u00e9 el sujeto est\u00e1 en las noticias.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "El sujeto est\u00e1 parcialmente oscurecido as\u00ed que es dif\u00edcil ver su cara claramente.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "NInguna de las anteriores.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "photographing_different_stories", 
+    "title": "Fotografiar historias diferentes"
+}

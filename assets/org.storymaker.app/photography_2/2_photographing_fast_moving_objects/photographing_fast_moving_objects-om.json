@@ -1,0 +1,145 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Akkamittan qaama saffisaan socho'u suuraa kaasa?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Kutaa kana keessatti kan barattan:  \n&bull; Maaliif qaamoleen saffisaan deeman tokko tokko akka dimismisaa'an.  \n&bull; Maloota ittiin sochii qabatan.  \n&bull; Haalata dursa shaterii fayyadamuu.  \n&bull; Filashii fayyadamuu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Taphattoota kubbaa miillaarraa kaasee hamma konkolaataa sochiirra jiruuttii fi mormitoota hiriirarra jiraniitti, gaazexeessitooti yeroo baayyee suuraa qaama socho'uu kaasuu qabu. Dandeettiin kaaameeraa shateriidhaan tu'atama. Yoo saffisi shaterii gadi bu'aa ta'e, sochii jiru seeraan qabachuu hin danda'u. Fakkichi sababa seenseriin sochii galmeessaa jiruuf dimismisaa'aadha. Saffisi shaterii sekeendii keessatti madaalama. hamma sochiin saffisaa ta'e, saffisi shateriis akkasuma ta'uu qaba.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![](2.png)  \nBilbilli ammayyaa tokko tokko sirreeffama akka kaameeraan saffisa shaterii mul'ina ifaan herregu godhu qabu. Kanaaf mallattoon yeroo baayyee waa'ee nama fiigaa jiruu. Bilbila ammayyaa kana hin qabneef, sochicha qabachuuf waantoti ati gochuu dandeessu baayyeetu jira. Kun kan jalqabu daangaa bilbilakeetii baruu fi filannoo keerratti hundaa'uu qabda.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "# Ifa tu'achuu\n![](3.jpg)  \nRakkoon baayyee beekamaan yeroo suuraa qaama sochiirra jiruu kaasan nama mudatu rakkoo ifa ga'aati.  \n![](4.jpg)  \nIfi ga'aan kaameeraan akka fakkii sirriitti mul'isuu godhu kan hin jirree fi saffisa shaterii ga'aa sochicha qabuu danda'u qaba. Kaameeraa waan hin danda'amne gochisiisuu hin dandeessu.  \n![](5.jpg)  \nSochii jiru qabachuu akka barbaadde yoo beekte, hojiikeetiif ifi ga'aan akka jiraatu karoorfadhu. Kunimmoo yeroo ifa aduu filachuu ta'uu danda'a. Ifi ga'aan bakka jiru filachuus ta'uu danda'a \u2014 ibsaa karaa bira, ifa bakka waltajjii yookaan ibsaa konkolaataa dhufaa jiruu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![](6.png)\n# Madaallii kaameeraa eegi  \nSochii kaameeraa \u2014 Utuu kaameraa baattee jirtu harkakee sochoosuu \u2014 suuraan akka dimismisaa'u gochuu yookaan ga'ee qabaachuu danda'a. Kun yeroo qaama saffisaan socho'u kaastu qofa utuu hin ta'in yeroo kaanis dhugaadha. Yeroo hunda kaameeraa ofitti butii qabi. Harkakee diriirsuurra madaalliinsaa salphaatti akka eegamuuf gargaara. Ciqilee qabannoo kaameeraakeetii jilbakee yookaan meeshaarra kaa'uunis madaalliif ni gargaara.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![](7.jpg)  \n# Filashii fayyadami  \nBilbilootni baayyeen filashii mataasaanii qabu. Ifisaa sochii qabachuuf si gargaaruu danda'a. Filashiin bilbila baayyee kan fayyadan naannoo meetira 3rratti qofa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![](8.jpg)  \n# Yerookee filadhu  \nHaala garagaraa keessatti qaamni ati kaastu saffisa garagaraatiin socho'u. Taphattooti kubbaa miillaa yeroo taphi jalqabutti suuta socho'u. Konkolaataan marfatatti yookaan bakka konkolaataan baayyatetti suuta deemu. Namooti mormiirra jiran bakka haasaan godhamutti ni dhaabbatu. Yeroo suuta socho'an filadhu. \n![](9.jpg)\nYoo bakka ifa gaariidhaa fi kana walitti dabalte, yeroo baayyee halkan yoo ta'eyyuu suuraa qulqulluu argatta \u2014 mormitoota ifa karaarraa jalatti dhaadachaa jiran, fakkeenyaaf.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![](10.png)  \n# Gara Sochiitti Kofa Sirreessi  \nSochiin kaameeraa baayyee rakkisu sochii yeroo qamni ka'u goodaayyaa keessaa bitaa gara mirgaatti yookaan mirgaa gara bitaatti socho'uudha. Malli baratame kan ittin haala kana qabatan panning jedhama. Kaameeraakee irratti qabuudhaan qaama kaastu yeroo dhufee darbu faana deemsisi, yoo barbaachisaa ta'e wajjin naanna'i. Kun saffisa qaamni socho'aa jiru kaameeraadhaaf qabu hir'isa. Kofa irra jirtu jijjiiruudhaan qaamni kaastu goodaayyaarra akka darbu gochuurra gara kaameeraatti akka dhufu gochuu dandeessa. Kun kaameeraankee qaama kaastu hordofee sochii jiru akka qabatu godha.  \nYeroo hunda qaama kaasturratti xiyyeeffachuu qabda. Daangaa meeshaa keetii fi haala ifaa tu'atu yaadadhu. Taphataan kubbaa miillaa, konkolaataanii fi qaamoleen socho'an saffisaan addadda ta'uu danda'u. Madda ifaa caalu keessa seenanii ba'uu danda'u. Yeroo baayyee gaarii yeroo qaamni ati kaastu itti sirriitti mul'atuu fi suuta socho'utti suuraakee argachuuf of sirreessi.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## WAANTOTA YAADATAMUU QABAN  \n&bull; Yeroo ifi ga'aan sochii itti qabatanii fi sirreessan hin jirre adda baafachuu. Callisteedhuma suuraa hin mul'anne kaastee tokko keessaa hojjeta jettee hin abdatin.  \n&bull; Yeroo danda'ametti, ifa ga'aaf karoorfadhu.  \n&bull; Yoo kaameeraankee sirreeffama dursaa \u2018Action\u2019 jedhamu kan qaama saffisaan deemu kaasuuf hojjetame qabaate, itti fayyadami.  \n&bull; Madaallii kaameeraakee eegi.  \n&bull; Sochii qabachuuf yeroo gaarii filadhu, keessumaa yeroo qaamni ati kaastu suuta socho'u.  \n&bull; Filaashii fayyadami.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Yeroo qaama sochii saffisaarra jiru suuraa kaastu maaltu suuraa dimismisaa'aa uuma?", 
+            "choices": [
+                {
+                    "text": "Baayyee guddaa fi qaawwaadha.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Saffisa shaterii gadibu'aa.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Dogoggoraan kaameeraa haalata suur-sagaleetti jijjiiruu.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "ISO baayyee olka'aa.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Soba yookaan Dhugaa: Dimismisaa'uun sochii harkaatiin uumamuu danda'a. sochii qabachuu yeroo yaaltutti madaallii kaameeraa eeguun barbaachisaadha.", 
+            "choices": [
+                {
+                    "text": "Dhugaa", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Soba", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "text": "![](11.png)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Qulqullina fakkii olitti jiru kana akkamitti dabaluu dandeessa?", 
+            "choices": [
+                {
+                    "text": "Hamma qaamni ati kaastu saffisa gadi bu'aa qabaatuutti eegi.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Gara sirreeffama telephoto'ii olkaasi.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Hamma qaamni ati kaastu ifatti ga'aatti ba'utti eegi.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Nama saffisaan socho'aa jiru akka inni suuraa of kaasu gaafadhu.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "photographing_fast_moving_objects", 
+    "title": "Qaama Saffisaan Socho'u Suuraa Kaasuu"
+}

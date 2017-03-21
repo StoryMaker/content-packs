@@ -1,0 +1,130 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "\u00bfC\u00f3mo uso los pseud\u00f3nimos de forma efectiva?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; C\u00f3mo protegen su identidad los pseud\u00f3nimos.  \n&bull; C\u00f3mo pueden revelar su identidad las marcas de tiempo.  \n&bull; C\u00f3mo mantener en l\u00ednea su pseud\u00f3nimo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Si usted o una fuente son amenazados, debe tomar medidas adicionales para proteger la identidad de los individuos amenazados. Los periodistas en riesgo y las fuentes amenazadas a menudo usan pseud\u00f3nimos para proteger sus verdaderas identidades. Cuando se comunique digitalmente, puede dejar pistas de su verdadera identidad.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![el anonimato no est\u00e1 garantizado](2.png)  \nAquellos que mantienen (o contribuyen a) un blog o un foro de Internet tienen que estar advertidos de que su anonimato no est\u00e1 garantizado meramente firmando con un pseud\u00f3nimo. Cada entrada del blog registra la direcci\u00f3n IP (https://es.wikipedia.org/wiki/Direcci\u00f3n_IP) de la computadora desde la que fue enviada, y muchos ISPs (https://es.wikipedia.org/wiki/Proveedor_de_servicios_de_Internet) registran todo el tr\u00e1fico que ha pasado a trav\u00e9s de ellos. Por tanto, si est\u00e1 publicando informaci\u00f3n sensible en un sitio web, debe tomar precauciones para no ser descubierto. Hemos discutimos acerca de camuflar su navegaci\u00f3n con Tor en la Lecci\u00f3n X.X. Si debe mantener su anonimato en l\u00ednea, aseg\u00farese de usar la red de anonimato Tor para acceder a su sitio y publicar su contenido.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![Tome precauciones para evitar problemas](3.png)  \n## Marcas de tiempo\nSi publica contenidos en un sitio web acerca de la actividad del gobierno en su pa\u00eds mediante el uso de la red Tor, las autoridades no ver\u00e1n que usted estaba enviando est\u00e1 informaci\u00f3n a un blog concreto, pero pueden advertir que en cualquier momento en que entra en un cibercaf\u00e9, aparece una nueva entrada en el sitio web. Esto puede ser asociado con usted, especialmente si el due\u00f1o de su cibercaf\u00e9 anota su nombre y hora de su visita. Para superar esta dificultad, pida a un colega de otro pa\u00eds que publique el blog por usted. Use un servicio de correo electr\u00f3nico web seguro (o cifrado) para enviar el art\u00edculo a su colega y p\u00eddale que espere un cierto tiempo antes de publicarlo en su blog. \nSu identidad puede determinarse no s\u00f3lo por el nombre que elija para si mismo o su fuente, tambi\u00e9n puede determinarse por el rastro que deja durante su actividad en l\u00ednea.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Aseg\u00farese de borrar su historial de navegaci\u00f3n.  \n&bull; Use una ventana en modo inc\u00f3gnito en Chrome o \"navegaci\u00f3n privada\" en Firefox.  \n&bull; Aseg\u00farese de deshabilitar cookies.  \n&bull; Haga que un colega que no est\u00e9 amenazado publique sus contenidos.  \n&bull; Prepare su contenido para que se publique autom\u00e1ticamente a intervalos asignados aleatoriamente.  \n&bull; Instalar HTTPS Everywhere en Firefox o Chrome.  \n&bull; Use un servicio an\u00f3nimo en cualquier momento que acceda a Internet.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfPor qu\u00e9 debo usar pseud\u00f3nimo?", 
+            "choices": [
+                {
+                    "text": "Porque es m\u00e1s chulo que mi nombre real.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Para proteger mi propia identidad o la de mi fuente.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Flash Gordon.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Porque mi nombre ya est\u00e1 ocupado en Facebook.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "\u00bfC\u00f3mo puedo prevenir que los rastros de mis comunicaciones revelen mi verdadera identidad?", 
+            "choices": [
+                {
+                    "text": "Mediante el uso de ventanas en modo inc\u00f3gnito siempre.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Mediante solicitud a colegas para que publiquen el audiovisual cuando no est\u00e9 conectado.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Mediante el uso de Tor para conectar a Internet.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Mediante el uso de dos direcciones de correo electr\u00f3nico.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "Si uso un pseud\u00f3nimo mi identidad estar\u00e1", 
+            "choices": [
+                {
+                    "text": "Completamente protegida.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Cualquier cosa que le diga a la gente que es.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Protegido s\u00f3lo si evito que los rastros de mis comunicaciones revelen mi identidad o ubicaci\u00f3n.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Protegida contra revisi\u00f3n de apresurada.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "how_do_i_effectively_use_pseudonyms", 
+    "title": "C\u00f3mo uso pseud\u00f3nimos con efectividad"
+}

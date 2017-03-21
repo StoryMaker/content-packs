@@ -1,0 +1,23 @@
+{
+    "title": "\u0625\u0639\u062f\u0627\u062f \u0627\u0644\u062a\u0648\u0627\u0632\u0646 \u0627\u0644\u0623\u0628\u064a\u0636 \u0641\u064a \u0627\u0644\u0641\u064a\u062f\u064a\u0648", 
+    "storyPathTemplateFiles": {
+        "setting_white_balance_in_video": "setting_white_balance_in_video.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "setting_white_balance_in_video", 
+            "dependencyFile": "setting_white_balance_in_video.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "setting_white_balance_in_video"
+        }
+    ], 
+    "currentStoryPathFile": "setting_white_balance_in_video.json", 
+    "id": "setting_white_balance_in_video"
+}

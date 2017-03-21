@@ -1,0 +1,23 @@
+{
+    "title": "\u0412\u044b\u0431\u043e\u0440 \u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u043e\u0432", 
+    "storyPathTemplateFiles": {
+        "selecting_and_verifying_sources": "selecting_and_verifying_sources.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "selecting_and_verifying_sources", 
+            "dependencyFile": "selecting_and_verifying_sources.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "selecting_and_verifying_sources"
+        }
+    ], 
+    "currentStoryPathFile": "selecting_and_verifying_sources.json", 
+    "id": "selecting_and_verifying_sources"
+}

@@ -1,0 +1,23 @@
+{
+    "title": "\u1325\u1229 \u12f5\u121d\u133d \u12a5\u1293 \u1265\u122d\u1203\u1295 \u121b\u130d\u1298\u1275 ", 
+    "storyPathTemplateFiles": {
+        "getting_good_sound_and_light": "getting_good_sound_and_light.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "getting_good_sound_and_light", 
+            "dependencyFile": "getting_good_sound_and_light.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "getting_good_sound_and_light"
+        }
+    ], 
+    "currentStoryPathFile": "getting_good_sound_and_light.json", 
+    "id": "getting_good_sound_and_light"
+}

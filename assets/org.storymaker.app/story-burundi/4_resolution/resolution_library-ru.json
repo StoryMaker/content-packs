@@ -1,0 +1,23 @@
+{
+    "title": "\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u0438\u0435", 
+    "storyPathTemplateFiles": {
+        "resolution": "resolution.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "resolution", 
+            "dependencyFile": "resolution.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "resolution"
+        }
+    ], 
+    "currentStoryPathFile": "resolution.json", 
+    "id": "resolution"
+}

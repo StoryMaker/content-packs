@@ -1,0 +1,320 @@
+{
+    "title": "\u1265\u122d\u1203\u1295 \u1270\u1246\u1323\u1320\u122d", 
+    "storyPathLibraryFile": "control_light_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "shoot_on_an_angle", 
+            "dependencyFile": "../5_shoot_on_an_angle/shoot_on_an_angle.json"
+        }, 
+        {
+            "dependencyId": "control_light_activity", 
+            "dependencyFile": "../6_control_light_activity/control_light_activity.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "level": "\u1218\u130d\u1262\u12eb 1", 
+            "headline": "\u1265\u122d\u1203\u1295 \u1270\u1246\u1323\u1320\u122d", 
+            "time": "5-10 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "\u1265\u122d\u1203\u1295\u1295 \u1218\u1246\u1323\u122d \u12a5\u1293 \u1275\u12ad\u12ad\u1208\u129b \u12e8\u1265\u122d\u1200\u1295 \u1270\u130b\u120d\u1326 \u1218\u1296\u122d \u1208\u1320\u1295\u12ab\u122b \u12e8\u121e\u1263\u12ed\u120d \u1235\u120d\u12ad \u134e\u1276\u130d\u122b\u134d \u1260\u1323\u121d \u12a0\u1235\u1348\u120b\u130a \u1290\u12cd\u1362 \u12e8\u121e\u1263\u12ed\u120d \u1235\u120d\u12ad \u12ab\u121c\u122b\u12ce\u127d \u12cd\u1265 \u12e8\u1206\u1291 \u134e\u1276\u12ce\u127d\u1295 \u120a\u12eb\u1290\u1231 \u12ed\u127d\u120b\u1209 \u1290\u1308\u122d \u130d\u1295 \u120d\u12e9 \u12e8\u122b\u1233\u1278\u12cd \u12e8\u1206\u1291 \u127d\u130d\u122e\u127d \u12a0\u1209\u1263\u1278\u12cd\u1362 \u1260\u12da\u1205 \u12ad\u134d\u1208 \u1275\u121d\u1205\u122d\u1275 \u12cd\u1235\u1325 \u1265\u122d\u1203\u1295\u1295 \u12cd\u1320\u1273\u121b \u1260\u1206\u1290 \u1218\u1295\u1308\u12f5 \u12a5\u1295\u12f4\u1275 \u1218\u1246\u1323\u1320\u122d \u12a5\u1295\u12f0\u121a\u127d\u1209 \u12ed\u121b\u122b\u1209\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "header": "\u1240\u1325\u120d", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "milestone_start", 
+            "text": "\u1300\u121d\u122d "
+        }, 
+        {
+            "text": "\u12e8\u1270\u1295\u1240\u1233\u1243\u123d \u1235\u120d\u12ad \u12ab\u121c\u122b\u12ce\u127d \u1283\u12ed\u1208\u129b \u1270\u1243\u122b\u1292 \u1265\u122d\u1200\u1295 \u1263\u1208\u1263\u1278\u12cd \u1201\u1294\u1273\u12ce\u127d \u12cd\u1235\u1325 \u1218\u1235\u122b\u1275 \u12ed\u12a8\u1265\u12f3\u1278\u12cb - \u1208\u121d\u1233\u120c \u1260\u12a0\u1295\u12f5 \u130a\u12dc \u12f0\u121b\u1245 \u12e8\u1338\u1203\u12ed \u1265\u122d\u1203\u1295 \u12a5\u1293 \u12e8\u1320\u1246\u1228 \u1325\u120b \u1232\u1296\u122d\u1362 \u1260\u1270\u1328\u121b\u122a\u121d \u1260\u12a0\u1290\u1235\u1270\u129b \u1265\u122d\u1203\u1295 \u12cd\u1235\u1325 \u134e\u1276 \u121b\u1295\u1233\u1275\u121d \u12ed\u12a8\u1265\u12f3\u1278\u12cb\u120d\u1362 \u12e8\u1265\u122d\u1203\u1295 \u127d\u130d\u122e\u127d\u1295 \u1218\u134d\u1273\u1275\u1295 \u1218\u120d\u1218\u12f5 \u12a5\u1293 \u1260\u134e\u1276\u12ce \u120b\u12ed \u1265\u122d\u1203\u1295\u1295 \u1348\u1320\u122b \u1260\u1270\u121e\u120b\u1260\u1275 \u1218\u120d\u12a9 \u1218\u1320\u1240\u121d \u1208\u134e\u1276\u130d\u122b\u134d \u1325\u1260\u1265 \u12c8\u1233\u129d \u1290\u12cd\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u12ed\u1205 \u134e\u1276 \u12f0\u1265\u12db\u12db \u1290\u12cd \u121d\u12ad\u1292\u12eb\u1271\u121d \u12f0\u1218\u1293\u121b \u1260\u1206\u1291 \u1240\u1293\u1275 \u12e8\u121e\u1263\u12ed\u120d \u1235\u120d\u12ad \u12ab\u121c\u122b\u12ce\u127d \u12e8\u121a\u1295\u1240\u1233\u1240\u1235 \u1290\u1308\u122d\u1295 \u134e\u1276 \u121b\u1295\u1233\u1275 \u1235\u1208\u121a\u12a8\u1265\u12f3\u1278\u12cd \u1290\u12cd\u1362 ", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "\u134e\u1276 \u1270\u1290\u123a\u12cd \u12ed\u1260\u120d\u1325 \u1260\u134d\u1320\u1290\u1275 \u1260\u1270\u1295\u1240\u1233\u1240\u1230 \u1241\u1325\u122d \u134e\u1276\u12cd \u12f0\u1265\u12db\u12db \u12e8\u1218\u1206\u1295 \u12a5\u12f5\u1209 \u12a8\u134d \u12eb\u1208 \u12ed\u1206\u1293\u120d\u1362 \u1325\u122d\u1275 \u12eb\u1208 \u121d\u1235\u120d \u1208\u121b\u130d\u1298\u1275 \u134e\u1276 \u1270\u1290\u123a\u12cd \u1260\u12dd\u130d\u1273 \u1232\u1295\u1240\u1233\u1240\u1235 \u12c8\u12ed\u121d \u1232\u1246\u121d \u12eb\u1295\u1231\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "\u12e8\u121a\u127b\u120d \u12a8\u1206\u1290 \u12a8\u134d\u1270\u129b \u1265\u122d\u1203\u1295 \u12e8\u121a\u1308\u129d\u1260\u1275 \u1266\u1273 \u12a5\u1293 \u1230\u12a0\u1275 \u12ed\u121d\u1228\u1321\u1362 \u1260\u1270\u1328\u121b\u122a\u121d \u134e\u1276 \u1270\u1290\u123a\u12cd \u1260\u12dd\u130d\u1273 \u1260\u121a\u1295\u1240\u1233\u1240\u1235\u1263\u1278\u12cd \u12c8\u12ed\u121d \u1260\u121a\u1246\u121d\u1263\u1278\u12cd \u1245\u133d\u1260\u1276\u127d \u120b\u12ed \u134e\u1276 \u1262\u12eb\u1290\u1231 \u12e8\u1270\u123b\u1208 \u120a\u1206\u1295 \u12ed\u127d\u120b\u120d\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u12e8\u1270\u1218\u1233\u1233\u12ed \u1290\u1308\u122d \u1260\u12a0\u1295\u12f5 \u1240\u1295 \u12cd\u1235\u1325 \u12e8\u1270\u12eb\u12e8 \u1230\u12d3\u1275 \u120b\u12ed \u134e\u1276 \u1232\u1290\u1233 \u1260\u1323\u121d \u120a\u1208\u12eb\u12ed \u12ed\u127d\u120b\u120d\u1362 \u121b\u1208\u12f3 \u1320\u12cb\u1275 \u12a5\u1293 \u1300\u121d\u1260\u122d \u1218\u1325\u1208\u1242\u12eb \u1230\u12d3\u1275 \u134e\u1276 \u1208\u121b\u1295\u1233\u1275 \u12a5\u1305\u130d \u1260\u12f5\u122b\u121b \u12e8\u1270\u121e\u1209 \u1230\u12a0\u1273\u1275 \u1293\u1278\u12cd\u1362", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "\u12e8\u121e\u1263\u12ed\u120d \u1235\u120d\u12ad \u12ab\u121c\u122b\u12ce\u127d \u1260\u1270\u127d \u1235\u12ad\u122a\u1295 \u12e8\u121a\u1230\u122b \u12e8\u121d\u122d\u1200\u1295 \u1270\u130b\u120d\u1326 \u12a0\u120b\u1278\u12cd \u12a0\u120b\u1278\u12cd\u1362 \u12e8\u1235\u12ad\u122a\u1291\u1295 \u120b\u12ed \u12e8\u1270\u1208\u12eb\u12e9 \u1266\u1273\u12ce\u127d\u1295 \u1260\u1218\u1295\u12ab\u1275 \u12e8\u134e\u1276\u12cd\u1295 \u12e8\u1265\u122d\u1200\u1295 \u1270\u130b\u120d\u1326 \u1218\u1320\u1295 \u1218\u1240\u12e8\u122d \u12ed\u127d\u120b\u1209\u1362 \u12eb\u1235\u1273\u12cd\u1231\u1366 \u12a8\u1235\u120d\u12a9 \u130b\u122d \u12a0\u1265\u122e \u1260\u1218\u1323\u12cd \u12e8\u12ab\u121c\u122b \u1218\u1270\u130d\u1260\u122a\u12eb \u12ed\u1205\u1295 \u121b\u12f5\u1228\u130d \u1275\u12a9\u1228\u1271\u1295\u121d \u132d\u121d\u122d \u12ed\u1240\u12ed\u122b\u120d\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "4.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u1260\u12a5\u1235\u12ad\u122a\u1291 \u120b\u12ed \u12e8\u1270\u1208\u12eb\u12e9 \u1266\u1273\u12ce\u127d\u1295 \u1260\u1218\u1295\u12ab\u1275 \u12a5\u1293 \u12e8\u1265\u122d\u1200\u1295 \u1270\u130b\u120d\u1326\u12cd \u12a5\u1295\u12f4\u1275 \u12a5\u1295\u12f0\u121a\u1240\u12e8\u122d \u1260\u121b\u12e8\u1275 \u12ed\u1208\u121b\u1218\u12f1\u1362", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "4.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "\u12a0\u1295\u12f3\u1295\u12f4 \u12e8\u1265\u122d\u1200\u1295 \u1270\u130b\u120d\u1326 \u1290\u1325\u1266\u127d\u1295 \u1218\u1240\u12eb\u12e8\u122d \u1260\u122b\u1231 \u1260\u1242 \u12a0\u12ed\u1206\u1295\u121d\u1362 \u12e8\u121b\u12ed\u1348\u1208\u130d \u12e8\u1300\u122d\u1263 \u1265\u122d\u1203\u1295 \u12e8\u1270\u1208\u1218\u12f0 \u127d\u130d\u122d \u1290\u12cd\u1362 \u12a8\u134e\u1276 \u1270\u1290\u123a\u12cd \u1300\u122d\u1263 \u12ab\u1209 \u1283\u12ed\u1208\u129b \u12e8\u1265\u122d\u1203\u1295 \u121d\u1295\u132e\u127d\u1295 \u12ed\u122b\u1241\u1362 \u1283\u12ed\u1208\u129b \u12e8\u1300\u122d\u1263 \u1265\u122d\u1203\u1295\u1295 \u1208\u1218\u1246\u1323\u1320\u122d \u134e\u1276\u130d\u122b\u134d \u12e8\u121a\u12eb\u1290\u1231\u1260\u1275\u1295 \u12a0\u1295\u130d\u120d \u12ed\u1240\u12ed\u1229 \u12c8\u12ed\u121d \u134e\u1276 \u1270\u1290\u123a\u12cd \u12eb\u1208\u1260\u1275\u1295 \u1266\u1273 \u12ed\u1240\u12ed\u1229\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "5.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u12a8\u1273\u127d \u1263\u1208\u12cd \u134e\u1276 \u120b\u12ed \u12a8\u1300\u122d\u1263 \u12eb\u1208\u12cd\u1295 \u1265\u122d\u1203\u1295 \u1208\u121b\u1235\u12c8\u1308\u12f5 \u134e\u1276 \u12a0\u1295\u123a\u12cd \u12c8\u12f0 \u130d\u122b \u1270\u1295\u1240\u1233\u1245\u1237\u120d\u1362", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "5.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "\u1218\u1230\u1228\u1273\u12ca \u1265\u122d\u1200\u1295\u1295 \u1218\u1246\u1323\u122d \u12a8\u127b\u1209 \u12c8\u12f2\u12eb \u1265\u122d\u1200\u1295\u1295 \u1260\u1218\u1320\u1240\u121d \u1320\u1295\u12ab\u122b \u134e\u1276\u12ce\u127d\u1295 \u1218\u134d\u1320\u122d \u1218\u1300\u1218\u122d \u12ed\u127d\u120b\u1209\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "\u122c\u121d\u1265\u122b\u1295\u1275 \u12e8\u1265\u122d\u1200\u1295 \u12a0\u1320\u1243\u1240\u121d \u1260\u130e\u1295 \u1260\u12a9\u120d \u1208\u1235\u1208\u1235 \u12eb\u1208 \u1265\u122d\u1203\u1295\u1295 \u1260\u1218\u1320\u1240\u121d \u12a0\u1295\u12f5\u1295 \u1356\u122d\u1275\u122c\u1275 \u12e8\u121b\u123b\u123b\u12eb \u1274\u12ad\u1292\u12ad \u1290\u12cd\u1362 \u12ed\u1205 \u1265\u122d\u1203\u1295 \u1208\u121d\u1233\u120c \u1260\u1218\u1235\u12ae\u1275 \u1260\u12a9\u120d \u12e8\u121a\u1308\u1263 \u1265\u122d\u1203\u1295 \u120a\u1206\u1295 \u12ed\u127d\u120b\u120d\u1362 \u12ed\u1205 \u1274\u12ad\u1292\u12ad \u1235\u12eb\u121a\u12cd\u1295 \u12eb\u1308\u1298\u12cd \u12dd\u1290\u129b \u12a8\u1206\u1290 \u1230\u12a0\u120a \u1235\u121d \u1290\u12cd\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "6.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u1260\u130d\u122b \u1260\u12a9\u120d \u1263\u1208\u12cd \u134e\u1276 \u120b\u12ed \u12a8\u12a0\u1295\u12f5 \u1260\u12a9\u120d \u12eb\u1208\u12cd \u1208\u1235\u1208\u1235 \u12eb\u1208 \u1265\u122d\u1203\u1295 \u12e8\u134e\u1276 \u1270\u1290\u123a\u12cd\u1295 \u134a\u1275 \u12a0\u1233\u121d\u122e\u1273\u120d\u1362", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "6.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "\u1260\u1265\u122d\u1203\u1295 \u120c\u120e\u127d \u1348\u1320\u122b \u12e8\u1270\u121e\u120b\u1263\u1278\u12cd \u1290\u1308\u122e\u127d\u1295 \u121b\u12f5\u1228\u130d \u12ed\u127d\u120b\u1209\u1362 \u1208\u121d\u1233\u120c \u134e\u1276 \u1260\u121a\u1290\u1233\u12cd \u12a0\u12ab\u120d \u12d9\u122a\u12eb \u1325\u120b\u1295 \u1208\u1218\u134d\u1320\u122d \u12a8\u1300\u122d\u1263 \u12e8\u121a\u1218\u1323 \u1265\u122d\u1203\u1295\u1295 \u1260\u1218\u1320\u1240\u121d \u12ed\u127b\u120b\u120d\u1362 ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "7.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u1260\u12da\u1205 \u134e\u1276 \u120b\u12ed \u12e8\u1265\u122d\u1200\u1295 \u1270\u130b\u120d\u1326\u12cd \u12e8\u1270\u12cb\u1240\u1228\u12cd \u1260\u1323\u121d \u12f0\u121b\u1245 \u1208\u1206\u1290 \u1300\u122d\u1263 \u1290\u12cd\u1362 \u12ed\u1205\u121d \u1325\u120b \u1348\u1325\u122f\u120d\u1362", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "7.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "\u1260\u121e\u1263\u12ed\u120d \u1235\u120d\u12ad\u12ce \u12e8\u12ab\u121c\u122b \u1218\u1270\u130d\u1260\u122a\u12eb \u12cd\u1235\u1325 \u12eb\u1209 \u12a0\u1295\u12f3\u1295\u12f5 \u1228\u1240\u1245 \u12eb\u1209 \u1263\u1205\u122a\u12eb\u1275 \u12e8\u1265\u122d\u1203\u1295 \u127d\u130d\u122e\u127d\u1295 \u1208\u1218\u134d\u1273\u1275 \u120a\u12eb\u130d\u12d9 \u12ed\u127d\u120b\u1209\u1362 \u1208\u121d\u1233\u120c \u12e8\u1265\u122d\u1200\u1295 \u1270\u130b\u120d\u1326 \u121b\u127b\u127b\u12eb \u12c8\u12ed\u121d \u12a4\u12ad\u1235\u1356\u12d8\u122d \u12ae\u121d\u1350\u1295\u1234\u123d\u1295 \u12a0\u1295\u12f1 \u1290\u12cd\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_9", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "8.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u1260\u12ab\u121c\u122b \u1218\u1270\u130d\u1260\u122a\u12eb\u12cd \u121d\u1293\u120c \u12cd\u1235\u1325 \u12eb\u1209 \u12a0\u1295\u12f3\u1295\u12f5 \u12e8\u1260\u120d\u1325 \u1228\u1240\u1245 \u12eb\u1209 \u1263\u1205\u122d\u12eb\u1275\u1295 \u12ed\u121e\u12ad\u1229\u1362", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "8.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "text": "\u1270\u1328\u121b\u122a \u121d\u1233\u120c\u12ce\u127d\u1295 \u12ed\u1218\u120d\u12a8\u1271", 
+            "header": "\u1240\u1325\u120d", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_examples_start", 
+            "icon": "down"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_1.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u121d\u1233\u120c 1", 
+            "references": [
+                "control_light::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_1.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_7"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u121d\u1233\u120c 2", 
+            "references": [
+                "control_light::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_8"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u121d\u1233\u120c 3 ", 
+            "references": [
+                "control_light::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_9"
+        }, 
+        {
+            "text": "\u12a5\u1295\u12b3\u1295 \u12f0\u1235 \u12a0\u1208\u12ce\u1275! \u1260\u121e\u1263\u12ed\u120d \u1235\u120d\u12ad \u134e\u1276\u130d\u122b\u134d \u1260\u121a\u12eb\u1290\u1231\u1260\u1275 \u130a\u12dc \u1265\u122d\u1203\u1295\u1295 \u1208\u1218\u1246\u1323\u1320\u122d \u12e8\u121a\u12eb\u1235\u127d\u1209\u12ce\u1275\u1295 \u1218\u1230\u1228\u1273\u12ca \u1275\u121d\u1205\u122d\u1275 \u1270\u121d\u1228\u12cb\u120d\u1362 \u12a0\u12f2\u1235 \u12ad\u1205\u120e\u1276\u1265\u12ce\u1295 \u12a8\u12da\u1205 \u1260\u1273\u127d \u1260\u1270\u1230\u1321 \u1218\u120d\u1218\u1303\u12ce\u127d \u12eb\u12f3\u1265\u1229\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_10", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "\u1218\u120d\u1218\u1303\u12cd\u1295 \u1235\u122b", 
+            "link": "control_light_activity::intro_card_0", 
+            "id": "link_card_0", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "\u12e8\u1240\u12f0\u1218 \u1275\u121d\u1205\u122d\u1275 ", 
+            "link": "shoot_on_an_angle::intro_card_0", 
+            "id": "link_card_1", 
+            "references": [
+                "control_light::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }
+    ], 
+    "id": "control_light"
+}

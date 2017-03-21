@@ -1,0 +1,147 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "\u00bfC\u00f3mo puedo enviar correo electr\u00f3nico de forma segura?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; C\u00f3mo puede ser monitorizado su correo electr\u00f3nico.  \n&bull; C\u00f3mo puede usar el correo electr\u00f3nico con mayor seguridad.  \n&bull; C\u00f3mo puede tomar medidas para el anominato de su correo electr\u00f3nico.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "La comunicaci\u00f3n por correo electr\u00f3nico utiliza los mismos principios que la navegaci\u00f3n regular por Internet, excepto que cada mensaje por nuestra parte tiene un destino espec\u00edfico: otra persona que tambi\u00e9n se conecta a Internet a trav\u00e9s de un proveedor local en su pa\u00eds. \nfuente: [Frontline Defenders](https://www.frontlinedefenders.org/es/manuals/protection)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![C\u00f3mo puede interceptarse o monitorizarse un correo electr\u00f3nico](2.png)  \n### C\u00f3mo puede interceptarse o monitorizarse un correo electr\u00f3nico  \nSus correos pueden ser interceptados en todos los puntos de enrutamiento principales en su camino. Si vive en un pa\u00eds con una protecci\u00f3n de la privacidad fuerte, esa legislaci\u00f3n no se aplicar\u00e1 cuando su correo llegue al proveedor de servicios de Internet (ISP) de su destinatario en un pa\u00eds con leyes de privacidad distintas. Mientras su correo est\u00e1 en tr\u00e1nsito del pa\u00eds A al B, podr\u00eda pasar por routers de varios otros pa\u00edses.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![Usar HTTPS en lugar de HTTP](3.png)  \n### Usar HTTPS en lugar de HTTP  \nUse un correo electr\u00f3nico que soporte conexiones seguras HTTPS. \nCerci\u00f3rese siempre de que tiene una conexi\u00f3n segura. Cuando conecte a servicios de correo electr\u00f3nico, no conecte v\u00eda HTTP, conecte s\u00f3lo v\u00eda HTTPS. Esta es la opci\u00f3n predeterminada de Gmail, que viene por defecto en la mayor\u00eda de dispositivos Android. Aseg\u00farese de que cualquiera con quien usted comunique est\u00e1 usando HTTPS para su correo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![No abrir adjuntos](4.png)  \n### No abrir adjuntos  \nUse la opcion \u201cver\u201d en su lugar. Los adjuntos pueden usarse para distribuir virus y comprometer la seguridad de su computadora o dispositivo m\u00f3vil.  \nAseg\u00farese siempre de estar comunic\u00e1ndose con la persona con la que cree que lo hace. De acuerdo a Frontline Defenders, \u201cEs relativamente f\u00e1cil 'suplantar' una direcci\u00f3n de correo electr\u00f3nico. La suplantaci\u00f3n significa falsear el nombre y la direcci\u00f3n de correo electr\u00f3nico del remitente para hacer que parezca una direcci\u00f3n aleatoria o de alguien que conozca\u201d.  \nCompruebe siempre la direcci\u00f3n de respuesta del correo electr\u00f3nico detenidamente, para asegurarse de que el correo proviene de la direcci\u00f3n correcta, la simulaci\u00f3n de la direcci\u00f3n de correo electr\u00f3nico es una herramienta para el env\u00edo de malware y comprometer computadoras y dispositivos m\u00f3viles.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![comunicarse entre cuentas an\u00f3nimas](5.png)  \n### Use navegadores alternativos  \nUse un navegador distinto para el uso an\u00f3nimo, y \u00faselo s\u00f3lo para eso. Reinicie el navegador antes y despu\u00e9s de cada uso (aseg\u00farese de borrar el historial de navegaci\u00f3n y eliminar las cookies). Tambi\u00e9n puede usar un modo de \u201cnavegaci\u00f3n privada\u201d o \u201cinc\u00f3gnito\u201d, que no conservar\u00e1 las cookies y borrar\u00e1 el historial de navegaci\u00f3n al cerrar. \nPara una seguridad a\u00f1adida, conecte desde una direcci\u00f3n IP distinta para su actividad an\u00f3nima. Por ejemplo, use sus cuentas de servicios de Internet regulares cuando est\u00e9 en casa, y use sus cuentas an\u00f3nimas s\u00f3lo cuando use conexi\u00f3n inal\u00e1mbrica en una cafeter\u00eda. Recuerde que usar la misma cafeter\u00eda repetidamente tambi\u00e9n reduce la posibilidad de anonimato.  \nLa \u00fanica manera de enviar correo electr\u00f3nico que sea verdaderamente privado y seguro es con un proveedor de correo cifrado o un cliente de correo electr\u00f3nico que habilite el cifrado en el lado del dispositivo. Use cifrado en el lado del dispositivo si es posible de alguna forma, y use una opci\u00f3n de cifrado como PGP que proporciona un est\u00e1ndar abierto para asegurar que el cifrado hace lo que afirma hacer.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "El proyecto Surveillance Self Defense (vigilancia y autodefensa) de la Electronic Frontier Foundation (fundaci\u00f3n para las fronteras electr\u00f3nicas) facilita una gran introducci\u00f3n y visi\u00f3n general del uso de cifrado.\n\n[https://ssd.eff.org/es/module/\u00bfqu\u00e9-es-el-cifrado](https://ssd.eff.org/es/module/\u00bfqu\u00e9-es-el-cifrado)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Use s\u00f3lo correo electr\u00f3nico con HTTPS por defecto.  \n&bull; HTTPS asiste a su correo electr\u00f3nico para que sea seguro, pero no garantiza que su correo electr\u00f3nico sea seguro.  \n&bull; Abra los adjuntos s\u00f3lo despu\u00e9s de verificar la identidad del remitente. \n&bull; Nunca use su correo electr\u00f3nico personal en un dispositivo m\u00f3vil o computadora que no sea suya.  \n&bull; Cifrar su correo electr\u00f3nico es la \u00fanica forma de asegurar que no ser\u00e1 le\u00eddo por otro que no sea el destinatario.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "\u00bfCu\u00e1l de los siguientes me ayudar\u00e1 a leer mi correo electr\u00f3nico de forma segura?", 
+            "choices": [
+                {
+                    "text": "Usar siempre HTTP", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Compartir una direcci\u00f3n de correo electr\u00f3nico y comunicarme s\u00f3lo mediante \u201cborradores\u201d ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Usar una cuenta de correo an\u00f3nima", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Usar siempre HTTPS", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2", 
+                "answer_3", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 4, 
+            "question": "\u00bfD\u00f3nde puede ser interceptado o le\u00eddo mi correo?", 
+            "choices": [
+                {
+                    "text": "En mi propia computadora", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Desde mi ISP", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Desde el proveedor de correo electr\u00f3nico", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "En la computadora del destinatario", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_3", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfC\u00f3mo se llama cuando alguien simula su direcci\u00f3n de correo electr\u00f3nico o la de uno de sus contactos?", 
+            "choices": [
+                {
+                    "text": "Tomar prestada", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Mentir", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Suplantar", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Hackear", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "how_can_i_send_email_safely", 
+    "title": "C\u00f3mo puedo enviar correo electr\u00f3nico de forma segura"
+}

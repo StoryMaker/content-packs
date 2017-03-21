@@ -1,0 +1,283 @@
+{
+    "title": "Fiixee Hojii Kaasi", 
+    "storyPathLibraryFile": "capture_peak_action_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../3_create_layers/create_layers.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action_activity", 
+            "dependencyFile": "../4_capture_peak_action_activity/capture_peak_action_activity.json"
+        }, 
+        {
+            "dependencyId": "shoot_on_an_angle", 
+            "dependencyFile": "../5_shoot_on_an_angle/shoot_on_an_angle.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "level": "Seensa |", 
+            "headline": "Fiixee Hojii Kaasi", 
+            "time": "3-5 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "suuraa baayyee gaariin kan inni lubbuu godhatu sababa fiixee hojii qabatuufi. Kutaan kun fiixee hojiitii akka itti suuraa kaasan barsiisa.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "header": "Itti aanee", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "milestone_start", 
+            "text": "Eegali"
+        }, 
+        {
+            "text": "suuraan seenaa yookaan mudannoo yeroo tokkoo ibsa. Kana gochuuf yeroo mijataa ta'etti ta'uu qaba. Kunimmoo yeroo Fiixee Hojii jedhama.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "capture_peak_action::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "suuraan darbataa kan ka'e darbannaa walakkaarratti, yeroo fiixee hojii.", 
+            "references": [
+                "capture_peak_action::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Suuroon baayyee gaariin yeroo suchii fi dhageettiin sirriitti mul'inaan of ibsanitti kan kaafamuudha.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "capture_peak_action::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Fiixeen hojii asitti yeroo kubbaan rukutamu kaafame.", 
+            "references": [
+                "capture_peak_action::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "1.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Yeroo fiixee hojiikee erga amalli wanta ta'aa turee xumuramee ilaali. Yeroon kun yeroo baayyee yeroo olka'iinsa fiiixee hojiikeeti.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "capture_peak_action::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "4.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Fiixeen hojii asitti yeroo taphataan waan ta'e faallessuuf hojjetuudha.", 
+            "references": [
+                "capture_peak_action::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "4.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Yeroon fiixee hojii faalleessa-hojii cimaa ta'uu danda'a. Qaama isa dursurratti qofa hin xiyyeeffatin, warra dhaabbatanii jiran yookaan warra hordofaa jiran ilaali yeroo gaariiti mul'atu argachuuf.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "capture_peak_action::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "4.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Fiixeen hojii asitti yeroo taphattooti walitti dhufani", 
+            "references": [
+                "capture_peak_action::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "4.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Waan ta'aa jiru akkuma argiteen hin kaasin. waan ta'aa jiru qu'adhuu, sochii jiru ilaalii, isa booda eeguudhaan yeroo sirriidha jettutti kaasi.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "capture_peak_action::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "5.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Fiixeen Hojii asitti taphataan yeroo aaree jiruttidha.", 
+            "references": [
+                "capture_peak_action::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "5.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Yaadachuun kan barbaachisu, yeroo tokko tokko yeroon fiixee hojiikee ifaa ta'uu dhiisuu danda'a, waanuma salphaayyuu ta'uu danda'a", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6", 
+            "references": [
+                "capture_peak_action::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Fiixee hojii sirriitti argachuuf, bakkaa fi waan ta'uuf deemurratti qophaa'uun barbaachisaadha. Waan godhamu callistee hinari'in. Qophooftee eeguudhaan seenaakee ibsuuf kan ta'u kaasi.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7", 
+            "references": [
+                "capture_peak_action::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Fakkeenyota Dabalataa Ilaali", 
+            "header": "Itti Aanee", 
+            "references": [
+                "capture_peak_action::milestone_start::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_examples_start", 
+            "icon": "down"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_1.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Fakkeenya 1", 
+            "references": [
+                "capture_peak_action::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_1.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Fakkeenya 2", 
+            "references": [
+                "capture_peak_action::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Fakkeenya 3", 
+            "references": [
+                "capture_peak_action::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_7"
+        }, 
+        {
+            "text": "Baga Gammadde, fiixee hojii fayyadamuudhaan tarkaanfilee bu'uuraa ittiin suuraa kaasan baratteettaa. Hojiiwwan kanaa gaditti jiran hojjechuun dandeettii haaraa argatte kana shaakali.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8", 
+            "references": [
+                "capture_peak_action::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Hojicha Hojjedhu", 
+            "link": "capture_peak_action_activity::intro_card_0", 
+            "id": "link_card_0", 
+            "references": [
+                "capture_peak_action::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Barumsa Itti Aanu", 
+            "link": "shoot_on_an_angle::intro_card_0", 
+            "id": "link_card_1", 
+            "references": [
+                "capture_peak_action::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Kutaa Duraa", 
+            "link": "capture_peak_action::intro_card_0", 
+            "id": "link_card_2", 
+            "references": [
+                "capture_peak_action::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }
+    ], 
+    "id": "capture_peak_action"
+}

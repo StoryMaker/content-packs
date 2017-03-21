@@ -1,0 +1,35 @@
+{
+    "title": "\u0627\u0644\u062a\u0631\u0643\u064a\u0628 \u0628\u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u0627\u0644\u0634\u0628\u0643\u0629", 
+    "storyPathTemplateFiles": {
+        "compose_with_a_grid": "compose_with_a_grid.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "compose_with_a_grid.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid_activity", 
+            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid_activity.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../3_create_layers/create_layers.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "compose_with_a_grid"
+        }
+    ], 
+    "currentStoryPathFile": "compose_with_a_grid.json", 
+    "id": "compose_with_a_grid"
+}

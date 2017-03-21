@@ -1,0 +1,152 @@
+{
+    "cards": [
+        {
+            "header": "\u1240\u1325\u120d", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "\u1235\u1208\u12da\u1205 \u1309\u12f3\u12ed \u12a0\u1265\u1290\u1275  "
+        }, 
+        {
+            "text": "\u12ed\u1205 \u12a0\u1265\u1290\u1275 \u12e8\u1273\u122a\u12ad\u12ce\u1295 \u121d\u122d\u1325 \u1245\u133d\u1260\u1276\u127d \u12ed\u12d8\u12cd \u12a5\u1295\u12f2\u12eb\u1235\u1240\u1229 \u12ed\u1228\u12f3\u12ce\u1273\u120d\u1362 \u12e8\u12cb\u1293 \u12cb\u1293 \u1290\u1325\u1266\u127d \u1273\u122a\u12ae\u127d \u12a0\u12c8\u1243\u1240\u122d \u12a0\u120b\u121b\u12cd \u12e8\u1273\u122a\u12a9\u1295 \u12a0\u12ab\u1204\u12f5 \u1260\u130d\u120d\u133d \u121b\u1233\u12e8\u1275 \u1233\u12ed\u1206\u1295 \u12e8\u122d\u12a5\u1230 \u1309\u12f3\u12e9\u1295 \u1283\u12ed\u1208\u129b \u1245\u133d\u1260\u1276\u127d \u12c8\u12ed\u121d \u12f5\u122b\u121b\u12ca \u1308\u133d\u1273\u12ce\u127d \u121b\u1233\u12e8\u1275 \u1290\u12cd\u1362 \u12e8\u126a\u12f2\u12ee \u12e8\u12cb\u1293 \u12cb\u1293 \u1290\u1325\u1266\u127d \u1273\u122a\u12ae\u127d \u12a0\u1265\u12db\u129b\u12cd\u1295 \u130a\u12dc \u12e8\u121a\u1290\u1308\u1229\u1275 \u1260\u1273\u122a\u12ad \u1290\u130b\u122a\u12cd \u12f5\u121d\u133d \u1290\u12cd\u1362 ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_video_highlights::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:08", 
+            "goals": [
+                "\u1273\u122a\u12ad\u12ce \u12e8\u121a\u1218\u1208\u12a8\u1270\u12cd\u1295 \u121b\u1205\u1260\u1228\u1230\u1265 \u12c8\u12ed\u121d \u12a0\u12ab\u1263\u1262 \u12eb\u1233\u12e9\u1362"
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "video", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "\u1260\u1273\u122a\u12ad\u12ce \u12cd\u1235\u1325 \u12eb\u1209 \u12cb\u1293 \u1308\u1338 \u1263\u1205\u122a(\u12eb\u1275)\u1295 \u12eb\u1233\u12e9\u1362 "
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "video", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:15", 
+            "goals": [
+                "\u12e8\u1273\u122a\u12a9\u1295 \u12a0\u1235\u1348\u120b\u130a\u1290\u1275 \u1320\u1245\u1208\u120d \u12a0\u12f5\u122d\u130e \u12e8\u121a\u12eb\u1235\u1228\u12f3 \u12e8\u1206\u1290 \u1290\u1308\u122d\u1295 \u12eb\u1233\u12e9\u1362"
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "\u1308\u1338 \u1263\u1205\u122a\u12cd(\u12ce\u1279) \u12a8\u1273\u122a\u12a9 \u130b\u122d \u130d\u1295\u1299\u1290\u1275 \u12eb\u1208\u12cd \u1270\u130d\u1263\u122d \u120b\u12ed \u1232\u1233\u1270\u134d(\u1349) \u12eb\u1233\u12e9\u1362 "
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:15", 
+            "goals": [
+                "\u12a0\u130d\u1263\u1265 \u12eb\u1208\u12cd \u1308\u1338 \u1263\u1205\u122a\u1295 \u1235\u1208 \u1273\u122a\u12a9 \u12a5\u1295\u12f2\u12eb\u12c8\u122b \u12ed\u1320\u12ed\u1241\u1362"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "video", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "\u1308\u1338 \u1263\u1205\u122a\u12cd \u12a8\u1273\u122a\u12a9 \u130b\u122d \u130d\u1295\u1299\u1290\u1275 \u12eb\u1208\u12cd \u1270\u130d\u1263\u122d \u120b\u12ed \u1232\u1233\u1270\u134d \u12eb\u1233\u12e9\u1362 "
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:15", 
+            "goals": [
+                "\u12a0\u130d\u1263\u1265 \u12eb\u1208\u12cd\u1295 \u120c\u120b \u1308\u133d \u1263\u1205\u122a \u1235\u1208 \u1273\u122a\u12a9 \u12a5\u1295\u12f2\u12eb\u12c8\u122b \u12ed\u1320\u12ed\u1241\u1362"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "\u1273\u122a\u12a9\u1295  \u1320\u1245\u1208\u120d \u12a0\u12f5\u122d\u130e \u12e8\u121a\u12eb\u1235\u1228\u12f3 \u12c8\u12ed\u121d \u12e8\u121a\u12f0\u1218\u12f5\u121d \u12e8\u1206\u1290 \u1290\u1308\u122d\u1295 \u12eb\u1233\u12e9\u1362"
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_3", 
+            "tags": [
+                "edit", 
+                "video", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_4", 
+            "tags": [
+                "narration"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_video_highlights", 
+    "title": "\u12e8\u126a\u12f2\u12ee \u12cb\u1293 \u12cb\u1293 \u1290\u1325\u1266\u127d"
+}

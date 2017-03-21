@@ -1,0 +1,149 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Wie funktioniert eine digitale Kamera?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## In dieser Lektion Lernen Sie:\n&bull; Wie die Kamera in Ihrem Mobil Telefon funtioniert.\n&bull; Welche Blende, Blendenwert und was ISO ist.\n&bull; Eine Einfuehrung fuer korrekte Belichtung.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "![Sensor Example](2.png)\nA big part of understanding how a camera works and how to use it is to understand what it does not do well compared to the human eye. Your eye can see details in places with extreme contrast \u2014 highlights on a snow-covered mountain top, for example, and dark shadows in a cave entrance in the side of that same mountain. Digital cameras cannot always see details visible to your eyes. Images often appear too bright or too dark.  \nYour eye is quick to focus on the singular thing of interest in your field of view. A digital camera must be told where to focus, especially in low light, and can be slow to focus.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Example of a photo underexposed in low light.](3.jpg)  \nExample of a photo underexposed in low light.\n![Example of a photo exposed correctly in low light.](4.jpg)  \nExample of a photo exposed correctly in low light.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![Wie funktioniert eine Kamera.](5.png)\n##Die Funktionen einer Kamera\nEine digitale Kamera funtioniert recht einfach. Sie besitzt digitale sensoren die das Licht buendeln, der Verschluss regelt die Dauer der Belichtung, und die Blende ein teil des Objektiv's steuert den Lichteinlass. Hier ist eine kurze Erlaeuterung zu den genannten einzelnen Funktionen.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![The sensor](6.png)  \n## The sensor  \nHow a camera sensor accepts light:  \n  \nA. Incoming light  \nB. Color filters  \nC. Light is converted to electricity  \nD. Sensor is made up of millions of pixels that collect light.  \n  \nInside every digital camera is a sensor that records light. These sensors come in a variety of shapes, sizes, and designs. Larger sensors are better at recording good color and sharp images, especially in low light.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![ISO Einstellungen in unterschiedlichen Umgebungen](7.png)\nDie Kamerasensoren kann in unterschiedlichen  Aufnahme Stufen einstellt werden, durch erhoehen oder herab setzen der Lichtmpfindlichkeit. Dies nennt man auch Einstellung f\u00fcr die Empfindlichkeit  und wird in numerische Einheiten gemessen, meistens zwischen 100 bis 800 und hoeher bei den Mobilen Telefone . Dein ISO sollte im normal fall etwas hoeher in geringer Lichtintensitaet (800) und niedriger bei starker Lichtintensitaet(100) sein. Deine Kamera hat eine automatische ISO Funktion einstellung. Aber es gibt auch andere Android Mobil Telefone und Mobil Telefon Software die es dir ermoeglichen alles selbst manuell einzustellen.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "##Der Verschluss\nBeim Ausloesen \u00f6ffnet sich der Verschluss und l\u00e4sst f\u00fcr die eingestellte Zeit Licht auf die Bildebene fallen. Dann schlie\u00dft sich der Verschluss wieder. Die Belichtungszeit kann variiert werden, d.h. das Tempo, mit dem sich der Verschluss wieder schlie\u00dft, und damit die Dauer, w\u00e4hrend der Licht einfallen kann. Dies wird Belichtungszeit genannt. In der Fotografie sind die Angaben in der  Belichtungszeit in Bruchteilen von Sekunden. In der Belichtungszeit Verschluss erlaubt den Fotografen Aktionen einfrieren zu lassen. Ist die Belichtungszeit Verschluss zu langsam und nicht richtig eingestellt, laesst es das bewegende Motiv das bei den Sensoren aufgenommen worden ist verschwommen aus sehen. Dann unterstuetzt moeglicher weise Ihr Mobil telefon nicht die komplette Leistungs funktionen des Belichtungzeit Verschluss. Die meisten Mobil Telefone lassen den manuellen direkten zugriff  auf die Belichtungszeit nicht zu. Heutzutage bieten viele Android Firmen fuer Android Mobil Telefone Software die eine Standard funktion fuer bewegende Bilder schnelle Belichtungszeit bei der berechnung der Belichtung.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![Wie die Blende einer Kamera funktioniert](8.png)\n## Die Blende\nDie Blende ist eine kleine \u00d6ffnung die bestimmt wie viel Licht auf die Linse der Kamera f\u00e4llt. Je gr\u00f6\u00dfer die Blenden\u00f6ffnung, desto mehr Licht f\u00e4llt auf den Sensor. Je kleiner die Blenden\u00f6ffnung, desto weniger Licht f\u00e4llt auf den Sensor.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## Balancing the exposure triangle  \n![Dark and Blurry example.](9.jpg)  \nExample of an unbalanced photo.  \n![Sharp and Bright example.](10.jpg)  \nExample of a balanced photo.  \nCreating an image with a proper exposure is very much a game of playing ISO, aperture, and shutter off of one another to achieve the desired effect. More expensive cameras provide the photographer more manual control over these features, but even smartphones now let you adjust exposure by changing the ISO or touching the screen at a point that represents a medium exposure value. Some also have digital zoom that allow you to zoom in or out.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## Working within limitations  \nUnderstanding these limitations and working within them is the key to getting the most out of your smartphone camera. Remember, if you have a smartphone and you need photos for your story, plan your coverage around time of day or lighting conditions if possible.  \n![Example of an unusable photo](11.jpg)  \nExample of an unusable photo.  \n![Usable example.](12.jpg)  \nExample of a balanced photo.  \nAdditionally, while the image of ambulances speeding by might be a great one for your story, you may opt to also take a more static picture of the front of the hospital to make sure you have a usable image in case the ambulance photo doesn\u2019t work out.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## ZU BER\u00dcCKSICHTIGENDE FAKTEN\n&bull; Smartphone-Kameras sind in ihren M\u00f6glichkeiten gegen\u00fcber Kompaktkameras und ganz sicher gegen\u00fcber digitalen SLRs beschr\u00e4nkt.\n&bull; Du hast bei Smartphone-Kameras nicht das selbe Ma\u00df an Einstellungsm\u00f6glichkeiten wie bei Kompaktkameras oder DSLRs.\n&bull; Smartphone-Kameras haben Schwierigkeiten bei schlechter Beleuchtung.\n&bull; Smartphone-Kameras haben manchmal Schwierigkeiten bei schnellen Bewegungen.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Die Kamera ist in ihrer F\u00e4higkeit Licht zu sammeln auf die folgenden Arten beschr\u00e4nkt:", 
+            "choices": [
+                {
+                    "text": "Es ben\u00f6tigt mehr Licht eine Szene zu beleuchten, als es f\u00fcr dein Auge n\u00f6tig ist diese zu sehen.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Die Kamera m\u00fcht sich ab eine Handlung einzufrieren, was dein Auge (und Gehirn) einfach hinbekommt.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Dein Auge kann \u00fcber die Bildsch\u00e4rfe schnell entscheiden und diese anpassen; eine Kamera ist langsamer und ben\u00f6tigt spezielle Anweisungen worauf sie sich scharf stellen soll.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Alle oben genannten", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Richtig oder Falsch: Fotos die mit dem Mobil Telefon ausgeloest wurden sind im grunde genommen genau so gut wie fokusieren und Ausloese und professionelle Kameras. Der einzige unterschied moege darin liegen das du nicht manuellen Zugriff auf die Belichtung,  und das Objektiv Linse und blendeneinstellung hast.", 
+            "choices": [
+                {
+                    "text": "Wahr", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falsch", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Was geschieht, wenn du den Verschluss einer Smartphone Kamera dr\u00fcckst?", 
+            "choices": [
+                {
+                    "text": "Es nimmt das Bild auf.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Es stellt das Bild scharf.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Es entscheidet \u00fcber die Belichtung.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Alles oben genannte.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "camera_basics", 
+    "title": "Grundlagen der Kamera"
+}

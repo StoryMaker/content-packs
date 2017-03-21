@@ -1,0 +1,32 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/video_2-persian/1_framing_your_shot/framing_your_shot_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_2-persian/cover.png", 
+    "language": "am", 
+    "title": "\u1240\u1228\u133b\u1295 \u1260\u12d9\u122a\u12eb \u12ad\u1265 \u12cd\u1235\u1325 \u121b\u1296\u122d "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_2-persian/2_videos_different_shots/videos_different_shots_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_2-persian/cover.png", 
+    "language": "am", 
+    "title": "\u12e8\u1270\u1208\u12eb\u12e9 \u12e8\u126a\u12f2\u12ee \u1240\u1228\u133b\u12ce\u127d"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_2-persian/3_sequences/sequences_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_2-persian/cover.png", 
+    "language": "am", 
+    "title": "\u12e8\u1245\u12f0\u121d \u1270\u12a8\u1270\u120e\u127d "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_2-persian/4_organizing_your_shoot/organizing_your_shoot_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_2-persian/cover.png", 
+    "language": "am", 
+    "title": "\u1240\u1228\u133b\u12ce\u1295 \u121b\u12f0\u122b\u1300\u1275"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_2-persian/5_content_sites/content_sites_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_2-persian/cover.png", 
+    "language": "am", 
+    "title": "\u12e8\u12ed\u12d8\u1275 \u12f5\u1228-\u1308\u133e\u127d "
+  }
+]

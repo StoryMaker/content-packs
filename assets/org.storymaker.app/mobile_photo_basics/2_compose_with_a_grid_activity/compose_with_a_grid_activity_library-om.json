@@ -1,0 +1,67 @@
+{
+    "title": "Hojii Tarsaatiin Qopheessi", 
+    "storyPathTemplateFiles": {
+        "compose_with_a_grid_activity": "compose_with_a_grid_activity.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../3_create_layers/create_layers.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "tips": [
+                {
+                    "text": "Qaccee: Qaammi barbaachisaan guutummaatti goodaayyaa keessa akka galu godhi", 
+                    "tags": [
+                        "grid"
+                    ]
+                }, 
+                {
+                    "text": "Qaccee: Harkaa fi fuula qara godayyaatiin hin kutin, yoo danda'ame.", 
+                    "tags": [
+                        "grid"
+                    ]
+                }, 
+                {
+                    "text": "Qaccee: Goodaayyacha guutummaatti seenicha himuuf fayyadami. Gidduusaa qofa utuu hin taane.", 
+                    "tags": [
+                        "grid"
+                    ]
+                }, 
+                {
+                    "text": "Qaccee: Bakki hawwataan bakka sarara tarsaa olii yookaan sarara dalgee tarsaa gadii ta'uu danda'a.", 
+                    "tags": [
+                        "grid"
+                    ]
+                }, 
+                {
+                    "text": "Qaccee: Baayyee irraa hin soofin, itti dhiyaadhu, garuu guutummaa qaamichaa qabadhu.", 
+                    "tags": [
+                        "grid"
+                    ]
+                }
+            ], 
+            "type": "TipCollectionHeadlessCard", 
+            "id": "tip_collection"
+        }, 
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "compose_with_a_grid_activity"
+        }
+    ], 
+    "currentStoryPathFile": "compose_with_a_grid_activity.json", 
+    "id": "compose_with_a_grid_activity"
+}

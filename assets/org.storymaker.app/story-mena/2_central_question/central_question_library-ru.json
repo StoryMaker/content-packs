@@ -1,0 +1,23 @@
+{
+    "title": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043e\u043f\u0440\u043e\u0441", 
+    "storyPathTemplateFiles": {
+        "central_question": "central_question.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "central_question", 
+            "dependencyFile": "central_question.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "central_question"
+        }
+    ], 
+    "currentStoryPathFile": "central_question.json", 
+    "id": "central_question"
+}

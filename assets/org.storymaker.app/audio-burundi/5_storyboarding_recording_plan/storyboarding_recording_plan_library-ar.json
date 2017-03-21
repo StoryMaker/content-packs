@@ -1,0 +1,23 @@
+{
+    "title": "\u0627\u0644\u062a\u062e\u0637\u064a\u0637 \u0644\u062a\u0633\u062c\u064a\u0644 \u0627\u0644\u0642\u0635\u0629", 
+    "storyPathTemplateFiles": {
+        "storyboarding_recording_plan": "storyboarding_recording_plan.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "storyboarding_recording_plan", 
+            "dependencyFile": "storyboarding_recording_plan.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "storyboarding_recording_plan"
+        }
+    ], 
+    "currentStoryPathFile": "storyboarding_recording_plan.json", 
+    "id": "storyboarding_recording_plan"
+}

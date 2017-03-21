@@ -1,0 +1,231 @@
+{
+    "cards": [
+        {
+            "header": "Itti aanee", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "Waa'ee Qajoojii kanaa"
+        }, 
+        {
+            "text": "Qajoojiin kun nama duunfaa kan hawaasichaaf barbaachisaa ta'e akka gabaastuuf gargaara. Muraaleen eeraman waraabbiiwwan sagalee hangafaa kan ati ittiin seenaa namoota dhuunfaa akka gaariitti irra deddeebitee uumtu haammata. Waraabbwwan irra utaaluuf bilisa ta'i, yookaan akka barbaachisetti waraabbiiwwan biroo fayyadami. Dabalataan, Fedhiikee akka guutanitti gaaffilee eeraman fudhadhu.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_news_profile_audio::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "audio", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:14", 
+            "goals": [
+                "Sagalee Bakka qaamichaaf barbaachisaa ta'ee waraabi."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:24", 
+            "goals": [
+                "Sagaleekee fayyadami yookaan qaamichi akka of beeksisu gaafadhu."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Waa'ee qaamichaa sagalee waan qabatamuu qabuu waraabi."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Sagalee waan barbaachisaa ta'e kan qaamichi hojjetu waraabi."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "audio", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:15", 
+            "goals": [
+                "Sagalee yeroo qaamichi gochicha xumuruu waraabi."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "Maaliif akka qaamichi si hawwate nutti himi."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:40", 
+            "goals": [
+                "Gaafadhu: Waa'ee waan hojjettuu hamma tokko nutti himuu dandeessaa?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "audio", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:40", 
+            "goals": [
+                "Sagalee kutaa seenaa qaamichaa baayyee barbaachisaa ta'ee waraabi."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:20", 
+            "goals": [
+                "Sagalee taaticha namoota biroo wajjin wal quunnamuu waraabi"
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "goals": [
+                "Sagalee akka namooti itti taatichaaf gocha deebii kennan waraabi."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_9"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:17", 
+            "goals": [
+                "Sagalee waan taatichi bashannanaaf godhuu waraabi."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_10"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:24", 
+            "goals": [
+                "Sagalee waan qaamichaaf barbaachisummaa qabuu waraabi."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_11"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:40", 
+            "goals": [
+                "Gaafadhu: Waa'ee gara fuulduraakee nutti himuu dandeessaa?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_12"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "Waan gara fuulduraatti qaamicha mudata jettee yaaddu nutti himi."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_13"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:14", 
+            "goals": [
+                "Sagalee bakka qaamichi itti seenicha xumuruu waraabi."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_14"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:08", 
+            "goals": [
+                "Sagalee qaamichaa xumura seenichaa irratti waraabi."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_15"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_3", 
+            "tags": [
+                "audio", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_4", 
+            "tags": [
+                "audio"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_news_profile_audio", 
+    "title": "Gabaasa Sagalee Dhimma Dhuunfaa"
+}

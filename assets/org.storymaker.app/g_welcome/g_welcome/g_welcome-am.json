@@ -1,0 +1,416 @@
+{
+    "cards": [
+        {
+            "text": "\u12a8\u12da\u1205 \u1260\u1273\u127d \u12eb\u1208\u12cd\u1295 \u201c\u12dd\u130d\u1301 \u1290\u129d\u201d \u12e8\u121a\u1208\u12cd\u1295 \u12a0\u12dd\u122b\u122d \u1260\u1218\u132b\u1295 \u12ed\u1300\u121d\u1229\u1362 ", 
+            "type": "HowToCard", 
+            "id": "howto_card_0"
+        }, 
+        {
+            "text": "StoryMaker 2 \u1283\u12eb\u120d \u12e8\u1218\u121b\u122a\u12eb \u12a5\u1293 \u12e8\u1218\u134d\u1320\u122a\u12eb \u1218\u1233\u122a\u12eb \u1290\u12cd\u1362 \u12a8\u1218\u1270\u130d\u1260\u122a\u12eb\u12cd \u12e8\u1270\u1208\u12eb\u12e9 \u12ad\u134d\u120e\u127d \u130b\u122d \u12a5\u1293\u1235\u1270\u12cb\u12cd\u1245\u12ce\u1273\u1208\u1295\u1362  ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "header": "\u1240\u1323\u12ed", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_begin", 
+            "text": "\u12dd\u130d\u1301 \u1290\u129d"
+        }, 
+        {
+            "text": "\u1218\u1233\u1262\u12eb\u12cd\u1295 \u1208\u1218\u130d\u1208\u1325 \u12a8\u130d\u122b \u12c8\u12f0 \u1240\u129d \u12a0\u130d\u12f5\u121d \u12eb\u1295\u1238\u122b\u1271", 
+            "type": "HowToCard", 
+            "id": "howto_card_1", 
+            "references": [
+                "g_welcome::ms_begin::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "sm_drawer.png", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u12e8\u12a0\u1230\u1233 \u1218\u1233\u1262\u12eb", 
+            "references": [
+                "g_welcome::ms_begin::value::true"
+            ], 
+            "exampleMediaPath": "sm_drawer.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "\u1218\u1233\u1262\u12eb\u12cd \u12c8\u12f0 \u1270\u1208\u12eb\u12e9 \u12e8\u1218\u1270\u130d\u1260\u122a\u12eb\u12cd \u12ad\u134d\u120e\u127d \u12a5\u1295\u12f2\u1204\u12f1 \u12eb\u1235\u127d\u120d\u12ce\u1273\u120d\u1362  ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "g_welcome::ms_begin::value::true"
+            ]
+        }, 
+        {
+            "text": "\u12a0\u1201\u1295 \u1201\u1209\u1295\u121d \u1290\u1308\u122d \u12e8\u121d\u1293\u1308\u129d\u1260\u1275\u1295 \u1235\u134d\u122b \u1235\u1208\u121d\u1293\u12cd\u1245 \u12a8StoryMaker \u121b\u1205\u1260\u1228\u1230\u1265 \u1260\u1218\u1300\u1218\u122d \u12a5\u12eb\u1295\u12f3\u1295\u12f1\u1295 \u12dd\u122d\u12dd\u122d \u12a5\u1295\u1218\u1208\u12a8\u1273\u1208\u1295\u1362 ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "g_welcome::ms_begin::value::true"
+            ]
+        }, 
+        {
+            "text": "\u1240\u1325\u120d", 
+            "header": "\u1240\u1323\u12ed", 
+            "references": [
+                "g_welcome::ms_begin::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "ms_drawer", 
+            "icon": "down"
+        }, 
+        {
+            "text": "\u12ed\u1295\u1295 \u1208\u121b\u130d\u1298\u1275 \u1260\u1218\u1233\u1262\u12eb\u12cd \u12a0\u1293\u1275 \u120b\u12ed \u12eb\u1208\u12cd \"\u121d\u12dd\u1308\u1263 / \u1218\u130d\u1262\u12eb\" \u12e8\u121a\u1208\u12cd \u1266\u1273 \u120b\u12ed \u12ed\u132b\u1291\u1362 ", 
+            "type": "HowToCard", 
+            "id": "howto_card_2", 
+            "references": [
+                "g_welcome::ms_drawer::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "sm_join.png", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u1208\u12ed\u1270\u12cd \u12ed\u130d\u1261 \u12c8\u12ed\u121d \u1218\u1208\u12eb \u12ed\u134d\u1320\u1229", 
+            "references": [
+                "g_welcome::ms_drawer::value::true"
+            ], 
+            "exampleMediaPath": "sm_join.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "\u12ed\u12d8\u1276\u1275\u1295 \u1208\u1270\u1240\u1228\u12cd \u12e8StoryMaker \u121b\u1205\u1260\u1228\u1230\u1265 \u121b\u130b\u122b\u1275 \u12a5\u1295\u12f2\u127d\u1209 \u12e8StoryMaker \u1218\u1208\u12eb\u1295 \u12ed\u134d\u1320\u1229 \u12a5\u1293/\u12c8\u12ed\u121d \u12c8\u12f0 \u1218\u1208\u12eb\u12ce \u12ed\u130d\u1261\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "g_welcome::ms_drawer::value::true"
+            ]
+        }, 
+        {
+            "text": "StoryMaker \u1260\u1240\u1325\u1273 \u12ed\u12d8\u1275\u1295 \u12e8\u121b\u12eb\u1235\u1270\u1293\u130d\u12f5 \u1218\u1206\u1291\u1295 \u12eb\u1235\u1270\u12cd\u1209\u1362 \u12a5\u1295\u12f0\u12da\u12eb \u1233\u12ed\u1206\u1295 \u12ed\u1205 \u12a8\u121a\u12eb\u130b\u1229\u1263\u1278\u12cd \u1218\u12f5\u1228\u12ae\u127d \u120b\u12ed \u12e8\u1270\u12c8\u1230\u12f1 \u1273\u122a\u12ae\u127d\u12ce \u1235\u1265\u1235\u1265 \u1290\u12cd\u1362 \u1260\u12da\u1205 \u1309\u12f3\u12ed \u120b\u12ed \u1270\u1328\u121b\u122a \u1218\u1228\u1303 \u1208\u121b\u130d\u1298\u1275 \u12a8\u12da\u1205 \u1260\u1273\u127d \u12eb\u1208\u12cd\u1295 \u1218\u1208\u12eb\u12ce\u127d \u12e8\u121a\u1208\u12cd\u1295 \u12ad\u134d\u120d \u12ed\u1218\u120d\u12a8\u1271\u1362 ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "g_welcome::ms_drawer::value::true"
+            ]
+        }, 
+        {
+            "text": "\u1240\u1325\u120d", 
+            "header": "\u1240\u1323\u12ed", 
+            "references": [
+                "g_welcome::ms_drawer::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "ms_community", 
+            "icon": "down"
+        }, 
+        {
+            "text": "StoryMaker 2\u1295 \u1208\u1218\u1300\u1218\u122a\u12eb \u130a\u12dc \u1232\u12a8\u134d\u1271\u1275 \u12e8\u121a\u1300\u121d\u1228\u12cd \u12a8\u1218\u1300\u1218\u122a\u12eb \u1308\u133d \u121b\u1233\u12eb\u12cd \u1290\u12cd\u1362 ", 
+            "type": "HowToCard", 
+            "id": "howto_card_3", 
+            "references": [
+                "g_welcome::ms_community::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "sm_home.png", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u12e8\u134a\u1275 \u1308\u133d \u121b\u1233\u12eb", 
+            "references": [
+                "g_welcome::ms_community::value::true"
+            ], 
+            "exampleMediaPath": "sm_home.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "\u12e8\u1218\u130d\u1262\u12eb \u1308\u133d \u121b\u1233\u12eb\u12ce \u12a5\u12e8\u1230\u122f\u1278\u12cd \u12eb\u120f\u1278\u12cd\u1295 \u1273\u122a\u12ae\u127d \u1260\u1219\u1209 \u12ab\u12c8\u1228\u12f7\u1278\u12cd \u1275\u121d\u1205\u122d\u1276\u127d\u1363 \u1218\u1218\u122a\u12eb\u12ce\u127d \u12a5\u1293 \u12a0\u1265\u1290\u1276\u127d\u1295 \u130b\u122d \u1230\u1265\u1235\u1266 \u12ed\u12ed\u12db\u120d\u1362 ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "g_welcome::ms_community::value::true"
+            ]
+        }, 
+        {
+            "text": "\u1240\u1325\u120d", 
+            "header": "\u1240\u1323\u12ed", 
+            "references": [
+                "g_welcome::ms_community::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "ms_home", 
+            "icon": "down"
+        }, 
+        {
+            "text": "\u12ab\u1273\u120e\u1309 \u12a0\u12cd\u122d\u12f0\u12cd \u1260\u1235\u1276\u122a\u121c\u12a8\u122d \u12cd\u1235\u1325 \u1260\u1240\u1325\u1273 \u120a\u1320\u1240\u121f\u1278\u12cd \u12e8\u121a\u127d\u120f\u1278\u12cd \u201c\u1353\u12ae\u12ce\u127d\u201d \u12a0\u1209\u1275\u1362", 
+            "type": "HowToCard", 
+            "id": "howto_card_4", 
+            "references": [
+                "g_welcome::ms_home::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "sm_catalog.png", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u12e8StoryMaker \u12ab\u1273\u120e\u130d", 
+            "references": [
+                "g_welcome::ms_home::value::true"
+            ], 
+            "exampleMediaPath": "sm_catalog.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "\u1260\u1226\u1235\u1275 \u12e8\u1270\u1208\u12eb\u12e9 \u121d\u12f5\u1266\u127d \u12e8\u1270\u12a8\u134b\u1348\u1208\u12cd \u12e8StoryMaker \u12ab\u1273\u120e\u130d \u1218\u1218\u122a\u12eb\u12ce\u127d\u1295\u1363 \u1275\u121d\u1205\u122d\u1276\u127d\u1295\u1363 \u12a5\u1293 \u12a0\u1265\u1290\u1276\u127d\u1295 \u12a5\u1295\u12f2\u12eb\u12c8\u12f1 \u1260\u121b\u1225\u127b\u120d \u1273\u120b\u120b\u1245 \u1273\u122a\u12ae\u127d\u1295 \u12a5\u1295\u12f4\u1275 \u1218\u134d\u1320\u122d \u12a5\u1295\u12f0\u121a\u127d\u1209 \u1208\u1218\u121b\u122d \u12ed\u1228\u12f3\u12ce\u1273\u120d\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6", 
+            "references": [
+                "g_welcome::ms_home::value::true"
+            ]
+        }, 
+        {
+            "text": "\u1218\u1218\u122a\u12eb\u12ce\u127d \u1270\u120b\u120d\u1245 \u1203\u1233\u1266\u127d\u1295 \u12ed\u1308\u1218\u130d\u121b\u1209 \u12a5\u1295\u12f2\u1201\u121d \u1208\u1218\u121b\u122d \u12e8\u121a\u1228\u12f1 \u1218\u120d\u1218\u1303\u12ce\u127d\u1295 \u12ed\u1230\u1323\u1209\u1362 \u12ad\u134d\u1208 \u1275\u121d\u1205\u122d\u1276\u127d \u12ed\u1260\u120d\u1325 \u12c8\u12f0 \u12dd\u122d\u12dd\u122d \u1309\u12f3\u12ee\u127d \u1260\u1218\u130d\u1263\u1275 \u12e8\u1218\u120d\u1272 \u121a\u12f2\u12eb \u121d\u1233\u120c\u12ce\u127d\u1295 \u12ed\u1230\u1323\u1209\u1362 \u12a0\u1265\u1290\u1276\u127d \u1273\u122a\u12ae\u127d\u12ce\u1295 \u1208\u121b\u12f3\u1260\u122d \u1218\u1320\u1240\u121d \u12e8\u121a\u127d\u120f\u1278\u12cd \u12a0\u12c8\u1243\u1240\u122e\u127d\u1295 \u12ed\u1230\u1321\u12ce\u1273\u120d\u1362 ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7", 
+            "references": [
+                "g_welcome::ms_home::value::true"
+            ]
+        }, 
+        {
+            "text": "\u1240\u1325\u120d", 
+            "header": "\u1240\u1323\u12ed", 
+            "references": [
+                "g_welcome::ms_home::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "ms_catalog", 
+            "icon": "down"
+        }, 
+        {
+            "text": "\u1273\u122a\u12a9\u1295 \u1260\u121a\u12eb\u1275\u1219\u1260\u1275 \u130a\u12dc \u12a4\u12ad\u1235\u1356\u122d\u1276\u127d \u12ed\u12f0\u1228\u130b\u1209\u1362  ", 
+            "type": "HowToCard", 
+            "id": "howto_card_5", 
+            "references": [
+                "g_welcome::ms_catalog::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "sm_exports.png", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u12c8\u12f0 \u120c\u120b \u1266\u1273 \u12e8\u1270\u120b\u12a8 \u12e8\u134e\u1276 \u133d\u1201\u134d", 
+            "references": [
+                "g_welcome::ms_catalog::value::true"
+            ], 
+            "exampleMediaPath": "sm_exports.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "\u12e8\u121a\u12eb\u1275\u121f\u1278\u12cd \u1273\u122a\u12ae\u127d \u1260\u1219\u1209 \u1218\u120d\u1230\u12cd \u12a5\u1295\u12f2\u12eb\u1308\u129b\u1278\u12cd \u12a5\u12da\u1201 \u1270\u1230\u1265\u1235\u1260\u12cd \u12ed\u1240\u1218\u1323\u1209\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8", 
+            "references": [
+                "g_welcome::ms_catalog::value::true"
+            ]
+        }, 
+        {
+            "text": "\u1240\u1325\u120d", 
+            "header": "\u1240\u1323\u12ed", 
+            "references": [
+                "g_welcome::ms_catalog::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "ms_exports", 
+            "icon": "down"
+        }, 
+        {
+            "text": "\u1260\u121a\u12c8\u12f1\u1275 \u12e8\u121b\u1205\u1260\u122b\u12ca \u121a\u12f2\u12eb \u12f5\u1228 \u1308\u133d \u120b\u12ed \u1273\u122a\u12ae\u127d\u12ce\u1295 \u12eb\u130b\u1229", 
+            "type": "HowToCard", 
+            "id": "howto_card_6", 
+            "references": [
+                "g_welcome::ms_exports::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "sm_accounts_yt.png", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u12e8\u1270\u12eb\u12eb\u12d9 \u1218\u1208\u12eb\u12ce\u127d ", 
+            "references": [
+                "g_welcome::ms_exports::value::true"
+            ], 
+            "exampleMediaPath": "sm_accounts_yt.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "\u12a8StoryMaker \u1260\u1240\u1325\u1273 \u12dd\u1290\u129b \u12c8\u12f0 \u1206\u1291 \u12e8\u121b\u1205\u1260\u122b\u12ca \u121a\u12f2\u12eb \u12f5\u1228 \u1308\u133e\u127d \u1260\u1218\u1208\u12eb \u1260\u1218\u130d\u1263\u1275 \u1273\u122a\u12ad\u12ce\u127d\u12ce\u1295 \u121b\u1270\u121d \u12ed\u127d\u120b\u1209\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_9", 
+            "references": [
+                "g_welcome::ms_exports::value::true"
+            ]
+        }, 
+        {
+            "text": "\u122b\u1235\u12ce \u12c8\u12f0\u121a\u12eb\u1235\u1270\u1263\u1265\u1229\u1275 \u12a0\u1308\u120d\u130b\u12ed \u121b\u1270\u121d\u1295 \u12e8\u1218\u122d\u1323\u1209? \u12e8\u130d\u120d \u12a0\u1308\u120d\u130b\u12ed \u12a0\u121b\u122b\u132b\u127d\u1295 \u134b\u12ed\u120d\u1295 \u12f0\u1205\u1295\u1290\u1271 \u1260\u1270\u1320\u1260\u1240 \u1218\u120d\u12a9 \u1208\u121b\u1235\u1270\u120b\u1208\u134d \u12eb\u1235\u127d\u120d\u12ce\u1273\u120d\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_10", 
+            "references": [
+                "g_welcome::ms_exports::value::true"
+            ]
+        }, 
+        {
+            "text": "\u1240\u1325\u120d", 
+            "header": "\u1240\u1323\u12ed", 
+            "references": [
+                "g_welcome::ms_exports::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "ms_accounts", 
+            "icon": "down"
+        }, 
+        {
+            "text": "\u1320\u1295\u12ab\u122b \u1245\u1295\u1265\u122e\u127d \u12a4\u12ad\u1235\u1356\u122d\u1275 \u12e8\u121a\u12eb\u12f0\u122d\u1313\u1278\u12cd\u1295 \u1290\u1308\u122e\u127d \u1260\u121a\u1348\u120d\u1309\u1275 \u1218\u1295\u1308\u12f5 \u12a5\u1295\u12f2\u12eb\u1260\u1301 \u12eb\u1235\u127d\u1209\u12ce\u1273\u120d\u1362", 
+            "type": "HowToCard", 
+            "id": "howto_card_7", 
+            "references": [
+                "g_welcome::ms_accounts::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "sm_settings.png", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u12e8\u121b\u1240\u1293\u1260\u122a\u12eb \u121b\u12cd\u132b ", 
+            "references": [
+                "g_welcome::ms_accounts::value::true"
+            ], 
+            "exampleMediaPath": "sm_settings.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "text": "StoryMaker \u12c8\u12f0\u121a\u1218\u122d\u1321\u1275 \u124b\u1295\u124b \u1218\u1270\u122d\u130e\u121d \u12eb\u1208\u1218\u1270\u122d\u130e\u1219\u1295 \u12eb\u1228\u130b\u130d\u1321\u1362 ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_11", 
+            "references": [
+                "g_welcome::ms_accounts::value::true"
+            ]
+        }, 
+        {
+            "text": "\u12e8\u1270\u1240\u1229\u1275 \u12e8\u121b\u12cd\u132b \u1218\u12cb\u1245\u122e\u127b\u127d\u1295 \u12a4\u12ad\u1235\u1356\u122d\u1275 \u1260\u121a\u12eb\u12f0\u122d\u1313\u1278\u12cd \u1290\u1308\u122e\u127d \u120b\u12ed \u1230\u134a \u1241\u1325\u1325\u122d \u1208\u121b\u12f5\u1228\u130d \u12eb\u1235\u127d\u1209\u12ce\u1273\u120d\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_12", 
+            "references": [
+                "g_welcome::ms_accounts::value::true"
+            ]
+        }, 
+        {
+            "text": "\u1240\u1325\u120d", 
+            "header": "\u1240\u1323\u12ed", 
+            "references": [
+                "g_welcome::ms_accounts::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "ms_settings", 
+            "icon": "down"
+        }, 
+        {
+            "text": "\u1218\u120d\u1236\u127b\u127d\u1295 \u1260\u1240\u1325\u1273 \u12c8\u12f0\u12da\u1205 \u12e8\u130d\u1265\u1228 \u1218\u120d\u1235 \u12ad\u134d\u120d \u12ed\u120b\u12ab\u1209\u1362 \u1235\u1208\u12da\u1205 \u12eb\u1235\u1308\u1261\u1275 \u1290\u1308\u122d \u12ab\u1208 \u1218\u120d\u1230\u12cd \u1260\u1218\u121d\u1323\u1275 \u12ed\u1218\u120d\u12a8\u1271\u1362", 
+            "type": "HowToCard", 
+            "id": "howto_card_8", 
+            "references": [
+                "g_welcome::ms_settings::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "sm_feedback_empty.png", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "\u12e8\u130d\u1265\u1228 \u1218\u120d\u1235 \u1245\u133d", 
+            "references": [
+                "g_welcome::ms_settings::value::true"
+            ], 
+            "exampleMediaPath": "sm_feedback_empty.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_7"
+        }, 
+        {
+            "text": "StoryMaker 2\u1295 \u1260\u121a\u1320\u1240\u1219\u1260\u1275 \u130a\u12dc \u121b\u1293\u1278\u12cd\u121d \u127d\u130d\u122e\u127d \u12ab\u130b\u1320\u1219\u12ce\u1275 \u12a5\u1263\u12ad\u12ce \u12a8\u1218\u1270\u130d\u1260\u122a\u12eb\u12cd \u130b\u122d \u12a0\u1265\u122e \u1308\u1290\u1265 \u12e8\u1206\u1290\u12cd\u1295 \u12ed\u1205\u1295 \u12e8\u130d\u1265\u1228 \u1218\u120d\u1235 \u1245\u133d \u12ed\u1320\u1240\u1219\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_13", 
+            "references": [
+                "g_welcome::ms_settings::value::true"
+            ]
+        }, 
+        {
+            "text": "\u1240\u1325\u120d", 
+            "header": "\u1240\u1323\u12ed", 
+            "references": [
+                "g_welcome::ms_settings::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "ms_feedback", 
+            "icon": "down"
+        }, 
+        {
+            "text": "\u12a5\u1295\u12b3\u1295 \u12f0\u1235 \u12eb\u1208\u12ce\u1275! \u12a0\u1201\u1295 \u1235\u1208 StoryMaker 2 \u12a0\u1235\u1348\u120b\u130a \u12ad\u134d\u120e\u127d \u1260\u1219\u1209 \u12eb\u12cd\u1243\u1209\u1362 \u1218\u1320\u1240\u1219 \u12a5\u1295\u12f0 \u121a\u12eb\u1235\u12f0\u1235\u1276\u1275 \u1270\u1235\u134b \u12a5\u1293\u12f0\u122d\u130b\u1208\u1295! ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_14", 
+            "references": [
+                "g_welcome::ms_feedback::value::true"
+            ]
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "g_welcome", 
+    "title": "\u12c8\u12f0 StoryMaker 2 \u12a5\u1295\u12b3\u1295 \u12f0\u1205\u1293 \u1218\u1321"
+}

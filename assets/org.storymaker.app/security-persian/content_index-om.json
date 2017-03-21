@@ -1,0 +1,44 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/security-persian/1_introduction_to_security/introduction_to_security_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-persian/cover.png", 
+    "language": "om", 
+    "title": "Seensa Nageenyaa"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-persian/2_how_do_my_communications_put_me_at_risk/how_do_my_communications_put_me_at_risk_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-persian/cover.png", 
+    "language": "om", 
+    "title": "Haali anni itti namootaan wal qunnamu akkamitti Rakkoo keessa na galchuu danda'a?"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-persian/3_how_can_i_use_sms_safely/how_can_i_use_sms_safely_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-persian/cover.png", 
+    "language": "om", 
+    "title": "Ergaa gabaabaa akkamitatan nageenyaan fayyaddamuu danda'a?"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-persian/4_how_can_i_use_a_browser_safely/how_can_i_use_a_browser_safely_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-persian/cover.png", 
+    "language": "om", 
+    "title": "Akkamittan nageenyaan iyyaafannoo fayyadama?"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-persian/5_how_can_i_send_email_safely/how_can_i_send_email_safely_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-persian/cover.png", 
+    "language": "om", 
+    "title": "Akkamittan Iimeelii nageenyaan erguu danda'a?"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-persian/6_what_makes_a_password_strong/what_makes_a_password_strong_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-persian/cover.png", 
+    "language": "om", 
+    "title": "Maaltu Iggita Cimaa Godha"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-persian/7_how_do_i_effectively_use_pseudonyms/how_do_i_effectively_use_pseudonyms_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-persian/cover.png", 
+    "language": "om", 
+    "title": "Eenyummaa Dhokataa Akkamittan Sirriitti Fayyadama"
+  }
+]

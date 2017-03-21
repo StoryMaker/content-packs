@@ -1,0 +1,23 @@
+{
+    "title": "\u0417\u0430\u043f\u0438\u0441\u044c: \u0441\u043e\u0432\u0435\u0442\u044b \u0438 \u0442\u0435\u0445\u043d\u0438\u043a\u0438 ", 
+    "storyPathTemplateFiles": {
+        "recording_tips_and_techniques": "recording_tips_and_techniques.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "recording_tips_and_techniques", 
+            "dependencyFile": "recording_tips_and_techniques.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "recording_tips_and_techniques"
+        }
+    ], 
+    "currentStoryPathFile": "recording_tips_and_techniques.json", 
+    "id": "recording_tips_and_techniques"
+}
