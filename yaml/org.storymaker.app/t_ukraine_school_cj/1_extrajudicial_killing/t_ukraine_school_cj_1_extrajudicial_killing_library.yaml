@@ -1,0 +1,19 @@
+---
+    id: t_ukraine_school_cj_1_extrajudicial_killing_library
+    title: Люди и война
+    classPackage: scal.io.liger.model
+
+    currentStoryPathFile: t_ukraine_school_cj_1_extrajudicial_killing.json
+    storyPathTemplateFiles:
+        t_ukraine_school_cj_1_extrajudicial_killing: t_ukraine_school_cj_1_extrajudicial_killing.json
+    dependencies:
+        -
+            dependencyId: t_ukraine_school_cj_1_extrajudicial_killing
+            dependencyFile: t_ukraine_school_cj_1_extrajudicial_killing.json
+
+    cards:
+        -
+            type: LoaderHeadlessCard
+            id: loader_card
+            action: LOAD
+            target: t_ukraine_school_cj_1_extrajudicial_killing

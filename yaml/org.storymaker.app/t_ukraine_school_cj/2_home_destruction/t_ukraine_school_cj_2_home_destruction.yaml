@@ -1,0 +1,128 @@
+---
+    id: t_citizen_journalist_1_meet_a_musician
+    title: Разрушенные города
+    cards:
+
+        -
+            type: IntroCard
+            exampleMediaPath: Home_Destruction.jpg
+            headline: 'Разрушенные города'
+            level: 'Начинающий |'
+            time: '15-30 минут'
+
+        -
+            type: TextCard
+            text: '«СторіМейкер» приглашает к созданию фото и видео сюжетов об изменениях на лице города в результате военных действий на Востоке Украины, описывая реалии быта и трансформаций в различных сферах жизни.'
+
+        -
+            type: TextCard
+            text: 'При создании сюжета, вы можете ориентироваться на предлагаемый ниже список примерных вопросов'
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Расскажите, как изменился ваш город с началом военных действий.'
+            clipType: result
+            length: 0:30
+
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Значительно ли разрушены жилые дома и инфраструктура города?'
+            clipType: result
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Где живут люди, потерявшие жилье в результате обстрелов?'
+            clipType: place
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Достаточно ли в городе продуктов питания? Цены на рынке сильно отличаются от цен в магазинах?'
+            clipType: result
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Есть ли доступ к медицинскому обслуживанию, к медикаментам?'
+            clipType: result
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Работает ли общественный  транспорт, и доступен ли он в поздние часы суток?'
+            clipType: result
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Достаточно ли город снабжается питьевой водой?'
+            clipType: result
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Доступно ли в домах газовое и центральное отопление?'
+            clipType: result
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Работают ли школы и детские садики?'
+            clipType: result
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Налажена ли система банковского обслуживания?'
+            clipType: result
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Какие радио и телевизионные каналы доступны в вашем городе?'
+            clipType: result
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Есть ли доступ к системе Интернет?'
+            clipType: result
+            length: 0:20
+
+        -
+            type: TextCard
+            text: 'Не стесняйтесь задавать больше вопросов, или делать дополнительные кадры. Обдумайте под каким углом лучше снять: может, поднять камеру выше, опустить ее ниже или отклонить ее вправо или влево.'
+
+        -
+            type: TextCard
+            text: 'Когда вы снимите достаточно клипов, вы можете разместить их ниже, нажав на кнопку «По порядку». Вы можете подрезать отдельные клипы, нажав на их уменьшенное изображение.'
+
+        -
+            type: ReviewCard
+            medium: video
