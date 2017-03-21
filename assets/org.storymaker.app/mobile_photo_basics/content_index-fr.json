@@ -1,11 +1,5 @@
 [
   {
-    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/0_toc/toc_library.json", 
-    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
-    "language": "fr", 
-    "title": "Know Your Mobile"
-  }, 
-  {
     "instanceFilePath": "org.storymaker.app/mobile_photo_basics/1_know_your_mobile/know_your_mobile_library.json", 
     "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
     "language": "fr", 
@@ -63,7 +57,7 @@
     "instanceFilePath": "org.storymaker.app/mobile_photo_basics/6_control_light/control_light_library.json", 
     "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
     "language": "fr", 
-    "title": "Control Light"
+    "title": "Controlez l'\u00e9clairage"
   }, 
   {
     "instanceFilePath": "org.storymaker.app/mobile_photo_basics/6_control_light_activity/control_light_activity_library.json", 

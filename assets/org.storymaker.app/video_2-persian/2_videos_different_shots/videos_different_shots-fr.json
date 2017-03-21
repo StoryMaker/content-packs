@@ -134,12 +134,12 @@
             "medium": "video", 
             "media": [
                 {
-                    "media": "12.mp4", 
+                    "media": "13.mp4", 
                     "media_caption": "Examples of a Detail shot."
                 }
             ], 
             "header": "Plans de d\u00e9tails", 
-            "exampleMediaPath": "12.mp4", 
+            "exampleMediaPath": "13.mp4", 
             "clipType": "character", 
             "type": "ExampleCard", 
             "id": "preview_card_5"

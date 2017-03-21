@@ -20,7 +20,7 @@
             "id": "markdown_card_0"
         }, 
         {
-            "text": "La fotograf\u00eda toma mucho prestado de la pintura. Las mejores fotos est\u00e1n compuestas de forma que el sujeto de la imagen est\u00e9 bien encuadrado, y el prop\u00f3sito de la foto est\u00e9 claro. Un buen color y una buena relaci\u00f3n entre las formas dominantes en el cuadro \u2014 los elementos de la fotograf\u00eda que primero distinguir\u00e1n sus ojos \u2014 son importantes para una buena composici\u00f3n. Es extremadamente importante cu\u00e1nta luz se usa.", 
+            "text": "La fotograf\u00eda toma mucho prestado de la pintura. Las mejores fotos est\u00e1n compuestas de forma que el sujeto de la imagen est\u00e9 bien encuadrado, y el prop\u00f3sito de la foto est\u00e9 claro. Un buen color y una buena relaci\u00f3n entre las formas dominantes en el encuadre \u2014 los elementos de la fotograf\u00eda que primero distinguir\u00e1n sus ojos \u2014 son importantes para una buena composici\u00f3n. Es extremadamente importante c\u00f3mo se usa la luz.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_1"
         }, 
@@ -30,12 +30,12 @@
             "id": "markdown_card_2"
         }, 
         {
-            "text": "![Regla de los tercios](4.png)  \n## Regla de los tercios\nLa base de una buena composici\u00f3n es la regla de los tercios. La regla de los tercios descompone el cuadro en nueve rect\u00e1ngulos iguales. Muchos smartphones le permitir\u00e1n mostrar la parrilla de la regla de los tercios encima del visor de la c\u00e1mara.", 
+            "text": "![Regla de los tercios](4.png)  \n## Regla de los tercios\nLa base de una buena composici\u00f3n es la regla de los tercios. La regla de los tercios descompone el cuadro en nueve rect\u00e1ngulos iguales. Muchos smartphones le permitir\u00e1n mostrar la rejilla de la regla de los tercios encima del visor de la c\u00e1mara.", 
             "type": "MarkdownCard", 
             "id": "markdown_card_3"
         }, 
         {
-            "text": "![Un buen uso de la regla de los tercios](5.jpg)  \nLos buenos fot\u00f3grafos componen por las intersecciones de las l\u00edneas en el encuadre, y trabajan para utilizar cada uno de los nueve rect\u00e1ngulos para contar sus historias.  \n![Un buen uso de la regla de los tercios](6.jpg)  \nLos aficionados tienden a situar al sujeto en medio del encuadre e ignorar el resto del espacio en lugar de usarlo para hacer una imagen m\u00e1s convincente.\n![Un buen uso de la regla de los tercios](7.jpg)  \n![Un buen uso de la regla de los tercios](8.jpg)", 
+            "text": "![Un buen uso de la regla de los tercios](5.jpg)  \nLos buenos fot\u00f3grafos componen alrededor de las intersecciones de las l\u00edneas en el encuadre, y trabajan para utilizar cada uno de los nueve rect\u00e1ngulos para contar sus historias.  \n![Un buen uso de la regla de los tercios](6.jpg)  \nLos aficionados tienden a situar al sujeto en medio del encuadre e ignorar el resto del espacio en lugar de usarlo para hacer una imagen m\u00e1s convincente.\n![Un buen uso de la regla de los tercios](7.jpg)  \n![Un buen uso de la regla de los tercios](8.jpg)", 
             "type": "MarkdownCard", 
             "id": "markdown_card_4"
         }, 
@@ -114,7 +114,7 @@
         }, 
         {
             "correctRequired": 1, 
-            "question": "Verdadero o falso: Una foto debe estar bien organizada. Una buena manera de hacer esto es tener s\u00f3lo un \u00fanico sujeto posicionado, y poner a su sujeto en medio del cuadro.", 
+            "question": "Verdadero o falso: Una foto debe estar bien organizada. Una buena manera de hacer esto es tener s\u00f3lo un \u00fanico sujeto posicionado, y poner a su sujeto en medio del encuadre.", 
             "choices": [
                 {
                     "text": "Verdadero", 

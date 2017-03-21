@@ -1,11 +1,5 @@
 [
   {
-    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/0_toc/toc_library.json", 
-    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
-    "language": "vi", 
-    "title": "Know Your Mobile"
-  }, 
-  {
     "instanceFilePath": "org.storymaker.app/mobile_photo_basics/1_know_your_mobile/know_your_mobile_library.json", 
     "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
     "language": "vi", 

@@ -1,33 +1,27 @@
 [
   {
-    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/0_toc/toc_library.json", 
-    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
-    "language": "ar", 
-    "title": "Know Your Mobile"
-  }, 
-  {
     "instanceFilePath": "org.storymaker.app/mobile_photo_basics/1_know_your_mobile/know_your_mobile_library.json", 
     "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
     "language": "ar", 
-    "title": "Know Your Mobile"
+    "title": "\u062a\u0639\u0631\u0641 \u0639\u0644\u0649 \u0647\u0627\u062a\u0641\u0643 "
   }, 
   {
     "instanceFilePath": "org.storymaker.app/mobile_photo_basics/2_compose_with_a_grid/compose_with_a_grid_library.json", 
     "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
     "language": "ar", 
-    "title": "Compose with a Grid"
+    "title": "\u0627\u0644\u062a\u0631\u0643\u064a\u0628 \u0628\u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u0627\u0644\u0634\u0628\u0643\u0629"
   }, 
   {
     "instanceFilePath": "org.storymaker.app/mobile_photo_basics/2_compose_with_a_grid_activity/compose_with_a_grid_activity_library.json", 
     "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
     "language": "ar", 
-    "title": "Compose with a Grid Activity"
+    "title": "\u062a\u0645\u0631\u064a\u0646 \u0627\u0644\u062a\u0631\u0643\u064a\u0628 \u0628\u0627\u0633\u062a\u0639\u0645\u0627\u0644 \u0627\u0644\u0625\u0637\u0627\u0631"
   }, 
   {
     "instanceFilePath": "org.storymaker.app/mobile_photo_basics/3_create_layers/create_layers_library.json", 
     "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
     "language": "ar", 
-    "title": "Create Layers"
+    "title": "\u0625\u0646\u0634\u0627\u0621 \u0637\u0628\u0642\u0627\u062a"
   }, 
   {
     "instanceFilePath": "org.storymaker.app/mobile_photo_basics/3_create_layers_activity/create_layers_activity_library.json", 
@@ -39,36 +33,36 @@
     "instanceFilePath": "org.storymaker.app/mobile_photo_basics/4_capture_peak_action/capture_peak_action_library.json", 
     "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
     "language": "ar", 
-    "title": "Capture Peak Action"
+    "title": "\u0627\u0644\u062a\u0642\u0637 \u0635\u0648\u0631\u0629 \u0644\u0642\u0645\u0651\u0629 \u0627\u0644\u0646\u0634\u0627\u0637"
   }, 
   {
     "instanceFilePath": "org.storymaker.app/mobile_photo_basics/4_capture_peak_action_activity/capture_peak_action_activity_library.json", 
     "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
     "language": "ar", 
-    "title": "Capture Peak Action Activity"
+    "title": "\u062a\u0645\u0631\u064a\u0646 \u0627\u0644\u062a\u0642\u0627\u0637 \u0635\u0648\u0631\u0629 \u0644\u0642\u0645\u0629 \u0627\u0644\u0646\u0634\u0627\u0637 "
   }, 
   {
     "instanceFilePath": "org.storymaker.app/mobile_photo_basics/5_shoot_on_an_angle/shoot_on_an_angle_library.json", 
     "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
     "language": "ar", 
-    "title": "Shoot on an Angle"
+    "title": "\u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0645\u0646 \u0632\u0627\u0648\u064a\u0629"
   }, 
   {
     "instanceFilePath": "org.storymaker.app/mobile_photo_basics/5_shoot_on_an_angle_activity/shoot_on_an_angle_activity_library.json", 
     "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
     "language": "ar", 
-    "title": "Shoot on an Angle Activity"
+    "title": "\u062a\u0645\u0627\u0631\u064a\u0646 \u0627\u0644\u062a\u0635\u0648\u064a\u0631 \u0645\u0646 \u0632\u0627\u0648\u064a\u0629"
   }, 
   {
     "instanceFilePath": "org.storymaker.app/mobile_photo_basics/6_control_light/control_light_library.json", 
     "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
     "language": "ar", 
-    "title": "Control Light"
+    "title": "\u0627\u0644\u062a\u062d\u0643\u0645 \u0641\u064a \u0627\u0644\u0625\u0636\u0627\u0621\u0629"
   }, 
   {
     "instanceFilePath": "org.storymaker.app/mobile_photo_basics/6_control_light_activity/control_light_activity_library.json", 
     "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
     "language": "ar", 
-    "title": "Control Light Activity"
+    "title": "\u062a\u0645\u0631\u064a\u0646 \u0627\u0644\u062a\u062d\u0643\u0645 \u0641\u064a \u0627\u0644\u0625\u0636\u0627\u0621\u0629"
   }
 ]

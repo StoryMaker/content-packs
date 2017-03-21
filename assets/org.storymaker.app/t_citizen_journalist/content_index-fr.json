@@ -3,18 +3,18 @@
     "instanceFilePath": "org.storymaker.app/t_citizen_journalist/1_meet_a_musician/t_citizen_journalist_1_meet_a_musician_library.json", 
     "thumbnailPath": "org.storymaker.app/t_citizen_journalist/cover.jpg", 
     "language": "fr", 
-    "title": "Meet a Musician!"
+    "title": "Rencontrez un musicien!"
   }, 
   {
     "instanceFilePath": "org.storymaker.app/t_citizen_journalist/2_traffic_accident/t_citizen_journalist_2_traffic_accident_library.json", 
     "thumbnailPath": "org.storymaker.app/t_citizen_journalist/cover.jpg", 
     "language": "fr", 
-    "title": "See a Traffic Accident?"
+    "title": "Vous \u00eates t\u00e9moin d'un Accident de la Route ?"
   }, 
   {
     "instanceFilePath": "org.storymaker.app/t_citizen_journalist/3_my_job/t_citizen_journalist_3_my_job_library.json", 
     "thumbnailPath": "org.storymaker.app/t_citizen_journalist/cover.jpg", 
     "language": "fr", 
-    "title": "What's your Job?"
+    "title": "Quel m\u00e9tier exercez-vous ?"
   }
 ]

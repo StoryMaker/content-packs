@@ -100,7 +100,7 @@
             "id": "markdown_card_16"
         }, 
         {
-            "text": "![Tags: Photo, Man, ID-card, Burundi, Fingerprint, Voter Registration](11.jpg)  \n### Tags: Photo, Man, ID-card, Burundi, Fingerprint, Voter Registration", 
+            "text": "![Tags: Photo, Homme, Carte d'identit\u00e9, Burundi, Emprunte digitale, Vote](11.jpg)  \n### Tags: Photo, Homme, Carte d'identit\u00e9, Burundi, Emprunte digitale, Vote", 
             "type": "MarkdownCard", 
             "id": "markdown_card_17"
         }, 
@@ -202,7 +202,7 @@
             "question": "Quelle est la meilleure l\u00e9gende de l'image ci-dessus?  ", 
             "choices": [
                 {
-                    "text": "2 December \u2013 Bujumbura \u2013 Famous Burundese rapper Thomas Nzeyimana (aka Mkonbozi) at the Afro Music Studio in the Buyenzi neighborhood in Bujumbura, Burundi.", 
+                    "text": "2 D\u00e9cembre \u2013 Bujumbura \u2013 Le c\u00e9l\u00e8bre rappeur Burundais Thomas Nzeyimana (alias Mkonbozi) \u00e0 l'Afro Music Studio dans le quartier de Buyenzi \u00e0 Bujumbara au Burundi.", 
                     "id": "answer_1"
                 }, 
                 {
@@ -210,7 +210,7 @@
                     "id": "answer_2"
                 }, 
                 {
-                    "text": "Incredibly talented Burundese rapper talks about why music matters.", 
+                    "text": "Un rappeur Burundais au talent incroyable explique pourquoi la musique est importante.", 
                     "id": "answer_3"
                 }
             ], 

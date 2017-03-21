@@ -3,7 +3,7 @@
     "instanceFilePath": "org.storymaker.app/t_citizen_journalist/1_meet_a_musician/t_citizen_journalist_1_meet_a_musician_library.json", 
     "thumbnailPath": "org.storymaker.app/t_citizen_journalist/cover.jpg", 
     "language": "ar", 
-    "title": "Meet a Musician!"
+    "title": "\u0645\u0642\u0627\u0628\u0644\u0629 \u0645\u0639 \u0645\u0648\u0633\u064a\u0642\u064a!"
   }, 
   {
     "instanceFilePath": "org.storymaker.app/t_citizen_journalist/2_traffic_accident/t_citizen_journalist_2_traffic_accident_library.json", 
@@ -15,6 +15,6 @@
     "instanceFilePath": "org.storymaker.app/t_citizen_journalist/3_my_job/t_citizen_journalist_3_my_job_library.json", 
     "thumbnailPath": "org.storymaker.app/t_citizen_journalist/cover.jpg", 
     "language": "ar", 
-    "title": "What's your Job?"
+    "title": "\u0645\u0627\u0647\u064a \u0645\u0647\u0646\u062a\u0643\u061f"
   }
 ]
