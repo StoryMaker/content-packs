@@ -1,0 +1,13 @@
+{
+    "t_process_profile_photo::text_card_0::text": "Tome una variedad de composiciones al ilustrar el proceso. Algunas tomas amplias, tomas próximas y medias. Su personaje no tiene que estar en cada foto.",
+    "t_process_profile_photo::clip_card_2::goals[0]": "Muestre dónde ocurre el proceso.",
+    "t_process_profile_photo::clip_card_1::goals[0]": "Muestre el principio mismo o la primera fase del proceso.",
+    "t_process_profile_photo::clip_card_8::goals[0]": "Capture a su personaje en el momento en que completa el proceso.",
+    "t_process_profile_photo::clip_card_5::goals[0]": "Fotografíe la siguiente fase significativa del proceso.",
+    "t_process_profile_photo::clip_card_0::goals[0]": "Muestre a su personaje preparándose para comenzar el proceso.",
+    "t_process_profile_photo::clip_card_7::goals[0]": "Si el proceso tiene una audiencia, muestre su reacción.",
+    "t_process_profile_photo::title": "Perfilar proceso",
+    "t_process_profile_photo::clip_card_4::goals[0]": "Fotografíe la siguiente fase significativa del proceso.",
+    "t_process_profile_photo::clip_card_6::goals[0]": "Dispare una foto que resuma el proceso.",
+    "t_process_profile_photo::clip_card_3::goals[0]": "Fotografíe la siguiente fase significativa del proceso."
+}

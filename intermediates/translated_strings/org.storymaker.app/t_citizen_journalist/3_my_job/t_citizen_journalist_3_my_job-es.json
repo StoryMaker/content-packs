@@ -1,0 +1,18 @@
+{
+    "t_citizen_journalist_3_my_job::text_card_0::text": "Realice tomas adicionales si es necesario. Cuando esté contento de haber capturado las principales actividades involucradas en el trabajo de su personaje, continúe.",
+    "t_citizen_journalist_3_my_job::title": "¿Cuál es su trabajo?",
+    "t_citizen_journalist_3_my_job::text_card_2::text": "Puede repetir este proceso con diferentes trabajadores y buscar el contraste entre ellos.",
+    "t_citizen_journalist_3_my_job::clip_card_3::goals[0]": "Grabe la expresión del personaje mientras trabaja.",
+    "t_citizen_journalist_3_my_job::clip_card_7::goals[0]": "Pregunte - ¿Qué es lo que más podría sorprender a la gente acerca de su trabajo?",
+    "t_citizen_journalist_3_my_job::clip_card_7::goals[1]": "Pregunte - ¿Qué hay interesante acerca de su trabajo que podría sorprender a la mayoría de la gente?",
+    "t_citizen_journalist_3_my_job::clip_card_2::goals[0]": "Acérquese. Grabe un detalle significativo del trabajo de su personaje.",
+    "t_citizen_journalist_3_my_job::intro_card_0::headline": "¿Cuál es su trabajo?",
+    "t_citizen_journalist_3_my_job::clip_card_6::goals[0]": "Acérquese. Pregunte - ¿Cuál es la parte favorita de su trabajo?",
+    "t_citizen_journalist_3_my_job::clip_card_1::goals[0]": "Muestre al personaje en acción, haciendo su tarea principal.",
+    "t_citizen_journalist_3_my_job::clip_card_5::goals[0]": "Pregunte - ¿Cómo llego a hacer este trabajo?",
+    "t_citizen_journalist_3_my_job::intro_card_0::level": "Principiante |",
+    "t_citizen_journalist_3_my_job::clip_card_0::goals[0]": "Escoja a un trabajador para hacer un perfil, comience mostrando el lugar donde trabaja.",
+    "t_citizen_journalist_3_my_job::text_card_1::text": "Ya es hora de entrevistar a su personaje. Asegúrese de buscar un emplazamiento silencioso.",
+    "t_citizen_journalist_3_my_job::clip_card_4::goals[0]": "Grabe al personaje interactuando con una o más personas en el trabajo.",
+    "t_citizen_journalist_3_my_job::text_card_3::text": "Cuando termine de grabar, puede organizar sus cortes debajo, pulsando el botón 'Ordenar'. Puede recortar clips individuales, pulsando su imagen miniatura."
+}

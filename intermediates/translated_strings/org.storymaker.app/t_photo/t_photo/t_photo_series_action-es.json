@@ -1,0 +1,11 @@
+{
+    "t_photo_series_action::clip_card_4::goals[0]": "Replique la composición con otro personaje.",
+    "t_photo_series_action::clip_card_3::goals[0]": "Replique la composición con otro personaje.",
+    "t_photo_series_action::title": "Serie - Acción",
+    "t_photo_series_action::clip_card_0::goals[0]": "Fotografíe una acción importante para su historia. Encuadre la acción al completo.",
+    "t_photo_series_action::text_card_0::text": "Esta es una plantilla de serie de acción. Una serie es un conjunto de imágenes similares diseñadas para ilustrar un punto de comparación. Las imágenes en una serie deben ser estilísticamente similares para ilustrar en detalle la comparación.",
+    "t_photo_series_action::ms_moreinfo::text": "Acerca de esta plantilla",
+    "t_photo_series_action::clip_card_1::goals[0]": "Replique la composición de la primera foto con otro personaje.",
+    "t_photo_series_action::ms_moreinfo::header": "Siguiente",
+    "t_photo_series_action::clip_card_2::goals[0]": "Replique la composición con otro personaje."
+}

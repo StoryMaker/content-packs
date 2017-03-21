@@ -1,0 +1,13 @@
+{
+    "t_news_breaking_audio::clip_card_1::goals[0]": "ክስተቱ ተጽእኖ ያደረገባቸው ሰዎች የሚሰጡትን ምላሽ ይቅረጹ።",
+    "t_news_breaking_audio::clip_card_5::goals[0]": "ክስተቱ ያስከተለውን ውጤት በግልጽ የሚያሳይ ነገር ይቅረጹ። ",
+    "t_news_breaking_audio::ms_moreinfo::header": "ቀጥል",
+    "t_news_breaking_audio::clip_card_0::goals[0]": "ከስፍራው በመሆን ድምጽን ይቅረጹ።",
+    "t_news_breaking_audio::ms_moreinfo::text": "ይህን አብነት በተመለከተ",
+    "t_news_breaking_audio::clip_card_4::goals[0]": "የሚቻል ከሆነ ክስተቱ ተጸእኖ ካደረገበት አንድ ግለሰብ ጋር ቃለ መጠይቅ ያድርጉ።",
+    "t_news_breaking_audio::clip_card_6::goals[0]": "እስከ አሁን የታወቀውን ነገር አሳጥረው ያቅርቡ። ",
+    "t_news_breaking_audio::clip_card_3::goals[0]": "በስፍራው ላይ እየተሰጠ ያለውን ምላሽ ድምጽ ይቅረጹ። ",
+    "t_news_breaking_audio::title": "የሰበር ዜና የድምጽ ዘገባ ",
+    "t_news_breaking_audio::text_card_0::text": "የሰበር ዜና የድምጽ ዘገባ ምን እየተከሰተ እንዳለ የሚያስረዳ፣ ቁልፍ ነጥቦችን አሳጥሮ  ያሚያቀርብ፣ ቁልፍ ነጥቦቹን፣ ዋና ተዋኒያኑን  እና ዘገባው እስከተጠናቀረበት ጊዜ ድረስ ያሉ ማናቸውንም መረጃዎች የሚያሰማ የድምጽ ቁራጭ መኖርን ይጠይቃል። ዘጋቢው ዜናው የተከሰተበት ቦታ ላይ የሚታየውን ነገር መግለጽ አለበት። መሰረታዊ እውነታዎቹን የሚያቀርብ ድምጽን ይቅረጹ እንዲሁም ከተቻለ ከአይን ምስክር ጋር ቃለ መጠይቅ ያድርጉ።",
+    "t_news_breaking_audio::clip_card_2::goals[0]": "ምን እንደተከሰተ አጠቃሎ በአጭሩ የሚያቀርብ ድምጽ ይቅረጹ። "
+}

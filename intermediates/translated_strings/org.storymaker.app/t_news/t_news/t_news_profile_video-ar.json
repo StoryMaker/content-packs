@@ -1,0 +1,19 @@
+{
+    "t_news_profile_video::title": "تقرير فيديو عن شخصية",
+    "t_news_profile_video::clip_card_11::goals[0]": "نسأل: رجاءا، هل يمكنك إخبارنا عن مستقبلك؟",
+    "t_news_profile_video::clip_card_0::goals[0]": "بين لنا أين تعيش شخصيتك.",
+    "t_news_profile_video::clip_card_5::goals[0]": "بين لنا الشيء الأكثر أهمية حول عمل شخصيتك.",
+    "t_news_profile_video::ms_moreinfo::text": "حول هذا القالب",
+    "t_news_profile_video::text_card_0::text": "هذا القالب سيساعدك على إعداد تقرير حول شخصية مهمة في مجتمعك. اللقطات المقترحة تشمل اللقطات الأولى التي ستحتاجها للحصول على بروفايل مقرّب للشخصية. لا تتردد في تجاوز بعض المشاهد أو استعمال لقطات أخرى إذا ما اقتضى الأمر، كما يمكنك تغيير الأسئلة المقترحة لتلبية حاجياتك.",
+    "t_news_profile_video::clip_card_1::goals[0]": "نسأل: هلا تقدم نفسك من فضلك؟",
+    "t_news_profile_video::clip_card_8::goals[0]": "إظهار ما يفعل شخصيتك للتسلية.",
+    "t_news_profile_video::clip_card_9::goals[0]": "بين لنا شيء مهم للشخصية.",
+    "t_news_profile_video::clip_card_12::goals[0]": "إظهار شخصيتك في نهاية القصة.",
+    "t_news_profile_video::clip_card_6::goals[0]": "بين لنا مكان مهم لشخصيتك.",
+    "t_news_profile_video::ms_moreinfo::header": "التالي",
+    "t_news_profile_video::clip_card_2::goals[0]": "إظهار ما وجدته بارزا في هذه الشخصية.",
+    "t_news_profile_video::clip_card_7::goals[0]": "أظهار  شخصيتك يتفاعل مع الآخرين في حياته.",
+    "t_news_profile_video::clip_card_3::goals[0]": "نسأل: رجاءا حدثنا عما تفعله في حياتك؟",
+    "t_news_profile_video::clip_card_10::goals[0]": "إذا كان مكانا جديدا، إظهار أين تنهي شخصيتك القصة.",
+    "t_news_profile_video::clip_card_4::goals[0]": "إظهار عمل شخصيتك."
+}

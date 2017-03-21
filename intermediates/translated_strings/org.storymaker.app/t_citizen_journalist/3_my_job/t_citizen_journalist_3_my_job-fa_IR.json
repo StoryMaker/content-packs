@@ -1,0 +1,18 @@
+{
+    "t_citizen_journalist_3_my_job::text_card_0::text": "اگر لازم است، نماهای بیشتری بگیرید. وقتی از نتیجه کارتان راضی بودید، کار را ادامه بدهید.",
+    "t_citizen_journalist_3_my_job::title": "شغل شما چیست؟",
+    "t_citizen_journalist_3_my_job::text_card_2::text": "می‌توانید این روند را با کارگران دیگر هم ادامه بدهید و تضادهای بین آنها را پیدا کنید.",
+    "t_citizen_journalist_3_my_job::clip_card_3::goals[0]": "حرف‌های شخصیت‌ها را در هنگام کار تصویربرداری کنید.",
+    "t_citizen_journalist_3_my_job::clip_card_7::goals[0]": "بپرسید: چه چیزی آدم‌های دیگر را درباره شغل شما شگفت‌زده می‌کند؟",
+    "t_citizen_journalist_3_my_job::clip_card_7::goals[1]": "بپرسید: چه نکته جالبی در کار شما وجود دارد که ممکن است دیگران را شگفت‌زده کند؟",
+    "t_citizen_journalist_3_my_job::clip_card_2::goals[0]": "نزدیک شوید: یک نمای جزئی از کار شخصیت‌تان بگیرید.",
+    "t_citizen_journalist_3_my_job::intro_card_0::headline": " شغل شما چیست؟",
+    "t_citizen_journalist_3_my_job::clip_card_6::goals[0]": "نزدیک شوید: کدام بخش کارتان را دوست دارید؟",
+    "t_citizen_journalist_3_my_job::clip_card_1::goals[0]": "شخصیت گزارش تان را در حال انجام کارش نشان بدهید.",
+    "t_citizen_journalist_3_my_job::clip_card_5::goals[0]": "بپرسید: طچور شد که وارد این کار شدید؟",
+    "t_citizen_journalist_3_my_job::intro_card_0::level": "مبتدی ۱",
+    "t_citizen_journalist_3_my_job::clip_card_0::goals[0]": "یک کارگر را انتخاب کنید که درباره‌اش گزارشی بسازید. با نشان دادن محل کارش گزارش را شروع کنید",
+    "t_citizen_journalist_3_my_job::text_card_1::text": "حالا وقت آن است که با شخصیت مورد نظرتان مصاحیه کنید. یک جای حلوت و ساکت را برای این کار انتخاب کنید.",
+    "t_citizen_journalist_3_my_job::clip_card_4::goals[0]": "برخورد شخصیت گزارش‌تان را با یکی دو نفر از افراد دیگر در محل کارش نشان بدهید.",
+    "t_citizen_journalist_3_my_job::text_card_3::text": "وقتی کارتان تمام شد، می‌توانید کلیپ‌هایتان را آن پایین تنظیم کنید. برای این کار دکمه «مرتب کردن» را فشار دهید. می‌توانید هر کلیپ را ببرید. برای این کار روی تصویر تامیل‌نیلز آنها فشار دهید."
+}

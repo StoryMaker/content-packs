@@ -1,0 +1,11 @@
+{
+    "t_photo_series_action::clip_card_4::goals[0]": "همین ترکیب را با یک شخصیت دیگر تکرار کنید.",
+    "t_photo_series_action::clip_card_3::goals[0]": "همین ترکیب را با یک شخصیت دیگر تکرار کنید. ",
+    "t_photo_series_action::title": "عکاسی سری از یک عمل",
+    "t_photo_series_action::clip_card_0::goals[0]": "از حرکتی عکس بگیرید که برای گزارش‌تان اهمیت دارد. تمام عمل را در عکس بگنجانید.",
+    "t_photo_series_action::text_card_0::text": "این یک قالب برای عکاسی ازیک مجموعه حرکت است. سری مجموعه ای از عکس‌های شبیه هم است که برای تصویر کردن موقعیت مقایسه‌ای گرفته می‌شود. عکس‌های یک سری، باید باید از نظر سبک شبیه هم باشند تا سرانجام یک ",
+    "t_photo_series_action::ms_moreinfo::text": "درباره این قالب",
+    "t_photo_series_action::clip_card_1::goals[0]": "ترکیب بندی عکس اول را با شخص دیگری، تکرار کنید.",
+    "t_photo_series_action::ms_moreinfo::header": "بعدی",
+    "t_photo_series_action::clip_card_2::goals[0]": "همین ترکیب را با یک شخصیت دیگر تکرار کنید. "
+}

@@ -1,0 +1,11 @@
+{
+    "t_photo_series_character::text_card_0::text": "این قالب برای عکاسی از یک مجموعه پرتره است. سری، به معنی عکاسی مجموعه‌ای عکس‌های شبیه هم است که یک وضعیت مقایسه‌ای را به تصویر بکشد. تصاویر در یک سری، باید از نظر سبک به گونه‌ای باشد که به یک مقایسه نهایی ختم شود.",
+    "t_photo_series_character::clip_card_0::goals[0]": "از فردی که ایده اصلی شما را در گزارش خبری تان نشان می‌دهد، عکس بگیرید.",
+    "t_photo_series_character::ms_moreinfo::text": "درباره این قالب",
+    "t_photo_series_character::ms_moreinfo::header": "بعدی",
+    "t_photo_series_character::clip_card_4::goals[0]": "همین ترکیب‌بندی را با یک شخص دیگر تکرار کنید.",
+    "t_photo_series_character::clip_card_3::goals[0]": "همین ترکیب‌بندی را با یک شخص دیگر تکرار کنید. ",
+    "t_photo_series_character::title": "عکاسی سری پرتره",
+    "t_photo_series_character::clip_card_1::goals[0]": "ترکیب بندی عکس اول را با شخص دیگری، تکرار کنید.",
+    "t_photo_series_character::clip_card_2::goals[0]": "همین ترکیب‌بندی را با یک شخص دیگر تکرار کنید. "
+}

@@ -1,0 +1,23 @@
+{
+    "t_video_report_event::clip_card_1::goals[0]": "ለክስተቱ ዝግጅት ሲደረግ ያሳዩ።",
+    "t_video_report_event::clip_card_12::goals[0]": "በክስተቱ ላይ ሰዎች እርስ በርስ በመነጋገራቸው የተፈጠረውን ውጤት ያሳዩ።",
+    "t_video_report_event::title": "የክስተት ቪዲዮ ",
+    "t_video_report_event::clip_card_6::goals[0]": "በክስተቱ ላይ ያለን አንድ ሰው “ክስተቱን መሳጭ የሚያደርገው ምንድን ነው?” ብለው ይጠይቁ።",
+    "t_video_report_event::ms_moreinfo::header": "ቀጥል",
+    "t_video_report_event::clip_card_14::goals[0]": "በክስተቱ ላይ ገጸ ባህሪው የተናገረውን ነገር ያሳዩ።",
+    "t_video_report_event::clip_card_2::goals[0]": "በክስተቱ ላይ የተፈጠረ ለየት ያለ ነገርን ያሳዩ።",
+    "t_video_report_event::ms_moreinfo::text": "ስለዚህ ጉዳይ አብነት  ",
+    "t_video_report_event::clip_card_10::goals[0]": "በክስተቱ ላይ ሰዎች እርስ በርስ ሲነጋገሩ ያሳዩ።",
+    "t_video_report_event::clip_card_7::goals[0]": "ለክስተቱ አስፈላጊ የሆነ ቦታ ያሳዩ።",
+    "t_video_report_event::text_card_0::text": "ይህ አብነት በማህበረሰብዎ ውስጥ የሚከሰትን ክስተት ለመዘገብ ይረዳዎታል። የቪዲዮ የዜና ዘገባዎች አብዛኛውን ጊዜ የሚከናወኑት በትረካ ነው። የተሰጡት ክሊፖች የብዙ ክስተቶችን ታሪክ ለመንገር የሚያስፈልጉዎትን ዋና ቀረጻዎች ይሸፍናሉ። እንደ አስፈላጊነቱ ቀረጻዎችን መዝለል ወይም ሌሎች ቀረጻዎችን መጠቀም ይችላሉ። በተጨማሪም የተሰጡትን ጥያቄዎች ለእርስዎ በሚያስፈልግዎት መልኩ ማስተካከል ይችላሉ።",
+    "t_video_report_event::clip_card_8::goals[0]": "አንድ ባለሞያ ስለ ክስተቱ አስተያየት እንዲሰጥ ይጠይቁ። ",
+    "t_video_report_event::clip_card_3::goals[0]": "አንድ ግለሰብ ክስተቱን እንዲያስተዋውቅ ይጠይቁ። ",
+    "t_video_report_event::clip_card_15::goals[0]": "ክስተቱ የሚጠናቀቅበት ስፍራ የተለየ ከሆነ ስፍራውን ያሳዩ። ",
+    "t_video_report_event::clip_card_4::goals[0]": " ክስተቱ ላይ የሚፈጠረውን ነገር ያሳዩ።",
+    "t_video_report_event::clip_card_16::goals[0]": "ክስተቱ ሲጠናቀቅ ያሳዩ።",
+    "t_video_report_event::clip_card_9::goals[0]": "በክስተቱ ላይ እየተካሄደ ያለ አንድ ነገር ያሳዩ። ",
+    "t_video_report_event::clip_card_0::goals[0]": "ክስተቱ የት እንደሚካሄድ ያሳዩ።",
+    "t_video_report_event::clip_card_13::goals[0]": "በክስተቱ ላይ የተገኘን አንድ ሰው ስላደረገው ነገር እንዲያወራ ይጠይቁ።",
+    "t_video_report_event::clip_card_11::goals[0]": "እንዲህ ብለው ይጠይቁ፦ በክስተቱ ላይ ምን ተፈጠረ?",
+    "t_video_report_event::clip_card_5::goals[0]": "ለክስተቱ አስፈላጊ የሆነ ነገር ያሳዩ። "
+}

@@ -1,0 +1,11 @@
+{
+    "t_photo_series_character::text_card_0::text": "ይህ የፖርትሬት ተከታታይ አብነት ነው። ተከታታይ ማለት አንድ አንጻራዊ ነጥብን ለማስረዳት የሚቀርቡ ተመሳሳይ ምስሎች ስብስብ ማለት ነው። በተከታታይ ውስጥ የሚቀርቡ ምስሎች ንጽጽሩን ይበልጥ ለማስረዳት በዘይቤአቸው ተመሳሳይ መሆን አለባቸው። ",
+    "t_photo_series_character::clip_card_0::goals[0]": "የታሪክዎን ዋና ቁም ነገር የሚያስረዳ ግለሰብ ፎቶግራፍ ያንሱ።",
+    "t_photo_series_character::ms_moreinfo::text": "ስለዚህ ጉዳይ አብነት ",
+    "t_photo_series_character::ms_moreinfo::header": "ቀጥል",
+    "t_photo_series_character::clip_card_4::goals[0]": " ቅንብሩን በሌላ ሰው ይድገሙ። ",
+    "t_photo_series_character::clip_card_3::goals[0]": " ቅንብሩን በሌላ ሰው ይድገሙ።  ",
+    "t_photo_series_character::title": "ተከታታይ - ፖርትሬቶች ",
+    "t_photo_series_character::clip_card_1::goals[0]": "የመጀመሪያውን ፎቶ ቅንብር በሌላ ሰው ይድገሙ።",
+    "t_photo_series_character::clip_card_2::goals[0]": " የፎቶ ቅንብሩን በሌላ ሰው ይድገሙ።  "
+}

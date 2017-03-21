@@ -1,0 +1,15 @@
+{
+    "t_process_event_photo::clip_card_2::goals[0]": "የክስተቱን የመጀመሪያ ወሳኝ ደረጃ ይቅረጹ።",
+    "t_process_event_photo::clip_card_5::goals[0]": "የክስተቱን የመጨረሻ ወሳኝ ደረጃ ይቅረጹ።       ",
+    "t_process_event_photo::text_card_0::text": "እያንዳንዱን ደረጃ አይቅረጹ። የታሪኩን አካሄድ ከመጀመሪያው እስከ መጨረሻው የሚያሳዩ ዋና ዋና ደረጃዎች ላይ ያተኩሩ።",
+    "t_process_event_photo::clip_card_1::goals[0]": "ክስተቱ ገና ሲጀምር ያሳዩ።",
+    "t_process_event_photo::clip_card_3::goals[0]": "የክስተቱን ሁለተኛ ወሳኝ ደረጃ ይቅረጹ።",
+    "t_process_event_photo::clip_card_6::goals[0]": "ክስተቱን ጠቅለል አድርጎ የሚያሳይ በተለየ ሁኔታ ድራማዊ የሆነ አንድን ቅጽበት ፎቶ ያንሱ።",
+    "t_process_event_photo::text_card_1::text": "ሂደቱን በሚያሳዩበት ጊዜ የተለያዩ ቅንብሮች ይኑሩዎት። አንዳንድ በሰፊ አንግል፣ ከቅርብ እርቀት እና ከመካከለኛ ርቀት የተነሱ ፎቶዎች ይኑሩዎት።",
+    "t_process_event_photo::title": "የክስተት ሂደት",
+    "t_process_event_photo::clip_card_7::goals[0]": "በክስተቱ ላይ ተሳታፊ የሆኑ ወሳኝ ሰዎችን ፎቶግራፍ ያንሱ።",
+    "t_process_event_photo::clip_card_8::goals[0]": " ታዳሚው ለክስተቱ የሚሰጠውን ምላሽ ያሳዩ።",
+    "t_process_event_photo::clip_card_4::goals[0]": "የክስተቱን ሦስተኛ ወሳኝ ደረጃ ይቅረጹ።",
+    "t_process_event_photo::clip_card_0::goals[0]": "ሂደቱ ከመጀመሩ በፊት የሚካሄድበትን ስፍራ ያሳዩ።",
+    "t_process_event_photo::clip_card_9::goals[0]": "የመጨረሻ ውጤቱን ወይም የክስተቱን ፍጻሜ ያሳዩ። "
+}

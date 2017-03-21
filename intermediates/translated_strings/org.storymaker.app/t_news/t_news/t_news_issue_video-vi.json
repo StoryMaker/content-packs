@@ -1,0 +1,21 @@
+{
+    "t_news_issue_video::clip_card_2::goals[0]": "Giới thiệu vụ việc.",
+    "t_news_issue_video::ms_moreinfo::header": "Tiếp",
+    "t_news_issue_video::clip_card_10::goals[0]": "Cho xem nhân vật tương tác với những người bị ảnh hưởng.",
+    "t_news_issue_video::clip_card_7::goals[0]": "Cho xem nơi chuyên gia làm việc.",
+    "t_news_issue_video::text_card_0::text": "Mẫu này sẽ giúp bạn báo cáo về một vấn đề xã hội quan trọng đối với cộng đồng của bạn. Trong video, tin tức thường được thực hiện bằng cách tường thuật. Các đoạn clip gợi ý bao gồm những bức ảnh đầu tiên bạn sẽ cần phải nhận biết và mô tả vấn đề. Hãy bỏ qua bức ảnh hoặc sử dụng bức ảnh khác nhau khi cần thiết. Hơn nữa, hãy thích ứng với các câu hỏi gợi ý cho phù hợp với nhu cầu của bạn.",
+    "t_news_issue_video::clip_card_9::goals[0]": "Hỏi một nguồn thông tin: Sự việc xảy ra khi nào?",
+    "t_news_issue_video::clip_card_3::goals[0]": "Hỏi: Vấn đề ảnh hưởng thế nào lên từng cá nhân và cộng đồng?",
+    "t_news_issue_video::clip_card_13::goals[0]": "Cho xem phương cách mà nhân vật giải quyết vấn đề.",
+    "t_news_issue_video::clip_card_6::goals[0]": "Hỏi một nguồn tin chuyên gia: Làm thế nào để những người khác có thể giúp giải quyết vấn đề?",
+    "t_news_issue_video::clip_card_11::goals[0]": "Hỏi ai đó bị tác động: Bạn muốn vấn đề được giải quyết như thế nào?",
+    "t_news_issue_video::clip_card_4::goals[0]": "Cho xem vấn đề đó ảnh hưởng đến mọi người như thế nào.",
+    "t_news_issue_video::title": "Báo cáo sự cố video",
+    "t_news_issue_video::clip_card_12::goals[0]": "Hỏi: Đã làm gì cho vấn đề này?",
+    "t_news_issue_video::clip_card_0::goals[0]": "Cho xem nơi sự việc xảy ra.",
+    "t_news_issue_video::ms_moreinfo::text": "Đối với bản mẫu này",
+    "t_news_issue_video::clip_card_14::goals[0]": "Cho xem kết quả mà mọi người làm về sự việc.",
+    "t_news_issue_video::clip_card_5::goals[0]": "Cho xem một điều quan trọng về sự việc.",
+    "t_news_issue_video::clip_card_1::goals[0]": "Cho xem một điều gì đó giới thiệu về vụ việc.",
+    "t_news_issue_video::clip_card_8::goals[0]": "Cho xem mọi người làm gì về vấn đề đó."
+}

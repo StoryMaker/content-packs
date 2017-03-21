@@ -1,0 +1,14 @@
+{
+    "t_process_profile_audio::clip_card_0::goals[0]": "Grabe a su personaje preparándose para iniciar el proceso.",
+    "t_process_profile_audio::clip_card_3::goals[0]": "Grabe a su personaje en la siguiente fase significativa del proceso.",
+    "t_process_profile_audio::clip_card_7::goals[0]": "Concluya la historia, cuéntenos como terminó.",
+    "t_process_profile_audio::text_card_1::text": "Grabe distintas clases de sonido - el personaje explicándolo, sonidos que indiquen cambios o pasos únicos en el proceso.",
+    "t_process_profile_audio::clip_card_7::goals[1]": "Grabe a su personaje concluyendo el proceso.",
+    "t_process_profile_audio::clip_card_2::goals[0]": "Grabe sonido del lugar donde el proceso está teniendo lugar.",
+    "t_process_profile_audio::clip_card_5::goals[0]": "Si el proceso tiene una audiencia, grabe su reacción.",
+    "t_process_profile_audio::text_card_0::text": "Céntrese en los sonidos necesarios para ilustrar el proceso. No necesita todo, sólo las fases suficientes para mostrar la progresión desde el principio hasta el final.",
+    "t_process_profile_audio::title": "Perfilar proceso",
+    "t_process_profile_audio::clip_card_4::goals[0]": "Grabe sonido que cuente a la audiencia lo que está ocurriendo.",
+    "t_process_profile_audio::clip_card_1::goals[0]": "Grabe el principio mismo o la primera fase del proceso.",
+    "t_process_profile_audio::clip_card_6::goals[0]": "Grabe a su personaje completando el proceso."
+}
