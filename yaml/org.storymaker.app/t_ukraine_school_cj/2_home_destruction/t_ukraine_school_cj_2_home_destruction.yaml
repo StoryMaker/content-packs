@@ -1,5 +1,5 @@
 ---
-    id: t_citizen_journalist_1_meet_a_musician
+    id: t_ukraine_school_cj_2_home_destruction.yaml
     title: Разрушенные города
     cards:
 
@@ -16,7 +16,7 @@
 
         -
             type: TextCard
-            text: 'При создании сюжета, вы можете ориентироваться на предлагаемый ниже список примерных вопросов'
+            text: 'При создании сюжета, вы можете ориентироваться на предлагаемый ниже список примерных вопросов:'
 
         -
             type: ClipCard
@@ -24,30 +24,37 @@
             goals:
                 - 'Расскажите, как изменился ваш город с началом военных действий.'
             clipType: result
-            length: 0:30
-
+            length: 0:20
 
         -
             type: ClipCard
             medium: video
             goals:
                 - 'Значительно ли разрушены жилые дома и инфраструктура города?'
-            clipType: result
-            length: 0:30
+            clipType: place
+            length: 0:20
 
         -
             type: ClipCard
             medium: video
             goals:
                 - 'Где живут люди, потерявшие жилье в результате обстрелов?'
-            clipType: place
-            length: 0:30
+            clipType: result
+            length: 0:20
 
         -
             type: ClipCard
             medium: video
             goals:
-                - 'Достаточно ли в городе продуктов питания? Цены на рынке сильно отличаются от цен в магазинах?'
+                - 'Достаточно ли в городе продуктов питания?'
+            clipType: result
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Цены на рынке сильно отличаются от цен в магазинах?'
             clipType: result
             length: 0:20
 
