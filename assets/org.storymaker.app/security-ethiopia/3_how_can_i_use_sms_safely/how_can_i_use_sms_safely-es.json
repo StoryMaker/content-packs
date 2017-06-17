@@ -1,0 +1,147 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "\u00bfC\u00f3mo puede enviar y recibir SMS de forma segura?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; Los riesgos que supone comunicarse v\u00eda SMS\n&bull; C\u00f3mo se monitorizan los mensajes SMS\n&bull; Algunas t\u00e9cnicas a usar cuando sospecha que su SMS puede ser monitorizado", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "![C\u00f3mo se puede interceptar un SMS](2.png)  \n### C\u00f3mo se puede interceptar un SMS  \nEl SMS es un m\u00e9todo altamente conveniente de enviar un mensaje, pero no es \u201cseguro\u201d. Los mensajes SMS son guardados por el proveedor de servicios y pueden ser interceptados por aquellos con acceso a la antena de telefon\u00eda m\u00f3vil que transmite el mensaje. Sus mensajes SMS pueden ser accesibles desde su tel\u00e9fono, o por cualquiera con acceso a los registros del proveedor o a los registros almacenados en la antena de telefon\u00eda m\u00f3vil utilizada para la transmisi\u00f3n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![C\u00f3mo evitar que su SMS resulte interceptado](3.png)  \n### C\u00f3mo evitar que su SMS resulte interceptado  \nEl SMS es buscable e indexable. El SMS no cifrado es f\u00e1cil de monitorizar. Si usted o su fuente pueden resultar amenazados deber\u00eda enviar s\u00f3lo SMS cifrado; env\u00ede los m\u00ednimos posibles y s\u00f3lo entre tel\u00e9fonos an\u00f3nimos. \nPara enviar SMS cifrado debe usar una aplicaci\u00f3n espec\u00edfica. Ambos, tanto usted como su fuente, deben usar la misma aplicaci\u00f3n. Env\u00ede a su fuente un mensaje a trav\u00e9s de la aplicaci\u00f3n de su elecci\u00f3n para iniciar el intercambio de claves. Una vez haya intercambiado las claves, puede comunicarse con su fuente mediante textos cifrados.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "## RECUERDE: Tiene que usar la aplicaci\u00f3n de cifrado espec\u00edfica para enviar textos cifrados. Su aplicaci\u00f3n de mensajer\u00eda est\u00e1ndar no enviar\u00e1 textos cifrados.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![Permanecer seguro](4.png)  \nAntes de comunicarse con una fuente por SMS, determine si esta tiene acceso a una aplicaci\u00f3n de SMS cifrado. Aseg\u00farese adem\u00e1s de que la fuente est\u00e1 al tanto de que su SMS puede ser le\u00eddo por las autoridades y asociado con esta si no est\u00e1 usando un t\u00e9lefono an\u00f3nimo.\nNo transmita informaci\u00f3n sensible mediante SMS sin cifrar a menos que su intenci\u00f3n sea que lo lean las autoridades. Todos los mensajes SMS pueden ser grabados por el proveedor de servicios y pueden ser le\u00eddos por las autoridades.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![Letras individuales como c\u00f3digos](5.png)  \nUn m\u00e9todo simple de evitar brechas de seguridad es crear una sistema de comunicaci\u00f3n codificado con los colegas de confianza. Hacer acopio de una colecci\u00f3n de c\u00f3digos para transmitir informaci\u00f3n b\u00e1sica. Por ejemplo, \u201cX\u201d podr\u00eda significar que est\u00e1 en peligro, y \u201cZ\u201d que est\u00e1 a salvo. \u201c\u00c1rbol\u201d podr\u00eda significar que quiere que se re\u00fanan. \u201cCartel\u201d poldr\u00eda ser una cafeter\u00eda donde pueden encontrarse. \nDepende de usted dar con un sistema que sea f\u00e1cil de recordar para usted y sus fuentes. \nHay soluciones de software de terceros para mensajer\u00eda de texto segura, pero no son tan f\u00e1ciles de controlar como una codificaci\u00f3n personal de SMS.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![Borrar mensajes le\u00eddos](6.png)  \n## Borrar mensajes le\u00eddos  \nDeber\u00eda borrar siempre los SMS de la carpeta de enviados de su tel\u00e9fono. No hay nada peor que crear un archivo de informaci\u00f3n indexada que quede a la espera para que las autoridades lo revisen en caso de que sea detenido.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "StoryMaker recomienda usar la aplicaci\u00f3n de mensajer\u00eda de texo cifrado de Open Whisper System [TextSecure](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=es).", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Todos los mensajes SMS pueden ser grabados por el proveedor del servicio y pueden ser le\u00eddos por las autoridades.  \n&bull; Si usted o su fuente est\u00e1n amenazados y deben comunicarse v\u00eda SMS, ambos deben usar una aplicaci\u00f3n de SMS cifrado en todo momento.  \n&bull; Tanto si tiene acceso a una aplicaci\u00f3n de SMS cifrado como si no, comun\u00edquese siempre con tel\u00e9fonos an\u00f3nimos que no puedan asociarse con su identidad personal de ninguna forma, como lo ser\u00edan por la facturaci\u00f3n del servicio o la informaci\u00f3n de registro.  \n&bull; Aseg\u00farese de usar un sistema de c\u00f3digos si usted o su fuente no tienen acceso a una aplicaci\u00f3n de SMS cifrado y el SMS es su \u00fanica forma de comunicaci\u00f3n con su fuente.  \n&bull; Nunca conserve un registro de sus mensajes SMS en su tel\u00e9fono. Sus mensajes SMS todav\u00eda pueden ser le\u00eddos si las autoridades revisan los registros de su proveedor de servicios.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "C\u00f3mo puedo evitar que mis mensajes SMS sean espiados", 
+            "choices": [
+                {
+                    "text": "Borrando todos los mensajes SMS de mi tel\u00e9fono.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Asegur\u00e1ndose de que el receptor borra el mensaje SMS despu\u00e9s de leerlo.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Usando una aplicaci\u00f3n de SMS cifrado.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Usando un tel\u00e9fono an\u00f3nimo.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfC\u00f3mo puedo comunicar por SMS de forma an\u00f3nima?", 
+            "choices": [
+                {
+                    "text": "Usando una aplicaci\u00f3n de SMS cifrado.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Usando un tel\u00e9fono an\u00f3nimo.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Borrando todos los mensajes SMS de mi tel\u00e9fono.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Asegur\u00e1ndose de que el receptor borra el mensaje SMS despu\u00e9s de leerlo.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfC\u00f3mo puede proteger la informaci\u00f3n que env\u00edo v\u00eda SMS si no puede cifrar el mensaje?", 
+            "choices": [
+                {
+                    "text": "Usando un tel\u00e9fono an\u00f3nimo.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Borrando todos los mensajes SMS de mi tel\u00e9fono.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Asegur\u00e1ndose de que el receptor borra el mensaje SMS despu\u00e9s de leerlo.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Usando un c\u00f3digo previamente establecido en persona con el destinatario de su mensaje.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "how_can_i_use_sms_safely", 
+    "title": "C\u00f3mo puedo usar SMS de forma segura"
+}

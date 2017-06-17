@@ -1,0 +1,147 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Akkamittan iimeelii karaa nagaadhaan erga?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Kutaa kan keessatti kan barattan:  \n&bull; Iimeeliinkee karaa nama biraa akka inni itti hoogganamu.  \n&bull; Akka itti iimeeliikee karaa nageenyisaa eegameen fayyadaman.  \n&bull; Akka itti of dhoksuudhaan iimeeliikee fayyadamuu dandeessu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Wal quunnamtiin iimeeliidhaan nama biraa, kan biyya biraa jiraatee madda dhiyeessii kan biyyasaatti fayyadame interneetiitti walindhiin geggeeffamu, seera ittiin interneetii sakatta'anin, dhaamsikee bakka adda ba'e dhaquusaarraan kan hafe,tokkuma. Maddi: [Frontline Defenders](www.frontlinedefenders.org/manuals/protection)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Akka iimeeliin itti qabamu yookaan qaama biraan hoogganamu](2.png)  \n### Akka Iimeeliin itti qabamu yookan qaama biraan hoogganamu \nIimeeliin ati barreessite kan qabamee dubbifamu duuffisa olaanaa garagaraattidha. Biyya mirga dhuunfaatiif eegumsa cimaa kennu keessa yoo jiraatte, seerichi ISP biyya biraa jirurratti hin hojjetu. Iimeeliinkee biyya 'A'rraa gara biyya 'B'tti yeroo darbutti, duuffisa biyyoota garagaraa  baayyee keessa darbuu danda'a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![Bakka HTTP, HTTPS fayyadami](3.png)  \n### Bakka HTTP, HTTPS fayyadami  \nIimeelii HTTPS fayyadamuu danda'u fayyadami.  \nYeroo hunda walindhiii nageenya qabu ta'uusaa adda baafadhu. Yeroo iimeeliirratti walindhii gootu,  HTTP hin fayyadamin. HTTPS qofaan walindhii godhi. Kun kan Gmail'iin bilbila andirooyidii baayyee dursuma ittiin taa'uudha. Namni ati wajjin wal quunnamaa jirtu iimeeliisaatiif akka inni HTTPS fayyadamaa jiru adda baafadhu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![Miiltoo iimeelii wahjin dhufu hin banin](4.png)  \n### Miiltoo iimeelii wajjin dhufu hin banin  \nFilannoo \"view\" jedhu fayyadami. Miiltoon vaayirasii raabsuu fi nageenya kompiyuutaraa yookaan bilbila keetii booressuuf karaa fatyadamamu ta'uu danda'a.  \nNammi ati wajjin haasa'aa jirtu nama isa ati wajjin haasa'uu barbaaddu ta'uusaa adda baafadhu. Akka Frontline Defenders jedhutti, \u201cYeroo kan biraa wajjin wal bira qabamu teessoo iimeelii \u2018spoof\u2019 gochuun salphaadha. Spoofing (Fakkeessuu) jechuun maqaa fi teessoo iimeelii sobaa uumuudhaan akka waan inni kan nama ati beektuu yookaan nama rakkoo hin uumneetti sitti dhiyaachuu.\u201d  \nYeroo hunda teessoo iimeelii nama siif ergee hubadhuu ilaali, iimeeliin teessoo sirriirraa akka dhufe baruuf, teessoon iimeelii fakkeessituun meeshaa ittiin vaayirasii erganii fi nageenya kompiyuutaraa fi bilbilakee ittiin booressaniidha..", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "Teessoo dhokataadhaan wal quunnamuu](5.png)  \n### Iyyafaya jijjiiruudhaan fayyadami  \nteessoo dhokataadhaaf iyyaafata adda ta'ee fi isa qofaaf fayyadami. Iyyaafatakee fayyadamaan duraa fi fayyadama duuba haaromsi (Kukii fi seenaa haquukee sirriitti adda baafadhu). Kuukii kan hin funaannee fi yeroo cufametti seenaa kan haqan kan akka haalata \u201cprivate browsing\u201d yookaan \u201cincognito\u201d fayyadamuu dandeessa.  \nNageenya dabalataatiif, dhoksaatti fayyadamuuf IP adda ta'een walindhi. Fakkeenyaaf, yeroo manakee keessatti fayyadamtu akkawuntiikee isa sirrii fayyadami garuu yeroo baatu teessoo dhokataa interneetii haada malee kaaffeetti fayyadami. Kaaffee tokkotti deddeebitee fayyadamuun akka si mul'isu yaadaaan qabi.  \nKaraan dhokataa fi nageenya guutuudhaan iimeeliin ergamu karaa dhiyeessaa iimeelii icciitii yookaan fayyadama maammilaaf garasaatiin akka inn icciiteessu godhu fayyadamuudhaani. Yoo dandaa'ame fayyadama karaakee icciteessu fayyadami, fi icciteessaa kan akka PGP kan icciteessan hojii hojjechuu qabu hojjechuusaa sadarkaa banaa dhiyeessuudhaan adda baasu fayyadami.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "Pirojektii hordofamuurraa Of Eeguu dhaabbata The Electronic Frontier Foundation'iin qophaa'erratti waa'ee iccitieessuurratti seensaa fi ibsa gaarii dhiyaate:  \n\n[https://ssd.eff.org/en/module/what-encryption](https://ssd.eff.org/en/module/what-encryption)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## WAANTOTA YAADATAMUU QABAN  \n&bull; Iimeelii HTTPS dursanii qaban qofa fayyadami.  \n&bull; HTTPS'iin nageenya iimeeliikeetii eeguurratti si gargaara, garuu nageenyasaa guutummaa guutuutti eega jechuu miti.  \n&bull; Eenyummaa nama ergee erga adda baafattee booda miiltocha bani.  \n&bull; Iimeelii dhuunfaakee bilbila yookaan kompiyuutara kee kan hin ta'inirratti tasuma hin fayyadamin.  \n&bull; Karaan ittiin guutummaa guutuutti iimeeliimkee nageenyaan qaama ergiteef bira ga'u icciiteessuu qofaani.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "Kan gaditti jiran keessaa kamtu akkan iimeeliikoo karaa nageenya qabuun akkan subbifadhuuf na gargaara?", 
+            "choices": [
+                {
+                    "text": "Yeroo hunda HTTPS fayyadami", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Iimeeliikee namaa wajjin fayyadamuudhaan \"drafts\" karaa jedhuun fayyadamaa", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Iimeelii hin beekamne fayyadami", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Yeroo hunda HTTPS fayyadami", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2", 
+                "answer_3", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 4, 
+            "question": "Iimeeliinkoo eessatti goree yookaan dubbifamee darba?", 
+            "choices": [
+                {
+                    "text": "Kompiyuutarakoo irra", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "ISP koorraa", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Dhaabbata tajaajila iimeelii kennurraa", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Kompiyuutara fudhataarra", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_3", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Teessoo iimeeliikee yookaan kan kan hiriyaakee yeroo namni fakkeessu maal jedhama?", 
+            "choices": [
+                {
+                    "text": "Xiyyeeffachuu", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Sobuu", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Fakkeessuu", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Hattuuxxuu", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "how_can_i_send_email_safely", 
+    "title": "Akkamittan iimeelii nageenyaan erga"
+}

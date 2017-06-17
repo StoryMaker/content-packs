@@ -1,0 +1,23 @@
+{
+    "title": "Seensa  Suur-sagalee", 
+    "storyPathTemplateFiles": {
+        "introduction_to_video": "introduction_to_video.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "introduction_to_video", 
+            "dependencyFile": "introduction_to_video.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "introduction_to_video"
+        }
+    ], 
+    "currentStoryPathFile": "introduction_to_video.json", 
+    "id": "introduction_to_video"
+}

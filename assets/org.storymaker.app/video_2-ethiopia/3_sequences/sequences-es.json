@@ -1,0 +1,387 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "\u00bfC\u00f3mo creo una secuencia de v\u00eddeo?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; C\u00f3mo elaborar m\u00faltiples cortes de v\u00eddeo para crear una secuencia.  \n&bull; C\u00f3mo usar diferentes t\u00e9cnicas para crear secuencias de acci\u00f3n.  \n&bull; C\u00f3mo las secuencias mejoran el contexto e incrementan el impacto de su historia.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Una serie de tomas ensambladas juntas es una secuencia. Cuando esta se componga de tomas que se apoyan unas en otras, una secuencia individual puede contar una historia completa. StoryMaker se orienta a usar m\u00faltiples tomas para hacer una secuencia completa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## Secuenciado b\u00e1sico de tomas  \nPara grabar una secuencia tiene que descomponer cada elemento de la historia en sus partes individuales. Puede ser un peque\u00f1o n\u00famero de partes, o pueden ser muchas. Tiene que conocer todas las partes antes de poder juntar la secuencia correctamente.  \nRevise este ejemplo. El realizadorquiere hacer una historia acerca de una popular fruter\u00eda. Quiere hacer una secuencia que muestre a alguien comprando fruta.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "2.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Necesitaremos ver a una persona que vaya a estar comprando fruta.", 
+            "exampleMediaPath": "2.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "3.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Necesitaremos ver la fruta.", 
+            "exampleMediaPath": "3.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "4.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Necesitaremos ver a la persona que est\u00e1 pagando por la fruta.", 
+            "exampleMediaPath": "4.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "5.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Como secuencia de tres tomas, en ese orden narra una historia simple, pero completa.", 
+            "exampleMediaPath": "5.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Conocer su historia le dar\u00e1 la libertad de grabar sus tomas en cualquier orden. Al final, las montar\u00e1 todas para contar su historia.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Estas tomas son el principio, desarrollo, y final de su historia. Hay una persona, hay una pieza de fruta, la persona paga por la fruta. Es una historia muy simple, pero funciona. Ahora puede a\u00f1adir una entrevista con el vendedor o comprador de la fruta. Tambi\u00e9n podr\u00eda incluir una toma amplia para definir la localizaci\u00f3n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "No importa lo compleja que se vuelva su historia, recuerde realizar la sesi\u00f3n en tres partes, principio, desarrollo, y final. Cada una de ellas puede tener m\u00faltiples tomas, con distintos elementos en el encuadre. En conjunto, sus tomas tienen que sumarse a la secuencia que incluye las tres partes. En algunas historias puede que tenga escenas de cinco tomas (o m\u00e1s) para cada secci\u00f3n de la historia.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "6.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Trabajar en su entrada", 
+            "exampleMediaPath": "6.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "Una t\u00e9cnica popular grabaci\u00f3n a usar cuando puede que no conozca bien la historia que est\u00e1 contando, es comenzar con tomas muy distantes, preparando la entrada en escena plano a plano. Cuando ensamble sus tomas en orden cronol\u00f3gico, crear\u00e1n una progresi\u00f3n natural. Al usar los 5 planos b\u00e1sicos: general, distante, medio, corto y detalle, podr\u00e1 crear una secuencia completa con una fluidez natural. ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## Secuencias de toma y contra-toma  \n![Secuencias de toma y contra-toma](7.png)  \nSi quiere mostrar una acci\u00f3n desde distintos \u00e1ngulos al mismo tiempo, primero tiene que grabarlos separadamente. Esto se conoce como secuencia de toma y contra-toma.  \nPara crear una secuencia de toma y contra-toma, grabe dos tomas con ambas en mente. Considere este ejemplo donde un realizador graba una toma y contra-toma b\u00e1sica de alguien escribiendo en un teclado.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "8.mp4", 
+                    "media_caption": "The first shot is the character\u2019s face in a medium shot while typing on the keyboard."
+                }
+            ], 
+            "header": "Toma del personaje", 
+            "exampleMediaPath": "8.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "9.mp4", 
+                    "media_caption": "The second shot, the reverse shot in this sequence, should be a shot of whatever the character is doing in the first shot. In this case, typing on the keyboard."
+                }
+            ], 
+            "header": "Contra-toma", 
+            "exampleMediaPath": "9.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "10.mp4", 
+                    "media_caption": "When you cut these two shots together, it will appear as if the subject is typing on their keyboard. While we used a medium shot in the first shot, it could also be a close-up. This is a matter of style on your part, but the other shots in your video will help you make that decision. That is it. You have enough shots to construct a shot / reverse shot."
+                }
+            ], 
+            "header": "Toma y contra-toma juntas", 
+            "exampleMediaPath": "10.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_8"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "11.mp4", 
+                    "media_caption": "This technique also works to show what a subject may be looking at. Either an object, or potentially another person. For example, if you want to show someone on their phone, film their face while they use their phone and then film the phone they are using."
+                }
+            ], 
+            "header": "Ejemplo alternativo", 
+            "exampleMediaPath": "11.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_9"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "12.mp4", 
+                    "media_caption": "You are not limited to using only two shots. Adding more shots allows you to show how the process of the action changes over time. If a task is becoming more difficult, you might show a second shot of the subject appearing interested while writing an email, and end with a look of satisfaction when they send the email."
+                }
+            ], 
+            "header": "Crear acci\u00f3n", 
+            "exampleMediaPath": "12.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_10"
+        }, 
+        {
+            "text": "## Secuencias de entrevistas  \nLas entrevistas se crean con cortes de personajes. Use planos medios o primeros planos. Siga las directrices sugeridas por StoryMaker en su introducci\u00f3n a la c\u00e1mara si no est\u00e1 seguro. Cualquier cosa m\u00e1s lejana o cercana dificultar\u00e1 o\u00edr la entrevista, o que la audiencia conecte con el sujeto.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "13.mp4", 
+                    "media_caption": "Example of changing composition after a question"
+                }
+            ], 
+            "header": "Cambiar el tama\u00f1o de la toma", 
+            "exampleMediaPath": "13.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_11"
+        }, 
+        {
+            "text": "Elija un encuadre y mant\u00e9ngalo. Una vez haya decidido sobre qu\u00e9 lado del encuadre estar\u00e1 el sujeto, mant\u00e9ngalo ah\u00ed. Mant\u00e9ngalo hasta que el sujeto haya terminado de responder a la pregunta. S\u00f3lo cambie la composici\u00f3n del encuadre entre preguntas.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "14.mp4", 
+                    "media_caption": "How to set up good head space in your shot"
+                }
+            ], 
+            "header": "Espacio de cabecera", 
+            "exampleMediaPath": "14.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_12"
+        }, 
+        {
+            "text": "Mantenga un buen espacio de cabecera. Si no est\u00e1 seguro, por favor, vea la lecci\u00f3n 'Encuadrar su toma'.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "15.mp4", 
+                    "media_caption": "Example of not panning away, but adding a shot in later"
+                }
+            ], 
+            "header": "Mantener el encuadre", 
+            "exampleMediaPath": "15.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_13"
+        }, 
+        {
+            "text": "No haga barridos ni mueva la c\u00e1mara si su sujeto se\u00f1ala algo, o est\u00e1 discutiendo de algo que est\u00e1 fuera del encuadre. Despu\u00e9s de que su sujeto termine de responder la pregunta a c\u00e1mara, grabe una toma de la acci\u00f3n a la que estaba se\u00f1alando.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Las secuencias de tomas y contra-tomas ayudan a crear la apariencia de acci\u00f3n continua en su v\u00eddeo.\n&bull; Las secuencias de tomas y contra-tomas son de uso popular en entrevistas cuando se muestra al entrevistador adem\u00e1s de a la persona entrevistada.  \n&bull; Las secuencias de tomas y contra-tomas son una buena t\u00e9cnica a usar para conseguir un buen metraje B (secundario).  \n&bull; Las secuencias exitosas responden a las seis cuestiones importantes que hemos discutido previamente (qui\u00e9n, qu\u00e9, d\u00f3nde, cu\u00e1ndo, por qu\u00e9, y c\u00f3mo).  \n&bull; Crear una secuencia efectiva significa hacer tomas de diferentes tama\u00f1os, cada una conteniendo partes complementarias de la historia.  \n&bull; Cuando junta varias secuencias crea una historia m\u00e1s compleja.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfQu\u00e9 constituye una lista de tomas?", 
+            "choices": [
+                {
+                    "text": "Meteorolog\u00eda.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Tipo de toma.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Descripci\u00f3n.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Elementos de la historia", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfCu\u00e1l es el menor n\u00famero de tomas que necesita para crear una toma y contra-toma?", 
+            "choices": [
+                {
+                    "text": "10 tomas.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "3 tomas.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "6 tomas.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "2 tomas.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Verdadero o Falso: Las secuencias de tomas y contra-tomas s\u00f3lo pueden mostrar aquello a lo que est\u00e1 mirando el sujeto.", 
+            "choices": [
+                {
+                    "text": "Verdadero, s\u00f3lo pueden mostrar aquello que el sujeto est\u00e1 mirando.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falso, tambi\u00e9n pueden mostrar lo que est\u00e1 haciendo el sujeto.", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfQu\u00e9 tipos de tomas funcionan mejor en una toma y contra-toma?", 
+            "choices": [
+                {
+                    "text": "Toma distante.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Toma media.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Establecer una toma.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Toma de detalle.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Verdadero o Falso: A\u00f1adir m\u00e1s tomas le permite mostrar c\u00f3mo cambia con el tiempo el proceso de realizaci\u00f3n de la acci\u00f3n.", 
+            "choices": [
+                {
+                    "text": "Verdadero, cada toma puede mostrar un paso distinto en el proceso.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falso, a\u00f1adir tomas s\u00f3lo confunde a la audiencia.", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_5"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "sequences", 
+    "title": "Secuencias"
+}

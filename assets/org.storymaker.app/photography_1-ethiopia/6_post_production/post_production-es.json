@@ -1,0 +1,144 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "\u00bfCu\u00e1les son los requerimientos t\u00e9cnicos y limitaciones \u00e9ticas al editar mis fotos para garantizar im\u00e1genes utilizables y de alta calidad?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; Los principios de la buena foto edici\u00f3n  \n&bull; C\u00f3mo recortar una imagen  \n&bull; C\u00f3mo funciona la correcci\u00f3n de exposici\u00f3n  \n&bull; C\u00f3mo funciona la correcci\u00f3n del balance de blancos", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Su foto inicial es lo mismo que un tosco borrador de una historia escrita. Las im\u00e1genes pueden mejorarse dr\u00e1sticamente por la forma en que se recortan, redimensionan, y corrigen el color.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Ejemplo de una foto que est\u00e1 adecuadamente expuesta y enfocada.](2.jpg)  \n### Ejemplo de una foto que est\u00e1 adecuadamente expuesta y enfocada.  \nLa buena edici\u00f3n comienza con una buena fotograf\u00eda. Aseg\u00farese de que sus im\u00e1genes est\u00e1n adecuadamente expuestas y enfocadas. Las im\u00e1genes que son t\u00e9cnicamente robustas desde el principio son m\u00e1s f\u00e1ciles de editar. La capacidad de editar su propio material es una parte no reconocida pero esencial de su trabajo.  \n![Ejemplo de una foto que ha sido agrandada y pixelada.](3.jpg)  \n### Ejemplo de una foto que ha sido agrandada y pixelada.  \nRedimensionar, recortar, corregir el color, y a\u00f1adir texto lleva tiempo, as\u00ed que necesita un plan. Si el tiempo es muy importante, publique sus mejores im\u00e1genes como est\u00e1n y proporcione versiones actualizadas m\u00e1s tarde en su cobertura.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "## Recortar\nRecortar puede convertir una foto mediocre en una imagen poderosa. Recorte sin compasi\u00f3n teniendo en cuenta la regla de los tercios.  \n![Tras recortar](4.jpg)\n### Tras recortar  \n![Antes de recortar](5.jpg)\n### Antes de recortar  \nCorte el exceso de espacio o el espacio no significativo del encuadre. Corte objetos de su cuadro que distraigan al espectador y diluyan el impacto. El encuadre debe funcionar al completo para contar la historia.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## Dejar los objetos completos\n![Tras recortar](6.jpg)\n### Tras recortar  \n![Antes de recortar](7.jpg)\n### Antes de recortar  \nTenga cuidado de no recortar gente en puntos raros; no siegue manos y pies. No ampute. Deje las formas importantes con la figura completa en el encuadre. Las formas atraen el ojo de la audiencia a la fotograf\u00eda; una forma completa ayuda qued\u00e1ndose ah\u00ed.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "## Dimensionamiento  \n![](8.png)  \nIncluso los dispositivos m\u00f3viles son capaces de crear im\u00e1genes con una resoluci\u00f3n tan grande que pueden publicarse en una revista. Siempre haga tomas al mayor tama\u00f1o de fichero disponible. Sin embargo, los ficheros grandes pueden ocupar mucho espacio y son lentos de enviar. Algunos dispositivos m\u00f3viles y aplicaciones le permitir\u00e1n reducir una imagen para una reproducci\u00f3n m\u00e1s eficiente en un sitio web. Conserve SIEMPRE una copia de las im\u00e1genes originales si reduce dr\u00e1sticamente el tama\u00f1o del fichero.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "## Correcci\u00f3n de exposicion y balance de blancos  \nLas aplicaciones de edici\u00f3n como PhotoShop Express o aplicaciones sociales como Instagram le permitir\u00e1n aumentar o reducir la exposici\u00f3n y corregir problemas generales de color, llamados balance de blancos. Estas tambi\u00e9n le permitir\u00e1n corregir im\u00e1genes que parecen demasiado amarillentas o azuladas. Esto puede ser tan sencillo como a\u00f1adir un filtro de \u201coscurecido\u201d para im\u00e1genes sobreexpuestas o un filtro de \u201cinteriores\u201d para im\u00e1genes que est\u00e1n muy amarillentas. Las im\u00e1genes con una exposici\u00f3n y un balance de blancos adecuados al disparar deber\u00edan requerir poco m\u00e1s que un ajuste, pero las im\u00e1genes disparadas bajo iluminaciones dif\u00edciles puede mejorarse dr\u00e1sticamente en post-producci\u00f3n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## Manipulaci\u00f3n no \u00e9tica  \n![Ejemplo de manipulaci\u00f3n fotogr\u00e1fica no \u00e9tica.](9.jpg)  \n### Ejemplo de manipulaci\u00f3n fotogr\u00e1fica no \u00e9tica.\nLas herramientas de foto edici\u00f3n son muy potentes. Los reporteros no deben maquillar hechos o citas, y los foto-reporteros no deben alterar im\u00e1genes.  \n![Ejemplo de manipulaci\u00f3n fotogr\u00e1fica no \u00e9tica.](10.jpg)  \n### Ejemplo de manipulaci\u00f3n fotogr\u00e1fica no \u00e9tica.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "Las directrices \u00e9ticas de la agencia Associated Press para la post-producci\u00f3n de fotograf\u00edas proporcionan un buen c\u00f3digo \u00e9tico a seguir, e incluyen:  \n&bull; El contenido de una fotograf\u00eda no debe ser alterado sustancialmente con PhotoShop o por cualquier otro medio.  \n&bull; Ning\u00fan elemento debe ser a\u00f1adido o sustra\u00eddo digitalmente de cualquier fotograf\u00eda.  \n&bull; Las caras o identidades de individuos no deben ofuscarse con ninguna herramienta de edici\u00f3n excepto como \u00faltimo recurso para proteger la seguridad.  \n&bull; S\u00f3lo el retocado o el uso de una herramienta de duplicado para eliminar polvo o rayaduras es aceptable.  \n&bull; Ajustes menores con herramientas de edici\u00f3n son aceptables. Estos incluyen, recortar, oscurecer y 'quemar', convertir a escala de grises, y ajustes de tonalidad y color normales; que deben limitarse a aquellos m\u00ednimamente necesarios para la reproducci\u00f3n limpia y precisa (an\u00e1logo al proceso de 'quemado' y oscurecido usado a menudo en tratamiento de im\u00e1genes en sala oscura) y que rescata la aut\u00e9ntica naturaleza de la fotograf\u00eda.  \n&bull; Los cambios de densidad, contraste, color, y niveles de saturaci\u00f3n que alteren sustancialmente la escena original no son aceptables.  \n&bull; Los fondos no deben difuminarse o eliminarse digitalmente a base de 'quemarlos' o usar tonos agresivos.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Las im\u00e1genes que son t\u00e9cnicamente robustas desde el principio son m\u00e1s f\u00e1ciles de gestionar en post-producci\u00f3n.  \n&bull; Siempre haga tomas en el formato de fichero m\u00e1s grande que su c\u00e1mara permita. Puede hacer copias reducidas m\u00e1s tarde.  \n&bull; Un buen recortado puede mejorar dr\u00e1sticamente una imagen.  \n&bull; Corregir la exposici\u00f3n, color y balance de blancos puede mejorar una imagen.  \n&bull; Cualquier cosa m\u00e1s all\u00e1 de ajustes menores no es \u00e9tica.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfAl fotografiar cu\u00e1l de las siguientes har\u00e1 la post producci\u00f3n m\u00e1s efectiva?", 
+            "choices": [
+                {
+                    "text": "Aseg\u00farese de que su c\u00e1mara est\u00e1 lista para el mayor tama\u00f1o de fichero.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Aseg\u00farese de que la imagen est\u00e1 adecuadamente expuesta.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Aseg\u00farese de que la imagen est\u00e1 adecuadamente enfocada.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todo lo anterior.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Verdadero o Falso: 300 dpi (puntos por pulgada) significa que debe ajustar sus im\u00e1genes a 300 puntos (or p\u00edxeles) de largo para el lado m\u00e1s grande.", 
+            "choices": [
+                {
+                    "text": "Verdadero", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falso", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfCu\u00e1les de las siguientes son \u00e9ticas?", 
+            "choices": [
+                {
+                    "text": "Las personas en la foto que suponen una distracci\u00f3n pueden eliminarse del encuadre con la herramienta aer\u00f3grafo o duplicando partes de la foto.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "El color y la saturaci\u00f3n se pueden intensificar en inter\u00e9s de hacer la imagen emocionalmente m\u00e1s fuerte.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "La imagen puede ser ilustrada con informaci\u00f3n que cambia el significado de una fotograf\u00eda.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "NInguna de las anteriores.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "post_production", 
+    "title": "Post-producci\u00f3n"
+}

@@ -1,0 +1,88 @@
+{
+    "cards": [
+        {
+            "text": "# Nh\u1eefng b\u1ea3n tin c\u00f3 t\u00e1c \u0111\u1ed9ng th\u01b0\u1eddng minh h\u1ecda m\u1ed9t \u00fd ngh\u0129a s\u00e2u h\u01a1n ngo\u00e0i vi\u1ec7c k\u1ec3 chuy\u1ec7n. T\u00f4i n\u00ean l\u00e0m g\u00ec trong nh\u1eefng c\u00e2u chuy\u1ec7n c\u1ee7a t\u00f4i?  \n## Trong b\u00e0i n\u00e0y b\u1ea1n s\u1ebd h\u1ecdc:  \n&bull; \u00dd ngh\u0129a s\u00e2u s\u1eafc h\u01a1n c\u1ea3i thi\u1ec7n c\u00e2u chuy\u1ec7n c\u1ee7a b\u1ea1n nh\u01b0 th\u1ebf n\u00e0o  \n&bull; S\u1eed d\u1ee5ng \u00fd ngh\u0129a s\u00e2u s\u1eafc h\u01a1n nh\u01b0 th\u1ebf n\u00e0o trong b\u1ea3n tin  \n&bull; \u00dd ngh\u0129a s\u00e2u s\u1eafc h\u01a1n c\u00f3 th\u1ec3 \u1ea3nh h\u01b0\u1edfng th\u1ebf n\u00e0o \u0111\u1ebfn c\u00e1c y\u1ebfu t\u1ed1 kh\u00e1c c\u1ee7a b\u1ea3n tin c\u1ee7a b\u1ea1n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Nh\u1eefng b\u1ea3n tin c\u00f3 t\u00e1c \u0111\u1ed9ng \u0111\u01b0a ra \u00fd ngh\u0129a s\u00e2u xa v\u1ec1 nh\u1eefng s\u1ef1 ki\u1ec7n c\u01a1 b\u1ea3n v\u00e0 s\u1ef1 ki\u1ec7n trong c\u00e2u chuy\u1ec7n. Ch\u00fang n\u00f3i v\u1ec1 nh\u1eefng tr\u1ea3i nghi\u1ec7m ph\u1ed5 qu\u00e1t c\u1ee7a con ng\u01b0\u1eddi, nh\u1eefng th\u00e1ch th\u1ee9c c\u01a1 b\u1ea3n m\u00e0 ch\u00fang ta \u0111\u1ed1i m\u1eb7t trong cu\u1ed9c s\u1ed1ng. V\u00e0 ch\u00fang l\u00e0m \u0111i\u1ec1u \u0111\u00f3 theo c\u00e1ch m\u00e0 kh\u00e1n/th\u00ednh gi\u1ea3 c\u00f3 th\u1ec3 th\u1ea5y g\u1ea7n g\u0169i. \u0110i\u1ec1u \u0111\u00f3 c\u00f3 th\u1ec3 l\u00e0 t\u00ecnh y\u00eau \u0111\u00e3 m\u1ea5t, m\u1ed9t v\u1ea5n \u0111\u1ec1 \u0111\u1ea1o \u0111\u1ee9c, kinh t\u1ebf suy tho\u00e1i, chi\u1ebfn th\u1eafng hay \u0111\u1ed1i m\u1eb7t v\u1edbi c\u00e1i ch\u1ebft. \u0110\u00f3 l\u00e0 n\u1ed9i d\u1ee5ng c\u1ee7a b\u1ea3n tin v\u00e0 l\u00e0m cho n\u00f3 c\u00f3 t\u00e1c \u0111\u1ed9ng. M\u1ed7i m\u1ed9t b\u1ea3n tin hay \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng tr\u00ean m\u1ed9t \u0111i\u1ec1u s\u00e2u s\u1eafc h\u01a1n l\u00e0 cao tr\u00e0o ngay l\u1eadp t\u1ee9c.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Khi kh\u00e1n/th\u00ednh gi\u1ea3 nh\u1eadn ra \u00fd ngh\u0129a s\u00e2u h\u01a1n, h\u1ecd s\u1ebd li\u00ean k\u1ebft c\u00e1 nh\u00e2n v\u00e0 c\u1ea3m x\u00fac v\u1edbi b\u1ea3n tin v\u00e0 d\u01b0\u1eddng nh\u01b0 nh\u1edb ch\u00fang l\u00e2u h\u01a1n. \u0110i\u1ec1u quan tr\u1ecdng l\u00e0 t\u1eadp trung v\u00e0o \u00fd ngh\u0129a s\u00e2u h\u01a1n c\u1ee7a c\u00e2u chuy\u1ec7n c\u1ee7a b\u1ea1n v\u00e0 t\u1ef1 h\u1ecfi n\u00f3 s\u1ebd \u1ea3nh h\u01b0\u1edfng kh\u00e1n/th\u00ednh gi\u1ea3 th\u1ebf n\u00e0o. H\u00e3y t\u1ef1 h\u1ecfi c\u00e2u chuy\u1ec7n c\u1ee7a b\u1ea1n \u0111\u1ec1 c\u1eadp v\u1ea5n \u0111\u1ec1 con ng\u01b0\u1eddi r\u1ed9ng l\u1edbn n\u00e0o.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "C\u00e1c c\u1ed9ng \u0111\u1ed3ng kh\u00e1c nhau d\u1eabn gi\u1ea3i \u00fd ngh\u0129a s\u00e2u s\u1eafc h\u01a1n kh\u00e1c nhau. H\u00e3y \u0111\u1ea3m b\u1ea3o c\u00e2n nh\u1eafc k\u1ef9 v\u1ec1 kh\u00e1n/th\u00ednh gi\u1ea3 khi ngh\u0129 v\u1ec1 \u00fd ngh\u0129a s\u00e2u h\u01a1n trong b\u1ea3n tin. N\u1ebfu b\u1ea1n kh\u00f4ng r\u00f5 r\u00e0ng v\u1ec1 vi\u1ec7c \u00fd ngh\u0129a s\u00e2u h\u01a1n c\u1ee7a b\u1ea3n tin c\u1ee7a b\u1ea1n cho kh\u00e1n gi\u1ea3, b\u1ea3n tin c\u1ee7a b\u1ea1n c\u00f3 th\u1ec3 kh\u00f4ng \u0111\u1ea1t \u0111\u01b0\u1ee3c t\u00e1c \u0111\u1ed9ng m\u00e0 b\u1ea1n mu\u1ed1n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "\u0110\u00e2y l\u00e0 m\u1ed9t s\u1ed1 v\u00ed d\u1ee5 v\u1ec1 \u00fd ngh\u0129a s\u00e2u xa h\u01a1n trong nhi\u1ec1u b\u1ea3n tin:  \n&bull; Trong m\u1ed9t cu\u1ed9c chi\u1ebfn, nh\u1eefng ng\u01b0\u1eddi l\u00ednh ki\u1ebfm t\u00ecm m\u1ed9t ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng. H\u1ecd \u0111e do\u1ea1 s\u1ebd \u0111\u1ed1t c\u1ea3 l\u00e0ng n\u1ebfu anh n\u00e0y kh\u00f4ng t\u1ef1 \u0111\u1ea7u h\u00e0ng. C\u00e2u h\u1ecfi ch\u1ee7 y\u1ebfu: Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng kia c\u00f3 t\u1ef1 \u0111\u1ea7u h\u00e0ng kh\u00f4ng? Cao tr\u00e0o: Anh ta t\u1ef1 n\u1ed9p m\u00ecnh v\u00e0 bi\u1ebft r\u1eb1ng anh \u1ea5y s\u1ebd b\u1ecb gi\u1ebft, nh\u01b0ng ng\u00f4i l\u00e0ng s\u1ebd \u0111\u01b0\u1ee3c b\u1ea3o to\u00e0n. \u00dd ngh\u0129a s\u00e2u xa h\u01a1n: M\u1ed9t s\u1ed1 ng\u01b0\u1eddi \u0111\u00e3 \u0111\u1eb7t l\u1ee3i \u00edch c\u1ed9ng \u0111\u1ed3ng tr\u01b0\u1edbc b\u1ea3n th\u00e2n h\u1ecd. M\u1ed9t \u00fd ngh\u0129a s\u00e2u h\u01a1n kh\u00e1c l\u00e0: \u0110\u00f4i khi m\u1ed9t v\u00e0i ng\u01b0\u1eddi hy sinh b\u1ea3n th\u00e2n \u0111\u1ec3 b\u1ea3o v\u1ec7 nhi\u1ec1u ng\u01b0\u1eddi kh\u00e1c.  \n&bull; Trong m\u1ed9t cu\u1ed9c ch\u1ea1y \u0111ua v\u00e0o chi\u1ebfc gh\u1ebf t\u1ed5ng th\u1ed1ng, m\u1ed9t ch\u00ednh tr\u1ecb gia c\u00e2n nh\u1eafc ch\u1ea1y \u0111ua v\u1edbi anh trai c\u1ee7a m\u00ecnh. C\u00e2u h\u1ecfi ch\u1ee7 y\u00eau: Anh ta c\u00f3 \u0111\u1ed1i \u0111\u1ea7u v\u1edbi anh trai m\u00ecnh? Cao tr\u00e0o: C\u00f3, anh ta v\u00e0o cu\u1ed9c \u0111ua. \u00dd ngh\u0129a s\u00e2u xa h\u01a1n: \u0110\u00f4i khi tham v\u1ecdng m\u1ea1nh h\u01a1n s\u1ef1 trung th\u00e0nh.  \n&bull; V\u1ee5 d\u1ecbch s\u1edfi \u1edf \u0111\u1ecba ph\u01b0\u01a1ng. C\u00e2u h\u1ecfi ch\u1ee7 y\u1ebfu: d\u1ecbch c\u00f3 ph\u00e1t t\u00e1n ngo\u00e0i c\u1ed9ng \u0111\u1ed3ng? Cao tr\u00e0o: Cha m\u1eb9 gi\u1eef tr\u1ebb b\u1ecb nhi\u1ec5m b\u1ec7n trong c\u1ed9ng \u0111\u1ed3ng cho \u0111\u1ebfn khi ch\u00fang kh\u1ecfi h\u1eb3n. \u00dd ngh\u0129a s\u00e2u xa h\u01a1n: Nhi\u1ec1u khi ch\u00fang ta c\u1ea7n h\u00e0nh \u0111\u1ed9ng c\u00f9ng nhau \u0111\u1ec3 gi\u1ea3i quy\u1ebft v\u1ea5n \u0111\u1ec1.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "Kh\u00e1n/th\u00ednh gi\u1ea3 nh\u00ecn l\u1ef1a ch\u1ecdn v\u1ec1 cao tr\u00e0o sai ho\u1eb7c \u0111\u00fang, ho\u1eb7c kh\u00f4n ngoan hay d\u1ea1i d\u1ed9t, \u0111i\u1ec1u \u0111\u00f3 kh\u00f4ng quan tr\u1ecdng, kh\u00e1n gi\u1ea3 s\u1ebd nh\u1eadn th\u1ea5y m\u1ed7i ng\u01b0\u1eddi c\u00f3 s\u1ef1 l\u1ef1a ch\u1ecdn c\u1ee7a m\u00ecnh, \u0111\u00f3 l\u00e0 tr\u1ea3i nghi\u1ec7m c\u1ee7a con ng\u01b0\u1eddi. R\u1ea5t kh\u00f3 \u0111\u1ec3 kh\u00f4ng \u0111\u1ed3ng \u00fd v\u1edbi nh\u1eefng t\u00ecnh c\u1ea3m \u0111\u00f3- \u0111i\u1ec1u \u0111\u00f3 l\u00e0m ch\u00fang c\u00f3 \u00fd ngh\u0129a s\u00e2u h\u01a1n. Nh\u1eefng b\u1ea3n tin v\u00e0 ch\u01b0\u01a1ng tr\u00ecnh kh\u00f4ng c\u00f3 \u00fd ngh\u0129a s\u00e2u h\u01a1n th\u01b0\u1eddng c\u00f3 \u00edt t\u00e1c \u0111\u1ed9ng \u0111\u1ebfn kh\u00e1n/th\u00ednh gi\u1ea3; ch\u00fang kh\u00f4ng t\u1ea1o ra tranh lu\u1eadn v\u00e0 s\u1ebd nhanh ch\u00f3ng b\u1ecb l\u00e3ng qu\u00ean.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "## NH\u1eeeNG \u0110I\u1ec0U C\u1ea6N GHI NH\u1eda  \n&bull; T\u1ea5t c\u1ea3 th\u00e0nh t\u1ed1 trong b\u1ea3n tin c\u1ee7a b\u1ea1n ph\u1ea3i c\u00f9ng nhau \u0111\u1ec3 chuy\u1ec3n t\u1ea3i \u00fd ngh\u0129a s\u00e2u s\u1eafc h\u01a1n.  \n&bull; Nh\u1eefng \u00fd ngh\u0129a s\u00e2u s\u1eafc h\u01a1n kh\u00f4ng ph\u1ea3i l\u00e0 nh\u1eefng \u00fd ki\u1ebfn m\u00e0 b\u1ea1n \u0111\u01b0a v\u00e0o b\u1ea3n tin. Ch\u00fang b\u1ed1 tr\u00ed b\u1ea3n tin xung quanh nh\u1eefng ch\u1ee7 \u0111\u1ec1 l\u1edbn h\u01a1n v\u1ec1 v\u0103n ho\u00e1 v\u00e0 x\u00e3 h\u1ed9i.  \n&bull; \u00dd ngh\u0129a s\u00e2u s\u1eafc h\u01a1n c\u00f3 th\u1ec3 kh\u00e1c nhau v\u1edbi kh\u00e1n gi\u1ea3 v\u1edbi nh\u1eefng n\u1ec1n v\u0103n ho\u00e1 v\u00e0 x\u00e3 h\u1ed9i kh\u00e1c nhau.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u0110i\u1ec1u n\u00e0o c\u00f3 \u00fd ngh\u0129a s\u00e2u s\u1eafc h\u01a1n v\u1ec1 cao tr\u00e0o trong c\u00e2u chuy\u1ec7n n\u00e0y? M\u1ed9t ch\u00ednh tr\u1ecb gia ng\u01b0\u1eddi b\u1ecb k\u1ebft t\u1ed9i tham nh\u0169ng \u0111\u00e3 kh\u00f4ng \u0111\u01b0\u1ee3c t\u00e1i c\u1eed.", 
+            "choices": [
+                {
+                    "text": "M\u1ed9t khi b\u1ea1n \u0111\u00e1nh m\u1ea5t s\u1ef1 t\u00edn nhi\u1ec7m, r\u1ea5t kh\u00f3 c\u00f3 th\u1ec3 l\u1ea5y l\u1ea1i n\u00f3.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "C\u00e1c ch\u00ednh tr\u1ecb gia ch\u1ec9 lo cho b\u1ea3n th\u00e2n h\u1ecd.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Nhi\u1ec1u khi ng\u01b0\u1eddi v\u00f4 t\u1ed9i l\u1ea1i b\u1ecb tr\u1eebng ph\u1ea1t.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u0110i\u1ec1u n\u00e0o c\u00f3 \u00fd ngh\u0129a s\u00e2u s\u1eafc h\u01a1n v\u1ec1 cao tr\u00e0o c\u1ee7a b\u1ea3n tin n\u00e0y? M\u1ed9t ng\u01b0\u1eddi l\u00ednh b\u1ecb th\u01b0\u01a1ng nghe n\u00f3i anh ta s\u1ebd kh\u00f4ng bao gi\u1edd c\u00f3 th\u1ec3 \u0111i l\u1ea1i \u0111\u01b0\u1ee3c n\u1eefa. Anh ta b\u1ecb g\u1eafn ch\u1eb7t v\u1edbi xe l\u0103n v\u00e0 \u0111\u1ea5u tranh h\u00e0ng th\u00e1ng t\u1edbi khi anh b\u01b0\u1edbc nh\u1eefng b\u01b0\u1edbc \u0111\u1ea7u ti\u00ean.", 
+            "choices": [
+                {
+                    "text": "B\u00e1c s\u0129 th\u01b0\u1eddng m\u1eafc sai s\u00f3t.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Ch\u00faa mu\u1ed1n gi\u00fap anh ta.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "S\u1ef1 quy\u1ebft t\u00e2m c\u00f3 th\u1ec3 mang l\u1ea1i nh\u1eefng k\u1ebft qu\u1ea3 phi th\u01b0\u1eddng.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "deeper_meaning", 
+    "title": "\u00dd ngh\u0129a s\u00e2u s\u1eafc h\u01a1n"
+}

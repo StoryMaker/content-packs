@@ -1,0 +1,23 @@
+{
+    "title": "Ishingiro ry\u2019ibigize isanamu", 
+    "storyPathTemplateFiles": {
+        "composition_basics": "composition_basics.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "composition_basics", 
+            "dependencyFile": "composition_basics.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "composition_basics"
+        }
+    ], 
+    "currentStoryPathFile": "composition_basics.json", 
+    "id": "composition_basics"
+}

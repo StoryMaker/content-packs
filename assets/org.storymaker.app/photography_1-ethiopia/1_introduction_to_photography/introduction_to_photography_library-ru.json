@@ -1,0 +1,23 @@
+{
+    "title": "\u0412\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0432 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u044e", 
+    "storyPathTemplateFiles": {
+        "introduction_to_photography": "introduction_to_photography.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "introduction_to_photography", 
+            "dependencyFile": "introduction_to_photography.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "introduction_to_photography"
+        }
+    ], 
+    "currentStoryPathFile": "introduction_to_photography.json", 
+    "id": "introduction_to_photography"
+}

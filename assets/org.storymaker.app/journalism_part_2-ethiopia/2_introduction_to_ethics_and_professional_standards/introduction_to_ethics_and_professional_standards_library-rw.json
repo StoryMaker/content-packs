@@ -1,0 +1,23 @@
+{
+    "title": "Intangamarara kuvyerekeye Ubuntu hamwe N'amategeko Ngenderwako y'Akazi", 
+    "storyPathTemplateFiles": {
+        "introduction_to_ethics_and_professional_standards": "introduction_to_ethics_and_professional_standards.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "introduction_to_ethics_and_professional_standards", 
+            "dependencyFile": "introduction_to_ethics_and_professional_standards.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "introduction_to_ethics_and_professional_standards"
+        }
+    ], 
+    "currentStoryPathFile": "introduction_to_ethics_and_professional_standards.json", 
+    "id": "introduction_to_ethics_and_professional_standards"
+}

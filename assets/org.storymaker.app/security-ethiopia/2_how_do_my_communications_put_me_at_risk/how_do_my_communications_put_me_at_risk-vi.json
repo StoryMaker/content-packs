@@ -1,0 +1,260 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Li\u00ean l\u1ea1c k\u1ef9 thu\u1eadt s\u1ed1 \u0111\u01b0a t\u00f4i \u0111\u1ebfn nguy hi\u1ec3m nh\u01b0 th\u1ebf n\u00e0o?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Trong b\u00e0i n\u00e0y b\u1ea1n s\u1ebd h\u1ecdc:  \n&bull; Nh\u1eefng lo\u1ea1i giao ti\u1ebfp n\u00e0o c\u00f3 th\u1ec3 b\u1ecb theo d\u00f5i.  \n&bull; Li\u00ean l\u1ea1c qua \u0111i\u1ec7n tho\u1ea1i b\u1ecb theo d\u00f5i nh\u01b0 th\u1ebf n\u00e0o.  \n&bull; L\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 tr\u00e1nh b\u1ecb theo d\u00f5i khi c\u00f3 th\u1ec3.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "L\u00e0 m\u1ed9t ph\u00f3ng vi\u00ean n\u0103ng \u0111\u1ed9ng b\u1ea1n s\u1eed d\u1ee5ng nhi\u1ec1u ph\u01b0\u01a1ng ph\u00e1p li\u00ean l\u1ea1c hi\u1ec7u qu\u1ea3. Nh\u1eefng ph\u01b0\u01a1ng ph\u00e1p li\u00ean l\u1ea1c ti\u00eau chu\u1ea9n \u0111\u1ec3 l\u1ea1i v\u1ebft t\u00edch khi\u1ebfn c\u00f3 th\u1ec3 b\u1ecb theo d\u00f5i b\u1edfi nh\u1eefng ng\u01b0\u1eddi \u0111e d\u1ecda b\u1ea1n ho\u1eb7c ngu\u1ed3n tin c\u1ee7a b\u1ea1n. Trong qu\u00e1 tr\u00ecnh s\u1ea3n xu\u1ea5t tin, b\u1ea1n c\u00f3 th\u1ec3 \u0111\u1ec3 l\u1ea1i nh\u1eefng v\u1ebft t\u00edch k\u1ef9 thu\u1eadt s\u1ed1 gi\u00fap cho nh\u1eefng ng\u01b0\u1eddi \u0111e d\u1ecda b\u1ea1n v\u00e0 ngu\u1ed3n tin.  \nHi\u1ec3u v\u1ec1 nh\u1eefng v\u1ebft t\u00edch li\u00ean l\u1ea1c l\u00e0 b\u01b0\u1edbc \u0111\u1ea7u ti\u00ean \u0111\u1ec3 \u0111\u1ea3m b\u1ea3o r\u1eb1ng ng\u01b0\u1eddi \u0111e d\u1ecda b\u1ea1n kh\u00f4ng th\u1ec3 l\u1ee3i d\u1ee5ng v\u00e0 khai th\u00e1c b\u1ea1n v\u00e0 ngu\u1ed3n tin.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Giao ti\u1ebfp \u0111i\u1ec7n t\u1eed](2.png)  \nT\u1ea5t c\u1ea3 c\u00e1c ph\u01b0\u01a1ng ph\u00e1p giao ti\u1ebfp \u0111i\u1ec7n t\u1eed \u0111\u1ec1u \u0111\u1ec3 l\u1ea1i d\u1ea5u v\u1ebft. Giao ti\u1ebfp \u0111i\u1ec7n t\u1eed bao g\u1ed3m nhi\u1ec1u ph\u01b0\u01a1ng ph\u00e1p:  \n&bull; G\u1ecdi \u0111i\u1ec7n  \n&bull; Tin nh\u1eafn v\u0103n b\u1ea3n (SMS / MMS)  \n&bull; Th\u01b0 \u0111i\u1ec7n t\u1eed  \n&bull; G\u1ecdi qua IP (VoIP) nh\u01b0 Skype ho\u1eb7c Google Hangout  \n&bull; L\u01b0\u1edbt m\u1ea1ng \n&bull; c\u00e1c ho\u1ea1t \u0111\u1ed9ng \u1edf m\u1ea1ng x\u00e3 h\u1ed9i", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "M\u1ecdi li\u00ean l\u1ea1c \u0111i\u1ec7n t\u1eed \u0111\u1ec1u d\u1ef1a tr\u00ean m\u1ed9t khu\u00f4n kh\u1ed5 gi\u1ed1ng nhau. Li\u00ean l\u1ea1c b\u1eaft \u0111\u1ea7u t\u1eeb m\u1ed9t ng\u01b0\u1eddi, ch\u1ea1y qua m\u1ed9t m\u1ea1ng v\u00e0 \u0111\u01b0\u1ee3c nh\u1eadn b\u1edfi ng\u01b0\u1eddi th\u1ee9 2.  \nB\u1ea3n ch\u1ea5t c\u1ee7a s\u1ef1 \u0111e d\u1ecda \u0111\u1ebfn t\u1eeb li\u00ean l\u1ea1c ph\u1ee5 thu\u1ed9c v\u00e0o h\u1ec7 th\u1ed1ng s\u1eed d\u1ee5ng.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![Theo d\u00f5i th\u00f4ng tin li\u00ean l\u1ea1c di \u0111\u1ed9ng](3.png)  \n### Theo d\u00f5i th\u00f4ng tin li\u00ean l\u1ea1c di \u0111\u1ed9ng\nLi\u00ean l\u1ea1c b\u1eb1ng h\u1ec7 th\u1ed1ng \u0111i\u1ec7n tho\u1ea1i di \u0111\u1ed9ng d\u1ef1a v\u00e0o h\u1ec7 th\u1ed1ng th\u1ee5 \u0111\u1ed9ng m\u00e0 thi\u1ebft b\u1ecb c\u1ee7a ng\u01b0\u1eddi d\u00f9ng n\u1ed1i k\u1ebft v\u00e0o m\u1ea1ng b\u1eb1ng m\u1eb7c \u0111\u1ecbnh.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![Theo d\u00f5i email \u1edf ISP and c\u1ed5ng qu\u1ed1c gia](4.png)  \n### Theo d\u00f5i email \u1edf ISP and c\u1ed5ng qu\u1ed1c gia  \nL\u01b0\u1edbt m\u1ea1ng, email, VoIP v\u00e0 c\u00e1c li\u00ean l\u1ea1c \u1edf m\u1ea1ng x\u00e3 h\u1ed9i d\u1ef1a v\u00e0o ng\u01b0\u1eddi s\u1eed d\u1ee5ng \u0111\u1ec3 n\u1ed1i k\u1ebft v\u00e0o m\u1ea1ng tr\u01b0\u1edbc khi li\u00ean l\u1ea1c \u0111\u01b0\u1ee3c th\u1ef1c hi\u1ec7n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![D\u1ecbch v\u1ee5 li\u00ean l\u1ea1c](5.png)  \nKhi nhi\u1ec1u ng\u01b0\u1eddi s\u1eed d\u1ee5ng d\u1ef1a v\u00e0o di \u0111\u1ed9ng cho c\u00e1c d\u1ecbch v\u1ee5 li\u00ean l\u1ea1c v\u00e0 d\u1eef li\u1ec7u, t\u1ea5t c\u1ea3 nh\u1eefng li\u00ean l\u1ea1c \u0111\u00f3 b\u1eaft \u0111\u1ea7u d\u1ef1a v\u00e0o giao ti\u1ebfp th\u1ee5 \u0111\u1ed9ng. M\u1eb7c d\u00f9 b\u1ea1n c\u1ea7n ph\u1ea3i l\u00e0m \u0111\u1ed9ng t\u00e1c \u0111\u1ec3 li\u00ean l\u1ea1c v\u1edbi m\u1ea1ng x\u00e3 h\u1ed9i ho\u1eb7c nh\u1eadn email tr\u00ean m\u00e1y t\u00ednh, \u0111i\u1ec7n tho\u1ea1i c\u1ee7a b\u1ea1n s\u1ebd nh\u1eadn \u0111\u01b0\u1ee3c c\u00e1c giao ti\u1ebfp \u0111\u00f3 theo m\u1eb7c \u0111\u1ecbnh, m\u1ed9t khi n\u00f3 \u0111\u01b0\u1ee3c kh\u1edfi x\u01b0\u1edbng.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![Thi\u1ebft b\u1ecb di \u0111\u1ed9ng](6.png)  \nXem danh s\u00e1ch nh\u1eefng c\u00f4ng c\u1ee5 \u0111\u1ec3 b\u1ea3o v\u1ec7 ri\u00eang t\u01b0 v\u00e0 danh t\u00ednh khi s\u1eed d\u1ee5ng li\u00ean l\u1ea1c \u0111i\u1ec7n t\u1eed. C\u00e1c b\u00e0i h\u1ecdc sau \u0111\u00f3 s\u1ebd gi\u1ea3i th\u00edch \u1ee9ng d\u1ee5ng th\u1ef1c t\u1ebf cho m\u1ed7i lo\u1ea1i giao ti\u1ebfp.  \n### C\u00f4ng c\u1ee5:  \n&bull; SMS: TextSecure  \n&bull; VoIP/G\u1ecdi: OSTel / CSipSimple ho\u1eb7c Redphone  \n&bull; Li\u00ean l\u1ea1c \u1ea9n danh: Orbot  \n&bull; L\u01b0\u1edbt m\u1ea1ng: Orweb  \n&bull; Chat: ChatSecure  \n&bull; Email: K9Mail  \n&bull; Ghi ch\u00fa: NoteCipher  \n&bull; M\u1eadt kh\u1ea9u: KeePassDroid", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "7.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "\u0110i\u1ec7n tho\u1ea1i c\u00f3 th\u1ec3 g\u00e2y nguy hi\u1ec3m th\u1ebf n\u00e0o cho t\u00f4i?", 
+            "exampleMediaPath": "7.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "![Di \u0111\u1ed9ng v\u00e0 Sim](8.png)  \nC\u1ea3 SIM v\u00e0 \u0111i\u1ec7n tho\u1ea1i c\u1ee7a b\u1ea1n c\u00f3 th\u1ec3 x\u00e1c \u0111\u1ecbnh b\u1ea1n l\u00e0 ai. B\u1ea5t c\u1ee9 m\u1ed9t li\u00ean l\u1ea1c n\u00e0o theo \u0111i\u1ec7n tho\u1ea1i c\u1ee7a b\u1ea1n v\u1edbi m\u1ea1ng l\u01b0\u1edbi di \u0111\u1ed9ng- g\u1ecdi \u0111i v\u00e0 nh\u1eadn cu\u1ed9c g\u1ecdi, g\u1eedi tin nh\u1eafn, truy c\u1eadp Internet, ho\u1eb7c ch\u1ec9 l\u00e0 \u0111ang \u1edf tr\u1ea1ng th\u00e1i ch\u1edd, bao g\u1ed3m x\u00e1c \u0111\u1ecbnh th\u00f4ng tin v\u1ec1 \u0111i\u1ec7n tho\u1ea1i v\u00e0 SIM.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## L\u00e0m sao th\u1ebb SIM c\u00f3 th\u1ec3 g\u00e2y ph\u01b0\u01a1ng h\u1ea1i cho t\u00f4i?\n![Chi ti\u1ebft v\u1ec1 th\u1ebb SIM](9.png)  \nModule v\u1ec1 danh t\u00ednh c\u1ee7a thu\u00ea bao (SIM) c\u00f3 ch\u1ee9a nh\u1eefng th\u00f4ng tin v\u1ec1 ng\u01b0\u1eddi s\u1eed d\u1ee5ng d\u1ecbch v\u1ee5. Nh\u00e0 cung c\u1ea5p d\u1ecbch v\u1ee5 s\u1eed d\u1ee5ng \u0111\u1ec3 x\u00e1c \u0111\u1ecbnh b\u1ea1n l\u00e0 ai, d\u1ef1a tr\u00ean nh\u1eefng th\u00f4ng tin v\u00e0 t\u00e0i li\u1ec7u m\u00e0 b\u1ea1n cung c\u1ea5p.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## L\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 \u0111i\u1ec7n tho\u1ea1i di \u0111\u1ed9ng c\u00f3 th\u1ec3 g\u00e2y h\u1ea1i cho t\u00f4i?\n![V\u00ed d\u1ee5 v\u1ec1 s\u1ed1 IMEI](10.png)  \nTh\u1ebb SIM c\u00f3 th\u1ec3 x\u00e1c \u0111\u1ecbnh b\u1ea1n, nh\u01b0ng \u0111i\u1ec7n tho\u1ea1i c\u1ee7a b\u1ea1n c\u00f3 th\u1ec3 g\u00e2y phi\u1ec1n ph\u1ee9c. M\u1ed7i m\u1ed9t \u0111i\u1ec7n tho\u1ea1i c\u00f3 m\u1ed9t s\u1ed1 ri\u00eang bi\u1ec7t, X\u00e1c \u0111\u1ecbnh thi\u1ebft b\u1ecb di \u0111\u1ed9ng qu\u1ed1c t\u1ebf (IMEI). S\u1ed1 n\u00e0y c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c truy t\u00ecm \u1edf m\u1ecdi th\u1eddi \u0111i\u1ec3m.  \nH\u00e3y ki\u1ec3m tra s\u1ed1 IMEI n\u00e0y \u1edf \u0111i\u1ec7n tho\u1ea1i c\u1ee7a b\u1ea1n (th\u01b0\u1eddng \u0111\u01b0\u1ee3c in \u1edf sau pin) ho\u1eb7c b\u1ea5m *#06# v\u00e0 b\u1ea1n s\u1ebd th\u1ea5y s\u1ed1 ri\u00eang bi\u1ec7t cho \u0111i\u1ec7n tho\u1ea1i c\u1ee7a b\u1ea1n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "B\u1ea1n c\u00f3 th\u1ec3 gi\u1ea3 \u0111\u1ecbnh r\u1eb1ng SIM c\u1ee7a b\u1ea1n l\u00e0 con \u0111\u01b0\u1eddng duy nh\u1ea5t \u0111\u1ec3 nh\u00e0 cung c\u1ea5p d\u1ecbch v\u1ee5 m\u1ea1ng ho\u1eb7c nh\u00e0 ch\u1ee9c tr\u00e1ch ph\u00e1t hi\u1ec7n ra v\u1ecb tr\u00ed c\u1ee7a b\u1ea1n. Nhi\u1ec1u ng\u01b0\u1eddi thay \u0111\u1ed5i SIM c\u1ee7a m\u00ecnh th\u01b0\u1eddng xuy\u00ean nh\u01b0ng l\u1ea1i ti\u1ebfp t\u1ee5c s\u1eed d\u1ee5ng \u0111i\u1ec7n tho\u1ea1i c\u0169. \u0110\u00f3 l\u00e0 m\u1ed9t sai l\u1ea7m! S\u1ef1 k\u1ebft h\u1ee3p c\u1ee7a SIM v\u00e0 s\u1ed1 IMEI cho ph\u00e9p s\u1ef1 theo d\u00f5i \u0111\u01b0\u1ee3c li\u00ean t\u1ee5c.  \n\u0110i\u1ec7n tho\u1ea1i s\u1ebd lu\u00f4n b\u00e1o v\u1ec1 \u0111\u1ecba \u0111i\u1ec3m c\u1ee7a b\u1ea1n \u1edf m\u1ed7i tr\u1ea1m ph\u1ee7 s\u00f3ng m\u00e0 n\u00f3 li\u00ean l\u1ea1c. H\u00e3y l\u1ea5y pin ra kh\u1ecfi \u0111i\u1ec7n tho\u1ea1i ho\u1eb7c \u0111\u1ec3 \u0111i\u1ec7n tho\u1ea1i \u1edf nh\u00e0 n\u1ebfu b\u1ea1n kh\u00f4ng mu\u1ed1n b\u1ecb ph\u00e1t hi\u1ec7n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "## \u0110i\u1ec7n tho\u1ea1i cho bi\u1ebft v\u1ecb tr\u00ed c\u1ee7a t\u00f4i nh\u01b0 th\u1ebf n\u00e0o?\n![\u0110\u1ecbnh v\u1ecb](11.png)  \nKhi \u0111i\u1ec7n tho\u1ea1i c\u1ee7a b\u1ea1n \u0111ang ho\u1ea1t \u0111\u1ed9ng, nh\u00e0 m\u1ea1ng bi\u1ebft b\u1ea1n \u0111ang \u1edf \u0111\u00e2u t\u1eeb ba tr\u1ea1m ph\u1ee7 s\u00f3ng \u1edf g\u1ea7n b\u1ea1n nh\u1ea5t. V\u1ecb tr\u00ed c\u1ee7a b\u1ea1n c\u00f3 th\u1ec3 ch\u00ednh x\u00e1c v\u1edbi sai s\u00f3t v\u00e0i m\u00e9t trong khu v\u1ef1c \u0111\u00f4ng d\u00e2n c\u01b0 nh\u01b0ng c\u00f3 th\u1ec3 v\u00e0i tr\u0103m m\u00e9t \u1edf khu v\u1ef1c n\u00f4ng th\u00f4n, n\u01a1i c\u00f3 \u00edt tr\u1ea1m ph\u1ee7 s\u00f3ng. N\u1ebfu b\u1ea1n g\u1ecdi \u0111i\u1ec7n ho\u1eb7c nh\u1eafn tin, v\u1ecb tr\u00ed c\u1ee7a b\u1ea1n s\u1ebd \u0111\u01b0\u1ee3c ghi l\u1ea1i b\u1edfi nh\u00e0 m\u1ea1ng. L\u01b0u \u00fd r\u1eb1ng \u0111\u00f3 l\u00e0 ch\u1ee9c n\u0103ng c\u1ee7a m\u1ea1ng \u0111i\u1ec7n tho\u1ea1i di \u0111\u1ed9ng, ch\u1ee9 kh\u00f4ng ph\u1ea3i l\u00e0 h\u1ec7 th\u1ed1ng theo d\u00f5i. M\u1ecdi m\u1ea1ng l\u01b0\u1edbi \u0111\u1ecbnh v\u1ecb l\u00e0n s\u00f3ng c\u1ee7a b\u1ea1n t\u1eeb ba ph\u00eda. \u0110i\u1ec1u quan tr\u1ecdng c\u1ea7n nh\u1edb c\u00e1c th\u00f4ng tin n\u00e0y c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng \u0111\u1ec3 ch\u1ed1ng l\u1ea1i b\u1ea1n!", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "text": "## \u0110i\u1ec7n tho\u1ea1i c\u1ee7a t\u00f4i c\u00f3 th\u1ec3 nghe l\u00e9n t\u00f4i?\n![H\u1ecdp m\u1eb7t v\u1edbi pin ph\u1ea3i \u0111\u01b0\u1ee3c th\u00e1o r\u1eddi](12.png)  \nTh\u1eadm ch\u00ed n\u1ebfu b\u1ea1n kh\u00f4ng s\u1eed d\u1ee5ng \u0111i\u1ec7n tho\u1ea1i, n\u00f3 v\u1eabn c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng nh\u01b0 m\u1ed9t thi\u1ebft b\u1ecb nghe l\u00e9n b\u00ed m\u1eadt \u0111\u1ec3 ng\u01b0\u1eddi kh\u00e1c nghe tr\u1ed9m b\u1ea1n. H\u00e3y th\u00e1o pin (\u0111\u1eebng ch\u1ec9 t\u1eaft \u0111i\u1ec7n tho\u1ea1i) ho\u1eb7c \u0111\u1ec3 \u0111i\u1ec7n tho\u1ea1i c\u1ee7a b\u1ea1n xa kh\u1ecfi khu v\u1ef1c chuy\u1ec7n tr\u00f2 ri\u00eang t\u01b0.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "text": "Th\u00f4ng th\u01b0\u1eddng, nh\u1eefng tin nh\u1eafn v\u0103n b\u1ea3n v\u00e0 c\u00e1c cu\u1ed9c g\u1ecdi c\u00f3 th\u1ec3 b\u1ecb theo d\u00f5i b\u1edfi ng\u01b0\u1eddi \u0111i\u1ec1u h\u00e0nh m\u1ea1ng. Cu\u1ed9c g\u1ecdi c\u00f3 th\u1ec3 b\u1ecb nghe v\u00e0 ghi \u00e2m, v\u00e0 b\u0103ng ghi \u00e2m c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c chuy\u1ec3n \u0111\u1ebfn (h\u1ee3p ph\u00e1p ho\u1eb7c b\u1ea5t h\u1ee3p ph\u00e1p) cho ng\u01b0\u1eddi kh\u00e1c.  \nV\u00e0i b\u01b0\u1edbc b\u1ea1n c\u00f3 th\u1ec3 l\u00e0m \u0111\u1ec3 an to\u00e0n h\u01a1n:  \n&bull; Mua SIM tr\u1ea3 tr\u01b0\u1edbc, v\u00e0 tr\u00e1nh ph\u1ea3i \u0111\u0103ng k\u00fd t\u00ean c\u1ee7a b\u1ea1n. S\u1eed d\u1ee5ng ti\u1ec1n m\u1eb7t. D\u00f9ng th\u1ebb t\u00edn d\u1ee5ng/th\u1ebb ghi n\u1ee3 c\u00f3 th\u1ec3 suy ra b\u1ea1n li\u00ean h\u1ec7 \u0111\u1ebfn SIM.  \n&bull; Mua \u0111i\u1ec7n tho\u1ea1i r\u1ebb ti\u1ec1n \u0111\u1ec3 c\u00f3 th\u1ec3 v\u1ee9t b\u1ecf n\u1ebfu c\u1ea7n thi\u1ebft.  \n&bull; N\u1ebfu b\u1ea1n ngh\u0129 r\u1eb1ng m\u00ecnh \u0111ang b\u1ecb theo d\u00f5i, \u0111\u1eebng thay SIM kh\u00f4ng th\u00f4i, m\u00e0 v\u1ee9t lu\u00f4n chi\u1ebfc \u0111i\u1ec7n tho\u1ea1i \u0111i.  \n&bull; Lu\u00f4n tr\u00e1nh chia s\u1ebb nh\u1eefng th\u00f4ng tin nh\u1ea1y c\u1ea3m qua \u0111i\u1ec7n tho\u1ea1i.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_14"
+        }, 
+        {
+            "text": "## NH\u1eeeNG \u0110I\u1ec0U C\u1ea6N GHI NH\u1eda  \n&bull; SIM v\u00e0 \u0111i\u1ec7n tho\u1ea1i c\u1ee7a b\u1ea1n c\u00f3 th\u1ec3 x\u00e1c \u0111\u1ecbnh b\u1ea1n.  \n&bull; \u0110i\u1ec7n tho\u1ea1i c\u1ee7a b\u1ea1n c\u00f3 th\u1ec3 truy ra b\u1ea1n.  \n&bull; \u0110i\u1ec7n tho\u1ea1i c\u1ee7a b\u1ea1n c\u00f3 th\u1ec3 gi\u00fap ng\u01b0\u1eddi kh\u00e1c nghe l\u00e9n b\u1ea1n.  \n&bull; Mang th\u00eam SIM c\u1ee7a nh\u00e0 m\u1ea1ng kh\u00e1c m\u00e0 b\u1ea1n c\u00f3 th\u1ec3 ho\u00e1n \u0111\u1ed5i v\u1edbi SIM ch\u00ednh. N\u1ebfu c\u00f3 th\u1ec3, mang theo nhi\u1ec1u \u0111i\u1ec7n tho\u1ea1i.  \n&bull; L\u1ea5y pin ra kh\u1ecfi \u0111i\u1ec7n tho\u1ea1i ho\u1eb7c \u0111\u1ec3 \u0111i\u1ec7n tho\u1ea1i \u1edf nh\u00e0 khi b\u1ea1n \u0111i \u0111\u1ebfn h\u1ecdp nh\u00f3m \u0111\u1ec3 tr\u00e1nh b\u1ecb theo d\u00f5i.  \n&bull; N\u1ebfu b\u1ea1n cho r\u1eb1ng \u0111i\u1ec7n tho\u1ea1i c\u1ee7a m\u00ecnh \u0111ang b\u1ecb theo d\u00f5i b\u1edfi nh\u00e0 ch\u1ee9c tr\u00e1ch, h\u00e3y v\u1ee9t b\u1ecf c\u1ea3 \u0111i\u1ec7n tho\u1ea1i v\u00e0 sim m\u00e0 b\u1ea1n \u0111\u00e3 t\u1eebng d\u00f9ng.  \n&bull; \u0110\u1eb7t ch\u1ebf \u0111\u1ed9 bay cho \u0111i\u1ec7n tho\u1ea1i kh\u00f4ng \u1ea3nh h\u01b0\u1edfng \u0111\u1ebfn vi\u1ec7c b\u1ecb theo d\u00f5i; \u0111i\u1ec7n tho\u1ea1i c\u1ee7a b\u1ea1n v\u1eabn c\u00f3 th\u1ec3 cho ph\u00e9p nh\u00e0 s\u1ea3n xu\u1ea5t truy c\u1eadp th\u00f4ng qua c\u1ed5ng sau.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_15"
+        }, 
+        {
+            "text": "## N\u1ed9i dung c\u1ee7a b\u00e0i h\u1ecdc n\u00e0y ph\u1ea7n l\u1edbn l\u1ea5y t\u1eeb n\u1ed9i dung th\u1ef1c hi\u1ec7n b\u1edfi d\u1ef1 \u00e1n (\u0111\u00e3 \u0111\u00f3ng) Di \u0111\u1ed9ng An to\u00e0n h\u01a1n c\u1ee7a Mobile Active v\u00e0 Vi\u1ec7n H\u00e0nh \u0111\u1ed9ng T\u00e2y T\u1ea1ng (the Tibet Action Institute) http://tibetaction.net.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_16"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "Nh\u1eefng lo\u1ea1i giao ti\u1ebfp n\u00e0o \u0111\u1ec3 l\u1ea1i d\u1ea5u v\u1ebft?", 
+            "choices": [
+                {
+                    "text": "Email v\u00e0 tin nh\u1eafn SMS", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Cu\u1ed9c g\u1ecdi \u0111i\u1ec7n", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Vi\u1ebft tay", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "L\u01b0\u1edbt m\u1ea1ng", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u0110i\u1ec7n tho\u1ea1i di \u0111\u1ed9ng k\u1ebft n\u1ed1i v\u1edbi m\u1ea1ng m\u1eb7c \u0111\u1ecbnh tr\u01b0\u1edbc nh\u01b0 th\u1ebf n\u00e0o?", 
+            "choices": [
+                {
+                    "text": "B\u1eb1ng vi\u1ec7c g\u1ecdi s\u1ed1 \u0111i\u1ec7n tho\u1ea1i.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Ch\u1ec9 khi n\u00e0o g\u1ecdi \u0111i\u1ec7n.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "\u0110i\u1ec7n tho\u1ea1i di \u0111\u1ed9ng ti\u1ebfn h\u00e0nh giao ti\u1ebfp th\u1ee5 \u0111\u1ed9ng th\u01b0\u1eddng tr\u1ef1c.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ch\u1ec9 khi th\u1ef1c hi\u1ec7n cu\u1ed9c g\u1ecdi ho\u1eb7c g\u1eedi tin nh\u1eafn SMS.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "Ph\u01b0\u01a1ng ph\u00e1p n\u00e0o \u0111\u1ec3 tr\u00e1nh b\u1ecb truy l\u00f9ng b\u1edfi \u0111i\u1ec7n tho\u1ea1i c\u1ee7a t\u00f4i?", 
+            "choices": [
+                {
+                    "text": "Thay \u0111\u1ed5i SIM c\u1ee7a t\u00f4i.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "V\u1ea5t b\u1ecf \u0111i\u1ec7n tho\u1ea1i c\u1ee7a t\u00f4i.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "L\u1ea5y pin ra kh\u1ecfi \u0111i\u1ec7n tho\u1ea1i.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Mua SIM tr\u1ea3 tr\u01b0\u1edbc", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "T\u00f4i c\u00f3 th\u1ec3 l\u00e0m g\u00ec \u0111\u1ec3 ng\u0103n ch\u1eb7n vi\u1ec7c nghe tr\u1ed9m?", 
+            "choices": [
+                {
+                    "text": "Thay \u0111\u1ed5i SIM \u0111i\u1ec7n tho\u1ea1i.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "T\u1eaft m\u00e1y \u0111i\u1ec7n tho\u1ea1i.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "\u0110\u1ec3 \u0111i\u1ec7n tho\u1ea1i c\u1ee7a t\u00f4i v\u00e0o ch\u1ebf \u0111\u1ed9 bay.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "L\u1ea5y pin ra kh\u1ecfi \u0111i\u1ec7n tho\u1ea1i.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "L\u00e0m th\u1ebf n\u00e0o \u0111i\u1ec7n tho\u1ea1i c\u1ee7a t\u00f4i b\u1ecb x\u00e1c \u0111\u1ecbnh?", 
+            "choices": [
+                {
+                    "text": "B\u1eb1ng vi\u1ec7c \u0111\u0103ng k\u00fd th\u1ebb SIM", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Theo s\u1ed1 \u0111i\u1ec7n tho\u1ea1i", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "B\u1eb1ng vi\u1ec7c \u0111\u0103ng k\u00fd IMEI", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "B\u1eb1ng c\u00e1c tr\u1ea1m ph\u1ee7 s\u00f3ng", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_5"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "how_do_my_communications_put_me_at_risk", 
+    "title": "Th\u00f4ng tin Li\u00ean l\u1ea1c g\u00e2y nguy hi\u1ec3m cho t\u00f4i nh\u01b0 th\u1ebf n\u00e0o"
+}

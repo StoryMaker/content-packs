@@ -1,0 +1,130 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Eenyummaa sobaa akkamittan sirriitti fayyadamuu danda'a?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Kutaa kana keessatti kan barattan:  \n&bull; Eenyummaakee eeggachuuf akka itti eenyummaa sobaa fayyadaman.  \n&bull; Mallatteessi yeroo akka itti eenyummaakee mul'isu.  \n&bull; Yeroo karaarra jirtutti akka itti eenyummaa sobaa eeggattu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Yoo atii yookaan maddikee doorsifamtan, eenyumma nama doorsifamee eeguuf tarkaanfii dabalataa fudhachuu qabda. Gaazexeessanii fi maddi doorsisaan rakkoo keessa galan eenyummaasaanii dhoksuuf eenyumaa sobaatti fayyadamu. Yeroo karaa dijitaalaa fayyadamtu, eenyummaakee dhugaadhaaf kallattii kaa'uu dandeessa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![dhoksaan amansiisaa miti](2.png)  \nNamooti saaphaphuu hoogganan(yookaan irratti maxxansan) maqaa sobaatiin fayyadamuun dhokachuun isaanii amansiissaa akka hin taane beekuu qabu. Saaphaphurratti waant ati galchitu hundi teessoo IP (http://en.wikipedia.org/wiki/IP_address) kompiyuutara irraa ergitee galmeessa, ISP (http://en.wikipedia.org/wiki/ISP) baayyeen immoo sochii galee ba'u hunda galmeessa. Kanaaf, odeeffannoo eeggannoo barbaadu iddoola irratti yeroo maxxansuu yaadduu tarkaanfii eeggannoo fudhachuu qabda. Kutaa X.X. keessatti Tor fayyadamuudhaan akka itti of dhoksuudhaan skatta'an irratti mari'anneerra. Dhokannaa karaarraa yoo eeggachuu qabda ta'e,  iddooicha fayyadamuu fi irratti maxxansuuf cimdaa dhokannaa Tor fayyadamuukee adda baafadhu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![Tarkaanfilee duraa rakkoon akka hin mudanneef fudhachu](3.png)  \n## Mallatteessa Yeroo  \nCimdaa Tor fayyadamuudhaan hojii mootummaan hojjetu iddoola saphaphuurratti yoo maxxansite, dhaabbata ati itti ergitu qaamni mootummaa arguu hin danda'u, garuu yeroo ati mana interneetii seentetti maxxansi haaraan iddoolarratti akka mul'atu adda baafachuu danda'u. Kunimmoo gara keetti dhufuu danda'a, keessumaa yoo abbaan mana interneetii yeroo fi maqaakee barreesseera ta'e. Rakkoo kana furuuf, nama biyya biraa taa'ee jiru akka inni siif maxxansuuf gaafadhu. Tajaajila webmeelii nageenyisaa eegame (yookaan iccitaa'e) fayyadamuudhaan nama biyya biraa jiru sanaaf ergiitii utuu hin maxxansin yeroo hamma ta'e eegu itti himi.  \nEenyummaankee karaa maqaa ati ofiif yookaan madda keetiif kennitu qofaan miti kan inni adda ba'u. Eenyummaakee hojii ati interneetii irratti hojjettu faana dha'uudhaa beekamuu danda'a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## WAANTOTA YAADATAMUU QABAN \n&bull; Seenaa sakatta'iinsakee haquu hin irraanfatin.  \n&bull; Chrome'irraa foddaa 'incognito' yookaan \"private browsing\" kan jedhu 'Firefox' irraa.  \n&bull; Kuukii cufuu hin irraanfatin.  \n&bull; Nama hin doorsifamin kan sii wajjin hojjetu akka inni maxxansu godhi.  \n&bull; Yeroo hamma ta'e keessatti akka miidiyaankee ofiin of maxxansu godhi.  \n&bull;  Firefox fi Chrome irra bakka hundatti HTTPS'ii fee'i  \n&bull; Yeroo Interneetii fayyadamtu hundatti tajaajila dhokataa fayyadami.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Maaliifan eenyummaa sobaa fayyadama?", 
+            "choices": [
+                {
+                    "text": "Sababa maqaakoo isa siriirra namatti toluuf", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Eenyummaa koo yookaan  maddakoo  koo eeguuf. ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Flash Gordon.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Sababa maqaankoo Facebook'iidhaan qabameef.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "Akkamittan wal quunnamtiin dijitaalaakoo eenyummaakoo isa dhugaa akka hin ibsine godha?", 
+            "choices": [
+                {
+                    "text": "Yeroo hunda fooddaa incognito fayyadamuudhaan.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Yeroo an karaarra hin jirre akka hiriyaankoo miidiyicha maxxansu gochuudhaan.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Tor fayyadamuudhaan interneetiitti waliindhuu.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Teessoo iimeelii lama fayyadamuudhaan.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "Yoo an eenyummaa sobaa fayyadame eenyummaankoo", 
+            "choices": [
+                {
+                    "text": "Guutummaa guutuutti eegama.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Kana jedhee waanan namootatti himu hunda. ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Bakka an jiruu fi wal quunnamtiinkoo eenyummaakoo akka hin ibsine yoon godhe qofa nageenyi eegama.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Irra deemanii akka hin ilaalle eeguu.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "how_do_i_effectively_use_pseudonyms", 
+    "title": "Eenyummaa Sobaa Akkamittan Sirriitti Fayyadamuu Danda'a"
+}

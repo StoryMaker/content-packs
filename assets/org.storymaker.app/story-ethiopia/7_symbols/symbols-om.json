@@ -1,0 +1,88 @@
+{
+    "cards": [
+        {
+            "text": "# How can I use symbols in my story?  \n## In this lesson you will learn:  \n&bull; What makes something a symbol  \n&bull; How symbols improve your story  \n&bull; How to find a powerful symbol", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Seenaa gaariin mallattoo fayyadama. Mallattoon namootaaf waan hiika cimaa kennu hunda. Qaamolee, gocha, maqaa yookaan taatee ta'uu danda'a.Mallattoon namoota garagaraatiif keessumaa namoota aadaa yookaan hawaasa garagaraatiif hiika garagaraa qabaachuu danda'a. Seenaakee hawwataa gochuudhaaf, mallattoolee mul'atan itti dabaluu qabda. Hordoftooti saffisaa fi miiraan hubatu. Mallattoo qofti seenaa gaarii himuu danda'u.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Karaaninn tokko kan ittiin seenaa gaarii himan hiika mallattoo jijjiiramu hordofuudhaani. Fakkeenyaaf, guyyoottan jalqabaa warraqsa 2011 Liibiyaa booda, harkisi dachee girgiddaa magaalaa guddittii naannichaa uwwise. Jalqaba harkisi dachee akka mallattoo abdii, fedhii uummata Liibiyaatti fudhatama. Harkisi dachee kun amma immoo akka abdii dhabuuttii fi abjuu gowwummaa uummata Liibiyaa ta'a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Sababa yeroo dheeraaf turuuf yeroo tokko tokko mallattoon gaariidha, fakkeenyaaf, fakkii gaara kirkira lafaa booda hin jijjiiramne yookaan siidaa aadaa guddicha kan umurii dheerate.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Yeroo baayyee seenaan oduu odeeffannoo karaa kallattiidhaan qofa dabarsu. Gabaastoti mallattoo fayyadamuun odeeffannoo mul'ataa fi hawwataa ta'e himuu yookaan dabarsuu hin yaadatan. Qabiyyee mul'ataan humna mallatteessuu utuu hin yaadin dhiyaate akka hin humna  hin godhanne godha. Gadi fageenya kan dhabuun sababa jalqabaa oduun tokko hawwataa akka hin taane godhuudha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "Mallattoo baayinaan fayyadamuu yookaan yaada malee irra deddeebi'anii yookaan kan dhaamsa mataasaa dabarfatuutti fayyadamuurraa of qusachuun barbaachisaadha. Namoonni mallattoo karaa adda ta'een akka isaan mallattoo hubatan beekuun barbaachisaadha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "Fakkeenyota mallattoo fi akka isaan itti jijjiiramaa deeman:  \n&bull; Bakka lolaatti, loltooti namicha adamsaa jiru. Gandichi ni dhoksaniin, garuu yoo inni hin ba'u ta'e gandcha gubna jedhanii sodaachisaa jiru. Harka kennuusaan dura, mallattoo ofittummaati; namooti gandichaa isaaf jedhanii miidhamu. Harka kennee yeroo gandicha oolchu, mallattoo arjummaa fi gootummaati.  \n&bull; Dorgommii pirezidaantii keessatti, namichi siyaasaa obboleessasaatiin dorgomuu jalqabe. Yeroo namichi obboleessasaa irra goree dubbatu, mallattoo amanamummaati.Yeroo akka obboleessaa wajjin akka dorgomu ibsu, mallattoo dabarsanii kennuuti.  \n&bull; Taphataan kubbaa miillaa kan qabxii moo'umsaa argamsiise mallattoo gootummaa yeroo ta'u. Abbaa manaa haadha manaasaa miidhu ta'uunsaa yoo beekame akka nama gadheetti lakkaa'ama.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Namni siyaasaa malaammaltummaan itti murtaa'e deebi'ee filatamuu dadhabe. Mallattoon inni ibsu:", 
+            "choices": [
+                {
+                    "text": "Of tuulummaa", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Sirna filannoo", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Adaba", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Loltuun miidhame akka deebi'ee adeemuu hin dandeenyetu itti himame. Tarkaanfii jalqabaa fudhachuusaan dura ji'ootaaf wiilcheeriirrarratti rakkachaa ture. Kan inni ibsu:", 
+            "choices": [
+                {
+                    "text": "Ajaa'iba", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Doktoorootra gadhee", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Murteeffannaa", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "symbols", 
+    "title": "Mallattoo"
+}

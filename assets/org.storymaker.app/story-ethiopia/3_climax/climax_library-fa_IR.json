@@ -1,0 +1,23 @@
+{
+    "title": "\u0646\u0642\u0637\u0647 \u0627\u0648\u062c \u06af\u0632\u0627\u0631\u0634 \u062e\u0628\u0631\u06cc", 
+    "storyPathTemplateFiles": {
+        "climax": "climax.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "climax", 
+            "dependencyFile": "climax.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "climax"
+        }
+    ], 
+    "currentStoryPathFile": "climax.json", 
+    "id": "climax"
+}

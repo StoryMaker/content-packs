@@ -1,0 +1,17 @@
+{
+    "cards": [
+        {
+            "text": "##INTRODUCCI\u00d3N A LA HISTORIA\nA lo largo de la historia se da una fuerte comunicaci\u00f3n. Los hechos y la informaci\u00f3n, ellos solos, pueden ser dif\u00edciles de digerir, recordar o compartir. Si se da la informaci\u00f3n sin historia, lo que produzcas ser\u00e1 dif\u00edcil de entender para la audiencia y no tendr\u00e1 impacto sobre ella. El buen periodismo envuelve el coraz\u00f3n y la mente a lo largo de su narraci\u00f3n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "En esta secci\u00f3n te presentaremos los componentes b\u00e1sicos para una buena narraci\u00f3n. Si tus historias siguen todos estos pasos, bien hechos, tendr\u00e1s una historia fuerte con muchas posibilidades de crear un periodismo convincente.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "introduction_to_story", 
+    "title": "Introducci\u00f3n a la historia"
+}

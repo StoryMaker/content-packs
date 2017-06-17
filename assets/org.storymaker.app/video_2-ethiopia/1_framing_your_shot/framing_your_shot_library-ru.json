@@ -1,0 +1,23 @@
+{
+    "title": "\u041a\u0430\u0434\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u043d\u0438\u043c\u043a\u0430", 
+    "storyPathTemplateFiles": {
+        "framing_your_shot": "framing_your_shot.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "framing_your_shot", 
+            "dependencyFile": "framing_your_shot.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "framing_your_shot"
+        }
+    ], 
+    "currentStoryPathFile": "framing_your_shot.json", 
+    "id": "framing_your_shot"
+}

@@ -1,0 +1,23 @@
+{
+    "title": "Wie kann ich sicher E-Mails verschicken?", 
+    "storyPathTemplateFiles": {
+        "how_can_i_send_email_safely": "how_can_i_send_email_safely.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "how_can_i_send_email_safely", 
+            "dependencyFile": "how_can_i_send_email_safely.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "how_can_i_send_email_safely"
+        }
+    ], 
+    "currentStoryPathFile": "how_can_i_send_email_safely.json", 
+    "id": "how_can_i_send_email_safely"
+}

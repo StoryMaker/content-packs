@@ -1,0 +1,88 @@
+{
+    "cards": [
+        {
+            "text": "# \u00bfC\u00f3mo puedo usar los s\u00edmbolos en mi historia?  \n## En esta lecci\u00f3n aprender\u00e1:  \n&bull; Qu\u00e9 convierte a algo en s\u00edmbolo  \n&bull; C\u00f3mo mejoran los s\u00edmbolos su historia  \n&bull; C\u00f3mo encontrar un s\u00edmbolo potente", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Las buenas historias hacen uso de s\u00edmbolos. Un s\u00edmbolo es algo que tiene un potente significado asociado para la gente. Puede ser un objeto, una acci\u00f3n, un nombre, o un evento. Los s\u00edmbolos a menudo significan cosas distintas para personas distintas, particularmente para personas de diferentes sociedades o culturas. Para hacer sus historias potentes, debe incluir s\u00edmbolos visuales. Las audiencias los comprenden emocional y r\u00e1pidamente. Los s\u00edmbolos por si solos puede contar grandes historias.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Una forma de contar grandes historias es mediante el seguimiento del significado cambiante de los s\u00edmbolos. Por ejemplo, en los primeros d\u00edas despu\u00e9s de la revoluci\u00f3n en Libia de 2011, los graffitis cubr\u00edan los muros de las ciudades m\u00e1s grandes de la naci\u00f3n. Al principio este graffiti se erigi\u00f3 como un s\u00edmbolo de esperanza, de los deseos de una nueva generaci\u00f3n libia. Ese mismo graffiti ahora se erige como un s\u00edmbolo de la p\u00e9rdida de esperanza y los sue\u00f1os ilusorios de la gente de Libia.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "A veces los s\u00edmbolos son potentes precisamente porque son duraderos, por ejemplo, una imagen de una monta\u00f1a que permanece inalterada despu\u00e9s de un terremoto o una estatua de una gran figura cultural de hace mucho tiempo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Demasiado a menudo las historias de noticias retratan la informaci\u00f3n s\u00f3lo de una forma literal. El reportero no considera c\u00f3mo transmitir la informaci\u00f3n o contar la historia de una forma m\u00e1s visual y convincente usando s\u00edmbolos. El contenido visual presentado sin pensar en la potencia del simbolismo puede ser simplista. Esta carencia de profundidad es una de las razones principales por la que las noticias pueden parecer insustanciales y sin inter\u00e9s.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "Es importante no abusar de los s\u00edmbolos o usarlos de forma que constituyan un clich\u00e9 o puedan ser interpretadas como propaganda. Tambi\u00e9n es importante recordar que la gente comprende los s\u00edmbolos de formas distintas.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "Aqu\u00ed tiene algunos ejemplos de s\u00edmbolos y c\u00f3mo cambian seg\u00fan se desarrolla la historia:  \n&bull; En una guerra, los soldados van a la caza de un hombre. El pueblo lo oculta, pero amanazan con destruirlo si no aparece. Antes de rendirse \u00e9l simboliza el egoismo; est\u00e1 determinado a permitir que el pueblo entero sufra s\u00f3lo a causa de \u00e9l. Cuando se rinde salva el pueblo, simboliza el valor y la generosidad..  \n&bull; En una carrera presidencial, un pol\u00edtico considera competir contra su hermano. Cuando el pol\u00edtico habla en favor de su hermano, simboliza la lealtad. Cuando proclama su propia candidatura contra su hermano, simboliza la traici\u00f3n.  \n&bull; Un jugador de f\u00fatbol que marca el gol decisivo para ganar la copa, simboliza un heroe. Cuando se revela que es un marido abusador, se le ve como un cobarde.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Un pol\u00edtico que es encontrado culpable de corrupci\u00f3n no logra ser reelegido. \u00c9l simboliza:", 
+            "choices": [
+                {
+                    "text": "La arrogancia.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "El sistema electoral.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "El castigo.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Un soldado herido al que se le dice que nunca volver\u00e1 a caminar de nuevo. Se le confina a silla de ruedas y lucha durante meses hasta que finalmente da sus primeros pasos. \u00c9l simboliza:", 
+            "choices": [
+                {
+                    "text": "Un milagro.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Los malos m\u00e9dicos.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "La determinaci\u00f3n.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "symbols", 
+    "title": "S\u00edmbolos"
+}
