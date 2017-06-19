@@ -1,31 +1,31 @@
 [
   {
-    "instanceFilePath": "org.storymaker.app/photography_2-burundi/1_the_photo_essay/the_photo_essay_library.json", 
-    "thumbnailPath": "org.storymaker.app/photography_2-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/photography_2-ethiopia/1_the_photo_essay/the_photo_essay_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-ethiopia/cover.png", 
     "language": "am", 
     "title": "\u12e8\u134e\u1276 \u133d\u1201\u134d"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/photography_2-burundi/2_photographing_fast_moving_objects/photographing_fast_moving_objects_library.json", 
-    "thumbnailPath": "org.storymaker.app/photography_2-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/photography_2-ethiopia/2_photographing_fast_moving_objects/photographing_fast_moving_objects_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-ethiopia/cover.png", 
     "language": "am", 
     "title": "\u1260\u134d\u1325\u1290\u1275 \u12e8\u121a\u1295\u1240\u1233\u1240\u1231 \u1290\u1308\u122e\u127d\u1295 \u134e\u1276 \u121b\u1295\u1233\u1275"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/photography_2-burundi/3_setting_white_balance/setting_white_balance_library.json", 
-    "thumbnailPath": "org.storymaker.app/photography_2-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/photography_2-ethiopia/3_setting_white_balance/setting_white_balance_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-ethiopia/cover.png", 
     "language": "am", 
     "title": "\u12e8\u1240\u1208\u121d \u121a\u12db\u1295\u1295 \u121b\u12d8\u130b\u1300\u1275"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/photography_2-burundi/4_photographing_different_stories/photographing_different_stories_library.json", 
-    "thumbnailPath": "org.storymaker.app/photography_2-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/photography_2-ethiopia/4_photographing_different_stories/photographing_different_stories_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-ethiopia/cover.png", 
     "language": "am", 
     "title": "\u12e8\u1270\u1208\u12eb\u12e9 \u1273\u122a\u12ae\u127d\u1295 \u134e\u1276\u130d\u122b\u134d \u121b\u1295\u1233\u1275"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/photography_2-burundi/5_photographing_difficult_uncomfortable_situations/photographing_difficult_uncomfortable_situations_library.json", 
-    "thumbnailPath": "org.storymaker.app/photography_2-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/photography_2-ethiopia/5_photographing_difficult_uncomfortable_situations/photographing_difficult_uncomfortable_situations_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-ethiopia/cover.png", 
     "language": "am", 
     "title": "\u12a8\u1263\u12f5 \u12a5\u1293 \u12e8\u121b\u12ed\u1218\u1279 \u1201\u1294\u1273\u12ce\u127d\u1295 \u134e\u1276\u130d\u122b\u134d \u121b\u1295\u1233\u1275"
   }

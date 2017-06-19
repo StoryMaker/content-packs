@@ -1,31 +1,31 @@
 [
   {
-    "instanceFilePath": "org.storymaker.app/journalism_part_1-burundi/1_introduction_to_journalism/introduction_to_journalism_library.json", 
-    "thumbnailPath": "org.storymaker.app/journalism_part_1-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-ethiopia/1_introduction_to_journalism/introduction_to_journalism_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-ethiopia/cover.png", 
     "language": "vi", 
     "title": "Gi\u1edbi thi\u1ec7u v\u1ec1 ngh\u1ec1 b\u00e1o"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/journalism_part_1-burundi/2_social_media_basics/social_media_basics_library.json", 
-    "thumbnailPath": "org.storymaker.app/journalism_part_1-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-ethiopia/2_social_media_basics/social_media_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-ethiopia/cover.png", 
     "language": "vi", 
     "title": "Nh\u1eefng \u0111i\u1ec1u c\u01a1 b\u1ea3n c\u1ee7a truy\u1ec1n th\u00f4ng x\u00e3 h\u1ed9i"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/journalism_part_1-burundi/3_reporting_basics/reporting_basics_library.json", 
-    "thumbnailPath": "org.storymaker.app/journalism_part_1-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-ethiopia/3_reporting_basics/reporting_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-ethiopia/cover.png", 
     "language": "vi", 
     "title": "Nh\u1eefng \u0111i\u1ec1u c\u0103n b\u1ea3n c\u1ee7a b\u1ea3n tin "
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/journalism_part_1-burundi/4_selecting_and_verifying_sources/selecting_and_verifying_sources_library.json", 
-    "thumbnailPath": "org.storymaker.app/journalism_part_1-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-ethiopia/4_selecting_and_verifying_sources/selecting_and_verifying_sources_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-ethiopia/cover.png", 
     "language": "vi", 
     "title": "L\u1ef1a ch\u1ecdn v\u00e0 Ki\u1ec3m ch\u1ee9ng ngu\u1ed3n tin"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/journalism_part_1-burundi/5_interview_techniques/interview_techniques_library.json", 
-    "thumbnailPath": "org.storymaker.app/journalism_part_1-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-ethiopia/5_interview_techniques/interview_techniques_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-ethiopia/cover.png", 
     "language": "vi", 
     "title": "K\u1ef9 thu\u1eadt ph\u1ecfng v\u1ea5n"
   }

@@ -1,37 +1,37 @@
 [
   {
-    "instanceFilePath": "org.storymaker.app/audio-burundi/1_introduction_to_audio/introduction_to_audio_library.json", 
-    "thumbnailPath": "org.storymaker.app/audio-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/audio-ethiopia/1_introduction_to_audio/introduction_to_audio_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-ethiopia/cover.png", 
     "language": "rw", 
     "title": "Intangamarara : Isaha imwe."
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/audio-burundi/2_audio_basics/audio_basics_library.json", 
-    "thumbnailPath": "org.storymaker.app/audio-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/audio-ethiopia/2_audio_basics/audio_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-ethiopia/cover.png", 
     "language": "rw", 
     "title": "Inshingiro ry'amajwi"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/audio-burundi/3_preparation/preparation_library.json", 
-    "thumbnailPath": "org.storymaker.app/audio-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/audio-ethiopia/3_preparation/preparation_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-ethiopia/cover.png", 
     "language": "rw", 
     "title": "Itegugwa"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/audio-burundi/4_types_of_stories/types_of_stories_library.json", 
-    "thumbnailPath": "org.storymaker.app/audio-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/audio-ethiopia/4_types_of_stories/types_of_stories_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-ethiopia/cover.png", 
     "language": "rw", 
     "title": "Ubwoko bw'inkuru"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/audio-burundi/5_storyboarding_recording_plan/storyboarding_recording_plan_library.json", 
-    "thumbnailPath": "org.storymaker.app/audio-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/audio-ethiopia/5_storyboarding_recording_plan/storyboarding_recording_plan_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-ethiopia/cover.png", 
     "language": "rw", 
     "title": "Integuro y'ingene inkuru zitunganijwe gufatwa"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/audio-burundi/6_recording_tips_and_techniques/recording_tips_and_techniques_library.json", 
-    "thumbnailPath": "org.storymaker.app/audio-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/audio-ethiopia/6_recording_tips_and_techniques/recording_tips_and_techniques_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-ethiopia/cover.png", 
     "language": "rw", 
     "title": "Uburyo bworoshe n'Ubuhinga bwo gufata amajwi."
   }

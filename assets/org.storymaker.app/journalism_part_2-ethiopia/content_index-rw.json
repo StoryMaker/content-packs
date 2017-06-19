@@ -1,25 +1,25 @@
 [
   {
-    "instanceFilePath": "org.storymaker.app/journalism_part_2-burundi/1_evolution_of_a_story/evolution_of_a_story_library.json", 
-    "thumbnailPath": "org.storymaker.app/journalism_part_2-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-ethiopia/1_evolution_of_a_story/evolution_of_a_story_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-ethiopia/cover.png", 
     "language": "rw", 
     "title": "Ihinduka ry'inkuru"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/journalism_part_2-burundi/2_introduction_to_ethics_and_professional_standards/introduction_to_ethics_and_professional_standards_library.json", 
-    "thumbnailPath": "org.storymaker.app/journalism_part_2-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-ethiopia/2_introduction_to_ethics_and_professional_standards/introduction_to_ethics_and_professional_standards_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-ethiopia/cover.png", 
     "language": "rw", 
     "title": "Intangamarara kuvyerekeye Ubuntu hamwe N'amategeko Ngenderwako y'Akazi"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/journalism_part_2-burundi/3_using_text/using_text_library.json", 
-    "thumbnailPath": "org.storymaker.app/journalism_part_2-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-ethiopia/3_using_text/using_text_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-ethiopia/cover.png", 
     "language": "rw", 
     "title": "Ugukoresha ijambo"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/journalism_part_2-burundi/4_media_law/media_law_library.json", 
-    "thumbnailPath": "org.storymaker.app/journalism_part_2-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-ethiopia/4_media_law/media_law_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-ethiopia/cover.png", 
     "language": "rw", 
     "title": "Ibinyamakuru"
   }

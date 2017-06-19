@@ -1,31 +1,31 @@
 [
   {
-    "instanceFilePath": "org.storymaker.app/photography_2-burundi/1_the_photo_essay/the_photo_essay_library.json", 
-    "thumbnailPath": "org.storymaker.app/photography_2-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/photography_2-ethiopia/1_the_photo_essay/the_photo_essay_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-ethiopia/cover.png", 
     "language": "rw", 
     "title": "Ukwandikakw'ifoto"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/photography_2-burundi/2_photographing_fast_moving_objects/photographing_fast_moving_objects_library.json", 
-    "thumbnailPath": "org.storymaker.app/photography_2-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/photography_2-ethiopia/2_photographing_fast_moving_objects/photographing_fast_moving_objects_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-ethiopia/cover.png", 
     "language": "rw", 
     "title": "Gufotora ibintu bigenda binyaruka"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/photography_2-burundi/3_setting_white_balance/setting_white_balance_library.json", 
-    "thumbnailPath": "org.storymaker.app/photography_2-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/photography_2-ethiopia/3_setting_white_balance/setting_white_balance_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-ethiopia/cover.png", 
     "language": "rw", 
     "title": "Gukorera kurugezo rwera (r\u00e9glage de la balance des blancs)"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/photography_2-burundi/4_photographing_different_stories/photographing_different_stories_library.json", 
-    "thumbnailPath": "org.storymaker.app/photography_2-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/photography_2-ethiopia/4_photographing_different_stories/photographing_different_stories_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-ethiopia/cover.png", 
     "language": "rw", 
     "title": "Gufata amasanamu y'inkuru zitandukanye"
   }, 
   {
-    "instanceFilePath": "org.storymaker.app/photography_2-burundi/5_photographing_difficult_uncomfortable_situations/photographing_difficult_uncomfortable_situations_library.json", 
-    "thumbnailPath": "org.storymaker.app/photography_2-burundi/cover.png", 
+    "instanceFilePath": "org.storymaker.app/photography_2-ethiopia/5_photographing_difficult_uncomfortable_situations/photographing_difficult_uncomfortable_situations_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-ethiopia/cover.png", 
     "language": "rw", 
     "title": "Ibiringo bigoye mugufata amafoto."
   }
