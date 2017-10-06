@@ -1,0 +1,175 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Tengo mi tel\u00e9fono m\u00f3vil y estoy listo para grabar. \u00bfQu\u00e9 puedo hacer para asegurar que la grabaci\u00f3n sale bien?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; T\u00e9cnicas para evitar problemas comunes grabando audio con un dispositivo m\u00f3vil  \n&bull; C\u00f3mo identificar potenciales causas de audio pobre", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Grabar audio es f\u00e1cil, pero hay muchas maneras de arruinar la grabaci\u00f3n de forma que quede inservible. Para asegurar que esto no ocurre, practique estos pasos simples mientras est\u00e1 grabando una entrevista, dando soporte de audio, o grabando una narraci\u00f3n usted mismo. Seguir estos pasos puede evitar un problema de audio antes de que ocurra. Una vez su audio se haya grabado mal, es extremadamente dif\u00edcil rescatarlo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Ruido de manejo y de agarre](2.png)  \n## Ruido de manejo y de agarre", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "3.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo de ruido de manejo", 
+            "exampleMediaPath": "3.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Al prepararse para grabar, sostenga su dispositivo de forma que est\u00e9 c\u00f3modo y natural. Sostenga el dispositivo sin aplicar mucha presi\u00f3n, de una manera que pueda sostenerlo durante un largo periodo de tiempo. De otro modo, puede o\u00edr \"ruido de manejo\" en su audio, esto ocurre cuando mueve el micro mientras est\u00e1 grabando, y su mano o cualquier otra cosa roza con el micr\u00f3fono. \n![Descansar su codo](1.png) \nSi tiene que sostener el dispositivo de grabaci\u00f3n en alto hacia el personaje durante la entrevista, apoye su codo sobre una superficie s\u00f3lida. Es mejor sentarse, apoyar su codo en una mesa y extender su brazo hacia la fuente de audio.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![Sostenga el micro un poco por debajo de la boca](4.png)  \nSostenga el micr\u00f3fono un poco por debajo de la boca del entrevistado, para que el flujo respiratorio de su boca no cree sonidos de siseos y oclusiones en la grabaci\u00f3n.  \nSi hay una mesa entre usted y la persona que est\u00e1 entrevistando, puede colocar la grabadora sobre la mesa, pero tenga cuidado de que nadie la toque, choque con ella, o golpee la mesa en que se apoya, ya que esto puede causar ruido de contacto.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![Ejemplo de tribuna de micros](5.png)  \nHay varios tipos de tribunas que sirven para grabadoras manuales o smartphones, para sostenerlos en su posici\u00f3n durante la entrevista. Puede hacer su propio soporte usando materiales que tenga. Cualquier cosa que sirva de apoyo a la grabadora y que la mantenga al nivel de la cara de su fuente de audio servir\u00e1.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "## Zumbidos y ruido de fondo", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "6.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo de sonido de aire acondicionado", 
+            "exampleMediaPath": "6.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Detectar sonidos de aires acondicionados y otros sonidos de m\u00e1quinas que pueden arruinar su grabaci\u00f3n de audio, debe hacerse antes de comenzar la grabaci\u00f3n. Cuando llegue a una localizaci\u00f3n, tome nota de cualquier sonido, incluso aquellos que parezcan inocuos. Pregunte si las m\u00e1quinas causantes del ruido pueden apagarse, o sugiera un cambio de localizaci\u00f3n en aras de la calidad del audio. La mayor\u00eda de la gente lo comprender\u00e1 y confiar\u00e1 en su experiencia en el tema.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Siempre considere cu\u00e1nto tiempo tendr\u00e1 que sostener con estabilidad su grabadora antes de comenzar una entrevista. Para entrevistas largas, encuentre una forma c\u00f3moda de sentarse o una tribuna que evite que tenga que cambiar su agarre.  \n&bull; Haga uso de superficies, especialmente algo que pueda usarse como tribuna, para apoyar la grabadora sobre ella a una distancia aceptable de la fuente de audio.  \n&bull; Observe y escuche los sonidos de fondo que pueden da\u00f1ar la calidad de su grabaci\u00f3n cuando llegue por primera vez a una localizaci\u00f3n de grabaci\u00f3n para una entrevista.  \n&bull; Conserve sus ficheros de audio correctamente etiquetados y con copia de seguridad ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfQu\u00e9 es el ruido de manejo?", 
+            "choices": [
+                {
+                    "text": "La m\u00fasica de un compositor famoso", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "El sonido ininterrumpido de fondo de un aire acondicionado.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Sonidos disturbantes causados por su propia mano cuando cambia su agarre o se mueve mientras sostiene una grabadora.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ruido de manejo, es decir, apagar las m\u00e1quinas ruidosas.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfCu\u00e1l de las siguientes se puede usar para evitar el ruido de manejo y mantener su brazo o grabadora estable durante la grabaci\u00f3n?", 
+            "choices": [
+                {
+                    "text": "Mesa.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Tribuna de micros.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Un muro.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todo lo anterior.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfCu\u00e1ndo debe resolver el problema de los sonidos del aire acondicionado u otras m\u00e1quinas?", 
+            "choices": [
+                {
+                    "text": "Cuando llegue a la localizaci\u00f3n, antes de comenzar a grabar.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "En medio de la entrevista.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Durante el proceso de edici\u00f3n.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Apague todas las m\u00e1quinas 24 horas antes de su entrevista.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "recording_tips_and_techniques", 
+    "title": "T\u00e9cnicas y consejos de grabaci\u00f3n"
+}

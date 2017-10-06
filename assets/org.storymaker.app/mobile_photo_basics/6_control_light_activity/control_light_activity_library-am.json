@@ -1,0 +1,73 @@
+{
+    "title": "\u1265\u122d\u1203\u1295 \u1218\u1246\u1323\u1320\u122d \u1218\u120d\u1218\u1303 ", 
+    "storyPathTemplateFiles": {
+        "control_light_activity": "control_light_activity.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "control_light", 
+            "dependencyFile": "../6_control_light/control_light.json"
+        }, 
+        {
+            "dependencyId": "control_light_activity", 
+            "dependencyFile": "control_light_activity.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "tips": [
+                {
+                    "text": "\u121d\u12ad\u122d\u1366 \u12a8\u1300\u122d\u1263 \u12e8\u121a\u1218\u1323 \u1265\u122d\u1203\u1295 \u134e\u1276 \u1270\u1290\u123a\u12cd\u1295 \u12a0\u1325\u1241\u122e \u1208\u121b\u12e8\u1275 \u12a0\u1235\u1278\u130b\u122a \u12eb\u12f0\u122d\u1308\u12cb\u120d\u1362", 
+                    "tags": [
+                        "light"
+                    ]
+                }, 
+                {
+                    "text": "\u121d\u12ad\u122d\u1366 \u12a0\u1290\u1235\u1270\u129b \u1265\u122d\u1200\u1295 \u1325\u1229 \u12eb\u120d\u1206\u1290 \u121d\u1235\u120d\u1295 \u120a\u12eb\u1225\u12a8\u1275\u120d \u12ed\u127d\u120b\u120d\u1362 \u1325\u1229 \u1265\u122d\u1203\u1295 \u1263\u1208\u1260\u1275 \u12ad\u134d\u120d \u12cd\u1235\u1325 \u12c8\u12ed\u121d \u12a8\u1264\u1275 \u12cd\u132a \u1218\u1245\u1228\u133d \u1260\u1323\u121d \u1325\u1229 \u1265\u122d\u1203\u1295 \u120a\u1230\u1325\u12ce\u1275 \u12ed\u127d\u120b\u120d\u1362 ", 
+                    "tags": [
+                        "light"
+                    ]
+                }, 
+                {
+                    "text": "\u121d\u12ad\u122d\u1366 \u1265\u122d\u1203\u1291 \u12a8\u121a\u1240\u1228\u1338\u12cd \u130d\u1208\u1230\u1265 3 \u132b\u121b \u12eb\u1205\u120d \u122d\u1240\u1275 \u120b\u12ed \u1260\u121a\u1206\u1295\u1260\u1275 \u130a\u12dc \u121d\u1235\u120d\u1295 \u12eb\u1233\u121d\u122b\u120d\u1362", 
+                    "tags": [
+                        "light"
+                    ]
+                }, 
+                {
+                    "text": "\u121d\u12ad\u122d\u1366 \u1325\u1229 \u134e\u1276\u130d\u122b\u134d \u12e8\u121b\u1295\u1233\u1275 \u12cb\u1293\u12cd \u121a\u1235\u1325\u122d \u12e8\u1265\u122d\u1203\u1295 \u12a0\u1320\u1243\u1240\u121d \u1290\u12cd\u1362 \u1260\u12c8\u1245\u1271 \u12eb\u1208\u12cd\u1295 \u1265\u122d\u1203\u1295 \u1260\u1270\u127b\u1208\u12ce\u1275 \u1218\u1320\u1295 \u1260\u12a0\u130d\u1263\u1261 \u12ed\u1320\u1240\u1219\u1362 ", 
+                    "tags": [
+                        "light"
+                    ]
+                }, 
+                {
+                    "text": "\u121d\u12ad\u122d\u1366 \u134e\u1276 \u12e8\u121a\u1290\u1233\u12cd \u12a0\u12ab\u120d \u1260\u1323\u121d \u12e8\u1270\u123b\u1208 \u1265\u122d\u1200\u1295 \u12c8\u12f3\u1208\u1260\u1275 \u1235\u134d\u122b \u1218\u1295\u1240\u1233\u1240\u1235\u1295 \u12a5\u1295\u12f0 \u12a0\u1295\u12f5 \u12a0\u121b\u122b\u132d \u12ed\u12eb\u12d9\u1362", 
+                    "tags": [
+                        "light"
+                    ]
+                }, 
+                {
+                    "text": "\u121d\u12ad\u122d\u1366 \u12a8\u134e\u1276 \u1270\u1290\u123a\u12ce\u127d \u1300\u122d\u1263 \u12ab\u1208 \u12f0\u121b\u1245 \u1265\u122d\u1203\u1295 \u12ed\u1320\u1295\u1240\u1241\u1362", 
+                    "tags": [
+                        "light"
+                    ]
+                }
+            ], 
+            "type": "TipCollectionHeadlessCard", 
+            "id": "tip_collection"
+        }, 
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "control_light_activity"
+        }
+    ], 
+    "currentStoryPathFile": "control_light_activity.json", 
+    "id": "control_light_activity"
+}

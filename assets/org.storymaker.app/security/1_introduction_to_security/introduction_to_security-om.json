@@ -1,0 +1,31 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "SEENSA NAGEENYAA", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Amma, namoonni dhuunfaa addunyaarraa kamiyyuu oduu tasaa kan waggaa 20 dura kutaa oduu beekamoo rakkisaa turan dabarsuu danda'u. Waliindhiin karaa bilbila ammayyaa dabalaa deemuuni fi kaffaltiin tajaajila interneetii gadi bu'aa deemuun akka danda'amu godhaniiru.\nWaliindhiin kun immoo rakkoo haaraas jiraattotaa fi gaazexeessitoota irratti fideera. Karaa beekamaadhaan karaarra wal quunnamuun yookaan bilbilaan wal quunnamuun faana dhiisee darbuudhaan nama dandeettii qabuun hoogganamuu danda'a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Gaazexeessitooti, aktiivistoota fi eenyuyyuu kan hojiinkoo rakkoo keessa na galcha jedhee yaadu karaa baaratamaa hin ta''iniin wal qunnamtii geggeeffachuu qaba. Faanni kun rakkoo keessa si galchuu qofa utuu hin taane, maddakee, namooti ati quunnamtu, kan wajjin hojjettu rakkoo keessa galchuu danda'a. Dirqama ofiikee duwwaa eeguu utuu hin taane, kan qaama hojiikeetiin miidhamuus eeguu qabda.  \nKutaan kanaa gaditti jiran dursa akka rakkoo keessa jirtu akka bartuuf si gargaaru. Kutaa kana erga xumurtee, rakkoo si mudatuu fi qaama biraa mudatu barta. Kutaan inni xumuraa, tarkaanfilee of eeguuf fudhattu dhiyeessa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "introduction_to_security", 
+    "title": "Seensa Nageenyaa"
+}

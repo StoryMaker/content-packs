@@ -1,0 +1,68 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/1_know_your_mobile/know_your_mobile_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "om", 
+    "title": "Bilbilakee sammuutti qabadhu"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/2_compose_with_a_grid/compose_with_a_grid_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "om", 
+    "title": "Tarsaan Qopheessi"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/2_compose_with_a_grid_activity/compose_with_a_grid_activity_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "om", 
+    "title": "Hojii Tarsaatiin Qopheessi"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/3_create_layers/create_layers_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "om", 
+    "title": "Baqqaana Uumi"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/3_create_layers_activity/create_layers_activity_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "om", 
+    "title": "Baqqaana Gochaa Uumi"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/4_capture_peak_action/capture_peak_action_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "om", 
+    "title": "Fiixee Hojii Qabadhu"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/4_capture_peak_action_activity/capture_peak_action_activity_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "om", 
+    "title": "Gocha Hojii Fiixee Qabadhu"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/5_shoot_on_an_angle/shoot_on_an_angle_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "om", 
+    "title": "Kofarraan Kaasuu"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/5_shoot_on_an_angle_activity/shoot_on_an_angle_activity_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "om", 
+    "title": "Gocha Kofarraan Kaasi"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/6_control_light/control_light_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "om", 
+    "title": "Ifa tu'adhu"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/6_control_light_activity/control_light_activity_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "om", 
+    "title": "Gocha Ifaa Hoogganuu"
+  }
+]

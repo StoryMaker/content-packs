@@ -1,0 +1,79 @@
+{
+    "cards": [
+        {
+            "level": "\u1218\u130d\u1262\u12eb ", 
+            "headline": "\u121d\u1295 \u12a5\u121b\u122b\u1208\u1201 \u1265\u1208\u12cd \u1270\u1235\u134b \u12eb\u12f0\u122d\u130b\u1209? ", 
+            "time": "? Minutes", 
+            "exampleMediaPath": "cover.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "\u1201\u120b\u127d\u1201\u121d \u1260\u12e8\u122b\u1233\u127d\u1201 \u1235\u120d\u12ad \u1260\u1218\u1300\u1218\u122a\u12eb \u1313\u12f0\u129b\u127d\u1201\u1295 \u1243\u1208 \u1218\u1320\u12ed\u1245 \u12a0\u12f5\u122d\u1309 \u12a5\u1293 \u1260\u1218\u1240\u1320\u120d \u1313\u12f0\u129b\u127d\u1201 \u1260\u1270\u122b\u12cd \u1243\u1208 \u1218\u1320\u12ed\u1245 \u12eb\u12f5\u122d\u130d\u120b\u127d\u1201\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "text": "\u201c\u126a\u12f2\u12ee \u1235\u1208\u121b\u12d8\u130b\u1300\u1275 \u121d\u1295 \u12a5\u121b\u122b\u1208\u1201 \u1265\u1208\u12cd \u1270\u1235\u134b \u12eb\u12f0\u122d\u130b\u1209?\" \u1265\u1208\u12cd \u12a0\u130b\u122d\u12ce\u1295 \u12ed\u1320\u12ed\u1241\u1362 ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "\u1313\u12f0\u129b\u12ce\u1295 \u1208\u1218\u1235\u121b\u1275 \u1260\u121a\u12eb\u1235\u127d\u120d\u12ce\u1275 \u122d\u1240\u1275 \u120b\u12ed \u1218\u1206\u1295\u12ce\u1295 \u12eb\u1228\u130b\u130d\u1321\u1362  ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "text": "\u12a8\u1300\u122d\u1263 \u1283\u12ed\u1208\u129b \u132b\u132b\u1273 \u12ab\u1208 \u12a0\u12f2\u1235 \u1266\u1273 \u12ed\u1348\u120d\u1309\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.png", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "\u12e8\u130d\u1295\u1263\u122d \u1266\u1273 \u121d\u1233\u120c ", 
+            "exampleMediaPath": "2.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "\u1325\u12eb\u1244\u1366 \u126a\u12f2\u12ee \u1235\u1208\u121b\u12d8\u130b\u1300\u1275 \u121d\u1295 \u12a5\u121b\u122b\u1208\u1201 \u1265\u1208\u12cd \u1270\u1235\u134b \u12eb\u12f0\u122d\u130b\u1209? "
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "\u12e8\u12ad\u120a\u1351\u1295 \u121d\u1235\u120d \u1260\u1218\u1295\u12ab\u1275 \u12ed\u1241\u1228\u1321\u1275\u1362 ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "\u1260\u122d\u12ab\u1273 \u12a0\u132b\u132d\u122d \u126a\u12f2\u12ee\u12ce\u127d\u1295 \u12e8\u1240\u1228\u1339 \u12a8\u1206\u1290 \u12a8\u121b\u1270\u121d\u12ce \u1260\u134a\u1275 \u12e8\u1218\u1228\u1321\u1275\u1295 \u1265\u127b \u12a0\u1235\u1240\u122d\u1270\u12cd \u1201\u1209\u1295\u121d \u12eb\u1325\u1349\u1275\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }, 
+        {
+            "text": "\u12a0\u12ed\u1228\u1260\u1239 \u1201\u1209\u121d \u12a0\u132d\u122d \u126a\u12f2\u12ee\u12ce\u127d\u12ce \u1260\u130b\u1208\u122a\u12ce \u12cd\u1235\u1325 \u1270\u1240\u121d\u1320\u12cb\u120d\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "g_odvw_0", 
+    "title": "\u121d\u1295 \u12a5\u121b\u122b\u1208\u1201 \u1265\u1208\u12cd \u1270\u1235\u134b \u12eb\u12f0\u122d\u130b\u1209?  "
+}

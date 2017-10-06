@@ -1,0 +1,13 @@
+{
+    "t_process_profile_video::text_card_0::text": "ሂደቱን በሚያስረዱበት ወቅት የተለያዩ ቅንብሮችን ማግኘትዎን ያረጋግጡ። አንዳንድ ከሰፊ አንግል፣ ከቅርብ ርቀት እና ከመካከለኛ ርቀት የተነሱ ቀረጻዎች ሊኖሩዎት ይገባል። ገጸ ባህሪዎ በሁሉም ቀረጻ ውስጥ እንዲኖር አይጠበቅበትም።",
+    "t_process_profile_video::clip_card_7::goals[0]": "ሂደቱ ታዳሚ ካለው ታዳሚው የሚሰጠውን ምላሽ ያሳዩ። ",
+    "t_process_profile_video::clip_card_0::goals[0]": "ገጸ ባህሪዎ ሂደቱን ለመጀመር ሲሰናዳ ያሳዩ። ",
+    "t_process_profile_video::clip_card_3::goals[0]": "በሂደቱ ውስጥ የሚቀጥለውን አብይ ደረጃ ያሳዩ።",
+    "t_process_profile_video::clip_card_1::goals[0]": "የሂደቱን ጅማሬ ወይም የመጀመርያ ደረጃ ያሳዩ። ",
+    "t_process_profile_video::clip_card_4::goals[0]": "በሂደቱ ውስጥ የሚቀጥለውን አብይ ደረጃ ያሳዩ።",
+    "t_process_profile_video::title": "የግለ ታሪክ ሂደት",
+    "t_process_profile_video::clip_card_5::goals[0]": "በሂደቱ ውስጥ የሚቀጥለውን አብይ ደረጃ ያሳዩ።",
+    "t_process_profile_video::clip_card_6::goals[0]": "አጠቃላይ ሂደቱን አጠር አድርጎ የሚያሳይ አንድ አጭር ቪዲዮ ይቅረጹ።",
+    "t_process_profile_video::clip_card_8::goals[0]": "ገጸ ባህሪዎ ሂደቱን ሲፈጽም ይቅረጹ።",
+    "t_process_profile_video::clip_card_2::goals[0]": "ሂደቱ በመከናወን ላይ ያለበትን ቦታ ያሳዩ።"
+}

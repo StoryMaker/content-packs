@@ -1,0 +1,140 @@
+{
+    "cards": [
+        {
+            "text": "# Wie strukturiere ich meine Geschichte, damit diese eine zentrale Frage, einen H\u00f6hepunkt und eine Aufl\u00f6sung beinhaltet?\n## In dieser Lektion lernst du:\n&bull; Wie kombinierst du zentrale Frage, H\u00f6hepunkt und Aufl\u00f6sung in deiner Geschichte.\n&bull; Wie Geschichts- oder Spannungsb\u00f6gen f\u00fcr Nachrichten gelten.\n&bull; Wie man einen Bogen ohne klare Aufl\u00f6sung erstellt.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "In den vorangegangenen Lektionen hast du die grundlegenden Strukturkomponenten einer Geschichte kennen gelernt: Zentrale Frage, H\u00f6hepunkt und Aufl\u00f6sung. Du musst diese Elemente f\u00fcr maximale Wirkung in deiner Geschichte organisieren. Dies geschieht mit einer Struktur, welche dein Geschichtsbogen oder manchmal Spannungsbogen genannt wird. F\u00fcr k\u00fcrzere Geschichten und Berichte ist der Bogen einfach: z.B. chronologisch organisiert.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Eine beeindruckende Geschichte f\u00fchrt von einer Einf\u00fchrung einer zentralen Frage zu einem H\u00f6hepunkt, an dem die zentrale Frage beantwortet wird und abschlie\u00dfend zu einer Aufl\u00f6sung, die die Konsequenz oder den Effekt offenlegt. Die besten Geschichten lassen das Publikum immer wieder \"Was geschieht als N\u00e4chstes?\" fragen, wenn man von Komponente zu Komponente fortschreitet. Jede Komponente der Geschichte soll in einer Abfolge pr\u00e4sentiert werden, welche Spannung aufbaut. Diese Komponenten, auch Schritte genannt, formen einen Bogen.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![Arc](1.png) \nDies ist der klassische Spannungsbogen in einer beeindruckenden Geschichte. Geschichten, welche dem Weg eines stufenweisen Anstiegs der Spannung von einer zentralen Frage bis zum H\u00f6hepunkt, welcher die Frage beantwortet folgen und eine Aufl\u00f6sung erreichen, stellen eine \u00fcberzeugende Erfahrung f\u00fcr das Publikum dar.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Dieses Konzept kommt vom Schreiben fiktionaler Geschichten, funktioniert aber auch f\u00fcr Nachrichten und Journalismus. Wenn du vorhast Berichte zu schreiben musst du dich auf Fakten verlassen und darauf, welches Material du beschaffen kannst, aber du kannst immer noch faszinierende Geschichten erz\u00e4hlen, indem du dieses Konzept anwendest. Das Verlangen eine fesselnde Struktur deiner Geschichte zu erstellen soll nicht deine Berichterstattung beeinflussen. Die Geschichte soll deinem Journalismus dienen und ihn aufbessern. Dein Journalismus soll nicht der Geschichte dienen.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "Der Bogen f\u00fcr manche Geschichten erreicht eventuell den finalen H\u00f6hepunkt und die Aufl\u00f6sung nicht vor deiner Abgabefrist. Du muss vielleicht einen begrenzten Kurzzeit H\u00f6hepunkt finden. In manchen F\u00e4llen ist der Fakt keine sofortige Aufl\u00f6sung zu haben selbst eine Art von H\u00f6hepunkt. Zum Beispiel: falls trotz wiederholter Autounf\u00e4lle \u00f6rtliche Beamte nichts unternehmen um Stra\u00dfenkreuzungen sicherer zu machen.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "Wenn du an einer Geschichte arbeitest, welche sich nicht bis nach deiner Abgabefrist aufl\u00f6st, kannst du dich vielleicht f\u00fcr eine Spekulation eines wahrscheinlichen Ausgangs entscheiden oder \u00fcber die Zukunft deiner Erz\u00e4hlung reden. Stelle sicher deine zentrale Frage in deiner Schlussfolgerung zu adressieren.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## WICHTIGE PUNKTE\n&bull; Geschichten werden als Bogen konstruiert um Spannung aufzubauen und das Publikum bei Interesse zu halten.\n&bull; Dein Bogen kann mit Einf\u00fchrungsmaterial beginnen, bevor das Publikum die zentrale Frage kennt.\n&bull; Nicht alle Geschichten haben rechtzeitig f\u00fcr deinen Abgabetermin eine finale Aufl\u00f6sung.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Wahr oder Falsch: Ich habe eine \u00fcberzeugende Geschichte, solange ich die Komponenten einer zentralen Frage und eines H\u00f6hepunkts in der Geschichte habe.", 
+            "choices": [
+                {
+                    "text": "Wahr", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falsch", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "In welcher Reihenfolge sollte ich die Komponenten f\u00fcr eine aussagekr\u00e4ftigen Handlungsbogen strukturieren?", 
+            "choices": [
+                {
+                    "text": "Solange ich alle Komponenten miteinbeziehe wird meine Story gut sein.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Der Klimax sollte zuerst kommen; die anderen Komponenten spielen noch keine Rolle.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Die Story beginnt mit der Einweisung der Hauptfrage, geht zum Klimax \u00fcber und endet mit der Aufl\u00f6sung.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Die Story beginnt mit der Einweisung der Hauptfrage, geht zum Klimax \u00fcber und endet mit der Aufl\u00f6sung.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Wahr oder Falsch: Ich kann einleitendes Material benutzen, um die Story zu starten bevor ich die zentrale Frage spezifiziere.", 
+            "choices": [
+                {
+                    "text": "Wahr", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falsch", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "Wie kann ich eine Geschichte mit einem Bogen schreiben, falls keine Aufl\u00f6sung meiner Geschichte zur Ver\u00f6ffentlichungszeit vorhanden ist? (Es kann mehr als eine Antwort geben.)", 
+            "choices": [
+                {
+                    "text": "Es ist okay, eine Vermutung aufzustellen, solange es eine Aufl\u00f6sung gibt.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Ich brauche mir darum keine Sorgen machen.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Ich kann einen kurzen Klimax in einer gr\u00f6\u00dferen, andauernden Geschichte benutzen.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ich kann eine Quelle miteinbeziehen, um \u00fcber das Endergebnis zu spekulieren.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "arc", 
+    "title": "Bogen"
+}

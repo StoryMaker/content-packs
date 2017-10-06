@@ -1,0 +1,32 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-ethiopia/1_introduction_to_journalism/introduction_to_journalism_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-ethiopia/cover.png", 
+    "language": "en", 
+    "title": "Introduction to Journalism"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-ethiopia/2_social_media_basics/social_media_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-ethiopia/cover.png", 
+    "language": "en", 
+    "title": "Social Media Basics"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-ethiopia/3_reporting_basics/reporting_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-ethiopia/cover.png", 
+    "language": "en", 
+    "title": "Reporting Basics"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-ethiopia/4_selecting_and_verifying_sources/selecting_and_verifying_sources_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-ethiopia/cover.png", 
+    "language": "en", 
+    "title": "Selecting and Verifying Sources"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_1-ethiopia/5_interview_techniques/interview_techniques_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_1-ethiopia/cover.png", 
+    "language": "en", 
+    "title": "Interview Techniques"
+  }
+]

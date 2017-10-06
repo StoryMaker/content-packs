@@ -1,0 +1,16 @@
+{
+    "t_photo_process::clip_card_3::goals[0]": "Fotografíe la siguiente fase significativa del proceso.",
+    "t_photo_process::text_card_1::text": "Asegúrese de obtener una gama de composiciones al ilustrar el proceso. Algunos planos amplios, planos cortos, y medios. Su personaje no tiene que estar en cada imagen.",
+    "t_photo_process::ms_moreinfo::text": "Acerca de esta plantilla",
+    "t_photo_process::clip_card_7::goals[0]": "Si el proceso se realiza ante una audiencia, fotografíe su reacción.",
+    "t_photo_process::title": "Proceso",
+    "t_photo_process::clip_card_6::goals[0]": "Dispare una foto que resuma el proceso.",
+    "t_photo_process::clip_card_0::goals[0]": "Muestre a su personaje preparándose para comenzar el proceso.",
+    "t_photo_process::clip_card_4::goals[0]": "Fotografíe la siguiente fase significativa del proceso.",
+    "t_photo_process::clip_card_1::goals[0]": "Muestre el principio mismo o la primera fase del proceso.",
+    "t_photo_process::clip_card_8::goals[0]": "Fotografíe a su personaje mientras completa el proceso.",
+    "t_photo_process::clip_card_2::goals[0]": "Fotografíe donde está teniendo lugar el proceso.",
+    "t_photo_process::clip_card_5::goals[0]": "Fotografíe la siguiente fase significativa del proceso.",
+    "t_photo_process::text_card_0::text": "Las historias de proceso describen como se hace algo o cómo se despliega un evento. Las historias de proceso habitualmente usan la cronología como su principio organizativo. La historia muestra algo desde el principio hasta el final, exhibiendo los momentos más dramáticos y descartando los elementos menos interesantes de la historia. La entrevista o narración se usará como la voz sobre las secuencias que ilustran el proceso, aunque esto no es un requerimiento. Este formato es bueno para la cobertura de eventos y elaboración de perfiles.",
+    "t_photo_process::ms_moreinfo::header": "Siguiente"
+}

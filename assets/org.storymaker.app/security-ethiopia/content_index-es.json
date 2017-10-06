@@ -1,0 +1,44 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/security-ethiopia/1_introduction_to_security/introduction_to_security_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "Introducci\u00f3n a la seguridad"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-ethiopia/2_how_do_my_communications_put_me_at_risk/how_do_my_communications_put_me_at_risk_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "\u00bfC\u00f3mo me ponen en riesgo mis comunicaciones?"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-ethiopia/3_how_can_i_use_sms_safely/how_can_i_use_sms_safely_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "C\u00f3mo Puedo Usar un Navegador con Seguridad"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-ethiopia/4_how_can_i_use_a_browser_safely/how_can_i_use_a_browser_safely_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "\u00bfC\u00f3mo puedo usar un navegador de forma segura?"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-ethiopia/5_how_can_i_send_email_safely/how_can_i_send_email_safely_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "C\u00f3mo Puedo Usar un Navegador con Seguridad"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-ethiopia/6_what_makes_a_password_strong/what_makes_a_password_strong_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "Qu\u00e9 hace que una contrase\u00f1a sea fuerte"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-ethiopia/7_how_do_i_effectively_use_pseudonyms/how_do_i_effectively_use_pseudonyms_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "How Do I Effectively Use Pseudonyms"
+  }
+]

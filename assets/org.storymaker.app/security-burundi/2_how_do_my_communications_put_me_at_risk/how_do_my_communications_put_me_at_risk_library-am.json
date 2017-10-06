@@ -1,0 +1,23 @@
+{
+    "title": "\u12e8\u121b\u12f0\u122d\u130b\u1278\u12cd \u130d\u1295\u1299\u1290\u1276\u127d \u1208\u12a0\u12f0\u130b \u120a\u12eb\u130b\u120d\u1321\u129d \u12e8\u121a\u127d\u1209\u1275 \u12a5\u1295\u12f4\u1275 \u1290\u12cd?", 
+    "storyPathTemplateFiles": {
+        "how_do_my_communications_put_me_at_risk": "how_do_my_communications_put_me_at_risk.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "how_do_my_communications_put_me_at_risk", 
+            "dependencyFile": "how_do_my_communications_put_me_at_risk.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "how_do_my_communications_put_me_at_risk"
+        }
+    ], 
+    "currentStoryPathFile": "how_do_my_communications_put_me_at_risk.json", 
+    "id": "how_do_my_communications_put_me_at_risk"
+}

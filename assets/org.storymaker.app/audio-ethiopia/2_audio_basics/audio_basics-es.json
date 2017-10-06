@@ -1,0 +1,175 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Nunca he grabado una audio historia. \u00bfCu\u00e1les son los fundamentos que debo conocer?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:\n&bull; C\u00f3mo confirmar que est\u00e1 grabando el sonido que espera\n&bull; C\u00f3mo grabar m\u00faltiples fuentes de audio para hacer que su historia", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "La grabaci\u00f3n de audio no es tan complicada como la de video o la toma de fotos, pero requiere conocimientos t\u00e9cnicos b\u00e1sicos combinados con un buen plan para contar una historia usando solo sonido. Dado que no hay imagen, debes ayudar a la audiencia a visualizar la historia a trav\u00e9s del uso de sonidos. Sonidos claros e interesantes pueden pintar un buen cuadro en la mente de cualquiera que escuche. El truco es presentar esos sonidos de la mejor manera posible para crear una imagen mental convincente.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## T\u00e9cnicas de grabaci\u00f3n \nSi est\u00e1 grabando voces o capturando sonidos de ambiente para utilizar en su historia, aseg\u00farese de que est\u00e1 grabando sonido que pueda ser o\u00eddo con claridad. Usted no desea pensar que ha grabado algo aprovechable para su historia y descubrir que ha perdido una parte, que no grab\u00f3 nada, o que el volumen es tan bajo que la grabaci\u00f3n no es inteligible. Pruebe el volumen antes de grabar; aseg\u00farese de que no est\u00e1 muy alto o muy bajo, y que los sonidos muy agudos y repentinos, tales como pasar una p\u00e1gina de pronto, o bocinas e coches en el exterior, no har\u00e1n inaudible el contenido que quiera grabar. Una vez que comience a grabar, aseg\u00farese de esperar unos pocos segundos antes de hablar, y de hacer lo mismo antes de pulsar el bot\u00f3n para dejar de grabar; proporcione unos pocos segundos extra de silencio.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "3.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo de una grabaci\u00f3n de audio donde algunos sonidos son demasiado ruidosos.", 
+            "exampleMediaPath": "3.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "4.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo de c\u00f3mo grabar silencio antes y depu\u00e9s de su corte.", 
+            "exampleMediaPath": "4.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "## Utilizar fuentes de audio\nEsta pintando un cuadro y creando la historia en la mente del oyente. Puede pintar ese cuadro usando muchas fuentes de audio, incluyendo las voces de la gente, los sonidos de un evento, su propia voz (din\u00e1mica y emocional) explicando o narrando una historia, y sonidos de ambiente que recreen la escena, tales como hombres trabajando, manifestantes entonando c\u00e1nticos, los sonidos de una cocina. Cualquier historia concreta puede tener m\u00faltiples fuentes de audio que cuando se utilizan juntas contar\u00e1n una gran historia que los oyentes podr\u00e1n ver y sentir.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "5.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo del uso de fuentes de audio.", 
+            "exampleMediaPath": "5.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "6.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo del uso de fuentes de audio.", 
+            "exampleMediaPath": "6.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR   \n&bull; Inicie la grabaci\u00f3n antes de formular una pregunta, dejando unos pocos segundos de silencio antes de hablar. Cuando su pregunta sea respondida, grabe unos pocos segundos de silencio al final antes de detener la grabaci\u00f3n.\n&bull; Utilice auriculares, compruebe el volumen de su audio con una grabaci\u00f3n corta antes de comenzar la grabaci\u00f3n de los cortes a usar en su historia. \n&bull; Utilizar m\u00faltiples fuentes de audio para contar su historia.\n&bull; Busque distintos sonidos, y citas que le ayudar\u00e1n a contar su historia. Intente utilizar su propia voz tan poco como sea posible para contar la historia a trav\u00e9s de las voces de otros.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfQu\u00e9 debo hacer para asegurarme de que el volumen de mi audio es correcto?", 
+            "choices": [
+                {
+                    "text": "Lleve los auriculares puestos durante la grabaci\u00f3n.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Haga una grabaci\u00f3n de prueba antes de comenzar.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Si tiene una configuraci\u00f3n de volumen de audio, aj\u00fastela adecuadamente.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todas las de arriba", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "S\u00ed o No: \u00bfPuede una buena historia tener m\u00e1s de una fuente de audio?", 
+            "choices": [
+                {
+                    "text": "No", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "S\u00ed", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "S\u00ed, pero s\u00f3lo dos fuentes como m\u00e1ximo.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfPor qu\u00e9 debe pulsar grabar y esperar cinco segundos antes de comenzar a hablar?", 
+            "choices": [
+                {
+                    "text": "Para darle cinco segundos para recordar sus preguntas.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Para hacer su historia m\u00e1s interesante.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Para asegurarse de que no corta el principio de una grabaci\u00f3n.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "audio_basics", 
+    "title": "Fundamentos de audio"
+}

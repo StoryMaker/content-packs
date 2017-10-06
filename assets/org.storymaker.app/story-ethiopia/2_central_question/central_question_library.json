@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "central_question", 
+            "dependencyFile": "central_question.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Central Question", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "central_question"
+        }
+    ], 
+    "currentStoryPathFile": "central_question.json", 
+    "storyPathTemplateFiles": {
+        "central_question": "central_question.json"
+    }, 
+    "id": "central_question"
+}

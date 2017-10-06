@@ -1,0 +1,14 @@
+{
+    "t_process_profile_audio::clip_card_0::goals[0]": "ገጸ ባህሪዎ ሂደቱን ለመጀመር ሲሰናዳ ይቅረጹ። ",
+    "t_process_profile_audio::clip_card_3::goals[0]": "ገጸ ባህሪዎን በሂደቱ ውስጥ ቀጥሎ ያለው አብይ ደረጃ ላይ ይቅረጹ። ",
+    "t_process_profile_audio::clip_card_7::goals[0]": "ታሪኩን ይደምድሙት፤ እንዴት እንደተጠናቀቀ ይንገሩን። ",
+    "t_process_profile_audio::text_card_1::text": "የተለያዩ አይነት ድምጾችን ማለትም ገጸባህሪው ገለጻ ሲያደርግ፣ ለውጥን ወይም በሂደት ውስጥ ያሉ ለየት ያሉ ደረጃዎችን የሚጠቁሙ  ድምጾችን ይቅረጹ።",
+    "t_process_profile_audio::clip_card_7::goals[1]": "ገጸ ባህሪዎ ሂደቱን ሲያጠናቅቅ ይቅረጹ።",
+    "t_process_profile_audio::clip_card_2::goals[0]": "ሂደቱ የሚከናወንበትን ቦታ የሚያሳውቅ ድምጽ ይቅረጹ",
+    "t_process_profile_audio::clip_card_5::goals[0]": "ሂደቱ ታዳሚ ካለው ታዳሚው የሚሰጠውን ምላሽ ይቅረጹ። ",
+    "t_process_profile_audio::text_card_0::text": "ሂደቱን ለማስረዳት አስፈላጊ የሆኑ ድምጾች ላይ ትኩረት ያድርጉ። ከጅምሩ እስከ ፍጻሜው ያለውን ሂደት ከሚያስረዱ አካሄዶች በስተቀር ሁሉም ነገር ላያስፈልግዎት ይችላል።",
+    "t_process_profile_audio::title": "የግለ ታሪክ ሂደት",
+    "t_process_profile_audio::clip_card_4::goals[0]": "ለታዳሚው ምን እየተካሄደ እንዳለ የሚያስረዳ ድምጽን ይቅረጹ። ",
+    "t_process_profile_audio::clip_card_1::goals[0]": "የሂደቱን ጅማሬ ወይም የመጀመርያ ደረጃ ይቅረጹ። ",
+    "t_process_profile_audio::clip_card_6::goals[0]": "ገጸ ባህሪዎ ሂደቱን ሲፈጽም ይቅረጹ።"
+}

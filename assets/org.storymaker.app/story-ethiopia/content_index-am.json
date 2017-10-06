@@ -1,0 +1,44 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/1_introduction_to_story/introduction_to_story_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "am", 
+    "title": "\u12e8\u1273\u122a\u12ad \u12a0\u133b\u133b\u134d\u1366\u1218\u130d\u1262\u12eb "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/2_central_question/central_question_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "am", 
+    "title": "\u121b\u12d5\u12a8\u120b\u12ca \u1325\u12eb\u1244 "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/3_climax/climax_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "am", 
+    "title": "\u1321\u12d8\u1275 "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/4_resolution/resolution_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "am", 
+    "title": "\u12a5\u120d\u1263\u1275 "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/5_arc/arc_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "am", 
+    "title": "\u12e8\u1273\u122a\u12ad \u1202\u12f0\u1275 \u1245\u1235\u1275 "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/6_deeper_meaning/deeper_meaning_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "am", 
+    "title": "\u1325\u120d\u1245\u1275 \u12eb\u1208\u12cd \u1275\u122d\u1309\u121d"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/7_symbols/symbols_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "am", 
+    "title": "\u121d\u120d\u12ad\u1276\u127d "
+  }
+]

@@ -1,0 +1,119 @@
+---
+    id: t_ukraine_school_cj_1_extrajudicial_killing
+    title: Люди и война
+    cards:
+
+        -
+            type: IntroCard
+            exampleMediaPath: Extrajudicial_Killing.jpg
+            headline: 'Люди и война'
+            level: 'Начинающий |'
+            time: '15-30 минут'
+
+        -
+            type: TextCard
+            text: '«СторіМейкер» приглашает к созданию фото и видео сюжетов о жизни людей,  чьи судьбы изменила война на Востоке Украины, тех, кто спасаясь от вооруженного конфликта и преследований, покинул свои дома и бежал в другие города и страны, тех, кто был вынужден вернуться обратно и тех, кто остался жить на оккупированной территории.'
+
+        -
+            type: TextCard
+            text: 'При создании сюжета, вы можете ориентироваться на предлагаемый ниже список примерных вопросов:'
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Попросите героя рассказать, как война изменила его жизнь.'
+            clipType: result
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Как он воспринял общественно-политические изменения в своем регионе?'
+            clipType: place
+            length: 0:30
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Какова была первая реакция на начало военных действий?'
+            clipType: result
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Где он сейчас живет, почему он принял решение жить в этом месте?'
+            clipType: result
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Как отреагировали его близкие и друзья на это решение?'
+            clipType: result
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Что пришлось пережить, с какими трудностями столкнуться?'
+            clipType: result
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Каким образом герой пытается решить возникающие проблемы?'
+            clipType: result
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Ощущает ли участие государства в своей жизни?'
+            clipType: result
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Как воспринимает действия волонтеров?'
+            clipType: result
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Что герой думает о своём будущем?'
+            clipType: result
+            length: 0:20
+
+        -
+            type: ClipCard
+            medium: video
+            goals:
+                - 'Каково мнение героя о том, что можно сделать, чтобы конфликт был разрешен?'
+            clipType: result
+            length: 0:20
+
+        -
+            type: TextCard
+            text: 'Не стесняйтесь задавать больше вопросов, или делать дополнительные кадры. Обдумайте под каким углом лучше снять: может, поднять камеру выше, опустить ее ниже или отклонить ее вправо или влево.'
+
+        -
+            type: TextCard
+            text: 'Когда вы снимите достаточно клипов, вы можете разместить их ниже, нажав на кнопку «По порядку». Вы можете подрезать отдельные клипы, нажав на их уменьшенное изображение.'
+
+        -
+            type: ReviewCard
+            medium: video

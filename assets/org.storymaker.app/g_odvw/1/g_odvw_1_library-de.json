@@ -1,0 +1,23 @@
+{
+    "title": "Befrage deinen Partner.", 
+    "storyPathTemplateFiles": {
+        "g_odvw_1": "g_odvw_1.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "g_odvw_1", 
+            "dependencyFile": "g_odvw_1.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "g_odvw_1"
+        }
+    ], 
+    "currentStoryPathFile": "g_odvw_1.json", 
+    "id": "g_odvw_1_library"
+}

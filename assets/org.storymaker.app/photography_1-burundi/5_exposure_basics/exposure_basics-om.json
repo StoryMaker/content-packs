@@ -1,0 +1,172 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Maaliif fakiinkoo ifa darbaa yookaan ifa gahaa hin taane qabaachuu danda'ee, fi akkamittan sirreessuu danda'a?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Kutaa kana keessatti kan barattan:  \n&bull; Akka kaameeraankee ifa ittu shallagu.  \n&bull; Rakkoo yeroo baayyee mudatan kan akka ifa xiqqoo fi ifa dudduubaa akka itti furan.  \n&bull; Akka wal-qixxeesittuun ifaa itti hojjetu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Kaameeraa bilbila hundaa keessa shallagduun ifaa jira. Shallagduun kun ifa jiru shallaguun utuu ati suuraa hin kaasin ISO, seensistuu ifaa fi kaastuu (kutaa bu'uura kaameeraa ilaali) akka inni sirreeffatuuf kaameeraatti hima. Kaameeraa ilaallatanii kaasanii fi dLRs shallagduun kun sadarkaasaa kan eeggatee fi bakka ta'e yookaan guutummaa footichaatiif mul'ina ifaa akka sirreessuf footo kaastuudhaaf kan dhiisuudha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Fakkeenya ifa sirriitti safaruu dhabuudhaan rakkina deddeebi'ee uummamu](2.jpg)  \n###Fakkeenya ifa sirriitti safaruu dhabuudhaan rakkina deddeebi'ee uummamu  \nSafari akka salphaatti nama dogoggorsa. Ifa leensiitti seenu hunda dubbisuudhaan mul'ina ifaa sirreessuun barbaachisaadha. Ifi garagaraa yeroo keessa seenu kaameeraa mul'ina ifaa sirreessuun itti cima \u2014 kaameeraan bilbilaa fakkii ifaa fi gaaddidduu garagaraa qabu mul'isuu hindanda'u.  \nIfa yartuun rakkoo suura kaastoti baayyeen amananiidha. Ija namaatiin yeroo walbira qabamu kaameeraan ifa sassaabuurratti dadhabaadha. Waanti rakkisaan bakka ifa xiqqootti kaasuuf suura kaastota rakkisu rakkoo jiru hubachuu fi malaan  furuurra callisanii kaasanii tokko keessaa gaarii ta'a jedhanii hawwuudha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![Fakkeenya suuraa kaameeraadhaan kaafamee](3.jpg)  \n### Fakkeenya suuraa kaameeraadhaan kaafamee  \n![Fakkeenya kaameeraa ilaallatanii kaasuutiin kaafamee](4.jpg)  \n### Fakkeenya kaameeraa ilaallatanii kaasuutiin kaafamee  \n![Fakkeenya suuraa kaameeraa DLRStiin kaafamee](5.jpg)  \n### Fakkeenya suuraa kaameeraa DLRStiin kaafamee  \n\nHaala ifa gadi bu'aa keessatti,ifi ga'aan sirriitti mul'isuuf hubattuu qaqqabu hin jiru. Kaameeraa sadarkaasaa eeggateen walbira yoo qabne bilbilli ammayyaa leensii xiqqaa qabaachuusaatii fi  apercherii baayyee xiqqaa( kutaa bu'uura kaameeraa ilaalaa) qaba. Saffisa shaterii walqixa yoo qabaateyyuu, apercheriin xiqqoo waan ta'eef akka kaameeraa guguddaa leensii guddaa qabuu ifa hamma barbaachisu argachuu hin danda'an.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Rakkoo biraan mul'ina ifaa yeroo haala ifa xiqqootti ka'u kaameeraan fakkii jiru hamma ifuu qaburra ibsuu sababa barbaaduuf  ka'uu danda'a.  \n![Fakkeenya suuraa ifa duubaa qabuu.](6.jpg)  \n### Fakkeenya suuraa ifa duubaa qabuu.\n![Fakkeenya ifa waan baayyee calaqqisurraa balaqqeessa'u.](7.jpg)  \n### Fakkeenya ifa waan baayyee calaqqisurraa balaqqeessa'u.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "Rakkoo beekamaan tokkommoo ifa dudduubaati. Qaama kaastu gaaddidduu keesatti yookaan ifi guddaan yookaan if aduu dudduubasaa utuu jiruu kaasaa jirta. Kun shallagducha dogoggorsuudhaan qama ka'u ifa dudduubaatiin akka hin mul'anne godha.  \nRakkoo beekamaan kan biraan immoo ifa qaama calaqqisu kan akka dunkaana adii, cabbii yookaan cirracha irraa balaqqeessa'u.  \n![Fakkeenya fakkii ifi itti baayyatee.](8.jpg)  \n### Fakkeenya fakkii ifi itti baayyatee.  \n![Fakkeenya bilbila ammayyaatiin akka itti ifa dukkanaa'aa mul'isan.](9.jpg)  \n### Fakkeenya bilbila ammayyaatiin akka itti ifa dukkanaa'aa mul'isan.  \nBilbilli ammayyaa baayyeen akka footo kaastoti argiirraa bakka mul'ina ifaa sirreessuu barbaadan tuquudhaan sirreessan godha. Meeshaaleen tokko tokkommoo akka kaameeraa bakka gaaddiddaa'aa goodaayyaa keessaatti qabuudhaan argii tuqanii goodaayyaa haaressan godhu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![Fakkeenya wal-qixxeessituu mul'ina ifaa fayyadamuun mul'ina ifaa sirreessuu](10.jpg)  \nKaameeraan bilbila ammayyaa tokko tokkoo fi fayyadamni kameeraa tokko tokkoo kan ittiin mul'ina ifaa sirreessan  \u201cwal-qixxeessituu mul'ina ifaa\u201d kan jedhamu of keessaa qaba. Kaameeraakee kan mul'nni ifaasaa shallagame akkanni ifa darbaa fi ifa ga'aa hin ta'in kennuuf suuraa kaasuu keetiin dura ajajuu dandeessa . Kunimmoo goodaayyaakee keessatti ifi yookaan gaaddidduu guddaan akka badaniif gagaara.  \nFakkiin if itti hir'ate yookaan ifisaa xiqqoo caale erga ka'ee booda karaa fayyadama ofiisaa yookaan fayyadama akka Adobe Photoshop Express'iin sirreessuun ni danda'ama. Adobe Photoshop Express'iin mul'ina ifaa fakkiikeetii hoogganuuf gargaara. Fuula nama footicharra jiruu tuquudhaan mul'ina ifaasaa sirreessuu dandeessa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## WAANTOTA YAADATAMUU QABAN  \n&bull; Fakkiinkee ifa ga'aa argachuun barbaachisaadha.  \n&bull; Bakka rakkinni ifaa jirutti kaameeraan bilbila ammayyaa baayyee rakkatu.  \n&bull; Mul'ina ifaa daangaa dandeettii kaameeraa keessatti hoogganuun ni gargaara.  \n&bull; Yeroo hunda fakkii yaalii kaasuudhaan mul'ina ifaa ilaali, yoo barbaachisaa ta'emmoo sirreeffama godhiif.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "Waantoti sadaan muli'na ifaa hoogganan maal fa'ii?", 
+            "choices": [
+                {
+                    "text": "ISO", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Ifa Seensistuu", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Qindaa'ina guddinaa", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Kaastuu", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Dhugaa yookaan Soba: Shateriin hamma yeroo shateriin ifa argatee hooggana.", 
+            "choices": [
+                {
+                    "text": "Dhuga", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Soba", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Yeroo bilbilaan kaastu, yoo fakkiitti ifi baayyate kan kanaa gaditti jiran keessaa kamiin goota:", 
+            "choices": [
+                {
+                    "text": "Homaa. Bilbilli ammayyaa mulina ifaaf hooggansa hujiikee hin qabu.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Bilbilli ammayyaa baayyeen yeroo ammaa akka ati goodaayyaarraa bakka ifa kennuufii barbaadde akka ati tuqxu godhu. Kaameeraan bakka ati tuqxerratti hundaa'uun ifa sirreessaafi.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Bilbilakee haala kaameeraa hujeekaatti sirreessi.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Deebii hin qabu.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "text": "![](11.jpg)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Akkamitti mul'ina ifaa fakkii olitti jirurratti sirreessuu dandeessa?", 
+            "choices": [
+                {
+                    "text": "ISO dabali", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Mul'ina ifaa erga kaastee booda  hamma ta'esirreessi.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Seensistuu ifaa bani (yoo danda'ame).", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Saffisa shaterii keetii, baayyee yoo gadi qabde suuraankee sababa hin mul'anneef,hamma tokko gadi qabi.", 
+                    "id": "answer_4"
+                }, 
+                {
+                    "text": "Hunduu deebiidha", 
+                    "id": "answer_5"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_5"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "exposure_basics", 
+    "title": "Bu'uura Mul'ina Ifaa"
+}

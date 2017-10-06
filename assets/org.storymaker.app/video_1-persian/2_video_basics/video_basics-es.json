@@ -1,0 +1,248 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Nunca he usado una c\u00e1mara de v\u00eddeo antes, \u00bfcu\u00e1les son los fundamentos que debo conocer?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; Cu\u00e1les son las t\u00e9cnicas fundamentales para crear buenos cortes de v\u00eddeo.  \n&bull; C\u00f3mo grabar suficiente v\u00eddeo para su historia.  \n&bull; C\u00f3mo sostener su c\u00e1mara con estabilidad.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Las c\u00e1maras ven el mundo de forma muy diferente a como lo hace el ojo humano. Al aprender algunas reglas b\u00e1sicas, puede aprender a grabar eventos de formas que permiten a la audiencia centrarse en los elementos importantes de su historia. Para una revisi\u00f3n en profundidad de c\u00f3mo funcionan las c\u00e1maras, vea la lecci\u00f3n 'Fundamentos de la c\u00e1mara' en la seccion de Fotograf\u00eda. \nEn medio de la grabaci\u00f3n de su v\u00eddeo, puede ser dif\u00edcil saber exactamente qu\u00e9 debe grabar. Esto es particularmente cierto cuando est\u00e1 inici\u00e1ndose. Es f\u00e1cil frustrarse, confundirse, y no estar seguro de si mismo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Tenga en mente estas tres cosas mientras est\u00e1 haciendo una toma para llegar a ser un vide\u00f3grafo efectivo:  \n&bull; Tenga prop\u00f3sito  \n&bull; Tenga control  \n&bull; Tenga compromiso", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "# Tener un prop\u00f3sito", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "2.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo de un sujeto encuadrado en una escena.", 
+            "exampleMediaPath": "2.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "## Conozca lo que quiere grabar  \n&bull; Preste mucha atenci\u00f3n a la acci\u00f3n o al sujeto que intenta grabar, y aseg\u00farese de que puede verlo claramente en el encuadre.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "# Tener control", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "3.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "La forma adecuada de sujetar la c\u00e1mara con estabilidad", 
+            "exampleMediaPath": "3.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "## Sostener su c\u00e1mara con estabilidad  \n&bull; Use su cuerpo para sujetar la c\u00e1mara, el individuo de arriba usa el lateral de su cuerpo para sujetar la c\u00e1mara, mientras centra la centra en frente de \u00e9l.  \n&bull; Recuerde respirar. Puede estar tentado de contener su respiraci\u00f3n para evitar que la c\u00e1mara se mueva, pero es mejor preparar su toma, respirar, y comenzar a grabar cuando tenga estabilizado el encuadre.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "4.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo de c\u00f3mo mostrar moviento adecuadamente en un encuadre sin hacer barridos.", 
+            "exampleMediaPath": "4.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "## No haga barridos.  \n&bull; Mover la c\u00e1mara crea un mont\u00f3n de movimiento en el encuadre. Esto a menudo es m\u00e1s una distracci\u00f3n que una ayuda. Si quiere otro \u00e1ngulo, detenga la grabaci\u00f3n, cambie su encuadre, y comience a grabar su nueva toma.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "# Tener compromiso  \n![](5.png)  \nM\u00e1rquese una meta para su toma, y grabe la acci\u00f3n completa. Saber lo que est\u00e1 intentando grabar antes de comenzar le permitir\u00e1 saber cuando ha completado la toma.  \nNo pare de grabar hasta que las acciones se completen.  \nCuando est\u00e9 grabando una acci\u00f3n, aseg\u00farese de tener la c\u00e1mara grabando durante 5-10 segundos antes de comenzar, y contin\u00fae grabando durante otros 5-10 segundos despu\u00e9s de que la acci\u00f3n finalice. Ver la acci\u00f3n en su totalidad permitir\u00e1 a la audiencia comprenderla.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "6.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Aqu\u00ed tiene un ejemplo de c\u00f3mo se ver\u00eda una acci\u00f3n completa en el encuadre.", 
+            "exampleMediaPath": "6.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "La acci\u00f3n grabada es cortar la masa antes de que el pan est\u00e9 horneado, y podemos ver el proceso completo. Cuando vayamos a usar este corte de v\u00eddeo, ser\u00e1 muy f\u00e1cil extraer un detalle de la masa que se esta cortando, o un contra-plano en que el \u00e1ngulo de la c\u00e1mara est\u00e9 invertido para grabar al sujeto seg\u00fan realiza esta acci\u00f3n. Esto es posible porque contiene una acci\u00f3n completa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "Antes de que se grabara esa toma, el vide\u00f3grafo encuadr\u00f3 la toma e interactu\u00f3 con su sujeto para explicarle lo que estaba tratando de documentar. Puede que sea necesario pedir a sus sujetos que repitan la acci\u00f3n o la recreen para documentarla apropiadamente. Esto est\u00e1 bien en tanto en cuanto no est\u00e9 pidiendo a alguien que d\u00e9 una falsa impresi\u00f3n de si mismo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "7.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo de grabaci\u00f3n de una acci\u00f3n completa con 5 segundos de grabaci\u00f3n previa y posterior", 
+            "exampleMediaPath": "7.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "![](8.png)  \nPermanezca en frente de lo que quiere filmar, no aparte hacia el lateral.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Cuando haya terminado de conseguir su toma, cuente hasta cinco en su cabeza, y luego detenga la grabaci\u00f3n. Esto asegurar\u00e1 que tiene suficiente material al final de su corte de v\u00eddeo para usarlo de forma efectiva.  \n&bull; No necesita grabar constantemente, pero a veces grabar durante uno, dos o incluso cinco minutos es necesario para grabar una acci\u00f3n por completo.  \n&bull; Esto tiene que equilibrarse con el hecho de que al grabar demasiado material, crear\u00e1 una barrera para compartir sus historias con celeridad. Busque pausas naturales para dejar de grabar un corte y avanzar a grabar un segundo corte si siente que el primero es muy largo.  \n&bull; Para ser \u00fatiles, sus cortes tienen que ser de al menos 15 segundos, al margen de lo corta que sea la acci\u00f3n que est\u00e1 grabando. Cualquier cosa m\u00e1s corta es probable que no sea \u00fatil.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Verdadero o Falso: Grabando una acci\u00f3n completa puede contar una historia con una simple toma.", 
+            "choices": [
+                {
+                    "text": "Verdadero", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falso", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfCu\u00e1nto es la mayor\u00eda del encuadre?", 
+            "choices": [
+                {
+                    "text": "10 por ciento", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "25 por ciento", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "33 por ciento", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "50 por ciento o m\u00e1s", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfDurante cu\u00e1ntos segundos debe aguantar grabando antes y despu\u00e9s de la acci\u00f3n esperada?", 
+            "choices": [
+                {
+                    "text": "10 segundos antes, 0 segundos despu\u00e9s", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "0 segundos antes, 10 segundos despu\u00e9s", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "10 segundos antes, 10 segundos despu\u00e9s", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "0 segundos antes, 0 segundos despu\u00e9s", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfEs aceptable pedir a sus sujetos que repitan una acci\u00f3n o la recreen para documentarla adecuadamente?", 
+            "choices": [
+                {
+                    "text": "S\u00ed, en tanto usted no le est\u00e9 pidiendo a alguien que d\u00e9 una falsa impresi\u00f3n de si mismo.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "No, nunca debe comunicarse con su sujeto.", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "video_basics", 
+    "title": "Fundamentos del v\u00eddeo"
+}

@@ -1,0 +1,130 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Comment puis-je utiliser efficacement pseudonymes?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Dans cette le\u00e7on vous allez apprendre:  \n&bull; Comment les pseudonymes prot\u00e8gent votre identit\u00e9.  \n&bull; Comment les horodateurs peuvent r\u00e9v\u00e9ler votre identit\u00e9.  \n&bull; Comment maintenir votre pseudonymes en ligne.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Si vous ou une source sont menac\u00e9s, vous devez prendre des mesures suppl\u00e9mentaires pour prot\u00e9ger l'identit\u00e9 de l'individu menac\u00e9. Journalistes \u00e0 risque et sources menac\u00e9es utilisent souvent des pseudonymes pour prot\u00e9ger leurs v\u00e9ritables identit\u00e9s. Lorsque vous communiquez num\u00e9riquement, vous pouvez laisser des indices \u00e0 votre v\u00e9ritable identit\u00e9.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![l'anonymat ne est pas garantie](2.png)  \nCeux qui maintiennent (ou contribuer \u00e0) un blog ou un forum Internet doivent \u00eatre conscients que leur anonymat ne sera pas garantie par sa seule signature d'un pseudonyme. Chaque entr\u00e9e de blog enregistre l'adresse IP (http://en.wikipedia.org/wiki/IP_address) de l'ordinateur \u00e0 partir du quel il a \u00e9t\u00e9 envoy\u00e9, et de nombreux fournisseurs de services Internet (http://en.wikipedia.org/wiki/ISP) enregistrent tout le trafic qui est pass\u00e9 \u00e0 travers eux. Par cons\u00e9quent, si vous publiez des informations sensibles sur un site Web, vous devez prendre des pr\u00e9cautions pour ne pas \u00eatre d\u00e9couvert. Nous avons discut\u00e9 de d\u00e9guiser votre navigation dans la le\u00e7on XX avec Tor. Si vous devez garder l'anonymat en ligne, assurez-vous d'utiliser le r\u00e9seau d'anonymat Tor pour acc\u00e9der \u00e0 votre site et publier votre contenu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![Prendre des pr\u00e9cautions pour \u00e9viter les probl\u00e8mes](3.png)  \n## horodateurs  \nSi vous publiez les m\u00e9dias \u00e0 un site Web sur l'activit\u00e9 du gouvernement dans votre pays en utilisant le r\u00e9seau Tor, les autorit\u00e9s ne verront pas que vous envoyiez cette information \u00e0 un blog particulier, mais ils pourraient remarquer que chaque fois que vous entrez dans un caf\u00e9 Internet, un nouveau poste appara\u00eet sur le site. Cela peut \u00eatre li\u00e9 \u00e0 vous, surtout si votre propri\u00e9taire d'un caf\u00e9 Internet \u00e9crit votre nom et l'heure de votre visite. Pour surmonter cette difficult\u00e9, demander \u00e0 un coll\u00e8gue d'un autre pays pour poster sur le blog pour vous. Utiliser un service de webmail s\u00e9curis\u00e9 (ou cryptage) pour envoyer l'article \u00e0 votre coll\u00e8gue et demander \u00e0 lui / elle d'attendre un certain temps avant de le publier sur votre blog.  \nVotre identit\u00e9 peut \u00eatre d\u00e9termin\u00e9e non seulement par le nom que vous choisissez vous-m\u00eame ou \u00a0votre source. Votre identit\u00e9 peut \u00e9galement \u00eatre d\u00e9termin\u00e9e par la piste vous laissez \u00e0 travers votre activit\u00e9 en ligne.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## A NE PAS OUBLIER  \n&bull; Etre s\u00fbr de supprimer l'historique de votre navigateur.  \n&bull; Utiliser une fen\u00eatre de navigation en priv\u00e9e sur chrome ou bien \"Navigation priv\u00e9e\" sur FireFox.  \n&bull; Etre s\u00fbr de d\u00e9sactiver les cookies.  \n&bull; Avoir un coll\u00e8gue qui n'est pas menac\u00e9 pour publier le m\u00e9dia.  \n&bull; R\u00e9gler vos m\u00e9dias pour \u00eatre publi\u00e9s automatiquement \u00e0 un d\u00e9lai attribu\u00e9 au hasard.  \n&bull; Installer HTTPS Everywhere pour Firefox et Chrome.  \n&bull; Utiliser un service d'anonymat \u00e0 chaque acc\u00e8s \u00e0 Internet.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Pourquoi devrais-je utiliser un pseudonyme?", 
+            "choices": [
+                {
+                    "text": "Parce que son plus cool que mon vrai nom.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Pour prot\u00e9ger mon identit\u00e9 ou celle de ma source.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Flash Gordon.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Parce que mon nom est d\u00e9j\u00e0 pris sur Facebook.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "Comment puis-je emp\u00eacher les pistes de communications num\u00e9riques de r\u00e9v\u00e9ler ma v\u00e9ritable identit\u00e9?", 
+            "choices": [
+                {
+                    "text": "En utilisant toujours fen\u00eatres de navigation priv\u00e9e.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "En demandant aux coll\u00e8gues de publier le m\u00e9dia quand je suis hors ligne.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "en utilisant Tor pour se connecter \u00e0 l'internet.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "En utilisant deux adresses Email", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "Si je utilise un pseudonyme mon identit\u00e9 sera", 
+            "choices": [
+                {
+                    "text": "Compl\u00e8tement prot\u00e9g\u00e9.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Tout ce que je dis aux gens.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Seulement prot\u00e9g\u00e9 si j'emp\u00eache mes pistes de  communication de r\u00e9v\u00e9ler mon identit\u00e9 ou mon emplacement.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Prot\u00e9g\u00e9 contre l'examen superficiel.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "how_do_i_effectively_use_pseudonyms", 
+    "title": "Comment puis-je utiliser efficacement pseudonymes"
+}

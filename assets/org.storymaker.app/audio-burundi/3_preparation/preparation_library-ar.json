@@ -1,0 +1,23 @@
+{
+    "title": "\u0627\u0644\u062a\u062d\u0636\u064a\u0631", 
+    "storyPathTemplateFiles": {
+        "preparation": "preparation.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "preparation", 
+            "dependencyFile": "preparation.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "preparation"
+        }
+    ], 
+    "currentStoryPathFile": "preparation.json", 
+    "id": "preparation"
+}

@@ -1,0 +1,193 @@
+{
+    "cards": [
+        {
+            "text": "Gabatee Baafataa Ilaali", 
+            "link": "toc::intro_card_0", 
+            "id": "link_card_0", 
+            "type": "LinkCard"
+        }, 
+        {
+            "level": "Seensa |", 
+            "headline": "Bilbila kee sammuutti qabadhu\n", 
+            "time": "3-5 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Suuraaleen baayyee humna qabu. Kutaan kun bu'uura kaameeraa bilbilaa fayyadamuu si barsiisa. Kutaalee hafan kan qarqaba kana keessa jiranis ni beeksisa,", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "header": "Itti aanee", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "milestone_start", 
+            "text": "Jalqabi"
+        }, 
+        {
+            "text": "Kaameeraan addunyaa karaa ijikee argurraa karaa addaatiin ilaala. Suuraa bareedaa kaasuuf daangaawwan jiran hubachuu qabda. Akka kaameeraan bilbilakee itti hojjetu barachuun barbaachisaadha.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Baafata kaameeraakee ilaali, keessumaa akka itti xiyyeeffannoo fi mul'ina ifaa jijjiiran.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Fayyadammi kaameeraako amala xiyyeeffannoo fi mul'ina ifaa sirreessuu qaba.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Ijikee bakka ilaalamu keessaa saffisaan waan barbaachisaa tokkorratti xiyyeeffata. Kaameeraan dijiitaalaa bakki inni itti xiyyeeffatu itti himamuu qaba, keessumaa ifa gadi bu'aa keessatti, fi suuta xiyyeeffachuu danda'a.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Argii tuquudhaan fayyadamni kaameeraakee bakka sanarratti xiyyeeffata.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "4.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Yoo kaameraankee amala mul'ina ifaa qabaate, jijijjiiruudhaan akka ifi kennamuuf jijjiiramu ilaali.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "4.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Yoo qaamichi baayyee dukkanaa'aa ta'e, madaala mul'ina ifaa fi xiyyeeffannoo gidduu jiru argachuuf argiirraa tuqaa ibsituu qaamichatti dhiyaatee jiru tuqi.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Kaameeraan bilbilaa baayyinaan guddistuu dijitaalaa of keessaa qabu, garuu hammamtaa piikselii fi dimismisaa'uu humnaa ol guddisuu danda'a. Isa fayyadamuurra yoo qaamichatti dhiyaattee kaaste fakkiinkee mul'ataa fi qulqullina caalu kan qabaatu ta'a.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "5.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Suuraa olitti jirurratti guddisa dijitaalaatu fayyadamame. Suuraa gaditti jirurratti suura kaasaan qaamichatti dhiyaatee kaase.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "5.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Amalli fooyya'aan addaa kaameeraa bilbilakee keessaa kaameerichaan waan baayyee akka hojjettuuf gargaara. Baafata fayyadama kaameeraa keessaa ilaali.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "6.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Amaloota kan akka madaala mul'ina ifa, filashii fi HDR fayyadama kaameeraakee ilaali.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "6.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Baga Gammadde, bu'uura akka itti kaameeraakee fayyadamtuu baratteetta. Kutaalee hafan shananitti darbuuf qophoofteetta. Kutaaleen hundi akka isa kanaatti kan dhiyaatee fi dandeettii bu'uuraa kan haammatuudha.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Kutaa Itti Aanu", 
+            "link": "compose_with_a_grid::intro_card_0", 
+            "id": "link_card_1", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }
+    ], 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "know_your_mobile", 
+    "title": "Bilbilakee beeki"
+}

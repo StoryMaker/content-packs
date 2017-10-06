@@ -1,0 +1,38 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-burundi/1_introduction_to_photography/introduction_to_photography_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-burundi/cover.png", 
+    "language": "en", 
+    "title": "Introduction to Photography"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-burundi/2_camera_basics/camera_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-burundi/cover.png", 
+    "language": "en", 
+    "title": "Camera Basics"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-burundi/3_composition_basics/composition_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-burundi/cover.png", 
+    "language": "en", 
+    "title": "Composition Basics"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-burundi/4_captions_and_keywords/captions_and_keywords_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-burundi/cover.png", 
+    "language": "en", 
+    "title": "Captions and Keywords"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-burundi/5_exposure_basics/exposure_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-burundi/cover.png", 
+    "language": "en", 
+    "title": "Exposure Basics"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-burundi/6_post_production/post_production_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-burundi/cover.png", 
+    "language": "en", 
+    "title": "Post Production"
+  }
+]

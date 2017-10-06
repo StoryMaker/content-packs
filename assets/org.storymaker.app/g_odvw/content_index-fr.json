@@ -1,0 +1,32 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/g_odvw/0/g_odvw_0_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
+    "language": "fr", 
+    "title": "Qu'esp\u00e9rez vous apprendre?"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/g_odvw/1/g_odvw_1_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
+    "language": "fr", 
+    "title": "Interrogez votre partenaire."
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/g_odvw/2/g_odvw_2_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
+    "language": "fr", 
+    "title": "Photographier l'histoire d'un processus."
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/g_odvw/3/g_odvw_3_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
+    "language": "fr", 
+    "title": "Cr\u00e9er une histoire avec un narratif."
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/g_odvw/4/g_odvw_4_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
+    "language": "fr", 
+    "title": "Quelle est la chose la plus importante que vous ayez apprise? "
+  }
+]

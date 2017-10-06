@@ -1,0 +1,177 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Algunas de mis im\u00e1genes son demasiado amarillentas. Algunas son demasiado azuladas. \u00bfCu\u00e1l es el problema y qu\u00e9 puedo hacer al respecto?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; Lo que significa balance de blancos.  \n&bull; C\u00f3mo ajustar el color con el control de balance de blancos.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Sus ojos, en combinaci\u00f3n con su cerebro, hacen un excelente trabajo calibrando c\u00f3mo percibe el color. Reconocer\u00e1 un color como rojo incluso si la fuente de luz que lo ilumina es muy amarilla, haciendo el que el color tenga una apariencia anaranjada. Reconocer\u00e1 los tonos carne incluso si la luz que ilumina al sujeto es un fluorescente azul-verdoso.\nUna c\u00e1mara digital no puede hacer eso. Tiene que ser calibrada para ajustarse a temperaturas de color de diferentes fuentes de luz. Este calibrado se mide contra el blanco absoluto. Ese es el porqu\u00e9 se le llama balance de blancos.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![](2.png)  \n### Un ejemplo de un sujeto iluminado por una bombilla de tungsteno  \nLas bombillas de tungsteno tienen una temperatura de luz muy c\u00e1lida, que da a las im\u00e1genes un tono amarillento. \n![](3.png)  \n### Un ejemplo de un sujeto en el exterior en un d\u00eda nublado\nA plena luz bajo un cielo cubierto, un d\u00eda nuboso tiene una temperatura de luz muy fr\u00eda, que da a las im\u00e1genes un tono azulado. \n![](4.jpg)  \nOtras fuentes de luz \u2014 luz solar, luz fluorescente, sombra \u2014 todas quedan en un t\u00e9rmino medio. La temperatura de color no tiene nada que ver con la cantidad de luz.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Una buena gesti\u00f3n de color es importante. Hace que una imagen tenga un aspecto mucho m\u00e1s profesional. Muchos smartphones proporcionan una variedad de preconfiguraciones para el balance de blancos.  \n![](5.png)  \n## Iconos de ejemplo para las opciones comunes de balance de blancos  \nSi su dispositivo m\u00f3vil le permite establecer el balance de blancos manualmente, h\u00e1galo. Su smartphone puede que tenga un bot\u00f3n u opci\u00f3n de men\u00fa para el balance de blancos. Ofrecer\u00e1 varios iconos que representan cinco o seis fuentes de luz comunes. Seleccione la que mejor represente las condiciones de luminosidad bajo las que est\u00e9 trabajando.  \nSi su smartphone no puede controlar el balance de blancos manualmente, puede corregir el color con aplicaciones de post-producci\u00f3n (para m\u00e1s sobre esto, vea la secci\u00f3n sobre post-producci\u00f3n). Si la temperatura de color est\u00e1 muy descompensada, es MUY IMPORTANTE que realice ajustes antes de publicar sus im\u00e1genes.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![](6.png)  \n## AWB (auto white balance / auto balance de blancos)  \nUse esta configuraci\u00f3n para hacer tomas en cualquier sitio. El dispositivo m\u00f3vil/celular hace su mejor estimaci\u00f3n de cu\u00e1l debe ser la configuraci\u00f3n correcta, pero puede proporcionar resultados pobres si la c\u00e1mara se equivoca en la estimaci\u00f3n. Esta es la configuraci\u00f3n que debe usar si no est\u00e1 seguro de qu\u00e9 configuraci\u00f3n es la mejor elecci\u00f3n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![](7.png)  \n## Luz diurna  \nUse esta configuraci\u00f3n para hacer tomas de exterior. Esta configuraci\u00f3n dar\u00e1 a sus im\u00e1genes un tono ligeramente azulado muy 'chulo'. Al hacer tomas de interior, esta configuraci\u00f3n dar\u00e1 a sus im\u00e1genes un tono anaranjado.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![](8.png)  \n## Nuboso\nUse esta configuraci\u00f3n para hacer tomas de interior. Esta configuraci\u00f3n le dar\u00e1 a sus im\u00e1genes un color ligeramente \u201cm\u00e1s c\u00e1lido\u201d. Aunque la opci\u00f3n de luz diurna es t\u00e9cnicamente el balance de blancos m\u00e1s correcto, usar la configuraci\u00f3n de nuboso crea una imagen con mucho encanto. Al hacer tomas de exterior, esta configuraci\u00f3n le dar\u00e1 a sus im\u00e1genes un fuerte tono anaranjado.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![](9.png)  \n## Incandescente \nUse esta configuraci\u00f3n para hacer tomas de interior, donde la habitaci\u00f3n est\u00e1 iluminada con bombillas comunes peque\u00f1as. Cuando haga tomas de exterior, esta configuraci\u00f3n le dar\u00e1 a sus im\u00e1genes un fuerte tono azulado.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "![](10.png)  \n## Fluorescente  \nUse esta configuraci\u00f3n al hacer tomas de interior, donde la habitaci\u00f3n est\u00e9 iluminada con luces de largos tubos fluorecentes. Al hacer tomas de exterior, esta configuraci\u00f3n dar\u00e1 a sus im\u00e1genes un tono azulado.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Tiene que gestionar el balance de blancos para un buen resultado.  \n&bull; Ajuste su balance de blancos si se mueve de un tipo de luz a otro cuando est\u00e9 haciendo tomas.  \n&bull; Lo mejor es usar una configuraci\u00f3n manual de balance de blancos, pero el balance de blancos autom\u00e1tico est\u00e1 bien.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfQu\u00e9 es lo que mejor describe lo que significa el balance de blancos?", 
+            "choices": [
+                {
+                    "text": "La cantidad de luz que incide sobre el sensor.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "La temperatura de color de la luz que incide sobre el sensor, va desde muy c\u00e1lida (amarillenta) a fr\u00eda (azulada).", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "El color del texto del letrero.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "NInguna de las anteriores.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Verdadero o Falso: Cuando sea posible siempre debe ajustar el balance de blancos en la c\u00e1mara o en post-producci\u00f3n.", 
+            "choices": [
+                {
+                    "text": "Verdadero", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falso", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "\u00bfC\u00f3mo puede controlar el balance de blancos con su smartphone Android o apuntar y disparar la c\u00e1mara? (puede ser m\u00e1s de una)", 
+            "choices": [
+                {
+                    "text": "Establezca manualmente el balance de blancos con el icono que mejor represente las condiciones de color de luz bajo las que est\u00e1 trabajando.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Es una buena idea calibrar con un trozo de papel blanco como hacen los v\u00eddeo-reporteros.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Ajuste el balance de blancos en post-producci\u00f3n.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todo lo anterior.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "text": "![](11.jpg)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfC\u00f3mo podr\u00eda corregir el balance de blancos en la imagen de arriba?", 
+            "choices": [
+                {
+                    "text": "Cambie la opci\u00f3n del balance de blancos a \u2019fluorescente\u2019 al realizar la toma.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Ajuste la exposici\u00f3n.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Ajuste la temperatura de la luz en post-producci\u00f3n a\u00f1adiendo amarillo.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todo lo anterior.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "setting_white_balance", 
+    "title": "Configurar el balance de blancos "
+}

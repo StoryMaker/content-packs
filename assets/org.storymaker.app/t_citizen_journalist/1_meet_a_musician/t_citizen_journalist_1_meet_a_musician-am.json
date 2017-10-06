@@ -1,0 +1,219 @@
+{
+    "cards": [
+        {
+            "level": "\u1300\u121b\u122a | ", 
+            "headline": "\u12a8\u1219\u12da\u1240\u129b \u130b\u122d \u12ed\u1308\u1293\u1299!", 
+            "time": "15-30 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "\u12a8\u1219\u12da\u1240\u129b \u130b\u122d \u12ed\u1270\u12cb\u12c8\u1241! \u12ed\u1205 \u1218\u1218\u122a\u12eb \u1260\u12a0\u12ab\u1263\u1262\u12ce \u1235\u120b\u1208\u12cd \u1219\u12da\u1240\u129b \u1273\u122a\u12ad \u12a5\u1295\u12f2\u1290\u130d\u1229 \u12ed\u1228\u12f3\u12ce\u1273\u120d\u1362 ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "text": "\u12ed\u1205 \u1218\u1218\u122a\u12eb \u1226\u1235\u1275 \u1275\u12a5\u12ed\u1295\u1276\u127d\u1295 \u12eb\u12ab\u1275\u1273\u120d\u1362 \u1219\u12da\u12c8\u129b\u12cd\u1295\u1363 \u1273\u12f3\u121a\u12cd \u12e8\u121a\u1230\u1320\u12cd\u1295 \u121d\u120b\u123d \u12a5\u1293 \u12a0\u1235\u1270\u12eb\u12e8 \u12ed\u1240\u122d\u133b\u1209 \u12a8\u12da\u12eb\u121d \u1260\u1218\u1328\u1228\u123b \u12a8\u1219\u12da\u1240\u129b\u12cd \u130b\u122d \u1243\u1208 \u1218\u1320\u12ed\u1245 \u12eb\u12f0\u122d\u130b\u1209\u1362 ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "\u1275\u12a5\u12ed\u1295\u1271\u1295 \u12eb\u12d8\u1308\u1301\u1364 \u1219\u12da\u1240\u129b\u12cd \u12e8\u121a\u132b\u12c8\u1275\u1260\u1275\u1295 \u1266\u1273 \u12eb\u1233\u12e9\u1362"
+            ], 
+            "clipType": "place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "\u12a0\u1235\u1348\u120b\u130a \u12a8\u1206\u1290 \u1270\u1328\u121b\u122a \u1240\u1228\u133b\u12ce\u127d\u1295 \u12eb\u12f5\u122d\u1309\u1362 \u12f0\u1235\u1270\u129b \u12e8\u1206\u1291\u1260\u1275 \u12e8\u1266\u1273\u12cd \u121d\u1235\u120d \u1232\u1296\u122d\u12ce\u1275 \u1240\u1325\u1208\u12cd \u12c8\u12f3\u1209\u1275 \u1240\u1228\u133b\u12ce\u127d \u12ed\u1240\u1325\u1209\u1362 ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "\u1219\u12da\u1240\u129b\u12cd \u1232\u132b\u12c8\u1275 \u12ed\u1245\u1228\u1339\u1362 \u12e8\u130d\u1208\u1230\u1261\u1295 \u1219\u1209 \u1241\u1218\u1293 \u1260\u12ab\u121c\u122b\u12cd \u12a5\u12ed\u1273 \u12cd\u1235\u1325 \u12eb\u1235\u1308\u1261\u1362 "
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "\u12e8\u1219\u12da\u1240\u129b\u12cd\u1295 \u134a\u1275 \u12a5\u1293 \u1260\u134a\u1271 \u120b\u12ed \u12e8\u121a\u1290\u1260\u1260\u12cd\u1295 \u1235\u121c\u1275 \u12ed\u1245\u1228\u1339\u1362"
+            ], 
+            "clipType": "result", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "\u12a8\u1270\u127b\u1208 \u12a5\u1306\u1279\u1295 \u1218\u1233\u122a\u12eb \u1232\u132b\u12c8\u1271 \u12ed\u1245\u1228\u1339\u1362"
+            ], 
+            "clipType": "signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "\u1219\u12da\u1240\u129b\u12cd \u1232\u132b\u12c8\u1275 \u12a8\u120c\u120b \u12a0\u1295\u130d\u120d \u12ed\u1245\u1228\u1339\u1275\u1362 "
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "text": "\u12a0\u1201\u1295 \u1275\u12a9\u1228\u1275\u12ce\u1295 \u1273\u12f3\u121a\u12cd\u1295\u1363 \u1273\u12f3\u121a\u12ce\u127d \u12e8\u121a\u1230\u1321\u1275\u1295 \u121d\u120b\u123d \u12a5\u1293 \u12a0\u1235\u1270\u12eb\u12e8\u1273\u1278\u12cd\u1295 \u1260\u1218\u1245\u1228\u133d \u120b\u12ed \u12eb\u12f5\u122d\u1309\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "\u1273\u12f3\u121a\u12cd \u121d\u120b\u123d \u1232\u1230\u1325 \u12eb\u1233\u12e9\u1362 \u1232\u12eb\u1328\u1260\u132d\u1261 \u12c8\u12ed\u121d \u1232\u12f0\u1295\u1231 \u121b\u1233\u12e8\u1275 \u1325\u1229 \u121d\u122d\u132b\u12ce\u127d \u120a\u1206\u1291 \u12ed\u127d\u120b\u1209\u1362 "
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "\u12e8\u121a\u12eb\u1328\u1260\u132d\u1261 \u12a5\u1306\u127d\u1295 \u12c8\u12ed\u121d \u12e8\u121a\u12eb\u12f3\u121d\u1321 \u1230\u12ce\u127d\u1295 \u134a\u1275 \u12ed\u1245\u1228\u1339\u1361 "
+            ], 
+            "clipType": "signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "\u12a0\u1201\u1295 \u1275\u12a9\u1228\u1275\u12ce\u1295 \u1260\u1219\u12da\u1240\u129b\u12cd \u120b\u12ed \u1233\u12ed\u1206\u1295 \u1260\u1273\u12f3\u121a\u12cd \u120b\u12ed \u1260\u121b\u12f5\u1228\u130d \u1266\u1273\u12cd\u1295 \u12ed\u1245\u1228\u1339\u1362 "
+            ], 
+            "clipType": "place", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "\u12a5\u1295\u12f2\u1205 \u1265\u1208\u12cd \u12ed\u1320\u12ed\u1241\u1366 \u1235\u1208 \u1219\u12da\u1240\u129b\u12cd \u12eb\u1208\u12ce\u1275 \u12a0\u1235\u1270\u12eb\u12e8\u1275 \u121d\u1295\u12f5\u1295 \u1290\u12cd? "
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "text": "\u130a\u12dc \u12ab\u1208\u12ce\u1275 \u1240\u1325\u1208\u12cd \u1263\u1209\u1275 \u12ab\u122d\u12f6\u127d \u120b\u12ed \u12a8\u1325\u1242\u1275 \u1270\u1328\u121b\u122a \u1230\u12ce\u127d \u130b\u122d \u1243\u1208 \u121d\u120d\u120d\u1235 \u12eb\u12f5\u122d\u1309\u1362 \u120c\u120e\u127d \u1325\u12eb\u1244\u12ce\u127d\u1295 \u1218\u1320\u12e8\u1245\u1295 \u12eb\u1235\u1261\u1364 \u1208\u121d\u1233\u120c \u1219\u12da\u1240\u129b\u12cd \u12a5\u12da\u1205 \u1208\u121d\u1295 \u12eb\u1205\u120d \u130a\u12dc \u1270\u132b\u12cd\u1277\u120d?  \u12c8\u12ed\u121d \u12ed\u1205 \u1219\u12da\u1240\u129b \u12e8\u1270\u132b\u12c8\u1270\u12cd \u12e8\u121a\u12c8\u12f1\u1275 \u12d8\u1348\u1295 \u12a0\u1208?", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
+            "text": "\u12a8\u1270\u1328\u121b\u122a \u1230\u12ce\u127d \u130b\u122d \u1243\u1208 \u1218\u1320\u12ed\u1245 \u121b\u12f5\u1228\u130d \u12a5\u1348\u120d\u130b\u1208\u1201 ", 
+            "header": "\u1240\u1325\u120d", 
+            "references": [
+                "meet_musician::value"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_start", 
+            "icon": "down"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "references": [
+                "meet_musician::milestone_start::value::true"
+            ], 
+            "goals": [
+                "\u12e8\u12da\u1205 \u1219\u12da\u1240\u129b \u12e8\u121a\u12c8\u12f1\u1275 \u12d8\u1348\u1295 \u12a0\u1208?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_9"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "references": [
+                "meet_musician::milestone_start::value::true"
+            ], 
+            "goals": [
+                "\u1235\u1208 \u1219\u12da\u1240\u129b\u12cd \u121d\u1295 \u120a\u1290\u130d\u1229\u1295 \u12ed\u1348\u120d\u130b\u1209? "
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_10"
+        }, 
+        {
+            "text": "\u12a8\u12da\u1205 \u1260\u120b\u12ed \u12a8\u1328\u121b\u122a \u1230\u12ce\u127d \u130b\u122d \u1243\u1208 \u1218\u1320\u12ed\u1245 \u121b\u12f5\u1228\u130d \u12a8\u1348\u1208\u1309 \u1270\u1328\u121b\u122a \u12ab\u122d\u12f5 \u1208\u1218\u134d\u1320\u122d \u1260\u121d\u1293\u120c\u12cd \u120b\u12ed \u12eb\u1208\u12cd\u1295 \u1245\u1302 \u12ab\u122d\u12f5 \u12e8\u121a\u1208\u12cd\u1295 \u12a0\u121b\u122b\u132d \u12ed\u1320\u1240\u1219\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "meet_musician::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "\u1266\u1273\u12cd\u1295\u1363 \u1219\u12da\u1240\u129b\u12cd\u1295 \u12a5\u1293 \u1273\u12f3\u121a\u12cd\u1295 \u12e8\u121a\u12eb\u1233\u12ed \u120c\u120b \u12ad\u120a\u1355 \u12ed\u1245\u1228\u1339\u1362 "
+            ], 
+            "clipType": "place", 
+            "type": "ClipCard", 
+            "id": "clip_card_11"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "\u1219\u12da\u1240\u129b\u12cd \u12a0\u1295\u12f5 \u1270\u1328\u121b\u122a \u120c\u120b \u12d8\u1348\u1295 \u1232\u132b\u12c8\u1275 \u12ed\u1245\u1228\u1339\u1362 "
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_12"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "\u1208\u1219\u12da\u1240\u129b\u12cd \u1243\u1208 \u121d\u120d\u120d\u1235 \u12eb\u12f5\u122d\u1309\u1208\u1275 - \u1208\u121d\u1295 \u12ed\u1205\u1295 \u1219\u12da\u1243/ \u1266\u1273/\u1230\u12a0\u1275 \u1218\u1228\u1320?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_13"
+        }, 
+        {
+            "text": "\u1270\u1328\u121b\u122a \u1325\u12eb\u1244\u12ce\u127d\u1295 \u1218\u1320\u12e8\u1245 \u12c8\u12ed\u121d \u1219\u12da\u1240\u129b\u12cd \u1232\u132b\u12c8\u1275 \u12a5\u1293 \u1273\u12f3\u121a\u12cd \u12e8\u121a\u1230\u1320\u12cd\u1295 \u121d\u120b\u123d \u12e8\u121a\u12eb\u1233\u12e9 \u1270\u1328\u121b\u122a \u121d\u1235\u120e\u127d\u1295 \u121b\u1295\u1233\u1275 \u12ed\u127d\u120b\u1209\u1362 \u12ab\u121c\u122b\u12cd\u1295 \u1260\u1323\u121d \u12dd\u1245\u1363 \u12a8\u134d \u12c8\u12ed\u121d \u12c8\u12f0 \u130d\u122b \u12c8\u12ed\u121d \u12c8\u12f0 \u1240\u129d \u12d8\u1218\u121d \u1260\u121b\u12f5\u1228\u130d \u1260\u1323\u121d \u12a8\u121a\u1235\u1261 \u12a0\u1295\u130d\u120e\u127d \u1208\u121b\u1295\u1233\u1275 \u12eb\u1235\u1261\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6"
+        }, 
+        {
+            "text": "\u1260\u1242 \u12ad\u120a\u1356\u127d \u1232\u1296\u122d\u12ce\u1275 \u201c\u12f0\u122d\u12f5\u122d\u201d \u12e8\u121a\u1208\u12cd\u1295 \u12a0\u12dd\u122b\u122d \u1260\u1218\u132b\u1295 \u12a8\u1273\u127d \u120a\u12eb\u1230\u1293\u12f7\u1278\u12cd \u12ed\u127d\u120b\u1209\u1362 \u1290\u1320\u120b \u12ad\u120a\u1356\u127d\u1295 \u12e8\u1270\u121d\u1265\u1294\u120d \u121d\u1235\u120b\u1278\u12cd\u1295 \u1260\u1218\u132b\u1295 \u1246\u122d\u1320\u12cd \u121b\u1235\u1270\u12ab\u12a8\u120d \u12ed\u127d\u120b\u1209\u1362 ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_citizen_journalist_1_meet_a_musician", 
+    "title": "\u12a8\u1219\u12da\u1240\u129b \u130b\u122d \u12ed\u1308\u1293\u1299!"
+}

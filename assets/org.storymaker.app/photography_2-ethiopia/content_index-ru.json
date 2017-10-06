@@ -1,0 +1,32 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/photography_2-ethiopia/1_the_photo_essay/the_photo_essay_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-ethiopia/cover.png", 
+    "language": "ru", 
+    "title": "\u0424\u043e\u0442\u043e\u044d\u0441\u0441\u0435"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_2-ethiopia/2_photographing_fast_moving_objects/photographing_fast_moving_objects_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-ethiopia/cover.png", 
+    "language": "ru", 
+    "title": "\u0421\u044a\u0435\u043c\u043a\u0430 \u0431\u044b\u0441\u0442\u0440\u043e \u0434\u0432\u0438\u0436\u0443\u0449\u0438\u0445\u0441\u044f \u043e\u0431\u044a\u0435\u043a\u0442\u043e\u0432"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_2-ethiopia/3_setting_white_balance/setting_white_balance_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-ethiopia/cover.png", 
+    "language": "ru", 
+    "title": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0430 \u0431\u0430\u043b\u0430\u043d\u0441\u0430 \u0431\u0435\u043b\u043e\u0433\u043e"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_2-ethiopia/4_photographing_different_stories/photographing_different_stories_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-ethiopia/cover.png", 
+    "language": "ru", 
+    "title": "\u0421\u044a\u0435\u043c\u043a\u0430 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0441\u044e\u0436\u0435\u0442\u043e\u0432"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_2-ethiopia/5_photographing_difficult_uncomfortable_situations/photographing_difficult_uncomfortable_situations_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-ethiopia/cover.png", 
+    "language": "ru", 
+    "title": "\u0421\u044a\u0435\u043c\u043a\u0430 \u0441\u043b\u043e\u0436\u043d\u044b\u0445 \u0441\u0446\u0435\u043d"
+  }
+]

@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "videos_different_shots", 
+            "dependencyFile": "videos_different_shots.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Videos Different Shots", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "videos_different_shots"
+        }
+    ], 
+    "currentStoryPathFile": "videos_different_shots.json", 
+    "storyPathTemplateFiles": {
+        "videos_different_shots": "videos_different_shots.json"
+    }, 
+    "id": "videos_different_shots"
+}

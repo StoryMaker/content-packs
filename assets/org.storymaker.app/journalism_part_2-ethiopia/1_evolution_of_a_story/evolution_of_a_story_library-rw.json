@@ -1,0 +1,23 @@
+{
+    "title": "Ihinduka ry'inkuru", 
+    "storyPathTemplateFiles": {
+        "evolution_of_a_story": "evolution_of_a_story.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "evolution_of_a_story", 
+            "dependencyFile": "evolution_of_a_story.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "evolution_of_a_story"
+        }
+    ], 
+    "currentStoryPathFile": "evolution_of_a_story.json", 
+    "id": "evolution_of_a_story"
+}

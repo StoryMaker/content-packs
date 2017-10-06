@@ -1,0 +1,44 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/security-ethiopia/1_introduction_to_security/introduction_to_security_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-ethiopia/cover.png", 
+    "language": "am", 
+    "title": "\u12f0\u1205\u1295\u1290\u1275\u1366 \u1218\u130d\u1262\u12eb"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-ethiopia/2_how_do_my_communications_put_me_at_risk/how_do_my_communications_put_me_at_risk_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-ethiopia/cover.png", 
+    "language": "am", 
+    "title": "\u12e8\u121b\u12f0\u122d\u130b\u1278\u12cd \u130d\u1295\u1299\u1290\u1276\u127d \u1208\u12a0\u12f0\u130b \u120a\u12eb\u130b\u120d\u1321\u129d \u12e8\u121a\u127d\u1209\u1275 \u12a5\u1295\u12f4\u1275 \u1290\u12cd?"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-ethiopia/3_how_can_i_use_sms_safely/how_can_i_use_sms_safely_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-ethiopia/cover.png", 
+    "language": "am", 
+    "title": "\u12f0\u1205\u1295\u1290\u1271 \u1260\u1270\u1320\u1260\u1240 \u1218\u1295\u1308\u12f5 \u12a0\u132d\u122d \u12e8\u133d\u1201\u134d \u1218\u120d\u12a5\u12ad\u1275\u1295  \u12a5\u1295\u12f4\u1275 \u1218\u1320\u1240\u121d \u12a5\u127d\u120b\u1208\u1201?"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-ethiopia/4_how_can_i_use_a_browser_safely/how_can_i_use_a_browser_safely_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-ethiopia/cover.png", 
+    "language": "am", 
+    "title": "\u12f0\u1205\u1295\u1290\u1271 \u1260\u1270\u1320\u1260\u1240 \u1218\u120d\u12a9 \u121b\u1230\u123b\u1295 \u1218\u1320\u1240\u121d \u12e8\u121d\u127d\u1208\u12cd \u12a5\u1295\u12f4\u1275 \u1290\u12cd?"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-ethiopia/5_how_can_i_send_email_safely/how_can_i_send_email_safely_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-ethiopia/cover.png", 
+    "language": "am", 
+    "title": "\u12f0\u1205\u1295\u1290\u1271 \u12a0\u1235\u1270\u121b\u121b\u129d \u1260\u1206\u1290 \u1218\u120d\u12a9 \u12a2\u121c\u12ed\u120d \u1218\u120b\u12ad \u12e8\u121d\u127d\u1208\u12cd \u12a5\u1295\u12f4\u1275 \u1290\u12cd?"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-ethiopia/6_what_makes_a_password_strong/what_makes_a_password_strong_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-ethiopia/cover.png", 
+    "language": "am", 
+    "title": "\u12e8\u12ed\u1208\u134d \u1243\u120d\u1295 \u1320\u1295\u12ab\u122b \u12e8\u121a\u12eb\u12f0\u122d\u1308\u12cd \u121d\u1295\u12f5\u1295 \u1290\u12cd "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/security-ethiopia/7_how_do_i_effectively_use_pseudonyms/how_do_i_effectively_use_pseudonyms_library.json", 
+    "thumbnailPath": "org.storymaker.app/security-ethiopia/cover.png", 
+    "language": "am", 
+    "title": "\u12e8\u1265\u12d5\u122d \u1235\u121e\u127d\u1295 \u12cd\u1324\u1273\u121b \u1260\u1206\u1290 \u1218\u120d\u12a9 \u1218\u1320\u1240\u121d \u12e8\u121d\u127d\u1208\u12cd \u12a5\u1295\u12f4\u1275 \u1290\u12cd "
+  }
+]

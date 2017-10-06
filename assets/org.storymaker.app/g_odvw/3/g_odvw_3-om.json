@@ -1,0 +1,115 @@
+{
+    "cards": [
+        {
+            "level": "Qophii", 
+            "headline": "Seenessuudhaan Seenaa Qopheessi.", 
+            "time": "? Minutes", 
+            "exampleMediaPath": "cover.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Tokkoon tokkoon muraalee shanan dhiyaatan keessaa tokko fayyadamuudhaan, seenaa waraabiitii seenessa itti dabali.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "text": "Galmikee gosoota waraabbii shananii fi seenessa fayyadamuudhaan seenaa jalqaba, gidduu fi xumura qabu himuudha.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "Seenicha naannoo qaamichaatti ijaari, muraalee hafan seenaa qaamichaa akka ibsaniif itti fayyadami.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Muraaleen bakkaa iddoo seenichi itti ta'u uumuuf gaariidha."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "Muraa barbaadde kutuuf fakkii murichaarra tuqi.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Muraaleen qaamaa gaaffiif deebii warra tuqamaniin walitti hidhuudhaaf gaariidha. "
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Muraan gochaa gocha hangafaa adeemsarra jiru agarsiisa. Gochicha guutummaatti waraabi."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Muraaleen bu'aa, bu'aa adeemsa qaamichaa yookaan gocha hangafaa agarsiisa."
+            ], 
+            "clipType": "result", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Muraaleen mallattoo gadi fageenya baayyee adda ta'e agarsiisu, bu'aa yookaan gocha hangafaa ta'uu danda'a. Dhiyaattee!"
+            ], 
+            "clipType": "signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "text": "Yoo muraa dabalataa kaardii kamiinuu keessatti waraabdeetta ta'e, kaardiinkee muraa tokko qofa, walumaa galatti shan akka qabaatuuf isa dabalata ta'e haquukee mirkaneeffadhu.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
+            "text": "Kaardii itti aanu irratti, muraaleekee irra deebitee ilaaluu dandeessa, yoo si gammachiisan, maxxansi dhiibi.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }, 
+        {
+            "text": "Seenessuukee hin irraanfatin", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6"
+        }, 
+        {
+            "text": "Seenessakee dura barreessi. Waan salphaa, adda ta'e fi fakkichaaf kan ta'u barreessi.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Ol fe'uu yeroo xumurtu, kutaatti deebi'i.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "g_odvw_3", 
+    "title": "Seenaa Seenessuu Qopheessi."
+}

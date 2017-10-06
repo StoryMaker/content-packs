@@ -1,0 +1,226 @@
+{
+    "cards": [
+        {
+            "header": "\u1240\u1325\u120d", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "\u12ed\u1205\u1295 \u12a0\u1265\u1290\u1275 \u1260\u1270\u1218\u1208\u12a8\u1270"
+        }, 
+        {
+            "text": "\u12ed\u1205 \u12a0\u1265\u1290\u1275 \u1260\u121b\u1205\u1260\u1228\u1230\u1265\u12ce \u12cd\u1235\u1325 \u12e8\u121a\u12a8\u1230\u1275\u1295 \u12ad\u1235\u1270\u1275 \u1208\u1218\u12d8\u1308\u1265 \u12ed\u1228\u12f3\u12ce\u1273\u120d\u1362 \u12e8\u126a\u12f2\u12ee \u12e8\u12dc\u1293 \u12d8\u1308\u1263\u12ce\u127d \u12a0\u1265\u12db\u129b\u12cd\u1295 \u130a\u12dc \u12e8\u121a\u12a8\u1293\u12c8\u1291\u1275 \u1260\u1275\u1228\u12ab \u1290\u12cd\u1362 \u12ed\u1205\u1295 \u1260\u1218\u1328\u1228\u123b \u120b\u12ed \u1218\u1328\u1218\u122d \u12ed\u127d\u120b\u1209\u1362  \u12e8\u1270\u1230\u1321\u1275 \u12ad\u120a\u1356\u127d \u12e8\u1265\u12d9 \u12ad\u1235\u1270\u1276\u127d\u1295 \u1273\u122a\u12ad \u1208\u1218\u1295\u1308\u122d \u12e8\u121a\u12eb\u1235\u1348\u120d\u1309\u12ce\u1275\u1295 \u12cb\u1293 \u1240\u1228\u133b\u12ce\u127d \u12ed\u1238\u134d\u1293\u1209\u1362 \u12a5\u1295\u12f0 \u12a0\u1235\u1348\u120b\u130a\u1290\u1271 \u1240\u1228\u133b\u12ce\u127d\u1295 \u1218\u12dd\u1208\u120d \u12c8\u12ed\u121d \u120c\u120e\u127d \u1240\u1228\u133b\u12ce\u127d\u1295 \u1218\u1320\u1240\u121d \u12ed\u127d\u120b\u1209\u1362 \u1260\u1270\u1328\u121b\u122a\u121d \u12e8\u1270\u1230\u1321\u1275\u1295 \u1325\u12eb\u1244\u12ce\u127d \u1208\u12a5\u122d\u1235\u12ce \u1260\u121a\u12eb\u1235\u1348\u120d\u130d\u12ce\u1275 \u1218\u120d\u12a9 \u121b\u1235\u1270\u12ab\u12a8\u120d \u12ed\u127d\u120b\u1209\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_news_event_video::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "video", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:12", 
+            "goals": [
+                "\u12ad\u1235\u1270\u1271 \u12e8\u1275 \u12a5\u1295\u12f0\u121a\u12ab\u1204\u12f5 \u12eb\u1233\u12e9\u1362"
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "\u1208\u12ad\u1235\u1270\u1271 \u12dd\u130d\u1305\u1275 \u1232\u12f0\u1228\u130d \u12eb\u1233\u12e9\u1362"
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:12", 
+            "goals": [
+                "\u1260\u12ad\u1235\u1270\u1271 \u120b\u12ed \u12e8\u1270\u1348\u1320\u1228 \u1208\u12e8\u1275 \u12eb\u1208 \u1290\u1308\u122d\u1295 \u12eb\u1233\u12e9\u1362"
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "\u12a0\u1295\u12f5 \u130d\u1208\u1230\u1265 \u12ad\u1235\u1270\u1271\u1295 \u12a5\u1295\u12f2\u12eb\u1235\u1270\u12cb\u12cd\u1245 \u12ed\u1320\u12ed\u1241\u1362 "
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                " \u12ad\u1235\u1270\u1271 \u120b\u12ed \u12e8\u121a\u1348\u1320\u1228\u12cd\u1295 \u1290\u1308\u122d \u12eb\u1233\u12e9\u1362"
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:14", 
+            "goals": [
+                "\u1208\u12ad\u1235\u1270\u1271 \u12a0\u1235\u1348\u120b\u130a \u12e8\u1206\u1290 \u1290\u1308\u122d \u12eb\u1233\u12e9\u1362 "
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "\u1260\u12ad\u1235\u1270\u1271 \u120b\u12ed \u12eb\u1208\u1295 \u12a0\u1295\u12f5 \u1230\u12cd \u201c\u12ad\u1235\u1270\u1271\u1295 \u1218\u1233\u132d \u12e8\u121a\u12eb\u12f0\u122d\u1308\u12cd \u121d\u1295\u12f5\u1295 \u1290\u12cd?\u201d \u1265\u1208\u12cd \u12ed\u1320\u12ed\u1241\u1362"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "\u1208\u12ad\u1235\u1270\u1271 \u12a0\u1235\u1348\u120b\u130a \u12e8\u1206\u1290 \u1266\u1273 \u12eb\u1233\u12e9\u1362"
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "\u12a0\u1295\u12f5 \u1263\u1208\u121e\u12eb \u1235\u1208 \u12ad\u1235\u1270\u1271 \u12a0\u1235\u1270\u12eb\u12e8\u1275 \u12a5\u1295\u12f2\u1230\u1325 \u12ed\u1320\u12ed\u1241\u1362 "
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:09", 
+            "goals": [
+                "\u1260\u12ad\u1235\u1270\u1271 \u120b\u12ed \u12a5\u12e8\u1270\u12ab\u1204\u12f0 \u12eb\u1208 \u12a0\u1295\u12f5 \u1290\u1308\u122d \u12eb\u1233\u12e9\u1362 "
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_9"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:15", 
+            "goals": [
+                "\u1260\u12ad\u1235\u1270\u1271 \u120b\u12ed \u1230\u12ce\u127d \u12a5\u122d\u1235 \u1260\u122d\u1235 \u1232\u1290\u130b\u1308\u1229 \u12eb\u1233\u12e9\u1362"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_10"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "\u12a5\u1295\u12f2\u1205 \u1265\u1208\u12cd \u12ed\u1320\u12ed\u1241\u1366 \u1260\u12ad\u1235\u1270\u1271 \u120b\u12ed \u121d\u1295 \u1270\u1348\u1320\u1228?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_11"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "\u1260\u12ad\u1235\u1270\u1271 \u120b\u12ed \u1230\u12ce\u127d \u12a5\u122d\u1235 \u1260\u122d\u1235 \u1260\u1218\u1290\u130b\u1308\u122b\u1278\u12cd \u12e8\u1270\u1348\u1320\u1228\u12cd\u1295 \u12cd\u1324\u1275 \u12eb\u1233\u12e9\u1362"
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_12"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "\u1260\u12ad\u1235\u1270\u1271 \u120b\u12ed \u12e8\u1270\u1308\u1298\u1295 \u12a0\u1295\u12f5 \u1230\u12cd \u1235\u120b\u12f0\u1228\u1308\u12cd \u1290\u1308\u122d \u12a5\u1295\u12f2\u12eb\u12c8\u122b \u12ed\u1320\u12ed\u1241\u1362"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_13"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "\u1260\u12ad\u1235\u1270\u1271 \u120b\u12ed \u1308\u1338 \u1263\u1205\u122a\u12cd \u12e8\u1270\u1293\u1308\u1228\u12cd\u1295 \u1290\u1308\u122d \u12eb\u1233\u12e9\u1362"
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_14"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "\u12ad\u1235\u1270\u1271 \u12e8\u121a\u1320\u1293\u1240\u1245\u1260\u1275 \u1235\u134d\u122b \u12e8\u1270\u1208\u12e8 \u12a8\u1206\u1290 \u1235\u134d\u122b\u12cd\u1295 \u12eb\u1233\u12e9\u1362 "
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_15"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:14", 
+            "goals": [
+                "\u12ad\u1235\u1270\u1271 \u1232\u1320\u1293\u1240\u1245 \u12eb\u1233\u12e9\u1362"
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_16"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "edit", 
+                "video", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "narration"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_news_event_video", 
+    "title": "\u12e8\u12ad\u1235\u1270\u1275 \u12e8\u126a\u12f2\u12ee \u12d8\u1308\u1263"
+}

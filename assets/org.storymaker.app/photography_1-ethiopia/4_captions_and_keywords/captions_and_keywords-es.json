@@ -1,0 +1,227 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "\u00bfC\u00f3mo escribo un pie de foto b\u00e1sico para acompa\u00f1ar una fotograf\u00eda?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; C\u00f3mo escribir un pie de foto b\u00e1sico para una fotograf\u00eda.  \n&bull; C\u00f3mo escribir etiquetas y palabras clave para una fotograf\u00eda.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "## Foto de ejemplo con un buen pie de foto, palabras claves, y etiquetas.  \n![Foto de ejemplo.](2.jpg)  \n### Pie de foto: 4 de diciembre, 2014 \u2014 Buyumbura \u2014 Estudiante sentando frente a un ordenador en la biblioteca central de la Universidad del Lago Tanganika, la universidad m\u00e1s destacada de Burundi. Realizar investigaciones significativas siempre fue pr\u00e1cticamente imposible en esta universidad infrafinanciada, pero el acceso a Internet est\u00e1 ayudando a cambiar eso.\n### Palabras clave: Universidad del Lago Tanganika, acceso a Internet, biblioteca, investigaci\u00f3n, pobreza, educaci\u00f3n superior, Burundi, Buyumbura  \n### Etiquetas: chica, computadora, libros, biblioteca, silla, mesa, Buyumbura, \u00c1frica, escuela, universidad\nToda fotograf\u00eda necesita un pie de foto y palabras-clave/etiquetas. Un buen pie de foto proporciona a la audiencia la informaci\u00f3n b\u00e1sica y el contexto para comprender una fotograf\u00eda y su relevancia para las noticias: d\u00f3nde fue tomada la foto, cu\u00e1ndo fue tomada, y una descripci\u00f3n muy breve de lo que hay en la foto. Los buscadores y los campos de b\u00fasqueda en sitios como Flickr no pueden reconocer im\u00e1genes. S\u00f3lo pueden reconocer textos asociados con la imagen. Las palabras clave y las etiquetas, junto con el pie de foto, ayudan a los espectadores a encontrar im\u00e1genes a trav\u00e9s de los motores de b\u00fasqueda.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## Foto de ejemplo con un mal pie de foto\n![Foto de ejemplo.](3.jpg)  \n### Mal pie de foto: Mujer sentada en su tienda de costura tras una bonita m\u00e1quina de coser.     \n### Buen pie de foto: 4 de diciembre, 2014  \u2013 Buyumbura \u2013 Una costurera con m\u00e1s de 25 a\u00f1os de experiencia. Con el influjo del ropa de fabricaci\u00f3n china, han tenido que encontrar un nuevo segmento de mercado m\u00e1s adinerado al que abastecer.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Los pies de foto deben ser claros, precisos y completos en la informaci\u00f3n que proporcionan acerca de la fotograf\u00eda.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## Pies de foto en pruebas fotogr\u00e1ficas.  \nLos pies de foto para un ensayo fotogr\u00e1fico no deben repetir la misma informaci\u00f3n una y otra vez. Escriba las leyendas como explicaciones cortas y progresivas de la imagen individual en el contexto de la serie completa. En algunos casos puede presentarlas como tarjetas de presentacion que ofrecen algunos breves detalles. Los detalles son informaciones o estad\u00edsticas adicionales que le ayudan a proveer el contexto.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![Foto de ejemplo.](4.jpg)  \n### Buen pie de foto: 5 de diciembre, 2014 \u2013 Buyumbura \u2013 El Mercado trimestral de \u00c1frica-Oriental en el Palacio de las Artes y de la Cultura en Buyumbura. Con las manufacturas burundesas a\u00fan recuper\u00e1ndose de la guerra, los consumidores est\u00e1n \u00e1vidos de comprar bienes importados de \u00c1frica-Oriental.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![Foto de ejemplo.](5.jpg)  \n### Buen pie de foto: 5 de diciembre, 2014 \u2013 Buyumbura \u2013 El Mercado trimestral de \u00c1frica-Oriental en el Palacio de la Artes y de la Cultura en Buyumbura. Con las manufacturas burundesas a\u00fan recuper\u00e1ndose de la guerra, los consumidores est\u00e1n \u00e1vidos de comprar bienes importados de \u00c1frica-Oriental.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![Foto de ejemplo.](6.jpg)  \n### Buen pie de foto: 5 de diciembre, 2014 \u2013 Buyumbura \u2013 El Mercado trimestral de \u00c1frica-Oriental en el Palacio de las Artes y de la Cultura en Buyumbura. Con las manufacturas burundesas a\u00fan recuper\u00e1ndose de la guerra, los consumidores est\u00e1n \u00e1vidos de comprar bienes importados de \u00c1frica-Oriental.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## Escribir pies de foto  \nUn pie de foto debe constar de una o dos frases. En la mayor\u00eda de pies de foto la primera frase identifica a las personas y ubicaci\u00f3n de la fotograf\u00eda, y la fecha en la que fue tomada. La segunda frase debe proporcionar informaci\u00f3n contextual para ayudar a la audiencia a comprender lo que est\u00e1 mirando. \n  \nLa primera frase debe:  \n&bull; Estar escrita en tiempo presente.  \n&bull; Estar escrita como una frase completa.  \n&bull; Describir lo que hay en la foto.  \n&bull; Decir exactamente cuando fue tomada.  \n&bull; Decir exactamente donde fue tomada.  \n  \nUna segunda o a veces tercera frase:  \n&bull; Habitualmente puede estar escrita en tiempo pasado si eso tiene m\u00e1s sentido.  \n&bull; Debe estar escrita como una frase completa.  \n&bull; Debe proporcionar contexto para permitir que la audiencia comprenda mejor el significado de la imagen.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "### Ejemplo:  \nUn chico gravemente quemado por un coche bomba el 9 de junio de 2010, recibe cuidados en el Instituto Indira Gandhi de Medicina Infantil en Kabul, Afganist\u00e1n. Los doctores est\u00e1n luchando con medicamentos limitados para tratar al n\u00famero creciente de v\u00edctimas infantiles, cuyas heridas a menudo vienen acompa\u00f1adas por otros problemas m\u00e9dicos tales como una pobre nutrici\u00f3n que disminuye la capacidad de sanaci\u00f3n del chico. (John Smock/SIPA Press).", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "![Foto de ejemplo.](7.jpg)  \n### Buen pie de foto: 5 de diciembre, 2014 \u2013 Buyumbura \u2013 Ni\u00f1os de la calle tratan de sobrevivir en las calles de Burundi: deteniendo el flujo del tr\u00e1fico para que los conductores salgan del parking, esperando una peque\u00f1a propina (alrededor de 500 Bfu (francos burundeses) o 0,30 $) a cambio.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "![Foto de ejemplo.](8.jpg)  \n### Buen pie de foto: 5 de diciembre, 2014 \u2013 Buyumbura \u2013 Ni\u00f1os de la calle tratan de sobrevivir en las calles de Burundi: detiendo el flujo del tr\u00e1fico para que los conductores pueda salir de un parking, esperando una peque\u00f1a propina (de alrededor de 500 Bfu (francos burundeses) or 0,30 $) a cambio.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "![Foto de ejemplo.](9.jpg)  \n### Buen pie de foto: 5 de diciembre, 2014 \u2013 Buyumbura \u2013 Ni\u00f1os de la calle tratan de sobrevivir en las calles de Burundi: deteniendo el flujo del tr\u00e1fico para que los conductores puedan salir de un parking, esperando una peque\u00f1a propina (de alrededor de 500 Bfu (francos burundeses) o 0,30 $) a cambio.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "text": "El formato exacto para los pies de foto puede variar, pero un pie de foto b\u00e1sico debe:\n&bull; Identificar claramente a la gente y la ubicaci\u00f3n en la foto. Deben incluirse los t\u00edtulos profesionales de los individuos y el nombre formal de la ubicaci\u00f3n. En grupos grandes, puede que s\u00f3lo se requieran las identificaciones de las personas notables. En eventos p\u00fablicos donde los individuos en el encuadre no son significativos, puede que no se requiera identificaci\u00f3n.\n&bull; Incluya la fecha en la que se tom\u00f3 la fotograf\u00eda. Si se utiliza una fotograf\u00eda de archivo o una fotograf\u00eda tomada antes del evento, el pie de foto debe dejar claro que es una \"foto de archivo\".\n&bull; Proporcione alg\u00fan contexto o ambientaci\u00f3n para que la audiencia pueda comprender el valor period\u00edstico de la fotograf\u00eda.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "text": "## Palabras clave y etiquetas  \n![Etiquetas: alquiler de coches, econom\u00eda, Buyumbura, Burundi, ONGs, guerra, crisis](10.jpg)  \n### Etiquetas: alquiler de coches, econom\u00eda, Buyumbura, Burundi, ONGs, guerra, crisis \nLas palabras clave y las etiquetas ayudan a los motores de b\u00fasqueda a encontrar im\u00e1genes y trabajar con distintas fotos en el archivo. T\u00edpicamente habr\u00e1 un campo para palabras clave o etiquetas junto al campo del pie de foto.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_14"
+        }, 
+        {
+            "text": "## Consejos para escribir palabras clave y etiquetas:\n&bull; Incluir informaci\u00f3n geogr\u00e1fica espec\u00edfica.\n&bull; Evitar abreviaturas.  \n&bull; Palabra clave con el tipo de foto de que se trata (retrato, presentaci\u00f3n, econ\u00f3mica).  \n&bull; Considere la elecci\u00f3n de las palabras: \u00bfUsar\u00eda alguien otra palabra de forma m\u00e1s natural para realizar una b\u00fasqueda? \n&bull; Piense en palabras relacionadas con su tema que pudieran ayudar a encaminar a la gente hacia su foto. \n&bull; Utilice palabras comunes que reflejen elementos espec\u00edficos. Por ejemplo, para seguridad de computadoras: hacking, hackers, seguridad, cortafuegos, ataque, red, fallo.\n&bull; El orden de las palabras-clave/etiquetas es importante; el primer par de palabras se valora con mayor peso que las dem\u00e1s.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_15"
+        }, 
+        {
+            "text": "# Ejemplos aconsejados", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_16"
+        }, 
+        {
+            "text": "![Etiquetas: foto, hombre, documento de identidad, Burundi, huella dactilar, inscripci\u00f3n de votantes](11.jpg)  \n### Etiquetas: foto, hombre, documento de identidad, Burundi, huella dactilar, inscripci\u00f3n de votantes", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_17"
+        }, 
+        {
+            "text": "![Etiquetas: periodistas, jefe, conferencia, reuni\u00f3n, \u00c1frica, tel\u00e9fono, papel](12.jpg)  \n### Etiquetas: periodistas, jefe, conferencia, reuni\u00f3n, \u00c1frica, tel\u00e9fono, papel", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_18"
+        }, 
+        {
+            "text": "![Etiquetas: mujer, pa\u00f1uelo, ruina](13.jpg)  \n### Etiquetas: mujer, pa\u00f1uelo, ruina ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_19"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; El pie de foto y las palabras clave siempre deben estar incluidos.  \n&bull; Aseg\u00farese de que los nombres de personas y lugares est\u00e1n correctamente identificados y deletreados.  \n&bull; Sea preciso.  \n&bull; El fotoperiodismo es periodismo.  \n&bull; Si una foto est\u00e1 manipulada digitalmente m\u00e1s all\u00e1 del redimensionado y el control de color, debe etiquetarse como una \"foto ilustraci\u00f3n\" en el pie de foto o en los reconocimientos de la foto. Si se usaron t\u00e9cnicas de fotograf\u00eda inusuales, tales como efectos de alto rango din\u00e1mico (HDR), debe ser advertido en el pie de foto. \n&bull; No editorialice ni realice asunciones acerca de lo que alguien en una foto est\u00e1 pensando o sintiendo, por ejemplo: \"un votante descontento\" o \" un afortunado superviviente\".", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_20"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "La primera frase de un pie de foto debe incluir", 
+            "choices": [
+                {
+                    "text": "Una breve descripci\u00f3n de la escena de la imagen, la fecha, los emplazamientos, y los nombres de algunas de las personas o referencias importantes.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Una historia del evento fotografiado.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "La interpretaci\u00f3n del fot\u00f3grafo de lo que est\u00e1 sintiendo la gente en la imagen.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todas las anteriores.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Verdadero o Falso: Las palabras clave y etiquetas no s\u00f3lo ayudan a la gente a encontrar sus im\u00e1genes en l\u00ednea, le ayudan a usted y a las organizaciones de producci\u00f3n de noticias a encontrar im\u00e1genes m\u00e1s f\u00e1cilmente en su archivo fotogr\u00e1fico.", 
+            "choices": [
+                {
+                    "text": "Verdadero", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falso", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Un buen pie de foto tiene cu\u00e1les de las siguientes caracter\u00edsticas (puede ser m\u00e1s de una).", 
+            "choices": [
+                {
+                    "text": "El lugar y la fecha en que fue tomada la imagen est\u00e1 claro.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Las personas significativas retratadas son identificadas mediante el nombre completo y el t\u00edtulo.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "No hay errores ortogr\u00e1ficos ni gramaticales.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todas las anteriores.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "text": "![](15.jpg)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_21"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfCu\u00e1l es el mejor pie de foto para la imagen de arriba?", 
+            "choices": [
+                {
+                    "text": "2 de diciembre \u2013 Buyumbura \u2013 El famoso rapero burund\u00e9s Thomas Nzeyimana (conocido como Mkonbozi) en el Afro Music Studio en el barrio de Buyenzi de Buyumbura, Burundi.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "M\u00fasico en su estudio repleto de equipamiento caro.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Un rapero burund\u00e9s con un talento incre\u00edble habla sobre por qu\u00e9 motivo importa la m\u00fasica.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "captions_and_keywords", 
+    "title": "Pies de foto y palabras clave"
+}

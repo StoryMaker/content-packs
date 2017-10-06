@@ -1,0 +1,193 @@
+{
+    "cards": [
+        {
+            "text": "Vea la Tabla de Contenidos", 
+            "link": "toc::intro_card_0", 
+            "id": "link_card_0", 
+            "type": "LinkCard"
+        }, 
+        {
+            "level": "Introducci\u00f3n", 
+            "headline": "Conoce tu tel\u00e9fono m\u00f3vil", 
+            "time": "3-5 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Las fotograf\u00edas son extremadamente poderosas. Esta lecci\u00f3n le ense\u00f1ar\u00e1 los fundamentos del uso de la c\u00e1mara de su m\u00f3vil. Tambi\u00e9n se presentar\u00e1n el resto de las lecciones de este paquete.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "header": "Siguiente", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "milestone_start", 
+            "text": "COMIENZA"
+        }, 
+        {
+            "text": "Una c\u00e1mara de m\u00f3vil ve el mundo de forma muy diferente que su ojo. Necesita comprender las limitaciones para conseguir grandes fotos. Es esencial aprencer c\u00f3mo funciona la c\u00e1mara de su m\u00f3vil.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Compruebe el men\u00fa de su c\u00e1mara, especialmente c\u00f3mo cambiar el foco y la exposici\u00f3n.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Muchas aplicaciones de c\u00e1mara tienen una caracter\u00edstica para establecer el foco y la exposici\u00f3n.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Tu ojo se enfoca r\u00e1pidamente en la cosa singular de inter\u00e9s en tu campo visual. A una c\u00e1mara digital se le debe decir d\u00f3nde enfocarse, especialmente cuando hay poca luz, y puede ser lenta en su enfoque.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Toca tu pantalla y la aplicaci\u00f3n de tu c\u00e1mara se enfocar\u00e1 en tal punto.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "4.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Si su c\u00e1mara tiene una caracter\u00edstica de exposici\u00f3n, experimente para ver como cambia la iluminaci\u00f3n.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "4.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Si su sujeto est\u00e1 demasiado oscuro, pulse sobre un punto m\u00e1s luminoso en la pantalla junto al sujeto para encontrar un mejor balance entre exposici\u00f3n y foco.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Muchas de las c\u00e1maras de los tel\u00e9fonos m\u00f3viles tienen un zoom integrado, pero a menudo exageran el tama\u00f1o del pixel y que tan borroso es. Tus im\u00e1genes ser\u00e1n m\u00e1s claras y de mejor calidad si en su lugar te colocas m\u00e1s pr\u00f3ximo a tu sujeto.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "5.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "En la foto de abajo se utiliz\u00f3 el zoom digital. En la foto de arriba el fot\u00f3grafo se movi\u00f3 para estar m\u00e1s cerca del sujeto.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "5.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Las aplicaciones avanzadas en la c\u00e1mara de tu tel\u00e9fono m\u00f3vil te ayudar\u00e1n a hacer m\u00e1s con tu c\u00e1mara. Explora el men\u00fa de aplicaciones de tu c\u00e1mara.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "6.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Revisa la compensaci\u00f3n de exposici\u00f3n. flash y configuraciones HDR en las aplicaciones de tu c\u00e1mara.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "6.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Felicidades, ha aprendido los fundamentos de c\u00f3mo usar su c\u00e1mara. Est\u00e1 listo para continuar con las siguientes cinco lecciones. Cada lecci\u00f3n se presenta de forma muy parecida a esta, y cubrir\u00e1 una habilidad b\u00e1sica.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Siguiente Lecci\u00f3n", 
+            "link": "compose_with_a_grid::intro_card_0", 
+            "id": "link_card_1", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }
+    ], 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "know_your_mobile", 
+    "title": "Conoce tu tel\u00e9fono m\u00f3vil"
+}

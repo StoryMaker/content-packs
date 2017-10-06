@@ -1,0 +1,39 @@
+{
+    "title": "\u1270\u130d\u1263\u122d \u12e8\u121a\u12eb\u12ed\u120d\u1260\u1275\u1295 \u1245\u133d\u1260\u1275 \u1260\u134e\u1276 \u12a0\u1235\u1240\u122d", 
+    "storyPathTemplateFiles": {
+        "capture_peak_action": "capture_peak_action.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../3_create_layers/create_layers.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action", 
+            "dependencyFile": "capture_peak_action.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action_activity", 
+            "dependencyFile": "../4_capture_peak_action/capture_peak_action_activity.json"
+        }, 
+        {
+            "dependencyId": "shoot_on_an_angle", 
+            "dependencyFile": "../5_shoot_on_an_angle/shoot_on_an_angle.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "capture_peak_action"
+        }
+    ], 
+    "currentStoryPathFile": "capture_peak_action.json", 
+    "id": "capture_peak_action"
+}

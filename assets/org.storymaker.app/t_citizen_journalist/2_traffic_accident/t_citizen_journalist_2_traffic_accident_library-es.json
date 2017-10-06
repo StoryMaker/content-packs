@@ -1,0 +1,23 @@
+{
+    "title": "\u00bfVe un accidente de tr\u00e1nsito?", 
+    "storyPathTemplateFiles": {
+        "t_citizen_journalist_2_traffic_accident": "t_citizen_journalist_2_traffic_accident.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "t_citizen_journalist_2_traffic_accident", 
+            "dependencyFile": "t_citizen_journalist_2_traffic_accident.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "t_citizen_journalist_2_traffic_accident"
+        }
+    ], 
+    "currentStoryPathFile": "t_citizen_journalist_2_traffic_accident.json", 
+    "id": "t_citizen_journalist_2_traffic_accident_library"
+}

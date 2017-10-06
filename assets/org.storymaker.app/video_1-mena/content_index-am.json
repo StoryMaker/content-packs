@@ -1,0 +1,26 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-mena/1_introduction_to_video/introduction_to_video_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-mena/cover.png", 
+    "language": "am", 
+    "title": "\u126a\u12f2\u12ee\u1366 \u1218\u130d\u1262\u12eb"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-mena/2_video_basics/video_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-mena/cover.png", 
+    "language": "am", 
+    "title": "\u12e8\u126a\u12f2\u12ee \u1218\u1230\u1228\u1273\u12ca \u1290\u1325\u1266\u127d "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-mena/3_getting_good_sound_and_light/getting_good_sound_and_light_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-mena/cover.png", 
+    "language": "am", 
+    "title": "\u1325\u1229 \u12f5\u121d\u133d \u12a5\u1293 \u1265\u122d\u1203\u1295 \u121b\u130d\u1298\u1275 "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-mena/4_setting_white_balance_in_video/setting_white_balance_in_video_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-mena/cover.png", 
+    "language": "am", 
+    "title": " \u12e8\u126a\u12f2\u12ee \u12e8\u1240\u1208\u121d \u121a\u12db\u1295\u1295 \u121b\u1240\u1293\u1260\u122d"
+  }
+]

@@ -1,0 +1,23 @@
+{
+    "title": "Fotografiando Diferentes Historias", 
+    "storyPathTemplateFiles": {
+        "photographing_different_stories": "photographing_different_stories.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "photographing_different_stories", 
+            "dependencyFile": "photographing_different_stories.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "photographing_different_stories"
+        }
+    ], 
+    "currentStoryPathFile": "photographing_different_stories.json", 
+    "id": "photographing_different_stories"
+}

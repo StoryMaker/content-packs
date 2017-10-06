@@ -1,10 +1,34 @@
 #!/usr/bin/env python
 
+"""
+This set of content scripts done a bunch of stuff, a bit confusingly, but it with a bit of love and cleanup should be super helpful to manage i18n projects.
+
+At its core there is a yaml/ directory structure which defines the input yaml files.
+
+parse_file does some fixing of badly formatted yaml files, but mainly it rips out all string fields and created unique keys pointing at the node in the yaml heirachy and stuffs tehm into a flattened k/v json file in intermediates/strings/.  These files are nicely handled by translation sites like Transifex.
+
+Once transifex does its thing, it creates language specific versions of these flat strings files in intermediates/translated_strings/
+
+Next our script grabs the generated .json file and the translated strings file and swaps in the translated values by traversing the json with the keys on the translatd strings files, something like xpath.  These translated files are created alongside the originals in assets/
+
+In addition, some content packs have localized media.  This is accomplished by having separate locale specific media assets folders in a subdirectory in assets called {{content_pack}}-media.  prep_localized_pack creates paralele copies of the translated json files for each locale and merges in the localized media, creating top level content packs for each localization with identical json files but localized media.
+
+then we generate indexes for the zip files
+
+"""
+
 import sys
 import os
 import yaml
 import json
 import glob
+import click
+
+# setup cli
+@click.group()
+def cli():
+    pass
+    
 #stream = open("test.yaml", 'r')
 #stream = open("lesson_test.yaml", 'r')
 
@@ -31,7 +55,7 @@ def set_id(key, card):
 # TODO export directly to the real assets/org.storymaker.app/ folder
 # TODO warn that fields existed in card but not card
 
-def parse_file(in_file_name, json_out_file_name, strings_out_file_name):
+def parse_file(in_file_name, json_out_file_name, strings_out_file_name, json_dir, strings_dir):
     stream = open(in_file_name, 'r')
     doc = yaml.load(stream)
     strings = {}
@@ -39,7 +63,7 @@ def parse_file(in_file_name, json_out_file_name, strings_out_file_name):
     cardcounts = {}
     if doc.has_key('cards'): # SPLS can have no cards
         for card in doc['cards']:
-            print "card: %s" % card
+            #print "card: %s" % card
             if card['type'] == 'MarkDownCard': # FIXME this should deal with MarkdownCard capitalization too
                 card['type'] = 'MarkdownCard'
                 set_id("markdown_card", card)
@@ -189,7 +213,8 @@ def parse_file(in_file_name, json_out_file_name, strings_out_file_name):
 
     try:
         os.makedirs(json_dir)
-    except: pass
+    except: 
+        pass
     
     j = json.dumps(doc, indent=4)
     json_outfile = open(json_out_file_name, 'w')
@@ -207,17 +232,26 @@ def parse_file(in_file_name, json_out_file_name, strings_out_file_name):
 
     try:
         os.makedirs(strings_dir)
-    except: pass
+    except: 
+        pass
+        
     strings_json = json.dumps(strings, indent=2)
     strings_outfile = open(strings_out_file_name, 'w')
     strings_outfile.write(strings_json)
     strings_outfile.close()
 
+# helper than deals with race condition in checking if dir exists
+# from http://stackoverflow.com/a/14364249/41694
+def mkdirs(dir):
+    try: 
+        os.makedirs(path)
+    except OSError:
+        if not os.path.isdir(path):
+            raise
 
 
-def do_dir():
+def do_dir(yaml_dir, json_dir, strings_dir):
     for f in os.listdir(yaml_dir):
-        #print name
         cardcounts = {}
         file_name, file_extension = os.path.splitext(f)
         if file_extension == ".yaml":
@@ -225,28 +259,27 @@ def do_dir():
             in_file = yaml_dir + "/" + f
             json_out_file = "%s/%s.json" % (json_dir, file_name)
             strings_out_file = "%s/%s.json" % (strings_dir, file_name)
-            parse_file(in_file, json_out_file, strings_out_file)
+            parse_file(in_file, json_out_file, strings_out_file, json_dir, strings_dir)
 
-# FIXME global vars are the best!!
-
-def generate_content_index_record(library_dir, package, content_pack, library, instance, lang=None):
+def generate_content_index_record(library_dir, package, content_pack, library, file_name, lang=None):
     rec = {}
-    instance_id = instance.split('_library')[0]
+    #id = instance.split('_library')[0]
+    #id = file_name #fixme we shoulf fetch this from the id: field not infer from the filename
 
     # first try to use the translated file, if it doesnt exist, fallback on 'en'
-    file_path = '%s/intermediates/translated_strings/%s/%s/%s/%s-%s.json' % (os.getcwd(), package, content_pack, library, instance, lang)
+    file_path = '%s/intermediates/translated_strings/%s/%s/%s/%s-%s.json' % (os.getcwd(), package, content_pack, library, file_name, lang)
     if not os.path.isfile(file_path):
-        file_path = '%s/%s.json' % (library_dir, instance)
+        file_path = '%s/%s.json' % (library_dir, file_name)
     print "file_path: " + file_path
     f = open(file_path, 'r')
     file_json = json.load(f)
     
-    rec['instanceFilePath'] = "%s/%s/%s/%s.json" % (package, content_pack, library, instance)
+    rec['instanceFilePath'] = "%s/%s/%s/%s.json" % (package, content_pack, library, file_name)
     if lang is None:
         rec['language'] = 'en'
     else:
         rec['language'] = lang
-    rec['title'] = file_json['%s::title' % (instance_id)]
+    rec['title'] = next(v for k, v in file_json.items() if k.endswith('::title'))
     covers = glob.glob("assets/%s/%s/%s/cover.*" % (package, content_pack, library))
     print covers
     if len(covers) > 0:
@@ -264,7 +297,6 @@ def generate_content_index(package, content_pack, lang=None):
     lang_postfix = ""
     if lang is not None:
         lang_postfix = "-%s" % lang
-    cardcounts = {}
     content_index = []
     content_pack_strings_dir = os.getcwd() + "/intermediates/strings/%s/%s" % (package, content_pack)
     lst = sorted(os.listdir(content_pack_strings_dir))
@@ -272,15 +304,10 @@ def generate_content_index(package, content_pack, lang=None):
         library_dir = "%s/%s" % (content_pack_strings_dir, library)
         if os.path.isdir(library_dir):
             print library_dir
-            #json_dir = os.getcwd() + "/assets/%s/%s/%s" % (package, content_pack, library)
-            #strings_dir = os.getcwd() + "/intermediates/strings/%s/%s/%s" % (package, content_pack, library)
-            
+
             for f in os.listdir(library_dir):
-                #print "    %s" % f
-                cardcounts = {}
                 file_name, file_extension = os.path.splitext(f)
                 if file_extension == ".json" and "_library" in file_name:
-                    #print "      ...is library"
                     rec = generate_content_index_record(library_dir, package, content_pack, library, file_name, lang)
                     print rec
                     content_index.append(rec)
@@ -320,7 +347,98 @@ def mergetree(src, dst, symlinks = False, ignore = None):
 
 package = 'org.storymaker.app'
 
-#############################3
+#############################
+
+"""
+print "generating content for default library"
+cardcounts = {}
+yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/default"
+json_dir = os.getcwd() + "/assets/org.storymaker.app/default"
+strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/default"
+do_dir(yaml_dir, json_dir, strings_dir)
+
+print "generating content for learning guide 1"
+yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/learning_guide/learning_guide_1"
+json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_1"
+strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/learning_guide/learning_guide_1"
+do_dir(yaml_dir, json_dir, strings_dir)
+
+print "generating content for learning guide 2"
+yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/learning_guide/learning_guide_2"
+json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_2"
+strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/learning_guide/learning_guide_2"
+do_dir(yaml_dir, json_dir, strings_dir)
+
+print "generating content for learning guide 3"
+yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/learning_guide/learning_guide_3"
+json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_3"
+strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/learning_guide/learning_guide_3"
+do_dir(yaml_dir, json_dir, strings_dir)
+"""
+
+"""
+print "generating content for IJF"
+yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/ijf15/ijf15"
+json_dir = os.getcwd() + "/assets/org.storymaker.app/ijf15/ijf15"
+strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/ijf15"
+do_dir(yaml_dir, json_dir, strings_dir)
+"""
+
+"""
+print "generating content for DressGate"
+yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/dressgate"
+json_dir = os.getcwd() + "/assets/org.storymaker.app/dressgate"
+strings_dir = os.getcwd() + "/intermediates/org.storymaker.app/dressgate"
+do_dir(yaml_dir, json_dir, strings_dir)
+"""
+
+"""
+print "generating content for beta paths"
+pack_dir = "beta"
+yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/" + pack_dir
+for f in os.listdir(yaml_parent_dir):
+    yaml_dir = "%s/%s" % (yaml_parent_dir, f)
+    print yaml_dir
+    json_dir = os.getcwd() + "/assets/org.storymaker.app/%s/%s" % (pack_dir, f)
+    strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/%s/%s" % (pack_dir, f)
+    do_dir(yaml_dir, json_dir, strings_dir)
+generate_content_index(package, pack_dir)
+generate_content_index(package, pack_dir, 'ar')
+generate_content_index(package, pack_dir, 'es')
+generate_content_index(package, pack_dir, 'fa')
+#"""
+
+"""
+print "generating content for mobile_photo_basics"
+pack_dir = "mobile_photo_basics"
+yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/" + pack_dir
+for f in os.listdir(yaml_parent_dir):
+    yaml_dir = "%s/%s" % (yaml_parent_dir, f)
+    print yaml_dir
+    json_dir = os.getcwd() + "/assets/org.storymaker.app/%s/%s" % (pack_dir, f)
+    strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/%s/%s" % (pack_dir, f)
+    do_dir(yaml_dir, json_dir, strings_dir)
+generate_content_index(package, pack_dir)
+generate_content_index(package, pack_dir, 'ar')
+generate_content_index(package, pack_dir, 'es')
+generate_content_index(package, pack_dir, 'fa')
+#"""
+
+"""
+print "generating content for citizen_journalism_pack"
+pack_dir = "citizen_journalism_pack"
+yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/" + pack_dir
+for f in os.listdir(yaml_parent_dir):
+    yaml_dir = "%s/%s" % (yaml_parent_dir, f)
+    print yaml_dir
+    json_dir = os.getcwd() + "/assets/org.storymaker.app/%s/%s" % (pack_dir, f)
+    strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/%s/%s" % (pack_dir, f)
+    do_dir(yaml_dir, json_dir, strings_dir)
+generate_content_index(package, pack_dir)
+generate_content_index(package, pack_dir, 'ar')
+generate_content_index(package, pack_dir, 'es')
+#"""
+
 """
 print "generating content for lessons"
 cardcounts = {}
@@ -331,139 +449,397 @@ for f in os.listdir(yaml_parent_dir):
     print yaml_dir
     json_dir = os.getcwd() + "/assets/org.storymaker.app/lessons/%s" % f
     strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/lessons/%s" % f
-    do_dir()
+    do_dir(yaml_dir, json_dir, strings_dir)
+#"""
 
-print "generating content for default library"
+
+"""
+print "generating content for journalism_part_1"
 cardcounts = {}
-yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/default"
-json_dir = os.getcwd() + "/assets/org.storymaker.app/default"
-strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/default"
-do_dir()
-
-print "generating content for learning guide 1"
-yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/learning_guide/learning_guide_1"
-json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_1"
-strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/learning_guide/learning_guide_1"
-do_dir()
-
-print "generating content for learning guide 2"
-yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/learning_guide/learning_guide_2"
-json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_2"
-strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/learning_guide/learning_guide_2"
-do_dir()
-
-print "generating content for learning guide 3"
-yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/learning_guide/learning_guide_3"
-json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_3"
-strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/learning_guide/learning_guide_3"
-do_dir()
-"""
-
-"""
-print "generating content for IJF"
-yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/ijf15/ijf15"
-json_dir = os.getcwd() + "/assets/org.storymaker.app/ijf15/ijf15"
-strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/ijf15"
-do_dir()
-"""
-
-"""
-print "generating content for DressGate"
-yaml_dir = os.getcwd() + "/yaml/org.storymaker.app/dressgate"
-json_dir = os.getcwd() + "/assets/org.storymaker.app/dressgate"
-strings_dir = os.getcwd() + "/intermediates/org.storymaker.app/dressgate"
-do_dir()
-"""
-
-#"""
-print "generating content for beta paths"
-pack_dir = "beta"
-yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/" + pack_dir
+content_index = []
+yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/journalism_part_1"
 for f in os.listdir(yaml_parent_dir):
     yaml_dir = "%s/%s" % (yaml_parent_dir, f)
     print yaml_dir
-    json_dir = os.getcwd() + "/assets/org.storymaker.app/%s/%s" % (pack_dir, f)
-    strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/%s/%s" % (pack_dir, f)
-    do_dir()
-generate_content_index(package, pack_dir)
+    json_dir = os.getcwd() + "/assets/org.storymaker.app/journalism_part_1/%s" % f
+    strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/journalism_part_1/%s" % f
+    do_dir(yaml_dir, json_dir, strings_dir)
 #"""
 
-#"""
-print "generating content for mobile_photo_101"
-pack_dir = "mobile_photo_101"
-yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/" + pack_dir
-for f in os.listdir(yaml_parent_dir):
-    yaml_dir = "%s/%s" % (yaml_parent_dir, f)
-    print yaml_dir
-    json_dir = os.getcwd() + "/assets/org.storymaker.app/%s/%s" % (pack_dir, f)
-    strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/%s/%s" % (pack_dir, f)
-    do_dir()
-generate_content_index(package, pack_dir)
-#"""
-
-#"""
-print "generating content for citizen_journalism_pack"
-pack_dir = "citizen_journalism_pack"
-yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/" + pack_dir
-for f in os.listdir(yaml_parent_dir):
-    yaml_dir = "%s/%s" % (yaml_parent_dir, f)
-    print yaml_dir
-    json_dir = os.getcwd() + "/assets/org.storymaker.app/%s/%s" % (pack_dir, f)
-    strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/%s/%s" % (pack_dir, f)
-    do_dir()
-generate_content_index(package, pack_dir)
-#"""
 
 
 #########################################
-print "prepping lesson asset folder..."
+
+# TODO mkdir the dirs you need as they wont exist on clean checkout
+
+def generate_translations_for_file(original_json_file_path, translated_strings_file_path, out_file_path):
+    in_stream = open(original_json_file_path, 'r')
+    doc = json.load(in_stream)
+
+    strings_stream = open(translated_strings_file_path, 'r')
+    strings = json.load(strings_stream)
 
 
-def prep_lesson_pack(content_pack, lang=None):
+    for k,v in strings.iteritems():
+        splits = k.split('::')
+        path_id = splits[0]
+
+        # get the doc level properites (of course this will badly break if the doc has array or dict props and is hence more than 2 deep
+        if len(splits) == 2:
+            key_id = splits[1]
+            doc[key_id] = v # in this case its a doc level prop, not a path_id
+            continue
+
+        # check we are in teh right file by checking the pathid
+        if not doc['id'] == path_id:
+            print "!! key in translation file '%s' doesn't match this path's id: '%s'" % (splits[0], doc['id'])
+            exit(-1)
+
+        card_id = splits[1]
+        prop_key = splits[2]
+
+
+        for card in doc['cards']:
+            if card['id'] == card_id:
+                if len(splits) == 3:
+                    key_splits = prop_key.split('[')
+                    if len(key_splits) == 1:
+                        key = key_splits[0]
+                        # of form  "event_discussion_audio_question1::evaluation_card_0::text"
+                        print "at %s, replacing '%s' with '%s'" % (k, card[key], v)
+                        card[key] = v
+                    elif len(key_splits) == 2:
+                        # of form "event_discussion_audio_question1::clip_card_5::goals[0]"
+                        key = key_splits[0]
+                        array_index = int(key_splits[1].split(']')[0]) # FIXME skip this step by initially splitting on [ | ] in a regex
+                        print "at %s, replacing '%s' with '%s'" % (k, card[key][array_index], v)
+                        card[key][array_index] = v
+                        # index into an array (or dict?)
+                elif len(splits) == 4:
+                    key_splits = prop_key.split('[')
+                    if len(key_splits) == 1:
+                        key = key_splits[0]
+                        # of form  "event_discussion_audio_question1::evaluation_card_0::text"
+                        print "at %s, replacing '%s' with '%s'" % (k, card[key], v)
+                        card[key] = v
+                    elif len(key_splits) == 2:
+                        # of form "default_library::tip_collection::tips[0]::text"
+                        key = key_splits[0]
+                        array_index = int(key_splits[1].split(']')[0]) # FIXME skip this step by initially splitting on [ | ] in a regex
+                        real_prop_key = splits[3]
+                        print u"at {0}".format(k)
+                        print u"    replacing '{0}' with '{1}'".format(card[key][array_index][real_prop_key], v)
+                        card[key][array_index][real_prop_key] = v
+                        # index into an array (or dict?)
+                else:
+                    print "\n\n\ncard\n%s\n\n\n" % card
+                    print "!! deeper nesting we need to handle in %s:\n\n\ncard\n%s\n\n\n" % (original_json_file_path, card)
+                    exit(-1)
+                    pass # TODO there are some deeper nestings we need to watch out for
+                break
+
+    json_string = json.dumps(doc, indent=4)
+    out_file = open(out_file_path, 'w')
+    out_file.write(json_string)
+    out_file.close()
+
+
+def gen_translations(json_dir, translations_dir):
+    for translated_strings_file_name in os.listdir(translations_dir):
+        file_name, file_extension = os.path.splitext(translated_strings_file_name)
+        print "translations_dir: " + translations_dir
+        print "translated_strings_file_name: " + translated_strings_file_name + " file_name: " + file_name
+        (json_file_name, lang) = file_name.split('-')
+        translated_json_file_name = "%s-%s.json" % (json_file_name, lang)
+        out_file_path = "%s/%s" % (json_dir, translated_json_file_name)
+        original_json_file_path = "%s/%s.json" % (json_dir, json_file_name)
+        translated_strings_file_path = "%s/%s" % (translations_dir, translated_strings_file_name)
+
+        print "inserting localized strings into %s" % out_file_path
+
+        # strings_file_name = "%s/%s.json" % (translations_dir, file_name)
+        generate_translations_for_file(original_json_file_path, translated_strings_file_path, out_file_path)
+
+"""
+print "generating content for lessons"
+parent_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/lessons/"
+for f in os.listdir(parent_dir):
+    json_dir = os.getcwd() + "/assets/org.storymaker.app/lessons/%s" % f
+    translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/lessons/%s" % f
+    gen_translations(json_dir, translations_dir)
+#"""
+
+"""
+print "generating content for beta pack"
+parent_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/beta/"
+for f in os.listdir(parent_dir):
+    json_dir = os.getcwd() + "/assets/org.storymaker.app/beta/%s" % f
+    translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/beta/%s" % f
+    gen_translations(json_dir, translations_dir)
+#"""
+
+"""
+print "generating content for mobile_photo_basics pack"
+parent_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/mobile_photo_101/"
+for f in os.listdir(parent_dir):
+    json_dir = os.getcwd() + "/assets/org.storymaker.app/mobile_photo_101/%s" % f
+    translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/mobile_photo_101/%s" % f
+    gen_translations(json_dir, translations_dir)
+#"""
+
+"""
+# FIXME make sure there's no translations present or we are going to double translate them, maybe go into a loop
+json_dir = os.getcwd() + "/assets/org.storymaker.app/default"
+translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/default"
+gen_translations(json_dir, translations_dir)
+
+json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_1"
+translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/learning_guide/learning_guide_1"
+gen_translations(json_dir, translations_dir)
+
+json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_2"
+translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/learning_guide/learning_guide_2"
+gen_translations(json_dir, translations_dir)
+
+json_dir = os.getcwd() + "/assets/org.storymaker.app/learning_guide/learning_guide_3"
+translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/learning_guide/learning_guide_3"
+gen_translations(json_dir, translations_dir)
+#"""
+
+"""
+print "generating content for lessons"
+parent_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/lessons/"
+for f in os.listdir(parent_dir):
+    json_dir = os.getcwd() + "/assets/org.storymaker.app/lessons/%s" % f
+    translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/lessons/%s" % f
+    gen_translations(json_dir, translations_dir)
+#"""
+
+"""
+print "generating content for journalism_part_1"
+parent_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/journalism_part_1/"
+for f in os.listdir(parent_dir):
+    json_dir = os.getcwd() + "/assets/org.storymaker.app/journalism_part_1/%s" % f
+    translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/journalism_part_1/%s" % f
+    gen_translations(json_dir, translations_dir)
+#"""
+
+def generate_translated_assets(name):
+    print "generating content for {0} pack".format(name)
+    parent_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/{0}/".format(name)
+    for f in os.listdir(parent_dir):
+        json_dir = os.getcwd() + "/assets/org.storymaker.app/{0}/{1}".format(name, f)
+        translations_dir = os.getcwd() + "/intermediates/translated_strings/org.storymaker.app/{0}/{1}".format(name, f)
+        gen_translations(json_dir, translations_dir)
+
+
+
+#########################################
+print "prepping lesson asset folders..."
+
+
+content_packs = []
+
+def gen_regular_pack(pack_name):
+    print("generating content for {0}".format(pack_name))
+    yaml_parent_dir = os.getcwd() + "/yaml/org.storymaker.app/" + pack_name
+    for f in os.listdir(yaml_parent_dir):
+        yaml_dir = "%s/%s" % (yaml_parent_dir, f)
+        print yaml_dir
+        json_dir = os.getcwd() + "/assets/org.storymaker.app/%s/%s" % (pack_name, f)
+        strings_dir = os.getcwd() + "/intermediates/strings/org.storymaker.app/%s/%s" % (pack_name, f)
+        do_dir(yaml_dir, json_dir, strings_dir)
+
+    content_packs.append(pack_name)
+
+def gen_regular_pack_and_content_indexes(pack_name):
+    gen_regular_pack(pack_name)
+    generate_content_indexes(pack_name)
+    create_content_metadata(pack_name)
+
+def generate_content_indexes(pack_name):
+    generate_content_index(package, pack_name)
+    generate_content_index(package, pack_name, 'ar')
+    generate_content_index(package, pack_name, 'es')
+    generate_content_index(package, pack_name, 'fa')
+    generate_content_index(package, pack_name, 'fr')
+    generate_content_index(package, pack_name, 'rw')
+    generate_content_index(package, pack_name, 'ru')
+    generate_content_index(package, pack_name, 'vi')
+    generate_content_index(package, pack_name, 'om')
+    generate_content_index(package, pack_name, 'am')
+
+# locale is buruni, mena or persian
+# content_pack is audio, journalism_part_1, etc
+# lang is the two letter lang code
+#
+# this method takes the input assets and copies them to each localized assets clone folder in preparation to be zipped later
+def prep_localized_pack(content_pack, locale, lang=None):
+    # create the json files for the base content pack before we make the localized copies
+    gen_regular_pack(content_pack)
+
+    # e.g. journalism_pack_1-burundi
+    full_pack_name = "%s-%s" % (content_pack, locale)
+
     # TODO delete the old assets for this pack
-    dir1 = "%s/assets/%s/%s/" % (os.getcwd(), package, content_pack)
-    shutil.rmtree(dir1, ignore_errors=True)
+    dir_final_assets = "%s/assets/%s/%s/" % (os.getcwd(), package, full_pack_name)
+    print "purging any old generated assets for this pack: %s" % dir_final_assets
+    shutil.rmtree(dir_final_assets, ignore_errors=True)
+
     print "copying assets for index for %s/%s" % (package, content_pack)
-    dir2 = "%s/assets/%s/lessons-media/%s" % (os.getcwd(), package, content_pack)
-    dir3 = "%s/assets/%s/%s" % (os.getcwd(), package, content_pack)
-    shutil.copytree(dir2, dir3)
+    dir_localized_media = "%s/assets/%s/%s-media/%s" % (os.getcwd(), package, content_pack, locale)
+    print("    dir_localized_media: {0}".format(dir_localized_media))
+    print("    dir_final_assets: {0}".format(dir_final_assets))
+    shutil.copytree(dir_localized_media, dir_final_assets)
+
+    # purge the old generated strings clone folder
     # intermediates/strings/org.storymaker.app/persian
-    dir4 = "%s/intermediates/strings/%s/%s" % (os.getcwd(), package, content_pack)
-    shutil.rmtree(dir4, ignore_errors=True)
-    dir5 = "%s/intermediates/strings/%s/lessons" % (os.getcwd(), package)
-    dir6 = "%s/intermediates/strings/%s/%s" % (os.getcwd(), package, content_pack)
-    shutil.copytree(dir5, dir6)
-    dir7 = "%s/intermediates/translated_strings/%s/%s" % (os.getcwd(), package, content_pack)
-    shutil.rmtree(dir7, ignore_errors=True)
-    dir8 = "%s/intermediates/translated_strings/%s/lessons" % (os.getcwd(), package)
-    dir9 = "%s/intermediates/translated_strings/%s/%s" % (os.getcwd(), package, content_pack)
-    shutil.copytree(dir8, dir9)
+    dir_localized_intermediate_strings = "%s/intermediates/strings/%s/%s" % (os.getcwd(), package, full_pack_name)
+    shutil.rmtree(dir_localized_intermediate_strings, ignore_errors=True)
+
+    # now copy the translated strings into the localized path
+    dir_intermediate_strings = "%s/intermediates/strings/%s/%s" % (os.getcwd(), package, content_pack)
+    shutil.copytree(dir_intermediate_strings, dir_localized_intermediate_strings)
+
+    # purge the translated_strings clone folder
+    dir_localized_intermediate_translated_strings = "%s/intermediates/translated_strings/%s/%s" % (os.getcwd(), package, full_pack_name)
+    shutil.rmtree(dir_localized_intermediate_translated_strings, ignore_errors=True)
+
+    dir_localized_intermediate_strings = "%s/intermediates/translated_strings/%s/%s" % (os.getcwd(), package, content_pack)
+    shutil.copytree(dir_localized_intermediate_strings, dir_localized_intermediate_translated_strings)
+
 
     # TODO copy / merge the json on top of the assets folder
-    mergetree("%s/assets/%s/lessons/" % (os.getcwd(), package),
-                    "%s/assets/%s/%s" % (os.getcwd(), package, content_pack))
-    # TODO copy / merge the json on top of the assets folder
-    print "generating content index for %s/%s" % (package, content_pack)
-    generate_content_index(package, content_pack)
-    generate_content_index(package, content_pack, 'ar')
-    generate_content_index(package, content_pack, 'fa')
-    generate_content_index(package, content_pack, 'fr')
-    generate_content_index(package, content_pack, 'rw')
-    generate_content_index(package, content_pack, 'vi')
-    
-    content_metadata_file = open("assets/%s/%s/content_metadata.json" % (package, content_pack), 'w')
-    cover_file = "%s/%s/cover.jpg" % (package, content_pack)
+    d1 = "%s/assets/%s/%s/" % (os.getcwd(), package, content_pack)
+    # dir_final_assets = d2 = "%s/assets/%s/%s" % (os.getcwd(), package, full_pack_name)
+    mergetree(d1, dir_final_assets)
+
+    generate_content_indexes(full_pack_name)
+
+    create_content_metadata(full_pack_name)
+
+    content_packs.append(full_pack_name)
+
+def create_content_metadata(pack_id):
+    content_metadata_file = open("assets/%s/%s/content_metadata.json" % (package, pack_id), 'w')
+    cover_file = "%s/%s/cover.jpg" % (package, pack_id)
     if not os.path.isfile("assets/%s" % cover_file):
-        cover_file = "%s/%s/cover.png" % (package, content_pack)
+        cover_file = "%s/%s/cover.png" % (package, pack_id)
     elif not os.path.isfile("assets/%s" % cover_file):
-        cover_file = "%s/%s/cover.gif" % (package, content_pack)
+        cover_file = "%s/%s/cover.gif" % (package, pack_id)
     elif not os.path.isfile("assets/%s" % cover_file):
-        cover_file = "%s/%s/cover.jpeg" % (package, content_pack)
-            
+        cover_file = "%s/%s/cover.jpeg" % (package, pack_id)
+
     content_metadata = { "contentPackThumbnailPath": cover_file } # TODO we might want other file types
     content_metadata_file.write(json.dumps(content_metadata, indent=2))
     content_metadata_file.close()
 
-#prep_lesson_pack('persian')
-##prep_lesson_pack('mena')
-#prep_lesson_pack('burundi')
+
+# create available index
+def create_available_index():
+    for s in content_packs:
+        print("adding {0} to available_index".format(s))
+
+@cli.command()
+@click.argument("name")
+def generate_regular_pack(name):
+    gen_regular_pack_and_content_indexes(name)
+
+@cli.command()
+@click.argument("name")
+@click.argument("locale")
+def generate_localized_pack(name, locale):
+    prep_localized_pack(name, locale)
+
+@cli.command()
+def all_content():
+    ### generate localized packs
+    prep_localized_pack('audio', 'persian')
+    prep_localized_pack('audio', 'mena')
+    prep_localized_pack('audio', 'burundi')
+    prep_localized_pack('story', 'persian')
+    prep_localized_pack('story', 'mena')
+    prep_localized_pack('story', 'burundi')
+    #prep_localized_pack('lessons', 'persian')
+    #prep_localized_pack('lessons', 'mena')
+    #prep_localized_pack('lessons', 'burundi')
+    prep_localized_pack('video_1', 'persian')
+    prep_localized_pack('video_1', 'mena')
+    prep_localized_pack('video_1', 'burundi')
+    prep_localized_pack('video_2', 'persian')
+    prep_localized_pack('video_2', 'mena')
+    prep_localized_pack('video_2', 'burundi')
+    prep_localized_pack('security', 'persian')
+    prep_localized_pack('security', 'mena')
+    prep_localized_pack('security', 'burundi')
+    prep_localized_pack('photography_1', 'persian')
+    prep_localized_pack('photography_1', 'mena')
+    prep_localized_pack('photography_1', 'burundi')
+    prep_localized_pack('photography_2', 'persian')
+    prep_localized_pack('photography_2', 'mena')
+    prep_localized_pack('photography_2', 'burundi')
+    prep_localized_pack('journalism_part_1', 'persian')
+    prep_localized_pack('journalism_part_1', 'mena')
+    prep_localized_pack('journalism_part_1', 'burundi')
+    prep_localized_pack('journalism_part_2', 'persian')
+    prep_localized_pack('journalism_part_2', 'mena')
+    prep_localized_pack('journalism_part_2', 'burundi')
+
+
+    #### generate regular packs
+
+    gen_regular_pack_and_content_indexes("mobile_photo_basics")
+    gen_regular_pack_and_content_indexes("default")
+    gen_regular_pack_and_content_indexes("learning_guide")
+    gen_regular_pack_and_content_indexes("t_citizen_journalist")
+    gen_regular_pack_and_content_indexes("g_odvw")
+    gen_regular_pack_and_content_indexes("g_welcome")
+    gen_regular_pack_and_content_indexes("t_audio")
+    gen_regular_pack_and_content_indexes("t_process")
+    gen_regular_pack_and_content_indexes("t_video")
+    gen_regular_pack_and_content_indexes("t_photo")
+    gen_regular_pack_and_content_indexes("t_news")
+    gen_regular_pack_and_content_indexes("t_ukraine_school_cj")
+
+    generate_translated_assets("mobile_photo_basics")
+    #generate_translated_assets("default")
+    #generate_translated_assets("learning_guide")
+    generate_translated_assets("t_citizen_journalist")
+    generate_translated_assets("g_odvw")
+    generate_translated_assets("g_welcome")
+    generate_translated_assets("t_audio")
+    generate_translated_assets("t_process")
+    generate_translated_assets("t_video")
+    generate_translated_assets("t_photo")
+    generate_translated_assets("t_news")
+    generate_translated_assets("t_ukraine_school_cj")
+
+    generate_translated_assets("audio")
+    generate_translated_assets("story")
+#    generate_translated_assets("lessons")
+    generate_translated_assets("video_1")
+    generate_translated_assets("video_2")
+    generate_translated_assets("security")
+    generate_translated_assets("photography_1")
+    generate_translated_assets("photography_2")
+    generate_translated_assets("journalism_part_1")
+    generate_translated_assets("journalism_part_2")
+
+    # TODO translations for localized packs
+    # audio
+    # story
+    # lessons
+    # video_1
+    # video_2
+    # security
+    # photography_1
+    # photography_2
+    # journalism_part_1
+    # journalism_part_2
+
+    create_available_index()
+    
+cli.add_command(all_content)
+
+if __name__ == "__main__":
+    cli()

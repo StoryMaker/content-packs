@@ -1,0 +1,225 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Configurar el balance de blancos en el v\u00eddeo", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; C\u00f3mo afecta el balance de blancos al color de sus cortes de v\u00eddeo.  \n&bull; C\u00f3mo puede usar la configuracion del balance de blancos en su dispositivo m\u00f3vil/celular.  \n&bull; Qu\u00e9 puede hacer para mejorar la fidelidad del color en sus cortes de v\u00eddeo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "![](2.png)  \n### Un ejemplo de un sujeto iluminado por una bombilla de tungsteno. \nLas bombillas de tungsteno tienen una temperatura de color muy c\u00e1lida, colorean las im\u00e1genes con un tono m\u00e1s amarillento \n![](3.png)  \nDiferentes fuentes de luz producen luz de diferentes temperaturas de color. La iluminaci\u00f3n artificial como las bombillas dom\u00e9sticas, produce luz con un tinte anaranjado. La luz diurna tiene un tinte m\u00e1s azulado.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![](3.jpg)  \n### Ejemplo de foto ajustada de color profesionalmente  \nNuestros ojos se ajustan a estas variaciones del color, pero las c\u00e1maras necesitan ajustar una configuraci\u00f3n llamada \u201cbalance de blancos\u201d para que las im\u00e1genes aparezcan del modo en que nuestros ojos las ven de forma natural. \n![](4.png)  \n### El mismo ejemplo usando el \"balance de blancos\" incorrecto.\nEl t\u00e9rmino balance de blancos se refiere a la modificaci\u00f3n para toda la imagen del color de forma que cualquier blanco en el encuadre aparezca como un blanco neutro, sin tonalidad alguna.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![](5.png)\n### Un icono com\u00fan de balance de blancos autom\u00e1tico\nLa mayor\u00eda de las c\u00e1maras tienen un balance de blancos autom\u00e1tico. Esta configuraci\u00f3n registrar\u00e1 la temperatura de color de la fuente de luz predominante y har\u00e1 los ajustes necesarios.  \n![](6.png)  \n## Iconos de ejemplo para las opciones de balance de blancos m\u00e1s comunes   \nAlgunas c\u00e1maras tiene opciones de preconfiguraci\u00f3n de balance de blancos para hacer frente a diferentes tipos de iluminaci\u00f3n, como la luz diurna o la luz incandescente de interior.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Recuerde cambiar la opci\u00f3n del balance de blancos si las condiciones de iluminaci\u00f3n cambian. Si viene del exterior y comienza a grabar en interiores sin ajustar su configuraci\u00f3n de balance de blancos, sus im\u00e1genes quedar\u00e1n muy anaranjadas. Si est\u00e1 grabando en interiores y sale al exterior para gragar sin ajustar el balance de blancos, terminar\u00e1 con im\u00e1genes muy azuladas.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![](5.png)  \n## AWB (balance de blancos autom\u00e1tico)  \nUse esta configuraci\u00f3n para grabar en cualquier sitio. El dispositivo m\u00f3vil hace su mejor estimaci\u00f3n de cu\u00e1l es la configuraci\u00f3n correcta que debe usar, pero puede terminar con resultados pobres si la c\u00e1mara hace mal su estimaci\u00f3n. Esta es la configuraci\u00f3n que debe usar si no est\u00e1 seguro de qu\u00e9 ajuste es la mejor elecci\u00f3n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![](7.png)  \n## Luz diurna  \nUse esta configuraci\u00f3n para hacer tomas de exterior. Esta configuraci\u00f3n dar\u00e1 a sus im\u00e1genes un tono ligeramente azulado muy 'fresco'. Al hacer tomas de interior, esta configuraci\u00f3n dar\u00e1 a sus im\u00e1genes un tono anaranjado.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![](8.png)  \n## Nublado \nUse esta configuraci\u00f3n para hacer tomas de interior. Esta configuraci\u00f3n le dar\u00e1 a sus im\u00e1genes un color ligeramente \u201cm\u00e1s c\u00e1lido\u201d. Aunque la opci\u00f3n de luz diurna es t\u00e9cnicamente el balance de blancos m\u00e1s correcto, usar la configuraci\u00f3n de nublado crea una imagen con mucho encanto. Al hacer tomas de exterior, esta configuraci\u00f3n le dar\u00e1 a sus im\u00e1genes un fuerte tono anaranjado.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "![](9.png)  \n## Incandescente \nUse esta configuraci\u00f3n para hacer tomas de interior, donde la habitaci\u00f3n est\u00e9 iluminada con peque\u00f1as bombillas incandescentes tradicionales. Cuando haga tomas de exterior, esta configuraci\u00f3n le dar\u00e1 a sus im\u00e1genes un fuerte tono azul.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "![](10.png)  \n## Fluorescente  \nUse esta configuraci\u00f3n al hacer tomas de interior donde la habitaci\u00f3n est\u00e9 iluminada con luces de largos tubos fluorecentes. Al hacer tomas de exterior, esta configuraci\u00f3n dar\u00e1 a sus im\u00e1genes un tono azulado.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Puede establecer el balance de blancos sosteniendo un trozo de papel blanco frente a su c\u00e1mara. Un muro blanco o un material blanco tambi\u00e9n servir\u00e1n.  \n&bull; Al usar la configuraci\u00f3n de balance de blancos, apunte su c\u00e1mara al sujeto pretendido y espere de 3 a 5 segundos antes de comenzar a grabar. Esto mejorar\u00e1 la correcci\u00f3n autom\u00e1tica.  \n&bull; Actualice siempre su configuraci\u00f3n de balance de blancos cuando se mueva hacia una localizacion con iluminaci\u00f3n diferente.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfQu\u00e9 tono de color imprime la luz del d\u00eda?", 
+            "choices": [
+                {
+                    "text": "Naranja", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Negro", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Rojo", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Azul", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfQu\u00e9 tonalidad da la luz artificial?", 
+            "choices": [
+                {
+                    "text": "Naranja", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Negro", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Rojo", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Azul", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Si no s\u00e9 qu\u00e9 configuraci\u00f3n usar, \u00bfqu\u00e9 debo hacer?", 
+            "choices": [
+                {
+                    "text": "Ign\u00f3rela", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Usar balance de blancos autom\u00e1tico", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Usar incandescente", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Usar nuboso", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Si est\u00e1 filmando exteriores con un balance de blancos adecuado, \u00bfde qu\u00e9 color se volver\u00e1 su imagen si se mueve a interiores sin cambiar la configuraci\u00f3n del balance de blancos?", 
+            "choices": [
+                {
+                    "text": "Azul", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Verde", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Naranja", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "P\u00farpura", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "11.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Configurar el balance de blancos en el v\u00eddeo", 
+            "exampleMediaPath": "11.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "La configuracion del balance de blancos es err\u00f3nea en la toma de arriba. \u00bfQu\u00e9 configuraci\u00f3n se deber\u00eda haber usado?", 
+            "choices": [
+                {
+                    "text": "Nuboso", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Luz del d\u00eda", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "De hecho est\u00e1 establecido correctamente", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Fluorescente", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_5"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "setting_white_balance_in_video", 
+    "title": "Configurar el balance de blancos del video"
+}

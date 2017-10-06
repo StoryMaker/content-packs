@@ -1,0 +1,26 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-ethiopia/1_evolution_of_a_story/evolution_of_a_story_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-ethiopia/cover.png", 
+    "language": "vi", 
+    "title": "S\u1ef1 ph\u00e1t tri\u1ec3n c\u1ee7a m\u1ed9t b\u1ea3n tin"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-ethiopia/2_introduction_to_ethics_and_professional_standards/introduction_to_ethics_and_professional_standards_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-ethiopia/cover.png", 
+    "language": "vi", 
+    "title": "Gi\u1edbi thi\u1ec7u v\u1ec1 nh\u1eefng ti\u00eau chu\u1ea9n ngh\u1ec1 nghi\u1ec7p v\u00e0 \u0111\u1ea1o \u0111\u1ee9c"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-ethiopia/3_using_text/using_text_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-ethiopia/cover.png", 
+    "language": "vi", 
+    "title": "S\u1eed d\u1ee5ng t\u1eeb ng\u1eef"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-ethiopia/4_media_law/media_law_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-ethiopia/cover.png", 
+    "language": "vi", 
+    "title": "Lu\u1eadt b\u00e1o ch\u00ed"
+  }
+]

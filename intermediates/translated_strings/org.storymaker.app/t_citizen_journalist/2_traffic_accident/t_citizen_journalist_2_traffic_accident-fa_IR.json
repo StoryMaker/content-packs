@@ -1,0 +1,15 @@
+{
+    "t_citizen_journalist_2_traffic_accident::clip_card_5::goals[0]": "یپرسید: آیا اورژانس پاسخ داده است؟",
+    "t_citizen_journalist_2_traffic_accident::clip_card_2::goals[0]": "جزئیات تصادف را نشان دهید؛ تصویری از شیشه‌های شکسته یا در شکسته نشان دهید.",
+    "t_citizen_journalist_2_traffic_accident::intro_card_0::headline": "شاهد یک تصادف بوده‌اید؟ آن را گزارش کنید!",
+    "t_citizen_journalist_2_traffic_accident::clip_card_1::goals[0]": "اتفااتی را که در اطراف محل تصادف می‌افتد نشان دهید.",
+    "t_citizen_journalist_2_traffic_accident::text_card_0::text": "سپس با کسانی که آن دور و بر هستند مصاحبه کنید. اول اطمینان پیدا کنید که خودتان و آدم‌های دیگر در خطر نیستید. بعد شروع به تهیه گزارش کنید.",
+    "t_citizen_journalist_2_traffic_accident::clip_card_3::goals[0]": "کسی را نشان دهید که به تصادف واکنش نشان می‌دهد.",
+    "t_citizen_journalist_2_traffic_accident::text_card_1::text": "کارت‌های زیر مصاحبه را می‌توانید به تعداد آدم‌هایی که می‌خواهید با آنها مصاحبه کنید، تکرار کنید. سعی کنید با شاهدی حرف بزنید یا با یکی از کارکنان اورژانس صحبت کنید.",
+    "t_citizen_journalist_2_traffic_accident::text_card_2::text": "هرچقدر که لازم است فیلم بگیرید. وقتی کارتان تمام شد، کلیپ‌ها را با دکمه «ترتیب» منظم کنید و برای آپلود کردن آنها، دکمه انتشار را بزنید.",
+    "t_citizen_journalist_2_traffic_accident::title": "آیا شاهد یک تصادف بوده‌اید؟",
+    "t_citizen_journalist_2_traffic_accident::clip_card_4::goals[0]": "بپرسید: چطر شد که متوجه تصادف شدید؟ چه اتفاقی افتاد؟",
+    "t_citizen_journalist_2_traffic_accident::intro_card_0::level": "مبتدی ۱",
+    "t_citizen_journalist_2_traffic_accident::clip_card_0::goals[0]": "محل وقوع تصادف را نشان دهید.",
+    "t_citizen_journalist_2_traffic_accident::clip_card_2::goals[1]": "یک نمای نزدیک از تصادف بگیرید. از شیشه‌های شکسته، در خراب یا نتایج دیگر تصادف."
+}

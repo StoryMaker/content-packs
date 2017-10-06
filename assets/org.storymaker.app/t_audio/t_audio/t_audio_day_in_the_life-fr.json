@@ -1,0 +1,197 @@
+{
+    "cards": [
+        {
+            "header": "Suivant", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "A propos de ce mod\u00e8le"
+        }, 
+        {
+            "text": "Une journ\u00e9e dans la vie suit un caract\u00e8re tout au long de l'histoire . L'histoire peut suivre une journ\u00e9e litt\u00e9rale , ou tout simplement mettre en valeur une partie importante de la journ\u00e9e . Ce mod\u00e8le suppose que vous suivez un personnage avec un type sp\u00e9cifique de travail, mais les clips peuvent \u00eatre utilis\u00e9s pour documenter le jour ou l'activit\u00e9 de quiconque. Sentez-vous libre d'utiliser des questions de remplacement si vous pensez qu'ils peuvent travailler mieux pour vous .", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_audio_day_in_the_life::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "before", 
+                "audio"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Enregistrer des sons du lieu o\u00f9 votre personnage vit."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:25", 
+            "goals": [
+                "Introduire votre personnage."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "goals": [
+                "Enregistrer un son de quelque chose remarquable \u00e0 propos l'habitat du personnage."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Enregistrer un son de votre personnage se pr\u00e9parer pour la journ\u00e9e."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:20", 
+            "goals": [
+                "Enregistrer des sons d'une place importante pour votre personnage."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:35", 
+            "goals": [
+                "Poser la question: Pouvez -vous, s'il vous plait, nous parler un peu de ce que vous faites?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:12", 
+            "goals": [
+                "Enregistrer quelque chose faite par votre personnage et qui est importante pour votre histoire."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:18", 
+            "goals": [
+                "Enregistrer des sons du m\u00e9tier du personnage."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:11", 
+            "goals": [
+                "Enregistrer des sons de la chose la plus importante \u00e0 propos du m\u00e9tier de la personne."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:17", 
+            "goals": [
+                "Enregistrer des sons du lieu o\u00f9 votre personnage termine la journ\u00e9e."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_9"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:10", 
+            "goals": [
+                "Enregistrer des sons de votre personnage en interaction avec des autres gens."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_10"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:19", 
+            "goals": [
+                "Enregistrer des sons de ce fait votre personnage pour le plaisir."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_11"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:30", 
+            "goals": [
+                "Poser la question: Pouvez-vous, s'il vous pla\u00eet, nous parler de votre avenir?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_12"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:13", 
+            "goals": [
+                "Enregistrer un son de quelque chose importante au personnage"
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_13"
+        }, 
+        {
+            "medium": "audio", 
+            "length": "0:13", 
+            "goals": [
+                "Enregistrer un son de votre personnage \u00e0 la fin de la journ\u00e9e."
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_14"
+        }, 
+        {
+            "medium": "audio", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "audio"
+            ]
+        }, 
+        {
+            "medium": "audio", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_audio_day_in_the_life", 
+    "title": "Journ\u00e9e dans la vie Audio"
+}

@@ -1,0 +1,31 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "GI\u1edaI THI\u1ec6U V\u1ec0 AN NINH", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Ng\u00e0y nay, nhi\u1ec1u c\u00e1 nh\u00e2n \u1edf kh\u1eafp m\u1ecdi n\u01a1i tr\u00ean th\u1ebf gi\u1edbi c\u00f3 kh\u1ea3 n\u0103ng \u0111\u01b0a nh\u1eefng tin n\u00f3ng m\u00e0 c\u00e1ch \u0111\u00e2y 20 n\u0103m c\u00f3 th\u1ec3 l\u00e0 m\u1ed9t th\u00e1ch th\u1ee9c v\u1edbi nhi\u1ec1u h\u00e3ng tin chuy\u00ean nghi\u1ec7p. \u0110i\u1ec1u n\u00e0y c\u00f3 \u0111\u01b0\u1ee3c nh\u1edd s\u1ef1 gia t\u0103ng li\u00ean k\u1ebft t\u1eeb \u0111i\u1ec7n tho\u1ea1i th\u00f4ng minh v\u00e0 gi\u00e1 th\u00e0nh d\u1eef li\u1ec7u gi\u1ea3m.  \nS\u1ef1 li\u00ean k\u1ebft n\u00e0y c\u0169ng t\u1ea1o ra nh\u1eefng m\u1ed1i \u0111e d\u1ecda l\u1edbn cho c\u00e1c k\u00fd gi\u1ea3 d\u00e2n b\u00e1o v\u00e0 nh\u00e0 b\u00e1o chuy\u00ean nghi\u1ec7p. Li\u00ean l\u1ea1c tr\u1ef1c tuy\u1ebfn v\u00e0 qua \u0111i\u1ec7n tho\u1ea1i \u0111\u1ec3 l\u1ea1i v\u1ebft t\u00edch m\u00e0 nh\u1eefng ai c\u00f3 tay ngh\u1ec1 c\u00f3 th\u1ec3 theo d\u00f5i \u0111\u01b0\u1ee3c.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Nh\u00e0 b\u00e1o, nh\u00e0 ho\u1ea1t \u0111\u1ed9ng v\u00e0 b\u1ea5t k\u1ef3 ng\u01b0\u1eddi n\u00e0o s\u1ee3 r\u1eb1ng h\u1ecd \u0111ang b\u1ecb \u0111e d\u1ecda b\u1edfi h\u00e0nh \u0111\u1ed9ng c\u1ee7a m\u00ecnh, c\u1ea7n ph\u1ea3i s\u1eed d\u1ee5ng nh\u1eefng ph\u01b0\u01a1ng ph\u00e1p kh\u00f4ng chu\u1ea9n m\u1ef1c v\u1ec1 th\u00f4ng tin li\u00ean l\u1ea1c. V\u1ebft t\u00edch \u0111\u1ec3 l\u1ea1i \u0111\u00f3 kh\u00f4ng ch\u1ec9 g\u00e2y nguy hi\u1ec3m cho b\u1ea1n, m\u00e0 c\u00f3 th\u1ec3 mang l\u1ea1i nguy hi\u1ec3m cho ngu\u1ed3n tin c\u1ee7a b\u1ea1n, quan h\u1ec7, v\u00e0 \u0111\u1ed3ng nghi\u1ec7p. B\u1ea1n c\u00f3 tr\u00e1ch nhi\u1ec7m \u0111\u1ec3 b\u1ea3o v\u1ec7 b\u1ea1n v\u00e0 nh\u1eefng ng\u01b0\u1eddi c\u00f3 th\u1ec3 b\u1ecb \u0111e d\u1ecda b\u1edfi h\u00e0nh \u0111\u1ed9ng c\u1ee7a b\u1ea1n.  \nNh\u1eefng b\u00e0i h\u1ecdc \u0111\u1ea7u ti\u00ean s\u1ebd gi\u00fap cho b\u1ea1n \u0111\u00e1nh gi\u00e1 li\u1ec7u b\u1ea1n c\u00f3 b\u1ecb \u0111e d\u1ecda kh\u00f4ng. Sau khi ho\u00e0n th\u00e0nh nh\u1eefng b\u00e0i h\u1ecdc \u0111\u00f3, b\u1ea1n c\u00f3 kh\u1ea3 n\u0103ng \u0111\u00e1nh gi\u00e1 s\u1ef1 nguy hi\u1ec3m cho b\u1ea1n v\u00e0 ng\u01b0\u1eddi kh\u00e1c. Ph\u1ea7n cu\u1ed1i c\u00f9ng s\u1ebd cung c\u1ea5p cho b\u1ea1n nh\u1eefng b\u01b0\u1edbc \u0111i c\u1ee5 th\u1ec3 \u0111\u1ec3 gi\u1eef cho m\u00ecnh \u0111\u01b0\u1ee3c an to\u00e0n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "introduction_to_security", 
+    "title": "Gi\u1edbi thi\u1ec7u v\u1ec1 an ninh"
+}

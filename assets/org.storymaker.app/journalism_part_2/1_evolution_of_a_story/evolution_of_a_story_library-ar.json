@@ -1,0 +1,23 @@
+{
+    "title": "\u062a\u0637\u0648\u0631 \u0627\u0644\u0642\u0635\u0629", 
+    "storyPathTemplateFiles": {
+        "evolution_of_a_story": "evolution_of_a_story.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "evolution_of_a_story", 
+            "dependencyFile": "evolution_of_a_story.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "evolution_of_a_story"
+        }
+    ], 
+    "currentStoryPathFile": "evolution_of_a_story.json", 
+    "id": "evolution_of_a_story"
+}

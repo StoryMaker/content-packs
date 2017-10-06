@@ -1,0 +1,23 @@
+{
+    "title": "Lu\u1eadt b\u00e1o ch\u00ed", 
+    "storyPathTemplateFiles": {
+        "media_law": "media_law.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "media_law", 
+            "dependencyFile": "media_law.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "media_law"
+        }
+    ], 
+    "currentStoryPathFile": "media_law.json", 
+    "id": "media_law"
+}

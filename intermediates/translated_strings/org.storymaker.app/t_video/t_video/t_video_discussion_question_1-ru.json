@@ -1,0 +1,17 @@
+{
+    "t_video_discussion_question_1::clip_card_2::goals[0]": "Спросите: Что вы думаете об этом персонаже?",
+    "t_video_discussion_question_1::clip_card_1::goals[2]": "Покажите, как люди обсуждают вашего героя в группе.",
+    "t_video_discussion_question_1::clip_card_5::goals[0]": "Спросите: Что вы думаете об этом персонаже?",
+    "t_video_discussion_question_1::text_card_0::text": "Обсуждения строятся вокруг того, чтобы задавать один и тот же вопрос большому количеству людей.  Этот шаблон узнает у многих людей их мнение по поводу определенного героя. Обсуждения хорошо помогают при сборе мнений о герое с большим культурным или социальным значением. Ты можешь задавать другие вопросы, если считаешь, что они могут сработать лучше.",
+    "t_video_discussion_question_1::clip_card_1::goals[0]": "Покажите, как ваш герой зарабатывает на жизнь.",
+    "t_video_discussion_question_1::clip_card_4::goals[0]": "Спросите: Что вы думаете об этом персонаже?",
+    "t_video_discussion_question_1::clip_card_0::goals[0]": "Покажите нам что-то, что является важным для вашего героя.",
+    "t_video_discussion_question_1::text_card_1::text": "Разговаривай с разными людьми в каждом клипе, чтобы твой сюжет представлял разные точки зрения. Ты можешь подставить в блок \"герой\" имя человека, о котором идет речь  ",
+    "t_video_discussion_question_1::ms_moreinfo::text": "Об этом шаблоне",
+    "t_video_discussion_question_1::title": "Какое твое мнение об этом человеке?",
+    "t_video_discussion_question_1::clip_card_7::goals[0]": "Сделайте звукозапись окружающей среды человека.",
+    "t_video_discussion_question_1::clip_card_1::goals[1]": "Покажите, как ваш герой взаимодействует с другими людьми в его жизне.",
+    "t_video_discussion_question_1::clip_card_3::goals[0]": "Спросите: Что вы думаете об этом персонаже?",
+    "t_video_discussion_question_1::ms_moreinfo::header": "Следующий ",
+    "t_video_discussion_question_1::clip_card_6::goals[0]": "Спросите: Что вы думаете об этом персонаже?"
+}

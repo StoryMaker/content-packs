@@ -1,0 +1,125 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Kutaa ijoon seenaa sagalee mataduree gaarii argachuudha, garuu karaa gaariin ittiin mataduree filadhuu fi seenaakoof karoorfadhu maali?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Kutaa kana keessatti kan barattan:  \n&bull; Seenaankee utuu hin jalqabin maal akka yaaduu qabdan.  \n&bull; Akka itti seenaa sagaleetiif karoorfatan.  \n&bull; Yeroo seenaa karoorfattu akka itti waa'ee qaama si hordofuu yaadan", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Utuu sagalee qopheessuu hin jalqabi, gaaffileen ati deebisuu qabdu hammi ta'an jiru.  \n&bull; Karaan hawwataan ittiin seenicha himan kami? Seenichi waa'ee taatee,namaa, yookaan rakkoo tokkootii? Seenichitaatee dhiyeenyatti ta'e, miidhaa rakkichi hawaasarratti fide, yookaan seenaa waa'ee nama barbaachisa irratti akka xiyyeeffatu murteessi.  \n&bull; Kofa kamiin fayyadamta? Karaa gaariin akka itti haala hawwataadhaan mataduree tokkotti dhiyaatan yaadan nama dhuunfaa akkamitti tuquu danda'a jedhanii yaaduudhaani.  \n&bull; Qaama hordofu kamirratti xiyyeeffatta? Fedhisaanii maali?  \n&bull; Seenicha karaa hawwataa ,ifaa fi wal-qabsiisuun dhiyeessuu dandeessa? Seenaankee qabiyyeewwan akkamii of keessatti qabata?  \n&bull; Sagalee kamiin waraabuu barbaadda? Gaaffiif deebii, muraa mallattoo sagalee barbaachisurraa, sagalee seenichaaf seensa ta'uu?  \n&bull; Seenicha dhiyeessuuf daangaa yeroo akkamiitu si barbaachisa?", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "2.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Fakkeenya gaafannoo", 
+            "exampleMediaPath": "2.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Karoorrikee erga qophaa'ee, waantota barbaachisoo ta'an qindeeffachuu fi qophaa'uu qabda. Yeroo waraabbiirratti maddakee wajjin waliigali. Bakka waraabbii karoorfadhu, naannoon waraabbiis mijataa ta'uusaa mirkaneeffadhu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "3.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Fakkeenya gabaasa sagalee nama jalqabaatiin", 
+            "exampleMediaPath": "3.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "![Karoora Sagalee](4.png)  \nWaraabuun dura kutaa sagaleekee karoorfadhu. Karoorrikee kan qabachuu qabu:    \n&bull; Ibsa kutaa sagalee  \n&bull; Eenyuuf akka gaaffiif deebii dhiyeessitu  \n&bull; Xumuruuf daangaa yeroo  \n&bull; Dheerina sagantichaa yaadame  \n&bull;Gaaffiif deebii geggeessita yoo ta'e, qophaa'i. Dabalataaf, kutaa \u201cMala Gaafannoo\u201d Gaazexeessummaa keessatti argamu ilaali.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Gaaffilee of gaafachuu yaadachuu qabdu: Maalii sagantaa kana qopheessaa jirta? Qaamni addaa ati qaqqabuu barbaaddu jiraa?  \nGulaaluu fi maxxansuuf yeroo ga'aa hambisi. Muraa yookaan odeeffannoo argatterratti hundaa'uun waan karoorfatte jijjiiruun ni danda'ama.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "## WAANTOTA YAADATAMUU QABAN  \n&bull; Karoorfadhu, callistee waan hunda hin waraabin.  \n&bull; Karoora yookaan barreeffama kan yeroo gaaffiif deebii geggeessitu itti fayyadamtu yookaan yeroo gabaasa yookaan gaaffif deebii waraabduitti fayyadamtu qopheefadhu.  \n&bull; Qaama gaafannoo wajin geggeessitu dursitee quunnamuudhaan bakkaa fi yeroo itti geggeessitan akka filatu godhi.  \n&bull; Yeroo seenaa akkamii fi dhangii waraabbiikee murteessitu waan qaamni si hordofu barbaadu yaadi.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Yeroo bosona keessa kophaakee jirtutti kutaa sagalee akkamii qopheessuu HIN qabdu?", 
+            "choices": [
+                {
+                    "text": "Gabaasa nama jalqabaa", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Sagalee uumamaarratti kan xiyyeeffate kutaa sagalee haala galmeetiin taa'e", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Gaaffiif deebii", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Yoo kantiibaa magaalaa tokkootii wajjin gaaffii fi deebii geggeessuu barbaadde, akkamitti itti adeemta?", 
+            "choices": [
+                {
+                    "text": "Waajjira isaa/ishee quunnami, ofiikee fi kaayyookee beeksisi, guyyaa itti wal argitan beellamadhu.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Waajjira Kantiibaa dhaqiitii akkuma sanaan gaaffiif deebii geggeessuuf dirqisiisi.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Bakka inni itti laaqana nyaatu adda baafadhuutii yeroo inni/isheen manicha keessaa ba'ee deemutti muka jalaa utaalii ba'i.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "preparation", 
+    "title": "Qophaa'uu"
+}

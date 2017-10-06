@@ -1,0 +1,31 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "INTRODUCCI\u00d3N A LA SEGURIDAD", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Hoy, ciudadanos individuales en cualquier lugar del mundo son capaces de elaborar historias de impacto que incluso hace 20 a\u00f1os hubieran puesto a prueba los l\u00edmites de redacciones de noticias profesionales. La creciente conectividad ofrecida por los smartphones y los menguantes costes del transporte de datos hacen esto posible.\nEsta misma conectividad crea grandes nuevos riesgos para los ciudadanos, periodistas profesionales y asemejados. Los m\u00e9todos est\u00e1ndar de comunicaci\u00f3n en l\u00ednea o via m\u00f3vil dejan un rastro f\u00e1cil de monitorizar por individuos cualificados.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Periodistas, activistas y cualquier persona que tema que pueda estar en riesgo debido a sus acciones, debe usar m\u00e9todos no-est\u00e1ndar de comunicaci\u00f3n. Estos rastros no s\u00f3lo le ponen a usted en riesgo, si no que pueden poner en peligro a sus fuentes, contactos y colegas. Tiene una responsabilidad de proteger, no s\u00f3lo a usted mismo, sino a cualquiera que est\u00e9 amenazado por sus acciones.\nLas lecciones que siguen le ayudar\u00e1n primero a valorar si puede estar bajo amenaza. Despu\u00e9s de completar estas lecciones, podr\u00e1 valorar su propio riesgo y el de los dem\u00e1s. La secci\u00f3n final le proporcionar\u00e1 pasos espec\u00edficos que puede tomar para mantenerse seguro usted mismo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "introduction_to_security", 
+    "title": "Introducci\u00f3n a la seguridad"
+}

@@ -1,0 +1,9 @@
+{
+    "control_light_activity::tip_collection::tips[2]::text": "Sugerencia: Las luces aproximadamente a 3 pies (~1m) de su personaje son las más favorecedoras.\n",
+    "control_light_activity::title": "Actividad de control de la luz",
+    "control_light_activity::tip_collection::tips[0]::text": "Sugerencia: La retroiluminación oscurecerá a su sujeto y dificultará su visión.",
+    "control_light_activity::tip_collection::tips[1]::text": "Sugerencia: La luz baja puede producir tomas pobres. Disparar en exteriores o en una habitación soleada puede darle mucha luz.",
+    "control_light_activity::tip_collection::tips[3]::text": "Sugerencia: La buena fotografía gira en torno a la luz. Use la luz disponible de la mejor forma que pueda.",
+    "control_light_activity::tip_collection::tips[4]::text": "Sugerencia: Si su sujeto es demasiado oscuro considere moverse a una localización con más luz.",
+    "control_light_activity::tip_collection::tips[5]::text": "Sugerencia: Tenga cuidado con la luces detrás de sus sujetos."
+}

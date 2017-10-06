@@ -1,0 +1,23 @@
+{
+    "title": "\u041e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u044f \u0432\u0430\u0448\u0438\u0445 \u0441\u043d\u0438\u043c\u043a\u043e\u0432", 
+    "storyPathTemplateFiles": {
+        "organizing_your_shoot": "organizing_your_shoot.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "organizing_your_shoot", 
+            "dependencyFile": "organizing_your_shoot.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "organizing_your_shoot"
+        }
+    ], 
+    "currentStoryPathFile": "organizing_your_shoot.json", 
+    "id": "organizing_your_shoot"
+}

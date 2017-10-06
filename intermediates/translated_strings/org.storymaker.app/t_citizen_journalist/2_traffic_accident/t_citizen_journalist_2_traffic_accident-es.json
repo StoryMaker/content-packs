@@ -1,0 +1,15 @@
+{
+    "t_citizen_journalist_2_traffic_accident::clip_card_5::goals[0]": "Pregunte - ¿Han respondido los servicios de emergencia?",
+    "t_citizen_journalist_2_traffic_accident::clip_card_2::goals[0]": "Muestre un detalle del accidente, cristal roto, una puerta arrancada, etc.",
+    "t_citizen_journalist_2_traffic_accident::intro_card_0::headline": "¿Ve un accidente de tráfico? ¡Informe de ello!",
+    "t_citizen_journalist_2_traffic_accident::clip_card_1::goals[0]": "Muestre la acción ocurriendo en torno al accidente.",
+    "t_citizen_journalist_2_traffic_accident::text_card_0::text": "A continuación entreviste a aquellos cercanos. Asegúrese de que usted y la gente en torno a usted, están seguras antes de iniciar esta sección de su historia.",
+    "t_citizen_journalist_2_traffic_accident::clip_card_3::goals[0]": "Muestre a alguien respondiendo al accidente.",
+    "t_citizen_journalist_2_traffic_accident::text_card_1::text": "Duplique las cartas de previsualización y entreviste a tanta gente como necesite. Trate de hablar con un testigo o alguien de los servicios de emergencia.",
+    "t_citizen_journalist_2_traffic_accident::text_card_2::text": "Grabe más cortes según necesite. Cuando haya terminado, organice sus cortes debajo con el botón Ordenar, y pulse Publicar para subir.",
+    "t_citizen_journalist_2_traffic_accident::title": "¿Ve un accidente de tráfico?",
+    "t_citizen_journalist_2_traffic_accident::clip_card_4::goals[0]": "Pregunte - ¿Cómo ve el accidente? ¿Cómo ocurrió?",
+    "t_citizen_journalist_2_traffic_accident::intro_card_0::level": "Principiante |",
+    "t_citizen_journalist_2_traffic_accident::clip_card_0::goals[0]": "Muestre el lugar en el que ocurrió el accidente.",
+    "t_citizen_journalist_2_traffic_accident::clip_card_2::goals[1]": "Muestre un detalle en corto del accidente, un cristal roto, una puerta arrancada, alguna consecuencia del accidente."
+}

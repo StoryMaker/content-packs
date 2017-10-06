@@ -1,0 +1,426 @@
+{
+    "title": "Make an Audio Story", 
+    "storyPathTemplateFiles": {
+        "t_audio_discussion_question_1": "t_audio_discussion_question_1.json", 
+        "t_audio_discussion_question_3": "t_audio_discussion_question_3.json", 
+        "t_audio_discussion_question_2": "t_audio_discussion_question_2.json", 
+        "t_audio_day_in_the_life": "t_audio_day_in_the_life.json", 
+        "t_audio_highlights": "t_audio_highlights.json", 
+        "t_audio_report_event": "t_audio_report_event.json", 
+        "t_audio_report_issue": "t_audio_report_issue.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "t_audio_day_in_the_life", 
+            "dependencyFile": "t_audio_day_in_the_life.json"
+        }, 
+        {
+            "dependencyId": "t_audio_discussion_question_1", 
+            "dependencyFile": "t_audio_discussion_question_1.json"
+        }, 
+        {
+            "dependencyId": "t_audio_discussion_question_2", 
+            "dependencyFile": "t_audio_discussion_question_2.json"
+        }, 
+        {
+            "dependencyId": "t_audio_discussion_question_3", 
+            "dependencyFile": "t_audio_discussion_question_3.json"
+        }, 
+        {
+            "dependencyId": "t_audio_highlights", 
+            "dependencyFile": "t_audio_highlights.json"
+        }, 
+        {
+            "dependencyId": "t_audio_report_event", 
+            "dependencyFile": "t_audio_report_event.json"
+        }, 
+        {
+            "dependencyId": "t_audio_report_issue", 
+            "dependencyFile": "t_audio_report_issue.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "tips": [
+                {
+                    "text": "H\u00e3y hi\u1ec3u v\u1ec1 m\u00ecnh, \u0111\u1eebng \u0111\u1ec3 th\u00e0nh ki\u1ebfn c\u00e1 nh\u00e2n c\u1ee7a b\u1ea1n \u1ea3nh h\u01b0\u1edfng \u0111\u1ebfn c\u00e2u chuy\u1ec7n m\u00e0 b\u1ea1n mu\u1ed1n k\u1ec3.", 
+                    "tags": [
+                        "ethics", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Khi ch\u1ee5p h\u00ecnh trong nh\u1eefng t\u00ecnh hu\u1ed1ng nguy hi\u1ec3m, lu\u00f4n ngh\u0129 \u0111\u1ebfn vi\u1ec7c tho\u00e1t ra.", 
+                    "tags": [
+                        "security", 
+                        "photo", 
+                        "video", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "H\u00e3y l\u00e0m m\u1ed9t s\u1ed1 nghi\u00ean c\u1ee9u tr\u01b0\u1edbc cu\u1ed9c ph\u1ecfng v\u1ea5n. B\u1ea1n s\u1ebd h\u1ecfi t\u1ed1t h\u01a1n, nhi\u1ec1u c\u00e2u h\u1ecfi li\u00ean quan h\u01a1n.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio"
+                    ]
+                }, 
+                {
+                    "text": "H\u00e3y c\u00f3 m\u1ed9t c\u00e2u gi\u1ea3i th\u00edch v\u1ec1 c\u00e2u chuy\u1ec7n c\u1ee7a b\u1ea1n cho nh\u00e2n v\u1eadt c\u1ee7a m\u00ecnh.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "H\u00e3y \u0111\u1ec3 nh\u1eefng c\u00e2u h\u1ecfi nh\u1ea1y c\u1ea3m \u1edf cu\u1ed1i cu\u1ed9c ph\u1ecfng v\u1ea5n.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "H\u00e3y l\u1ef1a ch\u1ecdn nh\u1eefng c\u00e2u h\u1ecfi m\u00e0 c\u00f3 th\u1ec3 l\u1ea5y \u0111\u01b0\u1ee3c nh\u1eefng th\u00f4ng tin m\u00e0 b\u1ea1n mu\u1ed1n.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Nhanh ch\u00f3ng \u0111\u01b0a ra nh\u1eefng c\u00e2u h\u1ecfi quan tr\u1ecdng nh\u1ea5t trong m\u1ed9t cu\u1ed9c ph\u1ecfng v\u1ea5n.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Khi ph\u1ecfng v\u1ea5n, nh\u1edb c\u1ee9ng r\u1eafn nh\u01b0ng c\u00f4ng b\u1eb1ng.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "C\u00e2u chuy\u1ec7n c\u1ee7a b\u1ea1n s\u1ebd h\u1ea5p d\u1eabn h\u01a1n n\u1ebfu b\u1ea1n ph\u1ecfng v\u1ea5n nh\u1eefng ng\u01b0\u1eddi v\u1edbi nh\u1eefng quan \u0111i\u1ec3m tr\u00e1i ng\u01b0\u1ee3c.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "H\u00e3y ch\u1ee5p nhi\u1ec1u h\u00ecnh v\u1edbi k\u00edch c\u1ee1 kh\u00e1c nhau \u0111\u1ec3 t\u1ea1o ra m\u1ed9t tr\u00ecnh t\u1ef1 hi\u1ec7u qu\u1ea3.", 
+                    "tags": [
+                        "journalism", 
+                        "interview", 
+                        "character", 
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "B\u1ea5m n\u00fat ghi \u00e2m tr\u01b0\u1edbc khi b\u1ea1n \u0111\u1eb7t c\u00e2u h\u1ecfi v\u00e0 ch\u1edd v\u00e0i gi\u00e2y tr\u01b0\u1edbc khi n\u00f3i.", 
+                    "tags": [
+                        "audio", 
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "H\u00e3y ki\u1ec3m tra m\u1ee9c \u0111\u1ed9 c\u1ee7a \u00e2m thanh b\u1eb1ng tai nghe tr\u01b0\u1edbc khi b\u1eaft \u0111\u1ea7u ghi \u00e2m.", 
+                    "tags": [
+                        "audio", 
+                        "video", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "S\u1eed d\u1ee5ng gi\u1ecdng n\u00f3i c\u1ee7a b\u1ea1n c\u00e0ng \u00edt c\u00e0ng t\u1ed1t. H\u00e3y k\u1ec3 c\u00e2u chuy\u1ec7n b\u1eb1ng c\u00e1ch s\u1eed d\u1ee5ng gi\u1ecdng n\u00f3i c\u1ee7a nhi\u1ec1u ng\u01b0\u1eddi kh\u00e1c.", 
+                    "tags": [
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "H\u00e3y ngh\u0129 \u0111\u1ebfn nh\u1eefng th\u00ednh gi\u1ea3 m\u00e0 b\u1ea1n \u0111\u1ecbnh h\u01b0\u1edbng t\u1edbi khi c\u00e2n nh\u1eafc ch\u1ee7 \u0111\u1ec1 v\u00e0 \u0111\u1ecbnh d\u1ea1ng m\u00e0 b\u1ea1n s\u1ebd s\u1eed d\u1ee5ng.", 
+                    "tags": [
+                        "journalism", 
+                        "story", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Th\u1eadm ch\u00ed khi th\u1eddi gian c\u00f3 h\u1ea1n, h\u00e3y l\u1eadp k\u1ebf ho\u1ea1ch, kh\u00f4ng ghi l\u1ea1i h\u1ebft nh\u1eefng g\u00ec b\u1ea1n nh\u00ecn th\u1ea5y.", 
+                    "tags": [
+                        "photo", 
+                        "video", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Khi ghi \u00e2m m\u1ed9t bu\u1ed5i ph\u1ecfng v\u1ea5n, chu\u1ea9n b\u1ecb \u00edt nh\u1ea5t 15 c\u00e2u h\u1ecfi.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "H\u00e3y t\u1eadp trung v\u00e0o m\u1ed9t ch\u1ee7 \u0111\u1ec1 ch\u00ednh \u0111\u1ec3 k\u1ec3 m\u1ed9t c\u00e2u chuy\u1ec7n ch\u00ednh x\u00e1c v\u00e0 r\u00f5 r\u00e0ng.", 
+                    "tags": [
+                        "journalism", 
+                        "story", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "H\u00e3y ghi l\u1ea1i nh\u1eefng ph\u1ecfng v\u1ea5n v\u00e0 quan s\u00e1t t\u1eadn m\u1eaft khi c\u00f3 th\u1ec3.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "H\u00e3y r\u00f5 r\u00e0ng v\u1ec1 ch\u1ee7 \u0111\u1ec1 ho\u1eb7c m\u1ee5c ti\u00eau khi b\u1ea1n \u0111\u1ec1 ngh\u1ecb ph\u1ecfng v\u1ea5n.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "H\u00e3y b\u00ecnh t\u0129nh. B\u1ea1n th\u01b0 gi\u00e3n s\u1ebd gi\u00fap cho \u0111\u1ed1i t\u01b0\u1ee3ng ph\u1ecfng v\u1ea5n th\u01b0 gi\u00e3n theo.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Lu\u00f4n lu\u00f4n bi\u1ebft \u0111\u01b0\u1ee3c b\u1ea1n mu\u1ed1n g\u00ec t\u1eeb cu\u1ed9c ph\u1ecfng v\u1ea5n.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ch\u1ec9 h\u1ecfi m\u1ed9t c\u00e2u trong m\u1ed9t th\u1eddi gian.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "H\u00e3y h\u1ecfi nh\u1eefng c\u00e2u h\u1ecfi kh\u00f3, nh\u01b0ng n\u00ean nh\u1edb h\u00e3y gi\u1eef l\u1ecbch s\u1ef1. M\u1ed9t y\u00eau c\u1ea7u l\u1ecbch s\u1ef1 c\u00f3 th\u1ec3 \u0111i r\u1ea5t xa.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "T\u00e1c phong l\u1ecbch s\u1ef1 c\u00f3 th\u1ec3 gi\u00fap t\u1ea1o s\u1ef1 tin t\u01b0\u1edfng v\u00e0 c\u1ea3i thi\u1ec7n vi\u1ec7c ph\u1ecfng v\u1ea5n.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "H\u00e3y \u0111\u1ec3 \u00fd \u0111\u1ebfn \u00e2m thanh n\u1ec1n c\u00f3 th\u1ec3 l\u00e0m x\u1ea5u \u0111i ph\u1ea9m ch\u1ea5t c\u1ee7a b\u1ea3n tin tr\u01b0\u1edbc khi ghi \u00e2m.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "\u0110\u1eebng h\u1ecfi nh\u1eefng c\u00e2u h\u1ecfi \u0111\u00f3ng m\u00e0 c\u00e2u tr\u1ea3 l\u1eddi s\u1ebd l\u00e0 m\u1ed9t t\u1eeb \u0110\u00fang ho\u1eb7c Kh\u00f4ng.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "H\u00e3y gi\u1eef cho c\u00e2u chuy\u1ec7n ti\u1ebfp t\u1ee5c. H\u00e3y h\u1ecfi: T\u1ea1i sao? C\u00e1i g\u00ec s\u1ebd x\u1ea3y ra ti\u1ebfp theo? \u00dd \u00f4ng/b\u00e0 l\u00e0 g\u00ec?", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "N\u1ebfu c\u00e2u h\u1ecfi c\u1ee7a b\u1ea1n kh\u00f4ng c\u00f3 \u0111\u01b0\u1ee3c c\u00e2u tr\u1ea3 l\u1eddi mong mu\u1ed1n, h\u00e3y thay \u0111\u1ed5i c\u00e1ch ti\u1ebfp c\u1eadn.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "H\u00e3y s\u1eed d\u1ee5ng nh\u1eefng c\u00e2u h\u1ecfi ti\u1ebfp di\u1ec5n n\u1ebfu b\u1ea1n c\u1ea7n th\u00eam th\u00f4ng tin.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "H\u00e3y ghi nh\u1edb, n\u1ebfu kh\u00f4ng c\u00f3 \u00e2m thanh, c\u00e1c h\u00ecnh \u1ea3nh c\u1ee7a b\u1ea1n ch\u1ec9 mang l\u1ea1i m\u1ed9t n\u1eeda th\u00f4ng tin c\u1ee7a c\u00e2u chuy\u1ec7n.", 
+                    "tags": [
+                        "video", 
+                        "photo essay", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Trong \u0111i\u1ec1u ki\u1ec7n gi\u00f3 l\u1edbn, ch\u0129a camera xa kh\u1ecfi h\u01b0\u1edbng gi\u00f3, ho\u1eb7c b\u1ea3o v\u1ec7 microphone.", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "M\u1ed7i m\u1ed9t c\u00e2u chuy\u1ec7n c\u00f3 c\u00e2u h\u1ecfi ch\u00ednh. C\u00e2u h\u1ecfi n\u00e0o b\u1ea1n tr\u1ea3 l\u1eddi \u1edf ph\u1ea7n cu\u1ed1i c\u1ee7a c\u00e2u chuy\u1ec7n?", 
+                    "tags": [
+                        "video", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Cao tr\u00e0o l\u00e0 c\u00e2u tr\u1ea3 l\u1eddi cho c\u00e2u h\u1ecfi m\u00e0 khi\u1ebfn th\u00ednh gi\u1ea3 ti\u1ebfp t\u1ee5c theo d\u00f5i c\u00e2u chuy\u1ec7n. \u0110\u1eebng \u0111\u01b0a cao tr\u00e0o ra qu\u00e1 s\u1edbm.", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "audio", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "H\u00e3y t\u1ef1 h\u1ecfi b\u1ea1n v\u1ec1 m\u1ed7i clip: N\u00f3 c\u00f3 n\u00f3i \u0111i\u1ec1u g\u00ec m\u1edbi kh\u00f4ng?", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "M\u1ed9t lo\u1ea1t \u1ea3nh t\u1ed1t n\u00ean \u0111\u01b0\u1ee3c t\u1ea1o th\u00e0nh t\u1eeb n\u0103m h\u00ecnh \u1ea3nh \u0111\u1eb9p. N\u1ebfu b\u1ea1n c\u00f3 nhi\u1ec1u h\u00ecnh \u0111\u1eb9p, h\u00e3y b\u1ed5 sung ch\u00fang v\u00e0o b\u1ea3n tin c\u1ee7a b\u1ea1n.", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "during"
+                    ]
+                }
+            ], 
+            "type": "TipCollectionHeadlessCard", 
+            "id": "tip_collection"
+        }, 
+        {
+            "question": "Ch\u1ecdn m\u1ed9t c\u1eadu chuy\u1ec7n m\u00e0 b\u1ea1n mu\u1ed1n k\u1ec3", 
+            "correctRequired": 1, 
+            "type": "QuizCard", 
+            "id": "quiz_card_topic", 
+            "choices": [
+                {
+                    "text": "M\u1ed9t c\u00e2u chuy\u1ec7n \u0111\u1eb7c s\u1eafc", 
+                    "id": "t_audio_highlights"
+                }, 
+                {
+                    "text": "M\u1ed9t cu\u1ed9c th\u1ea3o lu\u1eadn v\u1ec1 t\u1eebng ng\u01b0\u1eddi", 
+                    "id": "t_audio_discussion_question_1"
+                }, 
+                {
+                    "text": "M\u1ed9t cu\u1ed9c th\u1ea3o lu\u1eadn v\u1ec1 m\u1ed9t v\u1ea5n \u0111\u1ec1 x\u00e3 h\u1ed9i", 
+                    "id": "t_audio_discussion_question_2"
+                }, 
+                {
+                    "text": "M\u1ed9t cu\u1ed9c th\u1ea3o lu\u1eadn v\u1ec1 m\u1ed9t l\u1ec5 h\u1ed9i", 
+                    "id": "t_audio_discussion_question_3"
+                }, 
+                {
+                    "text": "M\u1ed9t c\u00e2u chuy\u1ec7n v\u1ec1 c\u00e1c l\u1ec5 h\u1ed9i", 
+                    "id": "t_audio_report_event"
+                }, 
+                {
+                    "text": "M\u1ed9t c\u00e2u chuy\u1ec7n \u0111\u00e1ng l\u00ean \u00e1n", 
+                    "id": "t_audio_report_issue"
+                }, 
+                {
+                    "text": "M\u1ed9t ng\u00e0y trong c\u00e2u chuy\u1ec7n th\u01b0\u1eddng ng\u00e0y", 
+                    "id": "t_audio_day_in_the_life"
+                }
+            ]
+        }, 
+        {
+            "header": "Ti\u1ebfp", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "C\u1ea7n nhi\u1ec1u th\u00f4ng tin"
+        }, 
+        {
+            "text": "Making a great audio story involves a variety of clips. These templates will guide you to get all the clips you need to tell a variety of stories.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_audio_library::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "action": "LOAD", 
+            "references": [
+                "t_audio_library::quiz_card_topic::choice"
+            ], 
+            "type": "HookLoaderHeadlessCard", 
+            "id": "hook_loader_card"
+        }
+    ], 
+    "id": "t_audio_library"
+}

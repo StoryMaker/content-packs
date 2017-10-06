@@ -1,0 +1,35 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "compose_with_a_grid.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid_activity", 
+            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid_activity.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../3_create_layers/create_layers.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Compose with a Grid", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "compose_with_a_grid"
+        }
+    ], 
+    "currentStoryPathFile": "compose_with_a_grid.json", 
+    "storyPathTemplateFiles": {
+        "compose_with_a_grid": "compose_with_a_grid.json"
+    }, 
+    "id": "compose_with_a_grid"
+}

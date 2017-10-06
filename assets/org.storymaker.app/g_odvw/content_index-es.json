@@ -1,0 +1,32 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/g_odvw/0/g_odvw_0_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
+    "language": "es", 
+    "title": "\u00bfQu\u00e9 espera aprender?"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/g_odvw/1/g_odvw_1_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
+    "language": "es", 
+    "title": "Entrevistar a su compa\u00f1ero."
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/g_odvw/2/g_odvw_2_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
+    "language": "es", 
+    "title": "Grabar una historia de proceso."
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/g_odvw/3/g_odvw_3_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
+    "language": "es", 
+    "title": "Crear una historia con narraci\u00f3n."
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/g_odvw/4/g_odvw_4_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
+    "language": "es", 
+    "title": "\u00bfCu\u00e1l es la cosa m\u00e1s importante que ha aprendido?"
+  }
+]

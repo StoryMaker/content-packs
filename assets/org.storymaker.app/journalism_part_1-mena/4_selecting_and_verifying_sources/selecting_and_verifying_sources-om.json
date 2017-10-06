@@ -1,0 +1,169 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2014"
+                }
+            ], 
+            "header": "Qaamota akka madda gaariitti seenaakee fayyadan akkamitti yaaddee adda baasuuf hojjetta?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "![Qabiyyee seenaa](2.png)  \n## Kutaa kana keessatti kan barattan:  \n&bull; Maddi oduu maal akka ta'e  \n&bull; Seenaakeef madda oduu gaarii akka itti adda baasan  \n&bull; Maddooti garagaraa ga'ee garagara akka isaan seenaakee keessatti taphatann  \n&bull; Seera ittiin madda dudduubaa fi eenyummaa ittiin dhoksan", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Gaarummaan seenaa hammuma qaama seenichaati. Gaazexeessitooti madda qaama seenaa jedhanii waamu. Seenaa baayyeen kan irratti hundaa'uu odeeffannoo maddarraa argame dha. Maddooti akka qaama seenaatti senicha keessa jiran maddoota \u201con-the-record\u201d jedhamu. Maddooti tokko tokko odeeffannoo duubaa kan ati ittiin seenicha xiinxaltuu fi karaa maddoota qaama seenaa mirkaneessan qofa dhiyeessu.  \nMadda bakka seenaa haaraa adda baasuurratti dabalataan, gaazexeessaa gaariin maddoota deddeebi'anii quunnaman qopheeffatu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## Gosa Maddootaa  \nMaddi beekamaan namicha ati gaafannoo wajjin geggeessitu kan seenichaaf taatee ta'eedha. Maddi akaakuu shaniin dhufa:  \n&bull; Madda deebii-gochaa  \n&bull;Madda odeeffannoo kennu  \n&bull; Madda aanga'aa yookaan sagalee ogeessaa  \n&bull; Galmee  \n&bull; Iddoola cimdaa hawaasaa  \nSeenaan oduu gaariin yoo xiqqaate akaakuu lama fayyadama, yeroo tokko tokko shananuu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "### Maddoota deebii-gochaa\n![Maddoota deebii-gochaa](3.png)  \nNamoota bakkichaa fi kan kallattiidhaan dhimmicha keessa jiran yookaan itti miidhaman, kan akka:  \n&bull; Namoota dho'iinsi boombii irratti qaqqabe.  \n&bull; Namoota waa bitachuu sababa ikonoomi dhabuutiindadhaban.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "### Madda odeeffannoo kennu  \n![Madda odeeffannoo kennu](4.png)  \nNamoota, baayyinaan Aanga'oota, nama taatee tokkorratti haqa jiru sii kennu, kan akka:  \n&bull; Ofiisera lolaa yookaan dubbi himaa hospitaalaa taatee ibidda ka'ee irratti.  \n&bull; Dubbi himaa dhaabbata miti mootummaa dhimma filannoorratti yookaan qajeelfama faayinaansii haaraarratti.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "### Madda aanga'ootaa fi sagalee ogeessaa  \n![Madda aanga'ootaa fi sagalee ogeessaa](5.png)  \nNamoota dhimma seenaakee irratti ibsa waliigalaa kennuu danda''an, kan akka:  \n&bull; Beektotaa, Qorattootaa, Gorsitootaa.  \n&bull; Nama dhaabbata Doktoorota Daangaa Malee irraa dhufe yookaan ogeessa fayyaa dunyaalaa seenaakeerratti waa'ee hanqina meeshaa yaalaa hospitala tokko, keessumaa yoo kun rakkoo naanichaa ta'e.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "### Galmeewwan  \n![Galmeewwan](6.png)  \nGalmeewwan baayyinaan madda baayyee gaariidha. Galmeewwan waraqaarraaa waajjiraalee mootummaa, mana kitaabaa, fi Dhaabbata miti-mootummaatti argamuu danda'u. Amma galmeewwan baayyeen baayyinaan karaarratti argamu. Odeeffannoon galmeerraa dhimma barbaachisaa tokkorratti bakka dhaabbatichaa bu'uudhaan aanga'aa fi sagalee ogeessaa dhiyeessuu danda'u. Galmeen madda dudduubaa ta'ee hojjechuu danda'a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "### Iddoola cimdaa hawaasaa  \n![Iddoola cimdaa hawaasaa](7.png)  \nNamootii fi maxxansaaleen iddoola hawaasaa kan akka Facebook yookaan YouTube madda dha. Mataduree hundarratti gareen jira. Bakki kun bakka qorannoo dudduubaa itti geggeessituu fi gaafannoo itti geggeessitu. Yeroo iddoola hawaasaa fayyadamtu ofiikee akka gaazexeessaatti adda baasuun barbaachisaadha. Waa'ee maddakee irratti gulaaltotaaf yookaan dhaabbata oduutiif ifa ta'uun barbaachisaadha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## Qaccee madda barbaaduu fi fayyadamuu  \nAkka madda gaarii seenaakeef argatte of gaafadhu \u2014 ga'umsa ga'aa qabuu? Maddoota gaggaarii akka argattes of gaafachuu qabda \u2014 dhimmichi gama hundaanuu bakka bu'ameeraa? Hammuma dhimmichi wal dhiitu, madda gaarii argachuun rakkisaa ta'a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "### Tasa maddi lafaa ka'ee uumamuu hin qabu", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "### Iftoominni furtuudha  \nMaddootikee karaa qulqullina qabuu fi guutummaa guutuutti adda ba'uu qabu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "### Waliigaltee dudduuba-qofaa maddakee wajjinii kabaji  \nMaddooti dudduubaan qofa odeeffannoo kennuu filachuu danda'u. Kana jechuun gabaasa keessatii eenyummaasaanii adda baasuu yookaan maqaa dha'uu hin qabdu jechuudha. Maddooti dudduubaa karaa ittiin waa'ee matadurichaa bartu isa baayyee gaarii ta'uu danda'u. Fakkeenyaaf, maddi dudduubaa ministeera mootummaa barbaachisaan qaccee seenaa tokkoo utuu inni in mudatinii fi odeeffannoo barbaachisaa gabaasakee keessatti fayyadamtu siif kennuu danda'a . Yeroo hunda waliigaltee  \u201cdudduuba-qofaa\u201d maddakee wajjinii kabajuun barbaachisaadha.Waliigaltee kana cabsitee jennaan, deebi'anii odeeffannoo bu'a qabeessa siif kennuunsaanii shakkisiisaadha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "### Abboomsuu  \nYaada yookaan jecha namaa yeroo fayyadamtutti, barreeffamaan yookaan jechaan, maddichaaf abbummaa kenniif. Odeeffannoo dhaabbata oduurraa fudhatte maddasaa ibsiif, yoo fudhatteetta ta'e geessituu isaas dhiyeessi. Kun nama dubbisuuf odeeffannoo dabalataa fi bu'a qabeessa kennaaf. Galagalcha gadhiisa maxxansaa irraa argatte utuu hin abboomsin hin fayyadamin. Maddoota biraatti hirkachuudhaan gadhiisa maxxansaarra darbuuf hojjedhu. Ragaalee iddoolota hin barbaachisne yookaan encyclopedia kan akka Wikipedia madda jalqabaarraa utuu hin mirkaneeffatin hin fayyadamin. Ilaaltoti,dubbistooti yookaan dhaggeeffattooti kallattiidhaan madda odeeffannoo dhiyaatee adda baafachuu qabu. Odeeffannoo madda oduu biroorraa kara kallattiin yookaan al-kallattiin fayyadamte kanaa ala miti.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "text": "### Yeroo itti eenyummaa maddaa dhoksan adda baasuu  \nMaddooti tokko tokko bakka eenyummaan isaanii dhokachuun hin barbaachisnetti akka eenyummaan isaanii dokatu gaafatu. Eenyummaa maddoota akkasii mul'isuurratti of eeggadhu; amanamummaa akka gabaasaatti ati qabduu tuffachiisuudhaan namni seenaakee akka hin amanne gochuun miidha . Eenyummaa dhoksuun filannoo isa dhumaa ta'uu qaba.  \nHaalli ati keessatti eenyummaan namaa akka dhokatu gootu yoo jireenyi yookaan hojiin maddakee sodaa keessa jiraate qofa. Haala kana keessatti, odeeffannoo kamiin akka fayyadamtuu fi seenicha keessatti kan eenyummaasaa adda baasurratti maddakee wajjin adda baasi. Fakkeenyaaf, \u201cqondaala mootummaa kan sababa eyyama dubbachuu hin qabneef haala dhokannaatiin dubbatte,\u201d yookaan \u201cMiseensa hawaasaa kandoorsifamee lubbuusaatiif baqatee dhokachaa jiru.\u201d", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "text": "## WAANYOTA YAADATAMUU QABAN  \n\n&bull; Gaarummaan seenaankee hammuma maddakee fi qaama seenichaa ga'a.  \n&bull; Seenaa keetiif maddoota garagaraa qabaachuun barbaachisaadha.  \n&bull; Maddoota garagaraatu jira. Sirriitti fayyadamiin.  \n&bull; Maddi hundi qaama seenaakee miti. Maddooti gaggaariin seenaa keetiif odeeffannoo dudduubaa qofa dhiyeessu.  \n&bull; Waa'ee madda keetiif ifttoomina qabaadhu, maxxansa biraarraa kan fudhatte maddasaa ibsi.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_14"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Baayyina nama kirkira lafaatiin miidhamee baruuf, Maddoota gaditti jiran keessaa kamiin gaafatta?", 
+            "choices": [
+                {
+                    "text": "Madda deebii-gochaa", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Madda Aanga'aa", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Madda Odeeffannoo kennu.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Deebii hin qabu", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Dhugaa yookaan Soba: Maddi duubaa nama eenyummaan isaa utuu hin ibsamin dubbachuuf walii galuudha, jechuun maqaan isaa/ishee seenicharratti kan hin mul'anne. Dhugaa dubbachuuf, maqaasaa maxxansuun rakkoo hin qabu.", 
+            "choices": [
+                {
+                    "text": "Dhugaa", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Soba", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Namoota haasofsiisuutti dabalataan, qorannoo fi dookumentiin maddaa kutaa gaazexeessummaa gaariiti. Gabaasa akkasiitiif kamtu madda gaariidha?", 
+            "choices": [
+                {
+                    "text": "galtee RSS", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Qorannoowwan dhaabbata bu'aarraa bilisaa yookaan mootummaan qophaa'an", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Iddoolli hawaasaa, keessumaa kan isataatistiksii waa'ee namoota dubbisanii yookaan ilaalanii galmeessan.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Hunduu Deebiidha", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "selecting_and_verifying_sources", 
+    "title": "Madda Filachuu fi Adda Baasuu"
+}

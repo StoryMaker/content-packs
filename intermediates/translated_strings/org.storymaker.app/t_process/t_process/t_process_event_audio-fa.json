@@ -1,0 +1,16 @@
+{
+    "t_process_event_audio::clip_card_5::goals[0]": "آخرین مرحله مهم رویداد را ضبط کنید.",
+    "t_process_event_audio::clip_card_0::goals[0]": "صدای مکان وقوع یک برنامه را قبل از شروع آن ضبط کنید.",
+    "t_process_event_audio::title": "روند یک رویداد",
+    "t_process_event_audio::text_card_0::text": "همه مراحل را ضبط نکنید. فقط مراحل مهم را برای نشان دادن روند جریان از ابتدا تا انتها ضبط کنید.",
+    "t_process_event_audio::clip_card_8::goals[0]": "صدای مردمی را که در حال تماشای یک برنامه یا در حال واکنش نشان دادن به آن هستند، ضبط کنید.",
+    "t_process_event_audio::clip_card_1::goals[0]": "آغاز رویداد را معرفی کنید.",
+    "t_process_event_audio::clip_card_1::goals[1]": "نزدیک ورودی بایستید و صدای مردمی را که وارد می‌شوند ضبط کنید.",
+    "t_process_event_audio::clip_card_2::goals[0]": "اولین مرحله مهم رویداد را ضبط کنید.",
+    "t_process_event_audio::clip_card_1::goals[2]": "صدای شلوغی جمعیت را بگیرید.",
+    "t_process_event_audio::clip_card_9::goals[0]": "صدای پایان‌بندی برنامه را ضبط کنید.",
+    "t_process_event_audio::clip_card_6::goals[0]": "صدای لحظه‌ای دراماتیک از برنامه را ضبط کنید که به نوعی برنامه را جمع‌بندی می‌کند.",
+    "t_process_event_audio::clip_card_4::goals[0]": "سومین مرحله مهم رویداد را ضبط کنید.",
+    "t_process_event_audio::clip_card_3::goals[0]": "دومین مرحله مهم رویداد را ضبط کنید.",
+    "t_process_event_audio::clip_card_7::goals[0]": "صدای شخصیت گزارش‌تان را در حالی که درگیر یک فعالیت مهم در برنامه شده ضبط کنید."
+}

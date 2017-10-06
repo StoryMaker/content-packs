@@ -1,0 +1,221 @@
+{
+    "title": "Crear Capas", 
+    "storyPathLibraryFile": "create_layers_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "create_layers_activity", 
+            "dependencyFile": "../3_create_layers_activity/create_layers_activity.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action", 
+            "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "level": "Introducci\u00f3n", 
+            "headline": "Crear Capas", 
+            "time": "3 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Las capas ayudan al espacio bi-dimensional de una foto a representar mejor el mundo tri-dimensional. Esta lecci\u00f3n le ense\u00f1ar\u00e1 los pasos b\u00e1sicos para crear fotos con capas.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "header": "Siguiente", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "milestone_start", 
+            "text": "COMIENZA"
+        }, 
+        {
+            "text": "La forma m\u00e1s b\u00e1sica de usar capas es con dos capas distintas: una capa del sujeto y una capa de contexto. La capa de contexto proporciona informaci\u00f3n adicional relacionada con su sujeto.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "En esta foto la capa del sujeto est\u00e1 a color.", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "La capa del sujeto muestra al sujeto principal de tu foto. Esto es usualmente una persona u objeto. La capa del sujeto est\u00e1 a menudo colocada en la capa del frente de tu encuadre.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "3.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "En esta foto la capa del contexto est\u00e1 en color.", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "La capa del contexto es a menudo la capa del fondo. Ayuda al espectador a entender mejor el ambiente del sujeto o un detalle importante de la historia. En esta foto la capa del contexto le dice al espectador que las mujeres est\u00e1n en una protesta.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "4.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "A veces las capas est\u00e1n al rev\u00e9s, aqu\u00ed la capa del contexto est\u00e1 al frente.", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "4.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Esta imagen resalta el contexto de la historia \u2014 el juego \u2014 al situarlo en primer plano y colocar al sujeto en segundo plano.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Vea m\u00e1s ejemplos", 
+            "header": "Siguiente", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_examples_start", 
+            "icon": "down"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_1.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Ejemplo 1", 
+            "references": [
+                "create_layers::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_1.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Ejemplo 2", 
+            "references": [
+                "create_layers::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Ejemplo 3", 
+            "references": [
+                "create_layers::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "Felicidades, has aprendido lo b\u00e1sico para crear capas en una foto. Practica tu nueva habilidad en la actividad de abajo.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Realiza la Actividad", 
+            "link": "create_layers_activity::intro_card_0", 
+            "id": "link_card_0", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Pr\u00f3xima Lecci\u00f3n", 
+            "link": "capture_peak_action::intro_card_0", 
+            "id": "link_card_1", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Lecci\u00f3n Previa", 
+            "link": "create_layers::intro_card_0", 
+            "id": "link_card_2", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }
+    ], 
+    "id": "create_layers"
+}

@@ -1,0 +1,221 @@
+{
+    "title": "Baqqaana Uumi", 
+    "storyPathLibraryFile": "create_layers_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "create_layers_activity", 
+            "dependencyFile": "../3_create_layers_activity/create_layers_activity.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action", 
+            "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "level": "Seensa |", 
+            "headline": "Baqqaana Uumi", 
+            "time": "3 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Baqqaanni kallattii lamaan suuraatiin kallattii sadan addunyaa akka caalmaatti bakka buustuuf gargaara. Kutaan kun tarkaanfilee bu'uuraa ittiin suuraa baqqaanaan qopheessan si barsiisa.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "header": "Itti Aanee", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "milestone_start", 
+            "text": "Jalqabi"
+        }, 
+        {
+            "text": "Karaan barataman bu'uuraa ittiin baqqaana fayyadaman baqqaanota garagaraa lama fayyadamuudhaani: baqqaana qaamichaa fi baqqaana ibsaa. Baqqaanni ibsaa odeeffannoo dabalataa qaamichaan wal ilaallatu dhiyeessa.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Suuraa kana keessatti baqqaanni qaamichaa haalluudhaan jira.", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Baqqaanni qaamichaa qaama hangafaa suurichaa agarsiisa. Kun baayyinaan nama yookaan waanta dha. Baqqaanni qaamaa baayyinaan baqqaana fuuldura goodaayyaarra taa'a.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "3.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Suuraa kana keessatti baqqaanni ibsaa haalluudhaan jira.", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Baqqaanni ibsaa yeroo bayyee baqqaana dudduubaati. Naannoo qaamichaa yookaan gadi fageenya seenichaa barbaachisaa ilaaltoti akka caalmaatti hubataniif gargaara. Suuraa kana keessatti baqqaanni ibsaa dubartooti mormiirra jiraachuu isaanii hima.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "4.jpg", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Yeroo tokko tokko baqqaanoti wal jijjiiru, asitti baqqaanni ibsaa fuuldurarra jira.", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "4.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Fakkiin kun ibsa seenichaa mul'isa  \u2014 taphicha \u2014 fuulduraan kaa'uudhaan qaamichammoo duubaan kaa'uudhaan.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Fakkeenyota Dabalataa Ilaali", 
+            "header": "Itti Aanee", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ], 
+            "type": "ButtonCard", 
+            "id": "milestone_examples_start", 
+            "icon": "down"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_1.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Fakkeenya 1", 
+            "references": [
+                "create_layers::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_1.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Fakkeenya 2", 
+            "references": [
+                "create_layers::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "example_3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Fakkeenya 3", 
+            "references": [
+                "create_layers::milestone_examples_start::value::true"
+            ], 
+            "exampleMediaPath": "example_3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": " Baga Gammade, bu'uura suuraarratti baqqaana uumuu baratteetta. Dandeettii haaraa argatte kana gochaawwan gaditti jiraniin shaakali.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Hojicha hojjedhu", 
+            "link": "create_layers_activity::intro_card_0", 
+            "id": "link_card_0", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Kutaa Itti Aanu", 
+            "link": "capture_peak_action::intro_card_0", 
+            "id": "link_card_1", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "Kutaa Duraanii", 
+            "link": "create_layers::intro_card_0", 
+            "id": "link_card_2", 
+            "references": [
+                "create_layers::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }
+    ], 
+    "id": "create_layers"
+}

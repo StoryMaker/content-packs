@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "arc", 
+            "dependencyFile": "arc.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Arc", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "arc"
+        }
+    ], 
+    "currentStoryPathFile": "arc.json", 
+    "storyPathTemplateFiles": {
+        "arc": "arc.json"
+    }, 
+    "id": "arc"
+}

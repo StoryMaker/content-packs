@@ -1,0 +1,151 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Waraabbiikee qindeeffachuu", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Kutaa kana keessatti kan barattan:  \n&bull; Akka itti suur-sagalee sirriitti waraaban.\n&bull; Akka itti tarreeffama waraabbii qopheessan.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Suur-sagaleen akka waraabametti kan gulaalamu darbee darbeeti. Yeroo seeraan fayyadamuu fi qindoominaan taa'uuf, utuu seenaakee waraabuu hin jalqabin karoora ifaa baafadhu.  Tarreeffamni waraabbii karaa ittiin seenaakee karooraan walitti fidattu isa guddaadha.\n![](2.png)  \nTarreeffa waraabbiikee akka tarreeffama mi'a bitachuu yeroo bakka gabaa deemtuutti fudhadhu.  \nSeenaakee harkaan barreessuun si gargaara. Qaamota garagaraa, taatee achitti ta'u, fi seenaakef ni sirriitti ibsa gaarii kenna kan jettu yaadi. Hamma danda'ametti dhimma adda ba'erratti xiyyeeffadhu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## Barreessi  \nQabiyyee seenichaa erga qopheeffattee booda, waraabbii keessa galchitu yaaduu dandeessaa. Yeroon kun yeroo gaarii itti waraabbii bu'uuraa shanan itti irra deebitee ilaaltuu isa gaariidha. Tokkoon tokkon isaanii maal akka godhanii fi akkamitti qabiyyee seenaa keetii akka itti goodaayessan ilaali.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "### Tarreeffama Waraabbii  \n![](3.png)  \nWaraqaarratti tarreeffama tarjaa sadii qabu qopheessi. Tarjaan jalqabaa \u201cgosa waraabbii,\u201d inni lammaffaan \u201cibsa,\u201d fi inni sadaffaa  \u201cqabiyyee seenaa.\u201d", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "### Gadi fageenyaan guuti  \n![](4.png)  \nWaraabbiiwwan na barbaachisu jettee yaaddu hunda guuti . Dhimma ta'erratti hundaa'i, waraabbilee baayyee barreefachuu hin sodaatin. Kun agarsiistuu yeroo waraabbiitti xiyyeeffannoof si garggaaraniidha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "Waraabbii hundaaf, gosa waraabbii adda ta'e kan akka gaariitti hojjeta jettee yaaddu tarreessi. ibsa hamma dandeesse guuti, goodaayyicha keessatti qabiyyee seenaa barabaaddu murteessi. Odeeffannoo kana hundaan hamma danda'ametti dhimma adda ba'erratti xiyyeeffadhu. Yeroo waraabdutti, gocha garagaraatiin jeeqamuu dandeessa. Jalqabuu keetiin dura hamma dandeesse karoorfadhu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "Akka ofii waraabaa hin jirretti odeeffannoo kana hunda barreessi. Yoo namni si bira jiru ni hubata ta'e, tarreeffama waraabbii gaarii akka qabdu beekta.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "StoryMaker'iin galma tareeffama waraabbii filannoo ati argii seenaa irratti geggeessiterratti hundaa'uun muraa dhiyeessuudhaan siif tilmaama. Muraan siif filame mataduree waliinii fi dhangii seenaa suur-sagaleerratti hundaa'a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "StoryMaker'iin muraa fi qabiyyee seenaa ni fayyadamta jedhamee yadamu qofa dhiyeessa. Tarreeffamakee 'notepad' irratti yookaan fayyadama bilbilaa kan ittiin qabxii qabattutti fayyadamuudhaan tarreeffama mataakee qopheeffadhu filannoowwan seenaakee adda godhan akka keessaa hin hafneef.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "Hamma seenaa waraabuu yeroodhaa yerootti shaakalaa deemte, tarreeffama waraabbii qopheessuun salphachaa deema.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## WAANTOTA YAADATAMUU QABAN  \n&bull; Tarreeffammi waraabbii akka qabsiisa aartistiiti; Yaadakee keessatti qabatta, garuu yeroo waraabdu yeroo baayyee ni jijjiiramu.  \n&bull; Ibsa bareechuurratti yerookee hin gubin.  \n&bull; Yaadi bal'aan tarreeffama waraabbiikeetiif yaada yartuurra wayya; tarreeffama waraabbiikeerre kan jiran hunda argachuu dhiisuu dandeessa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "Tarreeffamni waraabbii maali?", 
+            "choices": [
+                {
+                    "text": "Haala qilleensaa", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Gosa Waraabbii", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Ibsa", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Qabiyyeewwan Seenaa", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2", 
+                "answer_3", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Yeroon tarreeffama waraabbii barreessutti?", 
+            "choices": [
+                {
+                    "text": "Hamma danda'ametti dhimma adda ta'erratti kan xiyyeeffate.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Hamma danda'ametti Ifaa kan hin taane.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Ifaa kan hin taane.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ifaa kan hin taane.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Dhugaa yookaan Soba:Seenaakee harkaan barreessuun si gargaara?", 
+            "choices": [
+                {
+                    "text": "Dhugaa", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Soba", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "organizing_your_shoot", 
+    "title": "Waraabbiikee qindeeffachuu"
+}

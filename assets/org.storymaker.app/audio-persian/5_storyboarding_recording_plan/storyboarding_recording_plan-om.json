@@ -1,0 +1,220 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Muraaleen garagaraa kan seenaa sagalee guutuu uuman maal fa'i?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Kutaa kana keessatti kan barattan:  \n&bull; Muraa addaa seenaakee qopheessuuf barbaachisu akka itti karoorfatan \n&bull; Garaagarummaa karaa seenaakeetti ittiin dhiyaattu gidduu jiru  \n&bull; Akka itti haasawaa namootaa biratti waa'ee sagalee barbaadduu yaaddu", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Seenaa sagalee guutuu  qopheessuuf karoora qinda'aa qabaachuun barbaachisaadha. Tarreeffama namoota gaaffiif deebiin wajjin geggeeffame, gaaffichi maal akka ta'ee yeroo kutaaleen itti xumuraman, qajeelttoowwan barbaachisoo seenicha xumuruuf si fayyadan qopheeffadhu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "### Seensa  \nSeenaan kamiyyuu, seenaa sagalee dabalatee, seensa barbaada. Kun dursa jedhaama. Xiyyeeffannoo dhaggeeffataa qabachuu qaba, waa'ee seenichaa sirriitti ibsuu, haqa barbaachisaa dhiyeessuu, fi madda odeeffannoo adda baasuu. Hamma hawwataa fi kan namattu tolu ta'e, carraan nammi seenaakee hamma xumuratti dhaggeeffachuu guddaa ta'a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "# Seensa Ga'umsaa", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "2.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Fakkeenya seensa seenaa ga'umsa qabuu", 
+            "exampleMediaPath": "2.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Sagaleekees kan nama biraa ta'us, hima mataduree ibsu si barbaachisa, maaliif akka qaama hordofuuf barbaachisu, akka kutaan kun immoo seenicha itti seenicha himuuf deemu. Waa'ee matadurichaa yookaan dhimmichaa irratti  fi jijjiirama uumamaa jirurratti ibsa kennuu qabda. Kuticha keessatti maal akka ta'u kaa'uu yoo gaaffiif deebii yookaan sagalee taaticha irraa argattu akka fayyadamtu ibsuu dandeessa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "# Ibsa nama dhuunfaa", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "3.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Fakkeenya seensa seenaa nama dhuunfaa", 
+            "exampleMediaPath": "3.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Seensi tokko tokko seensa dhuunfaa ta'uu danda'u, kan nama dubbachaa jiru ibsan yookaan seenaa nama dubbachaa jiruu.Karaan beekamaan bu'uuraa ittiin kana godhan, yoo ofiikee beeksisaa jiraatte, qaama hordofu nagaa gaafachuudhaan, of beeksisi, matadureen yookaan xiyyeeffannoon seenichaa maal akka ta'u hordoftootatti himi.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## Seensa nama dhuunfaa\nGaafannoo sagalee geggeessuu keetiin dura, yeroo hunda gaaffilee qopheeffadhu. Gaaffileen kun gaafannoo akka karoorfattu qofa utuu hin taane, yeroo gaaffii gaafattu irraanfattuu fi gaaffiin ati gaafatte deebii ga'aa argachuu dhabuusaa bartu akka qajeeltootti si fayyada. Gaaffileekee ilaaluudhaan akka isaan deebii bal'inaan ibsuu qabaachuu danda'an kan eeyyee lakki yookaan deebii jecha tokkoo kan seenaa sagalee keessatti hawwataa hin ta'in hin qabaanne of gaafadhu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## Sagalee dabalataa", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "4.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Fakkeenya sagalee dudduubaa fayyadamuu", 
+            "exampleMediaPath": "4.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Yeroo akka seenaankee itti himamu qaaccessitu, nama haasawaa godhu murteessuu biratti, sagalee akkamii yoon fayyadame hordoftooti sirriitti xiinxalu kan jedhus yaadi. Sagalee duubarraa kan seenichaaf bifa kennu barbaaduunkee hin hafu, sagalee irraa hamma ta'e, fi seensa. Yoo taatee ta'e, sagalee taatechaa keessaa kan fayyadamturratti karoorfachuu, akka itti waraabdu yookaan, yoo jiraate, akka itti argattu. Akkuma gaaffiif deebiidhaaf keessummaa waamte beeksistu, sagalee seenicha ibsus beeksisuu dandeessa. Sagaleen karaarraa nama kaachisuu danda'u, kanaaf waan dhaggeeffatamaa jiru kan ibsu, maal akka ta'e, yoom akka ta'e fi eessa sagaleen jedhu jiraachuun faayidaa qaba. Ibsasaa akka itti kennitu filachuu dandeessa; hordoftooti sagalee warra hiriira nagaa ba'anii dursanii akka dhagaa'an barbaadda ta'a yookaan ayyaaneffannaa fi isa booda maal akka dhaga'an. Yookaan maal akka dhaga'uuf jedhan ibsuu dandeessa, sana booda sagalicha bantaaf.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## Xumura", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "5.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Fakkeenya xumura seenaa", 
+            "exampleMediaPath": "5.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Xumurrikee gaaffilee haaraa gabaasa yookaan seenaa gara fuulduraatiif ta'u qabachuu danda'a. Hordoftoota keetiif gabaabaatti qabxiilee ijoo fi cunfaa mudannoo guutummaa seenichaa ibsiif. Walitti fufaa yoo ta'e, gara fuulduraatti gabaasi yookaan seenaan hafe akka itti fufuuf jiru ibsiif.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "## WAANTOTA YAADATAMUU QABAN  \n&bull; Seensa mataduricha ibsuu fi maaliif qaama hordofuuf matadurichi barbaachisaa akka ta'erraa jalqabi.  \n&bull; Sagaleen dabalataa kam akka seenaakee gargaaru murteessiitii akka itti kuticharratti sagalicha ibsitu barreeffadhu.  \n&bull; Xumura jabaadhaan xumuri, qabxiilee ijoo cuunfuun akkasumas gaaffilee gara fuulduraa yookaan seenaa sagalee itti aanee dhufu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Seensi gaarriin kan of keessatti qabatu", 
+            "choices": [
+                {
+                    "text": "Seensa seenessaa.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Agarsiisa duraaa matadurichi maal akka ta'ee fi eenyyurratti akka xiyyeeffatu ibsu.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Ibsa waan sagantaa kana keessatti baratamu hundaa.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Warra si dinqisiifataniif sagalee guddaa dhageessisuu", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Qaama gaafannoo dhiyeessuufiif qophoofteef dursitee gaafficha qooduufii dandeessaa?", 
+            "choices": [
+                {
+                    "text": "Yeroo hunda.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Tasumaa", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Inni filannoo keeti.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Hunduu Deebiidha.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Kamtu fakkeenya sagalee dabalataa kan seenicha ibsuuf gargaaru MITI?", 
+            "choices": [
+                {
+                    "text": "Sagalee mormitootaa seenaa waa'ee mormiitiif", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Seenaa mana kitaabaa umurii dheeraatiif muuziqaa sagalee guddaa qabu", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Haasawaa namni siyaasaa godherraa kan fudhatame seenaa waa'ee mormii siyaasaatiif.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "storyboarding_recording_plan", 
+    "title": "Karoora Waraabbii Kaa'uu"
+}

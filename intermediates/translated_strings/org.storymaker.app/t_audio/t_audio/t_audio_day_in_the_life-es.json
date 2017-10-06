@@ -1,0 +1,21 @@
+{
+    "t_audio_day_in_the_life::clip_card_4::goals[0]": "Grabe sonido de un lugar importante para su personaje.",
+    "t_audio_day_in_the_life::clip_card_12::goals[0]": "Pregunta: ¿Puede, por favor, hablarnos de su futuro?",
+    "t_audio_day_in_the_life::clip_card_1::goals[0]": "Presente a su personaje.",
+    "t_audio_day_in_the_life::clip_card_10::goals[0]": "Grabe sonido de su personaje interactuando con la gente.",
+    "t_audio_day_in_the_life::clip_card_13::goals[0]": "Grabe sonido de algo importante para el personaje.",
+    "t_audio_day_in_the_life::clip_card_11::goals[0]": "Grabe sonido de lo que el personaje hace para divertirse.",
+    "t_audio_day_in_the_life::clip_card_9::goals[0]": "Grabe sonido del lugar donde su personaje finaliza el día.",
+    "t_audio_day_in_the_life::clip_card_0::goals[0]": "Grabe sonido del lugar donde vive su personaje.",
+    "t_audio_day_in_the_life::clip_card_3::goals[0]": "Grabe sonido de su personaje preparándose para el día.",
+    "t_audio_day_in_the_life::ms_moreinfo::text": "Acerca de esta plantilla",
+    "t_audio_day_in_the_life::clip_card_7::goals[0]": "Grabe sonido del trabajo de su personaje.",
+    "t_audio_day_in_the_life::clip_card_14::goals[0]": "Grabe sonido de su personaje al final del día.",
+    "t_audio_day_in_the_life::clip_card_8::goals[0]": "Grabe sonido de la cosa más importante para el trabajo de su personaje.",
+    "t_audio_day_in_the_life::clip_card_2::goals[0]": "Grabe sonido de algo notable acerca del hogar de su personaje.",
+    "t_audio_day_in_the_life::clip_card_5::goals[0]": "Pregunta: ¿Puede, por favor, hablarnos acerca de lo que hace?",
+    "t_audio_day_in_the_life::clip_card_6::goals[0]": "Grabe algo que su personaje hace que es importante para la historia.",
+    "t_audio_day_in_the_life::text_card_0::text": "Un día en la vida sigue a un personaje a lo largo de la historia. La historia puede seguir un día literal, o simplemente presentar una parte importante del día. Esta plantilla asume que está siguiendo a un personaje con un tipo específico de trabajo, pero los cortes se pueden usar para documentar el día o la actividad de cualquiera. Siéntase libre de usar preguntas alternativas si cree que pueden funcionar mejor para usted.",
+    "t_audio_day_in_the_life::ms_moreinfo::header": "Siguiente",
+    "t_audio_day_in_the_life::title": "Audio de un día en la vida"
+}

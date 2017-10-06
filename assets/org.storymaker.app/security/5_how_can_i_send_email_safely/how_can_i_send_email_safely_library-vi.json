@@ -1,0 +1,23 @@
+{
+    "title": "L\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 t\u00f4i g\u1eedi th\u01b0 \u0111i\u1ec7n t\u1eed m\u1ed9t c\u00e1ch an to\u00e0n?", 
+    "storyPathTemplateFiles": {
+        "how_can_i_send_email_safely": "how_can_i_send_email_safely.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "how_can_i_send_email_safely", 
+            "dependencyFile": "how_can_i_send_email_safely.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "how_can_i_send_email_safely"
+        }
+    ], 
+    "currentStoryPathFile": "how_can_i_send_email_safely.json", 
+    "id": "how_can_i_send_email_safely"
+}

@@ -1,0 +1,23 @@
+{
+    "title": "S\u1ef1 ph\u00e1t tri\u1ec3n c\u1ee7a m\u1ed9t b\u1ea3n tin", 
+    "storyPathTemplateFiles": {
+        "evolution_of_a_story": "evolution_of_a_story.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "evolution_of_a_story", 
+            "dependencyFile": "evolution_of_a_story.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "evolution_of_a_story"
+        }
+    ], 
+    "currentStoryPathFile": "evolution_of_a_story.json", 
+    "id": "evolution_of_a_story"
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-persian/1_introduction_to_photography/introduction_to_photography_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-persian/cover.png", 
+    "language": "rw", 
+    "title": "Intangamarara Kuvy'amasanamu"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-persian/2_camera_basics/camera_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-persian/cover.png", 
+    "language": "rw", 
+    "title": "camera basics"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-persian/3_composition_basics/composition_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-persian/cover.png", 
+    "language": "rw", 
+    "title": "Ishingiro ry\u2019ibigize isanamu"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-persian/4_captions_and_keywords/captions_and_keywords_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-persian/cover.png", 
+    "language": "rw", 
+    "title": "Insobanuro (sous-titre canke l\u00e9gende) hamwe namajambo nyamukuru (mots cl\u00e9s)"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-persian/5_exposure_basics/exposure_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-persian/cover.png", 
+    "language": "rw", 
+    "title": "Ishingiro ry\u2019ibigize ivyerekanwa (exposition)"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-persian/6_post_production/post_production_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-persian/cover.png", 
+    "language": "rw", 
+    "title": "Inyuma y\u2019umwimbu"
+  }
+]

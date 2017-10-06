@@ -1,0 +1,14 @@
+{
+    "t_process_event_video::clip_card_7::goals[0]": "Muestre al personaje realizando la actividad.",
+    "t_process_event_video::title": "Proceso del evento",
+    "t_process_event_video::clip_card_3::goals[0]": "Muestre la segunda fase significativa del evento.",
+    "t_process_event_video::clip_card_1::goals[0]": "Muestre el preciso comienzo del evento.",
+    "t_process_event_video::clip_card_6::goals[0]": "Muestre un momento dramático que resuma el evento.",
+    "t_process_event_video::clip_card_2::goals[0]": "Muestre la primera fase significativa del evento.",
+    "t_process_event_video::clip_card_9::goals[0]": "Muestre el evento concluyendo.",
+    "t_process_event_video::clip_card_0::goals[0]": "Muestre donde acontecerá el evento antes de que comience.",
+    "t_process_event_video::text_card_0::text": "No dispare a cada paso. Sólo las fases significativas para mostrar el avance desde el principio hasta el final.",
+    "t_process_event_video::clip_card_5::goals[0]": "Muestre la última fase significativa del evento.",
+    "t_process_event_video::clip_card_8::goals[0]": "Si el proceso tiene una audiencia, muestre su reacción.",
+    "t_process_event_video::clip_card_4::goals[0]": "Muestre la tercera fase significativa del evento."
+}

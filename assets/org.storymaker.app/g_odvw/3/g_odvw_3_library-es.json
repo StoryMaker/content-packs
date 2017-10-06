@@ -1,0 +1,23 @@
+{
+    "title": "Crear una historia con narraci\u00f3n.", 
+    "storyPathTemplateFiles": {
+        "g_odvw_3": "g_odvw_3.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "g_odvw_3", 
+            "dependencyFile": "g_odvw_3.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "g_odvw_3"
+        }
+    ], 
+    "currentStoryPathFile": "g_odvw_3.json", 
+    "id": "g_odvw_3_library"
+}

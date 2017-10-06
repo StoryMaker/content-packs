@@ -1,0 +1,211 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Yoo namni tokko suuraa ka'uu hin barbaadu ta'e yookaan haala miira namaatiif yookaan anaaf rakkisaa ta'e maal gochuun qaba?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Kutaa kaa keessatti kan barattan:  \n&bull; Akka itti dhimmoota rakkisaa yookaan eeggannoo barbaadan suura kaasan.  \n&bull; Seenaankee rakkoo keessa kan nama galchu yookaan kan namaaf hin mijannee ta'uusaa akka itti hubatan.  \n&bull; Suuraa kaasturratti akka itti ilaalcha dogoggoraakee adda baafattu.  \n&bull; Akkaittiakka suura kaastuutti nageenyaan hojjetan.  \n&bull; Mataduree rakkisaa suuraaadhaan akka itti karaa gaariidhaan murteessan.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Namooti suuraan isaanii ka'uurratti eeggannoo godhu. Hamma haalli seenichaa cimaa deeme, suuraa kaasuunis cimaa deema. Ilalchi keenyaa fi miirri keenya seenaa keessatti filannoo suuraa gaarii kaasuuf gochuurratti rakkisuu danda'a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Hawaasa seenicha irratti qopheessitu keessa jiraatta yoo ta'e, rakkoolee addaa si mudatan jiru, kan akka:  \n&bull; Suuraa namoota ka'uu hin barbaadnee ni kaastaa?  \n&bull; Suuraa jeequmsaa fi du'aa akka jirutti ni maxxansitaa?  \n&bull; Nama madaa'e tokko suuraasaa kaastamoo ni gargaartaa?  \nGaazexeessaan suuraa hundi filannoo isaaf yookaan ishiif ta'u daangaa hojii fi naamusaa gaazexeessummaan eyyamu keessatti ta'uu qaba.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "## Namooti akka tasgabbaa'an godhi  \nHaala oduu tasaa keessatti, gaazeexeessitooti jarjartiidhaan waan hojjetaniif yeroon waliigaltee argatan xiqqoodha. Garuu, seenaa taatee, seenaa rakkoo, yookaan seenaa nama dhuunfaa yeroo kaastu,namoota jajjabeessuu qabda. Suurichatti akka itti fayyadamtu ibsiif. Waa'eekee hamma ta'e itti himi. Bifa mareetiin haasofsiisi. Kun hundi akka ati suuraa nama fedhii hin qabnee fudhattuuf si fayyada. Bilbila ammayyaatiin fayyadamuun namoota toko tokkoof mijataa ta'ee argama, namooti kaan immoo akka hin waan fayyadneetti fudhatu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## Rakkoo sis nama biraas mudatu hir'isi", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "3.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Suura kaastuu namoota rakkoo fi gaddaan miidhaman kaasuudhaan muuxannoo qabu haasofsiisi.", 
+            "exampleMediaPath": "3.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "4.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Suura kaastuu namoota rakkoo fi gaddaan miidhaman kaasee beeku haasofsiisi.", 
+            "exampleMediaPath": "4.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Yeroo hunda suuraan ati maxxansitu miidhaa nama suuricharra jirurratti fiduu danda'urratti eeggannoo gochuu qabda. Yeroo namoota rakkoo fi gaddaan miidhaman, keessumaa ijoollee fi namoota beekumsa miidiyaa hin qabne kaastu eeggannoo godhi.Namooti dhuunfaa mirga iccitii dhuunfaa qaamolee aanga'oota mootummaa, dhiibbaa uuman yookaan beekamoo caalaa qabu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "## Filaachuuf kaasi  \nSeenaakeef yookaan maxxansakeef suuraa tokko qofatu barbaachisa yoo ta'eyyuu, suuraa garagaraa keessaa filattu si barbaachisa. Dhimma haala rakkisaa keessatt, suuraan seenaa dhugaa himuu qaba. Kan bu'aa hin buusne ta'uu hin qaban. Yeroo fakkii mul'ataa qopheessan, suura kaastoti qaama hordofu, barbaachisummaa seenichaa, fi bu'aa inni buusu yaaduu qabu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "Ilaalcha dogoggoraakee hooggani", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "5.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Suura kaastota hojiirratti ilaalchaan dogoggoruusaanii baran haasofsiisi.", 
+            "exampleMediaPath": "5.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Of beeki. ilaalcha dogoggoraakee hubachuudhaan haala yookaan rakkoo jiru ibsuurratti dhiibbaa akka sirraan hin geenye of eegi. Gaazexeessaan suuraa gaariin karaa itti qabiyyeewwan waalta'aa seenaa namaa kaasuu barbaada. Namummaan karaa daangaa biyyaa, gosa, siyaasa yookaan naannoodhaan hin hiikamu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## Nageenya dhuunfaakee", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "6.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Waa'ee bakka gaarii hin taanetti suuraa kaasuu suura kaastota haasofsiisi.", 
+            "exampleMediaPath": "6.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Haaloti tokko tokko sababa sodaachisoo ta'aniif rakkisoodha. Suuraan kamiyyuu miidhaa ga'uun hin gitan. Haala sodaachisaa keessatti yeroo kaastu, yeroo hunda karaa ba'umsaa qopheeffadhu. Loltootii fi qaamoleen nageenyaa ka'uu akka hin feene yaadaan qabi. waa'ee rakkoorratti dammaqaa ta'i.  \nFayyummaan sammuus kutaa nageenyaati.  \nDaangaakee kan murteessu si qofa. Si qofatu yeroo fi akka kaameeraakee lafa keessee gargaartu murteessa. Yoo ga'eekee yaadde haala rakkisaa kan akka sanaan murteessitu keessa utuu hin seenin murtoo gaarii murteessita.   \nBilbilli ammayyaa sababa waan hin baramne sitti fakkaatuuf rakkoo keessa akka ati galtuu gochuu si jajjabeessuu danda'a. Sadarkaa rakkoo jiruu utuu hin tuffatin of eeggannoo godhi. ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "## WAANTOTA YAADATAMUU QABAN  \n&bull; Seenaakee qaama kaastuuf ibsiif.  \n&bull; Namooti akka tasgabbaa'aniif hojjedhu.  \n&bull; Bakka rakkoon jirutti eeggannoo addaa godhi.  \n&bull; Miirakeen utuu hin daangeffamin madaalliidhaan seenaakee qopheessi.\n&bull; Nageenyikee hunda dura dhufa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Nama suuraa ka'uu dide yaadichaan akka inni tasgabbaa'u gochuuf maalfaa gochuu dandeessa?", 
+            "choices": [
+                {
+                    "text": "Akka suurichi itti fayyadamamu ibsiif.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Dhimma isaan barbaachisurratti dubbachuun carraa akka ta'e beeksisiin.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Akka suurichi itti ka'uu fi akka itti fayyadamamurratti maree hamma ta'e geggeessi.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Hunduu deebiidha.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Dhugaa Yookaan Soba: Yeroo dhimma taatee tokkoo murteessitu ilaalcha siyaasaa fi dhuunfaa irratti hundaa'uudhaan mataduree qopheeffachuun rakkoo hin qabu.", 
+            "choices": [
+                {
+                    "text": "Dhugaa", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Soba", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "Haala rakkisaa keessatti yeroo suuraa kaastu yaadatti qabachuun barbaachisaa kan ta'e kan gaditti jiran keessaa kamii (tokkoo ol ta'uu danda'a).", 
+            "choices": [
+                {
+                    "text": "Suura kaastuun yeroo suuraa kaasutti eeggannoo mirga dhuunfaa jiraattotaatiif eeggannoo gochuu qaba.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Dhimma nageenyakee irratti hubannoo qabaachuu qabda.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Suuraa dammaqaa fi nama aarsuu danda'an hin kaasin.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Hunduu deebiidha.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "photographing_difficult_uncomfortable_situations", 
+    "title": "Haala Rakkisaa Mijataa Hin Taanetti Suura Kaasuu"
+}

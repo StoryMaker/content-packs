@@ -1,0 +1,380 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Sagalee fi ifi suur-sagaleedhaaf maaliif bayyee barbaachisaa ta'e?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Kutaa kana keessatti kan barattan:  \n&bull; Qulqullina sagalee seenaa suur-sagaleekeerratti akkamitti akka guddisan.  \n&bull; Sababoota dursaa sagaleen seenaa suur-sagalee akka badu godhan.  \n&bull; Seenaa suur-sagaleetiif akka itti ifasaa sirreessan.  \n&bull; Fedhii addaarratti hundaa'uun akka itti ifa sirreessituutti fayyadaman.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Suur-sagaleekee sirriitti goodaayyessuu dandeessa, garuu sagalee fi ifa gadheedhaan bu'aa dhabuu danda'a. Sagalee fi ifi gaariin suur-sagalee sadarkaasaa eeggatee fi kan nammi waliif dabarsu godha. Odeeffannoon suur-sagaleekee keessa jiru akka hubatamu godha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![](2.png)  \nDandeettii bilbilakeetii beeki. Bilbilli hunduu faayidaa fi rakkoo mataasaanii qabu. Yeroo fudhadhuutii keessasaa tuttuquudhaan akka itti bu'aa gaarii argattu hubadhu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "# Sagalee \nBakka sagaleen hin jirretti fakkiinkee gartokkee seenichaa qofa hima. Qulqullina sagalee suur-sagalee dabaluun karaa saffisaa ittiin qulqullina suur-sagaleekee dabaltuudha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "### Sagalee uumamaa", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "3.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Haala qilleensa'aa keessattii harkakee fayyadamuudhaan akka itti qulqullina sagaleekee dabaltu. ", 
+            "exampleMediaPath": "3.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Yoo qilleensa'aa jiraate, sagaleen waraabamu hin dhagaa'amu. Kaameeraa yookaan maayikii gara qilleensaa'aa hin jirretti buti. Maayikii harkakeen yookaan waraqaadhaan qilleensa irraa dhowwi. Haala tokko tokko keessatti qilleensa dhowwituu uumamaa kan akka girgiddaatti fayyadami.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "### Namoota/ nama baayyee", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "4.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Fakkeenya akka itti nama baayyee keessatti qaama barbaadde waraabdu.", 
+            "exampleMediaPath": "4.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Bakka namni baayyeen jiruu fi karaa sochiidhaan guute waca baayyee qabaata. Kunimmoo sagaleen ati barbaaddu akka hin dhaga'amne gochuu danda'u. Gaaffii fi deebii bakka namni baayyeen dudduubaan jirutti hin waraabin. Bakka biraa dhaquu hin dandeessu yoo ta'e, kaameeraakee namoota sanarraa kaasiitii qaamni ati wajjin gaffii fi deebii geggeessitu akka inni gara namoota sanaatti garagalu gochuudhaan waraabi.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "### Maashinoota", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "5.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Fakkeenya jeequmsa sagalee maashinii waraabbii suur-sagalee keessatti ", 
+            "exampleMediaPath": "5.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Jeneneeterri, Eerkondiishinariin,Firiijii, fi ibsaa shaamaan meeshaalee sagalee si jalaa jeeqaniidha. Yoo danda'ame cufi yookaan bakka jijjiiirradhu. Jeequmsi ibsaa shaamaarraa dhufu ofirraa dhowwuun yeroo baayyee rakkisaadha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "### Acoustics", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "6.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Fakkeenya owwaattuu sagalee galma guddaa keessaattii uumamun jeequ", 
+            "exampleMediaPath": "6.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Acoustics'ii kutaabkeessaa yookaan akka sagaleen girgiddaarraa balaqqeessa'u yaadaan qabi. Bakki akka kutaa qulqullinaa yookaan galma sagalee kan balaqqeessisu fi owwaattuu gadhee dhageessisu. Kutaaleen meeshaa akka golgaa, uffata lafa, yookaan meeshaa manaa lallaafoo ta'an qaban wayaa'oodha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "### Dhaggeeffachiistuu gurraa akka seensistuu sagaleetti", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "7.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Dhageessistuu gurraa akka maayikiitti fayyadamuu.", 
+            "exampleMediaPath": "7.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "Yoo bilbillikee dhageessistuu gurraa maayikii qabuun ni hojjeta ta'e, carroomteetta ta'a. Maayikiin dhageessistuu gurraakeeyeroo waraabdu akka maayikii suur-sagaleekeetti fayyaduu danda'a. Utuu itti hin fayyadamin akka hojjetu adda baafadhu, garuu sagalee bareedaa waraabuuf karaa gaarii ta'uu danda'a.   \nOfiisaatiin hin hojjetu yoo ta'e, fayyadama Open Camera buustee fe'uu yaaluudhaan fayyadama kaameeraa duraa gochuu yaali.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "text": "# Ifa", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_14"
+        }, 
+        {
+            "text": "### Manaa alatti waraabuu", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_15"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "8.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Qaama barbaadame sirriitti ibsuu.", 
+            "exampleMediaPath": "8.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "text": "&bull; Fiixa baumsa gaarii argachuuf ifa guyyaatiin manaa alatti waraabuun karaa salphaadha. Guyyaa duumessaa'aaniyyuu bakka bakka gaarii ifa bareedaan itti argamuudha.  \n&bull; Maddia ifaa kallattiidhaan qaama barbaadderratti ibsuudhaan waraabi. Yeroo maddi ifaa kallattiidhaan duddubarraa qaama barbaaddurratti ifu, qaamniiati barbaaddu dukkanaa'uu danda'a. Malli kun eenyummaa namichaa akka kaameeraan fuulasaa hin fuunee gochuudhaan dhoksuuf fayyada.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_16"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "9.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ifa gaa'aa qaama waraabduuf kennuuf akka itto uumamaatti fayyadaman.", 
+            "exampleMediaPath": "9.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_7"
+        }, 
+        {
+            "text": "### Mana keessatti waraabuu", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_17"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "10.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Fuula qaama waraabamuu dhoksuu", 
+            "exampleMediaPath": "10.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_8"
+        }, 
+        {
+            "text": "Mana keessatti waraabaa yoo jiraatte, bu'aa gaarii argachuuf bakka ifi aduu baayinaan itti seenu barbaadi. Faallaa fooddaatti garagaltee taa'uudhaan qaama gaaffi fi deebii waliin geggeessitu gara ifaatti gargaglee taa'uudhaan ifi fuulasaa akka argatu godhi. Yoo foddaarraa garagalanii taa'an, kaameeraan ifa guddaaa argaturratti hundaa'ee sababa ifa guddaa argate xinneessuuf jedhee of sirreessuuf nama haasofsiistu ni dukkaneessa. Kunimmoo namicha bifa isaa gurraacha hin mul'anne godha, mala gaarii ittiin qaama gaaffii fi deebii wajjin gootu eenyummaasaa dhoksituudha garuu yoo akka mul'atan barbaadde hin ta'u!", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_18"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "11.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Fuulli namaa akka hin beekamnetti akka itti kaasan", 
+            "exampleMediaPath": "11.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_9"
+        }, 
+        {
+            "text": "### Ifa balaqqssa'u", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_19"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "12.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Akka itti balaqqeessituu alaatti fayyadaman", 
+            "exampleMediaPath": "12.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_10"
+        }, 
+        {
+            "text": "Waan adii ta'e kamiinuu fayyadamuu dandeessa \u2014 waraqaa, kaartoonii \u2014 yookaan ifi qaama ati waraabdurratti akka inni calaqqisuuf waan ifa balaqqeessu.  Ifi yartuun fakkiin gadhee akka ta'u godha. Manaa alattii fi kutaa ifa aduu argatutti waraabuun ifa gaarii siif kenna.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_20"
+        }, 
+        {
+            "text": "![](13.png)  \n#### Mana keessatti qaama ka'uuf ifa kennuu  \nIfi naannoo meetira tokkoo irraa fagaate ni bareecha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_21"
+        }, 
+        {
+            "text": "## WAANTOTA YAADATAMUU QABAN  \n### Sagalee  \n&bull; Yeroo waraabdu hundatti waa'ee sagalee yaaduu qabda.  \n&bull; Sagalichi hojii ala yoo ta'e, sagalicha haqxee kan biraan bakka buusuun ni danda'ama yookaan sagalee malee fayyadamuu dandeessa.  \n&bull; Sagaleen gartokkee odeeffannoo suur-sagaleeti, kanaaf waraabbii hunda keessatti waa'eesaa yaadi.  \n#### Ifa  \n&bull; Manaa alatti yookaan Kutaa ifa aduu argatu keessatti waraabuun ifa gaarii siif kenna.  \n&bull; Ifi yartuun fakkiikee gadhee godha..  \n&bull; Ifi qaama waraabdurratti sirriitti ba'uusaa adda baafadh; duubarraan yoo ifi itti ba'e qaamni ati kaastu ni gurraacha'a.  \n&bull; Ifi naannoo meetira tokkoo irraa fagaate ni bareecha.  \n&bull; Of hin gubin \u2013 Ibsaa baattee qabuuf golgaa harkaa uffadhu!", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_22"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Sagalee gaarii malee fakkiinkee", 
+            "choices": [
+                {
+                    "text": "ni caalu", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "gartokkee seenichaa qofa himaa jiru.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "ni dogoggorsu", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Eessatu caalmaatti ifa gaarii qaba?", 
+            "choices": [
+                {
+                    "text": "Mana keessa, yeroo ifa guyyaa", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Manas ala, yeroo ifa guyyaa.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Mana keessa, halkan", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Manaa ala, halkan.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Maayikiikee qilleensa irraa dhowwuuf maalitti fayyadamta?", 
+            "choices": [
+                {
+                    "text": "Harkakee", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Kaardii", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Qilleensa dhowwituu uumamaa, kan akka girgiddaa", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Hunduu deebiidha.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Yeroo fiilmii waraabdu maddi ibsaa eessa taa'uu qaba?", 
+            "choices": [
+                {
+                    "text": "Kallattiidhaan qaama barbaadamurra.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Qaama barbaadamu bira.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Qaama waraabamuu biraa eessayyuu.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Qaama waraabamu dudduuba", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "getting_good_sound_and_light", 
+    "title": "Sagalee fi Ifa Gaarii Argachuu"
+}

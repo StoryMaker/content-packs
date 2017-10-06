@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "t_ukraine_school_cj_1_extrajudicial_killing", 
+            "dependencyFile": "t_ukraine_school_cj_1_extrajudicial_killing.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "\u041b\u044e\u0434\u0438 \u0438 \u0432\u043e\u0439\u043d\u0430", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "t_ukraine_school_cj_1_extrajudicial_killing"
+        }
+    ], 
+    "currentStoryPathFile": "t_ukraine_school_cj_1_extrajudicial_killing.json", 
+    "storyPathTemplateFiles": {
+        "t_ukraine_school_cj_1_extrajudicial_killing": "t_ukraine_school_cj_1_extrajudicial_killing.json"
+    }, 
+    "id": "t_ukraine_school_cj_1_extrajudicial_killing_library"
+}

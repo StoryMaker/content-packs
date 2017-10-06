@@ -1,0 +1,17 @@
+{
+    "cards": [
+        {
+            "text": "## SEENSA SEENAA  \nKoomminikeeshinii cimaan karaa seenaatiin ta'a. Haqaa fi Odeeffannoon, ofiisaaniitiin, hubachuuf, yaadachuuf, dabarsuuf baayyee rakkisaa ta'uu danda'u. Odeeffannoo seenaa malee yoo dhiyeessite,qaama si hordofuuf waanti ati maxxansitu kan hin hubatamnee fi bu'aa hin buusuufi. Gaazexeessummaa gaariin himiinsa seenaa gaariidhaan sammu fi garaadhaan fayyadamuu of keessaa qaba.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Kutaa kana keessatti qabiyyeewwan barbaachisoo seenaa  gaarii himuu si beeksisna. Yoo seenaan kee tarkaanfilee kana hunda qabaatee, sirriitti qophaa'e, seenaa hawwataa kan gaazexeessummaa baayyee cimaan uumuu danda'u qabaatta.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "introduction_to_story", 
+    "title": "Seensa Seenaa"
+}

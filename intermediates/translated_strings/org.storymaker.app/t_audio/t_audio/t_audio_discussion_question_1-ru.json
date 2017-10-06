@@ -1,0 +1,15 @@
+{
+    "t_audio_discussion_question_1::clip_card_2::goals[0]": "Спросите: Что вы думаете об этом персонаже?",
+    "t_audio_discussion_question_1::ms_moreinfo::text": "Об этом шаблоне",
+    "t_audio_discussion_question_1::clip_card_7::goals[0]": "Запишите звук с места, в котором вы задавали вопросы о персонаже.",
+    "t_audio_discussion_question_1::title": "Какое ваше мнение об этом человеке?",
+    "t_audio_discussion_question_1::clip_card_3::goals[0]": "Спросите: Что вы думаете об этом человеке?",
+    "t_audio_discussion_question_1::clip_card_4::goals[0]": "Спросите: Что вы думаете об этом человеке?",
+    "t_audio_discussion_question_1::text_card_0::text": "Обсуждения строятся вокруг того, чтоб задавать один и тот же вопрос большому количеству людей. Этот шаблон спрашивает многих людей об их мнении по поводу определенной личности. Обсуждения хорошо помогают при сборе мнений о человеке с большим культурным или социальным весом. Не стесняйтесь задавать измененные вопросы, если думаете что они могут сработать лучше.",
+    "t_audio_discussion_question_1::clip_card_0::goals[0]": "Запишите звук с места, которое является важным для вашего героя.",
+    "t_audio_discussion_question_1::text_card_1::text": "Вы можете подставить в блок \"личность\" имя личности, на которой вы сфокусированы.",
+    "t_audio_discussion_question_1::clip_card_5::goals[0]": "Спросите: Что вы думаете об этом человеке?",
+    "t_audio_discussion_question_1::clip_card_1::goals[0]": "Сделайте звукозапись для вводной части обсуждения.",
+    "t_audio_discussion_question_1::ms_moreinfo::header": "Следующий ",
+    "t_audio_discussion_question_1::clip_card_6::goals[0]": "Спросите: Что вы думаете об этом человеке?"
+}

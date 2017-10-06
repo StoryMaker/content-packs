@@ -1,0 +1,15 @@
+{
+    "t_process_event_photo::clip_card_2::goals[0]": "اولین مرحله مهم رویداد را ضبط کنید.",
+    "t_process_event_photo::clip_card_5::goals[0]": "آخرین مرحله مهم رویداد را ضبط کنید.",
+    "t_process_event_photo::text_card_0::text": "همه مراحل را ضبط نکنید. فقط مراحل مهم را برای نشان دادن روند جریان از ابتدا تا انتها ضبط کنید.",
+    "t_process_event_photo::clip_card_1::goals[0]": "لحظه آغاز جریان را نشان دهید.",
+    "t_process_event_photo::clip_card_3::goals[0]": "دومین مرحله مهم رویداد را ضبط کنید.",
+    "t_process_event_photo::clip_card_6::goals[0]": "عکسی از یک لحظه دراماتیک بگیرید که برنامه را خلاصه کند.",
+    "t_process_event_photo::text_card_1::text": "اطمینان حاصل کنید که برای نشان دادن جریان، ترکیب  متنوعی از عکس‌ها در اختیار دارید. تعدادی نمای دور، نمای نزدیک و نمای متوسط. ",
+    "t_process_event_photo::title": "فرآیند رویداد",
+    "t_process_event_photo::clip_card_7::goals[0]": "عکسی از یکی از شرکت‌کنندگان برجسته بگیرید.",
+    "t_process_event_photo::clip_card_8::goals[0]": "واکنش تماشاچیان برنامه را نشان دهید.",
+    "t_process_event_photo::clip_card_4::goals[0]": "سومین مرحله مهم رویداد را ضبط کنید.",
+    "t_process_event_photo::clip_card_0::goals[0]": "محلی را که جریان در آن اتفاق می‌افتد قبل از شروع نشان دهید.",
+    "t_process_event_photo::clip_card_9::goals[0]": "محصول نهایی یا پایان برنامه را نشان دهید."
+}

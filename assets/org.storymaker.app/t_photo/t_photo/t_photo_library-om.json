@@ -1,0 +1,273 @@
+{
+    "title": "Seenaawwan Barruu Suuraa", 
+    "storyPathTemplateFiles": {
+        "t_photo_series_action": "t_photo_series_action.json", 
+        "t_photo_series_character": "t_photo_series_character.json", 
+        "t_photo_series_signature": "t_photo_series_signature.json", 
+        "t_photo_process": "t_photo_process.json", 
+        "t_photo_highlights": "t_photo_highlights.json", 
+        "t_photo_series_place": "t_photo_series_place.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "t_photo_highlights", 
+            "dependencyFile": "t_photo_highlights.json"
+        }, 
+        {
+            "dependencyId": "t_photo_series_character", 
+            "dependencyFile": "t_photo_series_character.json"
+        }, 
+        {
+            "dependencyId": "t_photo_series_place", 
+            "dependencyFile": "t_photo_series_place.json"
+        }, 
+        {
+            "dependencyId": "t_photo_series_action", 
+            "dependencyFile": "t_photo_series_action.json"
+        }, 
+        {
+            "dependencyId": "t_photo_series_signature", 
+            "dependencyFile": "t_photo_series_signature.json"
+        }, 
+        {
+            "dependencyId": "t_photo_process", 
+            "dependencyFile": "t_photo_process.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "tips": [
+                {
+                    "text": "Gulaala xumuraatiif suuraalee 8 hamma 20tti xiyyeeffadhu.Suuraa fayyadamuuf karoorfatte baayyinaan kan caalu kaasi.", 
+                    "tags": [
+                        "photo essay", 
+                        "after"
+                    ]
+                }, 
+                {
+                    "text": "Fakkiin haaraan hundi odeeffannoo haaraa kan seenaakee cimsu qabaachuu qabu.", 
+                    "tags": [
+                        "photo", 
+                        "photo essay", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Yoo suuraa tokko qofa seenaakee keessatti fayyadamta ta'eyyuu, suuraalee garagaraa kan keessaa filachuu dandeessu kaasi.", 
+                    "tags": [
+                        "photo", 
+                        "photo essay", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Ofiikee beeki, ilaalchi dogoggoraakee akka seenaakeerratti dhiibbaa hin fidne eeggadhu.", 
+                    "tags": [
+                        "ethics", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Yeroo haala sodaachisaa keessatti waraabdutti mala ba'umsaa yeroo hunda qabaadhu.", 
+                    "tags": [
+                        "security", 
+                        "photo", 
+                        "video", 
+                        "journalism", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Yeroon daanga'aa yoo ta'eyyuu, karoora qopheeffadhu, waan argite hunda hin waraabin.", 
+                    "tags": [
+                        "photo", 
+                        "video", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Seenaa gaarii fi qulqullina qabu himuuf mataduree hangafaa tokkorratti xiyyeeffadhu.", 
+                    "tags": [
+                        "journalism", 
+                        "story", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Muraa hundaaf of gaafadhu: waan haaraa natti himu qabaa?", 
+                    "tags": [
+                        "video", 
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Muraalee hundaaf of gaafadhu: Waa'ee gaaffii ijookoo waan natti himu qabaa?", 
+                    "tags": [
+                        "journalism", 
+                        "general", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Hamma danda'ametti qaamichatti dhiyaadhu.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Yaadadhu: namooti ilaalan waa'ee seenaakee waan ati suuricharratti itti agarsiisterraa kan hafe waan beekan tokkollee hin qabaani.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Fakkiinkee hiikasaa ibsuu danda'aa?", 
+                    "tags": [
+                        "photo", 
+                        "after"
+                    ]
+                }, 
+                {
+                    "text": "Seera Sadaffaan Yaadi.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Gidduu goodaayyaa qofa utuu hin taane naannoo rogasaarrattis xiyyeeffadhu.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Suuraa gaarii kaasuun guutummaatti waa'ee ifaati. Ifa jiru hamma siif danda'ametti akka gaariitti fayyadamaa jirtaa?", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Akka salphaatti kofa ittiin ilaaltu jijjiruun suuraa caalmaatti gaarii ta'e uuma.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Suura tokko qofa hin kaasin. Baayyee kaasi.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Yeroo danda'ametti suura mallattoo kaasuu hin irraanfatin.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Suuraalee addaddaa kaafadhu -- dhiyeenyaan, gidduu fi bal'inaan kaasi.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Suuraa gaariin waa'ee fiixee hojii fi agarsiisaati. Kana sammuutti qabachuudhaan yeroo filadhu.", 
+                    "tags": [
+                        "photo", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Walitti fufiinsaaf fakkiiwwankee hamma danda'ametti bifa wal fakkaatuun qophaa'uu qabu.", 
+                    "tags": [
+                        "series", 
+                        "before"
+                    ]
+                }, 
+                {
+                    "text": "Suuraa kofa hawwataarraan kaasuun fakkicha gaarii gochuu danda'a.", 
+                    "tags": [
+                        "series", 
+                        "during"
+                    ]
+                }, 
+                {
+                    "text": "Walitti fufiinsi gaariin suuraalee gaggaarii shan irraa qophaa'uu qaba. Fakkii gaggaarii baayyee yoo qabaatte, itti dabali.", 
+                    "tags": [
+                        "series", 
+                        "after"
+                    ]
+                }
+            ], 
+            "type": "TipCollectionHeadlessCard", 
+            "id": "tip_collection"
+        }, 
+        {
+            "question": "Seenaa akkamii qopheessaa jirta?", 
+            "correctRequired": 1, 
+            "type": "QuizCard", 
+            "id": "quiz_card_topic", 
+            "choices": [
+                {
+                    "text": "Seenaa Mul'isaa", 
+                    "id": "t_photo_highlights"
+                }, 
+                {
+                    "text": "Seenaa Adeemsaa", 
+                    "id": "t_photo_process"
+                }, 
+                {
+                    "text": "Walitti Fufiinsa Suuraalee", 
+                    "id": "t_photo_series_character"
+                }, 
+                {
+                    "text": "Walitti Fufiinsa Bakkaa yookaan Ijaarsaa.", 
+                    "id": "t_photo_series_place"
+                }, 
+                {
+                    "text": "Walitti Fufiinsa Gochaa yookaan Hojiiwwanii", 
+                    "id": "t_photo_series_action"
+                }, 
+                {
+                    "text": "Walitti Fufiinsa Waantotaa", 
+                    "id": "t_photo_series_signature"
+                }
+            ]
+        }, 
+        {
+            "header": "Itti aanee", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "Odeeffannoo Dabalataa"
+        }, 
+        {
+            "text": "Barruun Suuraa seenaa suuraalee walitti dhufeenya qabaniin himameedha. Qajojiin kun seenaawwan garagaraa himuuf suuraalee barbaaddu akka argattuuf si qajeelcha.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_photo_library::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "action": "LOAD", 
+            "references": [
+                "t_photo_library::quiz_card_topic::choice"
+            ], 
+            "type": "HookLoaderHeadlessCard", 
+            "id": "hook_loader_card"
+        }
+    ], 
+    "id": "t_photo_library"
+}

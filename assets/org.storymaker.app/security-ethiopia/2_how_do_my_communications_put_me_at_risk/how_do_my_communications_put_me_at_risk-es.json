@@ -1,0 +1,260 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "\u00bfC\u00f3mo me ponen en riesgo mis comunicaciones?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; Qu\u00e9 tipos de comunicaci\u00f3n pueden ser monitorizadas.  \n&bull; C\u00f3mo se monitorizan las comunicaciones m\u00f3viles.  \n&bull; C\u00f3mo evitar ser monitorizado cuando sea posible.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Ser un periodista efectivo implica usar una variedad de m\u00e9todos de comunicaci\u00f3n. Los m\u00e9todos de comunicaci\u00f3n est\u00e1ndar dejan un rastro que puede ser usado por aquellos que le amenazan a usted o a sus fuentes. En el proceso de producir una historia, puede que deje un rastro digital que ayude a aquellos que le amenazan a usted o a sus fuentes.  \nComprender el rastro que dejan sus comunicaciones es el primer paso para asegurarse de que aquellos que le amenazan no pueden aprovecharse de usted ni de sus fuentes.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Comunicaci\u00f3n electr\u00f3nica](2.png)  \nTodos los m\u00e9todos de comunicaci\u00f3n electr\u00f3nica est\u00e1ndar dejan rastros. Las comunicaciones electr\u00f3nicas consisten en una amplia variedad de m\u00e9todos:  \n&bull; Llamadas telef\u00f3nicas  \n&bull; Mensajes de texto y audiovisuales (SMS / MMS)  \n&bull; Correo electr\u00f3nico  \n&bull; Voz sobre IP (VoIP) como Skype o Google Hangouts, etc. \n&bull; Navegaci\u00f3n web  \n&bull; Actividad de redes sociales", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Todas las comunicaciones electr\u00f3nicas se basan en un esquema similar. La comunicaci\u00f3n es iniciada por un individuo, se enruta a trav\u00e9s de una red, y es recibida por un segundo individuo. \nLa naturaleza de la amenaza que plantea la comunicaci\u00f3n depende del sistema que se use.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![Monitorizaci\u00f3n de comunicaciones celulares](3.png)  \n### Monitorizaci\u00f3n de comunicaciones m\u00f3viles  \nLa comunicaci\u00f3n mediante la red de telefon\u00eda m\u00f3vil se basa en un sistema pasivo donde el dispositivo del usuario est\u00e1 conectado a la red por defecto.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![Monitorizar el correo electr\u00f3nico en el ISP y la pasarela nacional](4.png)  \n### Monitorizar el correo electr\u00f3nico en el ISP y la pasarela (gateway) nacional \nLa navegaci\u00f3n web, el correo electr\u00f3nico, la VoIP, y la comunicaci\u00f3n por redes sociales, tradicionalmente se han basado en que el usuario conecte activamente a la red antes de que la comunicaci\u00f3n pueda ocurrir.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![Servicios de comunicaci\u00f3n](5.png)  \nComo cada vez m\u00e1s usuarios conf\u00edan en su m\u00f3vil para todos los servicios de datos y comunicaci\u00f3n, todas estas comunicaciones comienzan a basarse en la comunicaci\u00f3n pasiva. Aunque debe realizar una acci\u00f3n para comunicarse con una red social o recibir correo electr\u00f3nico en su computadora, una vez iniciado, su tel\u00e9fono recibir\u00e1 estas comunicaciones por defecto.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![Dispositivo m\u00f3vil](6.png)  \nVea la lista de herramientas para conservar su privacidad y anonimato cuando realice comunicaciones electr\u00f3nicas. Las lecciones posteriores explicar\u00e1n las mejores pr\u00e1cticas para cada tipo de comunicaci\u00f3n.  \n### Herramientas sugeridas:  \n&bull; SMS: TextSecure  \n&bull; VoIP/Llamadas: OSTel / CSipSimple or Redphone  \n&bull; Comunicaci\u00f3n an\u00f3nima: Orbot  \n&bull; Navegaci\u00f3n: Orweb  \n&bull; Chat: ChatSecure  \n&bull; Correo electr\u00f3nico: K9Mail  \n&bull; Notas: NoteCipher  \n&bull; Contrase\u00f1as: KeePassDroid", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "7.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "\u00bfC\u00f3mo me pone en riesgo mi tel\u00e9fono m\u00f3vil?", 
+            "exampleMediaPath": "7.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "![M\u00f3vil y SIM](8.png)  \nTanto su tarjeta SIM como su tel\u00e9fono m\u00f3vil por si mismos pueden identificar qui\u00e9n es. Cualquier comunicaci\u00f3n que realice su tel\u00e9fono con la red m\u00f3vil/celular \u2014 tanto haciendo como recibiendo una llamada, enviando un mensaje, navegando por la web, o s\u00f3lo permaneciendo conectado \u2014 incluye informaci\u00f3n de identificaci\u00f3n acerca del tel\u00e9fono y la tarjeta SIM.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## \u00bfC\u00f3mo puede comprometerme una tarjeta SIM?\n![Tarjeta SIM en detalle](9.png)  \nLa tarjeta de Subscriber Identity Module (SIM, m\u00f3dulo de identidad del suscriptor) almacena informacion acerca del suscriptor del servicio m\u00f3viles. Es lo que su proveedor de servicios usa para identificar qui\u00e9n es, en base a informaci\u00f3n o documentos que le haya entregado.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## \u00bfC\u00f3mo puede comprometerme mi tel\u00e9fono m\u00f3vil?\n![Ejemplo de un n\u00famero IMEI](10.png)  \nUna tarjeta SIM le identifica, pero su tel\u00e9fono m\u00f3vil/celular puede meterle en problemas. Cada tel\u00e9fono m\u00f3vil tiene un n\u00famero \u00fanico, el International Mobile Equipment Identity (IMEI). Este n\u00famero puede ser rastreado en todo momento.  \nCompruebe el IMEI de su tel\u00e9fono m\u00f3vil (a menudo colocado detr\u00e1s de la bater\u00eda) o marque *#06# desde su tel\u00e9fono para averiguar el IMEI de su m\u00f3vil.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "Puede que asuma que su tarjeta SIM es la \u00fanica manera de que un proveedor de servicios m\u00f3viles o las autoridades le identifiquen o rastreen su localizaci\u00f3n. Mucha gente cambia sus tarjetas SIM frecuentemente pero contin\u00faa usando el mismo tel\u00e9fono. \u00a1Esto es un error! La combinaci\u00f3n de su tarjeta SIM (que le identifica) y su n\u00famero IMEI (que identifica su terminal) le permite estar identificado y trazado constantemente.\nSu tel\u00e9fono m\u00f3vil registra constantemente su localizaci\u00f3n en cada antena de telefon\u00eda celular a la que se conecte. Retire su bater\u00eda o deje su tel\u00e9fono en casa si no quiere ser rastreado.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "## \u00bfC\u00f3mo muestra mi ubicaci\u00f3n el tel\u00e9fono?\n![Triangulaci\u00f3n](11.png)  \nCuando su tel\u00e9fono m\u00f3vil est\u00e1 encendido, la red conoce su localizaci\u00f3n, triangulada desde las antenas de telefon\u00eda celular cercanas que registran la se\u00f1al de su tel\u00e9fono. Su ubicaci\u00f3n puede acotarse con un error de pocos metros en un \u00e1rea densamente poblada, pero s\u00f3lo con un error de unos pocos cientos de metros en un \u00e1rea rural con pocas antenas de telefon\u00eda. Si realiza o recibe una llamada o un mensaje de texto, o cada vez que su m\u00f3vil se conecta a una antena distinta, su ubicaci\u00f3n en ese momento se almacena en los registros de la red. Observe que esto es una funci\u00f3n de la red m\u00f3vil, no vigilancia. Todas las redes triangulan su se\u00f1al. \u00a1Esto es importante recordarlo ya que esta informaci\u00f3n se puede usar contra usted!", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "text": "## \u00bfPuede ser usado mi tel\u00e9fono para realizarme escuchas?\n![Reuni\u00f3n con las bater\u00edas retiradas](12.png)  \nIncluso cuando no est\u00e1 usando su tel\u00e9fono m\u00f3vil, puede utilizarse como un micr\u00f3fono secreto para que otros le escuchen. Retire su bater\u00eda (no se limite a apagar el tel\u00e9fono) o mantenga su tel\u00e9fono lejos mientras tenga conversaciones privadas.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "text": "En un uso normal, sus mensajes de texto y llamadas de tel\u00e9fono pueden ser monitorizadas por su operador de red. Las llamadas pueden ser escuchadas y grabadas, y las grabaciones pueden ser entregadas (legal o ilegalmente) a cualquier otro.\nUnos pocos pasos que puede dar para mejorar su seguridad:  \n&bull; Compre tarjetas SIM de prepago, y si es posible evite por completo registrar con su nombre la SIM. Use efectivo. Las transacciones con tarjeta de cr\u00e9dito/d\u00e9bito pueden vincularle a la tarjeta SIM.  \n&bull; Compre tel\u00e9fonos m\u00f3viles baratos de baja tecnolog\u00eda de los que no le importe deshacerse si es necesario.  \n&bull; Si est\u00e1 preocupado por ser monitorizado, no se limite a cambiar su tarjeta SIM; desh\u00e1gase tambi\u00e9n de su tel\u00e9fono m\u00f3vil.  \n&bull; Intente siempre evitar compartir informaci\u00f3n sensible a trav\u00e9s de su tel\u00e9fono m\u00f3vil.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_14"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Su tarjeta SIM y su tel\u00e9fono m\u00f3vil se pueden usar para identificarle.  \n&bull; Su tel\u00e9fono m\u00f3vil se puede usar para rastrearle.  \n&bull; Su tel\u00e9fono m\u00f3vil se puede usar para realizarle escuchas.  \n&bull; Lleve encima tarjetas SIM extra de otros operadores de red m\u00f3vil que pueda intercambiar con su SIM habitual. Si es posible, lleve m\u00e1s de un tel\u00e9fono.  \n&bull; Retire la bater\u00eda de su tel\u00e9fono para evitar la triangulaci\u00f3n del tel\u00e9fono m\u00f3vil y el rastreo de su posici\u00f3n.  \n&bull; Si est\u00e1 preocupado de que est\u00e9 siendo rastreado por las autoridades, desh\u00e1gase tanto de la tarjeta SIM como del tel\u00e9fono m\u00f3vil que ha estado usando.  \n&bull; El modo avi\u00f3n no es una opci\u00f3n segura para evitar el seguimiento; su tel\u00e9fono todav\u00eda puede habilitar al fabricante a acceder a trav\u00e9s de una puerta trasera (backdoor).", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_15"
+        }, 
+        {
+            "text": "## El contenido para esta lecci\u00f3n est\u00e1 tomado principalmente del contenido producido por el proyecto, ahora cerrado, Safer Mobile (m\u00f3vil m\u00e1s seguro) de Mobile Active y el Tibet Action Institute http://tibetaction.net.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_16"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "\u00bfQu\u00e9 comunicaciones dejan rastro?", 
+            "choices": [
+                {
+                    "text": "Correo electr\u00f3nico + SMS", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Llamadas telef\u00f3nicas", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Notas manuscritas", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Navegaci\u00f3n web", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfC\u00f3mo se conectan por defecto los tel\u00e9fonos m\u00f3viles a la red?", 
+            "choices": [
+                {
+                    "text": "Al marcar n\u00fameros de tel\u00e9fono.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "S\u00f3lo al hacer una llamada de tel\u00e9fono.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Los tel\u00e9fonos m\u00f3viles realizan comunicaci\u00f3n pasiva constantemente.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "S\u00f3lo al realizar una llamada de tel\u00e9fono o enviar un SMS.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "\u00bfCu\u00e1l es la mejor manera de evitar ser rastreado a trav\u00e9s de mi tel\u00e9fono m\u00f3vil?", 
+            "choices": [
+                {
+                    "text": "Cambiar mi tarjeta SIM.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Deshacerme de mi tel\u00e9fono m\u00f3vil.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Sacar mi bater\u00eda.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Comprar tarjetas SIM de prepago.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfQu\u00e9 puedo hacer para prevenir que desde mi tel\u00e9fono me realicen escuchas?", 
+            "choices": [
+                {
+                    "text": "Cambiar mi tarjeta SIM.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Apagar mi tel\u00e9fono.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Poner mi tel\u00e9fono en modo avi\u00f3n.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Saque la bater\u00eda.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "\u00bfC\u00f3mo se identifica mi tel\u00e9fono?", 
+            "choices": [
+                {
+                    "text": "Por el registro de la tarjeta SIM", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Por el n\u00famero de tel\u00e9fono", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Por el registro de IMEI", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Por antenas de telefon\u00eda celular", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_5"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "how_do_my_communications_put_me_at_risk", 
+    "title": "C\u00f3mo me ponen en riesgo mis comunicaciones"
+}

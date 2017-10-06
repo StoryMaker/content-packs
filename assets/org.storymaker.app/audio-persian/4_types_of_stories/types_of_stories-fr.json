@@ -1,0 +1,203 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Comment puis-je mieux utiliser le son en fonction du type d'histoire que je fais?  ", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Dans cette le\u00e7on vous allez apprendre:  \n&bull; Comment le type d'histoire permet d'informer votre style de la production audio et la pr\u00e9sentation.  \n&bull; Comment d\u00e9cider quelles voix dont vous avez besoin dans votre histoire.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Selon le sujet de votre\u00a0 histoire\u00a0 et comment vous voulez aborder, vous devez utiliser des diff\u00e9rents styles pour la production audio et la pr\u00e9sentation.  \nParfois, vous pouvez vous retrouver au milieu d'un \u00e9v\u00e9nement ou une flash-info _, ce qui rend un style sp\u00e9cifique pour le rapport Audio\u00a0 audio \u00a0plus utile pour cette situation. Sinon, peut-\u00eatre que vous faites une pi\u00e8ce de profil ou une histoire sur un probl\u00e8me impliquant diff\u00e9rents t\u00e9moins et diff\u00e9rentes voix, qui appelle \u00e0 une autre approche.  \nBien que chaque situation peut \u00eatre abord\u00e9e de plus d'une fa\u00e7on, voici quelques \u00e9tapes et des lignes directrices sp\u00e9cifiques que vous pouvez suivre afin de mieux pr\u00e9senter les types sp\u00e9cifiques d'histoires.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "# Grandes Titres/flash infos  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "2.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Exemple d'une Edition sp\u00e9ciale.  ", 
+            "exampleMediaPath": "2.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Un rapport d'une flash-info (forte actualit\u00e9) n\u00e9cessite une pi\u00e8ce de l'audio qui explique ce qui se passe, r\u00e9sumant les points cl\u00e9s, les principaux acteurs, ainsi que toute information qui est connu \u00e0 ce jour. Parce que ces rapports sont quelque chose qui peut encore se passer, parfois il y aura les questions sans r\u00e9ponse qui seront abord\u00e9s dans les rapports de suivi. les flash infos peuvent comporter un journaliste \u00e0 l'emplacement de l'action, avec son / sa voix explique ce qui est connu \u00e0 ce jour et ce qui peut \u00eatre vu sur le terrain \u00e0 partir de ce point de vue. Dans certains cas, une flash info peut \u00eatre introduite \u00e0 partir d'un emplacement distant bas\u00e9 sur les rapports quand il n'est pas possible d'\u00eatre l\u00e0. Il est crucial que vous au moins Couvrez les questions suivantes: qui, quoi, o\u00f9, pourquoi, quand et comment.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "# Ev\u00e8nement  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "3.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Exemple d'un rapport sur un \u00e9v\u00e9nement.  ", 
+            "exampleMediaPath": "3.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Contrairement flash-infos, les \u00e9v\u00e9nements sont habituellement pr\u00e9vues, qui permet \u00e0 un journaliste de pr\u00e9parer la fa\u00e7on dont il ou elle veut raconter une histoire \u00e0 l'avance. Un rapport sur un \u00e9v\u00e9nement devrait mettre en \u00e9vidence le qui, quoi, et pourquoi l'information. Il est \u00e9galement utile d'avoir des entretiens ou des commentaires des participants qui peuvent donner des renseignements ou observations suppl\u00e9mentaires. Les \u00e9v\u00e9nements ont souvent des participants\u00a0principaux tels que des invit\u00e9s d'honneur ou conf\u00e9renciers qui vous pouvez contacter avant l'\u00e9v\u00e9nement pour fixer une entrevue. M\u00eame si vous d\u00e9cidez de ne pas utiliser l'audio de ces entretiens, il est bon de les faire et avoir que l'audio en option pour votre derni\u00e8re pi\u00e8ce.  \nComme avec la plupart des types d'histoires , vous pouvez utiliser une seule voix comme le narrateur explique ce qui se passe et pourquoi. Le narrateur peut \u00eatre quelqu'un dans un studio ou quelqu'un sur l'emplacement introduire des entrevues et d'autres informations.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "# Probl\u00e8me  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "4.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Exemple sur une histoire sur un probl\u00e8me.  ", 
+            "exampleMediaPath": "4.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Contrairement flash-infos, les \u00e9v\u00e9nements sont habituellement pr\u00e9vues, qui permet \u00e0 un journaliste de pr\u00e9parer la fa\u00e7on dont il ou elle veut raconter une histoire \u00e0 l'avance. Un rapport sur un \u00e9v\u00e9nement devrait mettre en \u00e9vidence le qui, quoi, et pourquoi l'information. Il est \u00e9galement utile d'avoir des entretiens ou des commentaires des participants qui peuvent donner des renseignements ou observations suppl\u00e9mentaires. Les \u00e9v\u00e9nements ont souvent des participants\u00a0principaux tels que des invit\u00e9s d'honneur ou conf\u00e9renciers qui vous pouvez contacter avant l'\u00e9v\u00e9nement pour fixer une entrevue. M\u00eame si vous d\u00e9cidez de ne pas utiliser l'audio de ces entretiens, il est bon de les faire et avoir que l'audio en option pour votre derni\u00e8re pi\u00e8ce.  \nComme avec la plupart des types d'histoires , vous pouvez utiliser une seule voix comme le narrateur explique ce qui se passe et pourquoi. Le narrateur peut \u00eatre quelqu'un dans un studio ou quelqu'un sur l'emplacement introduire des entrevues et d'autres informations.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "5.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Exemple d'une histoire en utilisant des contributeurs multiples  ", 
+            "exampleMediaPath": "5.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "## A NE PAS OUBLIER  \n&bull; Soyez s\u00fbr d'avoir des observations et des entrevues chaque fois que possible.  \n&bull; C'est bien d'avoir plus qu'une seule voix dans une histoire.  \n&bull;  Int\u00e9grez des diff\u00e9rents types de sources dans votre histoire.  \n&bull; N'oubliez pas de pr\u00e9senter les r\u00e9ponses classiques pour qui, quoi, o\u00f9, quand, et pourquoi dans une histoire.  \n&bull; Soyez clair, et concentrez-vous sur un seul sujet principal dans chaque histoire.  ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Le but principal d'une flash-info est  ", 
+            "choices": [
+                {
+                    "text": "Pour faire un long rapport audio d\u00e9taill\u00e9 y compris des recherches approfondies et de nombreuses interviews.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Pour pr\u00e9senter un invit\u00e9 d'honneur qui parle lors d'une conf\u00e9rence sp\u00e9ciale.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Pour r\u00e9sumer ce que quel information est disponible concernant quelque chose qui se passe maintenant; le r\u00e9sultat ne est pas encore compl\u00e8tement connu et exigera des rapports de suivi.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Aucune de ces r\u00e9ponses.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "L'avantage de produire un rapport audio \u00e0 propos d'un \u00e9v\u00e9nement est  ", 
+            "choices": [
+                {
+                    "text": "Vous pouvez pr\u00e9parer \u00e0 l'avance, faire des recherches et planifier des  interviews li\u00e9es \u00e0 l'\u00e9v\u00e9nement.  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "vous n'avez pas le temps de faire des recherches, juste dire ce que vous savez.  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Ce n'est pas possible de faire des interviews dans un \u00e9v\u00e9nement.  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Tout ce qui pr\u00e9c\u00e8de.  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "La narration peut \u00eatre utilis\u00e9 dans quels type d'histoire audio:  ", 
+            "choices": [
+                {
+                    "text": "Probl\u00e8me  ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Ev\u00e8nement  ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Profile  ", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Tout ce qui pr\u00e9c\u00e8de  ", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "types_of_stories", 
+    "title": "Les types des Histoires  "
+}

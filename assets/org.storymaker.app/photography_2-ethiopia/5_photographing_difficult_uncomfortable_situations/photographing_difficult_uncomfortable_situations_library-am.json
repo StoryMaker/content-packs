@@ -1,0 +1,23 @@
+{
+    "title": "\u12a8\u1263\u12f5 \u12a5\u1293 \u12e8\u121b\u12ed\u1218\u1279 \u1201\u1294\u1273\u12ce\u127d\u1295 \u134e\u1276\u130d\u122b\u134d \u121b\u1295\u1233\u1275", 
+    "storyPathTemplateFiles": {
+        "photographing_difficult_uncomfortable_situations": "photographing_difficult_uncomfortable_situations.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "photographing_difficult_uncomfortable_situations", 
+            "dependencyFile": "photographing_difficult_uncomfortable_situations.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "photographing_difficult_uncomfortable_situations"
+        }
+    ], 
+    "currentStoryPathFile": "photographing_difficult_uncomfortable_situations.json", 
+    "id": "photographing_difficult_uncomfortable_situations"
+}

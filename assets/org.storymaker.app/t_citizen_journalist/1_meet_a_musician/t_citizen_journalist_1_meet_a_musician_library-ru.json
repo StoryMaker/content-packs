@@ -1,0 +1,23 @@
+{
+    "title": "\u0412\u0441\u0442\u0440\u0435\u0442\u044c\u0442\u0435 \u043c\u0443\u0437\u044b\u043a\u0430\u043d\u0442\u0430!", 
+    "storyPathTemplateFiles": {
+        "t_citizen_journalist_1_meet_a_musician": "t_citizen_journalist_1_meet_a_musician.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "t_citizen_journalist_1_meet_a_musician", 
+            "dependencyFile": "t_citizen_journalist_1_meet_a_musician.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "t_citizen_journalist_1_meet_a_musician"
+        }
+    ], 
+    "currentStoryPathFile": "t_citizen_journalist_1_meet_a_musician.json", 
+    "id": "t_citizen_journalist_1_meet_a_musician_library"
+}

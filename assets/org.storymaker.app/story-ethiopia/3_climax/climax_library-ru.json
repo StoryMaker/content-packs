@@ -1,0 +1,23 @@
+{
+    "title": "\u041a\u0443\u043b\u044c\u043c\u0438\u043d\u0430\u0446\u0438\u044f", 
+    "storyPathTemplateFiles": {
+        "climax": "climax.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "climax", 
+            "dependencyFile": "climax.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "climax"
+        }
+    ], 
+    "currentStoryPathFile": "climax.json", 
+    "id": "climax"
+}

@@ -1,0 +1,124 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "\u00bfC\u00f3mo uso el texto de forma efectiva en apoyo de una historia audiovisual?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; Los diferentes roles que el texto puede jugar en una historia\n&bull; C\u00f3mo identificar la informaci\u00f3n id\u00f3nea para los elementos de texto de su historia\n&bull; C\u00f3mo escribir una breve entrada de texto\n&bull; C\u00f3mo escribir palabras clave para acompa\u00f1ar a v\u00eddeo, audio, foto, u otros elementos audiovisuales", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Internet en general y los dispositivos m\u00f3viles/celulares en particular son entornos visuales. Las fotos, el v\u00eddeo y el audio son potentes herramientas de narraci\u00f3n por si mismas o en conjunto. No importa como se usen estos elementos audiovisuales, todos ellos requieren algo de texto.\nLas palabras escritas juegan varios papeles esenciales en l\u00ednea. Pueden venir en forma de breves \"explicaciones\" descriptivas de las noticias, un r\u00f3tulo de una foto/v\u00eddeo, o t\u00edtulos y palabras-clave/etiquetas para otro tipo de contenido de medi\u00e1tico. Si tiene una conexi\u00f3n a Internet, la funci\u00f3n speech-to-text (habla a texto) de Google puede hacerle muy f\u00e1cil a\u00f1adir descripciones detalladas a su historia.\nNo importa c\u00f3mo se use el texto, tiene que ser sucinto, claro, e informativo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## El texto en el papel principal\nCon las historias de noticias urgentes, los audios o v\u00eddeos pueden no estar inmediatamente a nuestra disposici\u00f3n. Algunos asuntos o eventos no se prestan a fotos, v\u00eddeos o audios. Estas pueden ser historias de pol\u00edtica, conferencias de prensa visualmente anodinas, o historias que son un reto por la iluminaci\u00f3n, el ruido, el acceso, o que son dadas a conocer tras suceder el hecho. Si el texto va a jugar un papel principal en su presentaci\u00f3n, este deber\u00eda tener las siguientes caracter\u00edsticas t\u00edpicas de un despacho de noticias.\n&bull; Las frases deber\u00edan ser cortas: 25-35 palabras. Use frases simples enunciativas.\n&bull; Vaya al grano r\u00e1pidamente. Los hechos b\u00e1sicos de la historia deber\u00edan estar en la primera o la segunda frase. Sumerja a su lector dentro de la historia con la informaci\u00f3n importante al principio del todo. No guarde lo mejor para el final.\n&bull; Piense en factoides (vea la lecci\u00f3n de comunicaci\u00f3n). (N.del t. Vea factoide en wikipedia) Provea informaci\u00f3n esencial b\u00e1sica: Qui\u00e9n, qu\u00e9, d\u00f3nde, cu\u00e1ndo, y por qu\u00e9.\n&bull; Una art\u00edculo, una idea: Limite cada entrada a un punto concreto. Nada le impide hacer m\u00faltiples art\u00edculos, cada uno sobre un elemento diferente de una historia mayor.\n&bull; Evite un lenguaje incendiario o sesgado.\n&bull; Incluya enlaces relevantes y hashtags cuando sea posible.\n&bull; Piense en la continuidad: \u00bfC\u00f3mo puede usar sus entradas de texto para lograr la adhesi\u00f3n de una audiencia para la cobertura adicional sobre ese tema durante el ciclo de la historia?", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "## Ejemplos de texto en el rol principal\n&bull; Dhaka, Bangladesh; 25 de november de 2012 \u2014 M\u00e1s de 100 personas murieron el s\u00e1bado y el domingo en un incendio en una fabrica textil en el exterior de la capital.  \n&bull; A los bomberos les llev\u00f3 m\u00e1s de 17 horas apagar las llamas en la factor\u00eda, Tazreen Fashions, despu\u00e9s de que se iniciara el s\u00e1bado por la tarde, dijo el oficial retirado Salim Nawaj Bhuiyan por tel\u00e9fono desde Dhaka, la capital de Bangladesh.  \n&bull; Murieron al menos 111 personas, y muchos m\u00e1s trabajadores fueron llevados a varios hospitales y cl\u00ednicas locales por quemaduras e inhalaci\u00f3n de humo.  \n&bull; \u201cLa principal dificultad fue apagar el fuego. No hab\u00eda carretera para una aproximaci\u00f3n suficiente\u201d, dijo Salim Nawaj Bhuiyan, que ahora regenta una compa\u00f1\u00eda de seguridad contra incendios en Dhaka. \u201cEl servicio de extinci\u00f3n de incendios tuvo que afrontar grandes problemas para aproximarse a la f\u00e1brica\u201d.  \n&bull; La industria textil de Bangladesh es el segundo mayor exportador de ropa despu\u00e9s de China. La industria emplea a m\u00e1s de 3 millones de trabajadores, la mayor\u00eda mujeres. \n&bull; La industria textil tiene un notorio historial paup\u00e9rrimo de seguridad contra incendios. Desde 2006, m\u00e1s de 500 trabajadores bengal\u00edes han muerto en incendios en f\u00e1bricas textiles, de acuerdo a la Campa\u00f1a Ropa Limpia, un grupo activista anti-explotaci\u00f3n radicado en Amsterdam.  \n&bull; Los expertos dicen que muchos de los incendios podr\u00edan haber sido f\u00e1cilmente evitados si las f\u00e1bricas hubieran tomado las precauciones correctas. Muchas de las f\u00e1bricas est\u00e1n en barrios congestionados, tienen muy pocas v\u00edas de escape al fuego y desprecian ampliamente las medidas de seguridad, dijeron los expertos.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "## Escribir palabras clave y etiquetas\nLas audiencias fuera de su red social, y los motores de b\u00fasqueda interesados en los temas que cubre necesitan poder encontrar sus historias. No hay forma de buscar directamente una foto, v\u00eddeo o fichero de audio. La gente s\u00f3lo puede buscar texto, as\u00ed que las palabras clave y etiquetas asociadas con su contenido audiovisual son importantes. Las palabras clave y etiquetas deben identificar su historia y relacionarla con aspectos de temas de inter\u00e9s para su audiencia m\u00e1s amplios.\nLas palabras clave y etiquetas se pueden escribir en campos espec\u00edficos para ellas, tanto en StoryMaker como en la plataforma en la que la historia ser\u00e1 publicada. Adem\u00e1s de los campos, las palabras clave y etiquetas tambi\u00e9n se pueden incluir en un pie de foto o una entrada de texto.\n### Directrices para la escritura de palabras clave y etiquetas  \n&bull; Use entre 5 y 10 palabras clave o etiquetas.  \n&bull; No use abreviaturas.  \n&bull; Ordene las palabras clave o etiquetas en funci\u00f3n de su importancia o probabilidad de elecci\u00f3n para la b\u00fasqueda.  \n&bull; Seleccione descriptores claros y comunes. Por ejemplo, use \"ambiental\" mejor que \"verde\".  \n&bull; Incluya descriptores amplios para nombres espec\u00edficos usados en el r\u00f3tulo. Por ejemplo, si el \"Instituto Indira Gandhi de Medicina para la Infancia\" aparece en el r\u00f3tulo, use \"infantil\" y \"hospital\" como palabras clave o etiquetas.  \n&bull; Incluya descriptores alternativos a los que aparecen en el r\u00f3tulo.  \n&bull; Incluya la localizaci\u00f3n geogr\u00e1fica.  \n&bull; Incluya los nombres de pila importantes.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Mant\u00e9ngalo breve.  \n&bull; C\u00ed\u00f1ase a los hechos.  \n&bull; Los est\u00e1ndares del buen periodismo se aplican a los textos que publique.  \n&bull; Use palabras clave (keywords) y etiquetas (tags) para ayudar a la gente a encontrar sus historias.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfQu\u00e9 es lo que mejor describe una buena primera frase o texto de encabezado?", 
+            "choices": [
+                {
+                    "text": "25-35 palabras de largo.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Incitar de forma que se sumerja al lector en la historia.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Una introducci\u00f3n sucinta y dram\u00e1tica, pero basada en los hechos, de la historia.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todas las anteriores", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Verdadero o falso: Los buenos escritores no tiene por que ser buenos reporteros. Despu\u00e9s de todo, si escribe bien, est\u00e1 bien hacer que las ideas parezcan hechos ver\u00eddicos.", 
+            "choices": [
+                {
+                    "text": "Verdadero", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falso", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfQu\u00e9 es lo que mejor describe las caracter\u00edsticas de la escritura de noticias que la distingue de la escritura escolar o la literatura?", 
+            "choices": [
+                {
+                    "text": "La escritura de noticias y el microblogging presentan introducciones reflexivas que proporcionan contexto antes de llegar al desarrollo m\u00e1s reciente de la historia o la idea.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Deber\u00eda haber una frase larga escrita en un estilo casi po\u00e9tico.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "La escritura de noticias debe incluir muchas referencias cr\u00edpticas, abreviaturas, y jerga asumiendo que el lector est\u00e1 informado acerca del trasfondo de la historia.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "NInguna de las anteriores.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "using_text", 
+    "title": "Utilizar texto"
+}

@@ -1,0 +1,175 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Bilbilakoo qabadhee waraabuuf qophaa'een jira. Waraabbiinkoo gaarii ta'uusaa mirkaneeffachuuf maal gochuun qaba?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Kutaa kana keessatti kan barattan:  \n&bull; Mala ittiin rakkoolee baratamoo waraabbii sagalee bilbilaanii dhowwan.   \n&bull; Akka ittii waantota bebbeekamoo sagalee gadheef sababa ta'an adda baasan", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Sagalee waraabuun salphaadha, garuu karaa baayyeedhaan waraabbiinkee baduudhaan hojii ala ta'a. Kun akka hin mudanne mirkaneeffachuudhaaf, yeroo gaaffiif deebii, sagalee gargaartuu yookaan seenaa seenessuuf sagaleekee yeroo waraabdu tarkaanfilee kana shaakali. Tarkaanfilee kana hordofuun rakkoon sagaleekee mudatu akka hin uumamne eega. Sagaleen haala gadheedhaan erga waraabamee booda, irraa hambisuun rakkisaa ta'a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Jeequmsa qabannaa fi akkaataa qabannaa](2.png)  \n## Jeequmsa qabannaa fi akkaataa qabannaa", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "3.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Fakkeenya jeequmsa akkaataa qabannaarraan uumamee", 
+            "exampleMediaPath": "3.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Yeroo waraabuuf qophoftu, meeshaakee haala mijataa fi uumamaatiin qabi. Meeshaakee humnaan cimsitee hin qabin, yeroo dheeraaf akka qabdee turuu dandeessutt qabi. Kan kanarraa, sagalee \u201chandling noise\u201d waraabbiikee keessatti dhageessa, kun yeroo maayikiikee utuu waraabaa jirtuu sochoostuu, fi harkikee yookaan waanti biraan maayikii haxaa'u mudata.  \n![Ciqileekee boqochiisuu](1.png)  \nMeeshaa ittiin waraabdu nama wajjin gaaffiif deebii geggeessitutti qabuu qabda yoo ta'e, ciqileekee qaama jabaataarra kaa'i. Taa'uun gaarii ta'a, ciqileekee miinjaalarra kaa'uudhaan harkakee gara maddakeetti buti.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![Maayikii afaanirraa xiqqoo gadi butuudhaan qabuu](4.png)  \nYeroo waraabdu hafuurri afaan isaa yookaan ishee keessaa ba'u akka sagalee addaa hin uumneef maayikii afaan nama gaaffiif deebii wajjin geggeessiturraa xiqqoo gadi buttuudhaan qabi.   \nMiinjaali siif qaama waraabdu gidduu yoo jiraate, waraabduu minjaalicharra kaa'uu dandeessa, garuu namni akka minjaalicha hin tuqne eegi yoo tuqan sagalee waan qabuuf.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![Fakkeenya baattuu maayikii](5.png)  \nYeroo gaaffiif deebii maayikii bakka tokkotti qabuuf kan fayyadan baattuu maayikii gosa garagaraa kan waraabdota yookaan bilbila ammayyaa kan baachuu danda'antu jiru. Meeshaalee qabdurraa kan mataakee hojjetachh dandeessa. Waanti waraabduukee maddakee biratti qabuu danda'u kamiyyuu siif hojjeta.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "## Sagalee duubaa fi sagalee shakkii", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "6.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Fakkeenya sagalee madaaltuu qilleensaa", 
+            "exampleMediaPath": "6.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Sagaleen madaaltuu qilleensaa fi maashinoota biroo kan waraabbii sagaleekee jeequu danda'an jiraachuu adda baafachuun waraabbii dura ta'uu qaba. Yeroo bakkicha geessu, sagalee jiru kamiinuu ilaali, warra hin miidhan jettee yaadduyyuu. Maashinooti jeeqaa jiran cufamuu akka danda'an gaafadhu, yookaan qulqullina sagaleetiif bakka jijjiirrachuuf yaada kaasiif. Namooti baayyeen dhimmicharratti si amanus si hubatus.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## WAANTOTA YAADATAMUU QABAN  \n&bull; Utuu gaafannoo hin jalqabin waraabduukee hammamiif akka baachuu dandeessu yaadaan qabi. Gaafannoo dheeraadhaaf, karaa mijataa teessee yookaan dhaabattee utuu qabaakee hin jijjiirin itti turtu barbaadi.  \n&bull; Qaamota garagaraatti fayyadami,keessumaa waan akka dhaabbiitti si fayyadan, kan waraabduunkee maddakeerraa fageenya fudhatama qaburratti baatee taa'u.  \n&bull; Sagalee duubarra jiran kan qulqullina sagalee waraabdee kan miidhuu danda'an bakka gaafannoo yookaan bakka waraabbii yeroo geessu dhaggeeffadhu yookaan ilaali.  \n&bull; Faayilli sagaleekee sirriitti maqeessuudhaan olkaa'i.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Jeequmsi akkaataa qabannaa maali?", 
+            "choices": [
+                {
+                    "text": "Muuxiqaa qopheessaa muuziqaa beekamaa.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Sagalee madaaltuu qilleensaa duubaa kuchisiisu.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Sagalee tasaa yeroo qabannaa jijjiirtu yookaan yeroo deemtu harka keetiin uumamu.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Jeequmsa hoogganuu, fkn sagalee maashinii balleessuu", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Kamtu gaditti kan jiran keessaa jeequmsa akkaataa qabannaatiin uumamu oolchuu fi harkakee yookaan waraabduun yeroo waraabbiitti akka hin sochoone gochuuf fayyada. ", 
+            "choices": [
+                {
+                    "text": "Minjaala.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Baattuu maayikii.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Dhaaba", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Hunduu deebiidha.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Sagalee madaaltuu qilleensaa yookaan meeshaalee biroo akka rakkoo uuman yoom dubbatta?", 
+            "choices": [
+                {
+                    "text": "Yeroo bakkicha geessu, utuu waraabuu hin jalqabin.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Gidduu gaaffiif deebiitti.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Yeroo gulaalliirra jirtu.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Gaaffiif deebii dura meeshaakee hunda saatii 24iif cufi.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "recording_tips_and_techniques", 
+    "title": "Qaccee fi Mala Waraabbii"
+}

@@ -1,0 +1,11 @@
+{
+  "t_photo_series_character::text_card_0::text": "This is a portrait series template. A series is a set of similar images designed to illustrate a comparative point. Images in a series should be stylistically similar to further illustrate the comparison.", 
+  "t_photo_series_character::clip_card_0::goals[0]": "Photograph a person who illustrates the core idea of your story.", 
+  "t_photo_series_character::ms_moreinfo::text": "About this Template", 
+  "t_photo_series_character::ms_moreinfo::header": "Next", 
+  "t_photo_series_character::clip_card_4::goals[0]": "Replicate the composition with a different person.", 
+  "t_photo_series_character::clip_card_3::goals[0]": "Replicate the composition with a different person.", 
+  "t_photo_series_character::title": "Series - Portraits", 
+  "t_photo_series_character::clip_card_1::goals[0]": "Replicate the composition of the first photo with another person.", 
+  "t_photo_series_character::clip_card_2::goals[0]": "Replicate the composition with a different person."
+}

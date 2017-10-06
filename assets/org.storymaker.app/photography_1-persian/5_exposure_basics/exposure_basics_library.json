@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "exposure_basics", 
+            "dependencyFile": "exposure_basics.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Exposure Basics", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "exposure_basics"
+        }
+    ], 
+    "currentStoryPathFile": "exposure_basics.json", 
+    "storyPathTemplateFiles": {
+        "exposure_basics": "exposure_basics.json"
+    }, 
+    "id": "exposure_basics"
+}

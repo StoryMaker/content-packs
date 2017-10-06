@@ -1,0 +1,38 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/audio-persian/1_introduction_to_audio/introduction_to_audio_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-persian/cover.png", 
+    "language": "fa", 
+    "title": "\u0645\u0642\u062f\u0645\u0647\u200c\u0627\u06cc \u0628\u0631 \u06af\u0632\u0627\u0631\u0634 \u0635\u0648\u062a\u06cc"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-persian/2_audio_basics/audio_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-persian/cover.png", 
+    "language": "fa", 
+    "title": "\u0627\u0635\u0648\u0644  \u06af\u0632\u0627\u0631\u0634 \u0635\u0648\u062a\u06cc"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-persian/3_preparation/preparation_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-persian/cover.png", 
+    "language": "fa", 
+    "title": "\u0622\u0645\u0627\u062f\u06af\u06cc"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-persian/4_types_of_stories/types_of_stories_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-persian/cover.png", 
+    "language": "fa", 
+    "title": "\u0627\u0646\u0648\u0627\u0639 \u0645\u062e\u062a\u0644\u0641 \u06af\u0632\u0627\u0631\u0634 \u062e\u0628\u0631\u06cc"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-persian/5_storyboarding_recording_plan/storyboarding_recording_plan_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-persian/cover.png", 
+    "language": "fa", 
+    "title": "\u0637\u0631\u0627\u062d\u06cc \u0628\u0631\u0627\u06cc \u0636\u0628\u0637 \u0641\u06cc\u0644\u0645\u200c\u0646\u0627\u0645\u0647 "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-persian/6_recording_tips_and_techniques/recording_tips_and_techniques_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-persian/cover.png", 
+    "language": "fa", 
+    "title": "\u062a\u06a9\u0646\u06cc\u06a9\u200c\u0647\u0627 \u0648 \u0631\u0647\u0646\u0645\u0648\u0646\u200c\u0647\u0627\u06cc \u0636\u0628\u0637"
+  }
+]

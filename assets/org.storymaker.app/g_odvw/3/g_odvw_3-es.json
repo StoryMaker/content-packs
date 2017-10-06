@@ -1,0 +1,115 @@
+{
+    "cards": [
+        {
+            "level": "Producci\u00f3n", 
+            "headline": "Crear una historia con narraci\u00f3n", 
+            "time": "? Minutes", 
+            "exampleMediaPath": "cover.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Usar uno de cada de los cinco cortes proporcionados, grabe una historia y a\u00f1ada una narraci\u00f3n.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "text": "Su objetivo es usar todos los cinco tipos de tomas y narraci\u00f3n para contar su historia con un principio, un desarrollo, y un final.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "Construya su historia en torno a un personaje, use los otros cortes para ilustrar la historia del personaje.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Los cortes de lugares son buenos para establecer d\u00f3nde sucede su historia."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "Recorte cualquier clip pulsando la imagen del corte.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Los cortes de personajes son buenos para ambientar las entrevistas con aquellos afectados."
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Los cortes de acci\u00f3n muestran la acci\u00f3n dominante que mueve la historia. Grabe la acci\u00f3n al completo."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Los cortes de resultado muestran el resultado del periplo de su personaje o la acci\u00f3n dominante."
+            ], 
+            "clipType": "result", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Los cortes de firma muestran un detalle muy espec\u00edfico, pueden ser el resultado o la acci\u00f3n dominante. \u00a1Ac\u00e9rquese!"
+            ], 
+            "clipType": "signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "text": "Si grab\u00f3 cortes adicionales en cualquiera de sus tarjetas, aseg\u00farese de borrar los extras para que cada tarjeta tenga s\u00f3lo un corte, para un total de cinco.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
+            "text": "En la siguiente tarjeta, podr\u00e1 revisar sus cortes, cuando est\u00e9 contento con ellos, pulse publicar.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }, 
+        {
+            "text": "No olvide su narraci\u00f3n.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6"
+        }, 
+        {
+            "text": "Escriba primero su narraci\u00f3n. Mant\u00e9ngala simple, sea espec\u00edfico, y escriba para sus fotos.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Cuando termine de subir, vuelva a la clase.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "g_odvw_3", 
+    "title": "Crear una historia con narraci\u00f3n."
+}

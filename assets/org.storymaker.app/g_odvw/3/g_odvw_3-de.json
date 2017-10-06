@@ -1,0 +1,115 @@
+{
+    "cards": [
+        {
+            "level": "Produktion", 
+            "headline": "Erstelle eine Geschichte mit Erz\u00e4hlung.", 
+            "time": "? Minutes", 
+            "exampleMediaPath": "cover.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Benutzen von einem von jedem der f\u00fcnf Clips unterst\u00fctzt, schreibe eine Geschichte und eine Erz\u00e4hlung.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "text": "Dein Ziel ist es alle f\u00fcnf Aufnahmetypen und eine Erz\u00e4hlung zu verwenden, um eine Geschichte mit Anfang, Mitte und Ende zu erz\u00e4hlen.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "Baue deine Geschichte um einen Charakter herum, benutze die anderen Clips um die Taten des Charakters darzustellen.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Schauplatz-Clips sind gut um festzustellen, wo deine Geschichte stattfindet."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "Schneide ein Bild durch Antippen des Bildausschnitts zu.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Charakter-Clips sind gut um Interviews mit den Betroffenen zu umrahmen."
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Handlungs-Clips zeigen die prim\u00e4re Handlung, welche die Geschichte tragen. Schreibe die gesamte Handlung auf."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Ergebnis-Clips zeigen das Ergebnis der Reise oder prim\u00e4ren Taten deines Charakters."
+            ], 
+            "clipType": "result", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Signatur-Clips zeigen ein sehr spezifisches Detail, sie k\u00f6nnen das Ergebnis oder die prim\u00e4re Aktion sein. Komm n\u00e4her!"
+            ], 
+            "clipType": "signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "text": "Wenn du zus\u00e4tzliche Clips in eine deiner Karten aufgenommen hast, gehe sicher diese zu l\u00f6schen, sodass jede Karte nur einen Clip hat, f\u00fcr insgesamt f\u00fcnf.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
+            "text": "Auf der n\u00e4chsten Karte kannst du deine Clips \u00fcberpr\u00fcfen. Dr\u00fccke ver\u00f6ffentlichen, wenn du mit ihnen zufrieden bist.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }, 
+        {
+            "text": "Vergiss deine Erz\u00e4hlung nicht.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6"
+        }, 
+        {
+            "text": "Schreibe deine Erz\u00e4hlung zuerst. Halte sie einfach, sei spezifisch und schreibe sie zu deinen Bildern.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Wenn du mit dem Hochladen fertig bist, kehre zum Kurs zur\u00fcck.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "g_odvw_3", 
+    "title": "Erstelle eine Geschichte mit Erz\u00e4hlung."
+}

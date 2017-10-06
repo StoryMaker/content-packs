@@ -1,0 +1,23 @@
+{
+    "title": "\u12f5\u1205\u1228 \u12dd\u130d\u1305\u1275", 
+    "storyPathTemplateFiles": {
+        "post_production": "post_production.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "post_production", 
+            "dependencyFile": "post_production.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "post_production"
+        }
+    ], 
+    "currentStoryPathFile": "post_production.json", 
+    "id": "post_production"
+}

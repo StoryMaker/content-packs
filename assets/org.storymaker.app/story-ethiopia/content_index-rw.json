@@ -1,0 +1,44 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/1_introduction_to_story/introduction_to_story_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "rw", 
+    "title": "Inkuru y'intangamarara"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/2_central_question/central_question_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "rw", 
+    "title": "Ikibazo nyamukuru"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/3_climax/climax_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "rw", 
+    "title": "Climat"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/4_resolution/resolution_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "rw", 
+    "title": "ubuhinga bukabije"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/5_arc/arc_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "rw", 
+    "title": "Umuheto mumpfunyampfunyo Arc"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/6_deeper_meaning/deeper_meaning_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "rw", 
+    "title": "Insiguro ikomeye"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/7_symbols/symbols_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "rw", 
+    "title": "Icibutso"
+  }
+]

@@ -1,0 +1,175 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Ich habe noch nie eine Audio-Aufnahme gemacht. Was sind die Grundlagen, die ich kennen sollte?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## In dieser Lektion lernst du:\n&bull; Wie stellst du sicher die Kl\u00e4nge aufzunehmen, die du erwartest\n&bull; Wie man mehrere Quellen von Audio aufnimmt um deine Geschichte zu erstellen", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "![Planning an audio story](2.png)\nEine Audioaufnahme zu machen ist nicht so kompliziert wie ein Video zu drehen oder Fotos zu schie\u00dfen, aber es ben\u00f6tigt ein grundlegendes technisches Wissen gepaart mit einem guten Plan eine Geschichte nur \u00fcber Ger\u00e4usche zu erz\u00e4hlen. Du musst dem Publikum mit deinen Ger\u00e4uschen helfen die Geschichte zu visualisieren, da keine Bilder vorhanden sind. Klare und interessante Ger\u00e4usche k\u00f6nnen ein gutes Bild in die Gedanken eines jeden Zuh\u00f6rers malen. Der Trick ist es, diese Kl\u00e4nge auf die bestm\u00f6gliche Art zu pr\u00e4sentieren, um ein fesselndes gedankliches Bild zu erzeugen.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "## Aufnahmetechniken\nStelle sicher, dass deine aufgenommenen T\u00f6ne klar sind, egal ob du Stimmen oder Umgebungsger\u00e4usche f\u00fcr deine Geschichte aufnimmst. Du willst erst denken, dass du etwas n\u00fctzliches f\u00fcr deine Geschichte aufgenommen hast, aber im Nachhinein feststellen, dass du ein St\u00fcck vergessen hast, gar nichts aufgenommen hast oder deine Pegel so schlecht waren und die Aufnahme nicht verst\u00e4ndlich ist. Teste die Pegel bevor du aufnimmst; stelle sicher, dass sie weder zu laut noch zu leise sind und dass scharfe oder pl\u00f6tzliche Ger\u00e4usche, wie ruckartiges Umbl\u00e4ttern oder Sirenen drau\u00dfen den Inhalt den du aufnehmen willst nicht unh\u00f6rbar machen. Wenn du mit der Aufnahme beginnst, warte ein paar Sekunden bevor du mit dem Sprechen beginnst, und mache das selbe bevor du die Aufnahme beendest; gib ihr ein paar zus\u00e4tzliche Sekunden an Stille.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "3.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Beispiel f\u00fcr eine Audio-Aufnahme, bei der manche Gr\u00e4usche zu laut sind", 
+            "exampleMediaPath": "3.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "4.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Beispiel wie man Stille vor und nach einem Clip aufnimmt.", 
+            "exampleMediaPath": "4.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "## Audioquellen benutzen\nDu malst ein Bild und erstellst die Geschichte in den Gedanken eines Zuh\u00f6rers. Du kannst dieses Bild mit der Hilfe von vielen Audioquellen malen, wie z.B. Stimmen von Menschen, Kl\u00e4nge eines Vorgangs, deiner eigenen (dynamischen und emotionalen) Stimme welche die Geschichte erkl\u00e4rt oder erz\u00e4hlt, und Umgebungsger\u00e4uschen, die eine Szene definieren, wie z.B. arbeitende M\u00e4nner, singende Demonstranten, die Ger\u00e4usche einer K\u00fcche. Jede gegebene Geschichte kann mehrere Audioquellen haben, welche zusammen eine gro\u00dfartige Geschichte erz\u00e4hlen, die die Zuh\u00f6rer sehen und f\u00fchlen k\u00f6nnen.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "5.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Beispiel zur Verwendung von Audioquellen", 
+            "exampleMediaPath": "5.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "6.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Beispiel zur Verwendung von Audioquellen", 
+            "exampleMediaPath": "6.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "## DINGE AN DIE MAN SICH ERINNERN SOLL\n&bull; Starte die Aufnahme bevor du eine Frage stellst, um ein paar Sekunden Stille vor dem Sprechen zu haben. Wenn deine Frage beantwortet wurde, nimm ein paar Sekunden Stille auf, bevor du die Aufnahme stoppst.\n&bull; Teste deine Audiopegel mit einer kurzen Aufnahme vor den Aufnahmen f\u00fcr deine Geschichte, wenn du Kopfh\u00f6rer benutzt.\n&bull; Benutze mehrere Audioquellen um deine Geschichte zu erz\u00e4hlen.\n&bull; Finde verschiedene Kl\u00e4nge und Zitate die deiner Geschichte helfen. Versuche deine Stimme so wenig wie m\u00f6glich zu verwenden und erz\u00e4hle die Geschichte durch die Stimmen Anderer.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Was soll ich tun um sicher zu gehen, dass meine Audiopegel korrekt sind?", 
+            "choices": [
+                {
+                    "text": "Verwende Kopfh\u00f6rer w\u00e4hrend der Aufnahme", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Mache eine Probeaufnahme, bevor du beginnst.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Falls du eine Einstellung f\u00fcr den Audiopegel hast, passe ihn dementsprechend an.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Alle oben genannten", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Ja oder nein: Kann eine gute Geschichte mehr als eine Audio-Quelle verwenden?", 
+            "choices": [
+                {
+                    "text": "Nein", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Ja", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Ja, aber h\u00f6chstens zwei Quellen.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Warum solltest du die Aufnahmetaste dr\u00fccken und f\u00fcnf Sekunden warten, bevor du mit Sprechen anf\u00e4ngst?", 
+            "choices": [
+                {
+                    "text": "Um dir f\u00fcnf Sekunden zu geben, dir deine Fragen zu merken.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Um deine Geschichte interessanter zu machen.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Um sicherzustellen, dass du den Anfang deiner Aufnahme nicht abschneidest.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "audio_basics", 
+    "title": "Audio-Grundlagen"
+}

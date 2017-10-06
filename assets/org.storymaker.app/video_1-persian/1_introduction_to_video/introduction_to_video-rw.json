@@ -1,0 +1,36 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "INTANGAMARARA KUVYAMASANAMU", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Amasanamu n'igikoresho kibasha neza muvyo gutera inkuru. Ameze neza, amasanamu afatanya ububasha bw'amajwi hamwe nubunyaruke bwamafoto kugira atangure guhuza neza nabayaraba.  \nBishobora kuba nahone igikorwa kiremereye umbwambere ugitangura kuyakoresha. Ariko cokimwe nkibindi bikoresho, hariho ibikurikizwa hamwe nibikorwa ushobora kwiga bikakuyobora murizi ntambwe zambere.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Turabahanura dushimitse yuko mwoheraheza urutonde rw'ivyigwa vy'umutekano n'ubumenyeshamakuru imbere yuko mutangura. Izo nyigisho zirangwa mugice c'amasanamu (section video), ariko zirakwiriye yuko uzitaho cane. Atazo ukurikiranye, birashoboka yuko wishira mungorane canke ukazishiramwo abandi.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Inyigisho ziraha zifise intumbero yogutahura amasanamu nk'ubuhinga bwogutunganya inkuru ukoresheje StoryMaker. Mugihe uzoheza ururutonde rw'ivyigwa, uzoba ufise ugutahura kw'ibintu nshingiro, ubuhinga, hamwe n'ibikurikizwa intambwe kuyindi mugutegura amakuru agizwe n'inkuru zamasanamu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "introduction_to_video", 
+    "title": "Intangamarara y'amasanamu"
+}

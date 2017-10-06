@@ -1,0 +1,36 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "INTRODUCCI\u00d3N AL V\u00cdDEO", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "El v\u00eddeo es una herramienta muy efectiva para contar una historia. En su mejor expresi\u00f3n, el v\u00eddeo combina la potencia del audio con la inmediatez de la fotograf\u00eda para crear una conexi\u00f3n de cercan\u00eda con una audiencia.\nTambi\u00e9n puede ser apabullante la primera vez que intente usarlo. Pero como con cualquier otra herramienta, hay reglas y pr\u00e1cticas que puede aprender que pueden guiarle a trav\u00e9s de estos primeros pasos.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Le sugerimos firmemente que complete las lecciones de Seguridad y Periodismo antes de comenzar. Esas ense\u00f1anzas est\u00e1n referenciadas en la secci\u00f3n de V\u00eddeo, pero merecen su atencion de forma dedicada. Sin ellas, es probable que se ponga en riesgo a si mismo o a otros a causa de historias pobremente producidas.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Las lecciones aqu\u00ed est\u00e1n enfocadas a entender el v\u00eddeo como una destreza para la producci\u00f3n de noticias usando StoryMaker. Tras completar este programa, tendr\u00e1 una comprensi\u00f3n de los conceptos b\u00e1sicos y t\u00e9cnicas, as\u00ed como instrucciones paso-a-paso espec\u00edficas para producir un relato en v\u00eddeo de una noticia.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "introduction_to_video", 
+    "title": "Introducci\u00f3n al v\u00eddeo"
+}

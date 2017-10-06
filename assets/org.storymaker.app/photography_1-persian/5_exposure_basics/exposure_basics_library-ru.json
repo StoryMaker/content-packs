@@ -1,0 +1,23 @@
+{
+    "title": "\u041e\u0441\u043d\u043e\u0432\u044b \u044d\u043a\u0441\u043f\u043e\u0437\u0438\u0446\u0438\u0438", 
+    "storyPathTemplateFiles": {
+        "exposure_basics": "exposure_basics.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "exposure_basics", 
+            "dependencyFile": "exposure_basics.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "exposure_basics"
+        }
+    ], 
+    "currentStoryPathFile": "exposure_basics.json", 
+    "id": "exposure_basics"
+}

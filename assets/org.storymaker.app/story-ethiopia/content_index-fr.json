@@ -1,0 +1,44 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/1_introduction_to_story/introduction_to_story_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "fr", 
+    "title": "Introduction \u00e0 l'histoire"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/2_central_question/central_question_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "fr", 
+    "title": "Question Centrale"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/3_climax/climax_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "fr", 
+    "title": "Climax"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/4_resolution/resolution_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "fr", 
+    "title": "R\u00e9solution"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/5_arc/arc_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "fr", 
+    "title": "L'arc"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/6_deeper_meaning/deeper_meaning_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "fr", 
+    "title": "Signification plus profonde"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/7_symbols/symbols_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "fr", 
+    "title": "Symboles"
+  }
+]

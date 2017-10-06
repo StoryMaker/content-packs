@@ -1,0 +1,88 @@
+{
+    "cards": [
+        {
+            "text": "# Las historias potentes a menudo ilustran connotaciones m\u00e1s profundas tras la narrativa central. \u00bfC\u00f3mo hago esto en mis propias historias?  \n## En esta lecci\u00f3n aprender\u00e1:  \n&bull; C\u00f3mo mejoran su historia las connotaciones profundas  \n&bull; C\u00f3mo usar las connotaciones profundas en las historias de noticias  \n&bull; C\u00f3mo pueden influenciar las connotaciones profundas a otros elementos de su historia", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Las historias potentes proporcionan una connotaci\u00f3n m\u00e1s profunda a los eventos y hechos b\u00e1sicos de la narrativa. Hablan para la experiencia humana universal, que conforman los retos fundamentales que afrontamos en la vida. Y lo hacen de forma que las audiencias puedan asociarlo con su propia experiencia. Podr\u00eda ser acerca del amor perdido, o un dilema moral, la lucha econ\u00f3mica, triunfar en pos de un sue\u00f1o, o enfrentarse a la muerte. Esto es de lo que en realidad trata la historia y es lo que le da impacto. Cualquier buena historia est\u00e1 construida sobre algo m\u00e1s profundo que el cl\u00edmax inmediato.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Cuando los miembros de la audiencia reconocen ese significado profundo, crean una conexi\u00f3n personal o emocional m\u00e1s fuerte con la historia y son m\u00e1s propensos a recordarla. Es importante centrarse en el significado profundo de la historia y preguntarse a uno mismo de qu\u00e9 manera impactar\u00e1 a su audiencia. Preg\u00fantese a si mismo qu\u00e9 amplitud de aspectos humanos aborda su historia. ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Distintas comunidades interpretar\u00e1n las connotaciones profundas de forma diferente. Aseg\u00farese de considerar a su audiencia cuidadosamente al reflexionar sobre una connotacion profunda espec\u00edfica en la historia. Si no tiene claro cu\u00e1l ser\u00e1 la sentido profundo de su historia para la audiencia, puede que su historia no tenga el impacto que quiere.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Aqu\u00ed tiene varios ejemplos de connotaci\u00f3n m\u00e1s profunda en una variedad de historias:  \n&bull; En una guerra, los soldados est\u00e1n a la caza de un hombre. Amenazan con quemar el pueblo entero si no se rinde. Cuesti\u00f3n central: \u00bfEl hombre se rendir\u00e1? Cl\u00edmax: \u00c9l se rinde y sabe que le matar\u00e1n, pero que el pueblo se salvar\u00e1. Connotaci\u00f3n m\u00e1s profunda: Algunas personas anteponen sus comunidades a si mismos. Otra connotaci\u00f3n m\u00e1s profunda aqu\u00ed es: Algunas veces unos pocos se sacrifican para salvar a la mayor\u00eda.\n&bull; En la carrera presidencial, un pol\u00edtico est\u00e1 considerando competir contra su hermano. Cuesti\u00f3n central: \u00bfRetar\u00e1 a su hermano? Cl\u00edmax: S\u00ed, \u00e9l entra en la carrera. Connotaci\u00f3n m\u00e1s profunda: Algunas veces la ambici\u00f3n es m\u00e1s fuerte que la lealtad.\n&bull; Hay un brote local de sarampi\u00f3n. Cuesti\u00f3n central: \u00bfSe extender\u00e1 la enfermedad fuera de la comunidad? Cl\u00edmax: Los padres mantendr\u00e1n en casa a los ni\u00f1os infectados de la comunidad hasta que ya no sean infecciosos. Connotaci\u00f3n m\u00e1s profunda: A veces necesitamos actuar juntos para resolver los problemas.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "Tanto si la audiencia ve las opciones tomadas en el cl\u00edmax de la historia como buenas o malas, o sabias o necias, no importa; la audiencia reconoce que cualquiera podr\u00eda enfrentarse a esas decisiones; hay algo de experiencia humana universal en ello. Ser\u00eda dif\u00edcil no compartir estos sentimientos \u2014 eso es lo que las hace connotaciones m\u00e1s profundas. Las historias y programas sin connotaciones profundas tienen poco impacto en la audiencia; no llaman a la discusi\u00f3n y no ser\u00e1n recordadas.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Todos los componentes de su historia deber\u00edan funcionar en conjunto para transmitir una connotaci\u00f3n m\u00e1s profunda.  \n&bull; Las connotaciones profundas no son lo mismo que insertar sus propias opiniones en una historia. Enmarcan una historia alrededor de un aspecto cultural y social m\u00e1s amplio.  \n&bull; Las connotaciones profundas puede diferir para distintas audiencias con diferentes trasfondos sociales o culturales.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfCu\u00e1l de estas constituye una connotaci\u00f3n m\u00e1s profunda acerca del cl\u00edmax de esta historia? Un pol\u00edtico que es encontrado culpable de corrupci\u00f3n no logra ser reelegido.", 
+            "choices": [
+                {
+                    "text": "Una vez pierdes tu credibilidad, es dif\u00edcil recuperarla. ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Los pol\u00edticos s\u00f3lo se preocupan por ellos mismos. ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "A veces, los inocentes resultan castigados. ", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfCu\u00e1l de estas constituye una connotaci\u00f3n profunda acerca del cl\u00edmax de esta historia? A un soldado herido se le dice que nunca volver\u00e1 a caminar. Se le confina a una silla de ruedas y lucha durante meses hasta que finalmente da sus primeros pasos.", 
+            "choices": [
+                {
+                    "text": "Los m\u00e9dicos normalmente se equivocan.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Dios quer\u00eda ayudarle. ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "La determinaci\u00f3n puede traer resultados extraordinarios. ", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "deeper_meaning", 
+    "title": "Connotaci\u00f3n profunda"
+}

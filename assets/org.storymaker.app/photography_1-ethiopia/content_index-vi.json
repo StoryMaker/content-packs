@@ -1,0 +1,38 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-ethiopia/1_introduction_to_photography/introduction_to_photography_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-ethiopia/cover.png", 
+    "language": "vi", 
+    "title": "Gi\u1edbi thi\u1ec7u v\u1ec1 Nhi\u1ebfp \u1ea3nh"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-ethiopia/2_camera_basics/camera_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-ethiopia/cover.png", 
+    "language": "vi", 
+    "title": "Nh\u1eefng c\u01a1 b\u1ea3n v\u1ec1 camera"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-ethiopia/3_composition_basics/composition_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-ethiopia/cover.png", 
+    "language": "vi", 
+    "title": "Nh\u1eefng nguy\u00ean t\u1eafc ph\u1ed1i c\u1ea3nh"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-ethiopia/4_captions_and_keywords/captions_and_keywords_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-ethiopia/cover.png", 
+    "language": "vi", 
+    "title": "Ch\u00fa th\u00edch v\u00e0 t\u1eeb kho\u00e1"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-ethiopia/5_exposure_basics/exposure_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-ethiopia/cover.png", 
+    "language": "vi", 
+    "title": "Nh\u1eefng c\u01a1 b\u1ea3n c\u1ee7a ph\u01a1i s\u00e1ng"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-ethiopia/6_post_production/post_production_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-ethiopia/cover.png", 
+    "language": "vi", 
+    "title": "Sau s\u1ea3n xu\u1ea5t"
+  }
+]

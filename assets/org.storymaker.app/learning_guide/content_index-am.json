@@ -1,0 +1,20 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/learning_guide/learning_guide_1/learning_guide_1_library.json", 
+    "thumbnailPath": "org.storymaker.app/learning_guide/cover.jpg", 
+    "language": "am", 
+    "title": "\u1235\u1208 \u1273\u122a\u12ad \u1218\u1230\u1228\u1273\u12ca \u12ed\u12d8\u1276\u127d \u12ed\u121b\u1229 "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/learning_guide/learning_guide_2/learning_guide_2_library.json", 
+    "thumbnailPath": "org.storymaker.app/learning_guide/cover.jpg", 
+    "language": "am", 
+    "title": "\u1260\u121a\u1230\u1229\u1275 \u12d8\u1308\u1263 \u120b\u12ed \u1270\u1328\u121b\u122a \u12dd\u122d\u12dd\u122e\u127d\u1295 \u12ed\u1328\u121d\u1229\u1362"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/learning_guide/learning_guide_3/learning_guide_3_library.json", 
+    "thumbnailPath": "org.storymaker.app/learning_guide/cover.jpg", 
+    "language": "am", 
+    "title": "\u121b\u12d5\u12a8\u120b\u12ca \u1325\u12eb\u1244 \u12eb\u120b\u1278\u12cd \u1273\u122a\u12ae\u127d\u1295 \u12ed\u1295\u1308\u1229"
+  }
+]

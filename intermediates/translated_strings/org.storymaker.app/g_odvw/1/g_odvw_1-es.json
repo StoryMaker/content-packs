@@ -1,0 +1,19 @@
+{
+    "g_odvw_1::clip_card_2::goals[0]": "Muestre una localización importante para su personaje o asunto.",
+    "g_odvw_1::clip_card_1::goals[0]": "Muestre a su personaje haciendo algo relacionado con su asunto.",
+    "g_odvw_1::markdown_card_0::text": "Con su compañero, elija una de las siguientes preguntas que se formularán entre si * ¿Cuál es su experiencia con el periodismo con móvil? * ¿Cómo fue su trayectoria hasta el taller? * ¿Cuál ha sido su parte favorita del taller hasta ahora?",
+    "g_odvw_1::text_card_0::text": "Cada uno con sus propios teléfonos, primero entreviste a su compañero, y luego su compañero le entrevistará a usted.",
+    "g_odvw_1::text_card_7::text": "No se preocupe, todos los cortes se guardan en su galería.",
+    "g_odvw_1::text_card_8::text": "Cuando termine de subir, vuelva a la clase.",
+    "g_odvw_1::text_card_3::text": "Tenga cuidado de proporcionar el espacio de encabezamiento adecuado para su entrevista.",
+    "g_odvw_1::text_card_6::text": "Si grabó múltiples cortes en una sola tarjeta, antes de publicar borre todos menos los 3 cortes que escogió.",
+    "g_odvw_1::text_card_1::text": "Asegúrese de estar suficientemente cerca para oir a su compañero.",
+    "g_odvw_1::text_card_4::text": "Recorte pulsando sobre la imagen del corte.",
+    "g_odvw_1::text_card_2::text": "Si hay mucho ruido de fondo, busque una nueva localización.",
+    "g_odvw_1::title": "Entreviste a su compañero.",
+    "g_odvw_1::preview_card_0::header": "Ejemplo de espacio de encabezamiento",
+    "g_odvw_1::intro_card_0::level": "Introducción",
+    "g_odvw_1::intro_card_0::headline": "Entrevistar a su compañero.",
+    "g_odvw_1::clip_card_0::goals[0]": "Recuerde, formule una pregunta a su sujeto, puede grabar varias veces si es necesario.",
+    "g_odvw_1::text_card_5::text": "Seleccione la mejor respuesta de 30 segundos."
+}

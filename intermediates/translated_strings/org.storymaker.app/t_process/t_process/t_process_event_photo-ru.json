@@ -1,0 +1,15 @@
+{
+    "t_process_event_photo::clip_card_2::goals[0]": "Запишите первый важный шаг во время события.",
+    "t_process_event_photo::clip_card_5::goals[0]": "Запишите последний важный шаг во время события.",
+    "t_process_event_photo::text_card_0::text": "Не записывайте каждый шаг, а только самые главные шаги, чтобы показать ход события от начала до конца.",
+    "t_process_event_photo::clip_card_1::goals[0]": "Покажите самое начало процесса.",
+    "t_process_event_photo::clip_card_3::goals[0]": "Запишите второй важный шаг во время события.",
+    "t_process_event_photo::clip_card_6::goals[0]": "Сфотографируйте волнующий момент, который подытоживает событие.",
+    "t_process_event_photo::text_card_1::text": "Обязательно добейтесь получения разных композиций при иллюстрации процесса: панорамные снимки, крупный план, кадры, снятые средним планом.",
+    "t_process_event_photo::title": "Развитие события",
+    "t_process_event_photo::clip_card_7::goals[0]": "Сфотографируйте важных участников события.",
+    "t_process_event_photo::clip_card_8::goals[0]": "Покажите реакцию зрителей на событие.",
+    "t_process_event_photo::clip_card_4::goals[0]": "Запишите третий важный шаг во время события.",
+    "t_process_event_photo::clip_card_0::goals[0]": "Покажите место, где будет происходить событие до его начала. ",
+    "t_process_event_photo::clip_card_9::goals[0]": "Покажите финальный результат или окончание события."
+}

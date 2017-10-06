@@ -1,0 +1,46 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Seensa Gaazexeessumaa", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Fedhiin gaazexeessummaa qulqullina qabuu yoomirrayyuu amma barbaachisa. Namooti odeeffannoo sirrii, yeroosaa eeggatee fi jireenyasaatiif barbaachisaa ta'e barbaadu.  \nrakkoo uumamaarraatii hanga goolii hawwaasaa mudatee hamma seenaa waa'ee aadaa fi aartiitti, jiraattoti bilbila fayyadamuudhaan yeroosatti qaamni hordofu kan ilaalu ol kaa'uu fi qopheessuu danda'u. Rakkoon gaazexeessitoota uummataa fi dhaabbata oduu garagaraa mudatu wajjin hojjechuudhaan seenaa jireenya namootaatiif bu'aa buusu  sassaabuu fi tamsaasuudha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Akkamitti gaazexeessitooti uummataa odeeffannoo kan dhaabbati garagaraa fayyadaman funaananii gabaasu? Karaa biraammoo, dhaabbati oduu akkamittii gaazexeessitoota uummataa gargaaruudhaan waan isaan dhiyeessanitti fayyadamuu danda'u?", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Gaazexeessitooni uummataa guutummaa guutuutti meeshaa bilbilaa, Quunnamtii intrneetii fi cimdaa hawaasaa kan akka Twitter, Facebook, fi YouTube irratti hundaa'uudhaan dhaamsa maxxansu jechuun ni danda'ama. Yeroo wal bira qabamu meeshaa gatiidhaan rakasa suur-sagalee sadarkaasaa eeggate(HD), suuraa qulqullina qabuu fi sagalee qulqullina qabuun qopheessuu fi tamsaasuun ni danda'ama. Waggoottan yartuu dura, qabiyyeewwan kana qopheessuuf doolaara kuma kudhaniin lakkaa'aman barbaadu turani. ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Gaazexeessummaan yeroo ammaa karaa garagaraatiin gaazexeessummaa waggoottan darbaniirraa adda. Kanaan dura gaazexeessitooti odeeffannoo dhiyeessu, qaamni hordofummoo odeeffannicha fudhatu. Gaazexeessummaan yeroo ammaa walitti dhufeenyi kan keessa guuteedha. Qaami hordofu gabaasichaaf galtee kennuu fi kallattii qaqqabiinsasaa jijjiiruu danda'a. Dhaabbati oduu baayyeen \"hawaasa-dursuu\" kan jedhuun gabbisuudhaan irra deebi'anii dhaabbatasaanii sirreessaa jiru.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Jijjiiramni kun gaazexeessummaa diimokirata'aa uume: qaammi oduu dhiyeessuu fi qaamni hordofu walitti dhufeenya akka qabaatan godhe. Gaazexeessitooti uummataa oduu dursa uummataatiif ga'ee guddaa taphatu. StoryMaker'iin akka itti meeshaa addaa fayyadamanii fi akka itti qaama hordofuuf odeeffannoo dhimma barbaachisaarratti tamsaasan.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "introduction_to_journalism", 
+    "title": "Seensa Gaazexeessumaa"
+}

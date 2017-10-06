@@ -1,0 +1,81 @@
+{
+    "title": "Gocha Hojii Fiixee Qabadhu", 
+    "storyPathTemplateFiles": {
+        "capture_peak_action_activity": "capture_peak_action_activity.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../3_create_layers/create_layers.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action", 
+            "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action_activity", 
+            "dependencyFile": "capture_peak_action_activity.json"
+        }, 
+        {
+            "dependencyId": "shoot_on_an_angle", 
+            "dependencyFile": "../5_shoot_on_an_angle/shoot_on_an_angle.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "tips": [
+                {
+                    "text": "Qaccee: Yerookee eeggannoodhaan filadhu. Wanta goodaayyaakee keessa seenee suuraakee  burjaajessurraa eeggadhaa.", 
+                    "tags": [
+                        "peak_action"
+                    ]
+                }, 
+                {
+                    "text": "Qaccee: Haala bareedaa kaafadhu, garuu seenaakee wajjin walitti dhufeenya qabaachuusaa sirriitti adda baafadhu.", 
+                    "tags": [
+                        "peak_action"
+                    ]
+                }, 
+                {
+                    "text": "Qaccee: Irra deddeebi'anii kaasuun carraa haala yeroo kofa garagaraatiin kaasuu namaaf kenna.", 
+                    "tags": [
+                        "peak_action"
+                    ]
+                }, 
+                {
+                    "text": "Qaccee: Utuu yeroon eegame hin ga'in isa ittiin kaasan dafii tuqi, kaameeraan akka yerichatti kaasuuf", 
+                    "tags": [
+                        "peak_action"
+                    ]
+                }, 
+                {
+                    "text": "Qaccee: Hojii fiixee kaasuuf jettu, waa'ee yeroo fi bakkaa yaadi.", 
+                    "tags": [
+                        "peak_action"
+                    ]
+                }, 
+                {
+                    "text": "Qaccee: Sochii moobaayiliidhaan kaasuun baayyee cimaa ta'uu danda'a.", 
+                    "tags": [
+                        "peak_action"
+                    ]
+                }
+            ], 
+            "type": "TipCollectionHeadlessCard", 
+            "id": "tip_collection"
+        }, 
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "capture_peak_action_activity"
+        }
+    ], 
+    "currentStoryPathFile": "capture_peak_action_activity.json", 
+    "id": "capture_peak_action_activity"
+}

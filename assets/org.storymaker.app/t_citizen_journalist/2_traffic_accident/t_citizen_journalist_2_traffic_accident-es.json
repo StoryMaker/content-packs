@@ -1,0 +1,96 @@
+{
+    "cards": [
+        {
+            "level": "Principiante |", 
+            "headline": "\u00bfVe un accidente de tr\u00e1fico? \u00a1Informe de ello!", 
+            "time": "10-15 minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Muestre el lugar en el que ocurri\u00f3 el accidente."
+            ], 
+            "clipType": "place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Muestre la acci\u00f3n ocurriendo en torno al accidente."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Muestre un detalle del accidente, cristal roto, una puerta arrancada, etc.", 
+                "Muestre un detalle en corto del accidente, un cristal roto, una puerta arrancada, alguna consecuencia del accidente."
+            ], 
+            "clipType": "signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Muestre a alguien respondiendo al accidente."
+            ], 
+            "clipType": "result", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "text": "A continuaci\u00f3n entreviste a aquellos cercanos. Aseg\u00farese de que usted y la gente en torno a usted, est\u00e1n seguras antes de iniciar esta secci\u00f3n de su historia.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Pregunte - \u00bfC\u00f3mo ve el accidente? \u00bfC\u00f3mo ocurri\u00f3?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Pregunte - \u00bfHan respondido los servicios de emergencia?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "text": "Duplique las cartas de previsualizaci\u00f3n y entreviste a tanta gente como necesite. Trate de hablar con un testigo o alguien de los servicios de emergencia.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": "Grabe m\u00e1s cortes seg\u00fan necesite. Cuando haya terminado, organice sus cortes debajo con el bot\u00f3n Ordenar, y pulse Publicar para subir.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_citizen_journalist_2_traffic_accident", 
+    "title": "\u00bfVe un accidente de tr\u00e1fico?"
+}

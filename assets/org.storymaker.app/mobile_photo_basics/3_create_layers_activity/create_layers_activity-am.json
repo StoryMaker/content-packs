@@ -1,0 +1,79 @@
+{
+    "title": "\u12e8\u120c\u12e8\u122e\u127d \u12a0\u1348\u1323\u1320\u122d \u1218\u120d\u1218\u1303 ", 
+    "storyPathLibraryFile": "create_layers_activity_library.json", 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../3_create_layers/create_layers.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action", 
+            "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "level": "\u1218\u130d\u1262\u12eb |", 
+            "headline": "\u12e8\u120c\u12e8\u122e\u127d \u12a0\u1348\u1323\u1320\u122d | \u1218\u120d\u1218\u1303 ", 
+            "time": "10 Minutes", 
+            "exampleMediaPath": "1.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "\u12c8\u12f0  \u1275\u121d\u1205\u122d\u1271 \u1270\u1218\u1208\u1235", 
+            "link": "create_layers::intro_card_0", 
+            "id": "link_card_0", 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "\u12a0\u1201\u1295 \u1260\u134e\u1276 \u120b\u12ed \u120c\u12e8\u122e\u127d \u12a5\u1295\u12f4\u1275 \u12a5\u1295\u12f0\u121a\u1348\u1320\u1229 \u12e8\u121a\u12eb\u1235\u1270\u121d\u1228\u12cd\u1295 \u12ad\u134d\u1208 \u1275\u121d\u1205\u122d\u1275 \u1235\u120b\u1320\u1293\u1240\u1241 \u12ed\u1205 \u1218\u120d\u1218\u1303 \u12a5\u1295\u12f2\u1208\u121b\u1218\u12f1 \u12ed\u1228\u12f3\u12ce\u1273\u120d\u1362 \u12a0\u1295\u12f0\u129b\u12cd \u12e8\u1273\u122a\u12a9\u1295 \u1263\u1208\u1264\u1275 \u12e8\u121a\u12eb\u1233\u12ed \u12a5\u1293 \u120c\u120b\u129b\u12cd \u12f0\u130d\u121e \u12e8\u1273\u122a\u12a9\u1295 \u12a0\u1308\u1263\u1265 \u12e8\u121a\u12eb\u1233\u12ed \u1201\u1208\u1275 \u12e8\u1270\u1208\u12eb\u12e9 \u120c\u12e8\u122e\u127d \u12eb\u120f\u1278\u12cd \u134e\u1276\u130d\u122b\u134e\u127d\u1295 \u1260\u121b\u1295\u1233\u1275 \u12ed\u1300\u121d\u1229\u1362", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:20", 
+            "goals": [
+                "\u12e8\u1273\u122a\u12a9\u1295 \u1263\u1208\u1264\u1275 \u12c8\u12ed\u121d \u1308\u1338 \u1263\u1205\u122a\u12cd\u1295 \u12a8\u120c\u120b\u12cd \u12e8\u121d\u1235\u1209 \u12ad\u134d\u120d \u1260\u1270\u1208\u12e8 \u120c\u12e8\u122d \u120b\u12ed \u12eb\u1235\u1240\u121d\u1321\u1275\u1362"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "layers"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "\u1240\u1323\u12ed \u1275\u121d\u1205\u122d\u1275", 
+            "link": "capture_peak_action::intro_card_0", 
+            "id": "link_card_1", 
+            "type": "LinkCard"
+        }, 
+        {
+            "text": "\u12e8\u1240\u12f0\u1218 \u1275\u121d\u1205\u122d\u1275 ", 
+            "link": "compose_with_a_grid::intro_card_0", 
+            "id": "link_card_2", 
+            "type": "LinkCard"
+        }
+    ], 
+    "id": "create_layers_activity"
+}

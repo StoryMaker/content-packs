@@ -1,0 +1,73 @@
+{
+    "title": "Gocha Ifaa Hoogganuu", 
+    "storyPathTemplateFiles": {
+        "control_light_activity": "control_light_activity.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "control_light", 
+            "dependencyFile": "../6_control_light/control_light.json"
+        }, 
+        {
+            "dependencyId": "control_light_activity", 
+            "dependencyFile": "control_light_activity.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "tips": [
+                {
+                    "text": "Qaccee: Ifi duubaa akka qaamichi dukkanaa'uu fi akka sirriitti hin mul'anne godha.", 
+                    "tags": [
+                        "light"
+                    ]
+                }, 
+                {
+                    "text": "Qaccee: Ifa xiqqan suuraa gadhee dhiyeessa. Manaa alatti yookaan kutaa ifa aduu qabu keessatti waraabuun ifa gaarii siif kennuu danda'a.", 
+                    "tags": [
+                        "light"
+                    ]
+                }, 
+                {
+                    "text": "Qaccee: Ifi tilmaamaan meetira tokkorraa qaamichatti ifu baayyee gaariidha.", 
+                    "tags": [
+                        "light"
+                    ]
+                }, 
+                {
+                    "text": "Qaccee: Suuraa gaarii kaasuun waa'eedhuma ifaati. Hamma dandeessetti ifa jirutti fayyadami.", 
+                    "tags": [
+                        "light"
+                    ]
+                }, 
+                {
+                    "text": "Qaccee: Yoo taatichi dukkanaa'e bakka ifa ga'aatti deemuu filadhu.", 
+                    "tags": [
+                        "light"
+                    ]
+                }, 
+                {
+                    "text": "Qaccee: Ifa guddaa qaamicha dudduuba jirurraa of eeggadhu.", 
+                    "tags": [
+                        "light"
+                    ]
+                }
+            ], 
+            "type": "TipCollectionHeadlessCard", 
+            "id": "tip_collection"
+        }, 
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "control_light_activity"
+        }
+    ], 
+    "currentStoryPathFile": "control_light_activity.json", 
+    "id": "control_light_activity"
+}

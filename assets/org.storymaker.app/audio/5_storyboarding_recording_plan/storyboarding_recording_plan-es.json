@@ -1,0 +1,220 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "\u00bfCu\u00e1les s\u00f3n los distintos cortes que conforman una historia de audio?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; C\u00f3mo planificar los cortes espec\u00edficos que necesita para elaborar su historia  \n&bull; La distinci\u00f3n entre distintas aproximaciones a partes de su historia  \n&bull; C\u00f3mo pensar acerca de qu\u00e9 audio necesita adem\u00e1s de personas hablando", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Tener un plan organizado es necesario para crear una historia completa de audio. Esquematice y perfile ese narraci\u00f3n a partir de qui\u00e9n va a ser entrevistado, qu\u00e9 preguntas se le har\u00e1n, cu\u00e1ndo deben completarse algunos segmentos, y cualquier otra directriz importante a implementar en la ruta hacia la finalizaci\u00f3n de su historia. ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "### Introducci\u00f3n  \nCualquier historia, incluyendo una historia de audio, necesita un pre\u00e1mbulo. A esto se le llama encabezamiento. Puede atraer la atenci\u00f3n de los oyentes, explicar claramente de qu\u00e9 trata la historia, proporcionar la mayor\u00eda de hechos cruciales, e identificar la fuente de la informaci\u00f3n. Cuanto m\u00e1s atractiva y convincente sea, mayores ser\u00e1n la oportunidades de la gente escuche la historia hasta el final.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "# Presentaci\u00f3n profesional", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "2.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo de una introducci\u00f3n profesional a una historia", 
+            "exampleMediaPath": "2.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Tanto si es su voz o la de alg\u00fan otro, necesita una frase explicativa del asunto, por qu\u00e9 debe ser de inter\u00e9s para la audiencia, y c\u00f3mo este segmento particular va a contar esa historia. Puede que quiera proporcionar algo de trasfondo acerca del asunto o circunstancias relevantes o recientes alredor de este. Puede adelantar lo que ocurrir\u00e1 durante el segmento, mencionando si usar\u00e1 entrevistas o sonidos de un evento.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "# Introducci\u00f3n personal", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "3.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo de una introducci\u00f3n personal a una historia", 
+            "exampleMediaPath": "3.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Algunas introducciones pueden ser m\u00e1s personales, explicando qui\u00e9n est\u00e1 hablando y algo sobre el bagaje de esa persona. La forma m\u00e1s b\u00e1sica de hacer esto, si est\u00e1 haciendo su propia introducci\u00f3n, es saludar a la audiencia, presentarse a si mismo, y contarle a la audiencia el asunto o enfoque que tendr\u00e1 esta historia.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## Introducci\u00f3n personal  \nAntes de que conduzca una entrevista de audio que formar\u00e1 parte de su historia, tenga siempre preguntas preparadas. Estas preguntas no s\u00f3lo le permitir\u00e1n planificar su entrevista, tambi\u00e9n actuar\u00e1n como directrices cuando se olvide de qu\u00e9 quiere preguntar o cuando se d\u00e9 cuenta de que una pregunta previa no est\u00e1 yendo bien y quiera avanzar. Eche un vistazo a estas cuestiones y preg\u00fantese a si mismo si est\u00e1n estructuradas de una forma que pueda gu\u00edar a respuestas detalladas e interesantes en lugar de respuestas de s\u00ed o no, o de una sola palabra, que raramente son de inter\u00e9s para los oyentes.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## Audio adicional", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "4.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo de uso de audio de fondo", 
+            "exampleMediaPath": "4.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Al perfilar c\u00f3mo se contar\u00e1 su historia, adem\u00e1s de considerar las voces a las que quiere escuchar, considere qu\u00e9 sonidos ayudar\u00e1n a su audiencia a visualizar la historia. Probablemente necesite sonidos de fondo para a\u00f1adir color a la historia, alguna voz en off superpuesta. Si es un evento, querr\u00e1 planificar qu\u00e9 sonidos usar\u00e1 de este, c\u00f3mo puede grabarlos o, si ya existen, c\u00f3mo puede conseguirlos. Del mismo modo que presenta a un invitado o a un entrevistado, tambi\u00e9n puede presentar una pieza de audio que ilustre su historia. El audio puede ser equ\u00edvoco, as\u00ed que es \u00fatil tener una voz superpuesta que explique lo que est\u00e1 escuchando, cu\u00e1ndo tuvo lugar, y d\u00f3nde. Puede escoger c\u00f3mo hacer esa explicaci\u00f3n al planificar su historia; quiz\u00e1 quiera primero dejar que la audiencia oiga los sonidos de una protesta o una celebraci\u00f3n y luego explicar lo que acaban de o\u00edr. O puede explicar lo que est\u00e1n a punto de o\u00edr, y luego reproducir el audio.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## Conclusi\u00f3n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "medium": "audio", 
+            "media": [
+                {
+                    "media": "5.mp3", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo de conclusi\u00f3n de una historia", 
+            "exampleMediaPath": "5.mp3", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Su conclusi\u00f3n puede incluir nuevas preguntas para un futuro reportaje o historia. Recuerde brevemente a la audiencia qu\u00e9 es lo que tuvo lugar y algunos de los puntos m\u00e1s memorables de toda la historia. Si va a haber una secuela, la conclusi\u00f3n tambi\u00e9n puede hacer referencia a la continuaci\u00f3n o futuro reportaje de audio que est\u00e1 por venir en base a los asuntos surgidos de este segmento en particular.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Comience con una introducci\u00f3n que explique el asunto, y por qu\u00e9 el tema es relevante para la audiencia.  \n&bull; Decida qu\u00e9 audio adicional le ayudar\u00e1 a contar su historia, y anote como presentar o explicar el audio durante el segmento.  \n&bull; Finalice con una conclusi\u00f3n fuerte, resumiendo los puntos clave as\u00ed como futuras preguntas o historias de audio que podr\u00edan seguir a esta.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Una buena introducci\u00f3n debe incluir", 
+            "choices": [
+                {
+                    "text": "Introducci\u00f3n del narrador.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Una previsualizaci\u00f3n de cu\u00e1l es el asunto y qui\u00e9n figurar\u00e1.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Una explicaci\u00f3n de todo lo que se aprender\u00e1 en este programa.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Un grito hacia sus fans.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfPuede compartir sus preguntas con un entrevistado antes de la entrevista?", 
+            "choices": [
+                {
+                    "text": "Siempre.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Nunca.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Es su elecci\u00f3n.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todo lo anterior.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfCu\u00e1l NO es un ejemplo de audio adicional que puede ayudar a ilustrar su historia?", 
+            "choices": [
+                {
+                    "text": "Los sonidos de los manifestantes para un historia acerca de una protesta.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "M\u00fasica alta para una historia acerca de un viejo almacen de libros.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Un discurso de un pol\u00edtico para una historia acerca de un mit\u00edn.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "storyboarding_recording_plan", 
+    "title": "Realizar un storyboard del plan de grabaci\u00f3n"
+}

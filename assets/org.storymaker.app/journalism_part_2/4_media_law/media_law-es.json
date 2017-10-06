@@ -1,0 +1,112 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Las leyes de medios de comunicaci\u00f3n se revisan regularmente para silenciar a periodistas. \u00bfC\u00f3mo debo afrontar el contin\u00fao cambio de las leyes de medios?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; Qu\u00e9 aspecto tiene un c\u00f3digo de principios \u00e9ticos\n&bull; Qu\u00e9 es la auto-censura\n&bull; Consejos para protegerse a si mismo como periodista", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Los periodistas de cualquier lugar trabajan con al menos un peque\u00f1o grado de restricciones legales acerca de lo que pueden producir. Lo m\u00e1s com\u00fan es que estas sean asuntos de seguridad nacional, informaci\u00f3n considerada obscena, y lenguaje que podr\u00eda incitar a la violencia o poner a las personas en peligro.\nEn pa\u00edses con leyes de medios de comunicaci\u00f3n bien-desarrolladas, la cr\u00edtica al gobierno y la presentaci\u00f3n de ideas impopulares est\u00e1 permitida. Est\u00e1 garantizado alg\u00fan grado de acceso p\u00fablico a los registros gubernamentales.\nPero algunos gobiernos son m\u00e1s restrictivos. Las leyes de medios de comunicaci\u00f3n limitan a los medios en general, y el acceso a Internet en particular. Las organizaciones de apoyo como el Committee to Protect Journalists (comite para la protecci\u00f3n de periodistas) est\u00e1n preocupados de que el lenguaje vago en que est\u00e1n escritas estas leyes emergentes ser\u00e1 usado contra los periodistas.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "# \u00bfQu\u00e9 deber\u00eda hacer para protegerse de la aplicaci\u00f3n excesivamente restrictiva de las leyes sobre medios de comunicaci\u00f3n?", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "### Conozca la ley\n![Conozca la ley](2.png)  \nComprenda la ley en el pa\u00eds o regi\u00f3n donde trabaje. S\u00f3lo porque existan leyes que protegen a los periodistas no significa que el gobierno, el l\u00edder local y las fuerzas de seguridad vayan a obedecer las leyes. Sin embargo, entender la ley puede ser el primer paso hacia mejorarla.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "### Adhi\u00e9rase a c\u00f3digos profesionales de conducta\n![Adhi\u00e9rase a c\u00f3digos profesionales de conducta](3.png)  \nEn esta lecci\u00f3n sobre principios \u00e9ticos hay un c\u00f3digo profesional de conducta para periodistas. Incluso en pa\u00edses donde las leyes de medios de comunicaci\u00f3n son muy restrictivas, observar los principios descritos puede ayudarle a evitar acusaciones de libelo o traici\u00f3n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "### Abogar por el cambio\n![Abogar por el cambio](4.png)  \nUna de las caracter\u00edsticas del avance de los medios de comunicaci\u00f3n por todo el globo es el amalgamiento de los medios con el respaldo de si mismos. Los periodistas ciudadanos est\u00e1n atravesando barreras en c\u00f3mo se define el periodismo al mismo tiempo que est\u00e1n cubriendo historias. Ponga en com\u00fan recursos con otros para crear una base de datos de conocimiento. Busque el apoyo de organizaciones legales dentro de su pa\u00eds. Busque el apoyo e informaci\u00f3n de organizaciones internacionales tales como el Committee to Project Journalists (comite para la protecci\u00f3n de periodistas).", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "### Tenga en cuenta la auto-censura  \nIncluso en muchos pa\u00edses con leyes bastante liberales, la auto-censura es un problema entre los periodistas. Algunos periodistas no est\u00e1n c\u00f3modos cubriendo asuntos culturales altamente controvertidos, como los derechos de la mujer o disputas tribales. Algunos periodistas son remisos a cubrir asuntos que sean un desdoro para la imagen nacional, como el extendido abuso del alcohol o la corrupci\u00f3n dentro de instituciones populares. Pero si estos asuntos han tenido relevancia para el inter\u00e9s p\u00fablico, la gente necesita saberlo y es su trabajo cont\u00e1rselo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "### Prot\u00e9jase a si mismo (y a sus fuentes)\n![Protejase a si mismo](5.png)\nEste asunto es abordado m\u00e1s integralmente en las lecciones de seguridad digital. Brevemente, para cualquier periodista que trabaje bajo condiciones de inseguridad, la comprensi\u00f3n de la ley, conocer c\u00f3mo las autoridades pueden ignorar o abusar de las leyes e identificarle en l\u00ednea, y ser proactivo, es todo ello esencial. Si es arrestado, perseguido o acosado, contacte con organizaciones nacionales e internacionales que dan apoyo a periodistas.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Las leyes de medios de comunicaci\u00f3n se desarrollar\u00e1n de modo distinto en diferentes regiones y pa\u00edses.  \n&bull; Construya una comunidad de periodistas y trabaje para abogar por la comunidad.  \n&bull; Sea consciente de la auto-censura entre los periodistas.  \n&bull; Adhi\u00e9rase a un c\u00f3digo profesional de conducta.  \n&bull; Invierta en su propia seguridad digital.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Incluso si las leyes de medios de comunicaci\u00f3n no son claras y las autoridades las aplican injustamente en la ciudad o regi\u00f3n donde trabaja, \u00bfcu\u00e1l de las siguientes puede ayudar a que los periodistas ciudadanos se protejan a si mismos?", 
+            "choices": [
+                {
+                    "text": "Estar familiarizado con las leyes que hay en los libros.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Abogar por una mejor ley de medios de comunicaci\u00f3n", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Adherirse a un c\u00f3digo de \u00e9tica profesional.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todo lo anterior.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Verdadero o Falso. La auto-censura puede ser un problema para muchos periodistas incluso si la censura del gobierno no lo es. Los buenos periodistas necesitan estar determinados a dar una cobertura justa para ideas con las cuales no est\u00e1n de acuerdo, para temas impopulares que sean relevantes para el inter\u00e9s p\u00fablico, y para contenidos problem\u00e1ticos que sean culturalmente inc\u00f3modos pero importantes.", 
+            "choices": [
+                {
+                    "text": "Verdadero", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falso", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "media_law", 
+    "title": "Ley de medios de comunicaci\u00f3n"
+}

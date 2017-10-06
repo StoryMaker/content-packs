@@ -1,0 +1,14 @@
+{
+    "t_video_highlights::clip_card_0::goals[0]": "Présente le lieu ou la communauté dont l'histoire est à propos.",
+    "t_video_highlights::title": "Vidéo mise en avant",
+    "t_video_highlights::ms_moreinfo::text": "A propos de ce modèle",
+    "t_video_highlights::clip_card_1::goals[0]": "Présente le ou les personnages principaux de votre histoire.",
+    "t_video_highlights::text_card_0::text": "Ce modèle vous aidera à enregistrer les meilleurs moments de votre histoire. Les histoires mises en avant sont construites moins pour illustrer un scénario précis que pour montrer les moments de pointe ou les plus dramatiques du sujet. En vidéo, les histoires mises en avant sont typiquement emmenées par la narration.",
+    "t_video_highlights::clip_card_6::goals[0]": "Demande à un autre personnage approprié de parler de l'histoire.",
+    "t_video_highlights::clip_card_2::goals[0]": "Présente quelque chose qui résume l'importance de l'histoire",
+    "t_video_highlights::clip_card_5::goals[0]": "Présente le personnage qui exerce une activité liée à l'histoire.",
+    "t_video_highlights::clip_card_7::goals[0]": "Présente quelque chose qui résume ou conclue l'histoire.",
+    "t_video_highlights::ms_moreinfo::header": "Suivant",
+    "t_video_highlights::clip_card_4::goals[0]": "Demande à un personnage approprié de parler de l'histoire",
+    "t_video_highlights::clip_card_3::goals[0]": "Présente le ou les personnages qui exerce(ent) une activité liée à l'histoire."
+}

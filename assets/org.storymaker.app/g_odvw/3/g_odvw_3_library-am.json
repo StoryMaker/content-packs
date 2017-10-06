@@ -1,0 +1,23 @@
+{
+    "title": "\u1260\u1275\u1228\u12ab \u1218\u120d\u12a9 \u12e8\u1270\u12d8\u130b\u1300 \u1273\u122a\u12ad \u134d\u1320\u122d", 
+    "storyPathTemplateFiles": {
+        "g_odvw_3": "g_odvw_3.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "g_odvw_3", 
+            "dependencyFile": "g_odvw_3.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "g_odvw_3"
+        }
+    ], 
+    "currentStoryPathFile": "g_odvw_3.json", 
+    "id": "g_odvw_3_library"
+}

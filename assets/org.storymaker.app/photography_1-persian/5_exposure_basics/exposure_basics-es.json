@@ -1,0 +1,172 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "\u00bfPor qu\u00e9 mis im\u00e1genes est\u00e1n sobreexpuestas (demasiado claras) o infraexpuestas (demasiado oscuras), y c\u00f3mo lo arreglo?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; C\u00f3mo mide la luz su c\u00e1mara.  \n&bull; C\u00f3mo diagnosticar problemas comunes como luz baja o contraluz.  \n&bull; C\u00f3mo funciona la compensaci\u00f3n de exposici\u00f3n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Dentro de cada c\u00e1mara de m\u00f3vil hay un lux\u00f3metro. Este medidor toma una lectura de la intensidad lum\u00ednica en el momento previo a tomar una fotograf\u00eda, y le dice a la c\u00e1mara c\u00f3mo establercer la ISO, la apertura, y el obturador (vea la secci\u00f3n de fundamentos de la c\u00e1mara). Con c\u00e1maras compactas y r\u00e9flex digitales (DSLR) este medidor es m\u00e1s sofisticado, y depende del fot\u00f3grafo por completo, o en parte, establecer la exposici\u00f3n en base a la lectura de intensidad lum\u00ednica.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Ejemplo de problemas comunes con la medici\u00f3n de la intensidad lum\u00ednica](2.jpg)  \n### Ejemplo de problemas comunes con la medici\u00f3n de la intensidad lum\u00ednica  \nEstos medidores se confunden f\u00e1cilmente. Toman una lectura general de la intensidad lum\u00ednica que incide en la lente y calculan una media para establecer la exposici\u00f3n. La c\u00e1mara tendr\u00e1 dificultades estimando la exposici\u00f3n si hay mucha variaci\u00f3n en la luz disponible \u2014 las c\u00e1maras de m\u00f3viles no logran una buena exposici\u00f3n para im\u00e1genes con mucha variaci\u00f3n entre reflejos y sombras. \nLa luz insuficiente es el problema m\u00e1s com\u00fan con el que se enfrentan los fot\u00f3grafos. Una c\u00e1mara es un pobre dispositivo colector de luz en comparaci\u00f3n con el ojo humano. Uno de los mayores retos que los fot\u00f3grafos tienen al disparar con luz baja es reconocer el problema y resolverlo met\u00f3dicamente, en lugar de tomar un mont\u00f3n de im\u00e1genes y esperar a que alguna salga bien.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![Ejemplo de una foto tomada con una c\u00e1mara de tel\u00e9fono](3.jpg)  \n### Ejemplo de una foto tomada con una c\u00e1mara de tel\u00e9fono \n![Ejemplo de una foto tomada con una c\u00e1mara compacta](4.jpg)  \n### Ejemplo de una foto tomada con una c\u00e1mara compacta  \n![Ejemplo de una foto tomada con una c\u00e1mara r\u00e9flex digital DSLR](5.jpg)  \n### Ejemplo de una foto tomada con una c\u00e1mara r\u00e9flex digital DSLR  \n\nEn situaciones de luz baja, no hay suficiente luz incidiendo sobre el sensor para exponerlo apropiadamente. Los smartphones tienen lentes m\u00e1s peque\u00f1as y por tanto aperturas m\u00e1ximas mucho m\u00e1s peque\u00f1as (vea la secci\u00f3n de fundamentos de la c\u00e1mara) que las c\u00e1maras profesionales. A causa de que las aperturas son demasiado peque\u00f1as, no permiten que entre tanta luz como las c\u00e1maras m\u00e1s grandes, con lentes mayores, que operan con la misma velocidad de obturador.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Other exposure problems may arise when shooting in low-light conditions because the camera tries to make the scene appear lighter than it actually is.  \n![Example of a backlit photo.](6.jpg)  \n### Example of a backlit photo.\n![Example of light bouncing off a highly reflective surface.](7.jpg)  \n### Example of light bouncing off a highly reflective surface.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "Un problema com\u00fan es el contraluz. Cuando est\u00e1 fotografiando un elemento en relativa sombra con luz brillante o luz solar detr\u00e1s de \u00e9l. Esto puede enga\u00f1ar al medidor, y el elemento aparecer\u00e1 silueteado\nOtro problema com\u00fan es la luz rebotando en superficies altamente reflectantes, tales como lienzos de tela blanca, nieve, o arena. \n![Ejemplo de una foto sobreexpuesta.](8.jpg)  \n### Ejemplo de una foto sobreexpuesta.  \n![Ejemplo de c\u00f3mo exponer adecuadamente un \u00e1rea oscura con un smartphone.](9.jpg)  \n### Ejemplo de c\u00f3mo exponer adecuadamente un \u00e1rea oscura con un smartphone.  \nMuchas c\u00e1maras de smartphone permiten al fot\u00f3grafo pulsar sobre un punto de la pantalla para decirle a la c\u00e1mara d\u00f3nde dibujar su valor de exposici\u00f3n. Algunos dispositivos tambi\u00e9n le permitir\u00e1n apuntar la c\u00e1mara hacia un \u00e1rea sombreada en el encuadre, pulsar la pantalla y reencuadrar la toma.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![Ejemplo de c\u00f3mo ajustar adecuadamente la exposici\u00f3n de una foto utilizando la compensaci\u00f3n de la exposici\u00f3n](10.jpg)  \nAlgunas c\u00e1maras de smartphone y aplicaciones de fotograf\u00eda le permitir\u00e1n ajustar la exposici\u00f3n usando una caracter\u00edstica llamada \"compensaci\u00f3n de la exposici\u00f3n\". Puede decirle a la c\u00e1mara que ajuste la exposici\u00f3n cuantificada para sobreexponer o infraexponer la imagen antes de tomar la foto. Esto puede ayudar a compensar \u00e1reas con reflejos o sombras excesivas en el encuadre. \nLas im\u00e1genes que est\u00e1n ligeramente sobreexpuestas o infraexpuestas, a veces pueden arreglarse en post-producci\u00f3n con las aplicaciones de software de fotograf\u00eda integradas, o con aplicaciones como Adobe Photoshop Express. Este \u00faltimo le permite manejar la exposici\u00f3n de su fotograf\u00eda. Puede pulsar sobre la cara de una persona en su foto, y la c\u00e1mara recalibrar\u00e1 la exposici\u00f3n para esa cara.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Es esencial que sus im\u00e1genes consigan una exposici\u00f3n correcta.  \n&bull; Las c\u00e1maras de smartphone a menudo luchan por tomar im\u00e1genes con la exposici\u00f3n correcta bajo duras condiciones de iluminaci\u00f3n. \n&bull; Gestionar la exposici\u00f3n dentro del rango del que es capaz la c\u00e1mara puede ayudar mucho.  \n&bull; Tome siempre una pocas im\u00e1genes de prueba para comprobar la exposici\u00f3n, y realizar ajustes si fuera necesario.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "\u00bfQu\u00e9 tres cosas controlan la exposici\u00f3n?", 
+            "choices": [
+                {
+                    "text": "ISO", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Apertura", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Configuraci\u00f3n del zoom", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Obturador", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Verdadero o falso: El obturador controla la cantidad de tiempo que el sensor est\u00e1 expuesto a la luz.", 
+            "choices": [
+                {
+                    "text": "Verdadero", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falso", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Al tomar una foto con smartphone, si la imagen est\u00e1 sobreexpuesta \u00bfcu\u00e1les de las siguientes cosas puede hacer?:", 
+            "choices": [
+                {
+                    "text": "Ninguna. Los smartphones no ofrecen control manual de exposici\u00f3n.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Muchas c\u00e1maras de smartphone ahora le permiten seleccionar el \u00e1rea del cuadro a considerar como adecuadamente expuesta, pulsando sobre ella. La c\u00e1mara recalibrar\u00e1 la exposici\u00f3n de la imagen bas\u00e1ndose en el punto que seleccione.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Configure el smartphone en modo de c\u00e1mara manual.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Ninguna de las anteriores.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "text": "![](11.jpg)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfC\u00f3mo podr\u00eda corregir la exposici\u00f3n en la imagen de ejemplo de arriba?", 
+            "choices": [
+                {
+                    "text": "Incrementar la ISO.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Ajuste ligeramente la exposici\u00f3n en la post-producci\u00f3n.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Ensanchar la apertura (si es posible).", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Disminuya la velocidad del obturador teniendo cuidado de no ralentizarlo tanto que la imagen se vuelva borrosa.", 
+                    "id": "answer_4"
+                }, 
+                {
+                    "text": "Todo lo anterior.", 
+                    "id": "answer_5"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_5"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "exposure_basics", 
+    "title": "Fundamentos de la exposici\u00f3n"
+}

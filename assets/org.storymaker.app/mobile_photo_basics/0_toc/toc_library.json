@@ -1,0 +1,67 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "toc.json"
+        }, 
+        {
+            "dependencyId": "know_your_mobile", 
+            "dependencyFile": "../1_know_your_mobile/know_your_mobile.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid_activity", 
+            "dependencyFile": "../2_compose_with_a_grid_activity/compose_with_a_grid_activity.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../3_create_layers/create_layers.json"
+        }, 
+        {
+            "dependencyId": "create_layers_activity", 
+            "dependencyFile": "../3_create_layers/create_layers_activity.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action", 
+            "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action_activity", 
+            "dependencyFile": "../4_capture_peak_action/capture_peak_action_activity.json"
+        }, 
+        {
+            "dependencyId": "shoot_on_an_angle", 
+            "dependencyFile": "../5_shoot_on_an_angle/shoot_on_an_angle.json"
+        }, 
+        {
+            "dependencyId": "shoot_on_an_angle_activity", 
+            "dependencyFile": "../5_shoot_on_an_angle/shoot_on_an_angle_activity.json"
+        }, 
+        {
+            "dependencyId": "control_light", 
+            "dependencyFile": "../6_control_light/control_light.json"
+        }, 
+        {
+            "dependencyId": "control_light_activity", 
+            "dependencyFile": "../6_control_light/control_light_activity.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Know Your Mobile", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "toc"
+        }
+    ], 
+    "currentStoryPathFile": "toc.json", 
+    "storyPathTemplateFiles": {
+        "toc": "toc.json"
+    }, 
+    "id": "toc"
+}

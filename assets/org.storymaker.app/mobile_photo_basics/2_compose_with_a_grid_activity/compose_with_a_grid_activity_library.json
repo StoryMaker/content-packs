@@ -1,0 +1,67 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../3_create_layers/create_layers.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Compose with a Grid Activity", 
+    "cards": [
+        {
+            "tips": [
+                {
+                    "text": "Tip: Allow important subjects to complete inside the frame.", 
+                    "tags": [
+                        "grid"
+                    ]
+                }, 
+                {
+                    "text": "Tip: Do not cut hands or faces with the edge of the frame, if possible.", 
+                    "tags": [
+                        "grid"
+                    ]
+                }, 
+                {
+                    "text": "Tip: Use the whole frame to tell your story. Not just the center.", 
+                    "tags": [
+                        "grid"
+                    ]
+                }, 
+                {
+                    "text": "Tip: The horizon can be place on the top or bottom horizontal gridline.", 
+                    "tags": [
+                        "grid"
+                    ]
+                }, 
+                {
+                    "text": "Tip: Don't crop too tightly, get close, but capture the whole subject.", 
+                    "tags": [
+                        "grid"
+                    ]
+                }
+            ], 
+            "type": "TipCollectionHeadlessCard", 
+            "id": "tip_collection"
+        }, 
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "compose_with_a_grid_activity"
+        }
+    ], 
+    "currentStoryPathFile": "compose_with_a_grid_activity.json", 
+    "storyPathTemplateFiles": {
+        "compose_with_a_grid_activity": "compose_with_a_grid_activity.json"
+    }, 
+    "id": "compose_with_a_grid_activity"
+}

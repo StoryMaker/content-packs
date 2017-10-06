@@ -1,0 +1,26 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-ethiopia/1_evolution_of_a_story/evolution_of_a_story_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-ethiopia/cover.png", 
+    "language": "fr", 
+    "title": "Evolution d'une histoire"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-ethiopia/2_introduction_to_ethics_and_professional_standards/introduction_to_ethics_and_professional_standards_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-ethiopia/cover.png", 
+    "language": "fr", 
+    "title": "Introduction aux normes d'\u00e9thique et professionnels"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-ethiopia/3_using_text/using_text_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-ethiopia/cover.png", 
+    "language": "fr", 
+    "title": "Utiliser le texte"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/journalism_part_2-ethiopia/4_media_law/media_law_library.json", 
+    "thumbnailPath": "org.storymaker.app/journalism_part_2-ethiopia/cover.png", 
+    "language": "fr", 
+    "title": "Loi de M\u00e9dia"
+  }
+]

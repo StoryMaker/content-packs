@@ -1,0 +1,32 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/g_odvw/0/g_odvw_0_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
+    "language": "am", 
+    "title": "\u121d\u1295 \u12a5\u121b\u122b\u1208\u1201 \u1265\u1208\u12cd \u1270\u1235\u134b \u12eb\u12f0\u122d\u130b\u1209? "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/g_odvw/1/g_odvw_1_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
+    "language": "am", 
+    "title": "\u1208\u1313\u12f0\u129b\u12ce \u1243\u1208 \u1218\u1320\u12ed\u1245 \u12eb\u12f5\u122d\u1309\u120b\u1278\u12cd\u1362"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/g_odvw/2/g_odvw_2_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
+    "language": "am", 
+    "title": "\u12e8\u1202\u12f0\u1275 \u1273\u122a\u12ad \u1245\u1228\u133d\u1362"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/g_odvw/3/g_odvw_3_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
+    "language": "am", 
+    "title": "\u1260\u1275\u1228\u12ab \u1218\u120d\u12a9 \u12e8\u1270\u12d8\u130b\u1300 \u1273\u122a\u12ad \u134d\u1320\u122d"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/g_odvw/4/g_odvw_4_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
+    "language": "am", 
+    "title": "\u12e8\u1270\u121b\u1229\u1275 \u12a5\u1305\u130d \u12a0\u1235\u1348\u120b\u130a \u1290\u1308\u122d \u121d\u1295\u12f5\u1295 \u1290\u12cd?"
+  }
+]

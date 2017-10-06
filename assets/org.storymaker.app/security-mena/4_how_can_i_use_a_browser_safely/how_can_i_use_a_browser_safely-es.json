@@ -1,0 +1,184 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "\u00bfC\u00f3mo puedo usar un navegador de forma segura?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; C\u00f3mo funcionan los proveedores de servicios de Internet (ISPs)\n&bull; C\u00f3mo se monitorizan sus h\u00e1bitos de navegaci\u00f3n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Si alguien quiere pinchar su llamada de tel\u00e9fono, necesita acceso f\u00edsico a la l\u00ednea de tel\u00e9fono o un contacto en la centralita telef\u00f3nica que proporciona acceso a su l\u00ednea. En Internet es posible, bien interceptar la l\u00ednea que le conecta a Internet, o persuadir al proveedor de servicios de Internet (ISP) para que haga eso mismo. Toda la actividad de Internet originada en su computadora puede registrarse o incluso ser controlada por el mecanismo de vigilancia.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "# C\u00f3mo se le monitoriza", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![C\u00f3mo funciona un ISP](2.png)  \n### C\u00f3mo funciona un ISP  \nInterceptar una llamada de tel\u00e9fono o una l\u00ednea de Internet puede requerir destrezas espec\u00edficas y acciones clandestinas; influenciar al ISP es lo m\u00e1s simple. Muchos pa\u00edses s\u00f3lo tienen un ISP, y habitualmente est\u00e1 bajo el control del Gobierno.\nTodos los pa\u00edses tienen acceso a una pasarela hacia Internet. Esta pasarela puede abrirse o cerrarse para controlar el acceso hacia y desde el pa\u00eds especificado. Todo el tr\u00e1fico de Internet pasa a trav\u00e9s de la pasarela (gateway) nacional, y uno puede asumir que tener control sobre la pasarela del pa\u00eds significa acceder a todo el tr\u00e1fico de Internet en relaci\u00f3n al pa\u00eds.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![C\u00f3mo se almacenan las cookies en una computadora](3.png)  \n### C\u00f3mo se almacenan las cookies en una computadora  \nLos registros de su actividad en Internet se almacenan en sitios web que visita y en su computadora personal o dispositivo m\u00f3vil. Muchos sitios web requieren la instalaci\u00f3n de una \u201ccookie\u201d. Una cookie es un fichero que almacena informaci\u00f3n espec\u00edfica acerca del usuario. Por ejemplo, podr\u00eda registrar su pa\u00eds de residencia para presentar una p\u00e1gina relevante espec\u00edfica para el pa\u00eds al visitar un sitio web concreto. Otra informaci\u00f3n podr\u00eda incluir los enlaces que sigui\u00f3 para llegar al sitio web, o los datos personales acerca de usted de su propia computadora.\nDespu\u00e9s de navegar por Internet durante un mes, podr\u00eda tener cientos de cookies distintas en su computadora. Acceder a ellas puede revelar informaci\u00f3n acerca de sus intereses y afiliaciones. Una cookie en su computadora puede ser prueba de su visita a un sitio web concreto.  \nEs posible borrar las cookies de su computadora. Esto se puede hacer desde su navegador de Internet, o busc\u00e1ndolas y borr\u00e1ndolas manualmente. Tambi\u00e9n es posible decirle a su navegador que no acepte cookies; esto podr\u00eda resultar en que muchos sitios web rehusen abrirse en su computadora, pero le proporcionar\u00e1 la m\u00e1xima protecci\u00f3n frente a la infiltraci\u00f3n de cookies.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "# Historial de navegaci\u00f3n  \nSu navegador almacenar\u00e1 su historial por defecto. Si est\u00e1 navegando entre asuntos sensibles, apague el almacenamiento en cach\u00e9 del historial de navegaci\u00f3n y borre su historial. \nConsidere la navegaci\u00f3n mediante la caracter\u00edstica de \u201cpesta\u00f1a inc\u00f3gnito\u201d del navegador Chrome, o la \u201cnavegaci\u00f3n privada\u201d en Firefox.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![C\u00f3mo funcionan HTTP y HTTPS](4.png)  \n### C\u00f3mo funcionan HTTP y HTTPS  \nEliminar su historial es s\u00f3lo el primer paso para navegar de forma m\u00e1s segura. La mayor\u00eda de los sitios en la web pueden ser accedidos usando el protocolo HTTP no cifrado. HTTP es vulnerable a las escuchas, e incluso a intermediarios que podr\u00edan modificar las p\u00e1ginas que un navegador est\u00e1 descargando.  \nHTTPS es una alternativa m\u00e1s segura a HTTP. HTTPS cifra las p\u00e1ginas y trata de asegurar tres cosas: 1) que terceras partes no puedan ver los contenidos de la p\u00e1gina, 2) que la p\u00e1gina no pueda ser modificada por terceros, y 3) que la p\u00e1gina fue enviada realmente por el servidor web listado en la barra de URL.  \nDesafortunadamente, un servidor web tiene que estar configurado adecuadamente para soportar HTTPS antes de que pueda usarlo. Si hay un sitio hacia el que estuviera planeando enviar informaci\u00f3n sensible, aseg\u00farese de que est\u00e1 usando HTTPS. Si un sitio no soporta HTTPS, no env\u00ede informaci\u00f3n sensible hacia \u00e9l.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![Algunas notas sobre el uso de HTTPS](5.png)  \n### Algunas notas sobre el uso de HTTPS  \nCompruebe tres indicadores para asegurarse de que est\u00e1 en una p\u00e1gina HTTPS: 1) que la URL comience por https://, 2) que haya un icono de candado en la esquina del navegador o bien en la barra de direcciones justo antes de la URL, y 3) la barra de URL/direcciones est\u00e1 coloreada.\nSi recibe una advertencia acerca de certificados o ve un icono con un candado roto, deber\u00eda asumir que cualquiera de los mecanismos de seguridad de la p\u00e1gina podr\u00eda estar estropeado. Contacte con el administrador del sitio web y logre que repare el problema antes de enviar cualquier informaci\u00f3n sensible al sitio.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "![Redes de anonimato](6.png)  \n### Redes de anonimato\nLas redes de anonimato se usan para eludir el bloqueo de sitios web por parte de su ISP o gobierno. Le posibilitan navegar con un nivel de privacidad y anonimato que HTTPS por si s\u00f3lo no proporciona.  \nImagine que env\u00eda una carta a un amigo y la empaqueta consecutivamente en varios sobres, escribiendo diferentes direcciones en cada uno. La carta circular\u00e1 por estas direcciones en un orden secreto. Ninguno de los receptores conocer\u00e1 su origen o destino final, sino s\u00f3lo la direcci\u00f3n previa de la que vino y la siguiente a la que ir\u00e1.  \nLa red TOR es un sistema similar. Anonimizar\u00e1 su presencia en l\u00ednea y las peticiones de navegaci\u00f3n. Los agentes de vigilancia en su ISP o en una pasarela (gateway) nacional no conocer\u00e1n el destino final de su petici\u00f3n de navegaci\u00f3n, y el sitio web que visite no sabr\u00e1 de d\u00f3nde vino su petici\u00f3n.  \nTOR ahora puede implementarse mediante dispositivos m\u00f3viles basados en Android. Orbot y Orweb son dos aplicaciones que funcionan juntas para proporcionar una experiencia de navegaci\u00f3n an\u00f3nima.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Use HTTPS siempre que sea posible.  \n&bull; Si est\u00e1 preocupado por que su navegaci\u00f3n est\u00e9 siendo monitorizada, use una red de anonimato, como TOR.  \n&bull; Apague las cookies.  \n&bull; Apague su historial de navegaci\u00f3n.  \n&bull; Su historial de navegaci\u00f3n nunca es 100 por cien seguro; si la informaci\u00f3n supone una amenaza para la vida de alguien, no la transmita mediante el navegador.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "\u00bfC\u00f3mo me pone en riesgo navegar?", 
+            "choices": [
+                {
+                    "text": "Por defecto, mi ISP puede tener un registro de toda mi navegaci\u00f3n.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Internet es un lugar temible.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Los navegadores conservan un historial de forma predeterminada.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Mi historial de navegaci\u00f3n puede ser accesible por el gobierno.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "\u00bfQu\u00e9 pasos puedo tomar para navegar con m\u00e1s seguridad?", 
+            "choices": [
+                {
+                    "text": "Apagando el almacenamiento en cach\u00e9 del \u201chistorial\u201d.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Limpiando su \u201chistorial\u201d.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Usando la caracter\u00edstica de \u201cpesta\u00f1a inc\u00f3gnito\u201d en el navegador Chrome, o la \u201cnavegaci\u00f3n privada\u201d en Firefox.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Apague la computadora cuando finalice la navegaci\u00f3n.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "\u00bfCu\u00e1l es el prop\u00f3sito de una red de anonimato?", 
+            "choices": [
+                {
+                    "text": "Para evitar que mi tr\u00e1fico sea monitorizado.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Para ver sitios web bloqueados.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Para prevenir que los sitios web rastreen mis h\u00e1bitos de navegaci\u00f3n.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Para involucrarme en actividades criminales.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfC\u00f3mo sabe que su navegador est\u00e1 conectando v\u00eda HTTPS?", 
+            "choices": [
+                {
+                    "text": "Yo escribo HTTPS antes de cualquier URL de sitio web.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Aparece un candado bien en la esquina del navegador o bien en la barra de direcciones junto a la URL del sitio web.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Conectar siempre mediante HTTPS.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todo lo anterior.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "how_can_i_use_a_browser_safely", 
+    "title": "C\u00f3mo puedo usar un navegador con seguridad"
+}

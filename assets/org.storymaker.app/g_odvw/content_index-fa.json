@@ -1,0 +1,32 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/g_odvw/0/g_odvw_0_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
+    "language": "fa", 
+    "title": "\u0627\u0646\u062a\u0638\u0627\u0631 \u062f\u0627\u0631\u06cc\u062f \u0686\u0647 \u0686\u06cc\u0632\u06cc \u06cc\u0627\u062f \u0628\u06af\u06cc\u0631\u06cc\u062f\u061f"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/g_odvw/1/g_odvw_1_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
+    "language": "fa", 
+    "title": "Interview your partner."
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/g_odvw/2/g_odvw_2_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
+    "language": "fa", 
+    "title": "Shoot a Process Story."
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/g_odvw/3/g_odvw_3_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
+    "language": "fa", 
+    "title": "Create a Story with Narration."
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/g_odvw/4/g_odvw_4_library.json", 
+    "thumbnailPath": "org.storymaker.app/g_odvw/cover.png", 
+    "language": "fa", 
+    "title": "What\u2019s the most important thing you learned?"
+  }
+]

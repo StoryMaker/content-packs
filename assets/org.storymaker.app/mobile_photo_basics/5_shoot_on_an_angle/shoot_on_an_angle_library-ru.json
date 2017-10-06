@@ -1,0 +1,39 @@
+{
+    "title": "\u0420\u0430\u043a\u0443\u0440\u0441 \u0441\u044a\u0435\u043c\u043a\u0438", 
+    "storyPathTemplateFiles": {
+        "shoot_on_an_angle": "shoot_on_an_angle.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action", 
+            "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
+        }, 
+        {
+            "dependencyId": "shoot_on_an_angle", 
+            "dependencyFile": "shoot_on_an_angle.json"
+        }, 
+        {
+            "dependencyId": "shoot_on_an_angle_activity", 
+            "dependencyFile": "../5_shoot_on_an_angle/shoot_on_an_angle_activity.json"
+        }, 
+        {
+            "dependencyId": "control_light", 
+            "dependencyFile": "../6_control_light/control_light.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "shoot_on_an_angle"
+        }
+    ], 
+    "currentStoryPathFile": "shoot_on_an_angle.json", 
+    "id": "shoot_on_an_angle"
+}

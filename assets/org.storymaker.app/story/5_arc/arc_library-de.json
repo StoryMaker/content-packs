@@ -1,0 +1,23 @@
+{
+    "title": "Bogen", 
+    "storyPathTemplateFiles": {
+        "arc": "arc.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "arc", 
+            "dependencyFile": "arc.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "arc"
+        }
+    ], 
+    "currentStoryPathFile": "arc.json", 
+    "id": "arc"
+}

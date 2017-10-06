@@ -1,0 +1,27 @@
+{
+    "cards": [
+        {
+            "text": "![](1.png)  \n# INTRODUCCI\u00d3N A LA FOTOGRAF\u00cdA  \nLa fotograf\u00eda es una herramienta muy potente para la narraci\u00f3n. Una \u00fanica, y buena fotograf\u00eda de noticias o colecci\u00f3n de fotos puede trascender el idioma y cruzar las fronteras de las diferencias culturales para entregar un fuerte mensaje. Las mejores fotos hacen m\u00e1s que documentar un evento. Ilustran por qu\u00e9 el evento es importante, por qu\u00e9 est\u00e1 en las noticias, y por qu\u00e9 deber\u00eda importarle a la gente.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Internet es fundamentalmente un medio visual. La fotos y el v\u00eddeo son t\u00edpicamente la primera cosa que la gente mira al abrir una nueva entrada o p\u00e1gina. Todav\u00eda depende del periodista hacer fotos estupendas que cuenten una historia. Los periodistas necesitan pensar visualmente acerca de las historias que cuentan.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Las fotos son especialmente importantes para el periodismo con m\u00f3vil. Los dispositivos m\u00f3viles/celulares son capaces de rendir una tremenda calidad de imagen, y las fotos requieren poco espacio de almacenamiento o ancho de banda para subirse. Esta secci\u00f3n le guiar\u00e1 a trav\u00e9s de los fundamentos de operaci\u00f3n de la c\u00e1mara, la foto composici\u00f3n, el relato historias con m\u00faltiples im\u00e1genes, y c\u00f3mo puede preparar las fotos para que tengan un aspecto profesional en l\u00ednea.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Le sugerimos firmemente que complete el programa de Seguridad y Periodismo antes de que empiece. Esas lecciones est\u00e1n referenciadas en la secci\u00f3n Fotograf\u00eda, pero merecen su atenci\u00f3n dedicada. Sin ellas, es probable que se ponga a si mismo y a otros en riesgo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "introduction_to_photography", 
+    "title": "Introducci\u00f3n a la fotograf\u00eda"
+}

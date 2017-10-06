@@ -1,0 +1,16 @@
+{
+    "t_process_event_audio::clip_card_5::goals[0]": "Grabe la última fase significativa del evento.",
+    "t_process_event_audio::clip_card_0::goals[0]": "Grabe sonido en el lugar donde acontecerá el evento antes de comience.",
+    "t_process_event_audio::title": "Proceso del evento",
+    "t_process_event_audio::text_card_0::text": "No grabe cada fase. Sólo las fases significativas para mostrar la progresión desde el principio hasta el final.",
+    "t_process_event_audio::clip_card_8::goals[0]": "Grabe a gente observando o reaccionando al evento.",
+    "t_process_event_audio::clip_card_1::goals[0]": "Presente el principio del evento.",
+    "t_process_event_audio::clip_card_1::goals[1]": "Permanezca junto a la entrada y grabe sonido de gente paseando.",
+    "t_process_event_audio::clip_card_2::goals[0]": "Grabe la primera fase significativa del evento.",
+    "t_process_event_audio::clip_card_1::goals[2]": "Capture los sonidos de la multitud dentro del evento.",
+    "t_process_event_audio::clip_card_9::goals[0]": "Grabe sonido del evento concluyendo.",
+    "t_process_event_audio::clip_card_6::goals[0]": "Grabe un momento especialmente dramático que resuma el evento.",
+    "t_process_event_audio::clip_card_4::goals[0]": "Grabe la tercera fase significativa del evento.",
+    "t_process_event_audio::clip_card_3::goals[0]": "Grabe la segunda fase significativa del evento.",
+    "t_process_event_audio::clip_card_7::goals[0]": "Grabe al personaje involucrado en la actividad principal del evento."
+}

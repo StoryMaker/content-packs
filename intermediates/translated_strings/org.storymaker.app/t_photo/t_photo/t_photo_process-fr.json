@@ -1,0 +1,16 @@
+{
+    "t_photo_process::clip_card_3::goals[0]": "Photographier l'étape significative suivante dans le processus.",
+    "t_photo_process::text_card_1::text": "Être sûr d'obtenir une variété de compositions lors de l'illustration du processus. Certains plans larges, des gros plans et des plans moyens. Votre personnage ne doit pas être dans chaque image.",
+    "t_photo_process::ms_moreinfo::text": "A propos de ce modèle",
+    "t_photo_process::clip_card_7::goals[0]": "Si le processus est réalisé avec une audience, photographez leur réaction.",
+    "t_photo_process::title": "Processus",
+    "t_photo_process::clip_card_6::goals[0]": "Prendre une photo qui résume le processus.",
+    "t_photo_process::clip_card_0::goals[0]": "Montrez votre personnage se préparant à initier le processus.",
+    "t_photo_process::clip_card_4::goals[0]": "Photographier l'étape significative suivante dans le processus.",
+    "t_photo_process::clip_card_1::goals[0]": "Montrer le début ou bien la première étape du processus.",
+    "t_photo_process::clip_card_8::goals[0]": "Photographiez votre personnage complétant le processus.",
+    "t_photo_process::clip_card_2::goals[0]": "Photographiez l'endroit où le processus a lieu.",
+    "t_photo_process::clip_card_5::goals[0]": "Photographier l'étape significative suivante dans le processus.",
+    "t_photo_process::text_card_0::text": "Les narrations de processus montrent comment quelque chose est fait et comment les événements se déroulent. Les narrations de processus utilisent habituellement la chronologie comme principe organisationnel. L'histoire montre quelque chose du début à la fin, habituellement méttant en valeur les moments les plus dramatiques et laissant de coté les éléments moins intéressants de l'histoire. Une interview ou narration sera utilisé en tant que voix couvrant les séquences qui illustrent le processus, toutefois cela n'est pas une obligation. Ce format est parfait pour la couverture d'un événement ou profils.",
+    "t_photo_process::ms_moreinfo::header": "Suivant"
+}

@@ -1,0 +1,162 @@
+{
+    "cards": [
+        {
+            "header": "Ti\u1ebfp", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "\u0110\u1ed1i v\u1edbi b\u1ea3n m\u1eabu n\u00e0y"
+        }, 
+        {
+            "text": "Discussions are framed around asking many people the same question. This template investigates what can be done about a specific issue. Discussions work well for investigating issues with a strong cultural or social significance. Feel free to use alternate questions if you think they may work better for you.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_video_discussion_question_2::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "video", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "Cho xem vi\u1ec7c g\u00ec \u0111\u00f3 gi\u1edbi thi\u1ec7u v\u1ea5n \u0111\u1ec1."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:08", 
+            "goals": [
+                "Cho xem n\u01a1i m\u00e0 nhi\u1ec1u ng\u01b0\u1eddi b\u1ecb \u1ea3nh h\u01b0\u1edfng b\u1edfi v\u1ea5n \u0111\u1ec1."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "B\u1ea1n ngh\u0129 n\u00ean l\u00e0m g\u00ec v\u1ec1 v\u1ea5n \u0111\u1ec1 n\u00e0y?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "text": "Talk to different people for each clip to give your story a range of voices. You may want to substitute the name of the event you are focused on where you see \\\u201cthe event.\\\u201d", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "B\u1ea1n ngh\u0129 n\u00ean l\u00e0m g\u00ec v\u1ec1 v\u1ea5n \u0111\u1ec1 n\u00e0y?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "interview", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "B\u1ea1n ngh\u0129 n\u00ean l\u00e0m g\u00ec v\u1ec1 v\u1ea5n \u0111\u1ec1 n\u00e0y?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "text": "N\u1ebfu b\u1ea1n nh\u1eadn c\u00e2u tr\u1ea3 l\u1eddi d\u1edf, t\u1ed1t nh\u1ea5t l\u00e0 l\u00e0m l\u1ea1i v\u1edbi m\u1ed9t clip m\u1edbi.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "B\u1ea1n ngh\u0129 n\u00ean l\u00e0m g\u00ec v\u1ec1 v\u1ea5n \u0111\u1ec1 n\u00e0y?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:12", 
+            "goals": [
+                "Cho xem m\u1ed9t n\u01a1i quan tr\u1ecdng \u0111\u1ed1i v\u1edbi v\u1ea5n \u0111\u1ec1."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "B\u1ea1n ngh\u0129 n\u00ean l\u00e0m g\u00ec v\u1ec1 v\u1ea5n \u0111\u1ec1 n\u00e0y?"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:12", 
+            "goals": [
+                "Cho xem n\u01a1i m\u00e0 v\u1ea5n \u0111\u1ec1 x\u1ea3y ra."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "edit", 
+                "video", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "C\u00e2u chuy\u1ec7n c\u1ee7a b\u1ea1n c\u00f3 \u0111\u01b0a ra c\u00e1c \u00fd t\u01b0\u1edfng hay v\u1ec1 c\u00e1ch x\u1eed l\u00fd v\u1ea5n \u0111\u1ec1?", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_video_discussion_question_2", 
+    "title": "What should be done?"
+}

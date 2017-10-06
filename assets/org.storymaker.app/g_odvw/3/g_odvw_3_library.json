@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "g_odvw_3", 
+            "dependencyFile": "g_odvw_3.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "Create a Story with Narration.", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "g_odvw_3"
+        }
+    ], 
+    "currentStoryPathFile": "g_odvw_3.json", 
+    "storyPathTemplateFiles": {
+        "g_odvw_3": "g_odvw_3.json"
+    }, 
+    "id": "g_odvw_3_library"
+}

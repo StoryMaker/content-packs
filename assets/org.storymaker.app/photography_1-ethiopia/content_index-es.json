@@ -1,0 +1,38 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-ethiopia/1_introduction_to_photography/introduction_to_photography_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "Introducci\u00f3n a la fotograf\u00eda"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-ethiopia/2_camera_basics/camera_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "Fundamentos de la c\u00e1mara"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-ethiopia/3_composition_basics/composition_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "Fundamentos de la composici\u00f3n"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-ethiopia/4_captions_and_keywords/captions_and_keywords_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "Pies de foto y palabras clave"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-ethiopia/5_exposure_basics/exposure_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "Fundamentos de la exposici\u00f3n"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_1-ethiopia/6_post_production/post_production_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_1-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "Postproducci\u00f3n"
+  }
+]

@@ -1,0 +1,119 @@
+{
+    "cards": [
+        {
+            "text": "# Cl\u00edmax\n## En esta lecci\u00f3n aprender\u00e1:  \n&bull; El rol del cl\u00edmax en una historia.  \n&bull; C\u00f3mo se puede incluir un cl\u00edmax en una historia de noticias.  \n&bull; La relaci\u00f3n entre un cl\u00edmax y la cuesti\u00f3n central.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Las buenas historias nos presentan una idea central, a menudo un conflicto o una cuesti\u00f3n, y un personaje. Estos desarrollan la idea a lo largo de una curva de tensi\u00f3n hacia alguna clase de revelaci\u00f3n o confrontaci\u00f3n, llamada cl\u00edmax. El cl\u00edmax es el pico emocional de la historia. En una buena historia, todo lo que precede al cl\u00edmax se construye orientado hacia este.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Un problema com\u00fan con muchas coberturas de noticias es que no hay estructura en la historia y no hay cl\u00edmax. Los espectadores no son conducidos a trav\u00e9s de un curva definida de la historia, y no se llega a ning\u00fan z\u00e9nit. La informaci\u00f3n simplemente es aglutinada y presentada como poco m\u00e1s que una lista de hechos; la historia se mueve desde el principio hasta el final sin tensi\u00f3n dram\u00e1tica o excitaci\u00f3n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Los periodistas necesitan pensar acerca de la estructura y el cl\u00edmax al comunicar historias. En una buena historia, habr\u00e1 pasos o eventos que incrementen la tensi\u00f3n e inciten a la audiencia seg\u00fan va avanzando la historia hac\u00eda el cl\u00edmax. Pero el cl\u00edmax es el momento en que se responde la cuesti\u00f3n central de la historia.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "Es vital que el cl\u00edmax responda a la cuesti\u00f3n central de la historia, de otro modo la historia parecer\u00e1 incompleta, la audiencia se quedar\u00e1 insatisfecha y puede sentirse estafada. Aqu\u00ed tiene algunos ejemplos de cl\u00edmax que responden a una cuesti\u00f3n central:\n&bull; Cuesti\u00f3n central: \u00bfProbar\u00e1 su inocencia el pol\u00edtico? Cl\u00edmax: Fue encontrado culpable de corrupci\u00f3n.\n&bull; Cuesti\u00f3n central: \u00bfDestrozar\u00e1 el hurac\u00e1n el pueblo? Cl\u00edmax: S\u00f3lo 10 casas permanecieron en pie.  \n&bull; Cuesti\u00f3n central: \u00bfEs la celebridad el padre del hijo de esta mujer? Cl\u00edmax: Los resultados de la prueba de ADN muestran que \u00e9l no es el padre.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; El cl\u00edmax debe responder a su cuesti\u00f3n central.  \n&bull; La informaci\u00f3n que sea capaz de comunicar limita el cl\u00edmax que puede presentar y puede alterar su pregunta central.\n&bull; Considere el potencial de su propia voz para dar una respuesta de cl\u00edmax usando la narraci\u00f3n si no est\u00e1 claro a partir de sus im\u00e1genes, pero nunca cree hechos que no est\u00e1n ah\u00ed.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "En estas historias acerca de un brote de sarampi\u00f3n, \u00bfqu\u00e9 cl\u00edmax responde a las respectivas cuestiones centrales? (puede haber m\u00e1s de una respueta).", 
+            "choices": [
+                {
+                    "text": "Cuesti\u00f3n central: \u00bfLlevar\u00e1n los padres a sus hijos a vacunarse del sarampi\u00f3n? Cl\u00edmax: El 50% de los padres llev\u00f3 a sus hijos a vacunar. ", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Cuesti\u00f3n central: \u00bfMorir\u00e1 alg\u00fan ni\u00f1o como resultado del brote de sarampi\u00f3n? Cl\u00edmax: Por ahora, ning\u00fan ni\u00f1o ha muerto. ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Cuesti\u00f3n central: \u00bfLa epidemia se extender\u00e1 m\u00e1s all\u00e1 de la comunidad? Cl\u00edmax: No, todos los ni\u00f1os infectados se quedar\u00e1n en casa hasta que no sean contagiosos. ", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "En estas historias acerca de una manifestaci\u00f3n en la plaza principal de la ciudad, \u00bfqu\u00e9 cl\u00edmax responden a las respectivas cuestiones centrales? (puede haber m\u00e1s de una respueta).", 
+            "choices": [
+                {
+                    "text": "Cuesti\u00f3n central: \u00bfLas personas arrestadas ser\u00e1n acusadas o liberadas? Cl\u00edmax: Todos los manifestantes excepto uno fueron liberados.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Cuesti\u00f3n central: \u00bfVa a dimitir el presidente? Cl\u00edmax: El presidente se niega a dimitir.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Cuesti\u00f3n central: \u00bfLa polic\u00eda va a disolver la manifestaci\u00f3n? Cl\u00edmax: La polic\u00eda se une a los manifestantes.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Cuesti\u00f3n central: \u00bfQui\u00e9n lograr\u00e1 el control de la plaza? Cl\u00edmax: El equilibrio de fuerzas entre polic\u00eda y manifestantes contin\u00faa toda la noche.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "En estas historias acerca de jugadores de f\u00fatbol lesionados, \u00bfqu\u00e9 cl\u00edmax responden a las respectivas cuestiones centrales? (puede haber m\u00e1s de una respuesta).", 
+            "choices": [
+                {
+                    "text": "Cuesti\u00f3n central: \u00bfVa a estar en forma para jugar a tiempo para la Copa del Mundo? Cl\u00edmax: \u00c9l acaba de entrar en la selecci\u00f3n para la Copa del Mundo, pero no va a jugar un solo partido.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Cuesti\u00f3n central: \u00bfVolver\u00e1 a jugar otro partido? Cl\u00edmax: Tiene que operarse para reparar su rodilla. ", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Cuesti\u00f3n central: \u00bfEl club de f\u00fatbol le apartar\u00e1 del equipo? Cl\u00edmax: \u00c9l se retira de la pr\u00e1ctica del f\u00fatbol.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Cuesti\u00f3n central: \u00bfA\u00fan se llevar\u00e1 a cabo su acuerdo de transferencia? Cl\u00edmax: El otro club ha pagado por \u00e9l la mitad de tarifa original.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "climax", 
+    "title": "Cl\u00edmax"
+}

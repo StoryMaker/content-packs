@@ -1,0 +1,44 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/story-persian/1_introduction_to_story/introduction_to_story_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-persian/cover.png", 
+    "language": "om", 
+    "title": "Seensa Seenaa"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-persian/2_central_question/central_question_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-persian/cover.png", 
+    "language": "om", 
+    "title": "Gaaffii Ijoo"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-persian/3_climax/climax_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-persian/cover.png", 
+    "language": "om", 
+    "title": "Xummura"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-persian/4_resolution/resolution_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-persian/cover.png", 
+    "language": "om", 
+    "title": "Yaada Murtee"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-persian/5_arc/arc_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-persian/cover.png", 
+    "language": "om", 
+    "title": "Golboo"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-persian/6_deeper_meaning/deeper_meaning_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-persian/cover.png", 
+    "language": "om", 
+    "title": "Hiika Gadi Fagoo"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-persian/7_symbols/symbols_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-persian/cover.png", 
+    "language": "om", 
+    "title": "Mallattoolee"
+  }
+]

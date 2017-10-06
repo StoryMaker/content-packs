@@ -1,0 +1,87 @@
+{
+    "title": "\u062a\u0645\u0631\u06cc\u0646 \u0639\u06a9\u0627\u0633\u06cc \u0627\u0632 \u0632\u0627\u0648\u06cc\u0647\u200c\u0647\u0627\u06cc \u0645\u062e\u062a\u0644\u0641", 
+    "storyPathTemplateFiles": {
+        "shoot_on_an_angle_activity": "shoot_on_an_angle_activity.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action", 
+            "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
+        }, 
+        {
+            "dependencyId": "shoot_on_an_angle", 
+            "dependencyFile": "../5_shoot_on_an_angle/shoot_on_an_angle.json"
+        }, 
+        {
+            "dependencyId": "shoot_on_an_angle_activity", 
+            "dependencyFile": "shoot_on_an_angle_activity.json"
+        }, 
+        {
+            "dependencyId": "control_light", 
+            "dependencyFile": "../6_control_light/control_light.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "tips": [
+                {
+                    "text": "\u062a\u0648\u0635\u06cc\u0647: \u062d\u0648\u0627\u0633\u200c\u062a\u0627\u0646 \u0628\u0627\u0634\u062f \u06a9\u0647 \u0628\u0627 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0632\u0627\u0648\u06cc\u0647\u200c\u0647\u0627\u06cc \u062e\u06cc\u0644\u06cc \u067e\u0627\u06cc\u06cc\u0646 \u06cc\u0627 \u0628\u0627\u0644\u0627 \u0639\u06a9\u0633\u200c\u062a\u0627\u0646 \u0631\u0627 \u062e\u0631\u0627\u0628 \u0646\u06a9\u0646\u06cc\u062f.", 
+                    "tags": [
+                        "angle"
+                    ]
+                }, 
+                {
+                    "text": "\u062a\u0648\u0635\u06cc\u0647: \u062a\u0646\u0647\u0627 \u0627\u0632 \u0632\u0627\u0648\u06cc\u0647\u200c\u0647\u0627\u06cc\u06cc \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0646\u06cc\u062f \u06a9\u0647 \u0628\u0647 \u0645\u062e\u0627\u0637\u0628\u0627\u0646 \u0634\u0645\u0627 \u06a9\u0645\u06a9 \u0645\u06cc\u200c\u06a9\u0646\u0646\u062f \u062a\u0627 \u0628\u0647\u062a\u0631 \u06af\u0632\u0627\u0631\u0634 \u0634\u0645\u0627 \u0631\u0627 \u0628\u0641\u0647\u0645\u0646\u062f.", 
+                    "tags": [
+                        "angle"
+                    ]
+                }, 
+                {
+                    "text": "\u062a\u0648\u0635\u06cc\u0647: \u0627\u06af\u0631 \u062f\u0648\u0631\u0628\u06cc\u0646 \u062a\u0627\u0646 \u0631\u0627 \u0622\u0631\u0627\u0645 \u0628\u0647 \u06cc\u06a9 \u0632\u0627\u0648\u06cc\u0647 \u0628\u0686\u0631\u062e\u0627\u0646\u06cc\u062f\u060c \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0628\u0647\u062a\u0631 \u0628\u062a\u0648\u0627\u0646\u06cc\u062f \u0627\u0632 \u0633\u0648\u0698\u0647\u200c\u062a\u0627\u0646 \u0639\u06a9\u0633 \u0628\u06af\u06cc\u0631\u06cc\u062f.", 
+                    "tags": [
+                        "angle"
+                    ]
+                }, 
+                {
+                    "text": "\u062a\u0648\u0635\u06cc\u0647: \u0639\u06a9\u0627\u0633\u06cc \u0627\u0632 \u0632\u0627\u0648\u06cc\u0647 \u062e\u06cc\u0644\u06cc \u0628\u0627\u0644\u0627 \u06cc\u0627 \u062e\u06cc\u0644\u06cc \u067e\u0627\u06cc\u06cc\u0646 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u06af\u0627\u0647\u06cc \u0628\u0627\u0639\u062b \u06a9\u0645\u06a9 \u0628\u0647 \u0646\u062d\u0648\u0647 \u0631\u0648\u0627\u06cc\u062a \u0634\u0645\u0627 \u0634\u0648\u062f.", 
+                    "tags": [
+                        "angle"
+                    ]
+                }, 
+                {
+                    "text": "\u062a\u0648\u0635\u06cc\u0647: \u062d\u0648\u0627\u0633\u062a\u0627\u0646 \u0628\u0627\u0634\u062f \u06a9\u0647 \u0632\u0627\u0648\u06cc\u0647 \u0628\u0646\u062f\u06cc \u0634\u0645\u0627 \u0628\u0627\u0639\u062a \u0646\u0634\u0648\u062f \u06a9\u0647 \u0627\u0632 \u0633\u0648\u0698\u0647 \u06cc\u0627 \u0645\u0648\u0636\u0648\u0639 \u06af\u0632\u0627\u0631\u0634 \u063a\u0627\u0641\u0644 \u0634\u0648\u06cc\u062f.", 
+                    "tags": [
+                        "angle"
+                    ]
+                }, 
+                {
+                    "text": "\u062a\u0648\u0635\u06cc\u0647: \u0632\u0627\u0648\u06cc\u0647\u200c\u0647\u0627\u06cc \u067e\u0627\u06cc\u06cc\u0646 \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u062f\u0631 \u0639\u06a9\u0627\u0633\u06cc \u0627\u0632 \u0633\u0627\u062e\u062a\u0645\u0627\u0646\u200c\u0647\u0627\u06cc \u0628\u0644\u0646\u062f \u06cc\u0627 \u0645\u062c\u0633\u0645\u0647\u200c\u0647\u0627 \u062c\u0630\u0627\u0628\u200c\u062a\u0631 \u0628\u0627\u0634\u0646\u062f", 
+                    "tags": [
+                        "angle"
+                    ]
+                }, 
+                {
+                    "text": "\u062a\u0648\u0635\u06cc\u0647: \u062d\u0631\u06a9\u062a \u0631\u0627 \u0627\u0632 \u0637\u0631\u06cc\u0642 \u0642\u0627\u0628\u200c\u0647\u0627 \u062a\u0646\u0638\u06cc\u0645 \u06a9\u0646\u06cc\u062f \u062a\u0627 \u062d\u0633 \u0622\u0646 \u062d\u0631\u06a9\u062a \u0631\u0627 \u0646\u0634\u0627\u0646 \u0628\u062f\u0647\u06cc\u062f.", 
+                    "tags": [
+                        "angle"
+                    ]
+                }
+            ], 
+            "type": "TipCollectionHeadlessCard", 
+            "id": "tip_collection"
+        }, 
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "shoot_on_an_angle_activity"
+        }
+    ], 
+    "currentStoryPathFile": "shoot_on_an_angle_activity.json", 
+    "id": "shoot_on_an_angle_activity"
+}

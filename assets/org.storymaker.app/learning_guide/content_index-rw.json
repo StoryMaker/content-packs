@@ -1,0 +1,20 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/learning_guide/learning_guide_1/learning_guide_1_library.json", 
+    "thumbnailPath": "org.storymaker.app/learning_guide/cover.jpg", 
+    "language": "rw", 
+    "title": "Kwiga ibintu nshingiro bigize inkuru"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/learning_guide/learning_guide_2/learning_guide_2_library.json", 
+    "thumbnailPath": "org.storymaker.app/learning_guide/cover.jpg", 
+    "language": "rw", 
+    "title": "Ongera ivyankenegwa ku nkuru yawe."
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/learning_guide/learning_guide_3/learning_guide_3_library.json", 
+    "thumbnailPath": "org.storymaker.app/learning_guide/cover.jpg", 
+    "language": "rw", 
+    "title": "Kuvuga inkuru n\u2019ikibazo rusangi."
+  }
+]

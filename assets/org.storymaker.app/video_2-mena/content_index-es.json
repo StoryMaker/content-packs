@@ -1,0 +1,32 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/video_2-mena/1_framing_your_shot/framing_your_shot_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_2-mena/cover.png", 
+    "language": "es", 
+    "title": "Encuadrar su toma"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_2-mena/2_videos_different_shots/videos_different_shots_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_2-mena/cover.png", 
+    "language": "es", 
+    "title": "Diferentes escenas de v\u00eddeo"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_2-mena/3_sequences/sequences_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_2-mena/cover.png", 
+    "language": "es", 
+    "title": "Secuencias"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_2-mena/4_organizing_your_shoot/organizing_your_shoot_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_2-mena/cover.png", 
+    "language": "es", 
+    "title": "Organizar su sesi\u00f3n"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_2-mena/5_content_sites/content_sites_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_2-mena/cover.png", 
+    "language": "es", 
+    "title": "Sitios de contenidos"
+  }
+]

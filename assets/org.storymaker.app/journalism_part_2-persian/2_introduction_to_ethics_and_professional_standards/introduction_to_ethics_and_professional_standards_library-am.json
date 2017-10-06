@@ -1,0 +1,23 @@
+{
+    "title": "\u1225\u1290-\u121d\u130d\u1263\u122d \u12a5\u1293 \u12e8\u121e\u12eb \u12f0\u1295\u1266\u127d\u1361- \u1218\u130d\u1262\u12eb", 
+    "storyPathTemplateFiles": {
+        "introduction_to_ethics_and_professional_standards": "introduction_to_ethics_and_professional_standards.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "introduction_to_ethics_and_professional_standards", 
+            "dependencyFile": "introduction_to_ethics_and_professional_standards.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "introduction_to_ethics_and_professional_standards"
+        }
+    ], 
+    "currentStoryPathFile": "introduction_to_ethics_and_professional_standards.json", 
+    "id": "introduction_to_ethics_and_professional_standards"
+}

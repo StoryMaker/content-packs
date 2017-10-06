@@ -1,0 +1,135 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u1308\u1338 \u1263\u1205\u122a\u12ce \u1202\u12f0\u1271\u1295 \u1208\u1218\u1300\u1218\u122d \u1232\u1230\u1293\u12f3 \u12eb\u1233\u12e9\u1362 "
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "portrait", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u12e8\u1202\u12f0\u1271\u1295 \u1305\u121b\u122c \u12c8\u12ed\u121d \u12e8\u1218\u1300\u1218\u122d\u12eb \u12f0\u1228\u1303 \u12eb\u1233\u12e9\u1362 "
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u1202\u12f0\u1271 \u12e8\u1275 \u12a5\u1295\u12f0\u121a\u12ab\u1204\u12f5 \u12eb\u1233\u12e9\u1362 "
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u1260\u1202\u12f0\u1271 \u12cd\u1235\u1325 \u12e8\u121a\u1240\u1325\u1208\u12cd\u1295 \u12a0\u1265\u12ed \u12f0\u1228\u1303 \u134e\u1276\u130d\u122b\u134d \u12eb\u1295\u1231\u1362"
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "text": "\u1202\u12f0\u1271\u1295 \u1260\u121a\u12eb\u1233\u12e9\u1260\u1275 \u12c8\u1245\u1275 \u12e8\u1270\u1208\u12eb\u12e9 \u1245\u1295\u1265\u122e\u127d\u1295 \u121d\u1235\u120d \u12eb\u1295\u1231\u1362 \u12a0\u1295\u12f3\u1295\u12f5 \u12a8\u1230\u134a \u12a0\u1295\u130d\u120d\u1363 \u12a8\u1245\u122d\u1265 \u122d\u1240\u1275 \u12a5\u1293 \u12a8\u1218\u12ab\u12a8\u1208\u129b \u122d\u1240\u1275 \u12e8\u1270\u1290\u1231 \u121d\u1235\u120e\u127d \u120a\u1296\u1229\u12ce\u1275 \u12ed\u1308\u1263\u120d\u1362 \u1308\u1338 \u1263\u1205\u122a\u12ce \u1260\u1201\u1209\u121d \u121d\u1235\u120d \u12cd\u1235\u1325 \u1218\u1296\u122d \u12a0\u12ed\u1320\u1260\u1245\u1260\u1275\u121d\u1362    ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u1260\u1202\u12f0\u1275 \u12cd\u1235\u1325 \u12e8\u121a\u1240\u1325\u1208\u12cd\u1295 \u12a0\u1265\u12ed \u12f0\u1228\u1303 \u134e\u1276\u130d\u122b\u134d \u12eb\u1295\u1231\u1362"
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "photo essay", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u1260\u1202\u12f0\u1271 \u12cd\u1235\u1325 \u12e8\u121a\u1240\u1325\u1208\u12cd\u1295 \u12a0\u1265\u12ed \u12f0\u1228\u1303 \u134e\u1276\u130d\u122b\u134d \u12eb\u1295\u1231\u1362"
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u1202\u12f0\u1271\u1295 \u1320\u1245\u1208\u120d \u12a0\u12f5\u122d\u130e \u12e8\u121a\u12eb\u1233\u12ed \u134e\u1276 \u12eb\u1295\u1231\u1362 "
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u1202\u12f0\u1271 \u1273\u12f3\u121a \u12ab\u1208\u12cd \u1273\u12f3\u121a\u12cd \u12e8\u121a\u1230\u1320\u12cd\u1295 \u121d\u120b\u123d \u12eb\u1233\u12e9\u1362 "
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "\u1308\u1338 \u1263\u1205\u122a\u12ce \u1202\u12f0\u1271\u1295 \u1232\u1348\u133d\u121d \u134e\u1276\u130d\u122b\u134d \u12eb\u1295\u1231\u1362"
+            ], 
+            "clipType": "Result", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "photo"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_process_profile_photo", 
+    "title": "\u12e8\u130d\u1208 \u1273\u122a\u12ad \u1202\u12f0\u1275"
+}

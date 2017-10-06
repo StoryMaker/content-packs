@@ -1,0 +1,27 @@
+{
+    "cards": [
+        {
+            "text": "![](1.png)  \n# FAKKEENYA SUURAA KAASUU  \nSuura kaasuunis meeshaa baayyee cimaa ittiin seenaa himaniidha.. Suuraan oduu gaariin tokko yookaan walitti qabaan suuraalee, afaanii fi aadaan utuu hin daangessin ergaa cimaa dabarsu. Suuraa gaariin waan ta'e galmeessuurra darbee waan baayyee hojjeta. Taatichi maaliif akka barbaachisu, maaliif akka oduu keessa seenuu danda'ee fi maaliif akka namni ilaaluu qabu ibsu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Interneetiin baayyinaaan meeshaa waa mul'isuudha. Suuraa fi suur-sagaleen namootni yeroo maxxansa haaraa yookaan fuula idoolaa banan kan ilaalaniidha. Kanaaf, suuraa bareedaa seenaakee gaazexeessaarraa ibsu kaasuun sirraa eegama. Gaazexeessitooti waa'ee seenichaarratti bifa mul'atuun yaaduu qabu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "Suuraan Gaazexeessummaa bilbilaatiif baayyee barbaachisaadha. Bilbilli suuraa qulqullina gaarii qabu kaasuuf dandeettii qabu, suurichimmoo bakka kaa'anii fi bal'ina baandii kan ittiin ol fe'an barbaadu. Kutaan kun bu'uura fayyadama kaameeraa, suuraa qopheessuu, seenaa suura garagaraatiin himuu fi akka itti suuraan karaarratti kan ogeessotaan ka'e fakkaatu isinitti agarsiisa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Kana jalqabuu keetiin dura kutaalee Nageenyaa fi Gaazexeessummaa akka xumurtu cimsinee si beeksisna. Kutaaleen kunneen kutaa Suuraa keessatti hubnnoof kan fayyadamnu, garuu yaadakee hatuu hin qaban. Isaan malee, ofiikees namoota biroos rakkina keessa galchuu dandeessa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "introduction_to_photography", 
+    "title": "Seensa Suuraa Kaasuu"
+}

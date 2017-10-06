@@ -1,0 +1,69 @@
+{
+    "title": "Baqqaana Gochaa Uumi", 
+    "storyPathTemplateFiles": {
+        "create_layers_activity": "create_layers_activity.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
+        }, 
+        {
+            "dependencyId": "create_layers", 
+            "dependencyFile": "../3_create_layers/create_layers.json"
+        }, 
+        {
+            "dependencyId": "create_layers_activity", 
+            "dependencyFile": "create_layers_activity.json"
+        }, 
+        {
+            "dependencyId": "capture_peak_action", 
+            "dependencyFile": "../4_capture_peak_action/capture_peak_action.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "tips": [
+                {
+                    "text": "Qaccee: Qaamoleen fuuldura jiran akka hin dhiyaanne mirkaneeffadhu yoo xiyyeeffannoo keessaa baasuu barbaadde malee.", 
+                    "tags": [
+                        "layers"
+                    ]
+                }, 
+                {
+                    "text": "Qaccee: Qaamoleen dudduubaan jiran baayyee xinnaatanii argamuu hin qaban yookaan barbaachisummaan isaanii ni bada.", 
+                    "tags": [
+                        "layers"
+                    ]
+                }, 
+                {
+                    "text": "Qaccee: Yeroo qaamota garagaraa waraabdutti, miira gadi fageenyaa uumuuf tokko duubaan kaa'i.", 
+                    "tags": [
+                        "layers"
+                    ]
+                }, 
+                {
+                    "text": "Qaccee: Qaamoti duubarraa yaada hatan fuuldura sirriitti goodaayyeffame balleessuu danda'u.", 
+                    "tags": [
+                        "layers"
+                    ]
+                }
+            ], 
+            "type": "TipCollectionHeadlessCard", 
+            "id": "tip_collection"
+        }, 
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "create_layers_activity"
+        }
+    ], 
+    "currentStoryPathFile": "create_layers_activity.json", 
+    "id": "create_layers_activity"
+}

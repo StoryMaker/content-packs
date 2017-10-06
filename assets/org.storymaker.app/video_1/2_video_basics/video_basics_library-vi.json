@@ -1,0 +1,23 @@
+{
+    "title": "Nh\u1eefng c\u01a1 b\u1ea3n v\u1ec1 video", 
+    "storyPathTemplateFiles": {
+        "video_basics": "video_basics.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "video_basics", 
+            "dependencyFile": "video_basics.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "video_basics"
+        }
+    ], 
+    "currentStoryPathFile": "video_basics.json", 
+    "id": "video_basics"
+}

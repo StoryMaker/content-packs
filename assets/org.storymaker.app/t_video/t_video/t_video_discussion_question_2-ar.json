@@ -1,0 +1,162 @@
+{
+    "cards": [
+        {
+            "header": "\u0627\u0644\u062a\u0627\u0644\u064a", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "\u062d\u0648\u0644 \u0647\u0630\u0627 \u0627\u0644\u0642\u0627\u0644\u0628"
+        }, 
+        {
+            "text": "Discussions are framed around asking many people the same question. This template investigates what can be done about a specific issue. Discussions work well for investigating issues with a strong cultural or social significance. Feel free to use alternate questions if you think they may work better for you.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_video_discussion_question_2::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "video", 
+                "before"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "\u0627\u0638\u0647\u0631 \u0644\u0646\u0627 \u0634\u064a\u0621  \u0645\u0627 \u064a\u0642\u062f\u0645 \u0627\u0644\u0645\u0634\u0643\u0644."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:08", 
+            "goals": [
+                "\u0625\u0638\u0647\u0627\u0631 \u0645\u0643\u0627\u0646 \u062a\u0623\u062b\u0631 \u0627\u0644\u0646\u0627\u0633 \u0628\u0627\u0644\u0642\u0636\u064a\u0629."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "\u062d\u0633\u0628 \u0627\u0639\u062a\u0642\u0627\u062f\u0643\u060c \u0645\u0627 \u064a\u0646\u0628\u063a\u064a \u0627\u0644\u0642\u064a\u0627\u0645 \u0628\u0647 \u062d\u0648\u0644 \u0647\u0630\u0647 \u0627\u0644\u0642\u0636\u064a\u0629\u061f"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "text": "Talk to different people for each clip to give your story a range of voices. You may want to substitute the name of the event you are focused on where you see \\\u201cthe event.\\\u201d", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "\u062d\u0633\u0628 \u0627\u0639\u062a\u0642\u0627\u062f\u0643\u060c \u0645\u0627 \u064a\u0646\u0628\u063a\u064a \u0627\u0644\u0642\u064a\u0627\u0645 \u0628\u0647 \u062d\u0648\u0644 \u0647\u0630\u0647 \u0627\u0644\u0642\u0636\u064a\u0629\u061f"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "interview", 
+                "during"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "\u062d\u0633\u0628 \u0627\u0639\u062a\u0642\u0627\u062f\u0643\u060c \u0645\u0627 \u064a\u0646\u0628\u063a\u064a \u0627\u0644\u0642\u064a\u0627\u0645 \u0628\u0647 \u062d\u0648\u0644 \u0647\u0630\u0647 \u0627\u0644\u0642\u0636\u064a\u0629\u061f"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "text": "\u0625\u0630\u0627 \u062d\u0635\u0644\u062a \u0639\u0644\u0649 \u062c\u0648\u0627\u0628 \u0633\u064a\u0621\u060c \u0633\u062a\u0643\u0648\u0646 \u0627\u0644\u0645\u062d\u0627\u0648\u0644\u0629 \u0645\u062c\u062f\u062f\u0627 \u0641\u064a \u0645\u0642\u0637\u0639 \u062c\u062f\u064a\u062f \u062d\u0631\u0643\u0629 \u0630\u0643\u064a\u0629.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "\u062d\u0633\u0628 \u0627\u0639\u062a\u0642\u0627\u062f\u0643\u060c \u0645\u0627 \u064a\u0646\u0628\u063a\u064a \u0627\u0644\u0642\u064a\u0627\u0645 \u0628\u0647 \u062d\u0648\u0644 \u0647\u0630\u0647 \u0627\u0644\u0642\u0636\u064a\u0629\u061f"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:12", 
+            "goals": [
+                "\u0625\u0638\u0647\u0627\u0631 \u0645\u0643\u0627\u0646 \u0645\u0647\u0645 \u0641\u064a \u0627\u0644\u062d\u062f\u062b."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:25", 
+            "goals": [
+                "\u062d\u0633\u0628 \u0627\u0639\u062a\u0642\u0627\u062f\u0643\u060c \u0645\u0627 \u064a\u0646\u0628\u063a\u064a \u0627\u0644\u0642\u064a\u0627\u0645 \u0628\u0647 \u062d\u0648\u0644 \u0647\u0630\u0647 \u0627\u0644\u0642\u0636\u064a\u0629\u061f"
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:12", 
+            "goals": [
+                "\u0628\u064a\u0646 \u0623\u064a\u0646 \u0648\u0642\u0639 \u0627\u0644\u062d\u062f\u062b."
+            ], 
+            "clipType": "Place", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_2", 
+            "tags": [
+                "edit", 
+                "video", 
+                "after"
+            ]
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "\u0647\u0644 \u062a\u0642\u062f\u0645 \u0642\u0635\u062a\u0643 \u0623\u0641\u0643\u0627\u0631 \u062c\u064a\u062f\u0629 \u062d\u0648\u0644 \u0643\u064a\u0641\u064a\u0629 \u0627\u0644\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0647\u0630\u0647 \u0627\u0644\u0642\u0636\u064a\u0629\u061f", 
+            "type": "BasicTextCard", 
+            "id": "evaluation_card_0"
+        }, 
+        {
+            "medium": "video", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_video_discussion_question_2", 
+    "title": "\u0645\u0627\u0630\u0627 \u064a\u062c\u0628 \u0623\u0646 \u064a\u064f\u0641\u0639\u0644\u061f "
+}

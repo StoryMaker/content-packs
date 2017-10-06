@@ -1,0 +1,380 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "\u00bfPor qu\u00e9 el sonido y la luz son tan importantes para el v\u00eddeo?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; C\u00f3mo mejorar el audio en sus historias de v\u00eddeo.  \n&bull; Las causas principales del audio pobre en sus historias de v\u00eddeo.  \n&bull; C\u00f3mo mejorar la iluminaci\u00f3n en sus historias de v\u00eddeo.  \n&bull; C\u00f3mo usar esquemas de iluminaci\u00f3n basados en sus necesidades espec\u00edficas.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Su v\u00eddeo puede estar perfectamente encuadrado, pero con mala luz y sonido su v\u00eddeo no ser\u00e1 efectivo. La buena luz y sonido hacen que sus v\u00eddeos sean m\u00e1s profesionales, y los hace m\u00e1s proclives a ser compartidos por otros. Posibilitan que la informaci\u00f3n en su v\u00eddeo sea comprensible.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![](2.png)  \nConozca las capacidades de su dispositivo m\u00f3vil. Cada dispositivo m\u00f3vil tiene sus propias ventajas y problemas. Experimente con \u00e9l para comprender c\u00f3mo conseguir los mejores resultados.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "# Sonido \nSin un buen sonido sus im\u00e1genes (a priori) s\u00f3lo est\u00e1n contando la mitad de la historia. Mejorar la calidad del sonido en su v\u00eddeo es una de las maneras m\u00e1s r\u00e1pidas de mejorar la calidad de su grabaci\u00f3n de v\u00eddeo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "### Sonido natural", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "3.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "C\u00f3mo usar su mano para mejorar el audio en una situaci\u00f3n ventosa.", 
+            "exampleMediaPath": "3.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Si hace viento, su sonido no ser\u00e1 audible. Apunte su c\u00e1mara en sentido opuesto al  del viento, y/o proteja su micr\u00f3fono. Proteja el micr\u00f3fono con su mano o con un cart\u00f3n bloqueando la procedencia del viento. Utilizar un parapeto natural como un muro, es efectivo en algunas situaciones.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "### Personas/multitudes", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "4.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo de c\u00f3mo grabar adecuadamente a un sujeto en una multitud.", 
+            "exampleMediaPath": "4.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Las multitudes y calles repletas hacen un mont\u00f3n de ruido. Eso puede hacer inaudible el sonido que desee captar. No grabe entrevistas con grandes multitudes de fondo. Si no puede ir a una ubicaci\u00f3n mejor, apunte su c\u00e1mara fuera de la multitud y sit\u00fae a su sujeto de cara a la multitud.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "### M\u00e1quinas", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "5.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo de ruido de maquinaria en una grabaci\u00f3n de v\u00eddeo.", 
+            "exampleMediaPath": "5.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Generadores, aires acondicionados, refrigeradores, y luces fluorescentes son todas m\u00e1quinas que crean molestas distracciones sonoras. Apague las m\u00e1quinas si es posible, o cambie de localizaci\u00f3n si puede. El ruido de la iluminaci\u00f3n fluorescente normalmente es inevitable.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "### Ac\u00fastica", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "6.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Ejemplo de mal audio con un eco causado por un pasillo.", 
+            "exampleMediaPath": "6.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Tenga en cuenta la ac\u00fastica de la habitaci\u00f3n, o c\u00f3mo rebota el sonido en los muros. Los lugares como cuartos de ba\u00f1o alicatados o pasillos tienden a reflejar el sonido y producir\u00e1n un echo indeseado. Las habitaciones con materiales absorventes del sonido en ellas como alfombras, cortinas, o muebles ligeros son mucho mejores.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "### Auriculares como micr\u00f3fonos", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "7.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "C\u00f3mo usar unos auriculares con micr\u00f3fono como \u00eddem.", 
+            "exampleMediaPath": "7.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_5"
+        }, 
+        {
+            "text": "Si su dipositivo m\u00f3vil/celular funciona con unos auriculares con micr\u00f3fono para las llamadas de voz, puede que est\u00e9 de suerte. El micr\u00f3fono de sus auriculares puede funcionar como un micr\u00f3fono enchufable al grabar el v\u00eddeo. Pru\u00e9belo antes de intentar usarlo, puede ser una forma efectiva de capturar un mejor audio para las entrevistas.\nSi esto no funciona sin m\u00e1s, considere descargar la aplicaci\u00f3n Open Camera y configurarla como su aplicaci\u00f3n de c\u00e1mara por defecto.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "text": "# Luz", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_14"
+        }, 
+        {
+            "text": "### Grabar en exteriores", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_15"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "8.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Iluminar adecuadamente a un sujeto.", 
+            "exampleMediaPath": "8.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_6"
+        }, 
+        {
+            "text": "&bull; Grabar en exteriores durante las horas de luz es la forma m\u00e1s f\u00e1cil de asegurarse el \u00e9xito (en cuanto a iluminaci\u00f3n, ojo). Incluso en los d\u00edas cubiertos es una buena elecci\u00f3n para conseguir una buena luz.  \n&bull; Grabe a su sujeto con la fuente de luz incidiendo directamente sobre \u00e9l. Cuando la fuente de luz est\u00e9 directamente detr\u00e1s de su sujeto, este se mostrar\u00e1 demasiado oscuro y ser\u00e1 dif\u00edcil de ver. Esta t\u00e9cnica se puede usar para ocultar la identidad de un sujeto, al evitar que la c\u00e1mara grabe su cara (no es seguro, la c\u00e1mara podr\u00eda estar grabando su cara aunque pueda no notarse a simple vista).", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_16"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "9.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "C\u00f3mo usar la luz natural para iluminar adecuadamente a un sujeto.", 
+            "exampleMediaPath": "9.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_7"
+        }, 
+        {
+            "text": "### Grabando en interiores", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_17"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "10.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "Oscurecer la cara de un sujeto.", 
+            "exampleMediaPath": "10.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_8"
+        }, 
+        {
+            "text": "Si est\u00e1 haciendo tomas de interior, trate de encontrar una habitaci\u00f3n con mucha luz natural para producir buenos resultados. Si\u00e9ntese con su espalda frente a la ventana y siente a su entrevistado de cara a la fuente de luz para que la luz del sol ilumine su cara. Si le sienta con su espalda hacia la ventana y realiza la toma hacia la fuente de luz, la c\u00e1mara tomar\u00e1 su lectura de la parte m\u00e1s brillante del cuadro y cerrar\u00e1 el diafragma en consonancia para no sobreexponer la toma. Esto resultar\u00e1 en que su entrevistado se convertir\u00e1 en una silueta en la imagen, \u00a1una t\u00e9cnica sencilla si quiere que la identidad de sus entrevistados sea ocultada (no es segura, la c\u00e1mara podr\u00eda estar grabando su cara aunque pueda no notarse a simple vista), pero no si quiere que sean vistos!", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_18"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "11.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "C\u00f3mo preparar una toma para oscurecer la cara de un sujeto.", 
+            "exampleMediaPath": "11.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_9"
+        }, 
+        {
+            "text": "### Luz indirecta", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_19"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "12.mp4", 
+                    "media_caption": "\u00a9 Small World News 2012"
+                }
+            ], 
+            "header": "C\u00f3mo usar un reflector en exteriores.", 
+            "exampleMediaPath": "12.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_10"
+        }, 
+        {
+            "text": "Puede usar cualquier cosa blanca \u2014 papel, cartulina \u2014 o cualquier cosa que refleje la luz para hacer que incida de forma indirecta sobre su sujeto. La luz baja puede producir tomas pobres. Realizar tomas de exteriores o en una habitaci\u00f3n soleada puede darle una luz estupenda. ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_20"
+        }, 
+        {
+            "text": "![](13.png)  \n#### Iluminar a un sujeto en interior  \nLas luces a 1 metro de distancia son m\u00e1s favorecedoras.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_21"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n### Sonido \n&bull; El sonido siempre debe ser una consideraci\u00f3n al grabar tomas.  \n&bull; Si su sonido no es utilizable, es posible eliminar el sonido y reemplazarlo con un sonido distinto o ning\u00fan sonido en absoluto.  \n&bull; El sonido es (a priori) la mitad de la informaci\u00f3n en un v\u00eddeo; consid\u00e9relo en cada toma.  \n#### Luz \n&bull; Grabar tomas en exteriores o en una habitaci\u00f3n soleada puede darle mucha luz.  \n&bull; La luz baja puede producir fotos pobres.  \n&bull; Aseg\u00farese de que la luz brilla sobre sus sujetos; los sujetos retroiluminados aparecen como siluetas.  \n&bull; Las luces aproximadamente a 1 metro de distancia son m\u00e1s favorecedoras.  \n&bull; \u00a1No se queme \u2013 lleve guantes para manejar las luces!", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_22"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Sin un buen sonido sus im\u00e1genes", 
+            "choices": [
+                {
+                    "text": "son mejores.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "s\u00f3lo est\u00e1n contando la mitad de la historia.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "son confusos.", 
+                    "id": "answer_3"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfD\u00f3nde es m\u00e1s probable que vaya a tener la mejor luz?", 
+            "choices": [
+                {
+                    "text": "Interiores, a la luz del d\u00eda.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Exteriores, a la luz del d\u00eda.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Interiores de noche.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Exteriores, por la noche.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfQu\u00e9 puede usar para proteger su micr\u00f3fono?", 
+            "choices": [
+                {
+                    "text": "Su mano.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Un cart\u00f3n.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Un parapeto natural contra el viento, como un muro.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Todo lo anterior.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfD\u00f3nde deber\u00eda estar la fuente de luz al grabar?", 
+            "choices": [
+                {
+                    "text": "Directamente sobre el sujeto.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Junto al sujeto.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "En ning\u00fan sitio cercano al sujeto.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Directamente detr\u00e1s del sujeto.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "getting_good_sound_and_light", 
+    "title": "Conseguir un buen sonido y una buena iluminaci\u00f3n"
+}

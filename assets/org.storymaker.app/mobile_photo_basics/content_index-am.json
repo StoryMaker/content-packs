@@ -1,0 +1,68 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/1_know_your_mobile/know_your_mobile_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "am", 
+    "title": "\u121e\u1263\u12ed\u120d \u1235\u120d\u12ad\u12ce\u1295 \u12ed\u12c8\u1241"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/2_compose_with_a_grid/compose_with_a_grid_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "am", 
+    "title": "\u1218\u1235\u1218\u122e\u127d\u1295 \u1260\u1218\u1320\u1240\u121d \u12a0\u1240\u1293\u1265\u122d"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/2_compose_with_a_grid_activity/compose_with_a_grid_activity_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "am", 
+    "title": "\u1218\u1235\u1218\u122e\u127d\u1295 \u1260\u1218\u1320\u1240\u121d \u121b\u1240\u1293\u1260\u122d \u1218\u120d\u1218\u1303"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/3_create_layers/create_layers_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "am", 
+    "title": "\u1208\u12e8\u122e\u127d\u1295 \u134d\u1320\u122d "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/3_create_layers_activity/create_layers_activity_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "am", 
+    "title": "\u12e8\u120c\u12e8\u122e\u127d \u12a0\u1348\u1323\u1320\u122d \u1218\u120d\u1218\u1303 "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/4_capture_peak_action/capture_peak_action_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "am", 
+    "title": "\u1270\u130d\u1263\u122d \u12e8\u121a\u12eb\u12ed\u120d\u1260\u1275\u1295 \u1245\u133d\u1260\u1275 \u1260\u134e\u1276 \u12a0\u1235\u1240\u122d"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/4_capture_peak_action_activity/capture_peak_action_activity_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "am", 
+    "title": "\u1270\u130d\u1263\u122d \u12a5\u1305\u130d \u12e8\u121a\u12eb\u12ed\u120d\u1260\u1275\u1295 \u12a5\u1295\u1245\u1235\u1243\u1234\u1295 \u1260\u134e\u1276 \u12a0\u1235\u1240\u122d"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/5_shoot_on_an_angle/shoot_on_an_angle_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "am", 
+    "title": "\u12a8\u1270\u1208\u12e8 \u12a0\u1295\u130d\u120d \u12a0\u1295\u1233"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/5_shoot_on_an_angle_activity/shoot_on_an_angle_activity_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "am", 
+    "title": "\u12a8\u1270\u1208\u12e8 \u12a0\u1295\u130d\u120d \u121b\u1295\u1233\u1275 \u1218\u120d\u1218\u1303  "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/6_control_light/control_light_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "am", 
+    "title": "\u1265\u122d\u1203\u1295 \u1270\u1246\u1323\u1320\u122d"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/mobile_photo_basics/6_control_light_activity/control_light_activity_library.json", 
+    "thumbnailPath": "org.storymaker.app/mobile_photo_basics/cover.png", 
+    "language": "am", 
+    "title": "\u1265\u122d\u1203\u1295 \u1218\u1246\u1323\u1320\u122d \u1218\u120d\u1218\u1303 "
+  }
+]

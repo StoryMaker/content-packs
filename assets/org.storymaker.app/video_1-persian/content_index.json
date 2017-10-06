@@ -1,0 +1,26 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-persian/1_introduction_to_video/introduction_to_video_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-persian/cover.png", 
+    "language": "en", 
+    "title": "Introduction to Video"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-persian/2_video_basics/video_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-persian/cover.png", 
+    "language": "en", 
+    "title": "Video Basics"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-persian/3_getting_good_sound_and_light/getting_good_sound_and_light_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-persian/cover.png", 
+    "language": "en", 
+    "title": "Getting Good Sound and Light"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-persian/4_setting_white_balance_in_video/setting_white_balance_in_video_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-persian/cover.png", 
+    "language": "en", 
+    "title": "Setting White Balance in Video"
+  }
+]

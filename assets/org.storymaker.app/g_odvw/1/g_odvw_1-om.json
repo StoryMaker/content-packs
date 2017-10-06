@@ -1,0 +1,114 @@
+{
+    "cards": [
+        {
+            "level": "Seensa", 
+            "headline": "Hiriyaakeef gaafannoo dhiyeessi", 
+            "time": "? Minutes", 
+            "exampleMediaPath": "cover.png", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Tokkoon tokkoon keessan bilbila keessaniin, gaaffiif deebii hiriyaa keessanii wajjin geggeessaa, isa booda gaaffiif deebii innimmoo sii wajjin geggeessa.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "text": "Hiriyaakee wajjin, gaaffiiwwan kanaa gadii keessaa tokko kan wal gaafattan filadhu *Gaazexeessummaa bilbilaa wajjin muuxannoonkee maali? * Haalli adeemsa gara bakka leenjii akkami? * Hamma ammaatti kutaan leenjicharraa ati jaallatte maalidha?", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Akka hiriyaakee dhageessutti itti dhiyaachuukee mirkaneeffadhu.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "text": " Sagaleen dudduubaa jeequ baayyeen yoo jiraate, bakka haaraa barbaadi.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.png", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Fakkeenya bakka mataa", 
+            "exampleMediaPath": "2.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Gaaffiif deebiikeerratti eeggannoodhaan bakka mataa kenniif.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Yaadadhu, qaamicha gaaffii tokko gaafadhu, yoo barbaachisaa ta'e yeroo baayyee waraabuu dandeessa."
+            ], 
+            "clipType": "Character", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "Fakkii murichaa tuquudhaan kuti.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
+            "text": "Deebii secoondii 30 kan caalu filadhu.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Yeroo taatichi waan gaaffichaan wal ilaallatu hojjetu agarsiisi "
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Bakka taatee keetiif yookaan gaaffichaaf barbaachisaa ta'e agarsiisi."
+            ], 
+            "clipType": "Action", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "text": "Kaardii tokkorratti muraalee baayyee yoo waraabdeetta ta'e, maxxansuukee dura muraalee 3 filadhuu hambisii kan hafan haqi.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6"
+        }, 
+        {
+            "text": "Hin yaadda'in, muraan hundi kuusaa faayaa keessa taa'a.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7"
+        }, 
+        {
+            "text": "Ol fe'uu yeroo xumurtu, kutaatti deebi'i.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "g_odvw_1", 
+    "title": "Hiriyaakeef gaaffiif deebii dhiyeessi"
+}

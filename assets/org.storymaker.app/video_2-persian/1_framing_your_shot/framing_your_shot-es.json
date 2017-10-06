@@ -1,0 +1,163 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Encuadrar su toma", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; Una t\u00e9cnica f\u00e1cil para enfatizar el elemento m\u00e1s importante de cualquier corte de v\u00eddeo.  \n&bull; C\u00f3mo disponer la cabeza de su personaje adecuadamente en el encuadre.  \n&bull; C\u00f3mo disponer a su personaje de forma que mire en la direcci\u00f3n correcta para parecer natural.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Cuando los nuevos periodistas comienzan a realizar tomas de v\u00eddeo, a menudo llegan a frustrarse cuando los cortes que graban no reflejan las experiencias que tuvieron al realizarlas. El problema que afrontan es comprender que las c\u00e1maras ven el mundo de modo muy diferente a como lo ve un humano. Al aprender algunas reglas b\u00e1sicas, puede aprender a registrar eventos de maneras que permiten a una audiencia centrarse en los elementos espec\u00edficos que usted quiera.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![](2.png)  \n### Regla de Hitchcock  \n\"El tama\u00f1o de un objeto en el encuadre debe igualar su importantcia en la historia en ese momento.\"\n\u2014 Alfred Hitchcock", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Uno de los problemas m\u00e1s comunes para los nuevos c\u00e1maras es que su elemento m\u00e1s importante est\u00e1 perdido en el encuadre. Al asegurarse de que su objerto m\u00e1s importante llena la mayor\u00eda del encuadre (como un 50 por ciento o m\u00e1s) su audiencia ver\u00e1 exactamente lo que usted quiere que vea en su toma.\nVeamos un ejemplo. Revise esta toma y estime de qu\u00e9 cree que tratar\u00e1 la historia.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "3.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Utilizaci\u00f3n del encuadre", 
+            "exampleMediaPath": "3.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "Puede observar que probablemente va a ver una historia sobre un mercado, pero quiz\u00e1 es sobre la mujer haciendo compras. Por encima de todo, es una buena toma, pero hay unos pocos elementos compitiendo por su atenci\u00f3n.\nAhora revise esta toma, y considere cu\u00e1l es el contenido de la historia.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "media": [
+                {
+                    "media": "4.mp4", 
+                    "media_caption": null
+                }
+            ], 
+            "header": "Utilizaci\u00f3n del encuadre", 
+            "exampleMediaPath": "4.mp4", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "La manzana llena m\u00e1s del 50 por ciento de todo el encuadre, as\u00ed que la audiencia se centra en eso. Al desarrollarse la historia para discutir sobre manzanas, la audiencia entiende que esta historia trata sobre ellas. Eso hace que esta sea una toma exitosa. Ahora puede continuar con otra toma y resaltar el siguiente elemento importante en su historia.\nLa regla de Hitchcock proporciona una gran base para comenzar a hacer mejores historias de v\u00eddeo. La del espacio enfrente del sujeto y la del espacio de cabecera del encuadre son las otras dos reglas importantes que le ayudan a disponer su encuadre para apoyar su historia.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "### Espacio enfrente\n![](5.png)  \nLas tomas bien compuestas tienen espacio en la direcci\u00f3n hacia la que el sujeto mira o se mueve.  \n![](6.png)  \nEn este plano medio, el sujeto est\u00e1 a la derecha de la l\u00ednea de la regla de los tercios. \u00c9l est\u00e1 de cara al lado izquierdo del encuadre. Puede ver que la direcci\u00f3n hacia la que est\u00e1 mirando es donde est\u00e1n los restantes dos tercios del encuadre.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "Si estuviera de cara al sentido opuesto, podr\u00eda bien pedirle que cambie la direcci\u00f3n a la que mira y seguir el mismo ejemplo, o ajustar su encuadre, para que se parezca a esto:  \n![](7.png)  \nLa toma est\u00e1 encuadrada a la derecha ahora que est\u00e1 de cara al sentido opuesto. \n\nSiguiendo esta directriz se asegurar\u00e1 de que su sujeto tiene el espacio adecuado frente a \u00e9l. Tambi\u00e9n puede escuchar referirse a esta regla como \u201cespacio de mirada\u201d or \u201cespacio frontal\u201d.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "### Espacio de cabecera  \n![](8.png)  \nEl espacio de cabecera es la distancia entre la parte superior de la cabeza del sujeto y parte superior del encuadre. Es una gu\u00eda para asegurarse de que la cabeza de su sujeto no aparece demasiado alta o demasiado baja en el encuadre.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": "![](9.png)  \n![](10.png)  \nEstas tres tomas diferentes tienen todas un espacio de cabecera muy distinto. Pero en todas ellas el punto focal del sujeto descansa en la l\u00ednea superior. El espacio de cabecera es un proporci\u00f3n con la regla de los tercios y la parte superior del encuadre.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "### Regla de los tercios  \n![](11.png)  \nAl dividir su encuadre en tercios vertical y horizontalmente, la rejilla crea cuatro puntos de inter\u00e9s. Estos cuatro puntos son el lugar ideal para los elementos importantes de su historia cuando los est\u00e9 organizando en su encuadre.\nAl usar estos puntos, descompone el encuadre en tercios. El encuadre est\u00e1 entonces separado con un tercio del espacio a un lado y dos tercios al otro. Esta distribuci\u00f3n asim\u00e9trica ayuda a mover el ojo por la imagen, adem\u00e1s de en torno a ella.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Si no deja espacio enfrente, su sujeto puede que parezca que est\u00e1 hablando con alguien m\u00e1s.  \n&bull; Cuando su sujeto parezca agarrotado en el encuadre, la audiencia perder\u00e1 inter\u00e9s.  \n&bull; Si no deja un espacio de cabecera adecuado, la cabeza de su sujeto quedar\u00e1 cortada, o se situar\u00e1 demasiado baja en el encuadre. En ambos casos distrayendo la atenci\u00f3n de la audiencia.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfQu\u00e9 es el espacio enfrente del sujeto?", 
+            "choices": [
+                {
+                    "text": "Situar la parte enfrente del sujeto en la parte baja del encuadre.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "El espacio entre la parte de enfrente del sujeto y la lente de la c\u00e1mara.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Dejar espacio en el encuadre hacia la direcci\u00f3n frente al sujeto o hacia la que este se mueve.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Cu\u00e1nto espacio debe haber entre usted y la c\u00e1mara.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfQu\u00e9 es el espacio de encabezamiento?", 
+            "choices": [
+                {
+                    "text": "La distancia entre los brazos de un sujeto y el lateral del encuadre.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "El espacio entre su cabeza y la c\u00e1mara.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "El espacio donde coloca la cabeza del sujeto.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "La distancia entre la parte superior de la cabeza del sujeto y el l\u00edmite superior del encuadre.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "framing_your_shot", 
+    "title": "Encuadrar su toma"
+}

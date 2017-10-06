@@ -1,0 +1,15 @@
+{
+    "t_citizen_journalist_2_traffic_accident::clip_card_5::goals[0]": "Frage- Hat sich der zustaendige Notdienst bei Ihnen gemeldet ?",
+    "t_citizen_journalist_2_traffic_accident::clip_card_2::goals[0]": "Zeigen Sie einen Ausschnitt vom Unfall zum beispiel, zerbrochenes Glass , ausgerissenen Tuere usw.",
+    "t_citizen_journalist_2_traffic_accident::intro_card_0::headline": "Haben Sie ein Verkehrs Unfall gesehen ?  Bitte Melden !",
+    "t_citizen_journalist_2_traffic_accident::clip_card_1::goals[0]": "Zeigen Sie was gerade um den Unfallplatz herum passiert.",
+    "t_citizen_journalist_2_traffic_accident::text_card_0::text": "Als naechstes suchen Sie ein Interview mit Personen die sich in der Umgebung der Unfalllstelle aufhalten. Seien Sie aber sicher dass die Personen und  Sie an einer sicher Stelle sind befinden, bevor Sie mit dem abschnitt Ihrer Geschichte beginnen.",
+    "t_citizen_journalist_2_traffic_accident::clip_card_3::goals[0]": "Sehen Sie,  da meldet sich jemand wegen dem Unfall.",
+    "t_citizen_journalist_2_traffic_accident::text_card_1::text": "Kopiere die oberen Karten und Interview so viele du benoetigst. Versuche ein Gespraech mit den Augenzeugen und die vom Notdienst .",
+    "t_citizen_journalist_2_traffic_accident::text_card_2::text": "Machen Sie mehrere aufnahmen je nach bedarf und benoetigung, sortieren Sie ihre Clips unterhalb der Sortier Taste, danach klicken Sie auf hochladen und veroeffentlichen. ",
+    "t_citizen_journalist_2_traffic_accident::title": "Haben Sie den Verkehrs Unfall gesehen ?",
+    "t_citizen_journalist_2_traffic_accident::clip_card_4::goals[0]": "Frage- Wie soll ich den Unfall gesehen haben ?  Wie is es passiert ? ",
+    "t_citizen_journalist_2_traffic_accident::intro_card_0::level": "Anfaenger !",
+    "t_citizen_journalist_2_traffic_accident::clip_card_0::goals[0]": "Zeige mir die Unfallstelle.",
+    "t_citizen_journalist_2_traffic_accident::clip_card_2::goals[1]": "Zeige eine detalierte Nahaufnahme des Unfalls, zerbrochenes Glass, ausgerissene Tuere usw. "
+}

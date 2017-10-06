@@ -1,0 +1,17 @@
+{
+    "cards": [
+        {
+            "text": "## GI\u1edaI THI\u1ec6U B\u1ea2N TIN  \nTh\u00f4ng tin c\u00f3 t\u00e1c \u0111\u1ed9ng x\u1ea3y ra qua c\u00e2u chuy\u1ec7n, b\u1ea3n tin. D\u1eef ki\u1ec7n v\u00e0 th\u00f4ng tin t\u1ef1 b\u1ea3n th\u00e2n ch\u00fang r\u1ea5t kh\u00f3 \u0111\u01b0\u1ee3c ti\u00eau ho\u00e1, nh\u1edb ho\u1eb7c chia s\u1ebb. N\u1ebfu b\u1ea1n \u0111\u01b0a th\u00f4ng tin m\u00e0 thi\u1ebfu m\u1ed9t c\u00e2u chuy\u1ec7n, nh\u1eefng g\u00ec b\u1ea1n \u0111\u01b0a ra l\u00e0m cho kh\u00e1n gi\u1ea3 kh\u00f3 hi\u1ec3u v\u00e0 do v\u1eady kh\u00f4ng t\u00e1c \u0111\u1ed9ng \u0111\u1ebfn kh\u00e1n gi\u1ea3. B\u00e1o ch\u00ed h\u1ea5p d\u1eabn chi\u1ebfm c\u1ea3 tr\u00e1i tim v\u00e0 t\u00e2m tr\u00ed th\u00f4ng qua c\u00e1ch k\u1ec3 chuy\u1ec7n l\u00f4i cu\u1ed1n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Trong ph\u1ea7n n\u00e0y ch\u00fang t\u00f4i s\u1ebd gi\u1edbi thi\u1ec7u b\u1ea1n nh\u1eefng th\u00e0nh t\u1ed1 c\u01a1 b\u1ea3n c\u1ee7a vi\u1ec7c k\u1ec3 m\u1ed9t c\u00e2u chuy\u1ec7n l\u00f4i cu\u1ed1n. N\u1ebfu c\u00e2u chuy\u1ec7n c\u1ee7a b\u1ea1n c\u00f3 nh\u1eefng b\u01b0\u1edbc nh\u01b0 th\u1ebf, s\u1eafp x\u1ebfp \u0111\u00fang c\u00e1ch, b\u1ea1n s\u1ebd c\u00f3 m\u1ed9t b\u1ea3n tin \u0111\u1ea7y t\u00e1c \u0111\u1ed9ng bi\u1ec3u hi\u1ec7n c\u00e1ch vi\u1ebft b\u00e1o l\u00f4i cu\u1ed1n.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "introduction_to_story", 
+    "title": "Gi\u1edbi thi\u1ec7u v\u1ec1 B\u1ea3n tin"
+}

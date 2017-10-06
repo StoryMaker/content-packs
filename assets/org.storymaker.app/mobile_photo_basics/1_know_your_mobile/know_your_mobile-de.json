@@ -1,0 +1,193 @@
+{
+    "cards": [
+        {
+            "text": "Inhalts Uebersicht", 
+            "link": "toc::intro_card_0", 
+            "id": "link_card_0", 
+            "type": "LinkCard"
+        }, 
+        {
+            "level": "Einfuehrung !", 
+            "headline": "Investiere Zeit in dein Handy", 
+            "time": "3-5 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Fotos koennen sehr beeindruckend wirken. In dieser Lektuere lernst du die Basis Kamera funktionen deines Handys kennen, desweiteren den Rest dieses Packets. ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "header": "Weiter", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "milestone_start", 
+            "text": "Los Geht's "
+        }, 
+        {
+            "text": "Die Kamera deines Handy sieht die Welt etwas anders als die deiner Augen. Um tolle Fotos zu erbringen muessen Sie die Technik verstehen. Deshalb ist  es grundlegend wichtig wie die Kamera in Ihrem Handy funktioniert. ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Ueberpruefe deine Kamerafunktion, ganz besonders die Schaerfeneinstellung und die Belichtung.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Die Kameras heutzutage besitzen die Funtion Fokus und Belichtung Eintellungen.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Dein Auge fokusiert sich recht schnell an einem spezifischen Gegenstand das in dir, Interesse in deinem Umfeld erweckt hat. Anders ist es aber mit der digitalen Kamera, sie braucht denoch Anweisungen worauf es fokusieren soll. Speziell bei niedrigem Lichtverhaeltnis braucht dann die Kamera schon etwas laenger zum fokusieren. ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Beruehre an irgend eine Flaeche an der Kamera Oberflaeche und genau an dieser Stelle  wird die  Kamera Software  den Fokus setzen.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "4.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Falls Ihre Kamera die Belichtungsfunktion besitzt, experimentieren Sie  wie die sich die Belichtung aendert.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "4.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Wenn das Motiv zu dunkel erscheint, beruehren Sie einfach an einer helleren Stelle nahe Ihrem Motiv, um einen besseren Ausgleich  zwischen Fokus und Belichtung her zustellen. ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Die meisten Mobilfunk Telefone besitzen eine integrierte Zoom funktion, die etwas uebertreiben mit der Pixel Groesse und Verschwommenheit. Deine Bilder werden schaerfer and haben eine bessere Qualitaet wenn du dich selbst dem Motiv persoenlich naeherst. ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "5.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Fuer das obere Bild wurde der Digitale Fokus genutzt. Waehrend man im unteren Bild erkennt das sich der Fotograf selbst dem Motiv naehert.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "5.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Die etwas fortgeschrittenen Funktionen auf deinem Handy helfen dir weitere moeglichkeiten zu gestalten.  Erkunde die Kamerafunktionen.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "6.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Ueberpruefe die Belichtungskorrektur, Blitz und HDR funktionen in deiner vorhandenen Software fuer deine Kamera.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "6.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "Herzlichen Glueckwunsch, Sie haben soeben Die Basics fuer Ihre Kamera kennen gelernt. Nun sind Sie bereit den naechsten Schritt der kommenden 5 Lektionen fort zufuehren. Jede Lektuere ist genauso wie die hier gestaltet sie bedeckt die Basis Erfahrungen. ", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Weitere Themen", 
+            "link": "compose_with_a_grid::intro_card_0", 
+            "id": "link_card_1", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }
+    ], 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "know_your_mobile", 
+    "title": " Investiere Zeit in dein Handy"
+}

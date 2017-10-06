@@ -1,0 +1,193 @@
+{
+    "cards": [
+        {
+            "text": "Voir la Table des Mati\u00e8res", 
+            "link": "toc::intro_card_0", 
+            "id": "link_card_0", 
+            "type": "LinkCard"
+        }, 
+        {
+            "level": "Introduction |", 
+            "headline": "Connaisez Votre Mobile", 
+            "time": "3-5 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Les photographies sont extr\u00eamement puissantes. Cette lesson vous apprendra les bases de l'utilisation de l'appareil photo de votre t\u00e9l\u00e9phone portable. Elle introduira \u00e9galement le reste des le\u00e7ons pr\u00e9sentes dans ce pack.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "header": "Suivant", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "milestone_start", 
+            "text": "Commencer"
+        }, 
+        {
+            "text": "L'appareil photo d'un t\u00e9l\u00e9phone portable voit le monde diff\u00e9remment de vos yeux. Vous devez en comprendre les limites pour prendre de superbes photos. Il est essentiel d'apprendre comment fonctionne l'appareil photo de votre t\u00e9l\u00e9phone portable.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "2.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "V\u00e9rifiez le menu de votre appareil photo, surtout comment modifier la mise au point et l'exposition.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "2.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "Beaucoup d'applications d'appareil photo poss\u00e8dent une fonctionnalit\u00e9 pour r\u00e9gler la mise au point et l'exposition.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Vos yeux sont rapides pour faire la mise au point sur une seul chose int\u00e9ressante dans votre champ de vision. L'on doit dire \u00e0 un appareil photo sur quoi faire la mise au point, plus particuli\u00e8rement lorsque la luminosit\u00e9 est faible, et il peut \u00e9galement \u00eatre lent \u00e0 faire la mise au point.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "3.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Touchez l'\u00e9cran et l'application de votre appareil photo fera la mise au point sur ce point.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "3.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "4.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "Si votre appareil photo poss\u00e8de la fonctionnalit\u00e9 de l'exposition, testez-l\u00e0 pour voir comment la luminosit\u00e9 change.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "4.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_2"
+        }, 
+        {
+            "text": "Si votre sujet est trop fonc\u00e9, appuyez sur un point plus clair sur l'\u00e9cran, pr\u00e8s de votre sujet pour trouver un meilleur \u00e9quilibre entre l'exposition et la mise au point.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Most mobile cameras have built-in digital zoom, but it will often exaggerate pixel size and blurriness. Your pictures will be clearer and of better quality if instead you get closer to your subject.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "5.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "In the photo on the top digital zoom was used. In the photo on the bottom the photographer moved closer to the subject.", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "5.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_3"
+        }, 
+        {
+            "text": "Les fonctionnalit\u00e9s avanc\u00e9es de l'appareil photo de votre t\u00e9l\u00e9phone portable vous aident \u00e0 aller plus loin avec votre appareil photo. Baladez-vous dans le menu de l'application de l'appareil photo.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "6.jpg", 
+                    "media_caption": "\u00a9"
+                }
+            ], 
+            "header": "V\u00e9rifier la compensation de l'exposition, le flash et les caract\u00e9ristiques de l'HDR dans votre application de l'apparail photo", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "exampleMediaPath": "6.jpg", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_4"
+        }, 
+        {
+            "text": "F\u00e9licitations, vous avez apris les bases de l'utilisation de votre appareil photo. Vous \u00eates pr\u00eats \u00e0 passer aux cinq derni\u00e8res le\u00e7ons. Chaque le\u00e7on est pr\u00e9sent\u00e9e plus ou moins comme celle-ci et touche une comp\u00e9tence de base.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ]
+        }, 
+        {
+            "text": "Prochaine Le\u00e7on", 
+            "link": "compose_with_a_grid::intro_card_0", 
+            "id": "link_card_1", 
+            "references": [
+                "know_your_mobile::milestone_start::value::true"
+            ], 
+            "type": "LinkCard"
+        }
+    ], 
+    "dependencies": [
+        {
+            "dependencyId": "toc", 
+            "dependencyFile": "../0_toc/toc.json"
+        }, 
+        {
+            "dependencyId": "compose_with_a_grid", 
+            "dependencyFile": "../2_compose_with_a_grid/compose_with_a_grid.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "know_your_mobile", 
+    "title": "Connaisez Votre Mobile"
+}

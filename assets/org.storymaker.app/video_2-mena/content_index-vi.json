@@ -1,0 +1,32 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/video_2-mena/1_framing_your_shot/framing_your_shot_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_2-mena/cover.png", 
+    "language": "vi", 
+    "title": "T\u1ea1o khung cho h\u00ecnh \u1ea3nh"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_2-mena/2_videos_different_shots/videos_different_shots_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_2-mena/cover.png", 
+    "language": "vi", 
+    "title": "Nh\u1eefng c\u1ea3nh quay kh\u00e1c nhau"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_2-mena/3_sequences/sequences_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_2-mena/cover.png", 
+    "language": "vi", 
+    "title": "C\u00e1c tr\u00ecnh t\u1ef1"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_2-mena/4_organizing_your_shoot/organizing_your_shoot_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_2-mena/cover.png", 
+    "language": "vi", 
+    "title": "S\u1eafp x\u1ebfp vi\u1ec7c ghi h\u00ecnh"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_2-mena/5_content_sites/content_sites_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_2-mena/cover.png", 
+    "language": "vi", 
+    "title": "C\u00e1c trang web n\u1ed9i dung"
+  }
+]

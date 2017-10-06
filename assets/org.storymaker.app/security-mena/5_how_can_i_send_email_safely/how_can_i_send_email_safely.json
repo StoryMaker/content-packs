@@ -1,0 +1,147 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "How can I send email safely?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## In this lesson you will learn:  \n&bull; How your email can be monitored.  \n&bull; How you can use email more safely.  \n&bull; How you can maintain a measure of anonymity with email.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Email communication uses the same principles as general Internet browsing, except that each message of ours has a specific destination: another person who also connects to the Internet through his or her country\u2019s local provider.  \nsource: [Frontline Defenders](www.frontlinedefenders.org/manuals/protection)\n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![How an email can be intercepted or monitored](2.png)  \n### How an email can be intercepted or monitored  \nYour email message can be intercepted at all major routing points on its way. If you live in a country with strong legal protection of privacy, the legislation will not apply when your email reaches the ISP of the recipient in a country with different privacy laws. While your email is in transit from country A to country B, it could pass the routers of several other countries.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "![Use HTTPS instead of HTTP](3.png)  \n### Use HTTPS instead of HTTP  \nUse email that supports HTTPS secure connections.  \nAlways be sure you have a secure connection. When connecting to email services, do not connect via HTTP. Connect only via HTTPS. This to the default option in Gmail, which comes standard on most Android devices. Make sure anyone you communicate with is using HTTPS for their email.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![Do not open attachments](4.png)  \n### Do not open attachments  \nUse the \u201cview\u201d option instead. Attachments may be used to distribute viruses and compromise the security of your computer or mobile device.  \nAlways be sure you are communicating with the person you think you are. According to Frontline Defenders, \u201cIt is relatively easy to \u2018spoof\u2019 an email address. Spoofing means faking the name and email address of the sender to make it appear as a random address or that of someone you know.\u201d  \nAlways check return email addresses closely, to ensure the email comes from the correct address, mimicking email addresses is a common tool for sending malware and compromising computers and mobile devices.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![communicate between anonymous accounts](5.png)  \n### Use Alternate Browsers  \nUse a different browser for anonymous use and use it only for that. Reset the browser before and after each use (be certain to erase browsing history and remove cookies) You can also use a \u201cprivate browsing\u201d or \u201cincognito\u201d mode, which will not collect cookies and delete browsing history upon closing.  \nFor added security, connect from a different IP address when doing things anonymously. For example, use your regular accounts when at home but use your anonymous accounts only when using wireless at a cafe. Remember using the same cafe repeatedly also reduces the chance of anonymity.  \nThe only way to send email that is truly private and secure is with an encrypted email provider or an email client that enables device-side encryption. Use a device-side encryption if at all possible, and use an encryption option such as PGP that provides an open standard to ensure the encryption does what it claims.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "The Electronic Frontier Foundation\u2019s Surveillance Self Defense project provides a great introduction and overview for using encryption:  \n\n[https://ssd.eff.org/en/module/what-encryption](https://ssd.eff.org/en/module/what-encryption)  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "## THINGS TO REMEMBER  \n&bull; Only use email with HTTPS by default.  \n&bull; HTTPS assists your email to be secure, but does not ensure your email is secure.  \n&bull; Only open attachments after you verify the identity of the sender.  \n&bull; Never use your personal email on a mobile device or computer that is not yours.  \n&bull; Encrypting your email is the only way to ensure it will not be read by someone other than the receiver.  \n", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "correctRequired": 3, 
+            "correctAnswers": [
+                "answer_2", 
+                "answer_3", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "question": "Which of the following will help me read my email safely?", 
+            "id": "quiz_card_1", 
+            "choices": [
+                {
+                    "text": "Always use HTTP", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Share an email account and communicate only via \u201cdrafts\u201d", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Use an anonymous email account", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Always use HTTPS", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 4, 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_3", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "question": "Where can my email be intercepted or read?", 
+            "id": "quiz_card_2", 
+            "choices": [
+                {
+                    "text": "On my own computer", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "From my ISP", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "From the email provider", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "On the recipient\u2019s computer", 
+                    "id": "answer_4"
+                }
+            ]
+        }, 
+        {
+            "correctRequired": 1, 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "question": "What is it called when someone impersonates your email address or one of your contacts?", 
+            "id": "quiz_card_3", 
+            "choices": [
+                {
+                    "text": "Spotting", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Lying", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Spoofing", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Hacking", 
+                    "id": "answer_4"
+                }
+            ]
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "how_can_i_send_email_safely", 
+    "title": "How Can I Send Email Safely"
+}

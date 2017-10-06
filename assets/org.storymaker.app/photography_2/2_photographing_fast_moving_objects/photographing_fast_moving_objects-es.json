@@ -1,0 +1,145 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "\u00bfC\u00f3mo fotograf\u00edo objetos de movimiento r\u00e1pido?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## En esta lecci\u00f3n aprender\u00e1:  \n&bull; Por qu\u00e9 los objetos en movimiento r\u00e1pido aparecen borrosos.  \n&bull; T\u00e9cnicas para congelar la acci\u00f3n, especialmente con baja luz.  \n&bull; El uso del modo de prioridad del obturador.  \n&bull; El uso del flash.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Desde jugadores de f\u00fatbol a veh\u00edculos y participantes en una manifestaci\u00f3n, los periodistas generalmente tienen que tomar fotograf\u00edas de objetos en movimiento. La capacidad de una c\u00e1mara para congelar la acci\u00f3n est\u00e1 controlada por el obturador. Si la velocidad del obturador es demasiado lenta, no puede congelar la acci\u00f3n adecuadamente. La imagen aparecer\u00e1 borrosa porque el sensor estar\u00e1 grabando el movimiento. La velocidad del obturador se mide en fracciones de segundo. Cuanto m\u00e1s r\u00e1pida sea la acci\u00f3n, m\u00e1s veloz tendr\u00e1 que ser el obturador.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![](2.png)  \nAlgunos smartphones tienen opciones de configuraci\u00f3n que dan instrucciones a la c\u00e1mara para favorecer una velocidad de obturador m\u00e1s r\u00e1pida en la ecuaci\u00f3n de exposici\u00f3n. El icono para esto a menudo es el perfil de un hombre corriendo. Para smartphones sin esta caracter\u00edstica, hay varias cosas que puede hacer para ayudar a congelar la acci\u00f3n. Esto comienza conociendo las limitaciones de la c\u00e1mara y siendo realista acerca de sus elecciones.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "# Gestionar la luz\n![](3.jpg)  \nEl desaf\u00edo m\u00e1s com\u00fan al tratar de fotografiar objetos en movimiento es la luz inadecuada.  \n![](4.jpg)  \nNo hay suficiente luz para permitir a la c\u00e1mara exponer su foto adecuadamente y tener una velocidad de obturador suficientemente alta para congelar la acci\u00f3n. No puede hacer que la c\u00e1mara haga imposibles..  \n![](5.jpg)  \nSi sabe que necesita congelar la acci\u00f3n, planee su tarea para que haya suficiente luz. Esto puede significar elegir una hora del d\u00eda en la que haya luz solar. Esto adem\u00e1s podr\u00eda significar elegir una localizaci\u00f3n donde haya la mayor cantidad de luz posible \u2014 cerca de una farola, de la luz de un escenario, o de los faros de un coche.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![](6.png)\n# Estabilizar la c\u00e1mara  \nEl temblor de la c\u00e1mara \u2014 el movimiento de sus propias manos al sostener la c\u00e1mara \u2014 puede causar o contribuir a im\u00e1genes borrosas. Esto es cierto no s\u00f3lo al hacer tomas de objetos en movimiento r\u00e1pido. Sostenga siempre la c\u00e1mara cerca de su cuerpo, eso har\u00e1 que sea m\u00e1s f\u00e1cil estabilizarla que si sus brazos estuvieran completamente extendidos. Puede ayudar a estabilizarla que descanse el codo de la mano que la sostiene sobre su rodilla o sobre un objeto. ", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![](7.jpg)  \n# Considerar usar el Flash  \nMuchos dispositivos m\u00f3viles vienen con un flash integrado. El fogonazo de luz puede ayudarle a congelar el movimiento. La mayor\u00eda de flashes de tel\u00e9fonos s\u00f3lo son efectivos en torno a 3 metros.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![](8.jpg)  \n# Elegir su momento  \nEn muchos casos su sujeto se mover\u00e1 a velocidades variables. Los jugadores de f\u00fatbol se mueven m\u00e1s lentamente seg\u00fan se desarrolla el juego. Los coches son lentos en los cruces o dentro del tr\u00e1fico. Los manifestantes se paran por los discursos. Elija un momento en que las cosas se mover\u00e1n m\u00e1s lentamente.\n![](9.jpg)\nSi combina esto con una buena localizaci\u00f3n para la iluminaci\u00f3n, a menudo puede conseguir fotos n\u00edtidas de sujetos d\u00edf\u00edciles incluso de noche \u2014 manifestantes entonando c\u00e1nticos bajo una farola, por ejemplo.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![](10.png)  \n# Ajuste su \u00e1ngulo al movimiento  \nEl movimiento m\u00e1s dif\u00edcil para la c\u00e1mara es cuando su sujeto se mueve por el encuadre de derecha a izquierda o a la inversa. Una t\u00e9cnica com\u00fan para manejar esta situaci\u00f3n es el llamado paneo (o barrido). Apunte su c\u00e1mara y siga al sujeto seg\u00fan se mueve, girando su cuerpo si tiene que hacerlo. Esto reduce la velocidad relativa del movimiento en relaci\u00f3n a la c\u00e1mara. Tambi\u00e9n puede cambiar su \u00e1ngulo para que el sujeto se mueva m\u00e1s en perpendicular a la c\u00e1mara y menos en paralelo cruzando el encuadre. Esto permitir\u00e1 a la c\u00e1mara seguir mejor el objeto y congelar la acci\u00f3n.  \nEl sujeto de su foto siempre debe estar en foco. Recuerde gestionar las limitaciones de su equipo y las condiciones de iluminaci\u00f3n. Jugadores de f\u00fatbol, veh\u00edculos, y otros objetos en movimiento pueden variar su velocidad. Se mueven entrando y saliendo de grandes fuentes de luz. Posici\u00f3nese para conseguir su foto en el momento m\u00e1s ventajoso, cuando el sujeto est\u00e9 bien iluminado y movi\u00e9ndose comparativamente m\u00e1s lento.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## COSAS A RECORDAR  \n&bull; Identifique cu\u00e1ndo no hay luz suficiente para congelar la acci\u00f3n y haga ajustes. No se limite a disparar im\u00e1genes borrosas y esperar que una funcione.  \n&bull; Cuando sea posible, planifique una buena iluminaci\u00f3n.  \n&bull; Si su c\u00e1mara tiene un perfil 'Action' (de acci\u00f3n) para objetos en movimiento r\u00e1pido, \u00faselo.  \n&bull; Estabilice su c\u00e1mara.  \n&bull; Seleccione el mejor momento para congelar la acci\u00f3n, t\u00edpicamente cuando su sujeto se est\u00e9 moviendo m\u00e1s lentamente.  \n&bull; Use el flash.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfQu\u00e9 causa las im\u00e1genes borrosas al fotografiar objetos en movimiento r\u00e1pido?", 
+            "choices": [
+                {
+                    "text": "Demasiado larga y abierta.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Una velocidad baja del obturador.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Cambiar accidentalmente la c\u00e1mara al modo v\u00eddeo", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Una ISO (sensibilidad a la luz) demasiado alta.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Verdadero o Falso: La imagen borrosa puede estar causada por el temblor de la mano. Es importante estabilizar la c\u00e1mara al tratar de congelar la acci\u00f3n.", 
+            "choices": [
+                {
+                    "text": "Verdadero", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Falso", 
+                    "id": "answer_2"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_2"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "text": "![](11.png)", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "\u00bfC\u00f3mo podr\u00eda mejorar la nitidez de la imagen de arriba?", 
+            "choices": [
+                {
+                    "text": "Espere al momento en que el sujeto se mueva m\u00e1s lentamente.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Haga zoom para una configuraci\u00f3n m\u00e1s de estilo teleobjetivo", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Espere al momento en que el sujeto est\u00e9 m\u00e1s iluminado.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Pida al sujeto en movimiento r\u00e1pido que se saque una foto a si mismo.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "photographing_fast_moving_objects", 
+    "title": "Fotografiar objetos de movimiento r\u00e1pido"
+}

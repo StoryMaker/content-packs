@@ -1,0 +1,44 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/1_introduction_to_story/introduction_to_story_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "Introducci\u00f3n a la Historia"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/2_central_question/central_question_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "Cuesti\u00f3n central"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/3_climax/climax_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "Cl\u00edmax"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/4_resolution/resolution_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "Resoluci\u00f3n"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/5_arc/arc_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "Curva de tensi\u00f3n"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/6_deeper_meaning/deeper_meaning_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "Significado profundo"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/story-ethiopia/7_symbols/symbols_library.json", 
+    "thumbnailPath": "org.storymaker.app/story-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "S\u00edmbolos"
+  }
+]

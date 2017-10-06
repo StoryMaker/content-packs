@@ -1,0 +1,23 @@
+{
+    "title": "\u041e\u0441\u043d\u043e\u0432\u044b \u0421\u041c\u0418", 
+    "storyPathTemplateFiles": {
+        "social_media_basics": "social_media_basics.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "social_media_basics", 
+            "dependencyFile": "social_media_basics.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "social_media_basics"
+        }
+    ], 
+    "currentStoryPathFile": "social_media_basics.json", 
+    "id": "social_media_basics"
+}

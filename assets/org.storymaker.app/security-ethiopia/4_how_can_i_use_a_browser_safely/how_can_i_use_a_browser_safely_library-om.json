@@ -1,0 +1,23 @@
+{
+    "title": "Akkamittan nageenyaan iyyaafannoo fayyadama?", 
+    "storyPathTemplateFiles": {
+        "how_can_i_use_a_browser_safely": "how_can_i_use_a_browser_safely.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "how_can_i_use_a_browser_safely", 
+            "dependencyFile": "how_can_i_use_a_browser_safely.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "how_can_i_use_a_browser_safely"
+        }
+    ], 
+    "currentStoryPathFile": "how_can_i_use_a_browser_safely.json", 
+    "id": "how_can_i_use_a_browser_safely"
+}

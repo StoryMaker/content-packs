@@ -1,0 +1,230 @@
+---
+    id: compose_with_a_grid
+    title: Compose with a Grid
+    storyPathLibraryFile: compose_with_a_grid_library.json
+    dependencies:
+        -
+            dependencyId: toc
+            dependencyFile: ../0_toc/toc.json
+        -
+            dependencyId: know_your_mobile
+            dependencyFile: ../1_know_your_mobile/know_your_mobile.json
+        -
+            dependencyId: compose_with_a_grid_activity
+            dependencyFile: ../2_compose_with_a_grid_activity/compose_with_a_grid_activity.json
+        -
+            dependencyId: create_layers
+            dependencyFile: ../3_create_layers/create_layers.json
+
+    cards:
+
+        -
+            type: IntroCard
+            id: intro_card_0
+            exampleMediaPath: 1.jpg
+            headline: 'Compose with a Grid'
+            level: 'Introduction |'
+            time: '3-5 Minutes'
+
+        -
+            type: TextCard
+            text: 'Using a grid to compose photos is the most basic concept a photographer needs to understand. This lesson will teach you to look at your photo as a grid.'
+
+        -
+            type: MilestoneCard
+            id: milestone_start
+            header: Next
+            text: Start
+            icon: down
+
+        -
+            type: TextCard
+            text: 'Think of your photo as if it is made up of nine equal rectangles. Strong visuals use all the rectangles in the grid to tell the story.'
+            references:
+                - compose_with_a_grid::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'Placing the grid on this photo divides one image into nine equal rectangles.'
+            medium: photo
+            media:
+                -
+                    media: 2.jpg
+                    media_caption: ©
+            references:
+                - compose_with_a_grid::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'Most smartphones allow you to display a grid in your camera app. Use the grid when doing the activity.'
+            references:
+                - compose_with_a_grid::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'Do not place your subject in the middle with no thought to the rest of the grid.'
+            medium: photo
+            media:
+                -
+                    media: 3.jpg
+                    media_caption: ©
+            references:
+                - compose_with_a_grid::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'The grid is intended to do more than center your photos. Let’s look at how the lines of the grid help us compose better photos.'
+            references:
+                - compose_with_a_grid::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'This line defines the bottom third of the frame.'
+            medium: photo
+            media:
+                -
+                    media: 4.jpg
+                    media_caption: ©
+            references:
+                - compose_with_a_grid::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'If the photo is a landscape, this line is often used to establish the horizon in a grid.'
+            references:
+                - compose_with_a_grid::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'This line defines the top third of the frame.'
+            medium: photo
+            media:
+                -
+                    media: 5.jpg
+                    media_caption: ©
+            references:
+                - compose_with_a_grid::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'If the photo is a portrait, the subject''s eyes are usually placed on the top horizontal line. As you practice this more you may find that sometimes the bottom line works better.'
+            references:
+                - compose_with_a_grid::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'The grid allows you to arrange complex images in a single frame.'
+            medium: photo
+            media:
+                -
+                    media: 6.jpg
+                    media_caption: ©
+            references:
+                - compose_with_a_grid::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'To use a grid most effectively, the vertical and horizontal lines should work together to define the frame.'
+            references:
+                - compose_with_a_grid::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'Clearly define the edges of your frame. Try to have important shapes complete within the frame.'
+            references:
+                - compose_with_a_grid::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'In this photo the important elements complete within the frame.'
+            medium: photo
+            media:
+                -
+                    media: 7.jpg
+                    media_caption: ©
+            references:
+                - compose_with_a_grid::milestone_start::value::true
+
+        -
+            type: TextCard
+            text: 'Remember to fill the entire frame with visual information. Use the grid to organize that information and create more compelling photos.'
+            references:
+                - compose_with_a_grid::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'Here the grid organizes the visual information in a compelling way.'
+            medium: photo
+            media:
+                -
+                    media: 1.jpg
+                    media_caption: ©
+            references:
+                - compose_with_a_grid::milestone_start::value::true
+
+        -
+            type: MilestoneCard
+            id: milestone_examples_start
+            header: Next
+            text: See More Examples
+            icon: down
+            references:
+                - compose_with_a_grid::milestone_start::value::true
+
+        -
+            type: PreviewCard
+            title: 'Example 1'
+            medium: photo
+            media:
+                -
+                    media: example_1.jpg
+                    media_caption: ©
+            references:
+                - compose_with_a_grid::milestone_examples_start::value::true
+        -
+            type: PreviewCard
+            title: 'Example 2'
+            medium: photo
+            media:
+                -
+                    media: example_2.jpg
+                    media_caption: ©
+            references:
+                - compose_with_a_grid::milestone_examples_start::value::true
+        -
+            type: PreviewCard
+            title: 'Example 3'
+            medium: photo
+            media:
+                -
+                    media: example_3.jpg
+                    media_caption: ©
+            references:
+                - compose_with_a_grid::milestone_examples_start::value::true
+
+        -
+            type: TextCard
+            text: 'Congratulations, you''ve learned the basic steps to compose photos with a grid. Practice your new skill in the activity below.'
+            references:
+                - compose_with_a_grid::milestone_start::value::true
+
+        -
+            type: LinkCard
+            text: 'Do the Activity'
+            link: compose_with_a_grid_activity::intro_card_0
+            references:
+                - compose_with_a_grid::milestone_start::value::true
+
+        -
+            type: LinkCard
+            text: 'Next Lesson'
+            link: create_layers::intro_card_0
+            references:
+                - compose_with_a_grid::milestone_start::value::true
+
+        -
+            type: LinkCard
+            text: 'Previous Lesson'
+            link: know_your_mobile::intro_card_0
+            references:
+                - compose_with_a_grid::milestone_start::value::true

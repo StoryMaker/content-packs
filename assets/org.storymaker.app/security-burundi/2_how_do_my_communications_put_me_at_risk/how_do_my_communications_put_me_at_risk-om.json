@@ -1,0 +1,260 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Akkamitti komminikeeshiniin dijitaalaa rakkoo keessa na galcha?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Kutaa kana keessatti kan barattan:  \n&bull; Komminikeeshinii akkamiitu qaama biraan hordofamuu danda'a.  \n&bull; Akka komminikeeshiniin bilbilaa ittiin qaama biraan hordofamu.  \n&bull; Yeroo danda'ametti akka itti hordofamuurraa of eegan.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "Gaazexeessaa bu'aa buusu ta'uun maloota komminikeeshinii garagaraa fayyadamuu of keessatti qabata. Mala komminikeeshinii baratame fayyadamuun faana dhiisee darbuusaatiin qaama si'ii fi maddakee doorsisun fayyadamamuu danda'a. Hojii seenaa maxxansuu keessatti, faana dijitaalaa kan qaama sif maddakee doorsisu gargaaru dhiistee darbuu dandeessa.  \nWaa'ee faana dhiisanii darbuu hubachuun akka qaamni si fi maddakee doorsisu itti hin fayyadamne gochuudhaaf tarkaanfii jalqabaati.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Komminikeeshinii Elektiroonikii](2.png)  \nMalli komminikeeshinii dhaabbataan hundii faanasaanii dhiisanii darbu. Komminikeeshiniin elektirooniksii maloota guguddaa garagaraa of keessaa qabu:  \n&bull; Bilbila bilbiluu  \n&bull; Ergaa barreeffamaa (SMS / MMS)  \n&bull; Iimeelii  \n&bull; Voice over IP(VoIP) kan akka Skype yookaan Google Hangout  \n&bull; Iddoola saphaphuu sakatta'uu  \n&bull; Hojii cimda hawaasaa", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "Komminikeeshiniin elektiroonikii hundi goodaayyaa hojii wal fakkaataarraatti hundaa'u. Komminikeeshiniin nama tokkoon jalqabsiifama, cimdaa keessa naanna'ee, nama kaan bira ga'a.  \nAmalli rakkoo karaa komminikeeshinii uumamu sirna fayyadamamurrattti hunda'a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![Bilbila sochootuu hordofuu](3.png)  \n### Bilbila sochootuu hordofuu \nKommuinikeeshiniin cimdaa bilbila socho'aa sirna dhaabbataa bakka bilbilli fayyadamaa, dursaan, cimdaarratti waliindhii ta'ee taa'a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![Hordoffii iimeelii ISP fi karra biyyaatiin geggeeffamu](4.png)  \n### Hordoffii iimeelii ISP fi karra biyyaatiin geggeeffamu  \nSakatta'iinsi saphaphuu, iimeelii, VoIP, fi cimdaan komminikeeshinii hawaasaa utuu komminikeeshiniin hin jalqabin waldhiinsi cimdaa fayyadamaan uumurratti hunda'aa turan.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![Tajaajila komminikeeshinii ](5.png)  \nHamma nammi baayeen daataa fi tajaajila komminikeeshiniitiif bilbilarratti hundaa'aa deemu, komminikeeshiniin kun hundi komminikeeshinii dhaabbataarratti hundaa'a. Cimdaa hawaasaa fi iimeelii karaa kompiyuutaraa fayyadamuuf tarkaanfii fudhattuyyuu, bilbillikee ati si'a tokko jalqabsiiftee jennaan, komminikeeshinii ni fudhata.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "![Meeshaa bilbilaa](6.png)  \nYeroo komminikeeshinii elektirooniksii jalqabdu nageenya dhuunfaa fi dhokannaadhaaf fayyadamoota gaditti tarreeffaman ilaali. Kutaaleen hafan muuxannoo gaggaarii tokkoon tokkoon gosoota komminijeeshinii ibsu.  \n### Fayyadamtoota eeraman:  \n&bull; SMS: TextSecure  \n&bull; VoIP/Bilbila: OSTel / CSipSimple or Redphone  \n&bull; Komminikeeshinii dhokataa: Orbot  \n&bull; Sakatta'uu: Orweb  \n&bull; Odeessuu: ChatSecure  \n&bull; Iimeelii: K9Mail  \n&bull; Qabxii: NoteCipher  \n&bull; Iggita: KeePassDroid", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "7.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Akkamitti bilbillikoo rakkoo keessa na buusa?", 
+            "exampleMediaPath": "7.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_1"
+        }, 
+        {
+            "text": "![Bilbilaa fi Siimii](8.png)  \nBilbilaa fi siimiin kee qofti eenyummaakee ibsuu danda'u. Quunnamtiin karaa bilbilaa ati gootu kamiyyuu \u2014 bilbiluun yookaan bilbila kaasuun, ergaa gabaabaa erguun, iddoola sakatta'uun, yookaan waliindhii taatee taa'uun \u2014 odeeffannoo waa'ee bilbilaa fi siimiikeetii adda baasuu ofitti qabata.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "text": " ## Siimiin akkamitti na saaxila?\n![Gadi Fageenya Siimii](9.png)  \nSubscriber Identity Module (SIM) kaardiin odeeffannoo kennaa tajaajila bilbilaa ol kaa'a. Odeeffannoo ati guuttee kenniteef irratti hundaa'uudhaan, eenyuun akka ati taate kan inni ittiin adda baafatuudha.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_9"
+        }, 
+        {
+            "text": "## Bilbilli sacho'aankoo akkamitti na saaxiluu danda'a?\n![Fakkeenya lakkoobsa IMEI](10.png)  \nSiimiin eenyummaakee adda baasuu danda'a, garuu bilbillikee rakkoo keessa si buisa. Bilbilli hundi lakkoobsa adda baasu kan mataasaanii qabu, International Mobile Equipment Identity (IMEI) kan jedhamu. Lakkoobsi kun yeroo hunda bakki inni jiru hordofamuu danda'a.  \n IMEI bilbilakeetii ilaali(yeroo baayyee duuba baatiriitti argama) yookaan bilbilakeerraa lakkoobsa *#06# tuquun lakkoobsa addaa bilbilakee ilaali.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_10"
+        }, 
+        {
+            "text": "Kennitooti tajaajila bilbilaa yookaan mootummaan karaa siimii qofa eenyummaakee fi bakka ati jirtu baru jettee yaaduu dandeessa. Nammi baayyeen yeroo yerootti siimii jijjiiru garuu bilbila isuma duraanii fayyadamu. Kun dogogggora! Ida'amni siimii (Kan eenyummaakee adda baasu) fi lakkoobsa IMEI (bilbilakee adda baasu) eenyummaan kee akka beekamuu fi yeroo hunda bakki ati jirtu akka adda ba'u godhu.  \nBilbilikee dhaabbataadhaan taaworii bilbilaa bakka ati deemte hundaa irratti bakka ati jirtu galmeessa. Yoo hordofamuu hin barbaaddu ta'e baatiri keessaa baasi yookaan bilbilicha manatti dhiisii deemi..", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_11"
+        }, 
+        {
+            "text": "## Bilbillikoo akkamitti bakka an jiru agarsiisa?\n![Rogsadeessuu](11.png)  \nYeroo bilbillikee banamu, cimdichi bakka ati jirtu bara, taaworii bilbilaa naannookee taa'ee asattoo bilbilakee galmeessurraa rogsadeessuudhaan. Bakki ati jirtu naannoo magaalaa bakka taaworiin bilbaa baayyeen jirutti sirrii meetira yartuu keessa ta'uu danda'a garuu naannoo baadiyaatti sababa taaworiin bilbilaa baayyeen hin jirreef meetira dhibboota keessa akka ati jirtu adda baa'a. Yoo bilbila bilbilte yookaan siif bilbilame yookaan ergaa barreeffamaa fayyadamte, galmee cimdaarratti bakki ati jirtu galmaa'ee taa'a. Hubadhu kun akka itti bilbilli hojjetuudha, hordoffii miti. Cimdaan hundi asattookee rogsadeessa. Odeeffannoo kanaanarraa argataniin sitti dhufuu sababa danda'aniif kana yaadachuun barbaachisaadha!", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_12"
+        }, 
+        {
+            "text": "## Bilbillikoo kan ittiin waanti an dubbadhu hundi dhaggeeffatamu ta'uu danda''aa?\n![Dhagaa keessaa baasuudhaan wajjin mari''achuu](12.png)  \nYoo bilbilakee fayyadamaa hin jirtu ta'eyyuu, maayikii dhokataa ta'ee akka namni biraan si dhaggeeffatu gochuu danda'a. Yeroo maree iccitii mari'attu baatirii keessaa baasi (bilbilicha cufuu qofaan hin dhiisin) yookaan bilbilakkee ofirraa fageessii kaa'i.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_13"
+        }, 
+        {
+            "text": "Akka duriitti yoo fayyadamtann,, ergaan barreeffamaa fi bilbillli bilbiltu oppereetera cimdaatiin hordofamuu danda'a. Bilbilli dhaggeeffatamuu fi waraabamuu danda'a,, kan waraabamemmoo nama biraaf (seeraan yookaan seeraan ala) darbuu danda'a.   \nHordoffiirraa of eeguuf  tarkaanfilee fudhachuu qabdu hamma ta'e:  \n&bull; Siimii dursa kaffalan bitadhu, yoo danda'ame maqaa kee utuu hin galmeessin bitadhu. Qarshiidhaan bitadhu. Kaardii baankiitiin yoo bitte siimicha siin wal qabsiisuu danda'a.  \n&bull; Bilbila rakasa kan teekinooloojii gadi bu'aa qabu bitadhu, yoo barbaachusaa ta'e kan gattu.  \n&bull; Yoo waa'een hordofamuu si dhiphisa ta'e, siimii qofa hin jijjiirin; qafoosaas gati.  \n&bull; Yeroo hunda odeeffannoo eeggannoo barbaadu karaa bilbilaa erguurraa of eegi.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_14"
+        }, 
+        {
+            "text": "## WAANTOTA YAADATAMUU QABAN  \n&bull; Siimiinkee fi bilbillikee adda si baasu.  \n&bull; Bilbillikee akka ati hordofamtu gochuu danda'a.  \n&bull; Bilbillikee akka waanti ati dubbattu akka dhaggeeffatamu gochuu danda'a.  \n&bull; Siimii dabalataa kennaa tajaajila biraarraa yeroo bilbila idilee bilbiluu barbaadduuf kan jijjiiirtee fayyadamtu qabadhuu deemi. Yoo danda'ame bilbila dabalataa qabadhuu deemi.  \n&bull; Yeroo walga'ii garee geggeeffattu bilbilakee rogsadeeffamuurraa eeguuf yookaan bakki ati jirtu akka hin baramneef baatirii bilbilakee keessaa baasi yookaan bilbilicha manatti dhiisii deemi.  \n&bull; Yoo mootummaadhaanan hordofamaan jira jettee sodaatte, siimii fi bilbila fayyadamaa turte gati .  \n&bull; Haalli airplane'ii hordofamuurraa si eeguu dhiisuu danda'a; balbala duubaatiin oomishtooti bilbilakee argachuu danda'u.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_15"
+        }, 
+        {
+            "text": "## Qabiyyeen kutaa kanaa dursa pirojektii Mobile Active\u2019s now-closed Safer Mobile  fi Tibet Action Institute http://tibetaction.net quphaa'e.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_16"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "Komminikeechinii kamtu faanasaa dhiisee darba?", 
+            "choices": [
+                {
+                    "text": "Iimeelii fi SMS", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "bilbila bilbilaman", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Qabxiilee harkaan barreeffaman", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Iddoola sakatta'uu", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Bilbilli socho'aan dursaan akkamitti cimdaarratti waliindhii ta'a?", 
+            "choices": [
+                {
+                    "text": "Lakkoobsa bilbilarratti bilbiluudhaan.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Yeroo bilbilli bilbilamu qofa.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Bilbilli socho'aan yeroo hunda komminikeeshinii dhaabbataa qabatee taa'a.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Yeroo ati bilbila bilbiltu yookaan ergaa gabaabaa ergitu qofa.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 3, 
+            "question": "Karaa filatamaan bilbilaan hordofamuurraa ittiin of eegan kami?", 
+            "choices": [
+                {
+                    "text": "Siimiikoon jijjiira.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Bilbila sochootuukoo gatuu.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Baatiriin keessaa baasa.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Siimii dursa kaffalamu bitadhu.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_2", 
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Karaa bilbilakoo dhaggeeffatamuurraa akkamittan of eega?", 
+            "choices": [
+                {
+                    "text": "Siimiikoon jijjiira", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Bilbilakoon cufa.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Bilbilakoo haala airplane irran kaa'a.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Baatiriin keessaa baasa.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_4"
+        }, 
+        {
+            "correctRequired": 2, 
+            "question": "Akkamitti bilbillikoo adda ba'a?", 
+            "choices": [
+                {
+                    "text": "Galmee siimiitiin", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Lakkoobsa bilbilaatiin", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Galmee IMEI'tiin", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Taaworii bilbilaatiin", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_1", 
+                "answer_3"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_5"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "how_do_my_communications_put_me_at_risk", 
+    "title": "Komminikeeshiin koo Akkamitti Rakkoo Keessa Na Galcha"
+}

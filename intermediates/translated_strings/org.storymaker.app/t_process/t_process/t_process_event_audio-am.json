@@ -1,0 +1,16 @@
+{
+    "t_process_event_audio::clip_card_5::goals[0]": "የክስተቱን የመጨረሻ ወሳኝ ደረጃ ይቅረጹ።       ",
+    "t_process_event_audio::clip_card_0::goals[0]": "ክስተቱ ከመጀመሩ በፊት የት እንደሚካሄድ የሚያሳውቁ ድምጾችን ይቅረጹ።",
+    "t_process_event_audio::title": "የክስተት ሂደት",
+    "t_process_event_audio::text_card_0::text": "እያንዳንዱን ደረጃ አይቅረጹ። የታሪኩን አካሄድ ከመጀመሪያው እስከ መጨረሻው የሚያሳዩ ዋና ዋና ደረጃዎች ላይ ያተኩሩ።",
+    "t_process_event_audio::clip_card_8::goals[0]": "ሰዎች ክስተቱን ሲከታተሉ ወይም ለክስተቱ ምላሽ ሲሰጡ ይቅረጹ። ",
+    "t_process_event_audio::clip_card_1::goals[0]": "የክስተቱን መጀመሪያ ያስተዋውቁ።",
+    "t_process_event_audio::clip_card_1::goals[1]": "መግቢያው ላይ ይቁሙ እና የሚያልፉ ሰዎችን ድምጽ ይቅረጹ። ",
+    "t_process_event_audio::clip_card_2::goals[0]": "የክስተቱን የመጀመሪያ ወሳኝ ደረጃ ይቅረጹ።",
+    "t_process_event_audio::clip_card_1::goals[2]": "የህዝቡን ጫጫታ ክስተቱ ከሚከናወንበት ስፋራ ላይ ሆነው ይቅረጹ።",
+    "t_process_event_audio::clip_card_9::goals[0]": "ክስተቱ ሲጠናቀቅ የሚያሰማ ድምጽ ይቅረጹ። ",
+    "t_process_event_audio::clip_card_6::goals[0]": "ክስተቱን ጠቅለል አድርጎ የሚገልጽ በተለየ ሁኔታ ድራማዊ የሆነ አንድ ቅጽበት ይቅረጹ። ",
+    "t_process_event_audio::clip_card_4::goals[0]": "የክስተቱን ሦስተኛ ወሳኝ ደረጃ ይቅረጹ።",
+    "t_process_event_audio::clip_card_3::goals[0]": "የክስተቱን ሁለተኛ ወሳኝ ደረጃ ይቅረጹ።",
+    "t_process_event_audio::clip_card_7::goals[0]": "ገጸ ባህሪው በክስተቱ ዋና ተግባር ላይ ሲሳተፍ ይቅረጹት። "
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/photography_2-ethiopia/1_the_photo_essay/the_photo_essay_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "El proyecto de la fotograf\u00eda"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_2-ethiopia/2_photographing_fast_moving_objects/photographing_fast_moving_objects_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "Fotografiar objetos en movimiento"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_2-ethiopia/3_setting_white_balance/setting_white_balance_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "Configurar el balance de blancos "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_2-ethiopia/4_photographing_different_stories/photographing_different_stories_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "Fotografiando Diferentes Historias"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/photography_2-ethiopia/5_photographing_difficult_uncomfortable_situations/photographing_difficult_uncomfortable_situations_library.json", 
+    "thumbnailPath": "org.storymaker.app/photography_2-ethiopia/cover.png", 
+    "language": "es", 
+    "title": "Fotografiar situaciones dif\u00edciles e inc\u00f3modas"
+  }
+]

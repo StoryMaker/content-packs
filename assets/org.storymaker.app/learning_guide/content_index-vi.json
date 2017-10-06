@@ -1,0 +1,20 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/learning_guide/learning_guide_1/learning_guide_1_library.json", 
+    "thumbnailPath": "org.storymaker.app/learning_guide/cover.jpg", 
+    "language": "vi", 
+    "title": "H\u1ecdc nh\u1eefng Y\u1ebfu T\u1ed1 C\u0103n B\u1ea3n c\u1ee7a m\u1ed9t Ph\u00f3ng S\u1ef1"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/learning_guide/learning_guide_2/learning_guide_2_library.json", 
+    "thumbnailPath": "org.storymaker.app/learning_guide/cover.jpg", 
+    "language": "vi", 
+    "title": "B\u1ed5 sung th\u00eam chi ti\u1ebft cho c\u00e2u chuy\u1ec7n c\u1ee7a b\u1ea1n"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/learning_guide/learning_guide_3/learning_guide_3_library.json", 
+    "thumbnailPath": "org.storymaker.app/learning_guide/cover.jpg", 
+    "language": "vi", 
+    "title": "K\u1ec3 nh\u1eefng c\u00e2u chuy\u1ec7n v\u1edbi m\u1ed9t c\u00e2u h\u1ecfi trung t\u00e2m"
+  }
+]

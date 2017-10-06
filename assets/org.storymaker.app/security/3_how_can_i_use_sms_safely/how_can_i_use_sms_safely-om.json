@@ -1,0 +1,147 @@
+{
+    "cards": [
+        {
+            "medium": "photo", 
+            "media": [
+                {
+                    "media": "1.png", 
+                    "media_caption": "\u00a9 Matt Bors 2012"
+                }
+            ], 
+            "header": "Akkamittan dhaamsa gabaabaa karaa nageenyisaa eegameen erguu fi fudhachuu danda'a?", 
+            "exampleMediaPath": "1.png", 
+            "clipType": "character", 
+            "type": "ExampleCard", 
+            "id": "preview_card_0"
+        }, 
+        {
+            "text": "## Kutaa kana keessatti kan barattan:  \n&bull; Rakkoo wal quunnamtii dhaamsa gabaabaatiin mudatu.\n&bull; Dhaamsi gabaabaan akka itti qaama biraan hoogganamu\n&bull; Maloota ittiin yeroo dhaamsikoo qaama biraatiin hoogganamaa jira jettee yaaddu fayyadamtu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_0"
+        }, 
+        {
+            "text": "![Akka itti ergaa gabaabaankee qaama biraan dubbifamu](2.png)  \n### Akka itti ergaa gabaabaankee qaama biraan dubbifamu  \nErgaa gabaabaa erguun karaa baayyee mijataa ittiin dhaamsa erganiidha, garuu \"nageenya\"rratti rakkoo qaba. Ergaa gabaabaan tajaajila kennitootaan ol kaa'ama, warra taaworii tamsaasaa fayyadamuu danda'aniin ni dubbifama. Dhaamsikee bilbilakee irraa qaama galmee kennaa tajaajilaa dubbisuun eyyamameef yookaan taaworii tamsaasaatti tamsa'uuf kan galmaa'e kan dubbisuun eyyamameefiin ni dubbifama.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_1"
+        }, 
+        {
+            "text": "![Akkamitti akka dhaamsikee hin dubbifamne goota](3.png)  \n### Akkamitti akka dhaamsikee hin dubbifamne goota  \nDhaamsi gabaabaan kan kasaa'uu fi sakataa'amuu danda'uudha. Dhaamsi hin iccitaa'in qaama biraan hoogganamuun salphaadha. Yoo atiif namni ati waliin wal quunnamtu doorsifamtan, dhaamsa iccitaa'e qofa waliif erguubqabdu; bilbika hin beekamneen darbaa darbaatii waliif ergaa.  \nDhaamsa iccitaa'aa erguuf, fayyadama adda ta'e fayyadamuu qabda. Qaamni ati wajjin wal quunnamtuu fi ati fayyadama tokko fayyadamuu qabdu. Qaama wajjin wal quunnamtuuf dhaamsa karaa fayyadamichaa erguudhaan dhaamsa waliif ergituf furtuu jalqabsiisi. Furtuu erga waliin jijjiirtee booda, karaa dhaamsa icciitaa'aatiin wal quunnamuu dandeessa.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_2"
+        }, 
+        {
+            "text": "## YAADADHU: Dhaamsa iccitaa'e erguuf, fayyadama dhaamsa icciteessu fayyadamuu qabda. Fayyadamni dhaamsaa ati yeroo kaan qabdu dhaamsa iccitaa'e hin ergu.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_3"
+        }, 
+        {
+            "text": "![Nageenyaan taa'i](4.png)  \nNamaan karaa ergaa gabaabaa wal quunnamuun dura, fayyadama dhaamsa icciteessaa qabaachuusaanii adda baafadhu. Akka dhaamsisaanii yoo isaan bilbila hinbeekamneen fayyadamaa hin jiran ta'e qaama olaanaadhaan dubbifamuu danda'u beekuusaanii adda baafadhu.  \nOdeeffannoo eeggannoo barbaaddu karaa fayyadama ergaa gabaabaa hin iccitaa'inii hin ergin yoo akka mootummaan dubbisu barbaadde malee. Ergaan gabaabaan hundi tajaajila ergaa gabaabaa kennitootaan galamaa'ee taa'uudhaan mootummaadhaan ni dubbifama.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_4"
+        }, 
+        {
+            "text": "![Akka koodiitti qubee tokko](5.png)  \nKaraa salphaan ittiin rakkoo nageenya odeeffannoo hambisan qaama amanamanii wajjin wal quunnamtii koodiinii uummachuudh. Odeeffannoo bu'uuraa kan taa'aniif koodii uummadhu. Fakkeenyaaf, \"X\" rakkoo keessa jirta, \"Z\" rakkoon hin jiru. \u201cTree\u201d wal arguu dandeenyaa. \u201cBanner\u201d Kaaffee itti wal argitan.  \n Koodii siif qaama wajjin wal quunnamtuuf ta'u uummachuun ga'ee keeti.  \nNageenya dhaamsa keetii eeguuf fayyadamni qaama sadaffaan jiru garuu hamma koodii mataakeetii uummachuu hin ga'u.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_5"
+        }, 
+        {
+            "text": "![Dhaamsa Dubbifame Haqi](6.png)  \n## Dhaamsa Dubbifame Haqi  \nYeroo hunda dhaamsa gabaabaa ukaankaa 'sent' jedhu keessaa haquu qabda. Hamma haddarsa odeeffannoo kaasa'ee hamma mootummaan taateewwan rakkoon keessatti  si mudate ilaaluutti eeguu waanti gadheen hin jiru.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_6"
+        }, 
+        {
+            "text": "StoryMaker'iin akka ati  fayyadama dhaamsaa dhaabbata Open Whisper System'iin qophaa'e , [TextSecure] fayyadamtu si gorsa.(https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en).", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_7"
+        }, 
+        {
+            "text": "## WAANTOTA YAADATAMUU QABAN\n&bull; Dhaamsi gabaabaan hundi kennitoota tajaajilaatiin galmaa'uudhaan mootummadhaan dubbifamuu danda'u.  \n&bull; Yoo atiif namni ati waliin wal quunnamtu doorsifamtan, dhaamsa iccitaa'e qofa waliif erguubqabdu; bilbika hin beekamneen darbaa darbaatii waliif ergaa.    \n&bull; Fayyadama dhaamsa icciteessu yoo qabaatteyyuu, yeroo hunda bilbila dhokataa kan karaa kamiinuu eenyummaakeetiin hidhata hin qabne, kan akka galmee fi kaffaltii garagaraatiin kan wal hin qabamnetti fayyadamuu qabda.  \n&bull; Kan biraan immoo yoo fayyadamnikee shaamsakee icciteessuu hin danda'u ta'e mala koodii garagaraa qaama wajjin wal quunnamtuu faana fayyadamuu hin irraanfatin.  \n&bull; Dhaamsakee bilbilarratti tasumaa hin dhiisin. Dhaamsi gabaabaankee qaama olaanuun yoo tajaajila kennitootaan ilaalame dubbifamuu danda'a.", 
+            "type": "MarkdownCard", 
+            "id": "markdown_card_8"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Akkamittan dhaamsa gabaabaankoo akka na jalaa hin dubbifamne godha?", 
+            "choices": [
+                {
+                    "text": "Dhaamsa gabaabaa hunda bilbilakeerraa haqi.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Namni dhaamsa gabaabduu fudhate akka dubbiseen akka inni balleessu godhi.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Fayyadama dhaamsa gabaabaa iccitaa'aa fayyadami.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Bilbila dhokataa fayyadami.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_1"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Akkamittan of dhoksuudhaan karaa dhaamsa gabaabaa nama quunnamuu danda'a?", 
+            "choices": [
+                {
+                    "text": "Fayyadama dhaamsa gabaabaa iccitaa'aa fayyadami.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Bikbika dhokataa fayyadami.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Dhaamsa gabaabaa hunda bilbilakoorraa haqa.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Namni dhaamsa gabaabduu fudhate akka dubbiseen akka inni balleessu godhi.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_2"
+        }, 
+        {
+            "correctRequired": 1, 
+            "question": "Odeeffannoo an karaa dhaamsa gabaabaa namaaf ergu icciteessuu yoon hin danda'u ta'e akkamittan nageenyassaa eega?", 
+            "choices": [
+                {
+                    "text": "Bikbika dhokataa fayyadami.", 
+                    "id": "answer_1"
+                }, 
+                {
+                    "text": "Dhaamsa gabaabaa hunda bilbilakeerraa haqi.", 
+                    "id": "answer_2"
+                }, 
+                {
+                    "text": "Namni dhaamsa gabaabduu fudhate akka dubbiseen akka inni balleessu godhi.", 
+                    "id": "answer_3"
+                }, 
+                {
+                    "text": "Koodii yeroo qaamaan wal argite uummattaniin fayyadamuudhaan dhaamsa gabaabaa waliif ergaa.", 
+                    "id": "answer_4"
+                }
+            ], 
+            "correctAnswers": [
+                "answer_4"
+            ], 
+            "type": "QuizCard", 
+            "id": "quiz_card_3"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "how_can_i_use_sms_safely", 
+    "title": "Akkamittan karaa negeenya qabuun SMS fayyadama"
+}

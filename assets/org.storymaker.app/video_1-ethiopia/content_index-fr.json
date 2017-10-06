@@ -1,0 +1,26 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-ethiopia/1_introduction_to_video/introduction_to_video_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-ethiopia/cover.png", 
+    "language": "fr", 
+    "title": "Introduction \u00e0 la Vid\u00e9o"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-ethiopia/2_video_basics/video_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-ethiopia/cover.png", 
+    "language": "fr", 
+    "title": "Les bases de la vid\u00e9o"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-ethiopia/3_getting_good_sound_and_light/getting_good_sound_and_light_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-ethiopia/cover.png", 
+    "language": "fr", 
+    "title": "Avoir un bon son et un bon \u00e9clairage"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/video_1-ethiopia/4_setting_white_balance_in_video/setting_white_balance_in_video_library.json", 
+    "thumbnailPath": "org.storymaker.app/video_1-ethiopia/cover.png", 
+    "language": "fr", 
+    "title": "R\u00e9glage de la balance du blanc en vid\u00e9o"
+  }
+]

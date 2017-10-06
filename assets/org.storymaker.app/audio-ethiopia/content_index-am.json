@@ -1,0 +1,38 @@
+[
+  {
+    "instanceFilePath": "org.storymaker.app/audio-ethiopia/1_introduction_to_audio/introduction_to_audio_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-ethiopia/cover.png", 
+    "language": "am", 
+    "title": "\u12f5\u121d\u133d\u1361- \u1218\u130d\u1262\u12eb"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-ethiopia/2_audio_basics/audio_basics_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-ethiopia/cover.png", 
+    "language": "am", 
+    "title": "\u12f5\u121d\u133d\u1295 \u12e8\u121a\u1218\u1208\u12a8\u1271 \u1218\u1220\u1228\u1273\u12ca \u1290\u1325\u1266\u127d "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-ethiopia/3_preparation/preparation_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-ethiopia/cover.png", 
+    "language": "am", 
+    "title": "\u1245\u12f5\u1218 \u12dd\u130d\u1305\u1275"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-ethiopia/4_types_of_stories/types_of_stories_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-ethiopia/cover.png", 
+    "language": "am", 
+    "title": "\u12e8\u1273\u122a\u12ad \u12a0\u12ed\u1290\u1276\u127d "
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-ethiopia/5_storyboarding_recording_plan/storyboarding_recording_plan_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-ethiopia/cover.png", 
+    "language": "am", 
+    "title": "\u12e8\u1240\u1228\u133b \u12a5\u1245\u12f5 \u12e8\u1273\u122a\u12ad \u1266\u122d\u12f5 \u121b\u12d8\u130b\u1300\u1275"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/audio-ethiopia/6_recording_tips_and_techniques/recording_tips_and_techniques_library.json", 
+    "thumbnailPath": "org.storymaker.app/audio-ethiopia/cover.png", 
+    "language": "am", 
+    "title": "\u12e8\u1240\u1228\u133b \u121d\u12ad\u122e\u127d \u12a5\u1293 \u1274\u12ad\u1292\u12ae\u127d"
+  }
+]

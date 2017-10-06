@@ -1,0 +1,101 @@
+{
+    "cards": [
+        {
+            "header": "Itti aanee", 
+            "icon": "down", 
+            "type": "ButtonCard", 
+            "id": "ms_moreinfo", 
+            "text": "Waa'ee Qajoojii kanaa"
+        }, 
+        {
+            "text": "Kun qajoojii walitti fufiinsa mallattooti. Walitti fufiinsi tuuta fakkiiwwan wal fakkaatanii kan qabxii wal dorgomsiisaa ibsaniitii. Fakkiiwwan walitti fufiinsa keessaa caalmaatt wal dorgomsiisuuf haala qophiitiin wal fakkachu qabu.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0", 
+            "references": [
+                "t_photo_series_signature::ms_moreinfo::value::true"
+            ]
+        }, 
+        {
+            "text": "Haala namooti ilaalan ittiin adda baafachuu danda'an barbaadi.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Suuraa waanta dhimmicha ibsuu kaasi."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Qophii suuraa jalqabaa waanta biraadhaan irra deebi'i."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Qophicha waanta biraadhaan irra deebi'i."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_0", 
+            "tags": [
+                "series"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Akkaataa qopheessaa waanta biraadhaan irra deebi'i."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "photo", 
+            "length": "0:00", 
+            "goals": [
+                "Akkaataa qopheessaa waanta biraadhaan irra deebi'i."
+            ], 
+            "clipType": "Signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "type": "TipCard", 
+            "id": "tip_card_1", 
+            "tags": [
+                "photo"
+            ]
+        }, 
+        {
+            "medium": "photo", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }, 
+        {
+            "medium": "photo", 
+            "type": "PublishButtonCard", 
+            "id": "publish_card_1"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_photo_series_signature", 
+    "title": "Wlitti Fufiinsa - Mallattoo"
+}

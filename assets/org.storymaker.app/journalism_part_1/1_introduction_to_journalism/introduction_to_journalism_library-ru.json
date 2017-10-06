@@ -1,0 +1,23 @@
+{
+    "title": "\u0412\u0432\u0435\u0434\u0435\u043d\u0438\u0435 \u0432 \u0416\u0443\u0440\u043d\u0430\u043b\u0438\u0441\u0442\u0438\u043a\u0443", 
+    "storyPathTemplateFiles": {
+        "introduction_to_journalism": "introduction_to_journalism.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "introduction_to_journalism", 
+            "dependencyFile": "introduction_to_journalism.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "introduction_to_journalism"
+        }
+    ], 
+    "currentStoryPathFile": "introduction_to_journalism.json", 
+    "id": "introduction_to_journalism"
+}

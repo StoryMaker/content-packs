@@ -1,0 +1,23 @@
+{
+    "title": "\u041a\u0430\u043a \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u043f\u0441\u0435\u0432\u0434\u043e\u043d\u0438\u043c\u044b", 
+    "storyPathTemplateFiles": {
+        "introduction_to_journalism": "how_do_i_effectively_use_pseudonyms.json"
+    }, 
+    "dependencies": [
+        {
+            "dependencyId": "how_do_i_effectively_use_pseudonyms", 
+            "dependencyFile": "how_do_i_effectively_use_pseudonyms.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "how_do_i_effectively_use_pseudonyms"
+        }
+    ], 
+    "currentStoryPathFile": "how_do_i_effectively_use_pseudonyms.json", 
+    "id": "how_do_i_effectively_use_pseudonyms"
+}
