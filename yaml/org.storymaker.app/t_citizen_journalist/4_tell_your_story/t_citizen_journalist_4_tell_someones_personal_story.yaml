@@ -1,22 +1,22 @@
 ---
     id: t_citizen_journalist_4_tell_someones_personal_story
-    title: Tell Someone’s Personal Story!
+    title: Tell Someone's Personal Story!
     cards:
 
         -
             type: IntroCard
             exampleMediaPath: 1.jpg
-            headline: ‘Watch my personal story’
+            headline: 'Watch my personal story'
             level: 'Beginner |'
-            time: ‘3-5 Minutes'
+            time: '3-5 Minutes'
 
         -
             type: TextCard
-            text: ‘Watch My Personal Story! This guide will help you tell the personal and emotional story of a person whose story you think should be heard by the public.’
+            text: 'Watch My Personal Story! This guide will help you tell the personal and emotional story of a person whose story you think should be heard by the public.'
 
         -
             type: TextCard
-            text: 'This guide involves three scenes. You'll capture the person, their surrounding environment, and finally interview them.’
+            text: 'This guide involves three scenes. You''ll capture the person, their surrounding environment, and finally interview them.'
 
         -
             type: ClipCard
@@ -42,7 +42,7 @@
             type: ClipCard
             medium: video
             goal:
-                - 'Record the person’s face and expression.'
+                - 'Record the person's face and expression.'
             clipType: result
             length: 0:20
 
@@ -50,7 +50,7 @@
             type: ClipCard
             medium: video
             goal:
-                - 'If possible, record the person’s body elements, such as face and hands.'
+                - 'If possible, record the person's body elements, such as face and hands.'
             clipType: signature
             length: 0:20
 
@@ -88,25 +88,25 @@
 
         -
             type: TextCard
-            text: ’Now that you have introduced the person, it is time to ask some personal questions, like their hopes, dreams, tragedies, fears, has something changed their course in life, and what makes their story compelling.’
+            text: 'Now that you have introduced the person, it is time to ask some personal questions, like their hopes, dreams, tragedies, fears, has something changed their course in life, and what makes their story compelling.’
 
         -
             type: ClipCard
             medium: video
             goals:
-                - ‘Ask- What do you want to tell us about yourself?’
+                - 'Ask- What do you want to tell us about yourself?'
             clipType: character
             length: 0:45
 
         -
             type: TextCard
-            text: ’It is time for more personal questions. If they become emotional, capture a close up shot of their face, especially the eyes.’
+            text: 'It is time for more personal questions. If they become emotional, capture a close up shot of their face, especially the eyes.’
 
         -
             type: ClipCard
             medium: video
             goals:
-                - ‘Ask- What are/were your hopes and dreams?’
+                - 'Ask- What are/were your hopes and dreams?'
             clipType: character
             length: 0:45
 
@@ -114,7 +114,7 @@
             type: ClipCard
             medium: video
             goals:
-                - ‘Ask- Do you think your hopes and dreams can still happen?’
+                - 'Ask- Do you think your hopes and dreams can still happen?'
             clipType: character
             length: 0:45
 
