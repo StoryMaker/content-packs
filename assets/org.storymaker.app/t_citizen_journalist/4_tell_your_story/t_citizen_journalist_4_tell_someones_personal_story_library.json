@@ -1,0 +1,23 @@
+{
+    "dependencies": [
+        {
+            "dependencyId": "t_citizen_journalist_4_tell_someones_personal_story", 
+            "dependencyFile": "t_citizen_journalist_4_tell_someones_personal_story.json"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "title": "What's your Job?", 
+    "cards": [
+        {
+            "action": "LOAD", 
+            "type": "LoaderHeadlessCard", 
+            "id": "loader_card", 
+            "target": "t_citizen_journalist_3_my_job"
+        }
+    ], 
+    "currentStoryPathFile": "t_citizen_journalist_4_tell_someones_personal_story.json", 
+    "storyPathTemplateFiles": {
+        "t__citizen_journalist_4_tell_someones_personal_story": "t_citizen_journalist_4_tell_someones_personal_story.json"
+    }, 
+    "id": "t_citizen_journalist_4_tell_someones_personal_story_library"
+}

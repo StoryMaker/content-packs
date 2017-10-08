@@ -1,0 +1,165 @@
+{
+    "cards": [
+        {
+            "level": "Beginner |", 
+            "headline": "Watch my personal story", 
+            "time": "3-5 Minutes", 
+            "exampleMediaPath": "1.jpg", 
+            "type": "IntroCard", 
+            "id": "intro_card_0"
+        }, 
+        {
+            "text": "Watch My Personal Story! This guide will help you tell the personal and emotional story of a person whose story you think should be heard by the public.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_0"
+        }, 
+        {
+            "text": "This guide involves three scenes. You'll capture the person, their surrounding environment, and finally interview them.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:10", 
+            "goals": [
+                "Set the scene, show where the person lives."
+            ], 
+            "clipType": "place", 
+            "type": "ClipCard", 
+            "id": "clip_card_0"
+        }, 
+        {
+            "text": "Take additional shots if needed. When you have a shot of the place that you feel happy with, continue with your shots below.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Record the person around their living environment, show the whole person in your frame."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_1"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Record the person's face and expression."
+            ], 
+            "clipType": "result", 
+            "type": "ClipCard", 
+            "id": "clip_card_2"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "If possible, record the person's body elements, such as face and hands."
+            ], 
+            "clipType": "signature", 
+            "type": "ClipCard", 
+            "id": "clip_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Record another angle of the person, for example from behind, or from the side."
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_4"
+        }, 
+        {
+            "text": "Now focus on showing them in their environment and showing what their day looks like.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_3"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:20", 
+            "goals": [
+                "Show their daily routine such as; working, washing dishes, planting in the garden, walking around, being with family."
+            ], 
+            "clipType": "action", 
+            "type": "ClipCard", 
+            "id": "clip_card_5"
+        }, 
+        {
+            "text": "Now is time for the interview. Remember, this is a personal/emotional story. First, ask the person to introduce themselves to your audience.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_4"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:30", 
+            "goals": [
+                "Ask; What is your name, how old are you, where are you from, and what is/was your occupation?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_6"
+        }, 
+        {
+            "text": "Now that you have introduced the person, it is time to ask some personal questions, like their hopes, dreams, tragedies, fears, has something changed their course in life, and what makes their story compelling.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_5"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:45", 
+            "goals": [
+                "Ask- What do you want to tell us about yourself?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_7"
+        }, 
+        {
+            "text": "It is time for more personal questions. If they become emotional, capture a close up shot of their face, especially the eyes.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_6"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:45", 
+            "goals": [
+                "Ask- What are/were your hopes and dreams?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_8"
+        }, 
+        {
+            "medium": "video", 
+            "length": "0:45", 
+            "goals": [
+                "Ask- Do you think your hopes and dreams can still happen?"
+            ], 
+            "clipType": "character", 
+            "type": "ClipCard", 
+            "id": "clip_card_9"
+        }, 
+        {
+            "text": "Feel free to ask more questions, or record additional shots of the person. Consider interesting shots, such as very close up, high, or tilting the camera left or right.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_7"
+        }, 
+        {
+            "text": "When you have enough clips, you can arrange them below, by pressing the 'Order' button. You can trim individual clips, by tapping their thumbnail image.", 
+            "type": "BasicTextCard", 
+            "id": "text_card_8"
+        }, 
+        {
+            "medium": "video", 
+            "type": "ReviewCard", 
+            "id": "review_card_0"
+        }
+    ], 
+    "classPackage": "scal.io.liger.model", 
+    "id": "t_citizen_journalist_4_tell_someones_personal_story", 
+    "title": "Tell Someone's Personal Story!"
+}

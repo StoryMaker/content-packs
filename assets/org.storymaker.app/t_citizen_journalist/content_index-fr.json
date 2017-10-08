@@ -16,5 +16,11 @@
     "thumbnailPath": "org.storymaker.app/t_citizen_journalist/cover.jpg", 
     "language": "fr", 
     "title": "Quel m\u00e9tier exercez-vous ?"
+  }, 
+  {
+    "instanceFilePath": "org.storymaker.app/t_citizen_journalist/4_tell_your_story/t_citizen_journalist_4_tell_someones_personal_story_library.json", 
+    "thumbnailPath": "org.storymaker.app/t_citizen_journalist/cover.jpg", 
+    "language": "fr", 
+    "title": "What's your Job?"
   }
 ]
