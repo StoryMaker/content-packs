@@ -1,6 +1,6 @@
 ---
     id: t_citizen_journalist_4_tell_someones_personal_story_library
-    title: What's your Job?
+    title: Tell Someone's Personal Story
     classPackage: scal.io.liger.model
 
     currentStoryPathFile: t_citizen_journalist_4_tell_someones_personal_story.json
