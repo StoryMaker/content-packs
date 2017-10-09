@@ -5,7 +5,7 @@
 
     currentStoryPathFile: t_citizen_journalist_4_tell_someones_personal_story.json
     storyPathTemplateFiles:
-        t__citizen_journalist_4_tell_someones_personal_story: t_citizen_journalist_4_tell_someones_personal_story.json
+        t_citizen_journalist_4_tell_someones_personal_story: t_citizen_journalist_4_tell_someones_personal_story.json
     dependencies:
         -
             dependencyId: t_citizen_journalist_4_tell_someones_personal_story
@@ -16,4 +16,4 @@
             type: LoaderHeadlessCard
             id: loader_card
             action: LOAD
-            target: t_citizen_journalist_3_my_job
+            target: t_citizen_journalist_4_tell_someones_personal_story
