@@ -6,7 +6,7 @@
         }
     ], 
     "classPackage": "scal.io.liger.model", 
-    "title": "What's your Job?", 
+    "title": "Tell Someone's Personal Story", 
     "cards": [
         {
             "action": "LOAD", 
